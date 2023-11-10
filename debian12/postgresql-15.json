@@ -1,0 +1,14 @@
+[
+    "postgresql-15 (15.3-0+deb12u1) unstable; urgency=medium",
+    "postgresql-15 (15.2-2) unstable; urgency=medium",
+    "postgresql-15 (15.2-1) unstable; urgency=medium",
+    "postgresql-15 (15.1-1) unstable; urgency=medium",
+    "postgresql-15 (15.0-2) unstable; urgency=medium",
+    "postgresql-15 (15.0-1) unstable; urgency=medium",
+    "postgresql-15 (15~rc2-1) unstable; urgency=medium",
+    "postgresql-15 (15~rc1-1) experimental; urgency=medium",
+    "postgresql-15 (15~beta4-1) experimental; urgency=medium",
+    "postgresql-15 (15~beta3-1) experimental; urgency=medium",
+    "postgresql-15 (15~beta2-1) experimental; urgency=medium",
+    "postgresql-15 (15~beta1-1) experimental; urgency=medium"
+]
