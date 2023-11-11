@@ -1,0 +1,21 @@
+{
+    "show": {
+        "Package": "gcc-4.6",
+        "Priority": "optional",
+        "Section": "universe/devel",
+        "Installed-Size": "15.9 MB",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Version": "4.6.4-6ubuntu2",
+        "Provides": "c-compiler",
+        "Depends": "gcc-4.6-base (= 4.6.4-6ubuntu2), cpp-4.6 (= 4.6.4-6ubuntu2), binutils (>= 2.24), libgcc1 (>= 1:4.6.4-6ubuntu2), libgomp1 (>= 4.6.4-6ubuntu2), libquadmath0 (>= 4.6.4-6ubuntu2), libc6 (>= 2.14), libgmp10, libmpc3, libmpfr4 (>= 3.1.2), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-4.6-multilib, libmudflap0-4.6-dev (>= 4.6.4-6ubuntu2), gcc-4.6-doc (>= 4.6.4-1), gcc-4.6-locales (>= 4.6.4-1), libgcc1-dbg, libgomp1-dbg, libquadmath0-dbg, libmudflap0-dbg, libcloog-ppl1, libppl-c4, libppl13, binutils-gold (>= 2.24)",
+        "Download-Size": "5543 kB",
+        "Homepage": "http://gcc.gnu.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/universe amd64 Packages",
+        "Description": "GNU C compiler"
+    }
+}

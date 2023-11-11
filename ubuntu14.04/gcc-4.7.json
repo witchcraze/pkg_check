@@ -1,0 +1,22 @@
+{
+    "show": {
+        "Package": "gcc-4.7",
+        "Priority": "optional",
+        "Section": "devel",
+        "Installed-Size": "14.1 MB",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Version": "4.7.3-12ubuntu1",
+        "Provides": "c-compiler",
+        "Depends": "gcc-4.7-base (= 4.7.3-12ubuntu1), cpp-4.7 (= 4.7.3-12ubuntu1), binutils (>= 2.24), libgcc-4.7-dev (= 4.7.3-12ubuntu1), libc6 (>= 2.14), libcloog-ppl1, libgmp10, libmpc3, libmpfr4 (>= 3.1.2), libppl-c4, zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-4.7-multilib, libmudflap0-4.7-dev (>= 4.7.3-12ubuntu1), gcc-4.7-doc (>= 4.7.2-16), gcc-4.7-locales (>= 4.7.2-16), libgcc1-dbg (>= 1:4.7.3-12ubuntu1), libgomp1-dbg (>= 4.7.3-12ubuntu1), libitm1-dbg (>= 4.7.3-12ubuntu1), libquadmath0-dbg (>= 4.7.3-12ubuntu1), libmudflap0-dbg (>= 4.7.3-12ubuntu1), binutils-gold (>= 2.24)",
+        "Download-Size": "4607 kB",
+        "Homepage": "http://gcc.gnu.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/main amd64 Packages",
+        "Description": "GNU C compiler"
+    }
+}

@@ -1,20 +1,38 @@
-[
-    "dotnet7 (7.0.113-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.112-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.111-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.110-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.109-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.108-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.107-0ubuntu1~22.04.1) jammy-security; urgency=medium",
-    "dotnet7 (7.0.105-0ubuntu1~22.04.1) jammy; urgency=medium",
-    "dotnet7 (7.0.105-0ubuntu2) lunar; urgency=medium",
-    "dotnet7 (7.0.105-0ubuntu1) lunar; urgency=medium",
-    "dotnet7 (7.0.104-0ubuntu2) lunar; urgency=medium",
-    "dotnet7 (7.0.104-0ubuntu1) lunar; urgency=medium",
-    "dotnet7 (7.0.103-0ubuntu1) lunar; urgency=medium",
-    "dotnet7 (7.0.102-0ubuntu2) lunar; urgency=medium",
-    "dotnet7 (7.0.102-0ubuntu1) lunar; urgency=medium",
-    "dotnet7 (7.0.101-0ubuntu2) lunar; urgency=medium",
-    "dotnet7 (7.0.101-0ubuntu1) lunar; urgency=medium",
-    "dotnet7 (7.0.100-0ubuntu1) lunar; urgency=medium"
-]
+{
+    "show": {
+        "Package": "dotnet7",
+        "Version": "7.0.113-0ubuntu1~22.04.1",
+        "Priority": "optional",
+        "Section": "universe/devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "179 kB",
+        "Depends": "dotnet-sdk-7.0",
+        "Breaks": "dotnet6 (<< 6.0.111~)",
+        "Homepage": "https://dot.net/core",
+        "Download-Size": "28.4 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
+        "Description": "dotNET CLI tools and runtime"
+    },
+    "changelog": [
+        "dotnet7 (7.0.113-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.112-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.111-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.110-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.109-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.108-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.107-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet7 (7.0.105-0ubuntu1~22.04.1) jammy; urgency=medium",
+        "dotnet7 (7.0.105-0ubuntu2) lunar; urgency=medium",
+        "dotnet7 (7.0.105-0ubuntu1) lunar; urgency=medium",
+        "dotnet7 (7.0.104-0ubuntu2) lunar; urgency=medium",
+        "dotnet7 (7.0.104-0ubuntu1) lunar; urgency=medium",
+        "dotnet7 (7.0.103-0ubuntu1) lunar; urgency=medium",
+        "dotnet7 (7.0.102-0ubuntu2) lunar; urgency=medium",
+        "dotnet7 (7.0.102-0ubuntu1) lunar; urgency=medium",
+        "dotnet7 (7.0.101-0ubuntu2) lunar; urgency=medium",
+        "dotnet7 (7.0.101-0ubuntu1) lunar; urgency=medium",
+        "dotnet7 (7.0.100-0ubuntu1) lunar; urgency=medium"
+    ]
+}

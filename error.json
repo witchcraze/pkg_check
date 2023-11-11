@@ -1,0 +1,15 @@
+{
+    "ubuntu": {
+        "14.04": {
+            "gcc-4.6": [
+                "changelog"
+            ],
+            "gcc-4.7": [
+                "changelog"
+            ],
+            "python3": [
+                "changelog"
+            ]
+        }
+    }
+}
