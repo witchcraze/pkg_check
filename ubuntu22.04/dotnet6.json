@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet6",
-        "Version": "6.0.124-0ubuntu1~22.04.1",
+        "Version": "6.0.125-0ubuntu1~22.04.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
@@ -15,6 +15,7 @@
         "Description": "dotNET CLI tools and runtime"
     },
     "changelog": [
+        "dotnet6 (6.0.125-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.124-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.123-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.122-0ubuntu1~22.04.1) jammy-security; urgency=medium",
