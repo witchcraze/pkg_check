@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "rh-mariadb105-mariadb-server",
+        "Arch": "x86_64",
+        "Epoch": "3",
+        "Version": "10.5.16",
+        "Release": "2.el7",
+        "Size": "18 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The MariaDB server and related files",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is"
+    },
+    "list": [
+        "rh-mariadb105-mariadb-server.x86_64        3:10.5.8-1.el7         centos-sclo-rh",
+        "rh-mariadb105-mariadb-server.x86_64        3:10.5.9-2.el7         centos-sclo-rh",
+        "rh-mariadb105-mariadb-server.x86_64        3:10.5.16-2.el7        centos-sclo-rh"
+    ]
+}

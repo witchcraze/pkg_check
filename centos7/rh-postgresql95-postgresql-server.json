@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "rh-postgresql95-postgresql-server",
+        "Arch": "x86_64",
+        "Version": "9.5.14",
+        "Release": "1.el7",
+        "Size": "4.4 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "rh-postgresql95-postgresql-server.x86_64       9.5.2-2.el7        centos-sclo-rh",
+        "rh-postgresql95-postgresql-server.x86_64       9.5.4-1.el7        centos-sclo-rh",
+        "rh-postgresql95-postgresql-server.x86_64       9.5.7-2.el7        centos-sclo-rh",
+        "rh-postgresql95-postgresql-server.x86_64       9.5.9-1.el7        centos-sclo-rh",
+        "rh-postgresql95-postgresql-server.x86_64       9.5.9-4.el7        centos-sclo-rh",
+        "rh-postgresql95-postgresql-server.x86_64       9.5.14-1.el7       centos-sclo-rh"
+    ]
+}

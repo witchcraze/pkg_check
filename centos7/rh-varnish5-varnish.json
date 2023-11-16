@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-varnish5-varnish",
+        "Arch": "x86_64",
+        "Version": "5.2.1",
+        "Release": "3.sc1.el7",
+        "Size": "1.8 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "http://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "rh-varnish5-varnish.x86_64            5.1.3-5.el7                 centos-sclo-rh",
+        "rh-varnish5-varnish.x86_64            5.2.1-3.el7                 centos-sclo-rh",
+        "rh-varnish5-varnish.x86_64            5.2.1-3.sc1.el7             centos-sclo-rh"
+    ]
+}

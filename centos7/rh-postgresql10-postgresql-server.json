@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "rh-postgresql10-postgresql-server",
+        "Arch": "x86_64",
+        "Version": "10.21",
+        "Release": "1.el7",
+        "Size": "4.9 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "rh-postgresql10-postgresql-server.x86_64       10.3-2.el7         centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.5-1.el7         centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.6-1.el7         centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.12-2.el7        centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.15-1.el7        centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.17-1.el7        centos-sclo-rh",
+        "rh-postgresql10-postgresql-server.x86_64       10.21-1.el7        centos-sclo-rh"
+    ]
+}

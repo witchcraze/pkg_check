@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-python35-python",
+        "Arch": "x86_64",
+        "Version": "3.5.1",
+        "Release": "13.el7",
+        "Size": "53 k",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "rh-python35-python.x86_64              3.5.1-6.el7                centos-sclo-rh",
+        "rh-python35-python.x86_64              3.5.1-11.el7               centos-sclo-rh",
+        "rh-python35-python.x86_64              3.5.1-13.el7               centos-sclo-rh"
+    ]
+}

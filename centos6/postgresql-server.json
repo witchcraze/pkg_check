@@ -1,0 +1,41 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Version": "8.4.20",
+        "Release": "8.el6_9",
+        "Size": "3.4 M",
+        "Repo": "base",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "The postgresql-server package includes the programs needed to"
+    },
+    "list": [
+        "postgresql-server.x86_64              8.4.4-2.el6                   C6.0-base",
+        "postgresql-server.x86_64              8.4.5-1.el6_0.2               C6.0-updates",
+        "postgresql-server.x86_64              8.4.7-1.el6_0.1               C6.0-updates",
+        "postgresql-server.x86_64              8.4.7-2.el6                   C6.1-base",
+        "postgresql-server.x86_64              8.4.9-1.el6_1.1               C6.1-updates",
+        "postgresql-server.x86_64              8.4.9-1.el6_1.1               C6.2-base",
+        "postgresql-server.x86_64              8.4.11-1.el6_2                C6.2-updates",
+        "postgresql-server.x86_64              8.4.11-1.el6_2                C6.3-base",
+        "postgresql-server.x86_64              8.4.12-1.el6_2                C6.3-updates",
+        "postgresql-server.x86_64              8.4.13-1.el6_3                C6.3-updates",
+        "postgresql-server.x86_64              8.4.13-1.el6_3                C6.4-base",
+        "postgresql-server.x86_64              8.4.18-1.el6_4                C6.4-updates",
+        "postgresql-server.x86_64              8.4.18-1.el6_4                C6.5-base",
+        "postgresql-server.x86_64              8.4.20-1.el6_5                C6.5-updates",
+        "postgresql-server.x86_64              8.4.20-1.el6_5                C6.6-base",
+        "postgresql-server.x86_64              8.4.20-2.el6_6                C6.6-updates",
+        "postgresql-server.x86_64              8.4.20-2.el6_6                C6.7-base",
+        "postgresql-server.x86_64              8.4.20-3.el6_6                C6.6-updates",
+        "postgresql-server.x86_64              8.4.20-3.el6_6                C6.7-updates",
+        "postgresql-server.x86_64              8.4.20-4.el6_7                C6.7-updates",
+        "postgresql-server.x86_64              8.4.20-5.el6_7                C6.7-updates",
+        "postgresql-server.x86_64              8.4.20-6.el6                  C6.8-base",
+        "postgresql-server.x86_64              8.4.20-7.el6                  C6.9-base",
+        "postgresql-server.x86_64              8.4.20-8.el6_9                C6.9-updates",
+        "postgresql-server.x86_64              8.4.20-8.el6_9                base"
+    ]
+}

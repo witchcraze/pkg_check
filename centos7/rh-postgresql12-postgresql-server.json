@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "rh-postgresql12-postgresql-server",
+        "Arch": "x86_64",
+        "Version": "12.11",
+        "Release": "1.el7",
+        "Size": "5.4 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "rh-postgresql12-postgresql-server.x86_64       12.0-2.el7         centos-sclo-rh",
+        "rh-postgresql12-postgresql-server.x86_64       12.1-2.el7         centos-sclo-rh",
+        "rh-postgresql12-postgresql-server.x86_64       12.5-1.el7         centos-sclo-rh",
+        "rh-postgresql12-postgresql-server.x86_64       12.7-1.el7         centos-sclo-rh",
+        "rh-postgresql12-postgresql-server.x86_64       12.9-1.el7         centos-sclo-rh",
+        "rh-postgresql12-postgresql-server.x86_64       12.11-1.el7        centos-sclo-rh"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Version": "4.8.5",
+        "Release": "44.el7",
+        "Size": "16 M",
+        "Repo": "base/7/x86_64",
+        "Summary": "Various compilers (C, C++, Objective-C, Java, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 4.8."
+    },
+    "list": [
+        "gcc.x86_64                  4.8.2-16.el7                       C7.0.1406-base",
+        "gcc.x86_64                  4.8.2-16.2.el7_0                   C7.0.1406-updates",
+        "gcc.x86_64                  4.8.3-9.el7                        C7.1.1503-base",
+        "gcc.x86_64                  4.8.5-4.el7                        C7.2.1511-base",
+        "gcc.x86_64                  4.8.5-11.el7                       C7.3.1611-base",
+        "gcc.x86_64                  4.8.5-16.el7                       C7.4.1708-base",
+        "gcc.x86_64                  4.8.5-16.el7_4.1                   C7.4.1708-updates",
+        "gcc.x86_64                  4.8.5-16.el7_4.2                   C7.4.1708-updates",
+        "gcc.x86_64                  4.8.5-28.el7                       C7.5.1804-base",
+        "gcc.x86_64                  4.8.5-28.el7_5.1                   C7.5.1804-updates",
+        "gcc.x86_64                  4.8.5-36.el7                       C7.6.1810-base",
+        "gcc.x86_64                  4.8.5-36.el7_6.1                   C7.6.1810-updates",
+        "gcc.x86_64                  4.8.5-36.el7_6.2                   C7.6.1810-updates",
+        "gcc.x86_64                  4.8.5-39.el7                       C7.7.1908-base",
+        "gcc.x86_64                  4.8.5-39.el7                       C7.8.2003-base",
+        "gcc.x86_64                  4.8.5-44.el7                       base"
+    ]
+}

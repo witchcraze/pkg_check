@@ -1,0 +1,40 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Version": "9.2.24",
+        "Release": "8.el7_9",
+        "Size": "3.8 M",
+        "Repo": "updates/7/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql-server.x86_64            9.2.7-1.el7                C7.0.1406-base",
+        "postgresql-server.x86_64            9.2.7-1.el7                C7.1.1503-base",
+        "postgresql-server.x86_64            9.2.10-2.el7_1             C7.1.1503-updates",
+        "postgresql-server.x86_64            9.2.13-1.el7_1             C7.1.1503-updates",
+        "postgresql-server.x86_64            9.2.13-1.el7_1             C7.2.1511-base",
+        "postgresql-server.x86_64            9.2.14-1.el7_1             C7.1.1503-updates",
+        "postgresql-server.x86_64            9.2.14-1.el7_1             C7.2.1511-updates",
+        "postgresql-server.x86_64            9.2.15-1.el7_2             C7.2.1511-updates",
+        "postgresql-server.x86_64            9.2.18-1.el7               C7.3.1611-base",
+        "postgresql-server.x86_64            9.2.21-1.el7               C7.4.1708-base",
+        "postgresql-server.x86_64            9.2.23-1.el7_4             C7.4.1708-updates",
+        "postgresql-server.x86_64            9.2.23-3.el7_4             C7.4.1708-updates",
+        "postgresql-server.x86_64            9.2.23-3.el7_4             C7.5.1804-base",
+        "postgresql-server.x86_64            9.2.24-1.el7_5             C7.5.1804-updates",
+        "postgresql-server.x86_64            9.2.24-1.el7_5             C7.6.1810-base",
+        "postgresql-server.x86_64            9.2.24-1.el7_5             C7.7.1908-base",
+        "postgresql-server.x86_64            9.2.24-2.el7               C7.8.2003-base",
+        "postgresql-server.x86_64            9.2.24-2.el7_7             C7.7.1908-updates",
+        "postgresql-server.x86_64            9.2.24-2.el7_7             C7.8.2003-updates",
+        "postgresql-server.x86_64            9.2.24-4.el7_8             C7.8.2003-updates",
+        "postgresql-server.x86_64            9.2.24-4.el7_8             base",
+        "postgresql-server.x86_64            9.2.24-6.el7_9             updates",
+        "postgresql-server.x86_64            9.2.24-7.el7_9             updates",
+        "postgresql-server.x86_64            9.2.24-8.el7_9             updates"
+    ]
+}

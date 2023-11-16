@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Version": "4.4.7",
+        "Release": "23.el6",
+        "Size": "10 M",
+        "Repo": "base",
+        "Summary": "Various compilers (C, C++, Objective-C, Java, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions",
+        "Description": "The gcc package contains the GNU Compiler Collection version 4.4."
+    },
+    "list": [
+        "gcc.x86_64                     4.4.4-13.el6                         C6.0-base",
+        "gcc.x86_64                     4.4.5-6.el6                          C6.1-base",
+        "gcc.x86_64                     4.4.6-3.el6                          C6.2-base",
+        "gcc.x86_64                     4.4.6-4.el6                          C6.3-base",
+        "gcc.x86_64                     4.4.7-3.el6                          C6.4-base",
+        "gcc.x86_64                     4.4.7-4.el6                          C6.5-base",
+        "gcc.x86_64                     4.4.7-11.el6                         C6.6-base",
+        "gcc.x86_64                     4.4.7-16.el6                         C6.7-base",
+        "gcc.x86_64                     4.4.7-17.el6                         C6.8-base",
+        "gcc.x86_64                     4.4.7-18.el6                         C6.9-base",
+        "gcc.x86_64                     4.4.7-18.el6_9.2                     C6.9-updates",
+        "gcc.x86_64                     4.4.7-23.el6                         base"
+    ]
+}

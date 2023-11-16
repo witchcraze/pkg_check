@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "python",
+        "Arch": "x86_64",
+        "Version": "2.7.5",
+        "Release": "93.el7_9",
+        "Size": "96 k",
+        "Repo": "updates/7/x86_64",
+        "From repo": "CentOS",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "Installed Packages",
+        "python.x86_64                 2.7.5-89.el7                     @CentOS",
+        "python.x86_64                 2.7.5-16.el7                     C7.0.1406-base",
+        "python.x86_64                 2.7.5-16.el7                     C7.1.1503-base",
+        "python.x86_64                 2.7.5-18.el7_1.1                 C7.1.1503-updates",
+        "python.x86_64                 2.7.5-34.el7                     C7.2.1511-base",
+        "python.x86_64                 2.7.5-38.el7_2                   C7.2.1511-updates",
+        "python.x86_64                 2.7.5-39.el7_2                   C7.2.1511-updates",
+        "python.x86_64                 2.7.5-48.el7                     C7.3.1611-base",
+        "python.x86_64                 2.7.5-58.el7                     C7.4.1708-base",
+        "python.x86_64                 2.7.5-68.el7                     C7.5.1804-base",
+        "python.x86_64                 2.7.5-69.el7_5                   C7.5.1804-updates",
+        "python.x86_64                 2.7.5-76.el7                     C7.6.1810-base",
+        "python.x86_64                 2.7.5-77.el7_6                   C7.6.1810-updates",
+        "python.x86_64                 2.7.5-80.el7_6                   C7.6.1810-updates",
+        "python.x86_64                 2.7.5-86.el7                     C7.7.1908-base",
+        "python.x86_64                 2.7.5-88.el7                     C7.8.2003-base",
+        "python.x86_64                 2.7.5-89.el7                     base",
+        "python.x86_64                 2.7.5-90.el7                     updates",
+        "python.x86_64                 2.7.5-92.el7_9                   updates",
+        "python.x86_64                 2.7.5-93.el7_9                   updates"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "x86_64",
+        "Version": "1.8.7.374",
+        "Release": "5.el6",
+        "Size": "538 k",
+        "Repo": "base",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://www.ruby-lang.org/",
+        "License": "Ruby or GPLv2",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.x86_64                   1.8.7.299-4.el6                       C6.0-base",
+        "ruby.x86_64                   1.8.7.299-5.el6_0.1                   C6.0-updates",
+        "ruby.x86_64                   1.8.7.299-7.el6                       C6.1-base",
+        "ruby.i686                     1.8.7.299-7.el6_1.1                   C6.1-updates",
+        "ruby.x86_64                   1.8.7.299-7.el6_1.1                   C6.1-updates",
+        "ruby.x86_64                   1.8.7.352-3.el6                       C6.2-base",
+        "ruby.x86_64                   1.8.7.352-4.el6_2                     C6.2-updates",
+        "ruby.x86_64                   1.8.7.352-7.el6_2                     C6.2-updates",
+        "ruby.x86_64                   1.8.7.352-7.el6_2                     C6.3-base",
+        "ruby.x86_64                   1.8.7.352-7.el6_2                     C6.4-base",
+        "ruby.x86_64                   1.8.7.352-10.el6_4                    C6.4-updates",
+        "ruby.x86_64                   1.8.7.352-12.el6_4                    C6.4-updates",
+        "ruby.x86_64                   1.8.7.352-12.el6_4                    C6.5-base",
+        "ruby.x86_64                   1.8.7.352-13.el6                      C6.5-updates",
+        "ruby.x86_64                   1.8.7.374-2.el6                       C6.6-base",
+        "ruby.x86_64                   1.8.7.374-3.el6_6                     C6.6-updates",
+        "ruby.x86_64                   1.8.7.374-4.el6_6                     C6.6-updates",
+        "ruby.x86_64                   1.8.7.374-4.el6_6                     C6.7-base",
+        "ruby.x86_64                   1.8.7.374-4.el6_6                     C6.8-base",
+        "ruby.x86_64                   1.8.7.374-5.el6                       C6.9-base",
+        "ruby.x86_64                   1.8.7.374-5.el6                       base"
+    ]
+}

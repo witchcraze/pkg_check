@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-nodejs6-nodejs",
+        "Arch": "x86_64",
+        "Version": "6.11.3",
+        "Release": "7.el7",
+        "Size": "7.3 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "rh-nodejs6-nodejs.x86_64               6.9.1-2.el7                centos-sclo-rh",
+        "rh-nodejs6-nodejs.x86_64               6.11.3-2.el7               centos-sclo-rh",
+        "rh-nodejs6-nodejs.x86_64               6.11.3-4.el7               centos-sclo-rh",
+        "rh-nodejs6-nodejs.x86_64               6.11.3-6.el7               centos-sclo-rh",
+        "rh-nodejs6-nodejs.x86_64               6.11.3-7.el7               centos-sclo-rh"
+    ]
+}

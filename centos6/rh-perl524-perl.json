@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-perl524-perl",
+        "Arch": "x86_64",
+        "Epoch": "4",
+        "Version": "5.24.0",
+        "Release": "381.el6",
+        "Size": "6.1 M",
+        "Repo": "centos-sclo-rh",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and BSD and Public",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "rh-perl524-perl.x86_64              4:5.24.0-377.el6              centos-sclo-rh",
+        "rh-perl524-perl.x86_64              4:5.24.0-379.el6              centos-sclo-rh",
+        "rh-perl524-perl.x86_64              4:5.24.0-380.el6              centos-sclo-rh",
+        "rh-perl524-perl.x86_64              4:5.24.0-381.el6              centos-sclo-rh"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "rh-postgresql13-postgresql-server",
+        "Arch": "x86_64",
+        "Version": "13.7",
+        "Release": "1.el7",
+        "Size": "5.5 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "rh-postgresql13-postgresql-server.x86_64        13.1-1.el7        centos-sclo-rh",
+        "rh-postgresql13-postgresql-server.x86_64        13.3-1.el7        centos-sclo-rh",
+        "rh-postgresql13-postgresql-server.x86_64        13.5-1.el7        centos-sclo-rh",
+        "rh-postgresql13-postgresql-server.x86_64        13.7-1.el7        centos-sclo-rh"
+    ]
+}

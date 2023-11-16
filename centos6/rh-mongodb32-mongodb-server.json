@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "rh-mongodb32-mongodb-server",
+        "Arch": "x86_64",
+        "Version": "3.2.10",
+        "Release": "1.el6",
+        "Size": "11 M",
+        "Repo": "centos-sclo-rh",
+        "Summary": "MongoDB server, sharding server and support scripts",
+        "URL": "http://www.mongodb.org",
+        "License": "AGPLv3 and zlib and ASL 2.0",
+        "Description": "This package provides the mongo server software, mongo sharding"
+    },
+    "list": [
+        "rh-mongodb32-mongodb-server.x86_64          3.2.10-1.el6          centos-sclo-rh"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-ruby27-ruby",
+        "Arch": "x86_64",
+        "Version": "2.7.4",
+        "Release": "130.el7",
+        "Size": "79 k",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby27-ruby.x86_64                2.7.1-128.el7                centos-sclo-rh",
+        "rh-ruby27-ruby.x86_64                2.7.3-129.el7                centos-sclo-rh",
+        "rh-ruby27-ruby.x86_64                2.7.4-130.el7                centos-sclo-rh"
+    ]
+}

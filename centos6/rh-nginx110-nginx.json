@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-nginx110-nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.10.2",
+        "Release": "9.el6.1",
+        "Size": "469 k",
+        "Repo": "centos-sclo-rh",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "rh-nginx110-nginx.x86_64             1:1.10.2-2.el6               centos-sclo-rh",
+        "rh-nginx110-nginx.x86_64             1:1.10.2-8.el6               centos-sclo-rh",
+        "rh-nginx110-nginx.x86_64             1:1.10.2-8.el6.1             centos-sclo-rh",
+        "rh-nginx110-nginx.x86_64             1:1.10.2-9.el6.1             centos-sclo-rh"
+    ]
+}

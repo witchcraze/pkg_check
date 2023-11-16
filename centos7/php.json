@@ -1,0 +1,35 @@
+{
+    "info": {
+        "Name": "php",
+        "Arch": "x86_64",
+        "Version": "5.4.16",
+        "Release": "48.el7",
+        "Size": "1.4 M",
+        "Repo": "base/7/x86_64",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                 5.4.16-21.el7                       C7.0.1406-base",
+        "php.x86_64                 5.4.16-23.el7_0                     C7.0.1406-updates",
+        "php.x86_64                 5.4.16-23.el7_0.1                   C7.0.1406-updates",
+        "php.x86_64                 5.4.16-23.el7_0.3                   C7.0.1406-updates",
+        "php.x86_64                 5.4.16-23.el7_0.3                   C7.1.1503-base",
+        "php.x86_64                 5.4.16-36.el7_1                     C7.1.1503-updates",
+        "php.x86_64                 5.4.16-36.el7_1                     C7.2.1511-base",
+        "php.x86_64                 5.4.16-36.1.el7_2.1                 C7.2.1511-updates",
+        "php.x86_64                 5.4.16-36.3.el7_2                   C7.2.1511-updates",
+        "php.x86_64                 5.4.16-42.el7                       C7.3.1611-base",
+        "php.x86_64                 5.4.16-42.el7                       C7.4.1708-base",
+        "php.x86_64                 5.4.16-43.el7_4                     C7.4.1708-updates",
+        "php.x86_64                 5.4.16-43.el7_4.1                   C7.4.1708-updates",
+        "php.x86_64                 5.4.16-45.el7                       C7.5.1804-base",
+        "php.x86_64                 5.4.16-46.el7                       C7.6.1810-base",
+        "php.x86_64                 5.4.16-46.el7                       C7.7.1908-base",
+        "php.x86_64                 5.4.16-46.1.el7_7                   C7.7.1908-updates",
+        "php.x86_64                 5.4.16-48.el7                       C7.8.2003-base",
+        "php.x86_64                 5.4.16-48.el7                       base"
+    ]
+}

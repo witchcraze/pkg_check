@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-php73-php",
+        "Arch": "x86_64",
+        "Version": "7.3.33",
+        "Release": "1.el7",
+        "Size": "1.4 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "rh-php73-php.x86_64                 7.3.7-2.el7                   centos-sclo-rh",
+        "rh-php73-php.x86_64                 7.3.11-1.el7                  centos-sclo-rh",
+        "rh-php73-php.x86_64                 7.3.20-1.el7                  centos-sclo-rh",
+        "rh-php73-php.x86_64                 7.3.29-1.el7                  centos-sclo-rh",
+        "rh-php73-php.x86_64                 7.3.33-1.el7                  centos-sclo-rh"
+    ]
+}

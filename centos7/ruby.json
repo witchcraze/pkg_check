@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "x86_64",
+        "Version": "2.0.0.648",
+        "Release": "39.el7_9",
+        "Size": "73 k",
+        "Repo": "updates/7/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.x86_64                 2.0.0.353-20.el7                   C7.0.1406-base",
+        "ruby.x86_64                 2.0.0.353-22.el7_0                 C7.0.1406-updates",
+        "ruby.x86_64                 2.0.0.598-24.el7                   C7.1.1503-base",
+        "ruby.x86_64                 2.0.0.598-25.el7_1                 C7.1.1503-updates",
+        "ruby.x86_64                 2.0.0.598-25.el7_1                 C7.2.1511-base",
+        "ruby.x86_64                 2.0.0.648-29.el7                   C7.3.1611-base",
+        "ruby.x86_64                 2.0.0.648-30.el7                   C7.4.1708-base",
+        "ruby.x86_64                 2.0.0.648-33.el7_4                 C7.4.1708-updates",
+        "ruby.x86_64                 2.0.0.648-33.el7_4                 C7.5.1804-base",
+        "ruby.x86_64                 2.0.0.648-33.el7_4                 C7.6.1810-base",
+        "ruby.x86_64                 2.0.0.648-34.el7_6                 C7.6.1810-updates",
+        "ruby.x86_64                 2.0.0.648-35.el7_6                 C7.6.1810-updates",
+        "ruby.x86_64                 2.0.0.648-36.el7                   C7.7.1908-base",
+        "ruby.x86_64                 2.0.0.648-36.el7                   C7.8.2003-base",
+        "ruby.x86_64                 2.0.0.648-36.el7                   base",
+        "ruby.x86_64                 2.0.0.648-39.el7_9                 updates"
+    ]
+}

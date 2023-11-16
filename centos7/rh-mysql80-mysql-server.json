@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-mysql80-mysql-server",
+        "Arch": "x86_64",
+        "Version": "8.0.26",
+        "Release": "1.el7",
+        "Size": "26 M",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "rh-mysql80-mysql-server.x86_64            8.0.11-6.el7            centos-sclo-rh",
+        "rh-mysql80-mysql-server.x86_64            8.0.13-1.el7            centos-sclo-rh",
+        "rh-mysql80-mysql-server.x86_64            8.0.17-1.el7            centos-sclo-rh",
+        "rh-mysql80-mysql-server.x86_64            8.0.21-1.el7            centos-sclo-rh",
+        "rh-mysql80-mysql-server.x86_64            8.0.26-1.el7            centos-sclo-rh"
+    ]
+}

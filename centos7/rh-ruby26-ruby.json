@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "rh-ruby26-ruby",
+        "Arch": "x86_64",
+        "Version": "2.6.10",
+        "Release": "121.el7",
+        "Size": "79 k",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby26-ruby.x86_64               2.6.2-118.el7                 centos-sclo-rh",
+        "rh-ruby26-ruby.x86_64               2.6.7-119.el7                 centos-sclo-rh",
+        "rh-ruby26-ruby.x86_64               2.6.9-120.el7                 centos-sclo-rh",
+        "rh-ruby26-ruby.x86_64               2.6.10-121.el7                centos-sclo-rh"
+    ]
+}

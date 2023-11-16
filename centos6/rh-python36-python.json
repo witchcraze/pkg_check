@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-python36-python",
+        "Arch": "x86_64",
+        "Version": "3.6.12",
+        "Release": "1.el6",
+        "Size": "55 k",
+        "Repo": "centos-sclo-rh",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "rh-python36-python.x86_64              3.6.3-1.el6                centos-sclo-rh",
+        "rh-python36-python.x86_64              3.6.3-3.el6                centos-sclo-rh",
+        "rh-python36-python.x86_64              3.6.3-4.el6                centos-sclo-rh",
+        "rh-python36-python.x86_64              3.6.9-2.el6                centos-sclo-rh",
+        "rh-python36-python.x86_64              3.6.12-1.el6               centos-sclo-rh"
+    ]
+}
