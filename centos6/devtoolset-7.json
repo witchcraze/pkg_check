@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "devtoolset-7",
+        "Arch": "x86_64",
+        "Version": "7.1",
+        "Release": "4.el6",
+        "Size": "6.1 k",
+        "Repo": "centos-sclo-rh",
+        "Summary": "Package that installs devtoolset-7",
+        "License": "GPLv2+",
+        "Description": "This is the main package for devtoolset-7 Software Collection."
+    },
+    "list": [
+        "devtoolset-7.x86_64                   7.0-5.el6                   centos-sclo-rh",
+        "devtoolset-7.x86_64                   7.0-8.el6                   centos-sclo-rh",
+        "devtoolset-7.x86_64                   7.1-4.el6                   centos-sclo-rh"
+    ]
+}

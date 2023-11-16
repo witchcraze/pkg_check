@@ -13,8 +13,6 @@
         "Description": "Python is an interpreted, interactive, object-oriented programming"
     },
     "list": [
-        "Installed Packages",
-        "python.x86_64                 2.7.5-89.el7                     @CentOS",
         "python.x86_64                 2.7.5-16.el7                     C7.0.1406-base",
         "python.x86_64                 2.7.5-16.el7                     C7.1.1503-base",
         "python.x86_64                 2.7.5-18.el7_1.1                 C7.1.1503-updates",
