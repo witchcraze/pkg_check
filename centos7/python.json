@@ -3,8 +3,8 @@
         "Name": "python",
         "Arch": "x86_64",
         "Version": "2.7.5",
-        "Release": "93.el7_9",
-        "Size": "96 k",
+        "Release": "94.el7_9",
+        "Size": "97 k",
         "Repo": "updates/7/x86_64",
         "From repo": "CentOS",
         "Summary": "An interpreted, interactive, object-oriented programming language",
@@ -31,6 +31,7 @@
         "python.x86_64                 2.7.5-89.el7                     base",
         "python.x86_64                 2.7.5-90.el7                     updates",
         "python.x86_64                 2.7.5-92.el7_9                   updates",
-        "python.x86_64                 2.7.5-93.el7_9                   updates"
+        "python.x86_64                 2.7.5-93.el7_9                   updates",
+        "python.x86_64                 2.7.5-94.el7_9                   updates"
     ]
 }
