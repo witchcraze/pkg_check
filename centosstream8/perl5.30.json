@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.30.1",
+        "Release": "452.module_el8.4.0+646+45e06e4a",
+        "Architecture": "x86_64",
+        "Size": "82 k",
+        "Source": "perl-5.30.1-452.module_el8.4.0+646+45e06e4a.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64          4:5.30.1-452.module_el8.4.0+646+45e06e4a          appstream"
+    ]
+}

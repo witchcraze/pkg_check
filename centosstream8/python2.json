@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "python2",
+        "Version": "2.7.18",
+        "Release": "16.module_el8+739+75e8b99b",
+        "Architecture": "x86_64",
+        "Size": "111 k",
+        "Source": "python2-2.7.18-16.module_el8+739+75e8b99b.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python2.x86_64         2.7.18-4.module_el8.5.0+743+cd2f5d28            appstream",
+        "python2.x86_64         2.7.18-5.module_el8.5.0+763+a555e7f1            appstream",
+        "python2.x86_64         2.7.18-6.module_el8.5.0+772+8dae0bfd            appstream",
+        "python2.x86_64         2.7.18-7.module_el8.5.0+894+1c54b371            appstream",
+        "python2.x86_64         2.7.18-8.module_el8.6.0+940+9e7326fe            appstream",
+        "python2.x86_64         2.7.18-10.module_el8.6.0+1092+a03304bb          appstream",
+        "python2.x86_64         2.7.18-11.module_el8.7.0+1179+42dadd5f          appstream",
+        "python2.x86_64         2.7.18-12.module_el8+299+aa6e9afa               appstream",
+        "python2.x86_64         2.7.18-14.module_el8+570+db61b4f9               appstream",
+        "python2.x86_64         2.7.18-16.module_el8+739+75e8b99b               appstream"
+    ]
+}

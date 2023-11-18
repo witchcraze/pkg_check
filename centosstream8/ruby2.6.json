@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.6.10",
+        "Release": "109.module_el8.6.0+1154+d96790ac",
+        "Architecture": "x86_64",
+        "Size": "88 k",
+        "Source": "ruby-2.6.10-109.module_el8.6.0+1154+d96790ac.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686            2.6.3-106.module_el8.1.0+249+93480f15             appstream",
+        "ruby.x86_64          2.6.3-106.module_el8.1.0+249+93480f15             appstream",
+        "ruby.i686            2.6.7-107.module_el8.5.0+812+5a010648             appstream",
+        "ruby.x86_64          2.6.7-107.module_el8.5.0+812+5a010648             appstream",
+        "ruby.i686            2.6.10-109.module_el8.6.0+1154+d96790ac           appstream",
+        "ruby.x86_64          2.6.10-109.module_el8.6.0+1154+d96790ac           appstream"
+    ]
+}

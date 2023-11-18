@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "python39",
+        "Version": "3.9.17",
+        "Release": "2.module_el8+639+3fcd10de",
+        "Architecture": "x86_64",
+        "Size": "34 k",
+        "Source": "python39-3.9.17-2.module_el8+639+3fcd10de.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Version 3.9 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python39.x86_64         3.9.2-1.module_el8.5.0+738+dc19af12            appstream",
+        "python39.x86_64         3.9.2-2.module_el8.5.0+766+33a59395            appstream",
+        "python39.x86_64         3.9.6-1.module_el8.5.0+872+ab54e8e5            appstream",
+        "python39.x86_64         3.9.6-2.module_el8.5.0+897+68c4c210            appstream",
+        "python39.x86_64         3.9.7-1.module_el8.6.0+930+10acc06f            appstream",
+        "python39.x86_64         3.9.13-1.module_el8.7.0+1178+0ba51308          appstream",
+        "python39.x86_64         3.9.14-2.module_el8.8.0+1230+a6d278ed          appstream",
+        "python39.x86_64         3.9.16-1.module_el8.8.0+1243+5f5a1e61          appstream",
+        "python39.x86_64         3.9.17-1.module_el8+547+65817b2b               appstream",
+        "python39.x86_64         3.9.17-2.module_el8+639+3fcd10de               appstream"
+    ]
+}

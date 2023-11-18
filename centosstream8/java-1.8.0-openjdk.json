@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "java-1.8.0-openjdk",
+        "Epoch": "1",
+        "Version": "1.8.0.362.b08",
+        "Release": "3.el8",
+        "Architecture": "x86_64",
+        "Size": "544 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.362.b08-3.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "OpenJDK 8 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib",
+        "Description": "The OpenJDK 8 runtime environment."
+    },
+    "list": [
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.302.b01-0.3.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.302.b02-0.0.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.302.b03-0.0.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.302.b04-0.0.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.302.b08-0.el8_4             appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.312.b02-0.1.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.312.b07-1.el8_4             appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.312.b07-2.el8_5             appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.322.b06-2.el8_5             appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.322.b06-11.el8              appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.352.b08-2.el8               appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.362.b01-0.3.ea.el8          appstream",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.362.b08-3.el8               appstream"
+    ]
+}

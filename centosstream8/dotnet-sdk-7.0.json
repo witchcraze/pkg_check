@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-7.0",
+        "Version": "7.0.110",
+        "Release": "4.el8",
+        "Architecture": "x86_64",
+        "Size": "87 M",
+        "Source": "dotnet7.0-7.0.110-4.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET 7.0 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": "The .NET SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-7.0.x86_64                  7.0.110-4.el8                   appstream"
+    ]
+}

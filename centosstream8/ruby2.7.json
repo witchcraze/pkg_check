@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.7.8",
+        "Release": "139.module_el8+327+7da4a3f2",
+        "Architecture": "x86_64",
+        "Size": "89 k",
+        "Source": "ruby-2.7.8-139.module_el8+327+7da4a3f2.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             2.7.1-133.module_el8.3.0+429+625e5e4e            appstream",
+        "ruby.x86_64           2.7.1-133.module_el8.3.0+429+625e5e4e            appstream",
+        "ruby.i686             2.7.3-136.module_el8.5.0+813+054ec265            appstream",
+        "ruby.x86_64           2.7.3-136.module_el8.5.0+813+054ec265            appstream",
+        "ruby.i686             2.7.6-138.module_el8.6.0+1192+2a73603d           appstream",
+        "ruby.x86_64           2.7.6-138.module_el8.6.0+1192+2a73603d           appstream",
+        "ruby.i686             2.7.8-139.module_el8+327+7da4a3f2                appstream",
+        "ruby.x86_64           2.7.8-139.module_el8+327+7da4a3f2                appstream"
+    ]
+}

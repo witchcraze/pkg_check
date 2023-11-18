@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-5.0",
+        "Version": "5.0.212",
+        "Release": "2.el8",
+        "Architecture": "x86_64",
+        "Size": "50 M",
+        "Source": "dotnet5.0-5.0.212-2.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET 5.0 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": "The .NET SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-5.0.x86_64                 5.0.104-2.el8                    appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.202-2.el8                    appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.203-1.el8_4                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.204-1.el8                    appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.205-2.el8_4                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.206-1.el8_4                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.207-1.el8_4                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.208-1.el8_4                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.208-2.el8_5                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.209-1.el8_5                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.210-1.el8_5                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.211-1.el8_5                  appstream",
+        "dotnet-sdk-5.0.x86_64                 5.0.212-2.el8                    appstream"
+    ]
+}

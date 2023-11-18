@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "python3.11",
+        "Version": "3.11.5",
+        "Release": "1.el8",
+        "Architecture": "x86_64",
+        "Size": "30 k",
+        "Source": "python3.11-3.11.5-1.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Version 3.11 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.11.x86_64                     3.11.2-2.el8                     appstream",
+        "python3.11.x86_64                     3.11.4-1.el8                     appstream",
+        "python3.11.x86_64                     3.11.4-2.el8                     appstream",
+        "python3.11.x86_64                     3.11.4-4.el8                     appstream",
+        "python3.11.x86_64                     3.11.5-1.el8                     appstream"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "4.15",
+        "Release": "7.module_el8+660+c5a9a808",
+        "Architecture": "x86_64",
+        "Size": "3.6 M",
+        "Source": "squid-4.15-7.module_el8+660+c5a9a808.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64          7:4.11-4.module_el8.4.0+629+8f5a8694             appstream",
+        "squid.x86_64          7:4.11-4.module_el8.4.0+787+bd6d340e.2           appstream",
+        "squid.x86_64          7:4.15-1.module_el8.5.0+860+303ccf92             appstream",
+        "squid.x86_64          7:4.15-2.module_el8.6.0+1080+3960d34b            appstream",
+        "squid.x86_64          7:4.15-3.module_el8.6.0+1091+f66ed1aa            appstream",
+        "squid.x86_64          7:4.15-6.module_el8.8.0+1236+bbc41960            appstream",
+        "squid.x86_64          7:4.15-7.module_el8+660+c5a9a808                 appstream"
+    ]
+}

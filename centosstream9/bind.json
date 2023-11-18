@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "bind",
+        "Epoch": "32",
+        "Version": "9.16.23",
+        "Release": "13.el9",
+        "Architecture": "x86_64",
+        "Size": "489 k",
+        "Source": "bind-9.16.23-13.el9.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
+    },
+    "list": [
+        "bind.x86_64                     32:9.16.23-7.el9                       appstream",
+        "bind.x86_64                     32:9.16.23-8.el9                       appstream",
+        "bind.x86_64                     32:9.16.23-9.el9                       appstream",
+        "bind.x86_64                     32:9.16.23-11.el9                      appstream",
+        "bind.x86_64                     32:9.16.23-13.el9                      appstream"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "python38",
+        "Version": "3.8.17",
+        "Release": "2.module_el8+640+ebf3d03c",
+        "Architecture": "x86_64",
+        "Size": "81 k",
+        "Source": "python38-3.8.17-2.module_el8+640+ebf3d03c.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python38.x86_64         3.8.6-3.module_el8.5.0+742+dbad1979            appstream",
+        "python38.x86_64         3.8.8-1.module_el8.5.0+758+421c7348            appstream",
+        "python38.x86_64         3.8.8-2.module_el8.5.0+765+e829a51d            appstream",
+        "python38.x86_64         3.8.8-3.module_el8.5.0+871+689c57c1            appstream",
+        "python38.x86_64         3.8.8-4.module_el8.5.0+896+eb9e77ba            appstream",
+        "python38.x86_64         3.8.12-1.module_el8.6.0+929+89303463           appstream",
+        "python38.x86_64         3.8.13-1.module_el8.7.0+1177+19c53253          appstream",
+        "python38.x86_64         3.8.16-1.module_el8.8.0+1242+93d6d191          appstream",
+        "python38.x86_64         3.8.17-1.module_el8+623+a81edf99               appstream",
+        "python38.x86_64         3.8.17-2.module_el8+640+ebf3d03c               appstream"
+    ]
+}

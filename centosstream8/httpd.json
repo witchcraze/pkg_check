@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.37",
+        "Release": "62.module_el8+657+88b2113f",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "httpd-2.4.37-62.module_el8+657+88b2113f.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64         2.4.37-30.module_el8.3.0+462+ba287492.0.1         appstream",
+        "httpd.x86_64         2.4.37-39.module_el8.4.0+778+c970deab             appstream",
+        "httpd.x86_64         2.4.37-40.module_el8.5.0+852+0aafc63b             appstream",
+        "httpd.x86_64         2.4.37-43.module_el8.5.0+1022+b541f3b1            appstream",
+        "httpd.x86_64         2.4.37-47.module_el8.6.0+1111+ce6f4ceb.1          appstream",
+        "httpd.x86_64         2.4.37-54.module_el8.8.0+1256+e1598b50            appstream",
+        "httpd.x86_64         2.4.37-61.module_el8+563+4ebf229f                 appstream",
+        "httpd.x86_64         2.4.37-62.module_el8+657+88b2113f                 appstream"
+    ]
+}

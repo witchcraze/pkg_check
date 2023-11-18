@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-2.1",
+        "Version": "2.1.526",
+        "Release": "1.el8_4",
+        "Architecture": "x86_64",
+        "Size": "13 k",
+        "Source": "dotnet-2.1.526-1.el8_4.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET Core 2.1 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD",
+        "Description": "The .NET Core SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-2.1.x86_64                 2.1.522-2.el8                    appstream",
+        "dotnet-sdk-2.1.x86_64                 2.1.523-2.el8                    appstream",
+        "dotnet-sdk-2.1.x86_64                 2.1.524-1.el8                    appstream",
+        "dotnet-sdk-2.1.x86_64                 2.1.525-1.el8_4                  appstream",
+        "dotnet-sdk-2.1.x86_64                 2.1.526-1.el8_4                  appstream"
+    ]
+}
