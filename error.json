@@ -1,5 +1,10 @@
 {
     "debian": {
+        "10": {
+            "openjdk-11-jdk": [
+                "changelog"
+            ]
+        },
         "11": {
             "postgresql-13": [
                 "changelog"

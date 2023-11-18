@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "python3",
+        "Arch": "x86_64",
+        "Version": "3.6.8",
+        "Release": "21.el7_9",
+        "Size": "71 k",
+        "Repo": "updates/7/x86_64",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed,"
+    },
+    "list": [
+        "python3.i686                     3.6.8-10.el7                     C7.7.1908-base",
+        "python3.x86_64                   3.6.8-10.el7                     C7.7.1908-base",
+        "python3.i686                     3.6.8-13.el7                     C7.8.2003-base",
+        "python3.x86_64                   3.6.8-13.el7                     C7.8.2003-base",
+        "python3.i686                     3.6.8-17.el7                     base",
+        "python3.x86_64                   3.6.8-17.el7                     base",
+        "python3.i686                     3.6.8-18.el7                     updates",
+        "python3.x86_64                   3.6.8-18.el7                     updates",
+        "python3.i686                     3.6.8-19.el7_9                   updates",
+        "python3.x86_64                   3.6.8-19.el7_9                   updates",
+        "python3.i686                     3.6.8-21.el7_9                   updates",
+        "python3.x86_64                   3.6.8-21.el7_9                   updates"
+    ]
+}
