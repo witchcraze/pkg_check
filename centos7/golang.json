@@ -1,4 +1,16 @@
 {
+    "info": {
+        "Name": "golang",
+        "Arch": "x86_64",
+        "Version": "1.9.4",
+        "Release": "1.el7",
+        "Size": "611 k",
+        "Repo": "C7.5.1804-base/x86_64",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
     "list": [
         "golang.x86_64              1.2-7.el7                        C7.0.1406-extras",
         "golang.x86_64              1.3.3-1.el7.centos               C7.0.1406-extras",

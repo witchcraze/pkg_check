@@ -5,7 +5,7 @@
         "Version": "5.4.16",
         "Release": "48.el7",
         "Size": "1.4 M",
-        "Repo": "base/7/x86_64",
+        "Repo": "C7.8.2003-base/x86_64",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
         "License": "PHP and Zend and BSD",

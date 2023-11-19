@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "go-toolset-7",
+        "Arch": "x86_64",
+        "Version": "1.10.2",
+        "Release": "4.el7",
+        "Size": "4.0 k",
+        "Repo": "centos-sclo-rh/x86_64",
+        "Summary": "Package that installs go-toolset-7",
+        "License": "GPLv2+",
+        "Description": "This is the main package for go-toolset-7 Software Collection."
+    },
+    "list": [
+        "go-toolset-7.x86_64                 1.8-4.el7                     centos-sclo-rh",
+        "go-toolset-7.x86_64                 1.8-6.el7                     centos-sclo-rh",
+        "go-toolset-7.x86_64                 1.10.2-4.el7                  centos-sclo-rh"
+    ]
+}

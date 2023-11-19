@@ -17,5 +17,6 @@
         "Origin": "Ubuntu",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/universe amd64 Packages",
         "Description": "GNU C compiler"
-    }
+    },
+    "changelog": []
 }

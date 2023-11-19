@@ -18,5 +18,6 @@
         "Supported": "9m",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/main amd64 Packages",
         "Description": "GNU C compiler"
-    }
+    },
+    "changelog": []
 }

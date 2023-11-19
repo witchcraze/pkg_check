@@ -6,7 +6,7 @@
         "Version": "1.7.0.261",
         "Release": "2.6.22.2.el7_8",
         "Size": "257 k",
-        "Repo": "base/7/x86_64",
+        "Repo": "C7.8.2003-updates/x86_64",
         "Summary": "OpenJDK Runtime Environment",
         "URL": "http://openjdk.java.net/",
         "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and",

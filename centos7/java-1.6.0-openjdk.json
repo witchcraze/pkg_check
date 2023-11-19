@@ -6,7 +6,7 @@
         "Version": "1.6.0.41",
         "Release": "1.13.13.1.el7_3",
         "Size": "42 M",
-        "Repo": "base/7/x86_64",
+        "Repo": "C7.3.1611-updates/x86_64",
         "Summary": "OpenJDK Runtime Environment",
         "URL": "http://icedtea.classpath.org/",
         "License": "ASL 1.1, ASL 2.0, GPL+, GPLv2, GPLv2 with exceptions, LGPL+,",
