@@ -1,4 +1,82 @@
 {
+    "rockylinux": {
+        "8": {
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nginx": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "php": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "redis": [
+                "kojiPackages"
+            ],
+            "ruby": [
+                "kojiPackages"
+            ],
+            "mariadb-server10.3": [
+                "kojiPackages"
+            ],
+            "mariadb-server10.5": [
+                "kojiPackages"
+            ],
+            "mysql-server8.0": [
+                "kojiPackages"
+            ],
+            "postgresql-server9.6": [
+                "kojiPackages"
+            ],
+            "postgresql-server10": [
+                "kojiPackages"
+            ],
+            "postgresql-server12": [
+                "kojiPackages"
+            ],
+            "postgresql-server13": [
+                "kojiPackages"
+            ],
+            "postgresql-server15": [
+                "kojiPackages"
+            ]
+        },
+        "9": {
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server15": [
+                "kojiPackages"
+            ]
+        }
+    },
     "debian": {
         "12": {
             "postgresql-15": [
