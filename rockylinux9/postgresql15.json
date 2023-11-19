@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "15.3",
+        "Release": "1.module+el9.2.0+14925+a515b28a",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "postgresql-15.3-1.module+el9.2.0+14925+a515b28a.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64         15.3-1.module+el9.2.0+14925+a515b28a         appstream"
+    ],
+    "kojiPackages": [
+        "postgresql-15.3-1.module+el9.2.0+14925+a515b28a",
+        "postgresql-15.2-1.module+el9.2.0+14756+c22d70c9"
+    ]
+}

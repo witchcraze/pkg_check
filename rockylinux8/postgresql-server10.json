@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "10.23",
+        "Release": "2.module+el8.8.0+1440+992378a9",
+        "Architecture": "x86_64",
+        "Size": "5.0 M",
+        "Source": "postgresql-10.23-2.module+el8.8.0+1440+992378a9.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64     10.23-1.module+el8.7.0+1118+c6c6f44a      appstream",
+        "postgresql-server.x86_64     10.23-2.module+el8.8.0+1440+992378a9      appstream"
+    ]
+}
