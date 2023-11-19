@@ -1,0 +1,46 @@
+{
+    "info": {
+        "Name": "python38",
+        "Version": "3.8.16",
+        "Release": "1.module+el8.8.0+1313+e073abae.1",
+        "Architecture": "x86_64",
+        "Size": "79 k",
+        "Source": "python38-3.8.16-1.module+el8.8.0+1313+e073abae.1.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python38.x86_64        3.8.16-1.module+el8.8.0+1110+b297ede1           appstream",
+        "python38.x86_64        3.8.16-1.module+el8.8.0+1313+e073abae.1         appstream"
+    ],
+    "kojiPackages": [
+        "python38-3.8.17-2.module+el8.9.0+1418+f0d66789",
+        "python38-3.8.16-2.module+el8.9.0+1403+52891856",
+        "python38-3.8.16-2.module+el8.9.0+1389+5a95f96a",
+        "python38-3.8.16-1.module+el8.9.0+1374+3f61e322",
+        "python38-3.8.16-1.module+el8.9.0+1367+f5a2a719",
+        "python38-3.8.16-1.module+el8.8.0+1313+e073abae.1",
+        "python38-3.8.16-1.module+el8.8.0+1110+b297ede1",
+        "python38-3.8.13-1.module+el8.7.0+1063+20f2b9a4",
+        "python38-3.8.13-1.module+el8.7.0+1019+d84b5978",
+        "python38-3.8.13-1.module+el8.7.0+1017+0c846697",
+        "python38-3.8.12-1.module+el8.6.0+794+eba84017",
+        "python38-3.8.8-4.module+el8.5.0+672+ab6eb015",
+        "python38-3.8.6-3.module+el8.4.0+595+c96abaa2",
+        "python38-3.8.6-3.module+el8.4.0+570+c2eaf144",
+        "python38-3.8.6-3.module+el8.4.0+564+53eb9969",
+        "python38-3.8.6-3.module+el8.4.0+561+23138686",
+        "python38-3.8.6-3.module+el8.4.0+439+6f06c772",
+        "python38-3.8.6-3.module+el8.4.0+438+40156465",
+        "python38-3.8.6-3.module+el8.4.0+436+720cf9b2",
+        "python38-3.8.6-3.module+el8.4.0+435+f59487de",
+        "python38-3.8.6-3.module+el8.4.0+434+9a93b702",
+        "python38-3.8.6-3.module+el8.4.0+432+8cbadd49",
+        "python38-3.8.3-3.module+el8.3.0+243+f8ef0595",
+        "python38-3.8.3-3.module+el8.3.0+234+b76a15f1",
+        "python38-3.8.3-3.module+el8.3.0+218+33ef37be"
+    ]
+}

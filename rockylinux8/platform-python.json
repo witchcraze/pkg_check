@@ -1,0 +1,47 @@
+{
+    "info": {
+        "Name": "platform-python",
+        "Version": "3.6.8",
+        "Release": "51.el8_8.2.rocky.0",
+        "Architecture": "x86_64",
+        "Size": "86 k",
+        "Source": "python3-3.6.8-51.el8_8.2.rocky.0.src.rpm",
+        "Repository": "baseos",
+        "Summary": "Internal interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "This is the internal interpreter of the Python language for the system."
+    },
+    "list": [
+        "platform-python.x86_64            3.6.8-51.el8.rocky.0                 @System",
+        "platform-python.i686              3.6.8-51.el8.rocky.0                 appstream",
+        "platform-python.x86_64            3.6.8-51.el8.rocky.0                 baseos",
+        "platform-python.i686              3.6.8-51.el8_8.1.rocky.0             appstream",
+        "platform-python.x86_64            3.6.8-51.el8_8.1.rocky.0             baseos",
+        "platform-python.i686              3.6.8-51.el8_8.2.rocky.0             appstream",
+        "platform-python.x86_64            3.6.8-51.el8_8.2.rocky.0             baseos"
+    ],
+    "kojiPackages": [
+        "python3-3.6.8-56.el8_9.rocky.0",
+        "python3-3.6.8-51.el8_8.2.rocky.0",
+        "python3-3.6.8-55.el8.rocky.0",
+        "python3-3.6.8-54.el8.rocky.0",
+        "python3-3.6.8-53.el8.rocky.0",
+        "python3-3.6.8-52.el8.rocky.0",
+        "python3-3.6.8-51.el8_8.1.rocky.0",
+        "python3-3.6.8-48.el8_7.1.rocky.0",
+        "python3-3.6.8-51.el8.rocky.0",
+        "python3-3.6.8-50.el8.rocky.0",
+        "python3-3.6.8-49.el8.rocky.0",
+        "python3-3.6.8-48.el8_7.rocky.0",
+        "python3-3.6.8-47.el8.rocky.0",
+        "python3-3.6.8-47.el8_6.rocky.0",
+        "python3-3.6.8-45.el8.rocky.0",
+        "python3-3.6.8-41.el8.rocky.0",
+        "python3-3.6.8-39.el8_4.rocky.0",
+        "python3-3.6.8-40.el8.rocky.0",
+        "python3-3.6.8-38.el8_4.rocky.1",
+        "python3-3.6.8-37.el8.rocky",
+        "python3-3.6.8-31.el8"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "dotnet",
+        "Version": "7.0.113",
+        "Release": "1.el8_8",
+        "Architecture": "x86_64",
+        "Size": "18 k",
+        "Source": "dotnet7.0-7.0.113-1.el8_8.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET CLI tools and runtime",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet.x86_64                     7.0.105-2.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.107-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.108-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.109-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.110-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.111-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.112-1.el8_8                      appstream",
+        "dotnet.x86_64                     7.0.113-1.el8_8                      appstream"
+    ]
+}

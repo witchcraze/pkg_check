@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.2.24",
+        "Release": "1.module+el8.4.0+413+c9202dda",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "php-7.2.24-1.module+el8.4.0+413+c9202dda.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64            7.2.24-1.module+el8.4.0+413+c9202dda             appstream"
+    ]
+}

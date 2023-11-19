@@ -1,0 +1,36 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.32.1",
+        "Release": "472.module+el8.8.0+1134+a197a740",
+        "Architecture": "x86_64",
+        "Size": "93 k",
+        "Source": "perl-5.32.1-472.module+el8.8.0+1134+a197a740.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64         4:5.32.1-472.module+el8.8.0+1134+a197a740          appstream"
+    ],
+    "kojiPackages": [
+        "perl-5.32.1-472.module+el8.8.0+1134+a197a740",
+        "perl-5.32.1-471.module+el8.6.0+879+823e3012",
+        "perl-5.32.1-471.module+el8.6.0+872+990939a3",
+        "perl-5.32.1-471.module+el8.6.0+786+a93760da",
+        "perl-5.32.1-471.module+el8.6.0+760+d3eab84e",
+        "perl-5.32.1-471.module+el8.5.0+758+1d4a6db3",
+        "perl-5.32.1-471.module+el8.5.0+757+cce6af0f",
+        "perl-5.32.1-471.module+el8.5.0+755+8fe2af24",
+        "perl-5.32.1-471.module+el8.5.0+754+c3a7e068",
+        "perl-5.32.1-471.module+el8.5.0+753+025e0335",
+        "perl-5.32.1-471.module+el8.5.0+752+607da21e",
+        "perl-5.32.1-471.module+el8.5.0+751+a230b0a1",
+        "perl-5.32.1-471.module+el8.5.0+750+9666b570",
+        "perl-5.32.1-471.module+el8.5.0+749+c99305ce",
+        "perl-5.32.1-471.module+el8.5.0+748+ed919e29"
+    ]
+}

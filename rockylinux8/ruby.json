@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.5.9",
+        "Release": "110.module+el8.6.0+992+fc951c18",
+        "Architecture": "x86_64",
+        "Size": "86 k",
+        "Source": "ruby-2.5.9-110.module+el8.6.0+992+fc951c18.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             2.5.9-110.module+el8.6.0+992+fc951c18            appstream",
+        "ruby.x86_64           2.5.9-110.module+el8.6.0+992+fc951c18            appstream"
+    ]
+}

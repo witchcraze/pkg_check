@@ -1,0 +1,40 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.24.4",
+        "Release": "404.module+el8.6.0+882+2fa1e48f",
+        "Architecture": "x86_64",
+        "Size": "6.1 M",
+        "Source": "perl-5.24.4-404.module+el8.6.0+882+2fa1e48f.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and BSD and Public Domain and UCD",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64          4:5.24.4-404.module+el8.6.0+882+2fa1e48f          appstream"
+    ],
+    "kojiPackages": [
+        "perl-5.24.4-404.module+el8.6.0+882+2fa1e48f",
+        "perl-5.24.4-404.module+el8.6.0+881+95336537",
+        "perl-5.24.4-404.module+el8.6.0+880+2ea53afe",
+        "perl-5.24.4-404.module+el8.6.0+877+cf1b85df",
+        "perl-5.24.4-404.module+el8.6.0+874+0eb25d81",
+        "perl-5.24.4-404.module+el8.5.0+688+05fcea4c",
+        "perl-5.24.4-404.module+el8.4.0+463+10533ad3",
+        "perl-5.24.4-404.module+el8.4.0+457+b63067fa",
+        "perl-5.24.4-404.module+el8.4.0+454+be52f5ce",
+        "perl-5.24.4-404.module+el8.4.0+451+4153bcd9",
+        "perl-5.24.4-404.module+el8.4.0+448+c792394b",
+        "perl-5.24.4-404.module+el8.3.0+116+555667dd",
+        "perl-5.24.4-404.module+el8.3.0+111+ea02c166",
+        "perl-5.24.4-404.module+el8.3.0+107+5f3d2299",
+        "perl-5.24.4-404.module+el8.3.0+102+415b476c",
+        "perl-5.24.4-404.module+el8.3.0+94+ff5ecc7f",
+        "perl-5.24.4-404.module+el8.3.0+31+bebe09a3",
+        "perl-5.24.4-404.module+el8.3.0+29+1fa0132d",
+        "perl-5.24.4-404.module+el8.3.0+28+e0c35804"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Epoch": "1",
+        "Version": "1.16.1",
+        "Release": "2.module+el8.4.0+543+efbf198b.1",
+        "Architecture": "x86_64",
+        "Size": "577 k",
+        "Source": "nginx-1.16.1-2.module+el8.4.0+543+efbf198b.1.src.rpm",
+        "Repository": "appstream",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
+    },
+    "list": [
+        "nginx.x86_64         1:1.16.1-2.module+el8.4.0+543+efbf198b.1          appstream"
+    ],
+    "kojiPackages": [
+        "nginx-1.16.1-2.module+el8.4.0+543+efbf198b.1",
+        "nginx-1.16.1-1.module+el8.3.0+122+d50b30f6.1",
+        "nginx-1.16.1-1.module+el8.3.0+33+c6223836.1",
+        "nginx-1.16.1-1.module+el8.3.0+20+d5dae7ee.1",
+        "nginx-1.16.1-1.module+el8.3.0+14+498b71c8.1"
+    ]
+}

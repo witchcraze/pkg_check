@@ -1,0 +1,36 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "4.15",
+        "Release": "6.module+el8.8.0+1559+9bd2bfff.1",
+        "Architecture": "x86_64",
+        "Size": "3.6 M",
+        "Source": "squid-4.15-6.module+el8.8.0+1559+9bd2bfff.1.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64          7:4.15-6.module+el8.8.0+1273+55f5b063            appstream",
+        "squid.x86_64          7:4.15-6.module+el8.8.0+1559+9bd2bfff.1          appstream"
+    ],
+    "kojiPackages": [
+        "squid-4.15-7.module+el8.9.0+1568+6d4fd5d4.1",
+        "squid-4.15-6.module+el8.8.0+1559+9bd2bfff.1",
+        "squid-4.15-7.module+el8.9.0+1437+df5ea8f0",
+        "squid-4.15-6.module+el8.8.0+1273+55f5b063",
+        "squid-4.15-6.module+el8.8.0+1106+d79a7205",
+        "squid-4.15-3.module+el8.6.0+1044+67ab5d0a.2",
+        "squid-4.15-3.module+el8.6.0+991+e278114b.1",
+        "squid-4.15-3.module+el8.6.0+842+aea5c28d",
+        "squid-4.15-1.module+el8.5.0+705+218dec94",
+        "squid-4.11-4.module+el8.4.0+404+316a0dc5.2",
+        "squid-4.11-4.module+el8.4.0+397+7ffa379a.2",
+        "squid-4.11-4.module+el8.4.0+357+2263274f.2",
+        "squid-4.11-4.module+el8.3.0+324+1ab8dc61.2",
+        "squid-4.4-8.module+el8.3.0+180+86811c21.2"
+    ]
+}

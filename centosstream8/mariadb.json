@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "10.3.28",
+        "Release": "1.module_el8.3.0+757+d382997d",
+        "Architecture": "x86_64",
+        "Size": "6.0 M",
+        "Source": "mariadb-10.3.28-1.module_el8.3.0+757+d382997d.src.rpm",
+        "Repository": "appstream",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb.x86_64         3:10.3.28-1.module_el8.3.0+757+d382997d         appstream"
+    ]
+}

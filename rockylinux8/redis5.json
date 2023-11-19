@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "redis",
+        "Version": "5.0.3",
+        "Release": "5.module+el8.5.0+657+2674830e",
+        "Architecture": "x86_64",
+        "Size": "926 k",
+        "Source": "redis-5.0.3-5.module+el8.5.0+657+2674830e.src.rpm",
+        "Repository": "appstream",
+        "Summary": "A persistent key-value database",
+        "URL": "http://redis.io",
+        "License": "BSD and MIT",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "redis.x86_64            5.0.3-5.module+el8.5.0+657+2674830e            appstream"
+    ],
+    "kojiPackages": [
+        "redis-5.0.3-5.module+el8.4.0+659+cf535ef1",
+        "redis-5.0.3-5.module+el8.5.0+657+2674830e",
+        "redis-5.0.3-2.module+el8.4.0+393+5af13779",
+        "redis-5.0.3-2.module+el8.4.0+328+c69c1538",
+        "redis-5.0.3-2.module+el8.3.0+323+91205867",
+        "redis-5.0.3-2.module+el8.3.0+135+47147fa7"
+    ]
+}

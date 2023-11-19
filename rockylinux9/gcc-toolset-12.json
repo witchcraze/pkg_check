@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "gcc-toolset-12",
+        "Version": "12.0",
+        "Release": "6.el9",
+        "Architecture": "x86_64",
+        "Size": "9.7 k",
+        "Source": "gcc-toolset-12-12.0-6.el9.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Package that installs gcc-toolset-12",
+        "License": "GPLv2+",
+        "Description": "This is the main package for gcc-toolset-12 Software Collection."
+    },
+    "list": [
+        "gcc-toolset-12.x86_64                    12.0-6.el9                    appstream"
+    ],
+    "kojiPackages": [
+        "gcc-toolset-12-12.0-6.el9",
+        "gcc-toolset-12-12.0-5.el9"
+    ]
+}

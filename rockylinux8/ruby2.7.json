@@ -1,0 +1,39 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.7.8",
+        "Release": "139.module+el8.8.0+1320+d2449f6f",
+        "Architecture": "x86_64",
+        "Size": "88 k",
+        "Source": "ruby-2.7.8-139.module+el8.8.0+1320+d2449f6f.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             2.7.6-138.module+el8.6.0+1001+b5678180           appstream",
+        "ruby.x86_64           2.7.6-138.module+el8.6.0+1001+b5678180           appstream",
+        "ruby.i686             2.7.8-139.module+el8.8.0+1320+d2449f6f           appstream",
+        "ruby.x86_64           2.7.8-139.module+el8.8.0+1320+d2449f6f           appstream"
+    ],
+    "kojiPackages": [
+        "ruby-2.7.8-139.module+el8.9.0+1537+0b2034bd",
+        "ruby-2.7.8-139.module+el8.9.0+1499+74c26d5f",
+        "ruby-2.7.8-139.module+el8.8.0+1320+d2449f6f",
+        "ruby-2.7.8-139.module+el8.9.0+1226+700331b3",
+        "ruby-2.7.8-139.module+el8.9.0+1225+f028e9e9",
+        "ruby-2.7.6-138.module+el8.6.0+1001+b5678180",
+        "ruby-2.7.4-137.module+el8.4.0+629+f8f0bf91",
+        "ruby-2.7.3-136.module+el8.4.0+599+022575c4",
+        "ruby-2.7.3-136.module+el8.4.0+594+11b6673a",
+        "ruby-2.7.1-133.module+el8.4.0+584+f73b8859",
+        "ruby-2.7.1-133.module+el8.4.0+581+40fa2400",
+        "ruby-2.7.1-133.module+el8.4.0+411+b946f28c",
+        "ruby-2.7.1-133.module+el8.4.0+389+fd4d9198",
+        "ruby-2.7.1-133.module+el8.4.0+355+85442cc5",
+        "ruby-2.7.1-133.module+el8.3.0+317+0093229f",
+        "ruby-2.7.1-133.module+el8.3.0+165+fefa5d62"
+    ]
+}

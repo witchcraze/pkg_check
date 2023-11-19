@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-2.1",
+        "Version": "2.1.526",
+        "Release": "1.el8_4.rocky",
+        "Architecture": "x86_64",
+        "Size": "12 k",
+        "Source": "dotnet-2.1.526-1.el8_4.rocky.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET Core 2.1 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD",
+        "Description": "The .NET Core SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-2.1.x86_64              2.1.526-1.el8_4.rocky               appstream"
+    ],
+    "kojiPackages": [
+        "dotnet-2.1.526-1.el8_4.rocky",
+        "dotnet-2.1.525-1.el8_4.rocky",
+        "dotnet-2.1.524-1.el8_4.rocky",
+        "dotnet-2.1.524-1.el8.rocky",
+        "dotnet-2.1.522-1.el8_3.rocky",
+        "dotnet-2.1.522-1.el8.rocky",
+        "dotnet-2.1.522-1.el8"
+    ]
+}

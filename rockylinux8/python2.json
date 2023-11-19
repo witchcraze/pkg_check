@@ -1,0 +1,46 @@
+{
+    "info": {
+        "Name": "python2",
+        "Version": "2.7.18",
+        "Release": "13.module+el8.8.0+1553+3a17e3bb.2.rocky.0.2",
+        "Architecture": "x86_64",
+        "Size": "110 k",
+        "Source": "python2-2.7.18-13.module+el8.8.0+1553+3a17e3bb.2.rocky.0.2.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python2.x86_64   2.7.18-12.module+el8.8.0+1113+ee5796ad                appstream",
+        "python2.x86_64   2.7.18-12.module+el8.8.0+1285+6ec17686.rocky.0.2      appstream",
+        "python2.x86_64   2.7.18-13.module+el8.8.0+1314+be03569e.1.rocky.0.2    appstream",
+        "python2.x86_64   2.7.18-13.module+el8.8.0+1553+3a17e3bb.2.rocky.0.2    appstream"
+    ],
+    "kojiPackages": [
+        "python2-2.7.18-15.module+el8.9.0+1577+4023cfca.rocky.0.2",
+        "python2-2.7.18-16.module+el8.10.0+1556+da0fa9e7.rocky.0.2",
+        "python2-2.7.18-13.module+el8.8.0+1553+3a17e3bb.2.rocky.0.2",
+        "python2-2.7.18-14.module+el8.9.0+1531+a18208f5.rocky.0.2",
+        "python2-2.7.18-14.module+el8.9.0+1386+470bdd7f.rocky.0.2",
+        "python2-2.7.18-13.module+el8.8.0+1314+be03569e.1.rocky.0.2",
+        "python2-2.7.18-12.module+el8.8.0+1285+6ec17686.rocky.0.2",
+        "python2-2.7.18-12.module+el8.8.0+1113+ee5796ad",
+        "python2-2.7.18-11.module+el8.7.0+1062+663ba31c.rocky.0.2",
+        "python2-2.7.18-11.module+el8.7.0+1015+f9683b8a.rocky.0.2",
+        "python2-2.7.18-10.module+el8.7.0+1014+2a4e0392.rocky.0.2",
+        "python2-2.7.18-10.module+el8.6.0+793+57002515.rocky.0.2",
+        "python2-2.7.18-7.module+el8.5.0+718+67e45b5f.rocky.0.2",
+        "python2-2.7.18-7.module+el8.5.0+706+735ec4b3.rocky.0.1",
+        "python2-2.7.18-7.module+el8.5.0+699+448bc8ba",
+        "python2-2.7.18-7.module+el8.5.0+698+5397743e",
+        "python2-2.7.18-4.module+el8.4.0+403+9ae17a31",
+        "python2-2.7.18-4.module+el8.4.0+335+5bf27c05",
+        "python2-2.7.18-4.module+el8.3.0+302+7f083561",
+        "python2-2.7.17-2.module+el8.3.0+152+38b4c31f",
+        "python2-2.7.17-2.module+el8.3.0+148+89e095dc",
+        "python2-2.7.17-2.module+el8.3.0+146+cc4f439a",
+        "python2-2.7.17-1.el8"
+    ]
+}

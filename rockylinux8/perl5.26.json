@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.26.3",
+        "Release": "422.el8",
+        "Architecture": "x86_64",
+        "Size": "72 k",
+        "Source": "perl-5.26.3-422.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64                      4:5.26.3-422.el8                      appstream"
+    ],
+    "kojiPackages": [
+        "perl-5.26.2-412.module+el8.4.0+455+63860e7c",
+        "perl-5.26.2-412.module+el8.4.0+452+bef931d1",
+        "perl-5.26.2-412.module+el8.3.0+106+df4634c1",
+        "perl-5.26.2-412.module+el8.3.0+103+ad9960c1",
+        "perl-5.26.2-412.module+el8.3.0+95+1a546878",
+        "perl-5.26.2-412.module+el8.3.0+27+1859b6ed",
+        "perl-5.26.2-412.module+el8.3.0+30+29549ba9"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.5.9",
+        "Release": "110.module+el8.6.0+992+fc951c18",
+        "Architecture": "x86_64",
+        "Size": "86 k",
+        "Source": "ruby-2.5.9-110.module+el8.6.0+992+fc951c18.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             2.5.9-110.module+el8.6.0+992+fc951c18            appstream",
+        "ruby.x86_64           2.5.9-110.module+el8.6.0+992+fc951c18            appstream"
+    ],
+    "kojiPackages": [
+        "ruby-2.5.9-111.module+el8.9.0+1536+5f79634e",
+        "ruby-2.5.9-111.module+el8.9.0+1315+132582b9",
+        "ruby-2.5.9-110.module+el8.7.0+1012+15091bff",
+        "ruby-2.5.9-110.module+el8.7.0+1010+6fb31a6c",
+        "ruby-2.5.9-110.module+el8.6.0+992+fc951c18",
+        "ruby-2.5.9-109.module+el8.5.0+740+b85cbe0d",
+        "ruby-2.5.9-107.module+el8.5.0+739+43897a5e",
+        "ruby-2.5.9-107.module+el8.5.0+737+78d88bf3",
+        "ruby-2.5.9-107.module+el8.4.0+598+0c4be4c8",
+        "ruby-2.5.9-107.module+el8.4.0+592+03ff458a",
+        "ruby-2.5.5-106.module+el8.4.0+583+2e07d229",
+        "ruby-2.5.5-106.module+el8.4.0+580+013c1d42",
+        "ruby-2.5.5-106.module+el8.4.0+417+a2b909b6",
+        "ruby-2.5.5-106.module+el8.4.0+409+70a67f16",
+        "ruby-2.5.5-106.module+el8.4.0+387+26d1abcc",
+        "ruby-2.5.5-106.module+el8.4.0+349+3470f258",
+        "ruby-2.5.5-106.module+el8.3.0+319+f8bc5384",
+        "ruby-2.5.5-106.module+el8.3.0+167+5c390590",
+        "ruby-2.5.5-106.module+el8.3.0+166+362b5c93",
+        "ruby-2.5.5-106.module+el8.3.0+62+ba870fac",
+        "ruby-2.5.5-106.module+el8.3.0+61+84387af3",
+        "ruby-2.5.5-106.module+el8.3.0+60+9285d755",
+        "ruby-2.5.5-106.module+el8.3.0+52+480045ca"
+    ]
+}

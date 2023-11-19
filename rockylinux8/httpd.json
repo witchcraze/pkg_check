@@ -1,0 +1,53 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.37",
+        "Release": "56.module+el8.8.0+1456+d0a01c5e.7",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "httpd-2.4.37-56.module+el8.8.0+1456+d0a01c5e.7.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64         2.4.37-56.module+el8.8.0+1284+07ef499e.6          appstream",
+        "httpd.x86_64         2.4.37-56.module+el8.8.0+1456+d0a01c5e.7          appstream"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.37-56.module+el8.8.0+1456+d0a01c5e.7",
+        "httpd-2.4.37-62.module+el8.9.0+1436+2b7d5021",
+        "httpd-2.4.37-62.module+el8.9.0+1404+a4019c9a",
+        "httpd-2.4.37-61.module+el8.9.0+1377+8dfb6e21",
+        "httpd-2.4.37-60.module+el8.9.0+1370+89cc8ad5",
+        "httpd-2.4.37-57.module+el8.9.0+1307+a3c50f0f",
+        "httpd-2.4.37-56.module+el8.8.0+1284+07ef499e.6",
+        "httpd-2.4.37-56.module+el8.8.0+1271+9ed9553d.4",
+        "httpd-2.4.37-51.module+el8.7.0+1182+86a6cd60.5",
+        "httpd-2.4.37-56.module+el8.8.0+1164+acd8643b",
+        "httpd-2.4.37-51.module+el8.7.0+1155+5163394a.1",
+        "httpd-2.4.37-54.module+el8.8.0+1137+89838737",
+        "httpd-2.4.37-51.module+el8.7.0+1059+126e9251",
+        "httpd-2.4.37-47.module+el8.6.0+985+b8ff6398.2",
+        "httpd-2.4.37-47.module+el8.6.0+984+e60300c4.2",
+        "httpd-2.4.37-47.module+el8.6.0+983+ce374637.2",
+        "httpd-2.4.37-47.module+el8.6.0+823+f143cee1.1",
+        "httpd-2.4.37-47.module+el8.6.0+792+fb4caf81.1",
+        "httpd-2.4.37-47.module+el8.6.0+765+071c3839",
+        "httpd-2.4.37-43.module+el8.5.0+747+83fae388.3",
+        "httpd-2.4.37-43.module+el8.5.0+746+b6ce3176.2",
+        "httpd-2.4.37-43.module+el8.5.0+727+743c5577.1",
+        "httpd-2.4.37-43.module+el8.5.0+714+5ec56ee8",
+        "httpd-2.4.37-39.module+el8.5.0+711+b27bd11e.2",
+        "httpd-2.4.37-41.module+el8.5.0+695+1fa8055e",
+        "httpd-2.4.37-39.module+el8.4.0+655+f2bfd6ee.1",
+        "httpd-2.4.37-39.module+el8.4.0+571+fd70afb1",
+        "httpd-2.4.37-39.module+el8.4.0+560+e5d82889",
+        "httpd-2.4.37-39.module+el8.4.0+553+7a69454b",
+        "httpd-2.4.37-39.module+el8.4.0+541+6ee2e01f",
+        "httpd-2.4.37-39.module+el8.4.0+540+81bfc0ce",
+        "httpd-2.4.37-30.module+el8.3.0+124+cde66633"
+    ]
+}

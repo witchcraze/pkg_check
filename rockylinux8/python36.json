@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "python36",
+        "Version": "3.6.8",
+        "Release": "38.module+el8.5.0+671+195e4563",
+        "Architecture": "x86_64",
+        "Size": "18 k",
+        "Source": "python36-3.6.8-38.module+el8.5.0+671+195e4563.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python36.x86_64          3.6.8-38.module+el8.5.0+671+195e4563          appstream"
+    ],
+    "kojiPackages": [
+        "python36-3.6.8-38.module+el8.5.0+671+195e4563",
+        "python36-3.6.8-2.module+el8.4.0+597+ddf0ddea",
+        "python36-3.6.6-13.buildroot.el8",
+        "python36-3.6.8-2.module+el8.3.0+120+426d8baf",
+        "python36-3.6.8-2.module+el8.3.0+71+c0283906"
+    ]
+}
