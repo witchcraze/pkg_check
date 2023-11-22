@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "mysql",
+        "Arch": "x86_64",
+        "Version": "5.1.73",
+        "Release": "8.el6_8",
+        "Size": "895 k",
+        "Repo": "C6.8-updates",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql.x86_64                    5.1.47-4.el6                        C6.0-base",
+        "mysql.x86_64                    5.1.52-1.el6_0.1                    C6.0-updates",
+        "mysql.x86_64                    5.1.52-1.el6_0.1                    C6.1-base",
+        "mysql.x86_64                    5.1.52-1.el6_0.1                    C6.2-base",
+        "mysql.x86_64                    5.1.61-1.el6_2.1                    C6.2-updates",
+        "mysql.x86_64                    5.1.61-4.el6                        C6.3-base",
+        "mysql.x86_64                    5.1.66-1.el6_3                      C6.3-updates",
+        "mysql.x86_64                    5.1.66-2.el6_3                      C6.3-updates",
+        "mysql.x86_64                    5.1.66-2.el6_3                      C6.4-base",
+        "mysql.x86_64                    5.1.67-1.el6_3                      C6.3-updates",
+        "mysql.x86_64                    5.1.67-1.el6_3                      C6.4-updates",
+        "mysql.x86_64                    5.1.69-1.el6_4                      C6.4-updates",
+        "mysql.x86_64                    5.1.71-1.el6                        C6.5-base",
+        "mysql.x86_64                    5.1.73-3.el6_5                      C6.5-updates",
+        "mysql.x86_64                    5.1.73-3.el6_5                      C6.6-base",
+        "mysql.x86_64                    5.1.73-5.el6_6                      C6.6-updates",
+        "mysql.x86_64                    5.1.73-5.el6_6                      C6.7-base",
+        "mysql.x86_64                    5.1.73-5.el6_7.1                    C6.7-updates",
+        "mysql.x86_64                    5.1.73-7.el6                        C6.8-base",
+        "mysql.x86_64                    5.1.73-8.el6_8                      C6.8-updates",
+        "mysql.x86_64                    5.1.73-8.el6_8                      C6.9-base",
+        "mysql.x86_64                    5.1.73-8.el6_8                      base"
+    ]
+}

@@ -13,7 +13,7 @@
         "Replaces": "cpp-7 (<< 7.1.1-8), gccgo-7 (<< 7.4.0-6)",
         "Homepage": "http://gcc.gnu.org/",
         "Download-Size": "9058 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "changelog": [

@@ -6,7 +6,7 @@
         "Version": "5.10.1",
         "Release": "144.el6",
         "Size": "10 M",
-        "Repo": "base",
+        "Repo": "C6.9-base",
         "Summary": "Practical Extraction and Report Language",
         "URL": "http://www.perl.org/",
         "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and Copyright Only and",

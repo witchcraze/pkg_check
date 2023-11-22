@@ -1,18 +1,21 @@
 {
     "show": {
         "Package": "golang-1.11",
-        "Version": "1.11.6-1+deb10u4",
+        "Version": "1.11.6-1+deb10u7",
         "Priority": "optional",
         "Section": "devel",
         "Maintainer": "Go Compiler Team <team+go-compiler@tracker.debian.org>",
-        "Installed-Size": "55.3 kB",
-        "Depends": "golang-1.11-doc (>= 1.11.6-1+deb10u4), golang-1.11-go (>= 1.11.6-1+deb10u4), golang-1.11-src (>= 1.11.6-1+deb10u4)",
+        "Installed-Size": "56.3 kB",
+        "Depends": "golang-1.11-doc (>= 1.11.6-1+deb10u7), golang-1.11-go (>= 1.11.6-1+deb10u7), golang-1.11-src (>= 1.11.6-1+deb10u7)",
         "Homepage": "https://golang.org",
-        "Download-Size": "24.2 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "Download-Size": "25.1 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "changelog": [
+        "golang-1.11 (1.11.6-1+deb10u7) buster-security; urgency=high",
+        "golang-1.11 (1.11.6-1+deb10u6) buster-security; urgency=high",
+        "golang-1.11 (1.11.6-1+deb10u5) buster-security; urgency=high",
         "golang-1.11 (1.11.6-1+deb10u4) buster-security; urgency=high",
         "golang-1.11 (1.11.6-1+deb10u3) buster-security; urgency=high",
         "golang-1.11 (1.11.6-1+deb10u2) buster-security; urgency=high",

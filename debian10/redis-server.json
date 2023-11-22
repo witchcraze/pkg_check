@@ -1,21 +1,23 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:5.0.14-1+deb10u2",
+        "Version": "5:5.0.14-1+deb10u5",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "173 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:5.0.14-1+deb10u2)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:5.0.14-1+deb10u5)",
         "Homepage": "https://redis.io/",
-        "Tag": "implemented-in::c, role::program",
-        "Download-Size": "90.8 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "Download-Size": "91.2 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "changelog": [
+        "redis (5:5.0.14-1+deb10u5) buster-security; urgency=high",
+        "redis (5:5.0.14-1+deb10u4) buster-security; urgency=high",
+        "redis (5:5.0.14-1+deb10u3) buster-security; urgency=high",
         "redis (5:5.0.14-1+deb10u2) buster-security; urgency=high",
         "redis (5:5.0.14-1+deb10u1) buster-security; urgency=high",
         "redis (5:5.0.3-4+deb10u3) buster; urgency=medium",

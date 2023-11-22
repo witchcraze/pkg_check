@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1n-0+deb10u3",
+        "Version": "1.1.1n-0+deb10u6",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
@@ -9,15 +9,15 @@
         "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
-        "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
-        "scope": "utility, security::cryptography, security::integrity,",
-        "use": "checking",
         "Download-Size": "855 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "changelog": [
+        "openssl (1.1.1n-0+deb10u6) buster-security; urgency=medium",
+        "openssl (1.1.1n-0+deb10u5) buster-security; urgency=medium",
+        "openssl (1.1.1n-0+deb10u4) buster-security; urgency=medium",
         "openssl (1.1.1n-0+deb10u3) buster-security; urgency=medium",
         "openssl (1.1.1n-0+deb10u2) buster-security; urgency=medium",
         "openssl (1.1.1n-0+deb10u1) buster; urgency=medium",

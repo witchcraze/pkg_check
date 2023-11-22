@@ -1,19 +1,21 @@
 {
     "show": {
         "Package": "ruby2.5",
-        "Version": "2.5.5-3+deb10u4",
+        "Version": "2.5.5-3+deb10u6",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "481 kB",
+        "Installed-Size": "482 kB",
         "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.2.5), libgmp10, libruby2.5 (>= 2.5.0~preview1)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "http://www.ruby-lang.org/",
-        "Download-Size": "400 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "Download-Size": "401 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "changelog": [
+        "ruby2.5 (2.5.5-3+deb10u6) buster-security; urgency=high",
+        "ruby2.5 (2.5.5-3+deb10u5) buster-security; urgency=high",
         "ruby2.5 (2.5.5-3+deb10u4) buster-security; urgency=high",
         "ruby2.5 (2.5.5-3+deb10u3) buster; urgency=high",
         "ruby2.5 (2.5.5-3+deb10u2) buster-security; urgency=high",

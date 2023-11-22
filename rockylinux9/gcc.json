@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "gcc",
-        "Version": "11.3.1",
-        "Release": "4.3.el9",
+        "Version": "11.4.1",
+        "Release": "2.1.el9",
         "Architecture": "x86_64",
         "Size": "32 M",
-        "Source": "gcc-11.3.1-4.3.el9.src.rpm",
+        "Source": "gcc-11.4.1-2.1.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -13,7 +13,7 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 11."
     },
     "list": [
-        "gcc.x86_64                       11.3.1-4.3.el9                        appstream"
+        "gcc.x86_64                       11.4.1-2.1.el9                        appstream"
     ],
     "kojiPackages": [
         "gcc-11.4.1-2.1.el9",

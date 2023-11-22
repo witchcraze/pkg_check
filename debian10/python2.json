@@ -18,7 +18,7 @@
         "Cnf-Extra-Commands": "python2",
         "Cnf-Priority-Bonus": "3",
         "Download-Size": "41.6 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
         "Description": "interactive high-level object-oriented language (Python2 version)"
     },
     "changelog": [

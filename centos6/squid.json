@@ -6,7 +6,7 @@
         "Version": "3.1.23",
         "Release": "24.el6",
         "Size": "1.8 M",
-        "Repo": "base",
+        "Repo": "C6.9-base",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
         "License": "GPLv2 and (LGPLv2+ and Public Domain)",

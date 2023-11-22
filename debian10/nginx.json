@@ -1,20 +1,19 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.14.2-2+deb10u4",
+        "Version": "1.14.2-2+deb10u5",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Installed-Size": "100 kB",
-        "Depends": "nginx-full (<< 1.14.2-2+deb10u4.1~) | nginx-light (<< 1.14.2-2+deb10u4.1~) | nginx-extras (<< 1.14.2-2+deb10u4.1~), nginx-full (>= 1.14.2-2+deb10u4) | nginx-light (>= 1.14.2-2+deb10u4) | nginx-extras (>= 1.14.2-2+deb10u4)",
+        "Depends": "nginx-full (<< 1.14.2-2+deb10u5.1~) | nginx-light (<< 1.14.2-2+deb10u5.1~) | nginx-extras (<< 1.14.2-2+deb10u5.1~), nginx-full (>= 1.14.2-2+deb10u5) | nginx-light (>= 1.14.2-2+deb10u5) | nginx-extras (>= 1.14.2-2+deb10u5)",
         "Homepage": "https://nginx.net",
-        "Tag": "implemented-in::c, interface::daemon, network::server, network::service,",
-        "protocol": "http, role::program, use::proxying",
-        "Download-Size": "88.5 kB",
-        "APT-Sources": "http://ftp.jp.debian.org/debian buster/main amd64 Packages",
+        "Download-Size": "88.9 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "changelog": [
+        "nginx (1.14.2-2+deb10u5) buster-security; urgency=high",
         "nginx (1.14.2-2+deb10u4) buster-security; urgency=medium",
         "nginx (1.14.2-2+deb10u3) buster-security; urgency=high",
         "nginx (1.14.2-2+deb10u2) buster; urgency=medium",

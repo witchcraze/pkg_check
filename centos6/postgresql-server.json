@@ -5,7 +5,7 @@
         "Version": "8.4.20",
         "Release": "8.el6_9",
         "Size": "3.4 M",
-        "Repo": "base",
+        "Repo": "C6.9-updates",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",

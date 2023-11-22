@@ -1,0 +1,40 @@
+{
+    "info": {
+        "Name": "openssl098e",
+        "Arch": "x86_64",
+        "Version": "0.9.8e",
+        "Release": "29.el7.centos.3",
+        "Size": "793 k",
+        "Repo": "C7.2.1511-updates/x86_64",
+        "Summary": "A compatibility version of a general cryptography and TLS library",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl098e.i686             0.9.8e-29.el7.centos              C7.0.1406-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos              C7.0.1406-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.2            C7.0.1406-updates",
+        "openssl098e.i686             0.9.8e-29.el7.centos.2            C7.1.1503-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.2            C7.2.1511-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.2            C7.0.1406-updates",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.2            C7.1.1503-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.2            C7.2.1511-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.2.1511-updates",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.3.1611-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.4.1708-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.5.1804-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.6.1810-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.7.1908-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            C7.8.2003-base",
+        "openssl098e.i686             0.9.8e-29.el7.centos.3            base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.2.1511-updates",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.3.1611-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.4.1708-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.5.1804-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.6.1810-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.7.1908-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            C7.8.2003-base",
+        "openssl098e.x86_64           0.9.8e-29.el7.centos.3            base"
+    ]
+}

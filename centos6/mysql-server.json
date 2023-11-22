@@ -5,7 +5,7 @@
         "Version": "5.1.73",
         "Release": "8.el6_8",
         "Size": "8.6 M",
-        "Repo": "base",
+        "Repo": "C6.8-updates",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
         "License": "GPLv2 with exceptions",
