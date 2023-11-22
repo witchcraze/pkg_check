@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "10.19.0~dfsg-3ubuntu1.2",
+        "Version": "10.19.0~dfsg-3ubuntu1.3",
         "Priority": "extra",
         "Section": "universe/web",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "158 kB",
-        "Depends": "libc6 (>= 2.4), libnode64 (= 10.19.0~dfsg-3ubuntu1.2)",
+        "Depends": "libc6 (>= 2.4), libnode64 (= 10.19.0~dfsg-3ubuntu1.3)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Conflicts": "nodejs-legacy",
@@ -20,6 +20,7 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "changelog": [
+        "nodejs (10.19.0~dfsg-3ubuntu1.3) focal-security; urgency=medium",
         "nodejs (10.19.0~dfsg-3ubuntu1.2) focal-security; urgency=medium",
         "nodejs (10.19.0~dfsg-3ubuntu1.1) focal-security; urgency=medium",
         "nodejs (10.19.0~dfsg-3ubuntu1) focal; urgency=medium",

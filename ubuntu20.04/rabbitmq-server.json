@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "3.8.2-0ubuntu1.4",
+        "Version": "3.8.2-0ubuntu1.5",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -12,10 +12,11 @@
         "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:21.3), erlang-eldap (>= 1:21.3), erlang-inets (>= 1:21.3), erlang-mnesia (>= 1:21.3), erlang-os-mon (>= 1:21.3), erlang-parsetools (>= 1:21.3), erlang-public-key (>= 1:21.3), erlang-runtime-tools (>= 1:21.3), erlang-ssl (>= 1:21.3), erlang-syntax-tools (>= 1:21.3), erlang-tools (>= 1:21.3), erlang-xmerl (>= 1:21.3), locales-all, logrotate, lsb-base, socat, python3:any",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "11.5 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu focal-security/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "changelog": [
+        "rabbitmq-server (3.8.2-0ubuntu1.5) focal-security; urgency=medium",
         "rabbitmq-server (3.8.2-0ubuntu1.4) focal; urgency=medium",
         "rabbitmq-server (3.8.2-0ubuntu1.3) focal-security; urgency=medium",
         "rabbitmq-server (3.8.2-0ubuntu1.2) focal; urgency=medium",

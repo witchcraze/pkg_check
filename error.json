@@ -1,4 +1,109 @@
 {
+    "centosstream": {
+        "8": {
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-7.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-8.0": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-13": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nginx": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "php": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3.11": [
+                "kojiPackages"
+            ],
+            "redis": [
+                "kojiPackages"
+            ],
+            "ruby": [
+                "kojiPackages"
+            ],
+            "tomcat": [
+                "kojiPackages"
+            ],
+            "mariadb-server10.3": [
+                "kojiPackages"
+            ],
+            "mariadb-server10.5": [
+                "kojiPackages"
+            ],
+            "mysql-server8.0": [
+                "kojiPackages"
+            ],
+            "nodejs20": [
+                "kojiPackages"
+            ],
+            "postgresql-server9.6": [
+                "kojiPackages"
+            ],
+            "postgresql-server10": [
+                "kojiPackages"
+            ],
+            "postgresql-server12": [
+                "kojiPackages"
+            ],
+            "postgresql-server13": [
+                "kojiPackages"
+            ],
+            "postgresql-server15": [
+                "kojiPackages"
+            ],
+            "postgresql16": [
+                "kojiPackages"
+            ],
+            "postgresql-server16": [
+                "kojiPackages"
+            ]
+        },
+        "9": {
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server15": [
+                "kojiPackages"
+            ],
+            "postgresql-server16": [
+                "kojiPackages"
+            ]
+        }
+    },
     "rockylinux": {
         "8": {
             "dotnet": [
@@ -77,25 +182,57 @@
             ]
         }
     },
-    "debian": {
-        "12": {
-            "postgresql-15": [
-                "changelog"
-            ]
-        }
-    },
     "ubuntu": {
-        "14.04": {
-            "gcc-4.6": [
+        "14.10": {
+            "apache2": [
+                "changelog"
+            ],
+            "bind9": [
                 "changelog"
             ],
             "gcc-4.7": [
                 "changelog"
             ],
-            "mongodb-server": [
+            "gcc-4.8": [
                 "changelog"
             ],
-            "python3": [
+            "gcc-4.9": [
+                "changelog"
+            ],
+            "haproxy": [
+                "changelog"
+            ],
+            "mysql-server-5.5": [
+                "changelog"
+            ],
+            "nginx": [
+                "changelog"
+            ],
+            "openjdk-7-jdk": [
+                "changelog"
+            ],
+            "openssl": [
+                "changelog"
+            ],
+            "php5": [
+                "changelog"
+            ],
+            "postgresql-9.4": [
+                "changelog"
+            ],
+            "python2.7": [
+                "changelog"
+            ],
+            "rabbitmq-server": [
+                "changelog"
+            ],
+            "ruby2.0": [
+                "changelog"
+            ],
+            "ruby2.1": [
+                "changelog"
+            ],
+            "tomcat7": [
                 "changelog"
             ]
         }

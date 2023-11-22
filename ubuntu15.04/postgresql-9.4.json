@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "postgresql-9.4",
+        "Priority": "optional",
+        "Section": "database",
+        "Installed-Size": "12.1 MB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian PostgreSQL Maintainers <pkg-postgresql-public@lists.alioth.debian.org>",
+        "Version": "9.4.1-1",
+        "Depends": "libc6 (>= 2.16), libgssapi-krb5-2 (>= 1.8+dfsg), libldap-2.4-2 (>= 2.4.7), libpam0g (>= 0.99.7.1), libpq5 (>= 9.1~), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), postgresql-client-9.4, postgresql-common (>= 142~), tzdata, ssl-cert, locales",
+        "Suggests": "oidentd | ident-server, locales-all",
+        "Download-Size": "2837 kB",
+        "Homepage": "http://www.postgresql.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "Task": "postgresql-server",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "Description": "object-relational SQL database, version 9.4 server"
+    },
+    "changelog": [
+        "postgresql-9.4 (9.4.1-1) unstable; urgency=medium",
+        "postgresql-9.4 (9.4.0-1) unstable; urgency=medium",
+        "postgresql-9.4 (9.4~rc1-1) unstable; urgency=medium",
+        "postgresql-9.4 (9.4~beta3-3) unstable; urgency=medium",
+        "postgresql-9.4 (9.4~beta3-2) unstable; urgency=medium",
+        "postgresql-9.4 (9.4~beta3-1) unstable; urgency=medium",
+        "postgresql-9.4 (9.4~beta2-1) unstable; urgency=low",
+        "postgresql-9.4 (9.4~beta1-2) experimental; urgency=medium",
+        "postgresql-9.4 (9.4~beta1-1) experimental; urgency=low"
+    ]
+}

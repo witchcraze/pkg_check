@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "12.22.9~dfsg-1ubuntu3.1",
+        "Version": "12.22.9~dfsg-1ubuntu3.2",
         "Priority": "extra",
         "Section": "universe/web",
         "Origin": "Ubuntu",
@@ -9,8 +9,8 @@
         "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "929 kB",
-        "Provides": "node-types-node (= 12.20.42~12.22.9~dfsg-1ubuntu3.1)",
-        "Depends": "libc6 (>= 2.34), libnode72 (= 12.22.9~dfsg-1ubuntu3.1)",
+        "Provides": "node-types-node (= 12.20.42~12.22.9~dfsg-1ubuntu3.2)",
+        "Depends": "libc6 (>= 2.34), libnode72 (= 12.22.9~dfsg-1ubuntu3.2)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Breaks": "node-babel-runtime (<< 7), node-typescript-types (<< 20210110~)",
@@ -20,6 +20,7 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "changelog": [
+        "nodejs (12.22.9~dfsg-1ubuntu3.2) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3.1) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3) jammy; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu2) jammy; urgency=medium",

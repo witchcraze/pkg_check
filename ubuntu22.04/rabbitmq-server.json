@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "3.9.13-1ubuntu0.22.04.1",
+        "Version": "3.9.13-1ubuntu0.22.04.2",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -12,10 +12,11 @@
         "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:24.0), erlang-eldap (>= 1:24.0), erlang-inets (>= 1:24.0), erlang-mnesia (>= 1:24.0), erlang-os-mon (>= 1:24.0), erlang-parsetools (>= 1:24.0), erlang-public-key (>= 1:24.0), erlang-runtime-tools (>= 1:24.0), erlang-ssl (>= 1:24.0), erlang-syntax-tools (>= 1:24.0), erlang-tools (>= 1:24.0), erlang-xmerl (>= 1:24.0), logrotate, lsb-base, openssl, socat, python3:any",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "15.2 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "changelog": [
+        "rabbitmq-server (3.9.13-1ubuntu0.22.04.2) jammy-security; urgency=medium",
         "rabbitmq-server (3.9.13-1ubuntu0.22.04.1) jammy; urgency=medium",
         "rabbitmq-server (3.9.13-1) unstable; urgency=medium",
         "rabbitmq-server (3.9.8-6) unstable; urgency=medium",
