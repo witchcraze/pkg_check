@@ -17,5 +17,11 @@
         "redis.x86_64           6.0.9-3.module_el8.4.0+788+86a4d8e8             appstream",
         "redis.x86_64           6.0.9-5.module_el8.4.0+956+a52e9aa4             appstream",
         "redis.x86_64           6.2.7-1.module_el8.7.0+1144+ab2666e8            appstream"
+    ],
+    "kojiPackages": [
+        "redis-6.2.7-1.module_el8.7.0+1144+ab2666e8",
+        "redis-6.0.9-5.module_el8.4.0+956+a52e9aa4",
+        "redis-6.0.9-3.module_el8.4.0+788+86a4d8e8",
+        "redis-6.0.9-2.module_el8.4.0+580+92c8284e"
     ]
 }

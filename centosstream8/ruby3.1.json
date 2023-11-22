@@ -15,5 +15,8 @@
     "list": [
         "ruby.i686             3.1.2-141.module_el8.7.0+1180+5395fc58           appstream",
         "ruby.x86_64           3.1.2-141.module_el8.7.0+1180+5395fc58           appstream"
+    ],
+    "kojiPackages": [
+        "ruby-3.1.2-141.module_el8.7.0+1180+5395fc58"
     ]
 }

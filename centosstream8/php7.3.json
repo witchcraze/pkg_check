@@ -14,5 +14,11 @@
     },
     "list": [
         "php.x86_64            7.3.20-1.module_el8.2.0+498+4deef2f1             appstream"
+    ],
+    "kojiPackages": [
+        "php-7.3.20-1.module_el8.2.0+498+4deef2f1",
+        "php-7.3.20-1.module_el8.2.0+488+2797d07e",
+        "php-7.3.5-5.module_el8.2.0+314+53b99e08",
+        "php-7.3.5-3.module_el8.1.0+252+0d4e049c"
     ]
 }

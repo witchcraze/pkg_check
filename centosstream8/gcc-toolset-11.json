@@ -15,5 +15,10 @@
         "gcc-toolset-11.x86_64                    11.0-0.el8                    appstream",
         "gcc-toolset-11.x86_64                    11.0-1.el8                    appstream",
         "gcc-toolset-11.x86_64                    11.1-1.el8                    appstream"
+    ],
+    "kojiPackages": [
+        "gcc-toolset-11-11.1-1.el8",
+        "gcc-toolset-11-11.0-1.el8",
+        "gcc-toolset-11-11.0-0.el8"
     ]
 }

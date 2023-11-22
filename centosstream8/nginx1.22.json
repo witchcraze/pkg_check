@@ -15,5 +15,8 @@
     },
     "list": [
         "nginx.x86_64          1:1.22.1-1.module_el8.8.0+1239+8ec0d538          appstream"
+    ],
+    "kojiPackages": [
+        "nginx-1.22.1-1.module_el8.8.0+1239+8ec0d538"
     ]
 }

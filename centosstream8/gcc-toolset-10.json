@@ -13,5 +13,9 @@
     },
     "list": [
         "gcc-toolset-10.x86_64                    10.1-0.el8                    appstream"
+    ],
+    "kojiPackages": [
+        "gcc-toolset-10-10.1-0.el8",
+        "gcc-toolset-10-10.0-0.el8"
     ]
 }

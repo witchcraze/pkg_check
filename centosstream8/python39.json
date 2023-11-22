@@ -23,5 +23,25 @@
         "python39.x86_64         3.9.16-1.module_el8.8.0+1243+5f5a1e61          appstream",
         "python39.x86_64         3.9.17-1.module_el8+547+65817b2b               appstream",
         "python39.x86_64         3.9.17-2.module_el8+639+3fcd10de               appstream"
+    ],
+    "kojiPackages": [
+        "python39-3.9.16-1.module_el8.8.0+1243+5f5a1e61",
+        "python39-3.9.14-2.module_el8.8.0+1230+a6d278ed",
+        "python39-3.9.13-1.module_el8.7.0+1178+0ba51308",
+        "python39-3.9.7-1.module_el8.6.0+930+10acc06f",
+        "python39-3.9.6-2.module_el8.5.0+897+68c4c210",
+        "python39-3.9.6-1.module_el8.5.0+872+ab54e8e5",
+        "python39-3.9.2-2.module_el8.5.0+766+33a59395",
+        "python39-3.9.2-1.module_el8.5.0+738+dc19af12",
+        "python39-3.9.2-1.module_el8.4.0+720+bfbc1bcb",
+        "python39-3.9.1-5.module_el8.4.0+694+cc446542",
+        "python39-3.9.1-3.module_el8.4.0+680+7b309a77",
+        "python39-3.9.1-2.module_el8.4.0+671+4986a6ec",
+        "python39-3.9.1-2.module_el8.4.0+667+a9d36200",
+        "python39-3.9.1-2.module_el8.4.0+661+88000954",
+        "python39-3.9.1-2.module_el8.4.0+660+e32cb075",
+        "python39-3.9.1-2.module_el8.4.0+657+28890a0c",
+        "python39-3.9.1-2.module_el8.4.0+656+a7dcd76b",
+        "python39-3.9.1-2.module_el8.4.0+655+40bf8e7d"
     ]
 }

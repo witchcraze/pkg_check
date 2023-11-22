@@ -16,5 +16,10 @@
     "list": [
         "nginx.x86_64         1:1.16.1-1.module_el8.1.0+250+351caf85            appstream",
         "nginx.x86_64         1:1.16.1-2.module_el8.4.0+820+127618ce.1          appstream"
+    ],
+    "kojiPackages": [
+        "nginx-1.16.1-2.module_el8.4.0+820+127618ce.1",
+        "nginx-1.16.1-1.module_el8.3.0+607+4f40239d.1",
+        "nginx-1.16.1-1.module_el8.1.0+250+351caf85"
     ]
 }

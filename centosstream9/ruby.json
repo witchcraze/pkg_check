@@ -19,5 +19,19 @@
         "ruby.x86_64                       3.0.3-159.el9                        appstream",
         "ruby.i686                         3.0.4-160.el9                        appstream",
         "ruby.x86_64                       3.0.4-160.el9                        appstream"
+    ],
+    "kojiPackages": [
+        "ruby-3.0.4-160.el9",
+        "ruby-3.0.3-159.el9",
+        "ruby-3.0.2-155.el9",
+        "ruby-3.0.2-154.el9",
+        "ruby-3.0.1-153.el9",
+        "ruby-3.0.1-152.el9",
+        "ruby-3.0.1-151.el9",
+        "ruby-3.0.1-150.el9",
+        "ruby-3.0.1-148.el9",
+        "ruby-3.0.0-147.el9",
+        "ruby-3.0.0-146.el9",
+        "ruby-3.0.0-145.el9"
     ]
 }

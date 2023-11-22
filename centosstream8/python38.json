@@ -23,5 +23,27 @@
         "python38.x86_64         3.8.16-1.module_el8.8.0+1242+93d6d191          appstream",
         "python38.x86_64         3.8.17-1.module_el8+623+a81edf99               appstream",
         "python38.x86_64         3.8.17-2.module_el8+640+ebf3d03c               appstream"
+    ],
+    "kojiPackages": [
+        "python38-3.8.16-1.module_el8.8.0+1242+93d6d191",
+        "python38-3.8.14-1.module_el8.8.0+1229+0b0be619",
+        "python38-3.8.13-1.module_el8.7.0+1177+19c53253",
+        "python38-3.8.12-1.module_el8.6.0+929+89303463",
+        "python38-3.8.8-4.module_el8.5.0+896+eb9e77ba",
+        "python38-3.8.8-3.module_el8.5.0+871+689c57c1",
+        "python38-3.8.8-2.module_el8.5.0+765+e829a51d",
+        "python38-3.8.8-1.module_el8.5.0+758+421c7348",
+        "python38-3.8.6-3.module_el8.5.0+742+dbad1979",
+        "python38-3.8.6-3.module_el8.4.0+665+abc3a503",
+        "python38-3.8.6-2.module_el8.4.0+647+0ba99ce8",
+        "python38-3.8.3-3.module_el8.3.0+468+0c52a667",
+        "python38-3.8.3-1.module_el8.3.0+441+3b561464",
+        "python38-3.8.0-10.module_el8.3.0+388+abfdd391",
+        "python38-3.8.0-6.module_el8.2.0+317+61fa6e7d",
+        "python38-3.8.0-4.module_el8.1.0+287+c25ecda6",
+        "python38-3.8.0-4.module_el8.1.0+285+8f31cd59",
+        "python38-3.8.0-4.module_el8.1.0+284+18aea0b9",
+        "python38-3.8.0-4.module_el8.1.0+283+3a437f6b",
+        "python38-3.8.0-4.module_el8.1.0+282+80f38bec"
     ]
 }

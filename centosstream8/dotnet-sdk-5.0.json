@@ -26,5 +26,32 @@
         "dotnet-sdk-5.0.x86_64                 5.0.210-1.el8_5                  appstream",
         "dotnet-sdk-5.0.x86_64                 5.0.211-1.el8_5                  appstream",
         "dotnet-sdk-5.0.x86_64                 5.0.212-2.el8                    appstream"
+    ],
+    "kojiPackages": [
+        "dotnet5.0-5.0.212-2.el8",
+        "dotnet5.0-5.0.211-1.el8_5",
+        "dotnet5.0-5.0.210-2.el8",
+        "dotnet5.0-5.0.210-1.el8_5",
+        "dotnet5.0-5.0.209-1.el8_5",
+        "dotnet5.0-5.0.208-2.el8_5",
+        "dotnet5.0-5.0.207-3.el8",
+        "dotnet5.0-5.0.208-1.el8_4",
+        "dotnet5.0-5.0.207-2.el8",
+        "dotnet5.0-5.0.207-1.el8_4",
+        "dotnet5.0-5.0.206-1.el8_4",
+        "dotnet5.0-5.0.205-2.el8_4",
+        "dotnet5.0-5.0.205-1.el8_4",
+        "dotnet5.0-5.0.204-1.el8",
+        "dotnet5.0-5.0.204-1.el8_4",
+        "dotnet5.0-5.0.203-1.el8_4",
+        "dotnet5.0-5.0.202-2.el8",
+        "dotnet5.0-5.0.104-2.el8",
+        "dotnet5.0-5.0.103-2.el8",
+        "dotnet5.0-5.0.102-2.el8",
+        "dotnet5.0-5.0.102-2.el8_3",
+        "dotnet5.0-5.0.100-0.8.0201202git337413b.el8_3",
+        "dotnet5.0-5.0.100-0.10.20201203git337413b.el8",
+        "dotnet5.0-5.0.100-0.6.preview8.el8",
+        "dotnet5.0-5.0.100-0.3.preview4.el8"
     ]
 }

@@ -1,0 +1,36 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "13.7",
+        "Release": "2.module_el8.6.0+1152+d0162c0a",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-13.7-2.module_el8.6.0+1152+d0162c0a.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64         13.2-1.module_el8.4.0+701+c3c42fce           appstream",
+        "postgresql.x86_64         13.3-1.module_el8.5.0+825+b0b60c92           appstream",
+        "postgresql.x86_64         13.3-1.module_el8.5.0+843+2fa7d82b           appstream",
+        "postgresql.x86_64         13.3-2.module_el8.5.0+866+90b85912           appstream",
+        "postgresql.x86_64         13.3-3.module_el8.6.0+1012+fa58b3a3          appstream",
+        "postgresql.x86_64         13.5-2.module_el8.6.0+1044+ed943ce5          appstream",
+        "postgresql.x86_64         13.7-2.module_el8.6.0+1152+d0162c0a          appstream"
+    ],
+    "kojiPackages": [
+        "postgresql-13.7-2.module_el8.6.0+1152+d0162c0a",
+        "postgresql-13.5-1.module_el8.5.0+1062+8eba5f44",
+        "postgresql-13.5-2.module_el8.6.0+1044+ed943ce5",
+        "postgresql-13.3-3.module_el8.6.0+1012+fa58b3a3",
+        "postgresql-13.3-2.module_el8.5.0+866+90b85912",
+        "postgresql-13.3-1.module_el8.5.0+843+2fa7d82b",
+        "postgresql-13.3-1.module_el8.4.0+829+d585ddcd",
+        "postgresql-13.3-1.module_el8.5.0+825+b0b60c92",
+        "postgresql-13.2-1.module_el8.4.0+701+c3c42fce",
+        "postgresql-13.1-1.module_el8.4.0+598+6a753823"
+    ]
+}

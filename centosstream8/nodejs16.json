@@ -19,5 +19,16 @@
         "nodejs.x86_64         1:16.8.0-1.module_el8.6.0+928+039f010b           appstream",
         "nodejs.x86_64         1:16.14.0-5.module_el8.7.0+1150+2cc83a14         appstream",
         "nodejs.x86_64         1:16.18.1-3.module_el8.7.0+1234+1d8589d9         appstream"
+    ],
+    "kojiPackages": [
+        "nodejs-16.18.1-3.module_el8.7.0+1234+1d8589d9",
+        "nodejs-16.16.0-3.module_el8.6.0+1200+f7e73ab8",
+        "nodejs-16.14.0-5.module_el8.7.0+1150+2cc83a14",
+        "nodejs-16.13.1-3.module_el8.5.0+1059+1852da12",
+        "nodejs-16.13.1-3.module_el8.5.0+1058+80cd7b24",
+        "nodejs-16.8.0-1.module_el8.5.0+999+c0bf7004",
+        "nodejs-16.8.0-1.module_el8.6.0+928+039f010b",
+        "nodejs-16.7.0-2.module_el8.5.0+917+002e3877",
+        "nodejs-16.4.2-1.module_el8.5.0+900+545f34ef"
     ]
 }

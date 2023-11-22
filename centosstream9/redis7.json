@@ -14,5 +14,12 @@
     },
     "list": [
         "redis.x86_64             7.0.12-1.module_el9+499+353c08ce              appstream"
+    ],
+    "kojiPackages": [
+        "redis-7.0.12-1.module_el9+499+353c08ce",
+        "redis-7.0.11-1.module_el9+481+6ccf8956",
+        "redis-7.0.11-1.module_el9+476+382b50e0",
+        "redis-7.0.11-1.module_el9+438+77c2566a",
+        "redis-7.0.11-1.module_el9+419+62e6c447"
     ]
 }

@@ -19,5 +19,15 @@
         "varnish.x86_64                       6.6.2-2.el9                       appstream",
         "varnish.i686                         6.6.2-3.el9                       appstream",
         "varnish.x86_64                       6.6.2-3.el9                       appstream"
+    ],
+    "kojiPackages": [
+        "varnish-6.6.2-5.el9",
+        "varnish-6.6.2-3.el9",
+        "varnish-6.6.2-2.el9",
+        "varnish-6.6.2-1.el9",
+        "varnish-6.5.2-2.el9",
+        "varnish-6.5.2-1.el9",
+        "varnish-6.5.1-5.el9",
+        "varnish-6.5.1-4.el9"
     ]
 }

@@ -15,5 +15,13 @@
     },
     "list": [
         "perl.x86_64          4:5.24.4-404.module_el8.1.0+229+cd132df8          appstream"
+    ],
+    "kojiPackages": [
+        "perl-5.24.4-404.module_el8.1.0+229+cd132df8",
+        "perl-5.24.4-398.module_el8.1.0+224+75158c84",
+        "perl-5.24.4-398.module_el8.0.0+50+c3b345cd",
+        "perl-5.24.4-398.module_el8.0.0+48+0dde6d7d",
+        "perl-5.24.4-398.module_el8.0.0+24+187ecd57",
+        "perl-5.24.4-398.module_el8.0.0+20+fedf7939"
     ]
 }

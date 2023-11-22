@@ -15,5 +15,10 @@
     "list": [
         "redis.x86_64            5.0.3-2.module_el8.2.0+318+3d7e67ea            appstream",
         "redis.x86_64            5.0.3-5.module_el8.4.0+955+7126e393            appstream"
+    ],
+    "kojiPackages": [
+        "redis-5.0.3-5.module_el8.4.0+955+7126e393",
+        "redis-5.0.3-2.module_el8.2.0+318+3d7e67ea",
+        "redis-5.0.3-1.module_el8.0.0+6+ab019c03"
     ]
 }

@@ -19,5 +19,12 @@
         "ruby.x86_64          2.6.7-107.module_el8.5.0+812+5a010648             appstream",
         "ruby.i686            2.6.10-109.module_el8.6.0+1154+d96790ac           appstream",
         "ruby.x86_64          2.6.10-109.module_el8.6.0+1154+d96790ac           appstream"
+    ],
+    "kojiPackages": [
+        "ruby-2.6.10-109.module_el8.6.0+1154+d96790ac",
+        "ruby-2.6.9-108.module_el8.5.0+1065+a35485fc",
+        "ruby-2.6.7-107.module_el8.4.0+848+83b90ba8",
+        "ruby-2.6.7-107.module_el8.5.0+812+5a010648",
+        "ruby-2.6.3-106.module_el8.1.0+249+93480f15"
     ]
 }

@@ -15,5 +15,21 @@
     },
     "list": [
         "nodejs.x86_64         1:12.20.1-1.module_el8.4.0+649+b0593ddf          appstream"
+    ],
+    "kojiPackages": [
+        "nodejs-12.22.5-1.module_el8.4.0+936+3f491353",
+        "nodejs-12.22.3-2.module_el8.4.0+887+6487fc70",
+        "nodejs-12.21.0-1.module_el8.3.0+718+96bc7fec",
+        "nodejs-12.20.1-1.module_el8.3.0+705+5d03e5c7",
+        "nodejs-12.20.1-1.module_el8.4.0+649+b0593ddf",
+        "nodejs-12.19.1-1.module_el8.3.0+610+8a0c1add",
+        "nodejs-12.18.4-2.module_el8.2.0+530+cb1b9c8b",
+        "nodejs-12.18.4-1.module_el8.3.0+513+6c329c79",
+        "nodejs-12.18.2-1.module_el8.3.0+435+1317aabd",
+        "nodejs-12.18.2-1.module_el8.2.0+392+08345d37",
+        "nodejs-12.16.1-2.module_el8.2.0+311+974d721c",
+        "nodejs-12.16.1-2.module_el8.1.0+295+e9ddcc19",
+        "nodejs-12.13.1-1.module_el8.1.0+278+76321dc4",
+        "nodejs-12.4.0-2.module_el8.1.0+251+8afea200"
     ]
 }

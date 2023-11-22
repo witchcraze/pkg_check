@@ -19,5 +19,27 @@
         "bind.x86_64                     32:9.16.23-9.el9                       appstream",
         "bind.x86_64                     32:9.16.23-11.el9                      appstream",
         "bind.x86_64                     32:9.16.23-13.el9                      appstream"
+    ],
+    "kojiPackages": [
+        "bind-9.16.23-13.el9",
+        "bind-9.16.23-11.el9",
+        "bind-9.16.23-10.el9",
+        "bind-9.16.23-9.el9",
+        "bind-9.16.23-8.el9",
+        "bind-9.16.23-7.el9",
+        "bind-9.16.23-6.el9",
+        "bind-9.16.23-4.el9",
+        "bind-9.16.23-3.el9",
+        "bind-9.16.23-1.el9",
+        "bind-9.16.20-5.el9",
+        "bind-9.16.20-2.el9",
+        "bind-9.16.19-2.el9",
+        "bind-9.16.19-1.el9",
+        "bind-9.16.15-3.el9",
+        "bind-9.16.15-2.el9",
+        "bind-9.16.15-1.el9",
+        "bind-9.16.11-6.el9",
+        "bind-9.16.11-5.el9",
+        "bind-9.16.11-2.el9"
     ]
 }

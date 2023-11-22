@@ -14,5 +14,10 @@
     "list": [
         "gcc-toolset-13.x86_64                    13.0-1.el9                    appstream",
         "gcc-toolset-13.x86_64                    13.0-2.el9                    appstream"
+    ],
+    "kojiPackages": [
+        "gcc-toolset-13-13.0-2.el9",
+        "gcc-toolset-13-13.0-1.el9",
+        "gcc-toolset-13-13.0-0.el9"
     ]
 }

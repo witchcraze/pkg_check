@@ -18,5 +18,15 @@
         "perl.x86_64                      4:5.26.3-420.el8                      appstream",
         "perl.x86_64                      4:5.26.3-421.el8                      appstream",
         "perl.x86_64                      4:5.26.3-422.el8                      appstream"
+    ],
+    "kojiPackages": [
+        "perl-5.26.3-422.el8",
+        "perl-5.26.3-421.el8",
+        "perl-5.26.3-419.el8_4.1",
+        "perl-5.26.3-420.el8",
+        "perl-5.26.3-419.el8",
+        "perl-5.26.3-418.el8",
+        "perl-5.26.3-417.el8",
+        "perl-5.26.3-416.el8"
     ]
 }
