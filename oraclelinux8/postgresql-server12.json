@@ -13,14 +13,14 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64 12.1-2.module+el8.1.1+5522+70e4f29e       ol8_appstream",
-        "postgresql-server.x86_64 12.5-1.module+el8.3.0+9608+b210d254       ol8_appstream",
-        "postgresql-server.x86_64 12.7-1.module+el8.4.0+20191+2f8d0e59      ol8_appstream",
-        "postgresql-server.x86_64 12.7-2.module+el8.5.0+20333+86306fc7      ol8_appstream",
-        "postgresql-server.x86_64 12.9-1.module+el8.5.0+20463+3d6b40f2      ol8_appstream",
-        "postgresql-server.x86_64 12.9-3.module+el8.6.0+20533+00387d81      ol8_appstream",
-        "postgresql-server.x86_64 12.11-2.module+el8.6.0+20676+128a094e     ol8_appstream",
-        "postgresql-server.x86_64 12.12-1.module+el8.6.0+20851+edfb83f8     ol8_appstream",
-        "postgresql-server.x86_64 12.15-1.0.1.module+el8.8.0+21142+0a9e8b30 ol8_appstream"
+        "postgresql-server.x86_64           12.1-2.module+el8.1.1+5522+70e4f29e                 ol8_appstream",
+        "postgresql-server.x86_64           12.5-1.module+el8.3.0+9608+b210d254                 ol8_appstream",
+        "postgresql-server.x86_64           12.7-1.module+el8.4.0+20191+2f8d0e59                ol8_appstream",
+        "postgresql-server.x86_64           12.7-2.module+el8.5.0+20333+86306fc7                ol8_appstream",
+        "postgresql-server.x86_64           12.9-1.module+el8.5.0+20463+3d6b40f2                ol8_appstream",
+        "postgresql-server.x86_64           12.9-3.module+el8.6.0+20533+00387d81                ol8_appstream",
+        "postgresql-server.x86_64           12.11-2.module+el8.6.0+20676+128a094e               ol8_appstream",
+        "postgresql-server.x86_64           12.12-1.module+el8.6.0+20851+edfb83f8               ol8_appstream",
+        "postgresql-server.x86_64           12.15-1.0.1.module+el8.8.0+21142+0a9e8b30           ol8_appstream"
     ]
 }

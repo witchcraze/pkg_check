@@ -14,13 +14,13 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64       1:10.14.1-1.module+el8+5141+5528e502           ol8_appstream",
-        "nodejs.x86_64       1:10.16.3-2.module+el8.1.0+5392+4d6b561f       ol8_appstream",
-        "nodejs.x86_64       1:10.19.0-1.module+el8.1.0+5552+3cab52c0       ol8_appstream",
-        "nodejs.x86_64       1:10.19.0-2.module+el8.1.0+5572+a2a7be63       ol8_appstream",
-        "nodejs.x86_64       1:10.19.0-2.module+el8.2.0+7614+5f9c8b3b       ol8_appstream",
-        "nodejs.x86_64       1:10.21.0-3.module+el8.2.0+7635+4ebb0540       ol8_appstream",
-        "nodejs.x86_64       1:10.23.1-1.module+el8.3.0+9642+87902f83       ol8_appstream",
-        "nodejs.x86_64       1:10.24.0-1.module+el8.3.0+9671+154373c8       ol8_appstream"
+        "nodejs.x86_64                 1:10.14.1-1.module+el8+5141+5528e502                     ol8_appstream",
+        "nodejs.x86_64                 1:10.16.3-2.module+el8.1.0+5392+4d6b561f                 ol8_appstream",
+        "nodejs.x86_64                 1:10.19.0-1.module+el8.1.0+5552+3cab52c0                 ol8_appstream",
+        "nodejs.x86_64                 1:10.19.0-2.module+el8.1.0+5572+a2a7be63                 ol8_appstream",
+        "nodejs.x86_64                 1:10.19.0-2.module+el8.2.0+7614+5f9c8b3b                 ol8_appstream",
+        "nodejs.x86_64                 1:10.21.0-3.module+el8.2.0+7635+4ebb0540                 ol8_appstream",
+        "nodejs.x86_64                 1:10.23.1-1.module+el8.3.0+9642+87902f83                 ol8_appstream",
+        "nodejs.x86_64                 1:10.24.0-1.module+el8.3.0+9671+154373c8                 ol8_appstream"
     ]
 }

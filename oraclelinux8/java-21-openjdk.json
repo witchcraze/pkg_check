@@ -14,7 +14,7 @@
         "Description": "The OpenJDK 21 runtime environment."
     },
     "list": [
-        "java-21-openjdk.src              1:21.0.1.0.12-2.0.1.el8           ol8_appstream",
-        "java-21-openjdk.x86_64           1:21.0.1.0.12-2.0.1.el8           ol8_appstream"
+        "java-21-openjdk.src                        1:21.0.1.0.12-2.0.1.el8                     ol8_appstream",
+        "java-21-openjdk.x86_64                     1:21.0.1.0.12-2.0.1.el8                     ol8_appstream"
     ]
 }

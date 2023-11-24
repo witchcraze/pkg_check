@@ -14,7 +14,7 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64      1:1.14.1-8.0.1.module+el8+5196+7b096858          ol8_appstream",
-        "nginx.x86_64      1:1.14.1-9.0.1.module+el8.0.0+5347+9282027e      ol8_appstream"
+        "nginx.x86_64                1:1.14.1-8.0.1.module+el8+5196+7b096858                    ol8_appstream",
+        "nginx.x86_64                1:1.14.1-9.0.1.module+el8.0.0+5347+9282027e                ol8_appstream"
     ]
 }

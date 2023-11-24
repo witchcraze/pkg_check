@@ -14,14 +14,13 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64 3:10.3.11-1.module+el8+5138+0a3cd156         ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.11-2.module+el8+5212+7b8bb354         ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.17-1.module+el8.1.0+5402+691bd77e     ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.27-3.module+el8.3.0+9616+7a81225f     ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.28-1.module+el8.3.0+20131+15c9d707    ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.32-2.0.1.module+el8.5.0+20629+e1b20d6b",
-        "                                                                   ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.35-1.module+el8.6.0+20730+e6b28fc7    ol8_appstream",
-        "mariadb-server.x86_64 3:10.3.39-1.module+el8.8.0+21165+f6462f70    ol8_appstream"
+        "mariadb-server.x86_64          3:10.3.11-1.module+el8+5138+0a3cd156                    ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.11-2.module+el8+5212+7b8bb354                    ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.17-1.module+el8.1.0+5402+691bd77e                ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.27-3.module+el8.3.0+9616+7a81225f                ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.28-1.module+el8.3.0+20131+15c9d707               ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.32-2.0.1.module+el8.5.0+20629+e1b20d6b           ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.35-1.module+el8.6.0+20730+e6b28fc7               ol8_appstream",
+        "mariadb-server.x86_64          3:10.3.39-1.module+el8.8.0+21165+f6462f70               ol8_appstream"
     ]
 }
