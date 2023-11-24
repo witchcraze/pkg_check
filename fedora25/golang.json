@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "1.7.6",
+        "Release": "3.fc25",
+        "Size": "1.2 M",
+        "Repo": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                        1.7.3-1.fc25                        fedora",
+        "golang.x86_64                        1.7.6-3.fc25                        updates"
+    ]
+}

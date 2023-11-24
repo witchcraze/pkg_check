@@ -14,7 +14,6 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64        3:10.3.35-1.module+el8.6.0+1005+cdf19c22         appstream",
         "mariadb.x86_64        3:10.3.39-1.module+el8.8.0+1452+2a7eab68         appstream"
     ],
     "kojiPackages": [

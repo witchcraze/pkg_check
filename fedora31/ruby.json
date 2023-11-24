@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.6.6",
+        "Release": "125.fc31",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-2.6.6-125.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          2.6.3-122.fc31                        fedora",
+        "ruby.x86_64                        2.6.3-122.fc31                        fedora",
+        "ruby.i686                          2.6.6-125.fc31                        updates",
+        "ruby.x86_64                        2.6.6-125.fc31                        updates"
+    ]
+}

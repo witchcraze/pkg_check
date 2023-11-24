@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "squid",
+        "Arch": "x86_64",
+        "Epoch": "7",
+        "Version": "3.5.20",
+        "Release": "17.0.1.el7_9.9",
+        "Size": "3.1 M",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64                 7:3.3.8-11.el7                          ol7_u0_base",
+        "squid.x86_64                 7:3.3.8-12.el7_0                        ol7_u1_base",
+        "squid.x86_64                 7:3.3.8-26.el7                          ol7_u2_base",
+        "squid.x86_64                 7:3.5.20-2.el7                          ol7_u3_base",
+        "squid.x86_64                 7:3.5.20-10.el7                         ol7_u4_base",
+        "squid.x86_64                 7:3.5.20-12.el7                         ol7_latest",
+        "squid.x86_64                 7:3.5.20-12.el7                         ol7_u5_base",
+        "squid.x86_64                 7:3.5.20-12.el7                         ol7_u6_base",
+        "squid.x86_64                 7:3.5.20-12.el7_6.1                     ol7_latest",
+        "squid.x86_64                 7:3.5.20-12.el7_6.1                     ol7_u7_base",
+        "squid.x86_64                 7:3.5.20-15.el7                         ol7_latest",
+        "squid.x86_64                 7:3.5.20-15.el7                         ol7_u8_base",
+        "squid.x86_64                 7:3.5.20-15.el7_8.1                     ol7_latest",
+        "squid.x86_64                 7:3.5.20-15.el7_8.1                     ol7_u9_base",
+        "squid.x86_64                 7:3.5.20-17.el7_9.4                     ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.el7_9.5                     ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.el7_9.6                     ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.0.1.el7_9.6                 ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.0.1.el7_9.7                 ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.0.1.el7_9.8                 ol7_latest",
+        "squid.x86_64                 7:3.5.20-17.0.1.el7_9.9                 ol7_latest"
+    ]
+}

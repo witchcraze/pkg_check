@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.3.24",
+        "Release": "1.fc31",
+        "Architecture": "x86_64",
+        "Size": "2.3 M",
+        "Source": "php-7.3.24-1.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64                         7.3.10-1.fc31                         fedora",
+        "php.x86_64                         7.3.24-1.fc31                         updates"
+    ]
+}

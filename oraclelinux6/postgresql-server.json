@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Version": "8.4.20",
+        "Release": "8.el6_9",
+        "Size": "3.4 M",
+        "Repo": "ol6_latest",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "The postgresql-server package includes the programs needed to"
+    },
+    "list": [
+        "postgresql-server.x86_64              8.4.4-2.el6                   ol6_ga_base",
+        "postgresql-server.x86_64              8.4.7-2.el6                   ol6_u1_base",
+        "postgresql-server.x86_64              8.4.9-1.el6_1.1               ol6_u2_base",
+        "postgresql-server.x86_64              8.4.11-1.el6_2                ol6_u3_base",
+        "postgresql-server.x86_64              8.4.13-1.el6_3                ol6_u4_base",
+        "postgresql-server.x86_64              8.4.18-1.el6_4                ol6_u5_base",
+        "postgresql-server.x86_64              8.4.20-1.el6_5                ol6_u6_base",
+        "postgresql-server.x86_64              8.4.20-2.el6_6                ol6_u7_base",
+        "postgresql-server.x86_64              8.4.20-6.el6                  ol6_u8_base",
+        "postgresql-server.x86_64              8.4.20-7.el6                  ol6_latest",
+        "postgresql-server.x86_64              8.4.20-7.el6                  ol6_u9_base",
+        "postgresql-server.x86_64              8.4.20-8.el6_9                ol6_latest",
+        "postgresql-server.x86_64              8.4.20-8.el6_9                ol6_u10_base"
+    ]
+}

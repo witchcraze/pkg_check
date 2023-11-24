@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Version": "9.2.24",
+        "Release": "8.amzn2.0.1",
+        "Size": "3.8 M",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql-server.x86_64              9.2.23-1.amzn2                  amzn2-core",
+        "postgresql-server.x86_64              9.2.23-3.amzn2                  amzn2-core",
+        "postgresql-server.x86_64              9.2.24-1.amzn2.0.1              amzn2-core",
+        "postgresql-server.x86_64              9.2.24-6.amzn2                  amzn2-core",
+        "postgresql-server.x86_64              9.2.24-8.amzn2                  amzn2-core",
+        "postgresql-server.x86_64              9.2.24-8.amzn2.0.1              amzn2-core"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "ruby24",
+        "Arch": "x86_64",
+        "Version": "2.4.10",
+        "Release": "2.15.amzn1",
+        "Size": "81 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby24.x86_64                  2.4.4-1.30.6.amzn1                   amzn-main",
+        "ruby24.x86_64                  2.4.5-1.30.7.amzn1                   amzn-updates",
+        "ruby24.x86_64                  2.4.5-1.30.11.amzn1                  amzn-updates",
+        "ruby24.x86_64                  2.4.10-2.12.amzn1                    amzn-updates",
+        "ruby24.x86_64                  2.4.10-2.13.amzn1                    amzn-updates",
+        "ruby24.x86_64                  2.4.10-2.14.amzn1                    amzn-updates",
+        "ruby24.x86_64                  2.4.10-2.15.amzn1                    amzn-updates"
+    ]
+}

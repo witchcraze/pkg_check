@@ -1,0 +1,34 @@
+{
+    "show": {
+        "Package": "openssl",
+        "Version": "1.1.1c-1ubuntu4.1",
+        "Priority": "important",
+        "Section": "utils",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "1282 kB",
+        "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
+        "Suggests": "ca-certificates",
+        "Homepage": "https://www.openssl.org/",
+        "Task": "minimal, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages",
+        "Supported": "9m",
+        "Download-Size": "618 kB",
+        "APT-Manual-Installed": "no",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
+        "Description": "Secure Sockets Layer toolkit - cryptographic utility"
+    },
+    "changelog": [
+        "openssl (1.1.1c-1ubuntu4.1) eoan-security; urgency=medium",
+        "openssl (1.1.1c-1ubuntu4) eoan; urgency=medium",
+        "openssl (1.1.1c-1ubuntu3) eoan; urgency=medium",
+        "openssl (1.1.1c-1ubuntu2) eoan; urgency=medium",
+        "openssl (1.1.1c-1ubuntu1) eoan; urgency=low",
+        "openssl (1.1.1c-1) unstable; urgency=medium",
+        "openssl (1.1.1b-2ubuntu1) devel; urgency=medium",
+        "openssl (1.1.1b-2) unstable; urgency=medium",
+        "openssl (1.1.1b-1ubuntu2) disco; urgency=medium",
+        "openssl (1.1.1b-1ubuntu1) disco; urgency=medium"
+    ]
+}

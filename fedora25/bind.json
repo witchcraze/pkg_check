@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "bind",
+        "Arch": "x86_64",
+        "Epoch": "32",
+        "Version": "9.10.5",
+        "Release": "2.P2.fc25",
+        "Size": "1.9 M",
+        "Repo": "updates",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
+        "URL": "http://www.isc.org/products/BIND/",
+        "License": "ISC",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the"
+    },
+    "list": [
+        "bind.x86_64                     32:9.10.4-2.P3.fc25                      fedora",
+        "bind.x86_64                     32:9.10.5-2.P2.fc25                      updates"
+    ]
+}

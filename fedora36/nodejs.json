@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "16.18.1",
+        "Release": "1.fc36",
+        "Architecture": "x86_64",
+        "Size": "104 k",
+        "Source": "nodejs-16.18.1-1.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.i686                        1:16.14.0-2.fc36                      fedora",
+        "nodejs.x86_64                      1:16.14.0-2.fc36                      fedora",
+        "nodejs.i686                        1:16.18.1-1.fc36                      updates",
+        "nodejs.x86_64                      1:16.18.1-1.fc36                      updates"
+    ]
+}

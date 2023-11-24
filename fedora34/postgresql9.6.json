@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "9.6.19",
+        "Release": "1.module_f34+10005+ab928a5e",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-9.6.19-1.module_f34+10005+ab928a5e.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       9.6.19-1.module_f34+10005+ab928a5e       fedora-modular",
+        "postgresql.x86_64       9.6.19-1.module_f34+10005+ab928a5e       updates-modular"
+    ]
+}

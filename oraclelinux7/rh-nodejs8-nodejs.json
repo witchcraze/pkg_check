@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "rh-nodejs8-nodejs",
+        "Arch": "x86_64",
+        "Version": "8.17.0",
+        "Release": "2.el7",
+        "Size": "7.3 M",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "rh-nodejs8-nodejs.x86_64          8.6.0-1.el7           ol7_software_collections",
+        "rh-nodejs8-nodejs.x86_64          8.9.4-2.el7           ol7_software_collections",
+        "rh-nodejs8-nodejs.x86_64          8.11.4-1.el7          ol7_software_collections",
+        "rh-nodejs8-nodejs.x86_64          8.16.0-1.el7          ol7_software_collections",
+        "rh-nodejs8-nodejs.x86_64          8.16.1-2.el7          ol7_software_collections",
+        "rh-nodejs8-nodejs.x86_64          8.17.0-2.el7          ol7_software_collections"
+    ]
+}

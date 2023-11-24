@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "4.15",
+        "Release": "7.module+el8.9.0+90083+f7556140.1",
+        "Architecture": "x86_64",
+        "Size": "3.6 M",
+        "Source": "squid-4.15-7.module+el8.9.0+90083+f7556140.1.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64      7:4.4-4.module+el8+5143+d5c7f7d8                 ol8_appstream",
+        "squid.x86_64      7:4.4-5.module+el8.0.0+5324+ea04b9c2             ol8_appstream",
+        "squid.x86_64      7:4.4-8.module+el8.1.0+5405+03b963f4             ol8_appstream",
+        "squid.x86_64      7:4.4-8.module+el8.2.0+7611+d512f060.1           ol8_appstream",
+        "squid.x86_64      7:4.4-8.module+el8.2.0+7778+aff7482f.2           ol8_appstream",
+        "squid.x86_64      7:4.11-3.module+el8.3.0+7819+eb7d4ef6            ol8_appstream",
+        "squid.x86_64      7:4.11-4.module+el8.4.0+20018+276d2d9f           ol8_appstream",
+        "squid.x86_64      7:4.11-4.module+el8.4.0+20173+36853f3f.2         ol8_appstream",
+        "squid.x86_64      7:4.15-1.module+el8.5.0+20327+24c223d9           ol8_appstream",
+        "squid.x86_64      7:4.15-3.module+el8.6.0+20529+9782b8ab           ol8_appstream",
+        "squid.x86_64      7:4.15-3.module+el8.6.0+20699+8fa0a254.1         ol8_appstream",
+        "squid.x86_64      7:4.15-3.module+el8.6.0+20822+0be15e43.1         ol8_appstream",
+        "squid.x86_64      7:4.15-6.module+el8.8.0+20967+cecc5697           ol8_appstream",
+        "squid.x86_64      7:4.15-6.0.1.module+el8.8.0+90059+985ac402       ol8_appstream",
+        "squid.x86_64      7:4.15-7.module+el8.9.0+90041+ef833c25           ol8_appstream",
+        "squid.x86_64      7:4.15-7.module+el8.9.0+90083+f7556140.1         ol8_appstream"
+    ]
+}

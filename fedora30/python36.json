@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python36",
+        "Version": "3.6.10",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "python36-3.6.10-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.6 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.6 package for developers."
+    },
+    "list": [
+        "python36.i686                        3.6.8-6.fc30                        fedora",
+        "python36.x86_64                      3.6.8-6.fc30                        fedora",
+        "python36.i686                        3.6.10-1.fc30                       updates",
+        "python36.x86_64                      3.6.10-1.fc30                       updates"
+    ]
+}

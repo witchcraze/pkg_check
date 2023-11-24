@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.5.5",
+        "Release": "108.fc28",
+        "Arch": "x86_64",
+        "Size": "82 k",
+        "Source": "ruby-2.5.5-108.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          2.5.1-92.fc28                         fedora",
+        "ruby.x86_64                        2.5.1-92.fc28                         fedora",
+        "ruby.i686                          2.5.5-108.fc28                        updates",
+        "ruby.x86_64                        2.5.5-108.fc28                        updates"
+    ]
+}

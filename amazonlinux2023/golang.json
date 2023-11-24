@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.20.10",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "599 k",
+        "Source": "golang-1.20.10-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "The Go Programming Language",
+        "URL": "https://go.dev",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                 1.19.3-2.amzn2023.0.2                  amazonlinux",
+        "golang.x86_64                 1.19.6-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.19.8-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.19.9-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.20.5-1.amzn2023.0.2                  amazonlinux",
+        "golang.x86_64                 1.20.6-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.20.7-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.20.8-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.20.10-1.amzn2023.0.1                 amazonlinux"
+    ]
+}

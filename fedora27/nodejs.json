@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "8.12.0",
+        "Release": "1.fc27",
+        "Arch": "x86_64",
+        "Size": "7.2 M",
+        "Source": "nodejs-8.12.0-1.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.i686                        1:8.6.0-1.fc27                        fedora",
+        "nodejs.x86_64                      1:8.6.0-1.fc27                        fedora",
+        "nodejs.i686                        1:8.12.0-1.fc27                       updates",
+        "nodejs.x86_64                      1:8.12.0-1.fc27                       updates"
+    ]
+}

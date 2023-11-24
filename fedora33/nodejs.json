@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "14.18.1",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "97 k",
+        "Source": "nodejs-14.18.1-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.i686                        1:14.13.0-1.fc33                      fedora",
+        "nodejs.x86_64                      1:14.13.0-1.fc33                      fedora",
+        "nodejs.i686                        1:14.18.1-1.fc33                      updates",
+        "nodejs.x86_64                      1:14.18.1-1.fc33                      updates"
+    ]
+}

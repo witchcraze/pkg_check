@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "php",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "7.0.25",
+        "Release": "1.fc25",
+        "Size": "2.7 M",
+        "Repo": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                         7.0.12-2.fc25                         fedora",
+        "php.x86_64                         7.0.25-1.fc25                         updates"
+    ]
+}

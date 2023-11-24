@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.55-1ubuntu2",
+        "Version": "2.4.55-1ubuntu2.1",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,16 +11,17 @@
         "Installed-Size": "473 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.55-1ubuntu2), apache2-data (= 2.4.55-1ubuntu2), apache2-utils (= 2.4.55-1ubuntu2), lsb-base, media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.55-1ubuntu2.1), apache2-data (= 2.4.55-1ubuntu2.1), apache2-utils (= 2.4.55-1ubuntu2.1), lsb-base, media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "97.0 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "changelog": [
+        "apache2 (2.4.55-1ubuntu2.1) lunar-security; urgency=medium",
         "apache2 (2.4.55-1ubuntu2) lunar; urgency=medium",
         "apache2 (2.4.55-1ubuntu1) lunar; urgency=low",
         "apache2 (2.4.55-1) unstable; urgency=medium",

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python2",
+        "Version": "2.7.18",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "43 k",
+        "Source": "python2-2.7.18-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python2.i686                         2.7.16-1.fc30                       fedora",
+        "python2.x86_64                       2.7.16-1.fc30                       fedora",
+        "python2.i686                         2.7.18-1.fc30                       updates",
+        "python2.x86_64                       2.7.18-1.fc30                       updates"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.57",
+        "Release": "5.0.1.el9",
+        "Architecture": "x86_64",
+        "Size": "65 k",
+        "Source": "httpd-2.4.57-5.0.1.el9.src.rpm",
+        "Repository": "ol9_appstream",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.src                    2.4.51-7.0.1.el9_0                    ol9_appstream",
+        "httpd.x86_64                 2.4.51-7.0.1.el9_0                    ol9_appstream",
+        "httpd.src                    2.4.51-7.0.2.el9_0                    ol9_appstream",
+        "httpd.x86_64                 2.4.51-7.0.2.el9_0                    ol9_appstream",
+        "httpd.src                    2.4.53-7.0.1.el9                      ol9_appstream",
+        "httpd.x86_64                 2.4.53-7.0.1.el9                      ol9_appstream",
+        "httpd.src                    2.4.53-7.0.1.el9_1.1                  ol9_appstream",
+        "httpd.x86_64                 2.4.53-7.0.1.el9_1.1                  ol9_appstream",
+        "httpd.src                    2.4.53-7.0.1.el9_1.5                  ol9_appstream",
+        "httpd.x86_64                 2.4.53-7.0.1.el9_1.5                  ol9_appstream",
+        "httpd.src                    2.4.53-11.0.1.el9_2.4                 ol9_appstream",
+        "httpd.x86_64                 2.4.53-11.0.1.el9_2.4                 ol9_appstream",
+        "httpd.src                    2.4.53-11.0.1.el9_2.5                 ol9_appstream",
+        "httpd.x86_64                 2.4.53-11.0.1.el9_2.5                 ol9_appstream",
+        "httpd.src                    2.4.57-5.0.1.el9                      ol9_appstream",
+        "httpd.x86_64                 2.4.57-5.0.1.el9                      ol9_appstream"
+    ]
+}

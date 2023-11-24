@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "mysql-server",
+        "Version": "8.0.32",
+        "Release": "1.el9_2",
+        "Architecture": "x86_64",
+        "Size": "17 M",
+        "Source": "mysql-8.0.32-1.el9_2.src.rpm",
+        "Repository": "ol9_appstream",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "mysql-server.x86_64                 8.0.28-1.el9                   ol9_appstream",
+        "mysql-server.x86_64                 8.0.30-3.el9_0                 ol9_appstream",
+        "mysql-server.x86_64                 8.0.32-1.el9_2                 ol9_appstream"
+    ]
+}

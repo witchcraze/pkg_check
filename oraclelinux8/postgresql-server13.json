@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "13.11",
+        "Release": "2.0.1.module+el8.9.0+90015+a745e862",
+        "Architecture": "x86_64",
+        "Size": "5.6 M",
+        "Source": "postgresql-13.11-2.0.1.module+el8.9.0+90015+a745e862.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64 13.2-1.module+el8.4.0+20016+06fd4df3      ol8_appstream",
+        "postgresql-server.x86_64 13.3-1.module+el8.4.0+20192+096f5771      ol8_appstream",
+        "postgresql-server.x86_64 13.3-2.module+el8.5.0+20353+e924f9ed      ol8_appstream",
+        "postgresql-server.x86_64 13.5-1.module+el8.5.0+20464+55827c52      ol8_appstream",
+        "postgresql-server.x86_64 13.5-2.module+el8.6.0+20535+45b5138c      ol8_appstream",
+        "postgresql-server.x86_64 13.7-2.module+el8.6.0+20679+105cfe02      ol8_appstream",
+        "postgresql-server.x86_64 13.10-1.module+el8.7.0+21022+658346a0     ol8_appstream",
+        "postgresql-server.x86_64 13.10-1.0.1.module+el8.7.0+21061+b82a595e ol8_appstream",
+        "postgresql-server.x86_64 13.11-1.0.1.module+el8.8.0+21141+00b1aed9 ol8_appstream",
+        "postgresql-server.x86_64 13.11-2.0.1.module+el8.9.0+90015+a745e862 ol8_appstream"
+    ]
+}

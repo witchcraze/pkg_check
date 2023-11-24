@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "x86_64",
+        "Version": "2.0.0.648",
+        "Release": "36.amzn2.0.6",
+        "Size": "74 k",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.x86_64                  2.0.0.648-29.amzn2                       amzn2-core",
+        "ruby.x86_64                  2.0.0.648-33.amzn2.0.1                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-33.amzn2.0.3                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-34.amzn2.0.1                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-35.amzn2.0.1                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.1                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.2                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.3                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.4                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.5                   amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.6                   amzn2-core"
+    ]
+}

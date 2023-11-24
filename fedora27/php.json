@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.1.23",
+        "Release": "1.fc27",
+        "Arch": "x86_64",
+        "Size": "2.8 M",
+        "Source": "php-7.1.23-1.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                         7.1.10-1.fc27                         fedora",
+        "php.x86_64                         7.1.23-1.fc27                         updates"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "rh-varnish6-varnish",
+        "Arch": "x86_64",
+        "Version": "6.0.8",
+        "Release": "2.el7.3",
+        "Size": "2.0 M",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "http://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "rh-varnish6-varnish.x86_64        6.0.0-2.el7           ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.2-1.el7           ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.6-1.el7           ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.8-2.el7           ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.8-2.el7.1         ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.8-2.el7.2         ol7_software_collections",
+        "rh-varnish6-varnish.x86_64        6.0.8-2.el7.3         ol7_software_collections"
+    ]
+}

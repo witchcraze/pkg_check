@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "community-mysql-server",
+        "Version": "8.0.27",
+        "Release": "1.module_f34+13268+93ecfd0c",
+        "Architecture": "x86_64",
+        "Size": "16 M",
+        "Source": "community-mysql-8.0.27-1.module_f34+13268+93ecfd0c.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "community-mysql-server.x86_64 8.0.22-1.module_f34+11174+7f26c3ab fedora-modular",
+        "community-mysql-server.x86_64 8.0.27-1.module_f34+13268+93ecfd0c updates-modular"
+    ]
+}

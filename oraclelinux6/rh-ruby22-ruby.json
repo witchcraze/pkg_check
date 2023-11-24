@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby22-ruby",
+        "Arch": "x86_64",
+        "Version": "2.2.9",
+        "Release": "19.el6",
+        "Size": "70 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby22-ruby.x86_64         2.2.2-11.0.1.el6          ol6_software_collections",
+        "rh-ruby22-ruby.x86_64         2.2.2-12.0.1.el6          ol6_software_collections",
+        "rh-ruby22-ruby.x86_64         2.2.2-15.el6              ol6_software_collections",
+        "rh-ruby22-ruby.x86_64         2.2.2-16.0.1.el6          ol6_software_collections",
+        "rh-ruby22-ruby.x86_64         2.2.9-19.el6              ol6_software_collections"
+    ]
+}

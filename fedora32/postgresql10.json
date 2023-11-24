@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.15",
+        "Release": "1.module_f32+10935+ac75a743",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-10.15-1.module_f32+10935+ac75a743.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       10.10-1.module_f32+6606+44a52e7b         fedora-modular",
+        "postgresql.x86_64       10.15-1.module_f32+10935+ac75a743        updates-modular"
+    ]
+}

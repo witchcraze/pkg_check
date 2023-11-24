@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-perl526-perl",
+        "Arch": "x86_64",
+        "Epoch": "4",
+        "Version": "5.26.3",
+        "Release": "405.el7",
+        "Size": "65 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "rh-perl526-perl.x86_64         4:5.26.1-404.el7         ol7_software_collections",
+        "rh-perl526-perl.x86_64         4:5.26.3-405.el7         ol7_software_collections"
+    ]
+}

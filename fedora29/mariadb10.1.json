@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "10.1.30",
+        "Release": "2.module_1690+8f54252c",
+        "Architecture": "x86_64",
+        "Size": "6.3 M",
+        "Source": "mariadb-10.1.30-2.module_1690+8f54252c.src.rpm",
+        "Repository": "fedora-modular",
+        "Summary": "A community developed branch of MySQL",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL."
+    },
+    "list": [
+        "mariadb.x86_64          3:10.1.30-2.module_1690+8f54252c          fedora-modular"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.13.15",
+        "Release": "1.fc31",
+        "Architecture": "x86_64",
+        "Size": "633 k",
+        "Source": "golang-1.13.15-1.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                       1.13.1-1.fc31                        fedora",
+        "golang.x86_64                       1.13.15-1.fc31                       updates"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "python35",
+        "Arch": "x86_64",
+        "Version": "3.5.10",
+        "Release": "1.31.amzn1",
+        "Size": "57 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Version 3.5 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.5 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "python35.x86_64                  3.5.4-13.11.amzn1                  amzn-main",
+        "python35.x86_64                  3.5.5-1.12.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.6-1.13.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.6-1.14.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.6-1.15.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.7-1.22.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.7-1.23.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.7-1.24.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.7-1.25.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.7-1.26.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.9-1.27.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.9-1.28.amzn1                   amzn-updates",
+        "python35.x86_64                  3.5.10-1.29.amzn1                  amzn-updates",
+        "python35.x86_64                  3.5.10-1.30.amzn1                  amzn-updates",
+        "python35.x86_64                  3.5.10-1.31.amzn1                  amzn-updates"
+    ]
+}

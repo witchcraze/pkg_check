@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "12.14",
+        "Release": "2.module_f37+17180+c836968f",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-12.14-2.module_f37+17180+c836968f.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       12.11-3.module_f37+14749+80091dce        fedora-modular",
+        "postgresql.x86_64       12.14-2.module_f37+17180+c836968f        updates-modular"
+    ]
+}

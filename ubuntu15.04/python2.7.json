@@ -17,7 +17,7 @@
         "Origin": "Ubuntu",
         "Supported": "9m",
         "Task": "ubuntu-core, ubuntu-desktop, mail-server, ubuntu-usb, dns-server, samba-server, cloud-image, server, kubuntu-desktop, kubuntu-full, kubuntu-active-desktop, kubuntu-active-full, kubuntu-active, ubuntu-core, edubuntu-desktop, edubuntu-usb, xubuntu-core, xubuntu-desktop, mythbuntu-frontend, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master, lubuntu-desktop, ubuntustudio-desktop, ubuntustudio-font-meta, ubuntustudio-desktop-minimal, ubuntu-gnome-desktop, ubuntu-desktop-next, ubuntu-sdk-libs-dev, ubuntukylin-desktop, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-mate-cloudtop",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "changelog": [
@@ -45,7 +45,6 @@
         "python2.7 (2.7.7-2) unstable; urgency=medium",
         "python2.7 (2.7.7-1) unstable; urgency=medium",
         "python2.7 (2.7.7~rc1-1) unstable; urgency=medium",
-        "python2.7 (2.7.6-8) unstable; urgency=medium",
         "python2.7 (2.7.6-8) unstable; urgency=medium",
         "python2.7 (2.7.6-7) unstable; urgency=medium",
         "python2.7 (2.7.6-6) unstable; urgency=high",

@@ -1,0 +1,39 @@
+{
+    "info": {
+        "Name": "bind",
+        "Arch": "x86_64",
+        "Epoch": "32",
+        "Version": "9.8.2",
+        "Release": "0.68.rc1.0.1.el6_10.8",
+        "Size": "4.0 M",
+        "Repo": "ol6_latest",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
+        "URL": "http://www.isc.org/products/BIND/",
+        "License": "ISC",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the"
+    },
+    "list": [
+        "bind.x86_64             32:9.7.0-5.P2.el6                           ol6_ga_base",
+        "bind.x86_64             32:9.7.3-2.el6                              ol6_u1_base",
+        "bind.x86_64             32:9.7.3-8.P3.el6                           ol6_u2_base",
+        "bind.x86_64             32:9.8.2-0.10.rc1.el6                       ol6_u3_base",
+        "bind.x86_64             32:9.8.2-0.17.rc1.0.2.el6                   ol6_u4_base",
+        "bind.x86_64             32:9.8.2-0.17.rc1.0.2.el6_4.6               ol6_u5_base",
+        "bind.x86_64             32:9.8.2-0.30.rc1.el6                       ol6_u6_base",
+        "bind.x86_64             32:9.8.2-0.37.rc1.el6                       ol6_u7_base",
+        "bind.x86_64             32:9.8.2-0.47.rc1.el6                       ol6_u8_base",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6                       ol6_latest",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6                       ol6_u9_base",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6_9.1                   ol6_latest",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6_9.2                   ol6_latest",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6_9.4                   ol6_latest",
+        "bind.x86_64             32:9.8.2-0.62.rc1.el6_9.5                   ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6                       ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6                       ol6_u10_base",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6_10.1                  ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6_10.3                  ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6_10.7                  ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.el6_10.8                  ol6_latest",
+        "bind.x86_64             32:9.8.2-0.68.rc1.0.1.el6_10.8              ol6_latest"
+    ]
+}

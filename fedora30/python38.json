@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python38",
+        "Version": "3.8.2",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "19 M",
+        "Source": "python38-3.8.2-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.8 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.8 package for developers."
+    },
+    "list": [
+        "python38.i686                       3.8.0~a3-1.fc30                      fedora",
+        "python38.x86_64                     3.8.0~a3-1.fc30                      fedora",
+        "python38.i686                       3.8.2-1.fc30                         updates",
+        "python38.x86_64                     3.8.2-1.fc30                         updates"
+    ]
+}

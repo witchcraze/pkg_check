@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "bind9",
+        "Version": "1:9.11.5.P1+dfsg-1ubuntu2.6",
+        "Priority": "optional",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian DNS Team <team+dns@tracker.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "1979 kB",
+        "Depends": "adduser, bind9utils (= 1:9.11.5.P1+dfsg-1ubuntu2.6), debconf (>= 0.5) | debconf-2.0, dns-root-data, libbind9-161 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), libdns1104 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), libisc1100 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), libisccc161 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), libisccfg163 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), liblwres161 (= 1:9.11.5.P1+dfsg-1ubuntu2.6), lsb-base (>= 3.2-14), net-tools, netbase, libc6 (>= 2.28), libcap2 (>= 1:2.10), libgeoip1, libjson-c3 (>= 0.11), libssl1.1 (>= 1.1.0), libxml2 (>= 2.7.4)",
+        "Suggests": "bind9-doc, dnsutils, resolvconf, ufw",
+        "Homepage": "https://www.isc.org/downloads/bind/",
+        "Task": "dns-server",
+        "Supported": "9m",
+        "Download-Size": "417 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
+        "Description": "Internet Domain Name Server"
+    },
+    "changelog": [
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.6) disco-security; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.5) disco-security; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.4) disco; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.3) disco-security; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu2) disco; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1ubuntu1) disco; urgency=medium",
+        "bind9 (1:9.11.5.P1+dfsg-1) unstable; urgency=medium",
+        "bind9 (1:9.11.5+dfsg-1ubuntu1) disco; urgency=medium",
+        "bind9 (1:9.11.5+dfsg-1) unstable; urgency=medium",
+        "bind9 (1:9.11.4.P2+dfsg-3) unstable; urgency=medium"
+    ]
+}

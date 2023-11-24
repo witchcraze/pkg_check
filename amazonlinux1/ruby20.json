@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "ruby20",
+        "Arch": "x86_64",
+        "Version": "2.0.0.648",
+        "Release": "2.42.amzn1",
+        "Size": "79 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby20.x86_64                 2.0.0.648-1.31.amzn1                  amzn-main",
+        "ruby20.x86_64                 2.0.0.648-1.32.amzn1                  amzn-updates",
+        "ruby20.x86_64                 2.0.0.648-1.33.amzn1                  amzn-updates",
+        "ruby20.x86_64                 2.0.0.648-2.39.amzn1                  amzn-updates",
+        "ruby20.x86_64                 2.0.0.648-2.40.amzn1                  amzn-updates",
+        "ruby20.x86_64                 2.0.0.648-2.41.amzn1                  amzn-updates",
+        "ruby20.x86_64                 2.0.0.648-2.42.amzn1                  amzn-updates"
+    ]
+}

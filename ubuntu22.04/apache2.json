@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.52-1ubuntu4.6",
+        "Version": "2.4.52-1ubuntu4.7",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,7 +11,7 @@
         "Installed-Size": "546 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.6), apache2-data (= 2.4.52-1ubuntu4.6), apache2-utils (= 2.4.52-1ubuntu4.6), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.7), apache2-data (= 2.4.52-1ubuntu4.7), apache2-utils (= 2.4.52-1ubuntu4.7), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -23,6 +23,7 @@
         "Description": "Apache HTTP Server"
     },
     "changelog": [
+        "apache2 (2.4.52-1ubuntu4.7) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.6) jammy; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.5) jammy; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.4) jammy-security; urgency=medium",

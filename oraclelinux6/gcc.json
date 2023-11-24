@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Version": "4.4.7",
+        "Release": "23.0.1.el6",
+        "Size": "10 M",
+        "Repo": "ol6_latest",
+        "Summary": "Various compilers (C, C++, Objective-C, Java, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions",
+        "Description": "The gcc package contains the GNU Compiler Collection version 4.4."
+    },
+    "list": [
+        "gcc.x86_64                   4.4.4-13.el6                           ol6_ga_base",
+        "gcc.x86_64                   4.4.5-6.el6                            ol6_u1_base",
+        "gcc.x86_64                   4.4.6-3.el6                            ol6_u2_base",
+        "gcc.x86_64                   4.4.6-4.el6                            ol6_u3_base",
+        "gcc.x86_64                   4.4.7-3.el6                            ol6_u4_base",
+        "gcc.x86_64                   4.4.7-4.el6                            ol6_u5_base",
+        "gcc.x86_64                   4.4.7-11.el6                           ol6_u6_base",
+        "gcc.x86_64                   4.4.7-16.el6                           ol6_u7_base",
+        "gcc.x86_64                   4.4.7-17.el6                           ol6_u8_base",
+        "gcc.x86_64                   4.4.7-18.el6                           ol6_latest",
+        "gcc.x86_64                   4.4.7-18.el6                           ol6_u9_base",
+        "gcc.x86_64                   4.4.7-18.0.7.el6_9.2                   ol6_latest",
+        "gcc.x86_64                   4.4.7-23.0.1.el6                       ol6_latest",
+        "gcc.x86_64                   4.4.7-23.0.1.el6                       ol6_u10_base"
+    ]
+}

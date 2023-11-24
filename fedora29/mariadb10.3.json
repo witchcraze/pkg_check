@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "10.3.17",
+        "Release": "1.module_f29+6002+926b7197",
+        "Architecture": "x86_64",
+        "Size": "5.8 M",
+        "Source": "mariadb-10.3.17-1.module_f29+6002+926b7197.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL - a multi-user,"
+    },
+    "list": [
+        "mariadb.x86_64       3:10.3.17-1.module_f29+6002+926b7197        updates-modular"
+    ]
+}

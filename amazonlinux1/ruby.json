@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "noarch",
+        "Epoch": "1",
+        "Version": "2.0",
+        "Release": "0.3.amzn1",
+        "Size": "2.5 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "A dynamic, object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is an interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.noarch                      1:2.0-0.3.amzn1                       amzn-main"
+    ]
+}

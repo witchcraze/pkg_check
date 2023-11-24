@@ -1,0 +1,39 @@
+{
+    "show": {
+        "Package": "apache2",
+        "Version": "2.4.34-1ubuntu2.3",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "536 kB",
+        "Provides": "httpd, httpd-cgi",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "apache2-bin (= 2.4.34-1ubuntu2.3), apache2-data (= 2.4.34-1ubuntu2.3), apache2-utils (= 2.4.34-1ubuntu2.3), lsb-base, mime-support, perl, procps, perl:any",
+        "Recommends": "ssl-cert",
+        "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
+        "Conflicts": "apache2.2-bin, apache2.2-common",
+        "Breaks": "libapache2-mod-proxy-uwsgi (<< 2.4.33)",
+        "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
+        "Homepage": "http://httpd.apache.org/",
+        "Task": "lamp-server",
+        "Supported": "9m",
+        "Download-Size": "95.1 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "Apache HTTP Server"
+    },
+    "changelog": [
+        "apache2 (2.4.34-1ubuntu2.3) cosmic; urgency=medium",
+        "apache2 (2.4.34-1ubuntu2.2) cosmic; urgency=medium",
+        "apache2 (2.4.34-1ubuntu2.1) cosmic-security; urgency=medium",
+        "apache2 (2.4.34-1ubuntu2) cosmic; urgency=medium",
+        "apache2 (2.4.34-1ubuntu1) cosmic; urgency=medium",
+        "apache2 (2.4.34-1) unstable; urgency=medium",
+        "apache2 (2.4.33-3ubuntu3) cosmic; urgency=medium",
+        "apache2 (2.4.33-3ubuntu2) cosmic; urgency=medium",
+        "apache2 (2.4.33-3ubuntu1) cosmic; urgency=medium",
+        "apache2 (2.4.33-3) unstable; urgency=medium"
+    ]
+}

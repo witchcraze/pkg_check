@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-5.0",
+        "Version": "5.0.206",
+        "Release": "1.fc35",
+        "Architecture": "x86_64",
+        "Size": "50 M",
+        "Source": "dotnet5.0-5.0.206-1.fc35.src.rpm",
+        "Repository": "fedora",
+        "Summary": ".NET 5.0 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": "The .NET SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-5.0.x86_64                   5.0.206-1.fc35                    fedora"
+    ]
+}

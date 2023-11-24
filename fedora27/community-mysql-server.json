@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "community-mysql-server",
+        "Version": "5.7.24",
+        "Release": "1.fc27",
+        "Arch": "x86_64",
+        "Size": "18 M",
+        "Source": "community-mysql-5.7.24-1.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "community-mysql-server.x86_64               5.7.19-6.fc27                fedora",
+        "community-mysql-server.x86_64               5.7.24-1.fc27                updates"
+    ]
+}

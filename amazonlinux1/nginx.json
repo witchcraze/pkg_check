@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.18.0",
+        "Release": "1.45.amzn1",
+        "Size": "604 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "https://nginx.org",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "nginx.x86_64                  1:1.12.1-1.33.amzn1                   amzn-main",
+        "nginx.x86_64                  1:1.14.1-2.34.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.16.1-1.37.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.39.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.40.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.41.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.43.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.44.amzn1                   amzn-updates",
+        "nginx.x86_64                  1:1.18.0-1.45.amzn1                   amzn-updates"
+    ]
+}

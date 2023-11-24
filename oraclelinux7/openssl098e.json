@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "openssl098e",
+        "Arch": "x86_64",
+        "Version": "0.9.8e",
+        "Release": "29.el7_2.3",
+        "Size": "792 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "A compatibility version of a general cryptography and TLS library",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl098e.i686                   0.9.8e-29.el7                     ol7_u0_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7                     ol7_u0_base",
+        "openssl098e.i686                   0.9.8e-29.el7_0.2                 ol7_u1_base",
+        "openssl098e.i686                   0.9.8e-29.el7_0.2                 ol7_u2_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_0.2                 ol7_u1_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_0.2                 ol7_u2_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_latest",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u3_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u4_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u5_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u6_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u7_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u8_base",
+        "openssl098e.i686                   0.9.8e-29.el7_2.3                 ol7_u9_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_latest",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u3_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u4_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u5_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u6_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u7_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u8_base",
+        "openssl098e.x86_64                 0.9.8e-29.el7_2.3                 ol7_u9_base"
+    ]
+}

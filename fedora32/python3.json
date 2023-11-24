@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.8.10",
+        "Release": "1.fc32",
+        "Architecture": "i686",
+        "Size": "28 k",
+        "Source": "python3-3.8.10-1.fc32.src.rpm",
+        "Repository": "updates",
+        "From repo": "updates",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python3.x86_64                      3.8.10-1.fc32                       @updates",
+        "python3.i686                        3.8.2-2.fc32                        fedora",
+        "python3.x86_64                      3.8.2-2.fc32                        fedora",
+        "python3.i686                        3.8.10-1.fc32                       updates",
+        "python3.x86_64                      3.8.10-1.fc32                       updates"
+    ]
+}

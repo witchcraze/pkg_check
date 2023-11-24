@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3.11",
+        "Version": "3.11.0~a7",
+        "Release": "2.fc34",
+        "Architecture": "x86_64",
+        "Size": "26 M",
+        "Source": "python3.11-3.11.0~a7-2.fc34.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.11 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.11 package for developers."
+    },
+    "list": [
+        "python3.11.i686                      3.11.0~a7-2.fc34                    updates",
+        "python3.11.x86_64                    3.11.0~a7-2.fc34                    updates"
+    ]
+}

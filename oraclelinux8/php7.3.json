@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.3.20",
+        "Release": "1.module+el8.2.0+7784+4033621d",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "php-7.3.20-1.module+el8.2.0+7784+4033621d.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64          7.3.5-3.module+el8.1.0+5412+020cccf5           ol8_appstream",
+        "php.x86_64          7.3.5-5.module+el8.1.0+5441+020cccf5           ol8_appstream",
+        "php.x86_64          7.3.5-5.module+el8.2.0+5569+98c8b30d           ol8_appstream",
+        "php.x86_64          7.3.20-1.module+el8.2.0+7784+4033621d          ol8_appstream"
+    ]
+}

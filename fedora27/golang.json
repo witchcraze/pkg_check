@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.9.7",
+        "Release": "1.fc27",
+        "Arch": "x86_64",
+        "Size": "622 k",
+        "Source": "golang-1.9.7-1.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                        1.9.1-1.fc27                        fedora",
+        "golang.x86_64                        1.9.7-1.fc27                        updates"
+    ]
+}

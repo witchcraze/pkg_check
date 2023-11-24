@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "5.5.68",
+        "Release": "1.amzn2.0.1",
+        "Size": "8.8 M",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "A community developed branch of MySQL",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL."
+    },
+    "list": [
+        "mariadb.x86_64                  1:5.5.56-2.amzn2                      amzn2-core",
+        "mariadb.x86_64                  1:5.5.56-2.amzn2.0.2                  amzn2-core",
+        "mariadb.x86_64                  1:5.5.60-1.amzn2                      amzn2-core",
+        "mariadb.x86_64                  1:5.5.62-1.amzn2.0.1                  amzn2-core",
+        "mariadb.x86_64                  1:5.5.64-1.amzn2                      amzn2-core",
+        "mariadb.x86_64                  1:5.5.68-1.amzn2                      amzn2-core",
+        "mariadb.x86_64                  1:5.5.68-1.amzn2.0.1                  amzn2-core"
+    ]
+}

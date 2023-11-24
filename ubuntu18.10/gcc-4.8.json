@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "gcc-4.8",
+        "Version": "4.8.5-4ubuntu9",
+        "Priority": "optional",
+        "Section": "universe/devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "14.6 MB",
+        "Provides": "c-compiler",
+        "Depends": "cpp-4.8 (= 4.8.5-4ubuntu9), gcc-4.8-base (= 4.8.5-4ubuntu9), binutils (>= 2.31), libgcc-4.8-dev (>= 4.8.5-4ubuntu9), libc6 (>= 2.14), libgmp10 (>= 2:5.0.1~), libmpc3, libmpfr6 (>= 3.1.3), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-4.8-multilib, gcc-4.8-doc (>= 4.8), gcc-4.8-locales (>= 4.8), libgcc1-dbg (>= 1:4.8.5-4ubuntu9), libgomp1-dbg (>= 4.8.5-4ubuntu9), libitm1-dbg (>= 4.8.5-4ubuntu9), libatomic1-dbg (>= 4.8.5-4ubuntu9), libasan0-dbg (>= 4.8.5-4ubuntu9), libtsan0-dbg (>= 4.8.5-4ubuntu9), libquadmath0-dbg (>= 4.8.5-4ubuntu9)",
+        "Homepage": "http://gcc.gnu.org/",
+        "Download-Size": "4510 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
+        "Description": "GNU C compiler"
+    },
+    "changelog": [
+        "gcc-4.8 (4.8.5-4ubuntu9) cosmic; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu8) bionic; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu7) bionic; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu6) artful; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu4) yakkety; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu3) yakkety; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu2) xenial; urgency=medium",
+        "gcc-4.8 (4.8.5-4ubuntu1) xenial; urgency=medium",
+        "gcc-4.8 (4.8.5-4) unstable; urgency=medium",
+        "gcc-4.8 (4.8.5-3ubuntu3) xenial; urgency=medium"
+    ]
+}

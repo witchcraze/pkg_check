@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "7.3.1",
+        "Release": "6.fc27",
+        "Arch": "x86_64",
+        "Size": "22 M",
+        "Source": "gcc-7.3.1-6.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 7."
+    },
+    "list": [
+        "gcc.i686                           7.2.1-2.fc27                          fedora",
+        "gcc.x86_64                         7.2.1-2.fc27                          fedora",
+        "gcc.x86_64                         7.3.1-6.fc27                          updates"
+    ]
+}

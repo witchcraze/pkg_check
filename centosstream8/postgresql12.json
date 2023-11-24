@@ -24,18 +24,21 @@
         "postgresql.x86_64         12.15-3.module_el8+514+f9db76aa              appstream"
     ],
     "kojiPackages": [
-        "postgresql-12.12-1.module_el8.6.0+1219+2bd8590a",
+        "postgresql-12.15-3.module_el8+514+f9db76aa",
+        "postgresql-12.15-2.module_el8+507+d1b9deb1",
+        "postgresql-12.15-1.module_el8+506+5971c2ab",
+        "postgresql-12.7-2.module_el8.5.0+864+9657bf3a",
+        "postgresql-12.7-1.module_el8.5.0+842+bf20b04a",
+        "postgresql-12.7-1.module_el8.5.0+824+97f05ace",
+        "postgresql-12.5-1.module_el8.4.0+597+7b8b5722",
+        "postgresql-12.1-2.module_el8.1.0+273+979c16e6",
         "postgresql-12.11-2.module_el8.6.0+1153+eb826827",
+        "postgresql-12.12-1.module_el8.6.0+1219+2bd8590a",
         "postgresql-12.9-1.module_el8.5.0+1061+5aa9de58",
         "postgresql-12.9-3.module_el8.6.0+1043+60b632d3",
         "postgresql-12.7-3.module_el8.6.0+1011+54cac4e8",
-        "postgresql-12.7-2.module_el8.5.0+864+9657bf3a",
-        "postgresql-12.7-1.module_el8.5.0+842+bf20b04a",
         "postgresql-12.7-1.module_el8.4.0+828+b906d54a",
-        "postgresql-12.7-1.module_el8.5.0+824+97f05ace",
         "postgresql-12.1-2.module_el8.5.0+817+30352192",
-        "postgresql-12.5-1.module_el8.3.0+620+f1abd701",
-        "postgresql-12.5-1.module_el8.4.0+597+7b8b5722",
-        "postgresql-12.1-2.module_el8.1.0+273+979c16e6"
+        "postgresql-12.5-1.module_el8.3.0+620+f1abd701"
     ]
 }

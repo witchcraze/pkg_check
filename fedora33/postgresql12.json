@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "12.8",
+        "Release": "1.module_f33+12653+1da3be1e",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-12.8-1.module_f33+12653+1da3be1e.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64        12.8-1.module_f33+12653+1da3be1e        updates-modular"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "php56",
+        "Arch": "x86_64",
+        "Version": "5.6.40",
+        "Release": "1.144.amzn1",
+        "Size": "3.0 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php56.x86_64                   5.6.35-1.137.amzn1                   amzn-main",
+        "php56.x86_64                   5.6.36-1.138.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.37-1.139.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.38-1.140.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.39-1.141.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.40-1.142.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.40-1.143.amzn1                   amzn-updates",
+        "php56.x86_64                   5.6.40-1.144.amzn1                   amzn-updates"
+    ]
+}

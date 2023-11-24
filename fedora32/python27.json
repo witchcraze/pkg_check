@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python27",
+        "Version": "2.7.18",
+        "Release": "8.fc32",
+        "Architecture": "x86_64",
+        "Size": "11 M",
+        "Source": "python27-2.7.18-8.fc32.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 2.7 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python27.i686                        2.7.17-1.fc32                       fedora",
+        "python27.x86_64                      2.7.17-1.fc32                       fedora",
+        "python27.i686                        2.7.18-8.fc32                       updates",
+        "python27.x86_64                      2.7.18-8.fc32                       updates"
+    ]
+}

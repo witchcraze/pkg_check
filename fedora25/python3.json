@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3",
+        "Arch": "i686",
+        "Epoch": "0",
+        "Version": "3.5.4",
+        "Release": "2.fc25",
+        "Size": "58 k",
+        "Repo": "updates",
+        "From repo": "updates",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "python3.x86_64                       3.5.4-2.fc25                       @updates",
+        "python3.i686                         3.5.2-4.fc25                       fedora",
+        "python3.x86_64                       3.5.2-4.fc25                       fedora",
+        "python3.i686                         3.5.4-2.fc25                       updates",
+        "python3.x86_64                       3.5.4-2.fc25                       @updates",
+        "python3.x86_64                       3.5.4-2.fc25                       updates"
+    ]
+}

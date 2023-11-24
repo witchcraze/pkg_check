@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.30.2",
+        "Release": "451.module_f30+8492+fa3b7961",
+        "Architecture": "x86_64",
+        "Size": "21 k",
+        "Source": "perl-5.30.2-451.module_f30+8492+fa3b7961.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64        4:5.30.2-451.module_f30+8492+fa3b7961         updates-modular"
+    ]
+}

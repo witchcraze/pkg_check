@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "5.5.68",
+        "Release": "1.el7",
+        "Size": "8.8 M",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "A community developed branch of MySQL",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL."
+    },
+    "list": [
+        "mariadb.x86_64                  1:5.5.35-3.el7                       ol7_u0_base",
+        "mariadb.x86_64                  1:5.5.41-2.el7_0                     ol7_u1_base",
+        "mariadb.x86_64                  1:5.5.44-2.0.1.el7                   ol7_u2_base",
+        "mariadb.x86_64                  1:5.5.52-1.el7                       ol7_u3_base",
+        "mariadb.x86_64                  1:5.5.56-2.el7                       ol7_latest",
+        "mariadb.x86_64                  1:5.5.56-2.el7                       ol7_u4_base",
+        "mariadb.x86_64                  1:5.5.56-2.el7                       ol7_u5_base",
+        "mariadb.x86_64                  1:5.5.60-1.el7_5                     ol7_latest",
+        "mariadb.x86_64                  1:5.5.60-1.el7_5                     ol7_u6_base",
+        "mariadb.x86_64                  1:5.5.64-1.el7                       ol7_latest",
+        "mariadb.x86_64                  1:5.5.64-1.el7                       ol7_u7_base",
+        "mariadb.x86_64                  1:5.5.65-1.el7                       ol7_latest",
+        "mariadb.x86_64                  1:5.5.65-1.el7                       ol7_u8_base",
+        "mariadb.x86_64                  1:5.5.68-1.el7                       ol7_latest",
+        "mariadb.x86_64                  1:5.5.68-1.el7                       ol7_u9_base"
+    ]
+}

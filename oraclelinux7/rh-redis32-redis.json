@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "rh-redis32-redis",
+        "Arch": "x86_64",
+        "Version": "3.2.13",
+        "Release": "1.el7",
+        "Size": "704 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "A persistent key-value database",
+        "URL": "http://redis.io",
+        "License": "BSD",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a"
+    },
+    "list": [
+        "rh-redis32-redis.x86_64          3.2.4-1.el7            ol7_software_collections",
+        "rh-redis32-redis.x86_64          3.2.13-1.el7           ol7_software_collections"
+    ]
+}

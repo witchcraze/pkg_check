@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Epoch": "1",
+        "Version": "1.16.1",
+        "Release": "1.module_f29+6856+0c0be701",
+        "Architecture": "x86_64",
+        "Size": "563 k",
+        "Source": "nginx-1.16.1-1.module_f29+6856+0c0be701.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "nginx.x86_64         1:1.16.1-1.module_f29+6856+0c0be701         updates-modular"
+    ]
+}

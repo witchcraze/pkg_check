@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python26",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "2.6.9",
+        "Release": "3.fc25",
+        "Size": "9.8 M",
+        "Repo": "fedora",
+        "Summary": "Version 2.6 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2.6 package for developers."
+    },
+    "list": [
+        "python26.i686                         2.6.9-3.fc25                        fedora",
+        "python26.x86_64                       2.6.9-3.fc25                        fedora"
+    ]
+}

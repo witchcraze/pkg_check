@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Arch": "x86_64",
+        "Version": "1.5.18",
+        "Release": "1.el6",
+        "Size": "799 k",
+        "Repo": "ol6_latest",
+        "Summary": "HAProxy is a TCP/HTTP reverse proxy for high availability",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPLv2+",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited"
+    },
+    "list": [
+        "haproxy.x86_64                     1.4.22-3.el6                     ol6_u4_base",
+        "haproxy.x86_64                     1.4.24-2.el6                     ol6_u5_base",
+        "haproxy.x86_64                     1.5.2-2.el6                      ol6_u6_base",
+        "haproxy.x86_64                     1.5.4-2.el6                      ol6_u7_base",
+        "haproxy.x86_64                     1.5.4-3.el6                      ol6_u8_base",
+        "haproxy.x86_64                     1.5.18-1.el6                     ol6_latest",
+        "haproxy.x86_64                     1.5.18-1.el6                     ol6_u10_base",
+        "haproxy.x86_64                     1.5.18-1.el6                     ol6_u9_base"
+    ]
+}

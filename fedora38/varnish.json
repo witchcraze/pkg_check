@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "7.2.1",
+        "Release": "1.fc38",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "varnish-7.2.1-1.fc38.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.i686                          7.2.1-1.fc38                        fedora",
+        "varnish.x86_64                        7.2.1-1.fc38                        fedora"
+    ]
+}

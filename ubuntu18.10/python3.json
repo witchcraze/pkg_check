@@ -1,0 +1,39 @@
+{
+    "show": {
+        "Package": "python3",
+        "Version": "3.6.7-1~18.10",
+        "Priority": "important",
+        "Section": "python",
+        "Source": "python3-defaults",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "191 kB",
+        "Provides": "python3-profiler",
+        "Pre-Depends": "python3-minimal (= 3.6.7-1~18.10)",
+        "Depends": "python3.6 (>= 3.6.7-1~), libpython3-stdlib (= 3.6.7-1~18.10)",
+        "Suggests": "python3-doc (>= 3.6.7-1~18.10), python3-tk (>= 3.6.7-1~), python3-venv (>= 3.6.7-1~18.10)",
+        "Replaces": "python3-minimal (<< 3.1.2-2)",
+        "Homepage": "https://www.python.org/",
+        "Task": "minimal, ubuntu-core",
+        "Cnf-Extra-Commands": "python",
+        "Cnf-Priority-Bonus": "5",
+        "Supported": "9m",
+        "Download-Size": "47.2 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "interactive high-level object-oriented language (default python3 version)"
+    },
+    "changelog": [
+        "python3-defaults (3.6.7-1~18.10) cosmic-proposed; urgency=medium",
+        "python3-defaults (3.6.7-1) unstable; urgency=high",
+        "python3-defaults (3.6.6-1) unstable; urgency=medium",
+        "python3-defaults (3.6.5-5) experimental; urgency=medium",
+        "python3-defaults (3.6.5-4) experimental; urgency=medium",
+        "python3-defaults (3.6.5-3) unstable; urgency=medium",
+        "python3-defaults (3.6.5-2) unstable; urgency=medium",
+        "python3-defaults (3.6.5-1) unstable; urgency=medium",
+        "python3-defaults (3.6.5~rc1-1) unstable; urgency=medium",
+        "python3-defaults (3.6.4-1) unstable; urgency=medium"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby27-ruby",
+        "Arch": "x86_64",
+        "Version": "2.7.8",
+        "Release": "132.el7",
+        "Size": "80 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby27-ruby.x86_64           2.7.1-128.el7           ol7_software_collections",
+        "rh-ruby27-ruby.x86_64           2.7.3-129.el7           ol7_software_collections",
+        "rh-ruby27-ruby.x86_64           2.7.4-130.el7           ol7_software_collections",
+        "rh-ruby27-ruby.x86_64           2.7.6-131.el7           ol7_software_collections",
+        "rh-ruby27-ruby.x86_64           2.7.8-132.el7           ol7_software_collections"
+    ]
+}

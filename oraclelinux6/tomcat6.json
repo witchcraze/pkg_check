@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "tomcat6",
+        "Arch": "noarch",
+        "Version": "6.0.24",
+        "Release": "115.el6_10",
+        "Size": "96 k",
+        "Repo": "ol6_latest",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 2.5/JSP 2.1 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat6.noarch                  6.0.24-15.el6                       ol6_ga_base",
+        "tomcat6.noarch                  6.0.24-33.el6                       ol6_u1_base",
+        "tomcat6.noarch                  6.0.24-33.el6                       ol6_u2_base",
+        "tomcat6.noarch                  6.0.24-45.el6                       ol6_u3_base",
+        "tomcat6.noarch                  6.0.24-49.el6                       ol6_u4_base",
+        "tomcat6.noarch                  6.0.24-62.el6                       ol6_u5_base",
+        "tomcat6.x86_64                  6.0.24-80.el6                       ol6_u6_base",
+        "tomcat6.x86_64                  6.0.24-90.el6                       ol6_u7_base",
+        "tomcat6.noarch                  6.0.24-95.el6                       ol6_u8_base",
+        "tomcat6.noarch                  6.0.24-98.el6_8                     ol6_latest",
+        "tomcat6.noarch                  6.0.24-98.el6_8                     ol6_u9_base",
+        "tomcat6.noarch                  6.0.24-111.el6_9                    ol6_latest",
+        "tomcat6.noarch                  6.0.24-111.el6_9                    ol6_u10_base",
+        "tomcat6.noarch                  6.0.24-114.el6_10                   ol6_latest",
+        "tomcat6.noarch                  6.0.24-115.el6_10                   ol6_latest"
+    ]
+}

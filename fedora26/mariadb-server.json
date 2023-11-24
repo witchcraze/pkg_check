@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "mariadb-server",
+        "Epoch": "3",
+        "Version": "10.1.33",
+        "Release": "1.fc26",
+        "Arch": "x86_64",
+        "Size": "24 M",
+        "Source": "mariadb-10.1.33-1.fc26.src.rpm",
+        "Repo": "updates",
+        "Summary": "The MariaDB server and related files",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It"
+    },
+    "list": [
+        "mariadb-server.x86_64                  3:10.1.21-5.fc26                  fedora",
+        "mariadb-server.x86_64                  3:10.1.33-1.fc26                  updates"
+    ]
+}

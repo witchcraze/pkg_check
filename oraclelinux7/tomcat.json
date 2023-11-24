@@ -1,0 +1,36 @@
+{
+    "info": {
+        "Name": "tomcat",
+        "Arch": "noarch",
+        "Version": "7.0.76",
+        "Release": "16.el7_9",
+        "Size": "93 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat.noarch                    7.0.42-4.el7                        ol7_u0_base",
+        "tomcat.noarch                    7.0.54-1.el7                        ol7_u1_base",
+        "tomcat.noarch                    7.0.54-2.el7_1                      ol7_u2_base",
+        "tomcat.noarch                    7.0.69-10.el7                       ol7_u3_base",
+        "tomcat.noarch                    7.0.76-2.el7                        ol7_u4_base",
+        "tomcat.noarch                    7.0.76-6.el7                        ol7_latest",
+        "tomcat.noarch                    7.0.76-6.el7                        ol7_u5_base",
+        "tomcat.noarch                    7.0.76-7.el7_5                      ol7_latest",
+        "tomcat.noarch                    7.0.76-7.el7_5                      ol7_u6_base",
+        "tomcat.noarch                    7.0.76-8.el7_5                      ol7_latest",
+        "tomcat.noarch                    7.0.76-9.el7                        ol7_latest",
+        "tomcat.noarch                    7.0.76-9.el7                        ol7_u7_base",
+        "tomcat.noarch                    7.0.76-9.el7_6                      ol7_latest",
+        "tomcat.noarch                    7.0.76-10.el7_7                     ol7_latest",
+        "tomcat.noarch                    7.0.76-10.el7_7                     ol7_u8_base",
+        "tomcat.noarch                    7.0.76-11.el7_7                     ol7_latest",
+        "tomcat.noarch                    7.0.76-12.el7_8                     ol7_latest",
+        "tomcat.noarch                    7.0.76-15.el7                       ol7_latest",
+        "tomcat.noarch                    7.0.76-15.el7                       ol7_u9_base",
+        "tomcat.noarch                    7.0.76-16.el7_9                     ol7_latest"
+    ]
+}

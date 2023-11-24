@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.113",
-        "Release": "1.el8_8",
+        "Version": "7.0.114",
+        "Release": "1.el8_9",
         "Architecture": "x86_64",
         "Size": "88 M",
-        "Source": "dotnet7.0-7.0.113-1.el8_8.src.rpm",
+        "Source": "dotnet7.0-7.0.114-1.el8_9.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,14 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-7.0.x86_64                 7.0.105-2.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.107-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.108-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.109-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.110-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.111-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.112-1.el8_8                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.113-1.el8_8                  appstream"
+        "dotnet-sdk-7.0.x86_64                 7.0.114-1.el8_9                  appstream"
     ],
     "kojiPackages": [
         "dotnet7.0-7.0.114-1.el8_9",

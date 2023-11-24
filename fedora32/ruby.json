@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.7.3",
+        "Release": "136.fc32",
+        "Architecture": "x86_64",
+        "Size": "39 k",
+        "Source": "ruby-2.7.3-136.fc32.src.rpm",
+        "Repository": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          2.7.1-128.fc32                        fedora",
+        "ruby.x86_64                        2.7.1-128.fc32                        fedora",
+        "ruby.i686                          2.7.3-136.fc32                        updates",
+        "ruby.x86_64                        2.7.3-136.fc32                        updates"
+    ]
+}

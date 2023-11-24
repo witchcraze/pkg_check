@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "memcached",
+        "Version": "1.5.10-0ubuntu1.19.04.2",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Guillaume Delacour <gui@iroqwa.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "299 kB",
+        "Depends": "libc6 (>= 2.17), libevent-2.1-6 (>= 2.1.8-stable), libsasl2-2 (>= 2.1.27+dfsg), perl, lsb-base (>= 3.2-13), adduser",
+        "Suggests": "libcache-memcached-perl, libmemcached, libanyevent-perl, libyaml-perl, libterm-readkey-perl",
+        "Homepage": "http://www.memcached.org/",
+        "Supported": "9m",
+        "Download-Size": "111 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
+        "Description": "high-performance memory object caching system"
+    },
+    "changelog": [
+        "memcached (1.5.10-0ubuntu1.19.04.2) disco-security; urgency=medium",
+        "memcached (1.5.10-0ubuntu1.19.04.1) disco-security; urgency=medium",
+        "memcached (1.5.10-0ubuntu1) cosmic; urgency=medium",
+        "memcached (1.5.6-1) unstable; urgency=medium",
+        "memcached (1.5.4-1) unstable; urgency=medium",
+        "memcached (1.5.1-1) unstable; urgency=medium",
+        "memcached (1.5.0-1) unstable; urgency=medium",
+        "memcached (1.4.33-1) unstable; urgency=medium",
+        "memcached (1.4.31-1) unstable; urgency=medium",
+        "memcached (1.4.29-1) unstable; urgency=medium"
+    ]
+}

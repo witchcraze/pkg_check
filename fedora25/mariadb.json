@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Arch": "x86_64",
+        "Epoch": "3",
+        "Version": "10.1.26",
+        "Release": "2.fc25",
+        "Size": "6.4 M",
+        "Repo": "updates",
+        "Summary": "A community developed branch of MySQL",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL."
+    },
+    "list": [
+        "mariadb.x86_64                     3:10.1.18-1.fc25                      fedora",
+        "mariadb.x86_64                     3:10.1.26-2.fc25                      updates"
+    ]
+}

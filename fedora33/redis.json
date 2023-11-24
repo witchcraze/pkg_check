@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "redis",
+        "Version": "6.0.16",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "1.2 M",
+        "Source": "redis-6.0.16-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "A persistent key-value database",
+        "URL": "https://redis.io",
+        "License": "BSD and MIT",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "redis.x86_64                        6.0.8-1.fc33                         fedora",
+        "redis.x86_64                        6.0.16-1.fc33                        updates"
+    ]
+}

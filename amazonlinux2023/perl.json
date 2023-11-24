@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.32.1",
+        "Release": "477.amzn2023.0.5",
+        "Architecture": "x86_64",
+        "Size": "13 k",
+        "Source": "perl-5.32.1-477.amzn2023.0.5.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64                4:5.32.1-477.amzn2023.0.3                 amazonlinux",
+        "perl.x86_64                4:5.32.1-477.amzn2023.0.4                 amazonlinux",
+        "perl.x86_64                4:5.32.1-477.amzn2023.0.5                 amazonlinux"
+    ]
+}

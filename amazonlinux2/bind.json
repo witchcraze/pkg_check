@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "bind",
+        "Arch": "x86_64",
+        "Epoch": "32",
+        "Version": "9.11.4",
+        "Release": "26.P2.amzn2.13.5",
+        "Size": "2.3 M",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
+        "URL": "http://www.isc.org/products/BIND/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the"
+    },
+    "list": [
+        "bind.x86_64                32:9.9.4-51.amzn2                          amzn2-core",
+        "bind.x86_64                32:9.9.4-51.amzn2.2                        amzn2-core",
+        "bind.x86_64                32:9.9.4-61.amzn2.0.1                      amzn2-core",
+        "bind.x86_64                32:9.9.4-61.amzn2.0.2                      amzn2-core",
+        "bind.x86_64                32:9.9.4-61.amzn2.1.1                      amzn2-core",
+        "bind.x86_64                32:9.9.4-73.amzn2.1.1                      amzn2-core",
+        "bind.x86_64                32:9.9.4-73.amzn2.1.2                      amzn2-core",
+        "bind.x86_64                32:9.9.4-74.amzn2.1.2                      amzn2-core",
+        "bind.x86_64                32:9.11.4-9.P2.amzn2.0.2                   amzn2-core",
+        "bind.x86_64                32:9.11.4-9.P2.amzn2.0.3                   amzn2-core",
+        "bind.x86_64                32:9.11.4-9.P2.amzn2.0.4                   amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.2                    amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.4                    amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.5                    amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.5.2                  amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13                   amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.1                 amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.3                 amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.4                 amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.5                 amzn2-core"
+    ]
+}

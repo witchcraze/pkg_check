@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "6.5",
+        "Release": "1.fc39",
+        "Architecture": "x86_64",
+        "Size": "3.9 M",
+        "Source": "squid-6.5-1.fc39.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPL-2.0-or-later AND (LGPL-2.0-or-later AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND LicenseRef-Fedora-Public-Domain AND Beerware)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64                        7:6.1-2.fc39                         fedora",
+        "squid.x86_64                        7:6.5-1.fc39                         updates"
+    ]
+}

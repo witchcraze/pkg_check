@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "14.7",
+        "Release": "3.module_f38+16250+c783e747",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "postgresql-14.7-3.module_f38+16250+c783e747.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64        14.7-3.module_f38+16250+c783e747        fedora-modular",
+        "postgresql.x86_64        14.7-3.module_f38+16250+c783e747        updates-modular"
+    ]
+}

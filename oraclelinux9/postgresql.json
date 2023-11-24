@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "15.3",
+        "Release": "1.module+el9.2.0+21134+ceb95ed9",
+        "Architecture": "src",
+        "Size": "50 M",
+        "Source": "None",
+        "Repository": "ol9_appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.src          13.5-1.el9                                 ol9_appstream",
+        "postgresql.x86_64       13.5-1.el9                                 ol9_appstream",
+        "postgresql.src          13.7-1.el9_0                               ol9_appstream",
+        "postgresql.x86_64       13.7-1.el9_0                               ol9_appstream",
+        "postgresql.src          13.10-1.el9_1                              ol9_appstream",
+        "postgresql.x86_64       13.10-1.el9_1                              ol9_appstream",
+        "postgresql.src          13.10-1.0.1.el9_1                          ol9_appstream",
+        "postgresql.x86_64       13.10-1.0.1.el9_1                          ol9_appstream",
+        "postgresql.src          13.11-1.0.1.el9_2                          ol9_appstream",
+        "postgresql.x86_64       13.11-1.0.1.el9_2                          ol9_appstream",
+        "postgresql.src          15.2-1.module+el9.2.0+20961+53e4336c       ol9_appstream",
+        "postgresql.src          15.3-1.module+el9.2.0+21134+ceb95ed9       ol9_appstream"
+    ]
+}

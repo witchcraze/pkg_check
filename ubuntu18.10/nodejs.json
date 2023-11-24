@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "nodejs",
+        "Version": "8.11.4~dfsg-0ubuntu1",
+        "Priority": "extra",
+        "Section": "universe/web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "18.2 MB",
+        "Provides": "nodejs-abi-57",
+        "Depends": "libc-ares2 (>= 1.11.0~rc1), libc6 (>= 2.14), libgcc1 (>= 1:3.4), libhttp-parser2.8 (>= 2.7.1), libicu60 (>= 60.1-1~), libnghttp2-14 (>= 1.25.0), libssl1.0.0 (>= 1.0.2~beta3), libstdc++6 (>= 5.2), libuv1 (>= 1.18.0), zlib1g (>= 1:1.1.4)",
+        "Recommends": "ca-certificates, nodejs-doc",
+        "Conflicts": "nodejs-legacy",
+        "Replaces": "nodejs-legacy",
+        "Homepage": "http://nodejs.org/",
+        "Task": "kubuntu-desktop, kubuntu-full",
+        "Download-Size": "4743 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
+        "Description": "evented I/O for V8 javascript"
+    },
+    "changelog": [
+        "nodejs (8.11.4~dfsg-0ubuntu1) cosmic; urgency=medium",
+        "nodejs (8.11.2~dfsg-1ubuntu2) cosmic; urgency=medium",
+        "nodejs (8.11.2~dfsg-1ubuntu1) cosmic; urgency=medium",
+        "nodejs (8.11.2~dfsg-1) unstable; urgency=medium",
+        "nodejs (8.11.1~dfsg-2) unstable; urgency=medium",
+        "nodejs (8.11.1~dfsg-1) experimental; urgency=medium",
+        "nodejs (8.10.0~dfsg-2) experimental; urgency=medium",
+        "nodejs (8.10.0~dfsg-1) experimental; urgency=medium",
+        "nodejs (8.9.3~dfsg-12) unstable; urgency=medium",
+        "nodejs (8.9.3~dfsg-11) unstable; urgency=medium"
+    ]
+}

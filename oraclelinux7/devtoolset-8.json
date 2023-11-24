@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "devtoolset-8",
+        "Arch": "x86_64",
+        "Version": "8.1",
+        "Release": "1.el7",
+        "Size": "5.4 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "Package that installs devtoolset-8",
+        "License": "GPLv2+",
+        "Description": "This is the main package for devtoolset-8 Software Collection."
+    },
+    "list": [
+        "devtoolset-8.x86_64              8.0-2.el7              ol7_software_collections",
+        "devtoolset-8.x86_64              8.1-1.el7              ol7_software_collections"
+    ]
+}

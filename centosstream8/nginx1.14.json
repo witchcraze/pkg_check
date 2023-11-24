@@ -18,8 +18,8 @@
         "nginx.x86_64          1:1.14.1-9.module_el8.0.0+1060+3ab382d3          appstream"
     ],
     "kojiPackages": [
-        "nginx-1.14.1-9.module_el8.0.0+1060+3ab382d3",
         "nginx-1.14.1-9.module_el8.0.0+184+e34fea82",
-        "nginx-1.14.1-8.module_el8.0.0+5+258f653c"
+        "nginx-1.14.1-8.module_el8.0.0+5+258f653c",
+        "nginx-1.14.1-9.module_el8.0.0+1060+3ab382d3"
     ]
 }

@@ -1,0 +1,36 @@
+{
+    "show": {
+        "Package": "squid",
+        "Version": "4.1-1ubuntu3.1",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Luigi Gangitano <luigi@debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "8575 kB",
+        "Pre-Depends": "adduser",
+        "Depends": "libc6 (>= 2.27), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libdb5.3, libecap3 (>= 1.0.1), libexpat1 (>= 2.0.1), libgcc1 (>= 1:3.0), libgnutls30 (>= 3.6.4), libgssapi-krb5-2 (>= 1.14+dfsg), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.6), libnetfilter-conntrack3, libnettle6, libpam0g (>= 0.99.7.1), libsasl2-2, libstdc++6 (>= 5.2), libxml2 (>= 2.7.4), netbase, logrotate (>= 3.5.4-1), squid-common (>= 4.1-1ubuntu3.1), lsb-base, libdbi-perl, ssl-cert",
+        "Recommends": "libcap2-bin, ca-certificates",
+        "Suggests": "squidclient, squid-cgi, squid-purge, resolvconf (>= 0.40), smbclient, ufw, winbindd, apparmor",
+        "Conflicts": "squid3 (<< 4.1-1ubuntu3.1)",
+        "Replaces": "squid3",
+        "Homepage": "http://www.squid-cache.org",
+        "Supported": "9m",
+        "Download-Size": "2519 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "Full featured Web Proxy cache (HTTP proxy)"
+    },
+    "changelog": [
+        "squid (4.1-1ubuntu3.1) cosmic; urgency=medium",
+        "squid (4.1-1ubuntu3) cosmic; urgency=medium",
+        "squid (4.1-1ubuntu2) cosmic; urgency=medium",
+        "squid (4.1-1ubuntu1) cosmic; urgency=medium",
+        "squid (4.1-1) unstable; urgency=high",
+        "squid (4.0.24-1~exp16) experimental; urgency=medium",
+        "squid (4.0.24-1~exp15) experimental; urgency=medium",
+        "squid (4.0.23-1~exp8) experimental; urgency=medium",
+        "squid (4.0.21-1~exp5) experimental; urgency=medium",
+        "squid3 (3.5.27-1) unstable; urgency=high"
+    ]
+}

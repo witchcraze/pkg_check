@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "dotnet",
+        "Version": "6.0.123",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "12 k",
+        "Source": "dotnet6.0-6.0.123-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": ".NET CLI tools and runtime",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet.x86_64                 6.0.111-1.amzn2023.0.2                 amazonlinux",
+        "dotnet.x86_64                 6.0.111-1.amzn2023.0.3                 amazonlinux",
+        "dotnet.x86_64                 6.0.118-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 6.0.120-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 6.0.121-1.amzn2023.0.2                 amazonlinux",
+        "dotnet.x86_64                 6.0.122-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 6.0.123-1.amzn2023.0.1                 amazonlinux"
+    ]
+}

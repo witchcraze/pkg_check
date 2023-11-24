@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "python3.7",
+        "Version": "3.7.3-2~18.10",
+        "Priority": "optional",
+        "Section": "python",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "418 kB",
+        "Depends": "python3.7-minimal (= 3.7.3-2~18.10), libpython3.7-stdlib (= 3.7.3-2~18.10), mime-support",
+        "Suggests": "python3.7-venv, python3.7-doc, binutils",
+        "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
+        "Supported": "9m",
+        "Download-Size": "284 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 3.7)"
+    },
+    "changelog": [
+        "python3.7 (3.7.3-2~18.10) cosmic; urgency=medium",
+        "python3.7 (3.7.3-2) unstable; urgency=medium",
+        "python3.7 (3.7.3-1) unstable; urgency=medium",
+        "python3.7 (3.7.3~rc1-1) unstable; urgency=medium",
+        "python3.7 (3.7.2-3) unstable; urgency=medium",
+        "python3.7 (3.7.2-2) unstable; urgency=medium",
+        "python3.7 (3.7.2-1) unstable; urgency=medium",
+        "python3.7 (3.7.2~rc1-1) unstable; urgency=medium",
+        "python3.7 (3.7.1-1~18.10) cosmic-proposed; urgency=medium",
+        "python3.7 (3.7.1-1) unstable; urgency=medium"
+    ]
+}

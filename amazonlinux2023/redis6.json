@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "redis6",
+        "Version": "6.2.13",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.3 M",
+        "Source": "redis6-6.2.13-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "A persistent key-value database",
+        "URL": "https://redis.io",
+        "License": "BSD and MIT",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "redis6.x86_64                 6.2.7-1.amzn2023.0.3                   amazonlinux",
+        "redis6.x86_64                 6.2.11-1.amzn2023.0.1                  amazonlinux",
+        "redis6.x86_64                 6.2.12-1.amzn2023.0.1                  amazonlinux",
+        "redis6.x86_64                 6.2.13-1.amzn2023.0.1                  amazonlinux"
+    ]
+}

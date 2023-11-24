@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "postgresql8",
+        "Arch": "x86_64",
+        "Version": "8.4.20",
+        "Release": "5.52.amzn1",
+        "Size": "3.5 M",
+        "Repo": "amzn-main/latest",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql8.x86_64                  8.4.20-5.52.amzn1                  amzn-main"
+    ]
+}

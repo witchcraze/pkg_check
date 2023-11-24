@@ -1,0 +1,41 @@
+{
+    "info": {
+        "Name": "openssl",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.0.2k",
+        "Release": "24.amzn2.0.10",
+        "Size": "497 k",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "Utilities from the general purpose cryptography library with TLS",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl.x86_64                 1:1.0.2k-8.amzn2.0.1                   amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-12.amzn2.0.1                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-12.amzn2.0.2                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-12.amzn2.0.3                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-16.amzn2.0.1                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-16.amzn2.0.2                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-16.amzn2.0.3                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-16.amzn2.1.1                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.1                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.3                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.4                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.6                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.7                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.8                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.9                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-19.amzn2.0.10                 amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.1                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.2                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.3                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.4                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.6                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.7                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.9                  amzn2-core",
+        "openssl.x86_64                 1:1.0.2k-24.amzn2.0.10                 amzn2-core"
+    ]
+}

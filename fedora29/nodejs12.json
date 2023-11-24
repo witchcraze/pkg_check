@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "12.13.0",
+        "Release": "5.module_f29+6917+1b172bdb",
+        "Architecture": "x86_64",
+        "Size": "408 k",
+        "Source": "nodejs-12.13.0-5.module_f29+6917+1b172bdb.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64        1:12.13.0-5.module_f29+6917+1b172bdb        updates-modular"
+    ]
+}

@@ -13,7 +13,6 @@
         "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
     },
     "list": [
-        "varnish.x86_64         6.0.8-2.module+el8.7.0+1094+66cdd070.1          appstream",
         "varnish.x86_64         6.0.8-3.module+el8.8.0+1552+3570c668.1          appstream"
     ],
     "kojiPackages": [

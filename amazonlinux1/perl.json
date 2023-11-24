@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "perl",
+        "Arch": "x86_64",
+        "Epoch": "4",
+        "Version": "5.16.3",
+        "Release": "294.44.amzn1",
+        "Size": "9.0 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and Copyright Only and",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "perl.x86_64                  4:5.16.3-286.38.amzn1                  amzn-main",
+        "perl.x86_64                  4:5.16.3-294.43.amzn1                  amzn-updates",
+        "perl.x86_64                  4:5.16.3-294.44.amzn1                  amzn-updates"
+    ]
+}

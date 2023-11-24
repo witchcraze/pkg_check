@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Version": "2.2.17",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "1.7 M",
+        "Source": "haproxy-2.2.17-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "HAProxy reverse proxy for high availability environments",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPLv2+",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
+    },
+    "list": [
+        "haproxy.x86_64                       2.2.4-1.fc33                        fedora",
+        "haproxy.x86_64                       2.2.17-1.fc33                       updates"
+    ]
+}

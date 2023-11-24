@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.6.8",
+        "Release": "3.fc28",
+        "Arch": "i686",
+        "Size": "72 k",
+        "Source": "python3-3.6.8-3.fc28.src.rpm",
+        "Repo": "updates",
+        "From repo": "updates",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed,"
+    },
+    "list": [
+        "python3.x86_64                       3.6.8-3.fc28                       @updates",
+        "python3.i686                         3.6.5-1.fc28                       fedora",
+        "python3.x86_64                       3.6.5-1.fc28                       fedora",
+        "python3.i686                         3.6.8-3.fc28                       updates",
+        "python3.x86_64                       3.6.8-3.fc28                       @updates",
+        "python3.x86_64                       3.6.8-3.fc28                       updates"
+    ]
+}

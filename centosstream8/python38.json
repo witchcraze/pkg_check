@@ -25,6 +25,18 @@
         "python38.x86_64         3.8.17-2.module_el8+640+ebf3d03c               appstream"
     ],
     "kojiPackages": [
+        "python38-3.8.17-2.module_el8+640+ebf3d03c",
+        "python38-3.8.17-1.module_el8+623+a81edf99",
+        "python38-3.8.16-2.module_el8+615+cf6008ae",
+        "python38-3.8.16-2.module_el8+613+9956a23f",
+        "python38-3.8.16-2.module_el8+610+067e71bf",
+        "python38-3.8.16-2.module_el8+600+0449ed01",
+        "python38-3.8.16-2.module_el8+595+2754fc84",
+        "python38-3.8.16-2.module_el8+575+3f347e33",
+        "python38-3.8.16-2.module_el8+562+9fe8c88d",
+        "python38-3.8.16-1.module_el8+554+4461ae4c",
+        "python38-3.8.16-1.module_el8+550+4665e4a1",
+        "python38-3.8.16-1.module_el8+448+da3022ef",
         "python38-3.8.16-1.module_el8.8.0+1242+93d6d191",
         "python38-3.8.14-1.module_el8.8.0+1229+0b0be619",
         "python38-3.8.13-1.module_el8.7.0+1177+19c53253",

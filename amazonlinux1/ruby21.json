@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "ruby21",
+        "Arch": "x86_64",
+        "Version": "2.1.9",
+        "Release": "1.23.amzn1",
+        "Size": "71 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby21.x86_64                   2.1.8-1.19.amzn1                    amzn-main",
+        "ruby21.x86_64                   2.1.9-1.20.amzn1                    amzn-updates",
+        "ruby21.x86_64                   2.1.9-1.22.amzn1                    amzn-updates",
+        "ruby21.x86_64                   2.1.9-1.23.amzn1                    amzn-updates"
+    ]
+}

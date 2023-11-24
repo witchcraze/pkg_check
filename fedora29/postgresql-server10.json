@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "10.10",
+        "Release": "1.module_f29+5313+28ee801c",
+        "Architecture": "x86_64",
+        "Size": "4.9 M",
+        "Source": "postgresql-10.10-1.module_f29+5313+28ee801c.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql-server.x86_64    10.10-1.module_f29+5313+28ee801c     updates-modular"
+    ]
+}

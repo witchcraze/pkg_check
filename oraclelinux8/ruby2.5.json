@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.5.9",
+        "Release": "111.module+el8.9.0+90042+a65659a6",
+        "Architecture": "x86_64",
+        "Size": "87 k",
+        "Source": "ruby-2.5.9-111.module+el8.9.0+90042+a65659a6.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686        2.5.3-103.module+el8+5208+5b6a4032                ol8_appstream",
+        "ruby.x86_64      2.5.3-103.module+el8+5208+5b6a4032                ol8_appstream",
+        "ruby.i686        2.5.3-104.module+el8.0.0+5238+4f9ac61b            ol8_appstream",
+        "ruby.x86_64      2.5.3-104.module+el8.0.0+5238+4f9ac61b            ol8_appstream",
+        "ruby.i686        2.5.5-105.module+el8.1.0+5407+d9828d75            ol8_appstream",
+        "ruby.x86_64      2.5.5-105.module+el8.1.0+5407+d9828d75            ol8_appstream",
+        "ruby.i686        2.5.5-106.module+el8.3.0+7756+e45777e9            ol8_appstream",
+        "ruby.x86_64      2.5.5-106.module+el8.3.0+7756+e45777e9            ol8_appstream",
+        "ruby.i686        2.5.9-107.module+el8.4.0+20203+c00aa653           ol8_appstream",
+        "ruby.x86_64      2.5.9-107.module+el8.4.0+20203+c00aa653           ol8_appstream",
+        "ruby.i686        2.5.9-107.module+el8.5.0+20497+d0a7b862           ol8_appstream",
+        "ruby.x86_64      2.5.9-107.module+el8.5.0+20497+d0a7b862           ol8_appstream",
+        "ruby.i686        2.5.9-109.0.1.module+el8.5.0+20513+af7be134       ol8_appstream",
+        "ruby.x86_64      2.5.9-109.0.1.module+el8.5.0+20513+af7be134       ol8_appstream",
+        "ruby.i686        2.5.9-110.module+el8.6.0+20712+84e27c2d           ol8_appstream",
+        "ruby.x86_64      2.5.9-110.module+el8.6.0+20712+84e27c2d           ol8_appstream",
+        "ruby.i686        2.5.9-110.0.1.module+el8.6.0+20904+a5ad2c6b       ol8_appstream",
+        "ruby.x86_64      2.5.9-110.0.1.module+el8.6.0+20904+a5ad2c6b       ol8_appstream",
+        "ruby.i686        2.5.9-111.module+el8.9.0+90042+a65659a6           ol8_appstream",
+        "ruby.x86_64      2.5.9-111.module+el8.9.0+90042+a65659a6           ol8_appstream"
+    ]
+}

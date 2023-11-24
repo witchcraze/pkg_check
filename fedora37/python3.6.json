@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python3.6",
+        "Version": "3.6.15",
+        "Release": "16.fc37",
+        "Architecture": "x86_64",
+        "Size": "19 M",
+        "Source": "python3.6-3.6.15-16.fc37.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.6 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python and MIT and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)",
+        "Description": "Python 3.6 package for developers."
+    },
+    "list": [
+        "python3.6.i686                       3.6.15-12.fc37                      fedora",
+        "python3.6.x86_64                     3.6.15-12.fc37                      fedora",
+        "python3.6.i686                       3.6.15-16.fc37                      updates",
+        "python3.6.x86_64                     3.6.15-16.fc37                      updates"
+    ]
+}

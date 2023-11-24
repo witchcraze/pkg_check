@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "tomcat",
+        "Epoch": "1",
+        "Version": "9.0.54",
+        "Release": "1.fc33",
+        "Architecture": "noarch",
+        "Size": "89 k",
+        "Source": "tomcat-9.0.54-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official Reference"
+    },
+    "list": [
+        "tomcat.noarch                      1:9.0.38-1.fc33                       fedora",
+        "tomcat.noarch                      1:9.0.54-1.fc33                       updates"
+    ]
+}

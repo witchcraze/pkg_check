@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "openssl",
+        "Epoch": "1",
+        "Version": "1.1.1g",
+        "Release": "1.fc31",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "openssl-1.1.1g-1.fc31.src.rpm",
+        "Repository": "@System",
+        "From repo": "koji-override-0",
+        "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications between"
+    },
+    "list": [
+        "openssl.x86_64                 1:1.1.1g-1.fc31                  @koji-override-0",
+        "openssl.x86_64                 1:1.1.1d-2.fc31                  fedora",
+        "openssl.x86_64                 1:1.1.1g-1.fc31                  updates"
+    ]
+}

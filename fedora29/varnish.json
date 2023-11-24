@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "6.0.5",
+        "Release": "1.fc29",
+        "Architecture": "x86_64",
+        "Size": "2.6 M",
+        "Source": "varnish-6.0.5-1.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.i686                         6.0.0-2.fc29                        fedora",
+        "varnish.x86_64                       6.0.0-2.fc29                        fedora",
+        "varnish.i686                         6.0.5-1.fc29                        updates",
+        "varnish.x86_64                       6.0.5-1.fc29                        updates"
+    ]
+}

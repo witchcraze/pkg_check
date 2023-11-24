@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "12.10",
+        "Release": "2.module_f34+14010+b47f6933",
+        "Architecture": "x86_64",
+        "Size": "5.7 M",
+        "Source": "postgresql-12.10-2.module_f34+14010+b47f6933.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64    12.5-1.module_f34+11060+94930af7     fedora-modular",
+        "postgresql-server.x86_64    12.10-2.module_f34+14010+b47f6933    updates-modular"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "bind",
+        "Arch": "x86_64",
+        "Epoch": "32",
+        "Version": "9.8.2",
+        "Release": "0.68.rc1.91.amzn1",
+        "Size": "4.0 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
+        "URL": "http://www.isc.org/products/BIND/",
+        "License": "ISC",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the"
+    },
+    "list": [
+        "bind.x86_64               32:9.8.2-0.62.rc1.57.amzn1                amzn-main",
+        "bind.x86_64               32:9.8.2-0.68.rc1.58.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.59.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.60.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.64.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.85.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.86.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.87.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.90.amzn1                amzn-updates",
+        "bind.x86_64               32:9.8.2-0.68.rc1.91.amzn1                amzn-updates"
+    ]
+}

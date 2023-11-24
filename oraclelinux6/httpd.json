@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Arch": "x86_64",
+        "Version": "2.2.15",
+        "Release": "69.0.1.el6",
+        "Size": "835 k",
+        "Repo": "ol6_latest",
+        "Summary": "Apache HTTP Server",
+        "URL": "http://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64                 2.2.15-5.0.1.el6                       ol6_ga_base",
+        "httpd.x86_64                 2.2.15-9.0.1.el6                       ol6_u1_base",
+        "httpd.x86_64                 2.2.15-15.0.1.el6                      ol6_u2_base",
+        "httpd.x86_64                 2.2.15-15.0.1.el6_2.1                  ol6_u3_base",
+        "httpd.x86_64                 2.2.15-26.0.1.el6                      ol6_u4_base",
+        "httpd.x86_64                 2.2.15-29.0.1.el6_4                    ol6_u5_base",
+        "httpd.x86_64                 2.2.15-39.0.1.el6                      ol6_u6_base",
+        "httpd.x86_64                 2.2.15-45.0.1.el6                      ol6_u7_base",
+        "httpd.x86_64                 2.2.15-53.0.1.el6                      ol6_u8_base",
+        "httpd.x86_64                 2.2.15-59.0.1.el6                      ol6_latest",
+        "httpd.x86_64                 2.2.15-59.0.1.el6                      ol6_u9_base",
+        "httpd.x86_64                 2.2.15-60.0.1.el6_9.4                  ol6_latest",
+        "httpd.x86_64                 2.2.15-60.0.1.el6_9.5                  ol6_latest",
+        "httpd.x86_64                 2.2.15-60.0.1.el6_9.6                  ol6_latest",
+        "httpd.x86_64                 2.2.15-69.0.1.el6                      ol6_latest",
+        "httpd.x86_64                 2.2.15-69.0.1.el6                      ol6_u10_base"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "python3",
+        "Arch": "x86_64",
+        "Version": "3.6.8",
+        "Release": "21.0.1.el7_9",
+        "Size": "70 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed,"
+    },
+    "list": [
+        "python3.x86_64                  3.6.8-10.0.1.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-10.0.1.el7                     ol7_u7_base",
+        "python3.x86_64                  3.6.8-13.0.1.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-13.0.1.el7                     ol7_u8_base",
+        "python3.x86_64                  3.6.8-17.0.1.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-17.0.1.el7                     ol7_u9_base",
+        "python3.i686                    3.6.8-18.0.1.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-18.0.1.el7                     ol7_latest",
+        "python3.i686                    3.6.8-18.0.3.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-18.0.3.el7                     ol7_latest",
+        "python3.i686                    3.6.8-18.0.5.el7                     ol7_latest",
+        "python3.x86_64                  3.6.8-18.0.5.el7                     ol7_latest",
+        "python3.i686                    3.6.8-19.0.1.el7_9                   ol7_latest",
+        "python3.x86_64                  3.6.8-19.0.1.el7_9                   ol7_latest",
+        "python3.i686                    3.6.8-21.0.1.el7_9                   ol7_latest",
+        "python3.x86_64                  3.6.8-21.0.1.el7_9                   ol7_latest"
+    ]
+}

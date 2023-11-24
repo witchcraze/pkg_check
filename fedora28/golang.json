@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.10.8",
+        "Release": "1.fc28",
+        "Arch": "x86_64",
+        "Size": "630 k",
+        "Source": "golang-1.10.8-1.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                       1.10.1-1.fc28                        fedora",
+        "golang.x86_64                       1.10.8-1.fc28                        updates"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "10.3.1",
+        "Release": "1.fc32",
+        "Architecture": "x86_64",
+        "Size": "30 M",
+        "Source": "gcc-10.3.1-1.fc32.src.rpm",
+        "Repository": "updates",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD",
+        "Description": "The gcc package contains the GNU Compiler Collection version 10."
+    },
+    "list": [
+        "gcc.x86_64                       10.0.1-0.11.fc32                        fedora",
+        "gcc.x86_64                       10.3.1-1.fc32                           updates"
+    ]
+}

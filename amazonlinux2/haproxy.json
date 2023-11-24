@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Arch": "x86_64",
+        "Version": "1.5.18",
+        "Release": "9.amzn2",
+        "Size": "831 k",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "TCP/HTTP proxy and load balancer for high availability",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPLv2+",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited"
+    },
+    "list": [
+        "haproxy.x86_64                     1.5.18-6.amzn2                     amzn2-core",
+        "haproxy.x86_64                     1.5.18-7.amzn2                     amzn2-core",
+        "haproxy.x86_64                     1.5.18-9.amzn2                     amzn2-core"
+    ]
+}

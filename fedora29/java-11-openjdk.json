@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "java-11-openjdk",
+        "Epoch": "1",
+        "Version": "11.0.5.10",
+        "Release": "0.fc29",
+        "Architecture": "x86_64",
+        "Size": "225 k",
+        "Source": "java-11-openjdk-11.0.5.10-0.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "OpenJDK Runtime Environment 11",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and",
+        "Description": "The OpenJDK runtime environment."
+    },
+    "list": [
+        "java-11-openjdk.x86_64                1:11.0.ea.28-2.fc29                fedora",
+        "java-11-openjdk.i686                  1:11.0.5.10-0.fc29                 updates",
+        "java-11-openjdk.x86_64                1:11.0.5.10-0.fc29                 updates"
+    ]
+}

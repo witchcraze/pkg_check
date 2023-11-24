@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python3.5",
+        "Version": "3.5.10",
+        "Release": "7.fc33",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "python3.5-3.5.10-7.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.5 of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.5 package for developers."
+    },
+    "list": [
+        "python3.5.i686                        3.5.10-1.fc33                      fedora",
+        "python3.5.x86_64                      3.5.10-1.fc33                      fedora",
+        "python3.5.i686                        3.5.10-7.fc33                      updates",
+        "python3.5.x86_64                      3.5.10-7.fc33                      updates"
+    ]
+}

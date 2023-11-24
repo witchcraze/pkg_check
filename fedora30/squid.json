@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "4.11",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "3.6 M",
+        "Source": "squid-4.11-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64                        7:4.4-2.fc30                         fedora",
+        "squid.x86_64                        7:4.11-1.fc30                        updates"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "mysql51",
+        "Arch": "x86_64",
+        "Version": "5.1.73",
+        "Release": "8.72.amzn1",
+        "Size": "1.1 M",
+        "Repo": "amzn-main/latest",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions. See README.mysql-license",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql51.x86_64                    5.1.73-8.72.amzn1                    amzn-main"
+    ]
+}

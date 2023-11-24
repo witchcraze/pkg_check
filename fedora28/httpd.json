@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.39",
+        "Release": "1.1.fc28",
+        "Arch": "x86_64",
+        "Size": "1.4 M",
+        "Source": "httpd-2.4.39-1.1.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64                       2.4.33-2.fc28                         fedora",
+        "httpd.x86_64                       2.4.39-1.1.fc28                       updates"
+    ]
+}

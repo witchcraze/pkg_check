@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "php70",
+        "Arch": "x86_64",
+        "Version": "7.0.33",
+        "Release": "1.32.amzn1",
+        "Size": "3.3 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php70.x86_64                   7.0.29-1.28.amzn1                    amzn-main",
+        "php70.x86_64                   7.0.30-1.29.amzn1                    amzn-updates",
+        "php70.x86_64                   7.0.31-1.30.amzn1                    amzn-updates",
+        "php70.x86_64                   7.0.32-1.31.amzn1                    amzn-updates",
+        "php70.x86_64                   7.0.33-1.32.amzn1                    amzn-updates"
+    ]
+}

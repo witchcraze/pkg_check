@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "tomcat80",
+        "Arch": "noarch",
+        "Version": "8.0.53",
+        "Release": "1.80.amzn1",
+        "Size": "101 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.1/JSP 2.3 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat80.noarch                  8.0.50-1.79.amzn1                  amzn-main",
+        "tomcat80.noarch                  8.0.53-1.80.amzn1                  amzn-updates"
+    ]
+}

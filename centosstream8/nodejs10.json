@@ -18,15 +18,15 @@
     ],
     "kojiPackages": [
         "nodejs-10.24.0-1.module_el8.3.0+717+fa496f1d",
-        "nodejs-10.23.1-1.module_el8.3.0+700+63bc5195",
-        "nodejs-10.23.1-1.module_el8.4.0+645+9ce14ba2",
         "nodejs-10.22.1-1.module_el8.3.0+510+47f19c19",
         "nodejs-10.21.0-3.module_el8.3.0+448+b386f086",
-        "nodejs-10.21.0-3.module_el8.2.0+391+8da3adc6",
         "nodejs-10.19.0-2.module_el8.2.0+310+695ca693",
         "nodejs-10.19.0-2.module_el8.1.0+296+bef51246",
         "nodejs-10.19.0-1.module_el8.1.0+277+2bccb1a9",
         "nodejs-10.16.3-2.module_el8.0.0+186+542b25fc",
-        "nodejs-10.14.1-1.module_el8.0.0+14+a5a48e73"
+        "nodejs-10.14.1-1.module_el8.0.0+14+a5a48e73",
+        "nodejs-10.23.1-1.module_el8.4.0+645+9ce14ba2",
+        "nodejs-10.23.1-1.module_el8.3.0+700+63bc5195",
+        "nodejs-10.21.0-3.module_el8.2.0+391+8da3adc6"
     ]
 }

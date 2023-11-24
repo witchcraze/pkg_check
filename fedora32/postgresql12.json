@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "12.1",
+        "Release": "1.module_f32+7200+39d603ce",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-12.1-1.module_f32+7200+39d603ce.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64        12.1-1.module_f32+7200+39d603ce         fedora-modular",
+        "postgresql.x86_64        12.1-1.module_f32+7200+39d603ce         updates-modular"
+    ]
+}

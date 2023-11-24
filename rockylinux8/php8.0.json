@@ -13,7 +13,6 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64            8.0.27-1.module+el8.7.0+1156+de6c8de9            appstream",
         "php.x86_64            8.0.30-1.module+el8.8.0+1550+d8f1b18f            appstream"
     ],
     "kojiPackages": [

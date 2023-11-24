@@ -16,7 +16,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Origin": "Ubuntu",
         "Supported": "9m",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "changelog": [
@@ -203,7 +203,6 @@
         "gcc-4.6 (4.6.0-2) unstable; urgency=low",
         "gcc-4.6 (4.6.0-1) unstable; urgency=low",
         "gcc-4.6 (4.6.0~rc1-3) experimental; urgency=low",
-        "gcc-4.6 (4.6.0~rc1-2) experimental; urgency=low",
         "gcc-4.6 (4.6.0~rc1-2) experimental; urgency=low",
         "gcc-4.6 (4.6.0~rc1-1) experimental; urgency=low",
         "gcc-4.6 (4.6-20110227-1) experimental; urgency=low",

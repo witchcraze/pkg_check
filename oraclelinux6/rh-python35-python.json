@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-python35-python",
+        "Arch": "x86_64",
+        "Version": "3.5.1",
+        "Release": "13.0.1.el6",
+        "Size": "52 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "rh-python35-python.x86_64       3.5.1-11.0.1.el6        ol6_software_collections",
+        "rh-python35-python.x86_64       3.5.1-12.0.1.el6        ol6_software_collections",
+        "rh-python35-python.x86_64       3.5.1-13.0.1.el6        ol6_software_collections"
+    ]
+}

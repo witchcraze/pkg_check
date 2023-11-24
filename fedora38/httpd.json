@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.58",
+        "Release": "1.fc38",
+        "Architecture": "x86_64",
+        "Size": "50 k",
+        "Source": "httpd-2.4.58-1.fc38.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "Apache-2.0 AND (BSD-3-Clause AND metamail AND HPND-sell-variant AND Spencer-94)",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.i686                          2.4.56-1.fc38                        fedora",
+        "httpd.x86_64                        2.4.56-1.fc38                        fedora",
+        "httpd.i686                          2.4.58-1.fc38                        updates",
+        "httpd.x86_64                        2.4.58-1.fc38                        updates"
+    ]
+}

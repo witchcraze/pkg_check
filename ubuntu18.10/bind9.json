@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "bind9",
+        "Version": "1:9.11.4+dfsg-3ubuntu5.4",
+        "Priority": "optional",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "BIND 9 Package <bind9@package.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "1982 kB",
+        "Depends": "adduser, bind9utils (= 1:9.11.4+dfsg-3ubuntu5.4), debconf (>= 0.5) | debconf-2.0, dns-root-data, libbind9-160 (= 1:9.11.4+dfsg-3ubuntu5.4), libdns1102 (= 1:9.11.4+dfsg-3ubuntu5.4), libisc169 (= 1:9.11.4+dfsg-3ubuntu5.4), libisccc160 (= 1:9.11.4+dfsg-3ubuntu5.4), libisccfg160 (= 1:9.11.4+dfsg-3ubuntu5.4), liblwres160 (= 1:9.11.4+dfsg-3ubuntu5.4), lsb-base (>= 3.2-14), net-tools, netbase, libc6 (>= 2.28), libcap2 (>= 1:2.10), libgeoip1, libjson-c3 (>= 0.11), libssl1.1 (>= 1.1.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
+        "Suggests": "bind9-doc, dnsutils, resolvconf, ufw",
+        "Homepage": "https://www.isc.org/downloads/bind/",
+        "Task": "dns-server",
+        "Supported": "9m",
+        "Download-Size": "410 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "Internet Domain Name Server"
+    },
+    "changelog": [
+        "bind9 (1:9.11.4+dfsg-3ubuntu5.4) cosmic-security; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu5.3) cosmic-security; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu5.1) cosmic-security; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu5) cosmic; urgency=high",
+        "bind9 (1:9.11.4+dfsg-3ubuntu4) cosmic; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu3) cosmic; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu2) cosmic; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3ubuntu1) cosmic; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-3) unstable; urgency=medium",
+        "bind9 (1:9.11.4+dfsg-2) unstable; urgency=medium"
+    ]
+}

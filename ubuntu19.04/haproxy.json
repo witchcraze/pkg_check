@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "haproxy",
+        "Version": "1.8.19-1ubuntu1.3",
+        "Priority": "optional",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian HAProxy Maintainers <haproxy@tracker.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "2425 kB",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "libc6 (>= 2.15), liblua5.3-0, libpcre2-8-0 (>= 10.32), libssl1.1 (>= 1.1.1), libsystemd0, zlib1g (>= 1:1.1.4), adduser, lsb-base (>= 3.0-6)",
+        "Suggests": "vim-haproxy, haproxy-doc",
+        "Homepage": "http://www.haproxy.org/",
+        "Supported": "9m",
+        "Download-Size": "1136 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
+        "Description": "fast and reliable load balancing reverse proxy"
+    },
+    "changelog": [
+        "haproxy (1.8.19-1ubuntu1.3) disco-security; urgency=medium",
+        "haproxy (1.8.19-1ubuntu1.2) disco-security; urgency=medium",
+        "haproxy (1.8.19-1ubuntu1.1) disco; urgency=medium",
+        "haproxy (1.8.19-1ubuntu1) disco; urgency=medium",
+        "haproxy (1.8.19-1) unstable; urgency=medium",
+        "haproxy (1.8.18-1) unstable; urgency=medium",
+        "haproxy (1.8.17-1ubuntu1) disco; urgency=medium",
+        "haproxy (1.8.17-1) unstable; urgency=medium",
+        "haproxy (1.8.16-2) unstable; urgency=high",
+        "haproxy (1.8.16-1) unstable; urgency=high"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "postgresql93",
+        "Arch": "x86_64",
+        "Version": "9.3.25",
+        "Release": "1.73.amzn1",
+        "Size": "1.7 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql93.x86_64                9.3.22-1.70.amzn1                amzn-main",
+        "postgresql93.x86_64                9.3.24-1.71.amzn1                amzn-updates",
+        "postgresql93.x86_64                9.3.25-1.72.amzn1                amzn-updates",
+        "postgresql93.x86_64                9.3.25-1.73.amzn1                amzn-updates"
+    ]
+}

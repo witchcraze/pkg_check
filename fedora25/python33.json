@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python33",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "3.3.6",
+        "Release": "2.fc25",
+        "Size": "12 M",
+        "Repo": "fedora",
+        "Summary": "Version 3.3 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.3 package for developers."
+    },
+    "list": [
+        "python33.i686                         3.3.6-2.fc25                        fedora",
+        "python33.x86_64                       3.3.6-2.fc25                        fedora"
+    ]
+}

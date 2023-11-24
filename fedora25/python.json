@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "2.7.13",
+        "Release": "3.fc25",
+        "Size": "96 k",
+        "Repo": "updates",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "python.i686                         2.7.12-7.fc25                        fedora",
+        "python.x86_64                       2.7.12-7.fc25                        fedora",
+        "python.i686                         2.7.13-3.fc25                        updates",
+        "python.x86_64                       2.7.13-3.fc25                        updates"
+    ]
+}

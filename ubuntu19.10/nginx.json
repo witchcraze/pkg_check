@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "nginx",
+        "Version": "1.16.1-0ubuntu2.1",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "44.0 kB",
+        "Depends": "nginx-core (<< 1.16.1-0ubuntu2.1.1~) | nginx-full (<< 1.16.1-0ubuntu2.1.1~) | nginx-light (<< 1.16.1-0ubuntu2.1.1~) | nginx-extras (<< 1.16.1-0ubuntu2.1.1~), nginx-core (>= 1.16.1-0ubuntu2.1) | nginx-full (>= 1.16.1-0ubuntu2.1) | nginx-light (>= 1.16.1-0ubuntu2.1) | nginx-extras (>= 1.16.1-0ubuntu2.1)",
+        "Homepage": "http://nginx.net",
+        "Supported": "9m",
+        "Download-Size": "3624 B",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
+        "Description": "small, powerful, scalable web/proxy server"
+    },
+    "changelog": [
+        "nginx (1.16.1-0ubuntu2.1) eoan-security; urgency=medium",
+        "nginx (1.16.1-0ubuntu2) eoan; urgency=medium",
+        "nginx (1.16.1-0ubuntu1) eoan; urgency=medium",
+        "nginx (1.16.0-0ubuntu2) eoan; urgency=medium",
+        "nginx (1.16.0-0ubuntu1) eoan; urgency=medium",
+        "nginx (1.15.12-0ubuntu1) eoan; urgency=medium",
+        "nginx (1.15.8-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.7-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.6-0ubuntu2) disco; urgency=medium",
+        "nginx (1.15.6-0ubuntu1) disco; urgency=medium"
+    ]
+}

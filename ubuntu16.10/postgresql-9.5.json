@@ -1,0 +1,41 @@
+{
+    "show": {
+        "Package": "postgresql-9.5",
+        "Version": "9.5.7-0ubuntu0.16.10",
+        "Priority": "optional",
+        "Section": "database",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian PostgreSQL Maintainers <pkg-postgresql-public@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "12.2 MB",
+        "Depends": "libc6 (>= 2.16), libgssapi-krb5-2 (>= 1.14+dfsg), libldap-2.4-2 (>= 2.4.7), libpam0g (>= 0.99.7.1), libpq5 (>= 9.2~beta3), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), postgresql-client-9.5, postgresql-common (>= 158~), tzdata, ssl-cert, locales",
+        "Recommends": "postgresql-contrib-9.5, sysstat",
+        "Suggests": "locales-all",
+        "Homepage": "http://www.postgresql.org/",
+        "Task": "postgresql-server",
+        "Supported": "9m",
+        "Download-Size": "3007 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
+        "Description": "object-relational SQL database, version 9.5 server"
+    },
+    "changelog": [
+        "postgresql-9.5 (9.5.7-0ubuntu0.16.10) yakkety; urgency=medium",
+        "postgresql-9.5 (9.5.6-0ubuntu0.16.10) yakkety; urgency=medium",
+        "postgresql-9.5 (9.5.5-0ubuntu0.16.10) yakkety; urgency=medium",
+        "postgresql-9.5 (9.5.4-1) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.3-1) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.2-1) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.1-1) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.0-3) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.0-2) unstable; urgency=medium",
+        "postgresql-9.5 (9.5.0-1) unstable; urgency=medium",
+        "postgresql-9.5 (9.5~rc1-1) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~beta2-2) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~beta2-1) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~beta1-1) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~alpha2-1) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~alpha1-1) experimental; urgency=medium",
+        "postgresql-9.5 (9.5~~devel-1) UNRELEASED; urgency=low"
+    ]
+}

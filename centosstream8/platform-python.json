@@ -50,11 +50,16 @@
         "platform-python.x86_64                  3.6.8-56.el8                   baseos"
     ],
     "kojiPackages": [
+        "python3-3.6.8-56.el8",
+        "python3-3.6.8-55.el8",
+        "python3-3.6.8-54.el8",
+        "python3-3.6.8-53.el8",
+        "python3-3.6.8-52.el8",
         "python3-3.6.8-51.el8",
         "python3-3.6.8-50.el8",
         "python3-3.6.8-49.el8",
-        "python3-3.6.8-47.el8",
         "python3-3.6.8-46.el8",
+        "python3-3.6.8-47.el8",
         "python3-3.6.8-45.el8",
         "python3-3.6.8-39.el8_4",
         "python3-3.6.8-44.el8",

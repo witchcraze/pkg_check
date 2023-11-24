@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.8.7",
+        "Release": "1.fc26",
+        "Arch": "x86_64",
+        "Size": "612 k",
+        "Source": "golang-1.8.7-1.fc26.src.rpm",
+        "Repo": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                        1.8.1-2.fc26                        fedora",
+        "golang.x86_64                        1.8.7-1.fc26                        updates"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "python34",
+        "Arch": "x86_64",
+        "Version": "3.4.10",
+        "Release": "1.55.amzn1",
+        "Size": "55 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Version 3.4 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.4 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "python34.x86_64                  3.4.7-1.38.amzn1                   amzn-main",
+        "python34.x86_64                  3.4.8-1.39.amzn1                   amzn-updates",
+        "python34.x86_64                  3.4.9-1.40.amzn1                   amzn-updates",
+        "python34.x86_64                  3.4.9-1.41.amzn1                   amzn-updates",
+        "python34.x86_64                  3.4.9-1.42.amzn1                   amzn-updates",
+        "python34.x86_64                  3.4.10-1.43.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.45.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.47.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.48.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.49.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.50.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.51.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.52.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.53.amzn1                  amzn-updates",
+        "python34.x86_64                  3.4.10-1.55.amzn1                  amzn-updates"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.4.5",
+        "Release": "90.fc27",
+        "Arch": "x86_64",
+        "Size": "81 k",
+        "Source": "ruby-2.4.5-90.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          2.4.2-84.fc27                         fedora",
+        "ruby.x86_64                        2.4.2-84.fc27                         fedora",
+        "ruby.i686                          2.4.5-90.fc27                         updates",
+        "ruby.x86_64                        2.4.5-90.fc27                         updates"
+    ]
+}

@@ -20,7 +20,6 @@
         "implemented-in": "perl, interface::commandline, role::devel-lib,",
         "role": "metapackage, role::program",
         "Download-Size": "204 kB",
-        "APT-Manual-Installed": "no",
         "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },

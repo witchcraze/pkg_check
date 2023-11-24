@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.57-2ubuntu2",
+        "Version": "2.4.57-2ubuntu2.1",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,16 +11,17 @@
         "Installed-Size": "473 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.57-2ubuntu2), apache2-data (= 2.4.57-2ubuntu2), apache2-utils (= 2.4.57-2ubuntu2), lsb-base, media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.57-2ubuntu2.1), apache2-data (= 2.4.57-2ubuntu2.1), apache2-utils (= 2.4.57-2ubuntu2.1), lsb-base, media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "96.9 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "changelog": [
+        "apache2 (2.4.57-2ubuntu2.1) mantic-security; urgency=medium",
         "apache2 (2.4.57-2ubuntu2) mantic; urgency=medium",
         "apache2 (2.4.57-2ubuntu1) mantic; urgency=medium",
         "apache2 (2.4.57-2) unstable; urgency=medium",

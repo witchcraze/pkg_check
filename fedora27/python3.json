@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.6.6",
+        "Release": "1.fc27",
+        "Arch": "i686",
+        "Size": "70 k",
+        "Source": "python3-3.6.6-1.fc27.src.rpm",
+        "Repo": "updates",
+        "From repo": "koji-override-0",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed,"
+    },
+    "list": [
+        "python3.x86_64                  3.6.6-1.fc27                    @koji-override-0",
+        "python3.i686                    3.6.2-13.fc27                   fedora",
+        "python3.x86_64                  3.6.2-13.fc27                   fedora",
+        "python3.i686                    3.6.6-1.fc27                    updates",
+        "python3.x86_64                  3.6.6-1.fc27                    @koji-override-0",
+        "python3.x86_64                  3.6.6-1.fc27                    updates"
+    ]
+}

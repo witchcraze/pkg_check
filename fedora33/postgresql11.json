@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "11.13",
+        "Release": "1.module_f33+12687+6803e07c",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-11.13-1.module_f33+12687+6803e07c.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       11.13-1.module_f33+12687+6803e07c        updates-modular"
+    ]
+}

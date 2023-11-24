@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "dotnet7.0",
+        "Version": "7.0.114",
+        "Release": "1.0.1.el8_9",
+        "Architecture": "src",
+        "Size": "489 M",
+        "Source": "None",
+        "Repository": "ol8_appstream",
+        "Summary": ".NET Runtime and SDK",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet7.0.src              7.0.100-0.2.rc1.0.1.el8                 ol8_appstream",
+        "dotnet7.0.src              7.0.100-0.4.rc2.0.1.el8_7               ol8_appstream",
+        "dotnet7.0.src              7.0.100-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.101-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.102-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.103-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.104-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.105-1.0.1.el8_7                     ol8_appstream",
+        "dotnet7.0.src              7.0.105-2.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.107-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.108-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.109-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.110-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.111-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.112-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.113-1.0.1.el8_8                     ol8_appstream",
+        "dotnet7.0.src              7.0.114-1.0.1.el8_9                     ol8_appstream"
+    ]
+}

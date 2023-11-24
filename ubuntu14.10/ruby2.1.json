@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "ruby2.1",
+        "Priority": "extra",
+        "Section": "ruby",
+        "Installed-Size": "143 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Antonio Terceiro <terceiro@debian.org>",
+        "Version": "2.1.2-2ubuntu1.2",
+        "Provides": "ruby-interpreter",
+        "Depends": "ruby (>= 1:1.9.3.1), rubygems-integration, libc6 (>= 2.2.5), libruby2.1 (>= 2.1.0)",
+        "Download-Size": "70.5 kB",
+        "Homepage": "http://www.ruby-lang.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "Task": "kubuntu-desktop, kubuntu-full, kubuntu-active, kubuntu-active-desktop, kubuntu-active-full, kubuntu-active, edubuntu-desktop-gnome, ubuntustudio-font-meta",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.1 (2.1.2-2ubuntu1.2) utopic-security; urgency=medium",
+        "ruby2.1 (2.1.2-2ubuntu1.1) utopic-security; urgency=medium",
+        "ruby2.1 (2.1.2-2ubuntu1) utopic; urgency=medium",
+        "ruby2.1 (2.1.2-2) unstable; urgency=medium",
+        "ruby2.1 (2.1.2-1) unstable; urgency=medium",
+        "ruby2.1 (2.1.1-4ubuntu1) utopic; urgency=medium",
+        "ruby2.1 (2.1.1-4) unstable; urgency=medium",
+        "ruby2.1 (2.1.1-3) unstable; urgency=medium",
+        "ruby2.1 (2.1.1-2) unstable; urgency=medium",
+        "ruby2.1 (2.1.1-1) unstable; urgency=medium"
+    ]
+}

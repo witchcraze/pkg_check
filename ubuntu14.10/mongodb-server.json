@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "mongodb-server",
+        "Priority": "optional",
+        "Section": "universe/database",
+        "Installed-Size": "23.4 MB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Laszlo Boszormenyi (GCS) <gcs@debian.org>",
+        "Source": "mongodb",
+        "Version": "1:2.6.3-0ubuntu5",
+        "Replaces": "mongodb (<= 1:1.4.2-2)",
+        "Depends": "adduser, mongodb-clients, lsb-base (>= 4.1+Debian11ubuntu7), libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-system1.55.0, libboost-thread1.55.0, libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libgoogle-perftools4, libpcrecpp0 (>= 7.7), libsnappy1, libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.9), libv8-3.14.5, libyaml-cpp0.5",
+        "Download-Size": "7059 kB",
+        "Homepage": "http://www.mongodb.org",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
+        "Description": "object/document-oriented database (server package)"
+    },
+    "changelog": [
+        "mongodb (1:2.6.3-0ubuntu5) utopic; urgency=medium",
+        "mongodb (1:2.6.3-0ubuntu4) utopic; urgency=medium",
+        "mongodb (1:2.6.3-0ubuntu3) utopic; urgency=medium",
+        "mongodb (1:2.6.3-0ubuntu2) utopic; urgency=medium",
+        "mongodb (1:2.6.3-0ubuntu1) utopic; urgency=medium",
+        "mongodb (1:2.4.10-2) unstable; urgency=low",
+        "mongodb (1:2.4.10-1ubuntu1) utopic; urgency=low",
+        "mongodb (1:2.4.10-1) unstable; urgency=low",
+        "mongodb (1:2.4.9-1ubuntu3) utopic; urgency=high",
+        "mongodb (1:2.4.9-1ubuntu2) trusty; urgency=medium"
+    ]
+}

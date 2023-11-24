@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.0.4",
+        "Release": "153.fc34",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-3.0.4-153.fc34.src.rpm",
+        "Repository": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          3.0.0-146.fc34                        fedora",
+        "ruby.x86_64                        3.0.0-146.fc34                        fedora",
+        "ruby.i686                          3.0.4-153.fc34                        updates",
+        "ruby.x86_64                        3.0.4-153.fc34                        updates"
+    ]
+}

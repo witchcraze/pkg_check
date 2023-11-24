@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "python27",
+        "Arch": "x86_64",
+        "Version": "2.7.18",
+        "Release": "2.149.amzn1",
+        "Size": "88 k",
+        "Repo": "installed",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "python27.x86_64                 2.7.18-2.149.amzn1                  installed",
+        "python27.x86_64                 2.7.13-2.122.amzn1                  amzn-main",
+        "python27.x86_64                 2.7.14-1.123.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.15-1.124.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.16-1.125.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.16-1.127.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.16-1.129.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.16-1.130.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.16-1.131.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-1.137.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-1.138.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.139.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.140.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.141.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.142.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.145.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.148.amzn1                  amzn-updates",
+        "python27.x86_64                 2.7.18-2.149.amzn1                  amzn-updates"
+    ]
+}

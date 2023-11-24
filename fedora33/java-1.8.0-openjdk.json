@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "java-1.8.0-openjdk",
+        "Epoch": "1",
+        "Version": "1.8.0.312.b07",
+        "Release": "2.fc33",
+        "Architecture": "x86_64",
+        "Size": "270 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.312.b07-2.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "OpenJDK 8 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib",
+        "Description": "The OpenJDK 8 runtime environment."
+    },
+    "list": [
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.272.b01-0.1.ea.fc33           fedora",
+        "java-1.8.0-openjdk.x86_64          1:1.8.0.312.b07-2.fc33                updates"
+    ]
+}

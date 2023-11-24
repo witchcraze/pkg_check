@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby3.2",
+        "Version": "3.2.2",
+        "Release": "180.amzn2023.0.2",
+        "Architecture": "x86_64",
+        "Size": "45 k",
+        "Source": "ruby3.2-3.2.2-180.amzn2023.0.2.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby OR BSD-2-Clause) AND BSD-3-Clause AND ISC AND Public Domain AND MIT and CC0 AND zlib AND Unicode-DFS-2015",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby3.2.x86_64                3.2.0-177.amzn2023.0.1                 amazonlinux",
+        "ruby3.2.x86_64                3.2.1-179.amzn2023.0.1                 amazonlinux",
+        "ruby3.2.x86_64                3.2.2-180.amzn2023.0.1                 amazonlinux",
+        "ruby3.2.x86_64                3.2.2-180.amzn2023.0.2                 amazonlinux"
+    ]
+}

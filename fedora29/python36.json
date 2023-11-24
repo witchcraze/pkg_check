@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python36",
+        "Version": "3.6.9",
+        "Release": "1.fc29",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "python36-3.6.9-1.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.6 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.6 package for developers."
+    },
+    "list": [
+        "python36.i686                         3.6.6-5.fc29                       fedora",
+        "python36.x86_64                       3.6.6-5.fc29                       fedora",
+        "python36.i686                         3.6.9-1.fc29                       updates",
+        "python36.x86_64                       3.6.9-1.fc29                       updates"
+    ]
+}

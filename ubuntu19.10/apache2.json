@@ -1,0 +1,39 @@
+{
+    "show": {
+        "Package": "apache2",
+        "Version": "2.4.41-1ubuntu1",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "540 kB",
+        "Provides": "httpd, httpd-cgi",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "apache2-bin (= 2.4.41-1ubuntu1), apache2-data (= 2.4.41-1ubuntu1), apache2-utils (= 2.4.41-1ubuntu1), lsb-base, mime-support, perl:any, procps",
+        "Recommends": "ssl-cert",
+        "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
+        "Conflicts": "apache2.2-bin, apache2.2-common",
+        "Breaks": "libapache2-mod-proxy-uwsgi (<< 2.4.33)",
+        "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
+        "Homepage": "https://httpd.apache.org/",
+        "Task": "lamp-server",
+        "Supported": "9m",
+        "Download-Size": "95.5 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
+        "Description": "Apache HTTP Server"
+    },
+    "changelog": [
+        "apache2 (2.4.41-1ubuntu1) eoan; urgency=medium",
+        "apache2 (2.4.41-1) unstable; urgency=medium",
+        "apache2 (2.4.39-2) unstable; urgency=medium",
+        "apache2 (2.4.39-1) unstable; urgency=medium",
+        "apache2 (2.4.39-0ubuntu1) eoan; urgency=medium",
+        "apache2 (2.4.38-3ubuntu2) eoan; urgency=medium",
+        "apache2 (2.4.38-3ubuntu1) eoan; urgency=low",
+        "apache2 (2.4.38-3) unstable; urgency=high",
+        "apache2 (2.4.38-2ubuntu3) eoan; urgency=medium",
+        "apache2 (2.4.38-2ubuntu2) disco; urgency=medium"
+    ]
+}

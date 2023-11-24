@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "mysql55",
+        "Arch": "x86_64",
+        "Version": "5.5.62",
+        "Release": "1.23.amzn1",
+        "Size": "7.5 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql55.x86_64                  5.5.59-1.20.amzn1                   amzn-main",
+        "mysql55.x86_64                  5.5.60-1.21.amzn1                   amzn-updates",
+        "mysql55.x86_64                  5.5.61-1.22.amzn1                   amzn-updates",
+        "mysql55.x86_64                  5.5.62-1.23.amzn1                   amzn-updates"
+    ]
+}

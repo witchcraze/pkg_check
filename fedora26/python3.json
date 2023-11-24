@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.6.5",
+        "Release": "1.fc26",
+        "Arch": "i686",
+        "Size": "65 k",
+        "Source": "python3-3.6.5-1.fc26.src.rpm",
+        "Repo": "updates",
+        "From repo": "updates",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented"
+    },
+    "list": [
+        "python3.x86_64                       3.6.5-1.fc26                       @updates",
+        "python3.i686                         3.6.1-8.fc26                       fedora",
+        "python3.x86_64                       3.6.1-8.fc26                       fedora",
+        "python3.i686                         3.6.5-1.fc26                       updates",
+        "python3.x86_64                       3.6.5-1.fc26                       @updates",
+        "python3.x86_64                       3.6.5-1.fc26                       updates"
+    ]
+}

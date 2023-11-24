@@ -14,7 +14,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Origin": "Ubuntu",
         "Supported": "9m",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "A high-performance memory object caching system"
     },
     "changelog": [

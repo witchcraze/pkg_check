@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "mysql56",
+        "Arch": "x86_64",
+        "Version": "5.6.50",
+        "Release": "1.38.amzn1",
+        "Size": "10 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql56.x86_64                  5.6.39-1.28.amzn1                   amzn-main",
+        "mysql56.x86_64                  5.6.40-1.29.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.41-1.30.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.42-1.31.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.43-1.32.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.44-1.33.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.45-1.34.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.46-1.35.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.47-1.36.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.49-1.37.amzn1                   amzn-updates",
+        "mysql56.x86_64                  5.6.50-1.38.amzn1                   amzn-updates"
+    ]
+}

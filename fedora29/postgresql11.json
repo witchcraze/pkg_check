@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "11.5",
+        "Release": "1.module_f29+5993+a4d0abfe",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-11.5-1.module_f29+5993+a4d0abfe.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql.x86_64        11.5-1.module_f29+5993+a4d0abfe         updates-modular"
+    ]
+}

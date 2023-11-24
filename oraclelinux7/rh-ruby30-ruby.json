@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-ruby30-ruby",
+        "Arch": "x86_64",
+        "Version": "3.0.4",
+        "Release": "149.el7",
+        "Size": "83 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby30-ruby.x86_64           3.0.1-147.el7           ol7_software_collections",
+        "rh-ruby30-ruby.x86_64           3.0.2-148.el7           ol7_software_collections",
+        "rh-ruby30-ruby.x86_64           3.0.4-149.el7           ol7_software_collections"
+    ]
+}

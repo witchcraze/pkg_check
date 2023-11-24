@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "postgresql15",
+        "Version": "15.4",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "postgresql15-15.4-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql15.x86_64               15.0-1.amzn2023.0.2                amazonlinux",
+        "postgresql15.x86_64               15.0-1.amzn2023.0.3                amazonlinux",
+        "postgresql15.x86_64               15.0-1.amzn2023.0.4                amazonlinux",
+        "postgresql15.x86_64               15.4-1.amzn2023.0.1                amazonlinux"
+    ]
+}

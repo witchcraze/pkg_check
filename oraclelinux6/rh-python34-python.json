@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "rh-python34-python",
+        "Arch": "x86_64",
+        "Version": "3.4.2",
+        "Release": "14.0.1.el6",
+        "Size": "45 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "Version 3 of the Python programming language aka Python 3000",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3 is a new version of the language that is incompatible"
+    },
+    "list": [
+        "rh-python34-python.x86_64       3.4.2-9.0.1.el6         ol6_software_collections",
+        "rh-python34-python.x86_64       3.4.2-14.0.1.el6        ol6_software_collections"
+    ]
+}

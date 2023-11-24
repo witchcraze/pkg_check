@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "redis-server",
+        "Priority": "optional",
+        "Section": "universe/misc",
+        "Installed-Size": "837 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
+        "Source": "redis",
+        "Version": "2:2.8.13-3",
+        "Depends": "init-system-helpers (>= 1.18~), libc6 (>= 2.14), libjemalloc1 (>= 2.1.1), redis-tools (= 2:2.8.13-3), adduser",
+        "Download-Size": "293 kB",
+        "Homepage": "http://redis.io/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
+        "Description": "Persistent key-value database with network interface"
+    },
+    "changelog": [
+        "redis (2:2.8.13-3) unstable; urgency=low",
+        "redis (2:2.8.13-2) unstable; urgency=low",
+        "redis (2:2.8.13-1) unstable; urgency=low",
+        "redis (2:2.8.12-1) unstable; urgency=low",
+        "redis (2:2.8.11-1) unstable; urgency=low",
+        "redis (2:2.8.8-2) unstable; urgency=low",
+        "redis (2:2.8.8-1) unstable; urgency=low",
+        "redis (2:2.8.7-2) unstable; urgency=low",
+        "redis (2:2.8.7-1) unstable; urgency=low",
+        "redis (2:2.8.6-1) unstable; urgency=medium"
+    ]
+}

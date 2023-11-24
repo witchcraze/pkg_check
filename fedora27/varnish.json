@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "5.1.3",
+        "Release": "4.fc27",
+        "Arch": "x86_64",
+        "Size": "1.8 M",
+        "Source": "varnish-5.1.3-4.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "http://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.x86_64                       5.1.3-2.fc27                        fedora",
+        "varnish.x86_64                       5.1.3-4.fc27                        updates"
+    ]
+}

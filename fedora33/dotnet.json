@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "dotnet",
+        "Version": "5.0.206",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "11 k",
+        "Source": "dotnet5.0-5.0.206-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": ".NET CLI tools and runtime",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet.x86_64                       3.1.108-1.fc33                       fedora",
+        "dotnet.x86_64                       5.0.206-1.fc33                       updates"
+    ]
+}

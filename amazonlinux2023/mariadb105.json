@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "mariadb105",
+        "Epoch": "3",
+        "Version": "10.5.20",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "mariadb105-10.5.20-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 and LGPLv2",
+        "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb105.x86_64              3:10.5.16-1.amzn2023.0.7              amazonlinux",
+        "mariadb105.x86_64              3:10.5.18-1.amzn2023.0.1              amazonlinux",
+        "mariadb105.x86_64              3:10.5.20-1.amzn2023.0.1              amazonlinux"
+    ]
+}

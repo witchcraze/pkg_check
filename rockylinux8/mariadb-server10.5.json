@@ -14,7 +14,6 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64     3:10.5.16-2.module+el8.6.0+995+5ac2a483      appstream",
         "mariadb-server.x86_64     3:10.5.22-1.module+el8.8.0+1490+31c52b1f     appstream"
     ]
 }

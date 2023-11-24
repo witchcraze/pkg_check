@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python35",
+        "Version": "3.5.9",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "python35-3.5.9-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.5 of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.5 package for developers."
+    },
+    "list": [
+        "python35.i686                         3.5.7-1.fc30                       fedora",
+        "python35.x86_64                       3.5.7-1.fc30                       fedora",
+        "python35.i686                         3.5.9-1.fc30                       updates",
+        "python35.x86_64                       3.5.9-1.fc30                       updates"
+    ]
+}

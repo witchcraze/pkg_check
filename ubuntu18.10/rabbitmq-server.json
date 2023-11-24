@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "rabbitmq-server",
+        "Version": "3.6.10-1",
+        "Priority": "extra",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "PKG OpenStack <openstack-devel@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "5678 kB",
+        "Depends": "adduser, erlang-nox (>= 1:13.b.3) | esl-erlang, lsb-base, logrotate, init-system-helpers (>= 1.18~), python:any",
+        "Homepage": "http://www.rabbitmq.com/",
+        "Supported": "9m",
+        "Download-Size": "4625 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/main amd64 Packages",
+        "Description": "AMQP server written in Erlang"
+    },
+    "changelog": [
+        "rabbitmq-server (3.6.10-1) unstable; urgency=medium",
+        "rabbitmq-server (3.6.6-1) unstable; urgency=medium",
+        "rabbitmq-server (3.6.5-1) unstable; urgency=medium",
+        "rabbitmq-server (3.5.7-1) unstable; urgency=medium",
+        "rabbitmq-server (3.5.4-3.1) unstable; urgency=medium",
+        "rabbitmq-server (3.5.4-3) unstable; urgency=medium",
+        "rabbitmq-server (3.5.4-2) unstable; urgency=medium",
+        "rabbitmq-server (3.5.4-1) unstable; urgency=medium",
+        "rabbitmq-server (3.5.1-2) unstable; urgency=medium",
+        "rabbitmq-server (3.5.1-1) unstable; urgency=medium"
+    ]
+}

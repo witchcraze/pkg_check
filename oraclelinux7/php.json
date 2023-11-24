@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "php",
+        "Arch": "x86_64",
+        "Version": "5.4.16",
+        "Release": "48.el7",
+        "Size": "1.4 M",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                     5.4.16-21.el7                         ol7_u0_base",
+        "php.x86_64                     5.4.16-23.el7_0.3                     ol7_u1_base",
+        "php.x86_64                     5.4.16-36.el7_1                       ol7_u2_base",
+        "php.x86_64                     5.4.16-42.el7                         ol7_u3_base",
+        "php.x86_64                     5.4.16-42.el7                         ol7_u4_base",
+        "php.x86_64                     5.4.16-45.el7                         ol7_latest",
+        "php.x86_64                     5.4.16-45.el7                         ol7_u5_base",
+        "php.x86_64                     5.4.16-46.el7                         ol7_latest",
+        "php.x86_64                     5.4.16-46.el7                         ol7_u6_base",
+        "php.x86_64                     5.4.16-46.el7                         ol7_u7_base",
+        "php.x86_64                     5.4.16-46.1.el7_7                     ol7_latest",
+        "php.x86_64                     5.4.16-48.el7                         ol7_latest",
+        "php.x86_64                     5.4.16-48.el7                         ol7_u8_base",
+        "php.x86_64                     5.4.16-48.el7                         ol7_u9_base"
+    ]
+}

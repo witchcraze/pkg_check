@@ -1,0 +1,40 @@
+{
+    "show": {
+        "Package": "mariadb-server-5.5",
+        "Priority": "optional",
+        "Section": "universe/database",
+        "Installed-Size": "66.6 MB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian MySQL Maintainers <pkg-mysql-maint@lists.alioth.debian.org>",
+        "Source": "mariadb-5.5",
+        "Version": "5.5.44-1ubuntu0.14.10.1",
+        "Replaces": "mariadb-galera-server, mariadb-galera-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-5.5, mysql-server, mysql-server-5.5, mysql-server-5.6, virtual-mysql-server",
+        "Provides": "virtual-mysql-server",
+        "Depends": "libdbi-perl, lsb-base (>= 3.0-10), mariadb-client-5.5 (>= 5.5.44-1ubuntu0.14.10.1), mariadb-server-core-5.5 (>= 5.5.44-1ubuntu0.14.10.1), passwd, perl (>= 5.6), psmisc, debconf (>= 0.5) | debconf-2.0, libaio1 (>= 0.3.93), libc6 (>= 2.17), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), zlib1g (>= 1:1.2.0)",
+        "Pre-Depends": "adduser (>= 3.40), debconf, mariadb-common",
+        "Recommends": "libhtml-template-perl",
+        "Suggests": "mailx, mariadb-test, tinyca",
+        "Conflicts": "mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-5.5, mysql-server-core-5.5, mysql-server-core-5.6",
+        "Breaks": "mariadb-galera-server, mariadb-galera-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-5.5, mysql-server, mysql-server-5.5, mysql-server-5.6, virtual-mysql-server",
+        "Download-Size": "3507 kB",
+        "Homepage": "http://mariadb.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/universe amd64 Packages",
+        "Description": "MariaDB database server binaries"
+    },
+    "changelog": [
+        "mariadb-5.5 (5.5.44-1ubuntu0.14.10.1) utopic-security; urgency=low",
+        "mariadb-5.5 (5.5.43-1ubuntu0.14.10.1) utopic-security; urgency=low",
+        "mariadb-5.5 (5.5.41-1ubuntu0.14.10.1) utopic-security; urgency=medium",
+        "mariadb-5.5 (5.5.41-0ubuntu0.14.10.2) utopic-security; urgency=medium",
+        "mariadb-5.5 (5.5.40-0ubuntu0.14.10.1) utopic-security; urgency=medium",
+        "mariadb-5.5 (5.5.39-2) unstable; urgency=low",
+        "mariadb-5.5 (5.5.39-1) unstable; urgency=low",
+        "mariadb-5.5 (5.5.38-1) unstable; urgency=low",
+        "mariadb-5.5 (5.5.37-1) unstable; urgency=low",
+        "mariadb-5.5 (5.5.36-1) unstable; urgency=low",
+        "mariadb-5.5 (5.5.35-1) unstable; urgency=low",
+        "mariadb-5.5 (5.5.32-1) unstable; urgency=low"
+    ]
+}

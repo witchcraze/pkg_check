@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "tomcat9",
+        "Version": "9.0.16-3ubuntu0.19.04.1",
+        "Priority": "optional",
+        "Section": "universe/java",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "305 kB",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 215), tomcat9-common (>= 9.0.16-3ubuntu0.19.04.1), ucf",
+        "Recommends": "libtcnative-1 (>= 1.2.18)",
+        "Suggests": "tomcat9-admin (>= 9.0.16-3ubuntu0.19.04.1), tomcat9-docs (>= 9.0.16-3ubuntu0.19.04.1), tomcat9-examples (>= 9.0.16-3ubuntu0.19.04.1), tomcat9-user (>= 9.0.16-3ubuntu0.19.04.1)",
+        "Homepage": "http://tomcat.apache.org",
+        "Download-Size": "35.8 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
+        "Description": "Apache Tomcat 9 - Servlet and JSP engine"
+    },
+    "changelog": [
+        "tomcat9 (9.0.16-3ubuntu0.19.04.1) disco-security; urgency=medium",
+        "tomcat9 (9.0.16-3) unstable; urgency=medium",
+        "tomcat9 (9.0.16-2) unstable; urgency=medium",
+        "tomcat9 (9.0.16-1) unstable; urgency=medium",
+        "tomcat9 (9.0.14-1) unstable; urgency=medium",
+        "tomcat9 (9.0.13-2) unstable; urgency=medium",
+        "tomcat9 (9.0.13-1) unstable; urgency=medium",
+        "tomcat8 (8.5.35-3) UNRELEASED; urgency=medium",
+        "tomcat8 (8.5.35-2) unstable; urgency=medium",
+        "tomcat8 (8.5.35-1) unstable; urgency=medium"
+    ]
+}

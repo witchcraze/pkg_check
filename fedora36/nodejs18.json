@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "18.1.0",
+        "Release": "2.module_f36+14433+ea9af1bf",
+        "Architecture": "x86_64",
+        "Size": "97 k",
+        "Source": "nodejs-18.1.0-2.module_f36+14433+ea9af1bf.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64        1:18.1.0-2.module_f36+14433+ea9af1bf        updates-modular"
+    ]
+}

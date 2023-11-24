@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "gcc-9",
+        "Version": "9.1.0-2ubuntu2~19.04",
+        "Priority": "optional",
+        "Section": "devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "30.9 MB",
+        "Provides": "c-compiler",
+        "Depends": "cpp-9 (= 9.1.0-2ubuntu2~19.04), gcc-9-base (= 9.1.0-2ubuntu2~19.04), libcc1-0 (>= 9.1.0-2ubuntu2~19.04), binutils (>= 2.32), libgcc-9-dev (= 9.1.0-2ubuntu2~19.04), libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10 (>= 2:5.0.1~), libisl19 (>= 0.15), libmpc3, libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-9-multilib, gcc-9-doc (>= 8), gcc-9-locales (>= 8), libgcc1-dbg (>= 1:9.1.0-2ubuntu2~19.04), libgomp1-dbg (>= 9.1.0-2ubuntu2~19.04), libitm1-dbg (>= 9.1.0-2ubuntu2~19.04), libatomic1-dbg (>= 9.1.0-2ubuntu2~19.04), libasan5-dbg (>= 9.1.0-2ubuntu2~19.04), liblsan0-dbg (>= 9.1.0-2ubuntu2~19.04), libtsan0-dbg (>= 9.1.0-2ubuntu2~19.04), libubsan1-dbg (>= 9.1.0-2ubuntu2~19.04), libquadmath0-dbg (>= 9.1.0-2ubuntu2~19.04)",
+        "Replaces": "cpp-9 (<< 7.1.1-8)",
+        "Homepage": "http://gcc.gnu.org/",
+        "Supported": "9m",
+        "Download-Size": "9738 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
+        "Description": "GNU C compiler"
+    },
+    "changelog": [
+        "gcc-9 (9.1.0-2ubuntu2~19.04) disco-proposed; urgency=medium",
+        "gcc-9 (9.1.0-2ubuntu2) eoan; urgency=medium",
+        "gcc-9 (9.1.0-2ubuntu1) eoan; urgency=medium",
+        "gcc-9 (9.1.0-2) experimental; urgency=medium",
+        "gcc-9 (9.1.0-1ubuntu1) eoan; urgency=medium",
+        "gcc-9 (9.1.0-1) experimental; urgency=medium",
+        "gcc-9 (9-20190428-1ubuntu1) eoan; urgency=medium",
+        "gcc-9 (9-20190428-1) experimental; urgency=medium",
+        "gcc-9 (9-20190426-1ubuntu1) eoan; urgency=medium",
+        "gcc-9 (9-20190426-1) experimental; urgency=medium"
+    ]
+}

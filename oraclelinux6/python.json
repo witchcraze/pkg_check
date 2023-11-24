@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "python",
+        "Arch": "i686",
+        "Version": "2.6.6",
+        "Release": "68.0.2.el6_10",
+        "Size": "76 k",
+        "Repo": "ol6_latest",
+        "From repo": "ol6_latest",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "python.x86_64            2.6.6-68.0.2.el6_10             @ol6_latest/$releasever",
+        "python.i686              2.6.5-3.el6                     ol6_ga_base",
+        "python.x86_64            2.6.5-3.el6                     ol6_ga_base",
+        "python.i686              2.6.6-20.el6                    ol6_u1_base",
+        "python.x86_64            2.6.6-20.el6                    ol6_u1_base",
+        "python.i686              2.6.6-29.el6                    ol6_u2_base",
+        "python.x86_64            2.6.6-29.el6                    ol6_u2_base",
+        "python.i686              2.6.6-29.el6_2.2                ol6_u3_base",
+        "python.x86_64            2.6.6-29.el6_2.2                ol6_u3_base",
+        "python.i686              2.6.6-36.el6                    ol6_u4_base",
+        "python.x86_64            2.6.6-36.el6                    ol6_u4_base",
+        "python.x86_64            2.6.6-51.el6                    ol6_u5_base",
+        "python.x86_64            2.6.6-52.el6                    ol6_u6_base",
+        "python.x86_64            2.6.6-64.0.1.el6                ol6_u7_base",
+        "python.x86_64            2.6.6-64.0.1.el6                ol6_u8_base",
+        "python.x86_64            2.6.6-66.0.1.el6_8              ol6_latest",
+        "python.x86_64            2.6.6-66.0.1.el6_8              ol6_u10_base",
+        "python.x86_64            2.6.6-66.0.1.el6_8              ol6_u9_base",
+        "python.x86_64            2.6.6-68.0.1.el6_10             ol6_latest",
+        "python.i686              2.6.6-68.0.2.el6_10             ol6_latest",
+        "python.x86_64            2.6.6-68.0.2.el6_10             ol6_latest"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "platform-python",
+        "Version": "3.6.2",
+        "Release": "13.fc27",
+        "Arch": "x86_64",
+        "Size": "20 k",
+        "Source": "platform-python-3.6.2-13.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "A Python interpreter for basic system tools",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python interpreter for low-level system tools, designed to work"
+    },
+    "list": [
+        "platform-python.x86_64                   3.6.2-12.fc27                   fedora",
+        "platform-python.x86_64                   3.6.2-13.fc27                   updates"
+    ]
+}

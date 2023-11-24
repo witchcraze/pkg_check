@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "11.3.1",
+        "Release": "2.fc34",
+        "Architecture": "x86_64",
+        "Size": "32 M",
+        "Source": "gcc-11.3.1-2.fc34.src.rpm",
+        "Repository": "updates",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD",
+        "Description": "The gcc package contains the GNU Compiler Collection version 11."
+    },
+    "list": [
+        "gcc.x86_64                        11.0.1-0.3.fc34                        fedora",
+        "gcc.x86_64                        11.3.1-2.fc34                          updates"
+    ]
+}

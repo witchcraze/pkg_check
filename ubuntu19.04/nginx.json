@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "nginx",
+        "Version": "1.15.9-0ubuntu1.2",
+        "Priority": "optional",
+        "Section": "web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "44.0 kB",
+        "Depends": "nginx-core (<< 1.15.9-0ubuntu1.2.1~) | nginx-full (<< 1.15.9-0ubuntu1.2.1~) | nginx-light (<< 1.15.9-0ubuntu1.2.1~) | nginx-extras (<< 1.15.9-0ubuntu1.2.1~), nginx-core (>= 1.15.9-0ubuntu1.2) | nginx-full (>= 1.15.9-0ubuntu1.2) | nginx-light (>= 1.15.9-0ubuntu1.2) | nginx-extras (>= 1.15.9-0ubuntu1.2)",
+        "Homepage": "http://nginx.net",
+        "Supported": "9m",
+        "Download-Size": "3596 B",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
+        "Description": "small, powerful, scalable web/proxy server"
+    },
+    "changelog": [
+        "nginx (1.15.9-0ubuntu1.2) disco-security; urgency=medium",
+        "nginx (1.15.9-0ubuntu1.1) disco-security; urgency=medium",
+        "nginx (1.15.9-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.8-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.7-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.6-0ubuntu2) disco; urgency=medium",
+        "nginx (1.15.6-0ubuntu1) disco; urgency=medium",
+        "nginx (1.15.5-0ubuntu4) disco; urgency=medium",
+        "nginx (1.15.5-0ubuntu3) disco; urgency=medium",
+        "nginx (1.15.5-0ubuntu2) cosmic; urgency=medium"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "php54",
+        "Arch": "x86_64",
+        "Version": "5.4.45",
+        "Release": "1.75.amzn1",
+        "Size": "3.1 M",
+        "Repo": "amzn-main/latest",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php54.x86_64                     5.4.45-1.75.amzn1                     amzn-main"
+    ]
+}

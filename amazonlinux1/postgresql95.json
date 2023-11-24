@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "postgresql95",
+        "Arch": "x86_64",
+        "Version": "9.5.24",
+        "Release": "1.83.amzn1",
+        "Size": "4.1 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql95.x86_64                9.5.12-1.78.amzn1                amzn-main",
+        "postgresql95.x86_64                9.5.14-1.79.amzn1                amzn-updates",
+        "postgresql95.x86_64                9.5.15-1.80.amzn1                amzn-updates",
+        "postgresql95.x86_64                9.5.23-1.81.amzn1                amzn-updates",
+        "postgresql95.x86_64                9.5.24-1.82.amzn1                amzn-updates",
+        "postgresql95.x86_64                9.5.24-1.83.amzn1                amzn-updates"
+    ]
+}

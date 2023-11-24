@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.34.1",
+        "Release": "486.fc36",
+        "Architecture": "x86_64",
+        "Size": "18 k",
+        "Source": "perl-5.34.1-486.fc36.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64                       4:5.34.1-486.fc36                       fedora"
+    ]
+}

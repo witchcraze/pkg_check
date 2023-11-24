@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.5.5",
+        "Release": "105.module_f30+4125+c677839c",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-2.5.5-105.module_f30+4125+c677839c.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.x86_64          2.5.5-105.module_f30+4125+c677839c          updates-modular"
+    ]
+}

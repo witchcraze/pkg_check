@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "6.12.0",
+        "Release": "1.fc25",
+        "Size": "4.7 M",
+        "Repo": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.i686                        1:6.9.1-1.fc25                        fedora",
+        "nodejs.x86_64                      1:6.9.1-1.fc25                        fedora",
+        "nodejs.i686                        1:6.12.0-1.fc25                       updates",
+        "nodejs.x86_64                      1:6.12.0-1.fc25                       updates"
+    ]
+}

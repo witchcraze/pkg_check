@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "openssl1.0",
+        "Version": "1.0.2n-1ubuntu6.2",
+        "Priority": "optional",
+        "Section": "universe/utils",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "848 kB",
+        "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.2g), perl:any",
+        "Suggests": "ca-certificates",
+        "Homepage": "https://www.openssl.org",
+        "Download-Size": "210 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
+        "Description": "Secure Sockets Layer toolkit 1.0 - cryptographic utility"
+    },
+    "changelog": [
+        "openssl1.0 (1.0.2n-1ubuntu6.2) cosmic-security; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu6.1) cosmic-security; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu6) cosmic; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu5) bionic; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu4) bionic; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu3) bionic; urgency=medium",
+        "openssl1.0 (1.0.2n-1ubuntu2) bionic; urgency=medium",
+        "openssl (1.0.2n-1ubuntu1) bionic; urgency=medium",
+        "openssl1.0 (1.0.2n-1) unstable; urgency=medium",
+        "openssl1.0 (1.0.2m-3) unstable; urgency=medium"
+    ]
+}

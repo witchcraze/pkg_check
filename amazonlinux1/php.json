@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "php",
+        "Arch": "x86_64",
+        "Version": "5.3.29",
+        "Release": "1.8.amzn1",
+        "Size": "2.8 M",
+        "Repo": "amzn-main/latest",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                      5.3.29-1.8.amzn1                       amzn-main"
+    ]
+}

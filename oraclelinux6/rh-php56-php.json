@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "rh-php56-php",
+        "Arch": "x86_64",
+        "Version": "5.6.25",
+        "Release": "1.el6",
+        "Size": "1.4 M",
+        "Repo": "ol6_software_collections",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "rh-php56-php.x86_64            5.6.5-8.el6              ol6_software_collections",
+        "rh-php56-php.x86_64            5.6.5-9.el6              ol6_software_collections",
+        "rh-php56-php.x86_64            5.6.25-1.el6             ol6_software_collections"
+    ]
+}

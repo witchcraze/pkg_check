@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "java-1.6.0-openjdk",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.6.0.41",
+        "Release": "1.13.13.1.0.1.el6_8",
+        "Size": "42 M",
+        "Repo": "ol6_latest",
+        "Summary": "OpenJDK Runtime Environment",
+        "URL": "http://icedtea.classpath.org/",
+        "License": "ASL 1.1, ASL 2.0, GPL+, GPLv2, GPLv2 with exceptions, LGPL+,",
+        "Description": "The OpenJDK runtime environment."
+    },
+    "list": [
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.21.b17.el6               ol6_ga_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.39.1.9.7.el6             ol6_u1_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.41.1.10.4.el6            ol6_u2_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.45.1.11.1.el6            ol6_u3_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.50.1.11.5.0.1.el6_3      ol6_u4_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-1.66.1.13.0.el6            ol6_u5_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.0-11.1.13.4.el6              ol6_u6_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.35-1.13.7.1.el6_6            ol6_u7_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.38-1.13.10.4.el6             ol6_u8_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.41-1.13.13.1.el6_8           ol6_latest",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.41-1.13.13.1.el6_8           ol6_u10_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.41-1.13.13.1.el6_8           ol6_u9_base",
+        "java-1.6.0-openjdk.x86_64      1:1.6.0.41-1.13.13.1.0.1.el6_8       ol6_latest"
+    ]
+}

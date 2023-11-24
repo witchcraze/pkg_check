@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb-server",
+        "Epoch": "3",
+        "Version": "10.4.7",
+        "Release": "1.module_f29+6030+ff6cd690",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "mariadb-10.4.7-1.module_f29+6030+ff6cd690.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The MariaDB server and related files",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It"
+    },
+    "list": [
+        "mariadb-server.x86_64    3:10.4.7-1.module_f29+6030+ff6cd690     updates-modular"
+    ]
+}

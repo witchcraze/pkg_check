@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "java-17-amazon-corretto",
+        "Epoch": "1",
+        "Version": "17.0.9+8",
+        "Release": "1.amzn2023.1",
+        "Architecture": "x86_64",
+        "Size": "188 k",
+        "Source": "java-17-amazon-corretto-17.0.9+8-1.amzn2023.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "Amazon Corretto development environment",
+        "URL": "https://github.com/corretto/corretto-17",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA.",
+        "Description": "Amazon Corretto's packaging of the runtime core elements of the"
+    },
+    "list": [
+        "java-17-amazon-corretto.x86_64       1:17.0.6+10-1.amzn2023.1        amazonlinux",
+        "java-17-amazon-corretto.x86_64       1:17.0.7+7-1.amzn2023.1         amazonlinux",
+        "java-17-amazon-corretto.x86_64       1:17.0.8+7-1.amzn2023.1         amazonlinux",
+        "java-17-amazon-corretto.x86_64       1:17.0.8+8-1.amzn2023.1         amazonlinux",
+        "java-17-amazon-corretto.x86_64       1:17.0.9+8-1.amzn2023.1         amazonlinux"
+    ]
+}

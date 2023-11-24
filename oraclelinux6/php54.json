@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "php54",
+        "Arch": "x86_64",
+        "Version": "2.0",
+        "Release": "1.el6",
+        "Size": "3.3 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "Package that installs PHP 5.4",
+        "License": "GPLv2+",
+        "Description": "This is the main package for php54 Software Collection,"
+    },
+    "list": [
+        "php54.x86_64                 1.1-5.el6                  ol6_software_collections",
+        "php54.x86_64                 2.0-1.el6                  ol6_software_collections"
+    ]
+}

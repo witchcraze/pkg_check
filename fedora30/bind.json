@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "bind",
+        "Epoch": "32",
+        "Version": "9.11.14",
+        "Release": "2.fc30",
+        "Architecture": "x86_64",
+        "Size": "2.0 M",
+        "Source": "bind-9.11.14-2.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
+    },
+    "list": [
+        "bind.x86_64                     32:9.11.5-13.P4.fc30                     fedora",
+        "bind.x86_64                     32:9.11.14-2.fc30                        updates"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "squid",
+        "Arch": "x86_64",
+        "Epoch": "7",
+        "Version": "3.5.20",
+        "Release": "17.50.amzn1",
+        "Size": "3.7 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64                  7:3.5.20-10.34.amzn1                  amzn-main",
+        "squid.x86_64                  7:3.5.20-11.35.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-12.37.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-12.38.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-15.39.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.41.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.43.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.44.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.45.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.46.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.48.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.49.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.50.amzn1                  amzn-updates"
+    ]
+}

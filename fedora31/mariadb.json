@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "10.3.27",
+        "Release": "1.fc31",
+        "Architecture": "x86_64",
+        "Size": "1.9 M",
+        "Source": "mariadb-10.3.27-1.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb.x86_64                     3:10.3.17-1.fc31                      fedora",
+        "mariadb.x86_64                     3:10.3.27-1.fc31                      updates"
+    ]
+}

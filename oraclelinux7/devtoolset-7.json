@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "devtoolset-7",
+        "Arch": "x86_64",
+        "Version": "7.1",
+        "Release": "4.0.1.el7",
+        "Size": "6.5 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "Package that installs devtoolset-7",
+        "License": "GPLv2+",
+        "Description": "This is the main package for devtoolset-7 Software Collection."
+    },
+    "list": [
+        "devtoolset-7.x86_64            7.0-8.0.1.el7            ol7_software_collections",
+        "devtoolset-7.x86_64            7.1-4.0.1.el7            ol7_software_collections"
+    ]
+}

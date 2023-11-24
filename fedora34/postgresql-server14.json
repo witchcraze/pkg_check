@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "14.1",
+        "Release": "1.module_f34+13635+e48fc4f4",
+        "Architecture": "x86_64",
+        "Size": "5.9 M",
+        "Source": "postgresql-14.1-1.module_f34+13635+e48fc4f4.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64    14.1-1.module_f34+13635+e48fc4f4     updates-modular"
+    ]
+}

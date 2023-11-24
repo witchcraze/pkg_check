@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Version": "9.2.24",
+        "Release": "8.el7_9",
+        "Size": "3.8 M",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql-server.x86_64               9.2.7-1.el7                   ol7_u0_base",
+        "postgresql-server.x86_64               9.2.7-1.el7                   ol7_u1_base",
+        "postgresql-server.x86_64               9.2.13-1.el7_1                ol7_u2_base",
+        "postgresql-server.x86_64               9.2.18-1.el7                  ol7_u3_base",
+        "postgresql-server.x86_64               9.2.21-1.el7                  ol7_u4_base",
+        "postgresql-server.x86_64               9.2.23-3.el7_4                ol7_latest",
+        "postgresql-server.x86_64               9.2.23-3.el7_4                ol7_u5_base",
+        "postgresql-server.x86_64               9.2.24-1.el7_5                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-1.el7_5                ol7_u6_base",
+        "postgresql-server.x86_64               9.2.24-1.el7_5                ol7_u7_base",
+        "postgresql-server.x86_64               9.2.24-2.el7                  ol7_latest",
+        "postgresql-server.x86_64               9.2.24-2.el7                  ol7_u8_base",
+        "postgresql-server.x86_64               9.2.24-2.el7_7                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-4.el7_8                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-4.el7_8                ol7_u9_base",
+        "postgresql-server.x86_64               9.2.24-6.el7_9                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-7.el7_9                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-8.el7_9                ol7_latest"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python26",
+        "Arch": "x86_64",
+        "Version": "2.6.9",
+        "Release": "2.92.amzn1",
+        "Size": "5.8 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "python26.x86_64                  2.6.9-2.89.amzn1                   amzn-main",
+        "python26.x86_64                  2.6.9-2.90.amzn1                   amzn-updates",
+        "python26.x86_64                  2.6.9-2.92.amzn1                   amzn-updates"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "13.2",
+        "Release": "2.module_f32+11458+489d6f99",
+        "Architecture": "x86_64",
+        "Size": "1.7 M",
+        "Source": "postgresql-13.2-2.module_f32+11458+489d6f99.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64        13.2-2.module_f32+11458+489d6f99        updates-modular"
+    ]
+}

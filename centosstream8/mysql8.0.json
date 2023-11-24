@@ -17,13 +17,13 @@
         "mysql.x86_64           8.0.26-1.module_el8.4.0+915+de215114            appstream"
     ],
     "kojiPackages": [
-        "mysql-8.0.30-1.module_el8.6.0+1207+7873d9bb",
-        "mysql-8.0.26-1.module_el8.4.0+915+de215114",
-        "mysql-8.0.26-1.module_el8.4.0+909+3a9eb3f9",
-        "mysql-8.0.26-1.module_el8.5.0+908+bea6741a",
         "mysql-8.0.21-1.module_el8.4.0+589+11e12751",
         "mysql-8.0.21-1.module_el8.2.0+493+63b41e36",
         "mysql-8.0.17-3.module_el8.0.0+181+899d6349",
-        "mysql-8.0.13-1.module_el8.0.0+41+ca30bab6"
+        "mysql-8.0.13-1.module_el8.0.0+41+ca30bab6",
+        "mysql-8.0.26-1.module_el8.4.0+915+de215114",
+        "mysql-8.0.30-1.module_el8.6.0+1207+7873d9bb",
+        "mysql-8.0.26-1.module_el8.4.0+909+3a9eb3f9",
+        "mysql-8.0.26-1.module_el8.5.0+908+bea6741a"
     ]
 }

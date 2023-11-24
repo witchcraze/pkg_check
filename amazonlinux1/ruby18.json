@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "ruby18",
+        "Arch": "x86_64",
+        "Version": "1.8.7.374",
+        "Release": "2.42.4.amzn1",
+        "Size": "385 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://www.ruby-lang.org/",
+        "License": "Ruby or GPLv2",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby18.x86_64                  1.8.7.374-2.42.4.amzn1                  amzn-main"
+    ]
+}

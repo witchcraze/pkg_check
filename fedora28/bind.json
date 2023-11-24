@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "bind",
+        "Epoch": "32",
+        "Version": "9.11.4",
+        "Release": "13.P2.fc28",
+        "Arch": "x86_64",
+        "Size": "2.1 M",
+        "Source": "bind-9.11.4-13.P2.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
+        "URL": "http://www.isc.org/products/BIND/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the"
+    },
+    "list": [
+        "bind.x86_64                     32:9.11.3-6.fc28                         fedora",
+        "bind.x86_64                     32:9.11.4-13.P2.fc28                     updates"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python38",
+        "Version": "3.8.0",
+        "Release": "1.fc29",
+        "Architecture": "x86_64",
+        "Size": "19 M",
+        "Source": "python38-3.8.0-1.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.8 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.8 package for developers."
+    },
+    "list": [
+        "python38.i686                         3.8.0-1.fc29                       updates",
+        "python38.x86_64                       3.8.0-1.fc29                       updates"
+    ]
+}

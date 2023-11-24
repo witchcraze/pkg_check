@@ -1,0 +1,30 @@
+{
+    "show": {
+        "Package": "golang-1.12",
+        "Version": "1.12-1ubuntu1",
+        "Priority": "optional",
+        "Section": "universe/devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Go Compiler Team <team+go-compiler@tracker.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "59.4 kB",
+        "Depends": "golang-1.12-doc (>= 1.12-1ubuntu1), golang-1.12-go (>= 1.12-1ubuntu1), golang-1.12-src (>= 1.12-1ubuntu1)",
+        "Homepage": "https://golang.org",
+        "Download-Size": "11.2 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/universe amd64 Packages",
+        "Description": "Go programming language compiler - metapackage"
+    },
+    "changelog": [
+        "golang-1.12 (1.12-1ubuntu1) disco; urgency=medium",
+        "golang-1.12 (1.12-1) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta2-2) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta2-1) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta1-4) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta1-3) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta1-2) unstable; urgency=medium",
+        "golang-1.12 (1.12~beta1-1) unstable; urgency=medium",
+        "golang-1.11 (1.11.5-1ubuntu1) disco; urgency=medium",
+        "golang-1.11 (1.11.4-1) unstable; urgency=medium"
+    ]
+}

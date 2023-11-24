@@ -22,20 +22,20 @@
     ],
     "kojiPackages": [
         "nodejs-14.21.1-2.module_el8.7.0+1235+834c02a1",
-        "nodejs-14.20.0-2.module_el8.6.0+1199+3908904e",
-        "nodejs-14.18.2-2.module_el8.7.0+1151+0d09c14c",
+        "nodejs-14.17.5-1.module_el8.6.0+939+4802ccb9",
         "nodejs-14.18.2-2.module_el8.5.0+1048+207a7d0b",
         "nodejs-14.18.2-1.module_el8.5.0+1042+ce49713c",
-        "nodejs-14.17.5-1.module_el8.4.0+943+c5e11f0f",
-        "nodejs-14.17.5-1.module_el8.6.0+939+4802ccb9",
-        "nodejs-14.17.3-2.module_el8.4.0+888+712b4b16",
         "nodejs-14.17.3-2.module_el8.5.0+861+a6fe2112",
-        "nodejs-14.16.0-2.module_el8.3.0+719+59eb7cbb",
         "nodejs-14.16.0-2.module_el8.4.0+716+f63d6d3d",
-        "nodejs-14.15.4-2.module_el8.3.0+707+6dfd3f9c",
         "nodejs-14.15.4-2.module_el8.4.0+663+8c237b4b",
-        "nodejs-14.15.0-1.module_el8.3.0+622+b959fba6",
         "nodejs-14.11.0-1.module_el8.3.0+516+516d0fc0",
-        "nodejs-14.4.0-1.module_el8.3.0+402+6f8dd522"
+        "nodejs-14.4.0-1.module_el8.3.0+402+6f8dd522",
+        "nodejs-14.18.2-2.module_el8.7.0+1151+0d09c14c",
+        "nodejs-14.20.0-2.module_el8.6.0+1199+3908904e",
+        "nodejs-14.17.5-1.module_el8.4.0+943+c5e11f0f",
+        "nodejs-14.17.3-2.module_el8.4.0+888+712b4b16",
+        "nodejs-14.16.0-2.module_el8.3.0+719+59eb7cbb",
+        "nodejs-14.15.4-2.module_el8.3.0+707+6dfd3f9c",
+        "nodejs-14.15.0-1.module_el8.3.0+622+b959fba6"
     ]
 }

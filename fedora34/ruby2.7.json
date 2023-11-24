@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.7.4",
+        "Release": "139.module_f34+12416+87f3e49a",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-2.7.4-139.module_f34+12416+87f3e49a.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686           2.7.1-134.module_f34+9689+e3ec17c1           fedora-modular",
+        "ruby.x86_64         2.7.1-134.module_f34+9689+e3ec17c1           fedora-modular",
+        "ruby.x86_64         2.7.4-139.module_f34+12416+87f3e49a          updates-modular"
+    ]
+}

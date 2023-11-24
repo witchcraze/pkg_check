@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "rabbitmq-server",
+        "Priority": "extra",
+        "Section": "net",
+        "Installed-Size": "5084 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "RabbitMQ Team <packaging@rabbitmq.com>",
+        "Version": "3.3.5-1",
+        "Depends": "erlang-nox (>= 1:13.b.3) | esl-erlang, adduser, logrotate",
+        "Download-Size": "4115 kB",
+        "Homepage": "http://www.rabbitmq.com/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
+        "Description": "AMQP server written in Erlang"
+    },
+    "changelog": [
+        "rabbitmq-server (3.3.5-1) unstable; urgency=low",
+        "rabbitmq-server (3.3.4-1) unstable; urgency=low",
+        "rabbitmq-server (3.3.3-1) unstable; urgency=low",
+        "rabbitmq-server (3.3.1-1) unstable; urgency=low",
+        "rabbitmq-server (3.3.0-1) unstable; urgency=low",
+        "rabbitmq-server (3.2.4-1.1) unstable; urgency=high",
+        "rabbitmq-server (3.2.4-1) unstable; urgency=low",
+        "rabbitmq-server (3.2.3-1) unstable; urgency=low",
+        "rabbitmq-server (3.2.2-1) unstable; urgency=low",
+        "rabbitmq-server (3.2.1-1) unstable; urgency=low"
+    ]
+}

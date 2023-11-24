@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "5.0.0",
+        "Release": "5.fc25",
+        "Size": "535 k",
+        "Repo": "updates",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "http://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.x86_64                       5.0.0-1.fc25                        fedora",
+        "varnish.x86_64                       5.0.0-5.fc25                        updates"
+    ]
+}

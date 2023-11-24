@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "6.5.2",
+        "Release": "1.fc34",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "varnish-6.5.2-1.fc34.src.rpm",
+        "Repository": "updates",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.i686                         6.5.1-3.fc34                        fedora",
+        "varnish.x86_64                       6.5.1-3.fc34                        fedora",
+        "varnish.i686                         6.5.2-1.fc34                        updates",
+        "varnish.x86_64                       6.5.2-1.fc34                        updates"
+    ]
+}

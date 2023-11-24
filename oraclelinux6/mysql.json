@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "mysql",
+        "Arch": "x86_64",
+        "Version": "5.1.73",
+        "Release": "8.0.1.el6_8",
+        "Size": "894 k",
+        "Repo": "ol6_latest",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql.x86_64                   5.1.47-4.el6                         ol6_ga_base",
+        "mysql.x86_64                   5.1.52-1.el6_0.1                     ol6_u1_base",
+        "mysql.x86_64                   5.1.52-1.el6_0.1                     ol6_u2_base",
+        "mysql.x86_64                   5.1.61-4.el6                         ol6_u3_base",
+        "mysql.x86_64                   5.1.66-2.el6_3                       ol6_u4_base",
+        "mysql.x86_64                   5.1.71-1.el6                         ol6_u5_base",
+        "mysql.x86_64                   5.1.73-3.el6_5                       ol6_u6_base",
+        "mysql.x86_64                   5.1.73-5.el6_6                       ol6_u7_base",
+        "mysql.x86_64                   5.1.73-7.el6                         ol6_u8_base",
+        "mysql.x86_64                   5.1.73-8.0.1.el6_8                   ol6_latest",
+        "mysql.x86_64                   5.1.73-8.0.1.el6_8                   ol6_u10_base",
+        "mysql.x86_64                   5.1.73-8.0.1.el6_8                   ol6_u9_base"
+    ]
+}

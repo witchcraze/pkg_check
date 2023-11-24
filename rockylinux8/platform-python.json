@@ -2,24 +2,21 @@
     "info": {
         "Name": "platform-python",
         "Version": "3.6.8",
-        "Release": "51.el8_8.2.rocky.0",
-        "Architecture": "x86_64",
+        "Release": "56.el8_9.rocky.0",
+        "Architecture": "i686",
         "Size": "86 k",
-        "Source": "python3-3.6.8-51.el8_8.2.rocky.0.src.rpm",
-        "Repository": "baseos",
+        "Source": "python3-3.6.8-56.el8_9.rocky.0.src.rpm",
+        "Repository": "appstream",
+        "From repo": "baseos",
         "Summary": "Internal interpreter of the Python programming language",
         "URL": "https://www.python.org/",
         "License": "Python",
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64            3.6.8-51.el8.rocky.0                 @System",
-        "platform-python.i686              3.6.8-51.el8.rocky.0                 appstream",
-        "platform-python.x86_64            3.6.8-51.el8.rocky.0                 baseos",
-        "platform-python.i686              3.6.8-51.el8_8.1.rocky.0             appstream",
-        "platform-python.x86_64            3.6.8-51.el8_8.1.rocky.0             baseos",
-        "platform-python.i686              3.6.8-51.el8_8.2.rocky.0             appstream",
-        "platform-python.x86_64            3.6.8-51.el8_8.2.rocky.0             baseos"
+        "platform-python.x86_64             3.6.8-56.el8_9.rocky.0              @baseos",
+        "platform-python.i686               3.6.8-56.el8_9.rocky.0              appstream",
+        "platform-python.x86_64             3.6.8-56.el8_9.rocky.0              baseos"
     ],
     "kojiPackages": [
         "python3-3.6.8-56.el8_9.rocky.0",

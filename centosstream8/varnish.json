@@ -17,9 +17,10 @@
         "varnish.x86_64           6.0.8-1.module_el8.5.0+995+944219f1           appstream"
     ],
     "kojiPackages": [
-        "varnish-6.0.8-1.module_el8.5.0+995+944219f1",
-        "varnish-6.0.6-2.module_el8.4.0+873+3086ea3b.1",
+        "varnish-6.0.8-4.module_el8+736+16f7baee",
         "varnish-6.0.6-2.module_el8.3.0+399+10bd7ebd",
-        "varnish-6.0.2-1.module_el8.0.0+19+b2cdb875"
+        "varnish-6.0.2-1.module_el8.0.0+19+b2cdb875",
+        "varnish-6.0.8-1.module_el8.5.0+995+944219f1",
+        "varnish-6.0.6-2.module_el8.4.0+873+3086ea3b.1"
     ]
 }

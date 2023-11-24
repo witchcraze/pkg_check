@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "ruby19",
+        "Arch": "x86_64",
+        "Version": "1.9.3.551",
+        "Release": "33.71.amzn1",
+        "Size": "1.0 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby19.x86_64                 1.9.3.551-32.70.amzn1                 amzn-main",
+        "ruby19.x86_64                 1.9.3.551-33.71.amzn1                 amzn-updates"
+    ]
+}

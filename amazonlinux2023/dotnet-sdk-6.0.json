@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-6.0",
+        "Version": "6.0.123",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "76 M",
+        "Source": "dotnet6.0-6.0.123-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": ".NET 6.0 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": "The .NET SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-6.0.x86_64             6.0.111-1.amzn2023.0.2             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.111-1.amzn2023.0.3             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.118-1.amzn2023.0.1             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.120-1.amzn2023.0.1             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.121-1.amzn2023.0.2             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.122-1.amzn2023.0.1             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.123-1.amzn2023.0.1             amazonlinux"
+    ]
+}

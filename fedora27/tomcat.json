@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "tomcat",
+        "Epoch": "1",
+        "Version": "8.0.51",
+        "Release": "1.fc27",
+        "Arch": "noarch",
+        "Size": "100 k",
+        "Source": "tomcat-8.0.51-1.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.1/JSP 2.3 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat.noarch                      1:8.0.46-1.fc27                       fedora",
+        "tomcat.noarch                      1:8.0.51-1.fc27                       updates"
+    ]
+}

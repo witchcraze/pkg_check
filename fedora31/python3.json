@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.7.9",
+        "Release": "1.fc31",
+        "Architecture": "i686",
+        "Size": "29 k",
+        "Source": "python3-3.7.9-1.fc31.src.rpm",
+        "Repository": "updates",
+        "From repo": "updates",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python3.x86_64                       3.7.9-1.fc31                       @updates",
+        "python3.i686                         3.7.4-5.fc31                       fedora",
+        "python3.x86_64                       3.7.4-5.fc31                       fedora",
+        "python3.i686                         3.7.9-1.fc31                       updates",
+        "python3.x86_64                       3.7.9-1.fc31                       updates"
+    ]
+}

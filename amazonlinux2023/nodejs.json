@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "18.18.2",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.8 M",
+        "Source": "nodejs-18.18.2-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
+    },
+    "list": [
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.2                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.3                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.4                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.5                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.6                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.7                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.9                 amazonlinux",
+        "nodejs.x86_64               1:18.12.1-1.amzn2023.0.10                amazonlinux",
+        "nodejs.x86_64               1:18.17.1-1.amzn2023.0.2                 amazonlinux",
+        "nodejs.x86_64               1:18.18.0-1.amzn2023.0.1                 amazonlinux",
+        "nodejs.x86_64               1:18.18.2-1.amzn2023.0.1                 amazonlinux"
+    ]
+}

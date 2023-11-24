@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "gcc-toolset-13",
+        "Version": "13.0",
+        "Release": "2.el8",
+        "Architecture": "x86_64",
+        "Size": "11 k",
+        "Source": "gcc-toolset-13-13.0-2.el8.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "Package that installs gcc-toolset-13",
+        "License": "GPLv2+",
+        "Description": "This is the main package for gcc-toolset-13 Software Collection."
+    },
+    "list": [
+        "gcc-toolset-13.src                     13.0-2.el8                  ol8_appstream",
+        "gcc-toolset-13.x86_64                  13.0-2.el8                  ol8_appstream"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python33",
+        "Version": "3.3.7",
+        "Release": "6.fc28",
+        "Arch": "x86_64",
+        "Size": "13 M",
+        "Source": "python33-3.3.7-6.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "Version 3.3 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.3 package for developers."
+    },
+    "list": [
+        "python33.i686                         3.3.7-5.fc28                       fedora",
+        "python33.x86_64                       3.3.7-5.fc28                       fedora",
+        "python33.i686                         3.3.7-6.fc28                       updates",
+        "python33.x86_64                       3.3.7-6.fc28                       updates"
+    ]
+}

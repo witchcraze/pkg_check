@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "ruby23",
+        "Arch": "x86_64",
+        "Version": "2.3.8",
+        "Release": "1.20.amzn1",
+        "Size": "72 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby23.x86_64                   2.3.7-1.19.amzn1                    amzn-main",
+        "ruby23.x86_64                   2.3.8-1.20.amzn1                    amzn-updates"
+    ]
+}

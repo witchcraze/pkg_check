@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "tomcat7",
+        "Arch": "noarch",
+        "Version": "7.0.109",
+        "Release": "1.42.amzn1",
+        "Size": "98 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat7.noarch                  7.0.85-1.32.amzn1                   amzn-main",
+        "tomcat7.noarch                  7.0.90-1.33.amzn1                   amzn-updates",
+        "tomcat7.noarch                  7.0.91-1.34.amzn1                   amzn-updates",
+        "tomcat7.noarch                  7.0.94-1.35.amzn1                   amzn-updates",
+        "tomcat7.noarch                  7.0.100-1.36.amzn1                  amzn-updates",
+        "tomcat7.noarch                  7.0.104-1.38.amzn1                  amzn-updates",
+        "tomcat7.noarch                  7.0.107-1.39.amzn1                  amzn-updates",
+        "tomcat7.noarch                  7.0.108-1.40.amzn1                  amzn-updates",
+        "tomcat7.noarch                  7.0.109-1.41.amzn1                  amzn-updates",
+        "tomcat7.noarch                  7.0.109-1.42.amzn1                  amzn-updates"
+    ]
+}

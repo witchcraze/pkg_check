@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "6.4.1",
+        "Release": "1.fc25",
+        "Size": "20 M",
+        "Repo": "updates",
+        "Summary": "Various compilers (C, C++, Objective-C, Java, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 6."
+    },
+    "list": [
+        "gcc.i686                           6.2.1-2.fc25                          fedora",
+        "gcc.x86_64                         6.2.1-2.fc25                          fedora",
+        "gcc.i686                           6.4.1-1.fc25                          updates",
+        "gcc.x86_64                         6.4.1-1.fc25                          updates"
+    ]
+}

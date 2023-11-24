@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Arch": "x86_64",
+        "Version": "1.5.18",
+        "Release": "9.el7_9.1",
+        "Size": "834 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "TCP/HTTP proxy and load balancer for high availability",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPLv2+",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited"
+    },
+    "list": [
+        "haproxy.x86_64                   1.5-0.3.dev22.el7                   ol7_u0_base",
+        "haproxy.x86_64                   1.5.4-2.el7                         ol7_u1_base",
+        "haproxy.x86_64                   1.5.14-3.el7                        ol7_u2_base",
+        "haproxy.x86_64                   1.5.18-3.el7                        ol7_u3_base",
+        "haproxy.x86_64                   1.5.18-6.el7                        ol7_u4_base",
+        "haproxy.x86_64                   1.5.18-7.el7                        ol7_latest",
+        "haproxy.x86_64                   1.5.18-7.el7                        ol7_u5_base",
+        "haproxy.x86_64                   1.5.18-8.el7                        ol7_latest",
+        "haproxy.x86_64                   1.5.18-8.el7                        ol7_u6_base",
+        "haproxy.x86_64                   1.5.18-9.el7                        ol7_latest",
+        "haproxy.x86_64                   1.5.18-9.el7                        ol7_u7_base",
+        "haproxy.x86_64                   1.5.18-9.el7                        ol7_u8_base",
+        "haproxy.x86_64                   1.5.18-9.el7                        ol7_u9_base",
+        "haproxy.x86_64                   1.5.18-9.el7_9.1                    ol7_latest"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "2.3.4",
+        "Release": "64.fc25",
+        "Size": "77 k",
+        "Repo": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          2.3.1-58.fc25                         fedora",
+        "ruby.x86_64                        2.3.1-58.fc25                         fedora",
+        "ruby.i686                          2.3.4-64.fc25                         updates",
+        "ruby.x86_64                        2.3.4-64.fc25                         updates"
+    ]
+}

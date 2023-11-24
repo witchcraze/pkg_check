@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.5.1",
-        "Release": "1.module_el8+641+80a1645e",
+        "Version": "20.9.0",
+        "Release": "1.module_el8+744+0c973fe4",
         "Architecture": "x86_64",
         "Size": "14 M",
-        "Source": "nodejs-20.5.1-1.module_el8+641+80a1645e.src.rpm",
+        "Source": "nodejs-20.9.0-1.module_el8+744+0c973fe4.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -15,6 +15,12 @@
     },
     "list": [
         "nodejs.x86_64            1:20.5.0-1.module_el8+585+aa8457d8            appstream",
-        "nodejs.x86_64            1:20.5.1-1.module_el8+641+80a1645e            appstream"
+        "nodejs.x86_64            1:20.5.1-1.module_el8+641+80a1645e            appstream",
+        "nodejs.x86_64            1:20.9.0-1.module_el8+744+0c973fe4            appstream"
+    ],
+    "kojiPackages": [
+        "nodejs-20.9.0-1.module_el8+744+0c973fe4",
+        "nodejs-20.5.1-1.module_el8+641+80a1645e",
+        "nodejs-20.5.0-1.module_el8+585+aa8457d8"
     ]
 }

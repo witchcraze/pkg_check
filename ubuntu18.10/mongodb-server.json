@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "mongodb-server",
+        "Version": "1:3.6.3-0ubuntu2.1",
+        "Priority": "optional",
+        "Section": "universe/database",
+        "Source": "mongodb",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian MongoDB Maintainers <pkg-mongodb-maintainers@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "75.8 kB",
+        "Depends": "mongodb-clients, mongodb-server-core (>= 1:3.6.3-0ubuntu2.1), mongodb-server-core (<< 1:3.6.3-0ubuntu2.1.1~), adduser, lsb-base (>= 3.0-6)",
+        "Homepage": "https://www.mongodb.org",
+        "Download-Size": "12.6 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
+        "Description": "object/document-oriented database (managed server package)"
+    },
+    "changelog": [
+        "mongodb (1:3.6.3-0ubuntu2.1) cosmic; urgency=medium",
+        "mongodb (1:3.6.3-0ubuntu2) cosmic; urgency=medium",
+        "mongodb (1:3.6.3-0ubuntu1) bionic; urgency=medium",
+        "mongodb (1:3.4.14-3ubuntu2) bionic; urgency=medium",
+        "mongodb (1:3.4.14-3ubuntu1) bionic; urgency=low",
+        "mongodb (1:3.4.14-3) unstable; urgency=medium",
+        "mongodb (1:3.4.14-2) unstable; urgency=medium",
+        "mongodb (1:3.4.14-1) unstable; urgency=medium",
+        "mongodb (1:3.4.7-1ubuntu4) bionic; urgency=medium",
+        "mongodb (1:3.4.7-1ubuntu3) bionic; urgency=medium"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "11.4.1",
+        "Release": "2.1.0.1.el9",
+        "Architecture": "x86_64",
+        "Size": "32 M",
+        "Source": "gcc-11.4.1-2.1.0.1.el9.src.rpm",
+        "Repository": "ol9_appstream",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD",
+        "Description": "The gcc package contains the GNU Compiler Collection version 11."
+    },
+    "list": [
+        "gcc.src                    11.2.1-9.4.0.2.el9                 ol9_baseos_latest",
+        "gcc.src                    11.2.1-9.4.0.2.el9                 ol9_appstream",
+        "gcc.src                    11.2.1-9.4.0.2.el9                 ol9_u0_baseos_base",
+        "gcc.x86_64                 11.2.1-9.4.0.2.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-2.1.0.1.el9                 ol9_baseos_latest",
+        "gcc.src                    11.3.1-2.1.0.1.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-2.1.0.1.el9                 ol9_u1_baseos_base",
+        "gcc.x86_64                 11.3.1-2.1.0.1.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-2.1.0.2.el9                 ol9_baseos_latest",
+        "gcc.src                    11.3.1-2.1.0.2.el9                 ol9_appstream",
+        "gcc.x86_64                 11.3.1-2.1.0.2.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-4.3.0.1.el9                 ol9_baseos_latest",
+        "gcc.src                    11.3.1-4.3.0.1.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-4.3.0.1.el9                 ol9_u2_baseos_base",
+        "gcc.x86_64                 11.3.1-4.3.0.1.el9                 ol9_appstream",
+        "gcc.src                    11.3.1-4.3.0.4.el9                 ol9_baseos_latest",
+        "gcc.src                    11.3.1-4.3.0.4.el9                 ol9_appstream",
+        "gcc.x86_64                 11.3.1-4.3.0.4.el9                 ol9_appstream",
+        "gcc.src                    11.4.1-2.1.0.1.el9                 ol9_baseos_latest",
+        "gcc.src                    11.4.1-2.1.0.1.el9                 ol9_appstream",
+        "gcc.src                    11.4.1-2.1.0.1.el9                 ol9_u3_baseos_base",
+        "gcc.x86_64                 11.4.1-2.1.0.1.el9                 ol9_appstream"
+    ]
+}

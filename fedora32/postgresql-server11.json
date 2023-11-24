@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "11.10",
+        "Release": "1.module_f32+10939+b529595d",
+        "Architecture": "x86_64",
+        "Size": "5.2 M",
+        "Source": "postgresql-11.10-1.module_f32+10939+b529595d.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64    11.7-1.module_f32+8176+957a8c69      fedora-modular",
+        "postgresql-server.x86_64    11.10-1.module_f32+10939+b529595d    updates-modular"
+    ]
+}

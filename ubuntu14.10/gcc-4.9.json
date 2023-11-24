@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "gcc-4.9",
+        "Priority": "optional",
+        "Section": "devel",
+        "Installed-Size": "18.4 MB",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Version": "4.9.1-16ubuntu6",
+        "Replaces": "gccgo-4.9 (<< 4.9.1-16ubuntu6)",
+        "Provides": "c-compiler",
+        "Depends": "cpp-4.9 (= 4.9.1-16ubuntu6), gcc-4.9-base (= 4.9.1-16ubuntu6), binutils (>= 2.24.51.20141001), libgcc-4.9-dev (>= 4.9.1-16ubuntu6), libc6 (>= 2.14), libcloog-isl4 (>= 0.17), libgmp10 (>= 2:5.0.1~), libisl10 (>= 0.10), libmpc3, libmpfr4 (>= 3.1.2), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-4.9-multilib, gcc-4.9-doc (>= 4.9), gcc-4.9-locales (>= 4.9), libgcc1-dbg (>= 1:4.9.1-16ubuntu6), libgomp1-dbg (>= 4.9.1-16ubuntu6), libitm1-dbg (>= 4.9.1-16ubuntu6), libatomic1-dbg (>= 4.9.1-16ubuntu6), libasan1-dbg (>= 4.9.1-16ubuntu6), liblsan0-dbg (>= 4.9.1-16ubuntu6), libtsan0-dbg (>= 4.9.1-16ubuntu6), libubsan0-dbg (>= 4.9.1-16ubuntu6), libcilkrts5-dbg (>= 4.9.1-16ubuntu6), libquadmath0-dbg (>= 4.9.1-16ubuntu6)",
+        "Download-Size": "5630 kB",
+        "Homepage": "http://gcc.gnu.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Build-Essential": "yes",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "Task": "ubuntu-desktop, ubuntu-usb, edubuntu-desktop, edubuntu-usb, xubuntu-desktop, xubuntu-core, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, ubuntustudio-desktop-minimal, ubuntustudio-desktop, ubuntu-gnome-desktop, ubuntukylin-desktop",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
+        "Description": "GNU C compiler"
+    },
+    "changelog": [
+        "gcc-4.9 (4.9.1-16ubuntu6) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-16ubuntu5) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-16ubuntu4) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-16ubuntu2) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-16) unstable; urgency=medium",
+        "gcc-4.9 (4.9.1-15ubuntu1) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-15) unstable; urgency=medium",
+        "gcc-4.9 (4.9.1-14ubuntu3) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-14ubuntu2) utopic; urgency=medium",
+        "gcc-4.9 (4.9.1-14) unstable; urgency=medium"
+    ]
+}

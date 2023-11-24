@@ -1,0 +1,42 @@
+{
+    "show": {
+        "Package": "tomcat8",
+        "Version": "8.0.14-1+deb8u17",
+        "Installed-Size": "370 kB",
+        "Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+        "Depends": "adduser, tomcat8-common (>= 8.0.14-1+deb8u17), ucf, debconf (>= 0.5) | debconf-2.0",
+        "Suggests": "libtcnative-1 (>= 1.1.30), tomcat8-admin (>= 8.0.14-1+deb8u17), tomcat8-docs (>= 8.0.14-1+deb8u17), tomcat8-examples (>= 8.0.14-1+deb8u17), tomcat8-user (>= 8.0.14-1+deb8u17)",
+        "Homepage": "http://tomcat.apache.org",
+        "Recommends": "authbind",
+        "Section": "java",
+        "Priority": "optional",
+        "Download-Size": "50.4 kB",
+        "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
+        "Description": "Apache Tomcat 8 - Servlet and JSP engine"
+    },
+    "changelog": [
+        "tomcat8 (8.0.14-1+deb8u17) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u16) jessie-security; urgency=medium",
+        "tomcat8 (8.0.14-1+deb8u15) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u14) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u13) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u12) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u11) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u10) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u9) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u8) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u7) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u6) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u5) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u4) jessie-security; urgency=medium",
+        "tomcat8 (8.0.14-1+deb8u3) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u2) jessie-security; urgency=high",
+        "tomcat8 (8.0.14-1+deb8u1) jessie-security; urgency=medium",
+        "tomcat8 (8.0.14-1) unstable; urgency=medium",
+        "tomcat8 (8.0.12-1) unstable; urgency=medium",
+        "tomcat8 (8.0.9-1) unstable; urgency=medium",
+        "tomcat8 (8.0.8-1) unstable; urgency=medium",
+        "tomcat8 (8.0.5-1) unstable; urgency=medium",
+        "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "openssl",
+        "Epoch": "1",
+        "Version": "1.1.1d",
+        "Release": "2.fc29",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "openssl-1.1.1d-2.fc29.src.rpm",
+        "Repository": "@System",
+        "From repo": "updates",
+        "Summary": "Utilities from the general purpose cryptography library with TLS",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl.x86_64                     1:1.1.1d-2.fc29                      @updates",
+        "openssl.x86_64                     1:1.1.1-3.fc29                       fedora",
+        "openssl.x86_64                     1:1.1.1d-2.fc29                      updates"
+    ]
+}

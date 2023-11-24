@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "ruby22",
+        "Arch": "x86_64",
+        "Version": "2.2.10",
+        "Release": "1.11.amzn1",
+        "Size": "71 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and PSF",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby22.x86_64                    2.2.10-1.11.amzn1                     amzn-main"
+    ]
+}

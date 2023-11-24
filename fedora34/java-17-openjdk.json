@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "java-17-openjdk",
+        "Epoch": "1",
+        "Version": "17.0.3.0.7",
+        "Release": "1.fc34",
+        "Architecture": "x86_64",
+        "Size": "220 k",
+        "Source": "java-17-openjdk-17.0.3.0.7-1.fc34.src.rpm",
+        "Repository": "updates",
+        "Summary": "OpenJDK 17 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
+        "Description": "The OpenJDK 17 runtime environment."
+    },
+    "list": [
+        "java-17-openjdk.i686                  1:17.0.3.0.7-1.fc34                updates",
+        "java-17-openjdk.x86_64                1:17.0.3.0.7-1.fc34                updates"
+    ]
+}

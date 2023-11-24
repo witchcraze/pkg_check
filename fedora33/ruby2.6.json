@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.6.6",
+        "Release": "126.module_f33+9701+3cbd49de",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-2.6.6-126.module_f33+9701+3cbd49de.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686            2.6.6-126.module_f33+9701+3cbd49de          fedora-modular",
+        "ruby.x86_64          2.6.6-126.module_f33+9701+3cbd49de          fedora-modular",
+        "ruby.x86_64          2.6.6-126.module_f33+9701+3cbd49de          updates-modular"
+    ]
+}

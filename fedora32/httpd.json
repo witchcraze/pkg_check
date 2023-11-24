@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.46",
+        "Release": "1.fc32",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "httpd-2.4.46-1.fc32.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64                        2.4.43-1.fc32                        fedora",
+        "httpd.x86_64                        2.4.46-1.fc32                        updates"
+    ]
+}

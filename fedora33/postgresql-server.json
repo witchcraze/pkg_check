@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "12.7",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "5.7 M",
+        "Source": "postgresql-12.7-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.i686                     12.4-2.fc33                   fedora",
+        "postgresql-server.x86_64                   12.4-2.fc33                   fedora",
+        "postgresql-server.i686                     12.7-1.fc33                   updates",
+        "postgresql-server.x86_64                   12.7-1.fc33                   updates"
+    ]
+}

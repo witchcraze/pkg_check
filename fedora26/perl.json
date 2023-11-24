@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.24.4",
+        "Release": "397.fc26",
+        "Arch": "x86_64",
+        "Size": "6.1 M",
+        "Source": "perl-5.24.4-397.fc26.src.rpm",
+        "Repo": "updates",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and BSD and Public",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "perl.x86_64                      4:5.24.1-390.fc26                       fedora",
+        "perl.x86_64                      4:5.24.4-397.fc26                       updates"
+    ]
+}

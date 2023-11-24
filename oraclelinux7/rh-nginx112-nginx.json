@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "rh-nginx112-nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.12.1",
+        "Release": "3.el7.1",
+        "Size": "517 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "rh-nginx112-nginx.x86_64      1:1.12.1-2.0.1.el7        ol7_software_collections",
+        "rh-nginx112-nginx.x86_64      1:1.12.1-2.0.1.el7.1      ol7_software_collections",
+        "rh-nginx112-nginx.x86_64      1:1.12.1-3.el7.1          ol7_software_collections"
+    ]
+}

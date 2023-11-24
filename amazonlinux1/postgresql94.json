@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "postgresql94",
+        "Arch": "x86_64",
+        "Version": "9.4.26",
+        "Release": "1.78.amzn1",
+        "Size": "3.8 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql94.x86_64                9.4.17-1.74.amzn1                amzn-main",
+        "postgresql94.x86_64                9.4.19-1.75.amzn1                amzn-updates",
+        "postgresql94.x86_64                9.4.20-1.76.amzn1                amzn-updates",
+        "postgresql94.x86_64                9.4.26-1.77.amzn1                amzn-updates",
+        "postgresql94.x86_64                9.4.26-1.78.amzn1                amzn-updates"
+    ]
+}

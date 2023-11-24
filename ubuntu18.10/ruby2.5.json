@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "ruby2.5",
+        "Version": "2.5.1-5ubuntu4.3",
+        "Priority": "optional",
+        "Section": "ruby",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "139 kB",
+        "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.2.5), libruby2.5 (>= 2.5.0~preview1)",
+        "Recommends": "fonts-lato, libjs-jquery",
+        "Homepage": "http://www.ruby-lang.org/",
+        "Task": "kubuntu-desktop, kubuntu-full",
+        "Supported": "9m",
+        "Download-Size": "48.6 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.5 (2.5.1-5ubuntu4.3) cosmic-security; urgency=medium",
+        "ruby2.5 (2.5.1-5ubuntu4.2) cosmic; urgency=medium",
+        "ruby2.5 (2.5.1-5ubuntu4.1) cosmic-security; urgency=medium",
+        "ruby2.5 (2.5.1-5ubuntu4) cosmic; urgency=high",
+        "ruby2.5 (2.5.1-5ubuntu3) cosmic; urgency=medium",
+        "ruby2.5 (2.5.1-5ubuntu2) cosmic; urgency=medium",
+        "ruby2.5 (2.5.1-5ubuntu1) cosmic; urgency=medium",
+        "ruby2.5 (2.5.1-5) unstable; urgency=medium",
+        "ruby2.5 (2.5.1-4) unstable; urgency=medium",
+        "ruby2.5 (2.5.1-3) unstable; urgency=medium"
+    ]
+}

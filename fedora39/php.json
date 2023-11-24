@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "8.2.12",
+        "Release": "1.fc39",
+        "Architecture": "x86_64",
+        "Size": "13 k",
+        "Source": "php-8.2.12-1.fc39.src.rpm",
+        "Repository": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64                         8.2.10-1.fc39                         fedora",
+        "php.x86_64                         8.2.12-1.fc39                         updates"
+    ]
+}

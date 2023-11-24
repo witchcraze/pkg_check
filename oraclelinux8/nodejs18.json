@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "18.18.2",
+        "Release": "1.module+el8.8.0+21193+eb5c830b",
+        "Architecture": "x86_64",
+        "Size": "13 M",
+        "Source": "nodejs-18.18.2-1.module+el8.8.0+21193+eb5c830b.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64      1:18.8.0-1.module+el8.7.0+20871+e727ae93        ol8_appstream",
+        "nodejs.x86_64      1:18.12.1-2.module+el8.7.0+20890+579912a9       ol8_appstream",
+        "nodejs.x86_64      1:18.14.2-2.module+el8.7.0+21020+b7aeeb08       ol8_appstream",
+        "nodejs.x86_64      1:18.14.2-3.module+el8.8.0+21122+857852f8       ol8_appstream",
+        "nodejs.x86_64      1:18.16.1-1.module+el8.8.0+21140+54ee8b93       ol8_appstream",
+        "nodejs.x86_64      1:18.17.1-1.module+el8.8.0+21170+2efec6d4       ol8_appstream",
+        "nodejs.x86_64      1:18.18.2-1.module+el8.8.0+21193+eb5c830b       ol8_appstream"
+    ]
+}

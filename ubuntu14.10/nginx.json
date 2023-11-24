@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "nginx",
+        "Priority": "optional",
+        "Section": "web",
+        "Installed-Size": "48.1 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Kartik Mistry <kartik@debian.org>",
+        "Version": "1.6.2-1ubuntu1.1",
+        "Depends": "nginx-core (>= 1.6.2-1ubuntu1.1) | nginx-full (>= 1.6.2-1ubuntu1.1) | nginx-light (>= 1.6.2-1ubuntu1.1) | nginx-extras (>= 1.6.2-1ubuntu1.1) | nginx-naxsi (>= 1.6.2-1ubuntu1.1), nginx-core (<< 1.6.2-1ubuntu1.1.1~) | nginx-full (<< 1.6.2-1ubuntu1.1.1~) | nginx-light (<< 1.6.2-1ubuntu1.1.1~) | nginx-extras (<< 1.6.2-1ubuntu1.1.1~) | nginx-naxsi (<< 1.6.2-1ubuntu1.1.1~)",
+        "Download-Size": "3596 B",
+        "Homepage": "http://nginx.net",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
+        "Description": "small, powerful, scalable web/proxy server"
+    },
+    "changelog": [
+        "nginx (1.6.2-1ubuntu1.1) utopic; urgency=medium",
+        "nginx (1.6.2-1ubuntu1) utopic; urgency=medium",
+        "nginx (1.6.2-1) unstable; urgency=high",
+        "nginx (1.6.1-2) unstable; urgency=medium",
+        "nginx (1.6.1-1ubuntu2) utopic; urgency=medium",
+        "nginx (1.6.1-1ubuntu1) utopic; urgency=medium",
+        "nginx (1.6.1-1) unstable; urgency=medium",
+        "nginx (1.6.0-2) unstable; urgency=medium",
+        "nginx (1.6.0-1) unstable; urgency=medium",
+        "nginx (1.4.7-2) unstable; urgency=medium"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "redis-server",
+        "Version": "5:4.0.11-2",
+        "Priority": "optional",
+        "Section": "universe/misc",
+        "Source": "redis",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "174 kB",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:4.0.11-2)",
+        "Homepage": "https://redis.io/",
+        "Download-Size": "35.4 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
+        "Description": "Persistent key-value database with network interface"
+    },
+    "changelog": [
+        "redis (5:4.0.11-2) unstable; urgency=medium",
+        "redis (5:4.0.11-1) unstable; urgency=medium",
+        "redis (5:4.0.10-2) unstable; urgency=medium",
+        "redis (5:4.0.10-1) unstable; urgency=medium",
+        "redis (5:4.0.9-4) unstable; urgency=medium",
+        "redis (5:4.0.9-3) unstable; urgency=medium",
+        "redis (5:4.0.9-2) unstable; urgency=medium",
+        "redis (5:4.0.9-1) unstable; urgency=medium",
+        "redis (5:4.0.8-2) unstable; urgency=medium",
+        "redis (5:4.0.8-1) unstable; urgency=medium"
+    ]
+}

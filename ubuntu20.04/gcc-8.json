@@ -22,7 +22,6 @@
     "changelog": [
         "gcc-8 (8.4.0-3ubuntu2) focal; urgency=medium",
         "gcc-8 (8.4.0-3) unstable; urgency=medium",
-        "gcc-8 (8.4.0-3) unstable; urgency=medium",
         "gcc-8 (8.4.0-2) unstable; urgency=medium",
         "gcc-8 (8.4.0-1ubuntu3) focal; urgency=medium",
         "gcc-8 (8.4.0-1ubuntu1) focal; urgency=medium",
@@ -201,7 +200,6 @@
         "gcc-7 (7.2.0-5ubuntu1) artful; urgency=medium",
         "gcc-7 (7.2.0-5) unstable; urgency=medium",
         "gcc-7 (7.2.0-4ubuntu2) artful; urgency=medium",
-        "gcc-7 (7.2.0-5) unstable; urgency=medium",
         "gcc-7 (7.2.0-4ubuntu1) artful; urgency=medium",
         "gcc-7 (7.2.0-4) unstable; urgency=medium",
         "gcc-7 (7.2.0-3ubuntu1) artful; urgency=medium",

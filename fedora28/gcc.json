@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "8.3.1",
+        "Release": "2.fc28",
+        "Arch": "x86_64",
+        "Size": "23 M",
+        "Source": "gcc-8.3.1-2.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 8."
+    },
+    "list": [
+        "gcc.i686                          8.0.1-0.20.fc28                        fedora",
+        "gcc.x86_64                        8.0.1-0.20.fc28                        fedora",
+        "gcc.i686                          8.3.1-2.fc28                           updates",
+        "gcc.x86_64                        8.3.1-2.fc28                           updates"
+    ]
+}

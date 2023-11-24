@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "php55",
+        "Arch": "x86_64",
+        "Version": "2.0",
+        "Release": "1.el6",
+        "Size": "2.9 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "Package that installs PHP 5.5",
+        "License": "GPLv2+",
+        "Description": "This is the main package for php55 Software Collection,"
+    },
+    "list": [
+        "php55.x86_64                 1.1-6.el6                  ol6_software_collections",
+        "php55.x86_64                 2.0-1.el6                  ol6_software_collections"
+    ]
+}

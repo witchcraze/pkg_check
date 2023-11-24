@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "redis",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "4.0.2",
+        "Release": "2.fc25",
+        "Size": "597 k",
+        "Repo": "updates",
+        "Summary": "A persistent key-value database",
+        "URL": "http://redis.io",
+        "License": "BSD",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a"
+    },
+    "list": [
+        "redis.x86_64                        3.2.3-1.fc25                         fedora",
+        "redis.x86_64                        4.0.2-2.fc25                         updates"
+    ]
+}

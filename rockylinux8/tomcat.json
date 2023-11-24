@@ -3,10 +3,10 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.62",
-        "Release": "5.el8_8.2",
+        "Release": "9.el8",
         "Architecture": "noarch",
-        "Size": "89 k",
-        "Source": "tomcat-9.0.62-5.el8_8.2.src.rpm",
+        "Size": "90 k",
+        "Source": "tomcat-9.0.62-9.el8.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -14,8 +14,7 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat.noarch                    1:9.0.62-5.el8                        appstream",
-        "tomcat.noarch                    1:9.0.62-5.el8_8.2                    appstream"
+        "tomcat.noarch                      1:9.0.62-9.el8                      appstream"
     ],
     "kojiPackages": [
         "tomcat-9.0.62-27.el8_9",

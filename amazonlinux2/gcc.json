@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Version": "7.3.1",
+        "Release": "17.amzn2",
+        "Size": "22 M",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 7."
+    },
+    "list": [
+        "gcc.x86_64                     7.2.1-2.amzn2.0.1                      amzn2-core",
+        "gcc.x86_64                     7.2.1-2.amzn2.0.2                      amzn2-core",
+        "gcc.x86_64                     7.3.1-5.amzn2.0.0                      amzn2-core",
+        "gcc.x86_64                     7.3.1-5.amzn2.0.1                      amzn2-core",
+        "gcc.x86_64                     7.3.1-5.amzn2.0.2                      amzn2-core",
+        "gcc.x86_64                     7.3.1-6.amzn2.0.4                      amzn2-core",
+        "gcc.x86_64                     7.3.1-9.amzn2                          amzn2-core",
+        "gcc.x86_64                     7.3.1-11.amzn2                         amzn2-core",
+        "gcc.x86_64                     7.3.1-12.amzn2                         amzn2-core",
+        "gcc.x86_64                     7.3.1-13.amzn2                         amzn2-core",
+        "gcc.x86_64                     7.3.1-14.amzn2                         amzn2-core",
+        "gcc.x86_64                     7.3.1-15.amzn2                         amzn2-core",
+        "gcc.x86_64                     7.3.1-17.amzn2                         amzn2-core"
+    ]
+}

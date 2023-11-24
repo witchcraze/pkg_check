@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "openssl1.1",
+        "Epoch": "1",
+        "Version": "1.1.1q",
+        "Release": "4.fc38",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "openssl1.1-1.1.1q-4.fc38.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Compatibility version of the OpenSSL library",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL and ASL 2.0",
+        "Description": "The OpenSSL toolkit provides support for secure communications between"
+    },
+    "list": [
+        "openssl1.1.i686                       1:1.1.1q-4.fc38                     fedora",
+        "openssl1.1.x86_64                     1:1.1.1q-4.fc38                     fedora"
+    ]
+}

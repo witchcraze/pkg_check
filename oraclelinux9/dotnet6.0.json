@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "dotnet6.0",
+        "Version": "6.0.124",
+        "Release": "1.0.1.el9_2",
+        "Architecture": "src",
+        "Size": "509 M",
+        "Source": "None",
+        "Repository": "ol9_appstream",
+        "Summary": ".NET Runtime and SDK",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet6.0.src                 6.0.103-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.105-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.106-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.107-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.108-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.109-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.109-3.0.1.el9                    ol9_appstream",
+        "dotnet6.0.src                 6.0.110-1.0.1.el9_0                  ol9_appstream",
+        "dotnet6.0.src                 6.0.112-1.0.1.el9_1                  ol9_appstream",
+        "dotnet6.0.src                 6.0.113-1.0.1.el9_1                  ol9_appstream",
+        "dotnet6.0.src                 6.0.114-1.0.1.el9_1                  ol9_appstream",
+        "dotnet6.0.src                 6.0.115-1.0.1.el9_1                  ol9_appstream",
+        "dotnet6.0.src                 6.0.116-1.0.1.el9_1                  ol9_appstream",
+        "dotnet6.0.src                 6.0.116-2.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.118-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.119-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.120-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.121-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.122-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.123-1.0.1.el9_2                  ol9_appstream",
+        "dotnet6.0.src                 6.0.124-1.0.1.el9_2                  ol9_appstream"
+    ]
+}

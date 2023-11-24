@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "10.14",
+        "Release": "1.module_f31+10076+3a8ff881",
+        "Architecture": "x86_64",
+        "Size": "4.9 M",
+        "Source": "postgresql-10.14-1.module_f31+10076+3a8ff881.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.x86_64    10.10-1.module_f31+5315+62feb88c     fedora-modular",
+        "postgresql-server.x86_64    10.14-1.module_f31+10076+3a8ff881    updates-modular"
+    ]
+}

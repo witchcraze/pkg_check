@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Epoch": "1",
+        "Version": "1.16.1",
+        "Release": "2.module_f33+9084+7422461e",
+        "Architecture": "x86_64",
+        "Size": "566 k",
+        "Source": "nginx-1.16.1-2.module_f33+9084+7422461e.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
+    },
+    "list": [
+        "nginx.x86_64         1:1.16.1-2.module_f33+9084+7422461e         fedora-modular",
+        "nginx.x86_64         1:1.16.1-2.module_f33+9084+7422461e         updates-modular"
+    ]
+}

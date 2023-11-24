@@ -14,7 +14,7 @@
         "Origin": "Ubuntu",
         "Supported": "9m",
         "Task": "minimal, ubuntu-core, ubuntu-core, ubuntu-sdk-libs-tools, ubuntu-sdk",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
     "changelog": [

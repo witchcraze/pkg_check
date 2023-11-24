@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.0.4",
+        "Release": "141.module+el8.6.0+20741+4fdba061",
+        "Architecture": "x86_64",
+        "Size": "89 k",
+        "Source": "ruby-3.0.4-141.module+el8.6.0+20741+4fdba061.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686          3.0.2-140.module+el8.5.0+20407+0c654ebc         ol8_appstream",
+        "ruby.x86_64        3.0.2-140.module+el8.5.0+20407+0c654ebc         ol8_appstream",
+        "ruby.i686          3.0.4-141.module+el8.6.0+20741+4fdba061         ol8_appstream",
+        "ruby.x86_64        3.0.4-141.module+el8.6.0+20741+4fdba061         ol8_appstream"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "bind9",
+        "Version": "1:9.11.5.P4+dfsg-5.1ubuntu2.2",
+        "Priority": "optional",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian DNS Team <team+dns@tracker.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "2060 kB",
+        "Depends": "adduser, bind9utils (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), debconf (>= 0.5) | debconf-2.0, dns-root-data, libbind9-161 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), libdns1104 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), libisc1100 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), libisccc161 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), libisccfg163 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), liblwres161 (= 1:9.11.5.P4+dfsg-5.1ubuntu2.2), lsb-base (>= 3.2-14), net-tools, netbase, libc6 (>= 2.28), libcap2 (>= 1:2.10), libgeoip1 (>= 1.6.12), libjson-c4 (>= 0.13.1), libssl1.1 (>= 1.1.0), libxml2 (>= 2.7.4)",
+        "Suggests": "bind9-doc, dnsutils, resolvconf, ufw",
+        "Homepage": "https://www.isc.org/downloads/bind/",
+        "Task": "dns-server",
+        "Supported": "9m",
+        "Download-Size": "419 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
+        "Description": "Internet Domain Name Server"
+    },
+    "changelog": [
+        "bind9 (1:9.11.5.P4+dfsg-5.1ubuntu2.2) eoan-security; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-5.1ubuntu2.1) eoan-security; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-5.1ubuntu2) eoan; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-5.1ubuntu1) eoan; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-5.1) unstable; urgency=high",
+        "bind9 (1:9.11.5.P4+dfsg-5ubuntu1) eoan; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-5) unstable; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-4ubuntu2) eoan; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-4ubuntu1) eoan; urgency=medium",
+        "bind9 (1:9.11.5.P4+dfsg-4) unstable; urgency=medium"
+    ]
+}

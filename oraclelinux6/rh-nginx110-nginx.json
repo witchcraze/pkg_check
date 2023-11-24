@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-nginx110-nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.10.2",
+        "Release": "9.el6.1",
+        "Size": "469 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "rh-nginx110-nginx.x86_64      1:1.10.2-7.0.2.el6        ol6_software_collections",
+        "rh-nginx110-nginx.x86_64      1:1.10.2-8.0.1.el6        ol6_software_collections",
+        "rh-nginx110-nginx.x86_64      1:1.10.2-8.0.1.el6.1      ol6_software_collections",
+        "rh-nginx110-nginx.x86_64      1:1.10.2-9.el6.1          ol6_software_collections"
+    ]
+}

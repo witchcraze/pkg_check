@@ -1,0 +1,35 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Arch": "x86_64",
+        "Version": "4.8.5",
+        "Release": "44.0.3.el7",
+        "Size": "16 M",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "Various compilers (C, C++, Objective-C, Java, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and",
+        "Description": "The gcc package contains the GNU Compiler Collection version 4.8."
+    },
+    "list": [
+        "gcc.x86_64                   4.8.2-16.el7                            ol7_u0_base",
+        "gcc.x86_64                   4.8.3-9.el7                             ol7_u1_base",
+        "gcc.x86_64                   4.8.5-4.el7                             ol7_u2_base",
+        "gcc.x86_64                   4.8.5-11.el7                            ol7_u3_base",
+        "gcc.x86_64                   4.8.5-16.el7                            ol7_u4_base",
+        "gcc.x86_64                   4.8.5-28.0.1.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-28.0.1.el7                        ol7_u5_base",
+        "gcc.x86_64                   4.8.5-28.0.1.el7_5.1                    ol7_latest",
+        "gcc.x86_64                   4.8.5-36.0.1.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-36.0.1.el7                        ol7_u6_base",
+        "gcc.x86_64                   4.8.5-36.0.1.el7_6.1                    ol7_latest",
+        "gcc.x86_64                   4.8.5-36.0.1.el7_6.2                    ol7_latest",
+        "gcc.x86_64                   4.8.5-39.0.1.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-39.0.1.el7                        ol7_u7_base",
+        "gcc.x86_64                   4.8.5-39.0.3.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-39.0.3.el7                        ol7_u8_base",
+        "gcc.x86_64                   4.8.5-39.0.5.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-44.0.3.el7                        ol7_latest",
+        "gcc.x86_64                   4.8.5-44.0.3.el7                        ol7_u9_base"
+    ]
+}

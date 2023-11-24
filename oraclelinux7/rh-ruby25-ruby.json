@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby25-ruby",
+        "Arch": "x86_64",
+        "Version": "2.5.9",
+        "Release": "9.el7",
+        "Size": "78 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby25-ruby.x86_64          2.5.0-5.0.1.el7          ol7_software_collections",
+        "rh-ruby25-ruby.x86_64          2.5.3-6.el7              ol7_software_collections",
+        "rh-ruby25-ruby.x86_64          2.5.5-7.el7              ol7_software_collections",
+        "rh-ruby25-ruby.x86_64          2.5.5-8.el7              ol7_software_collections",
+        "rh-ruby25-ruby.x86_64          2.5.9-9.el7              ol7_software_collections"
+    ]
+}

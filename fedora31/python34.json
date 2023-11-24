@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python34",
+        "Version": "3.4.10",
+        "Release": "7.fc31",
+        "Architecture": "x86_64",
+        "Size": "12 M",
+        "Source": "python34-3.4.10-7.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.4 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.4 package for developers."
+    },
+    "list": [
+        "python34.i686                        3.4.10-6.fc31                       fedora",
+        "python34.x86_64                      3.4.10-6.fc31                       fedora",
+        "python34.i686                        3.4.10-7.fc31                       updates",
+        "python34.x86_64                      3.4.10-7.fc31                       updates"
+    ]
+}

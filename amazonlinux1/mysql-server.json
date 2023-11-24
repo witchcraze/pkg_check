@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "mysql-server",
+        "Arch": "noarch",
+        "Version": "5.5",
+        "Release": "1.6.amzn1",
+        "Size": "2.8 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "mysql-server.noarch                   5.5-1.6.amzn1                    amzn-main"
+    ]
+}

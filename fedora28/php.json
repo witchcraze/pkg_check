@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.2.18",
+        "Release": "1.fc28",
+        "Arch": "x86_64",
+        "Size": "3.1 M",
+        "Source": "php-7.2.18-1.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                         7.2.4-2.fc28                          fedora",
+        "php.x86_64                         7.2.18-1.fc28                         updates"
+    ]
+}

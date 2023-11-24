@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3.10",
+        "Version": "3.10.0",
+        "Release": "1.fc33",
+        "Architecture": "x86_64",
+        "Size": "19 M",
+        "Source": "python3.10-3.10.0-1.fc33.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.10 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.10 package for developers."
+    },
+    "list": [
+        "python3.10.i686                       3.10.0-1.fc33                      updates",
+        "python3.10.x86_64                     3.10.0-1.fc33                      updates"
+    ]
+}

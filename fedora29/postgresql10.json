@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.10",
+        "Release": "1.module_f29+5313+28ee801c",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-10.10-1.module_f29+5313+28ee801c.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql.x86_64        10.10-1.module_f29+5313+28ee801c        updates-modular"
+    ]
+}

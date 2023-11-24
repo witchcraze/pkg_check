@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "openssl",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.0.2m",
+        "Release": "1.fc25",
+        "Size": "500 k",
+        "Repo": "updates",
+        "Summary": "Utilities from the general purpose cryptography library with TLS",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl.x86_64                      1:1.0.2j-1.fc25                      fedora",
+        "openssl.x86_64                      1:1.0.2m-1.fc25                      updates"
+    ]
+}

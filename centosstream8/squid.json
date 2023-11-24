@@ -23,22 +23,24 @@
         "squid.x86_64          7:4.15-7.module_el8+660+c5a9a808                 appstream"
     ],
     "kojiPackages": [
+        "squid-4.15-7.module_el8+660+c5a9a808",
+        "squid-4.15-7.el8",
         "squid-4.15-6.module_el8.8.0+1236+bbc41960",
-        "squid-4.15-3.module_el8.6.0+1091+f66ed1aa",
         "squid-4.15-2.module_el8.6.0+1080+3960d34b",
         "squid-4.15-1.module_el8.5.0+860+303ccf92",
         "squid-4.11-4.module_el8.4.0+787+bd6d340e.2",
         "squid-4.11-4.module_el8.4.0+629+8f5a8694",
-        "squid-4.4-8.module_el8.3.0+623+2bb85980.2",
-        "squid-4.11-3.module_el8.3.0+558+7bf80f5f",
         "squid-4.11-3.module_el8.4.0+544+e8367ddf",
-        "squid-4.11-3.module_el8.4.0+542+34ed45a5",
         "squid-4.11-3.module_el8.4.0+527+f0b0e3e2",
         "squid-4.11-2.module_el8.3.0+449+5982fab0",
         "squid-4.11-1.module_el8.3.0+395+6cb406eb",
         "squid-4.4-8.module_el8.2.0+319+d18e041f.1",
         "squid-4.4-8.module_el8.1.0+197+0c39cdc8",
         "squid-4.4-5.module_el8.0.0+182+b6dc903f",
-        "squid-4.4-4.module_el8.0.0+7+fd5ef70a"
+        "squid-4.4-4.module_el8.0.0+7+fd5ef70a",
+        "squid-4.15-3.module_el8.6.0+1091+f66ed1aa",
+        "squid-4.4-8.module_el8.3.0+623+2bb85980.2",
+        "squid-4.11-3.module_el8.3.0+558+7bf80f5f",
+        "squid-4.11-3.module_el8.4.0+542+34ed45a5"
     ]
 }

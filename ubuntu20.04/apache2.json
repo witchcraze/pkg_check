@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.41-4ubuntu3.14",
+        "Version": "2.4.41-4ubuntu3.15",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,7 +11,7 @@
         "Installed-Size": "544 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.14), apache2-data (= 2.4.41-4ubuntu3.14), apache2-utils (= 2.4.41-4ubuntu3.14), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.15), apache2-data (= 2.4.41-4ubuntu3.15), apache2-utils (= 2.4.41-4ubuntu3.15), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -24,6 +24,7 @@
         "Description": "Apache HTTP Server"
     },
     "changelog": [
+        "apache2 (2.4.41-4ubuntu3.15) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.14) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.13) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.12) focal-security; urgency=medium",

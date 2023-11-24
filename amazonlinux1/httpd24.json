@@ -1,0 +1,35 @@
+{
+    "info": {
+        "Name": "httpd24",
+        "Arch": "x86_64",
+        "Version": "2.4.58",
+        "Release": "1.101.amzn1",
+        "Size": "1.6 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "Apache HTTP Server",
+        "URL": "http://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd24.x86_64                  2.4.27-3.75.amzn1                   amzn-main",
+        "httpd24.x86_64                  2.4.33-2.78.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.33-2.79.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.33-2.80.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.34-1.82.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.37-1.83.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.38-1.86.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.39-1.87.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.41-1.88.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.43-1.89.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.46-1.90.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.48-1.92.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.51-1.94.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.52-1.95.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.53-1.96.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.54-1.98.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.54-1.99.amzn1                   amzn-updates",
+        "httpd24.x86_64                  2.4.56-1.100.amzn1                  amzn-updates",
+        "httpd24.x86_64                  2.4.58-1.101.amzn1                  amzn-updates"
+    ]
+}

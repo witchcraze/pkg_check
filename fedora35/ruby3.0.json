@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.0.2",
+        "Release": "150.module_f35+12410+172cbfa4",
+        "Architecture": "x86_64",
+        "Size": "41 k",
+        "Source": "ruby-3.0.2-150.module_f35+12410+172cbfa4.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686           3.0.2-150.module_f35+12410+172cbfa4          fedora-modular",
+        "ruby.x86_64         3.0.2-150.module_f35+12410+172cbfa4          fedora-modular",
+        "ruby.x86_64         3.0.2-150.module_f35+12410+172cbfa4          updates-modular"
+    ]
+}

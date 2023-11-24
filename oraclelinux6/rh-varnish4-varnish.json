@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "rh-varnish4-varnish",
+        "Arch": "x86_64",
+        "Version": "4.0.3",
+        "Release": "13.0.2.el6",
+        "Size": "385 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "http://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "rh-varnish4-varnish.x86_64       4.0.3-13.0.2.el6       ol6_software_collections"
+    ]
+}

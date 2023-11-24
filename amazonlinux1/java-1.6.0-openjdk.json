@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "java-1.6.0-openjdk",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.6.0.41",
+        "Release": "1.13.13.1.78.amzn1",
+        "Size": "44 M",
+        "Repo": "amzn-updates/latest",
+        "Summary": "OpenJDK Runtime Environment",
+        "URL": "http://icedtea.classpath.org/",
+        "License": "ASL 1.1, ASL 2.0, GPL+, GPLv2, GPLv2 with exceptions, LGPL+,",
+        "Description": "The OpenJDK runtime environment."
+    },
+    "list": [
+        "java-1.6.0-openjdk.x86_64       1:1.6.0.41-1.13.13.1.77.amzn1       amzn-main",
+        "java-1.6.0-openjdk.x86_64       1:1.6.0.41-1.13.13.1.78.amzn1       amzn-updates"
+    ]
+}

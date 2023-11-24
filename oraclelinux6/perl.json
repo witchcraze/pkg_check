@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "perl",
+        "Arch": "x86_64",
+        "Epoch": "4",
+        "Version": "5.10.1",
+        "Release": "144.el6",
+        "Size": "10 M",
+        "Repo": "ol6_latest",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and Copyright Only and",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "perl.x86_64                  4:5.10.1-115.el6                       ol6_ga_base",
+        "perl.x86_64                  4:5.10.1-119.el6                       ol6_u1_base",
+        "perl.x86_64                  4:5.10.1-119.el6_1.1                   ol6_u2_base",
+        "perl.x86_64                  4:5.10.1-127.el6                       ol6_u3_base",
+        "perl.x86_64                  4:5.10.1-129.el6                       ol6_u4_base",
+        "perl.x86_64                  4:5.10.1-136.el6                       ol6_u5_base",
+        "perl.x86_64                  4:5.10.1-136.el6                       ol6_u6_base",
+        "perl.x86_64                  4:5.10.1-141.el6                       ol6_u7_base",
+        "perl.x86_64                  4:5.10.1-141.el6_7.1                   ol6_u8_base",
+        "perl.x86_64                  4:5.10.1-144.el6                       ol6_latest",
+        "perl.x86_64                  4:5.10.1-144.el6                       ol6_u10_base",
+        "perl.x86_64                  4:5.10.1-144.el6                       ol6_u9_base"
+    ]
+}

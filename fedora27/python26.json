@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python26",
+        "Version": "2.6.9",
+        "Release": "17.fc27",
+        "Arch": "x86_64",
+        "Size": "9.8 M",
+        "Source": "python26-2.6.9-17.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "Version 2.6 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2.6 package for developers."
+    },
+    "list": [
+        "python26.i686                        2.6.9-6.fc26                        fedora",
+        "python26.x86_64                      2.6.9-6.fc26                        fedora",
+        "python26.i686                        2.6.9-17.fc27                       updates",
+        "python26.x86_64                      2.6.9-17.fc27                       updates"
+    ]
+}

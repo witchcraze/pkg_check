@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "java-1.8.0-openjdk",
+        "Epoch": "1",
+        "Version": "1.8.0.191.b12",
+        "Release": "8.fc27",
+        "Arch": "x86_64",
+        "Size": "264 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.191.b12-8.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "OpenJDK Runtime Environment 8",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and",
+        "Description": "The OpenJDK runtime environment 8."
+    },
+    "list": [
+        "java-1.8.0-openjdk.x86_64             1:1.8.0.144-7.b01.fc27             fedora",
+        "java-1.8.0-openjdk.x86_64             1:1.8.0.191.b12-8.fc27             updates"
+    ]
+}

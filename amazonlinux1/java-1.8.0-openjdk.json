@@ -1,0 +1,42 @@
+{
+    "info": {
+        "Name": "java-1.8.0-openjdk",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.8.0.382.b05",
+        "Release": "1.79.amzn1",
+        "Size": "348 k",
+        "Repo": "amzn-updates/latest",
+        "Summary": "OpenJDK 8 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and",
+        "Description": "The OpenJDK 8 runtime environment."
+    },
+    "list": [
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.161-0.b14.36.amzn1          amzn-main",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.171-7.b10.37.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.171-8.b10.38.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.181-8.b13.39.39.amzn1       amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.191.b12-0.42.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.201.b09-0.43.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.212.b04-0.45.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.222.b10-0.47.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.232.b09-0.48.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.242.b08-0.50.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.252.b09-2.51.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.265.b01-0.54.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.272.b10-1.56.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.282.b08-1.61.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.292.b10-1.63.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.292.b10-1.64.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.302.b08-0.67.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.312.b07-0.65.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.312.b07-0.66.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.342.b07-0.68.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.352.b08-2.70.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.362.b08-1.72.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.372.b07-1.76.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.382.b05-1.78.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.382.b05-1.79.amzn1          amzn-updates"
+    ]
+}

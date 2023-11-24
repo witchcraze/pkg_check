@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Arch": "x86_64",
+        "Version": "2.2.34",
+        "Release": "1.16.amzn1",
+        "Size": "1.2 M",
+        "Repo": "amzn-main/latest",
+        "Summary": "Apache HTTP Server",
+        "URL": "http://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64                     2.2.34-1.16.amzn1                     amzn-main"
+    ]
+}

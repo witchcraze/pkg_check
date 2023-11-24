@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python35",
+        "Version": "3.5.6",
+        "Release": "3.fc27",
+        "Arch": "x86_64",
+        "Size": "19 M",
+        "Source": "python35-3.5.6-3.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "Version 3.5 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.5 package for developers."
+    },
+    "list": [
+        "python35.i686                         3.5.3-4.fc27                       fedora",
+        "python35.x86_64                       3.5.3-4.fc27                       fedora",
+        "python35.i686                         3.5.6-3.fc27                       updates",
+        "python35.x86_64                       3.5.6-3.fc27                       updates"
+    ]
+}

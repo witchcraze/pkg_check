@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "9.5.10",
+        "Release": "1.fc25",
+        "Size": "4.5 M",
+        "Repo": "updates",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql-server.x86_64                  9.5.4-1.fc25                   fedora",
+        "postgresql-server.x86_64                  9.5.10-1.fc25                  updates"
+    ]
+}

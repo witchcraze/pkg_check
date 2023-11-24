@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "ruby2.0",
+        "Priority": "extra",
+        "Section": "ruby",
+        "Installed-Size": "128 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Antonio Terceiro <terceiro@debian.org>",
+        "Version": "2.0.0.484+really457-3ubuntu1.2",
+        "Provides": "ruby-interpreter",
+        "Depends": "ruby (>= 1:1.9.3.1), rubygems-integration, libc6 (>= 2.2.5), libruby2.0 (>= 2.0.0)",
+        "Download-Size": "66.5 kB",
+        "Homepage": "http://www.ruby-lang.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.0 (2.0.0.484+really457-3ubuntu1.2) utopic-security; urgency=medium",
+        "ruby2.0 (2.0.0.484+really457-3ubuntu1.1) utopic-security; urgency=medium",
+        "ruby2.0 (2.0.0.484+really457-3ubuntu1) utopic; urgency=medium",
+        "ruby2.0 (2.0.0.484+really457-3) unstable; urgency=medium",
+        "ruby2.0 (2.0.0.484+really457-2) unstable; urgency=medium",
+        "ruby2.0 (2.0.0.484+really457-1) unstable; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu3) utopic; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2) trusty; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu1) trusty; urgency=low",
+        "ruby2.0 (2.0.0.484-1) unstable; urgency=medium"
+    ]
+}

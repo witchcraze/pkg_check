@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python3.7",
+        "Version": "3.7.16",
+        "Release": "2.fc37",
+        "Architecture": "x86_64",
+        "Size": "18 M",
+        "Source": "python3.7-3.7.16-2.fc37.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.7 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.7 package for developers."
+    },
+    "list": [
+        "python3.7.i686                        3.7.14-1.fc37                      fedora",
+        "python3.7.x86_64                      3.7.14-1.fc37                      fedora",
+        "python3.7.i686                        3.7.16-2.fc37                      updates",
+        "python3.7.x86_64                      3.7.16-2.fc37                      updates"
+    ]
+}

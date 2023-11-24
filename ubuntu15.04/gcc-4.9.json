@@ -19,7 +19,7 @@
         "Origin": "Ubuntu",
         "Supported": "9m",
         "Task": "ubuntu-desktop, ubuntu-usb, edubuntu-desktop, edubuntu-usb, xubuntu-core, xubuntu-desktop, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, ubuntustudio-desktop, ubuntustudio-desktop-minimal, ubuntu-gnome-desktop, ubuntukylin-desktop",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "changelog": [
@@ -272,7 +272,6 @@
         "gcc-4.6 (4.6.0-2) unstable; urgency=low",
         "gcc-4.6 (4.6.0-1) unstable; urgency=low",
         "gcc-4.6 (4.6.0~rc1-3) experimental; urgency=low",
-        "gcc-4.6 (4.6.0~rc1-2) experimental; urgency=low",
         "gcc-4.6 (4.6.0~rc1-2) experimental; urgency=low",
         "gcc-4.6 (4.6.0~rc1-1) experimental; urgency=low",
         "gcc-4.6 (4.6-20110227-1) experimental; urgency=low",

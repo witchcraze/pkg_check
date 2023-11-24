@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "openssl098e",
+        "Arch": "x86_64",
+        "Version": "0.9.8e",
+        "Release": "29.19.amzn1",
+        "Size": "899 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "A compatibility version of a general cryptography and TLS library",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl098e.i686                   0.9.8e-29.19.amzn1                  amzn-main",
+        "openssl098e.x86_64                 0.9.8e-29.19.amzn1                  amzn-main"
+    ]
+}

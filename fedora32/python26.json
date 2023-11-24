@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python26",
+        "Version": "2.6.9",
+        "Release": "21.fc31",
+        "Architecture": "x86_64",
+        "Size": "9.2 M",
+        "Source": "python26-2.6.9-21.fc31.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Version 2.6 of the Python programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2.6 package for developers."
+    },
+    "list": [
+        "python26.i686                         2.6.9-21.fc31                       fedora",
+        "python26.x86_64                       2.6.9-21.fc31                       fedora"
+    ]
+}

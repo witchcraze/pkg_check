@@ -1,0 +1,32 @@
+{
+    "show": {
+        "Package": "php7.3",
+        "Version": "7.3.11-0ubuntu0.19.10.6",
+        "Priority": "optional",
+        "Section": "php",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian PHP Maintainers <team+pkg-php@tracker.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "76.8 kB",
+        "Provides": "php",
+        "Depends": "libapache2-mod-php7.3 | php7.3-fpm | php7.3-cgi, php7.3-common",
+        "Homepage": "http://www.php.net/",
+        "Supported": "9m",
+        "Download-Size": "9248 B",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
+        "Description": "server-side, HTML-embedded scripting language (metapackage)"
+    },
+    "changelog": [
+        "php7.3 (7.3.11-0ubuntu0.19.10.6) eoan-security; urgency=medium",
+        "php7.3 (7.3.11-0ubuntu0.19.10.5) eoan; urgency=medium",
+        "php7.3 (7.3.11-0ubuntu0.19.10.4) eoan-security; urgency=medium",
+        "php7.3 (7.3.11-0ubuntu0.19.10.3) eoan-security; urgency=medium",
+        "php7.3 (7.3.11-0ubuntu0.19.10.2) eoan-security; urgency=medium",
+        "php7.3 (7.3.11-0ubuntu0.19.10.1) eoan-security; urgency=medium",
+        "php7.3 (7.3.8-1) unstable; urgency=medium",
+        "php7.3 (7.3.7-2) unstable; urgency=medium",
+        "php7.3 (7.3.7-1) unstable; urgency=medium",
+        "php7.3 (7.3.6-1) unstable; urgency=medium"
+    ]
+}

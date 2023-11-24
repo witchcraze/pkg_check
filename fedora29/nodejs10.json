@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "10.16.3",
+        "Release": "1.module_f29+5959+e526a653",
+        "Architecture": "x86_64",
+        "Size": "101 k",
+        "Source": "nodejs-10.16.3-1.module_f29+5959+e526a653.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64        1:10.11.0-1.module_2200+adbac02b            fedora-modular",
+        "nodejs.x86_64        1:10.16.3-1.module_f29+5959+e526a653        updates-modular"
+    ]
+}

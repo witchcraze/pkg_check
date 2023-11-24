@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "java-21-amazon-corretto",
+        "Epoch": "1",
+        "Version": "21.0.1+12",
+        "Release": "1.amzn2023.2",
+        "Architecture": "x86_64",
+        "Size": "214 k",
+        "Source": "java-21-amazon-corretto-21.0.1+12-1.amzn2023.2.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "Amazon Corretto development environment",
+        "URL": "https://github.com/corretto/corretto-21",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA.",
+        "Description": "Amazon Corretto's packaging of the runtime core elements of the"
+    },
+    "list": [
+        "java-21-amazon-corretto.x86_64       1:21.0.0+35-1.amzn2023.1        amazonlinux",
+        "java-21-amazon-corretto.x86_64       1:21.0.1+12-1.amzn2023.1        amazonlinux",
+        "java-21-amazon-corretto.x86_64       1:21.0.1+12-1.amzn2023.2        amazonlinux"
+    ]
+}

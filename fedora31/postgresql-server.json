@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Version": "11.8",
+        "Release": "2.fc31",
+        "Architecture": "x86_64",
+        "Size": "5.2 M",
+        "Source": "postgresql-11.8-2.fc31.src.rpm",
+        "Repository": "updates",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql-server.i686                     11.5-5.fc31                   fedora",
+        "postgresql-server.x86_64                   11.5-5.fc31                   fedora",
+        "postgresql-server.i686                     11.8-2.fc31                   updates",
+        "postgresql-server.x86_64                   11.8-2.fc31                   updates"
+    ]
+}

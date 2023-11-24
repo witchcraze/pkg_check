@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "squid",
+        "Priority": "optional",
+        "Section": "universe/web",
+        "Installed-Size": "141 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Luigi Gangitano <luigi@debian.org>",
+        "Source": "squid3",
+        "Version": "3.3.8-1ubuntu8.1",
+        "Depends": "squid3 (= 3.3.8-1ubuntu8.1)",
+        "Download-Size": "6034 B",
+        "Homepage": "http://www.squid-cache.org",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/universe amd64 Packages",
+        "Description": "dependency package from squid to squid3"
+    },
+    "changelog": [
+        "squid3 (3.3.8-1ubuntu8.1) utopic-security; urgency=medium",
+        "squid3 (3.3.8-1ubuntu8) utopic; urgency=medium",
+        "squid3 (3.3.8-1ubuntu7) utopic; urgency=medium",
+        "squid3 (3.3.8-1ubuntu6) trusty; urgency=medium",
+        "squid3 (3.3.8-1ubuntu5) trusty; urgency=low",
+        "squid3 (3.3.8-1ubuntu4) trusty; urgency=low",
+        "squid3 (3.3.8-1ubuntu3) saucy; urgency=low",
+        "squid3 (3.3.8-1ubuntu2) saucy; urgency=low",
+        "squid3 (3.3.8-1ubuntu1) saucy; urgency=low",
+        "squid3 (3.3.8-1) unstable; urgency=high"
+    ]
+}

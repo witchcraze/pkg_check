@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "php",
+        "Arch": "x86_64",
+        "Version": "5.4.16",
+        "Release": "46.amzn2.0.2",
+        "Size": "1.4 M",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "php.x86_64                    5.4.16-43.amzn2                         amzn2-core",
+        "php.x86_64                    5.4.16-43.amzn2.0.1                     amzn2-core",
+        "php.x86_64                    5.4.16-43.amzn2.0.2                     amzn2-core",
+        "php.x86_64                    5.4.16-43.amzn2.0.3                     amzn2-core",
+        "php.x86_64                    5.4.16-43.amzn2.0.4                     amzn2-core",
+        "php.x86_64                    5.4.16-45.amzn2.0.5                     amzn2-core",
+        "php.x86_64                    5.4.16-45.amzn2.0.6                     amzn2-core",
+        "php.x86_64                    5.4.16-46.amzn2.0.2                     amzn2-core"
+    ]
+}

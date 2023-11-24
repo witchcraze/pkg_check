@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.9.18",
+        "Release": "1.el9_3",
+        "Architecture": "x86_64",
+        "Size": "32 k",
+        "Source": "python3.9-3.9.18-1.el9_3.src.rpm",
+        "Repository": "@System",
+        "Summary": "Python 3.9 interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.x86_64                3.9.18-1.el9_3                  @System",
+        "python3.x86_64                3.9.10-2.el9                    ol9_baseos_latest",
+        "python3.x86_64                3.9.10-2.el9                    ol9_u0_baseos_base",
+        "python3.x86_64                3.9.10-3.el9_0                  ol9_baseos_latest",
+        "python3.x86_64                3.9.14-1.el9                    ol9_baseos_latest",
+        "python3.x86_64                3.9.14-1.el9                    ol9_u1_baseos_base",
+        "python3.x86_64                3.9.14-1.el9_1.1                ol9_baseos_latest",
+        "python3.x86_64                3.9.14-1.el9_1.2                ol9_baseos_latest",
+        "python3.x86_64                3.9.16-1.el9                    ol9_baseos_latest",
+        "python3.x86_64                3.9.16-1.el9                    ol9_u2_baseos_base",
+        "python3.x86_64                3.9.16-1.el9_2.1                ol9_baseos_latest",
+        "python3.x86_64                3.9.16-1.el9_2.2                ol9_baseos_latest",
+        "python3.x86_64                3.9.18-1.el9_3                  ol9_baseos_latest",
+        "python3.x86_64                3.9.18-1.el9_3                  ol9_u3_baseos_base"
+    ]
+}

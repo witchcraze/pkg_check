@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.10.8",
+        "Release": "3.fc35",
+        "Architecture": "i686",
+        "Size": "27 k",
+        "Source": "python3.10-3.10.8-3.fc35.src.rpm",
+        "Repository": "updates",
+        "From repo": "koji-override-0",
+        "Summary": "Python 3.10 interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.10 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.x86_64                  3.10.8-3.fc35                   @koji-override-0",
+        "python3.i686                    3.10.0-1.fc35                   fedora",
+        "python3.x86_64                  3.10.0-1.fc35                   fedora",
+        "python3.i686                    3.10.8-3.fc35                   updates",
+        "python3.x86_64                  3.10.8-3.fc35                   updates"
+    ]
+}

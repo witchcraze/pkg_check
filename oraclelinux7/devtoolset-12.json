@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "devtoolset-12",
+        "Arch": "x86_64",
+        "Version": "12.1",
+        "Release": "0.el7",
+        "Size": "5.4 k",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "Package that installs devtoolset-12",
+        "License": "GPLv2+",
+        "Description": "This is the main package for devtoolset-12 Software Collection."
+    },
+    "list": [
+        "devtoolset-12.x86_64             12.0-2.el7             ol7_software_collections",
+        "devtoolset-12.x86_64             12.1-0.el7             ol7_software_collections"
+    ]
+}

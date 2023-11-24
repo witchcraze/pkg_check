@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3",
+        "Version": "3.11.6",
+        "Release": "1.fc37",
+        "Architecture": "i686",
+        "Size": "28 k",
+        "Source": "python3.11-3.11.6-1.fc37.src.rpm",
+        "Repository": "updates",
+        "From repo": "koji-override-1",
+        "Summary": "Python 3.11 interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.x86_64                  3.11.6-1.fc37                   @koji-override-1",
+        "python3.i686                    3.11.0-1.fc37                   fedora",
+        "python3.x86_64                  3.11.0-1.fc37                   fedora",
+        "python3.i686                    3.11.6-1.fc37                   updates",
+        "python3.x86_64                  3.11.6-1.fc37                   updates"
+    ]
+}

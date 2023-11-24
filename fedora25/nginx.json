@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.12.1",
+        "Release": "1.fc25",
+        "Size": "535 k",
+        "Repo": "updates",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "nginx.x86_64                       1:1.10.1-1.fc25                       fedora",
+        "nginx.x86_64                       1:1.12.1-1.fc25                       updates"
+    ]
+}

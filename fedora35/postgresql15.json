@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "15beta2",
+        "Release": "1.module_f35+14724+2ee7a044",
+        "Architecture": "x86_64",
+        "Size": "1.8 M",
+        "Source": "postgresql-15beta2-1.module_f35+14724+2ee7a044.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64      15beta2-1.module_f35+14724+2ee7a044       updates-modular"
+    ]
+}

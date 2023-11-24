@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.28.2",
+        "Release": "435.fc29",
+        "Architecture": "x86_64",
+        "Size": "19 k",
+        "Source": "perl-5.28.2-435.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "perl.x86_64                      4:5.28.0-423.fc29                       fedora",
+        "perl.x86_64                      4:5.28.2-435.fc29                       updates"
+    ]
+}

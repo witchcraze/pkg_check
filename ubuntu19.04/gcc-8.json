@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "gcc-8",
+        "Version": "8.3.0-6ubuntu1",
+        "Priority": "optional",
+        "Build-Essential": "yes",
+        "Section": "devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "29.9 MB",
+        "Provides": "c-compiler",
+        "Depends": "cpp-8 (= 8.3.0-6ubuntu1), gcc-8-base (= 8.3.0-6ubuntu1), libcc1-0 (>= 8.3.0-6ubuntu1), binutils (>= 2.32), libgcc-8-dev (= 8.3.0-6ubuntu1), libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10 (>= 2:5.0.1~), libisl19 (>= 0.15), libmpc3, libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-8-multilib, gcc-8-doc (>= 8), gcc-8-locales (>= 8), libgcc1-dbg (>= 1:8.3.0-6ubuntu1), libgomp1-dbg (>= 8.3.0-6ubuntu1), libitm1-dbg (>= 8.3.0-6ubuntu1), libatomic1-dbg (>= 8.3.0-6ubuntu1), libasan5-dbg (>= 8.3.0-6ubuntu1), liblsan0-dbg (>= 8.3.0-6ubuntu1), libtsan0-dbg (>= 8.3.0-6ubuntu1), libubsan1-dbg (>= 8.3.0-6ubuntu1), libmpx2-dbg (>= 8.3.0-6ubuntu1), libquadmath0-dbg (>= 8.3.0-6ubuntu1)",
+        "Replaces": "cpp-8 (<< 7.1.1-8), gccgo-8 (<< 8.3.0-6ubuntu1)",
+        "Homepage": "http://gcc.gnu.org/",
+        "Task": "ubuntu-desktop-minimal, ubuntu-desktop, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-minimal-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, ubuntu-desktop-default-languages, kubuntu-desktop, xubuntu-core, xubuntu-desktop, lubuntu-desktop, ubuntustudio-desktop-core, ubuntustudio-desktop, ubuntukylin-desktop, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-budgie-desktop",
+        "Supported": "9m",
+        "Download-Size": "9802 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/main amd64 Packages",
+        "Description": "GNU C compiler"
+    },
+    "changelog": [
+        "gcc-8 (8.3.0-6ubuntu1) disco; urgency=medium",
+        "gcc-8 (8.3.0-6) unstable; urgency=medium",
+        "gcc-8 (8.3.0-5ubuntu1) disco; urgency=medium",
+        "gcc-8 (8.3.0-5) unstable; urgency=medium",
+        "gcc-8 (8.3.0-4ubuntu1) disco; urgency=medium",
+        "gcc-8 (8.3.0-4) unstable; urgency=medium",
+        "gcc-8 (8.3.0-3ubuntu1) disco; urgency=medium",
+        "gcc-8 (8.3.0-3) unstable; urgency=medium",
+        "gcc-8 (8.3.0-2ubuntu2) disco; urgency=medium",
+        "gcc-8 (8.3.0-2ubuntu1) disco; urgency=medium"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "9.6.10",
+        "Release": "3.fc27",
+        "Arch": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-9.6.10-3.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management"
+    },
+    "list": [
+        "postgresql.x86_64                     9.6.5-1.fc27                       fedora",
+        "postgresql.x86_64                     9.6.10-3.fc27                      updates"
+    ]
+}
