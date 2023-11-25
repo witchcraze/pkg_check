@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "devtoolset-9",
+        "Arch": "x86_64",
+        "Version": "9.1",
+        "Release": "0.el7",
+        "Size": "5.9 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "Package that installs devtoolset-9",
+        "License": "GPLv2+",
+        "Description": "This is the main package for devtoolset-9 Software Collection."
+    },
+    "list": [
+        "devtoolset-9.x86_64              9.0-3.el7              rhel-server-rhscl-7-rpms",
+        "devtoolset-9.x86_64              9.1-0.el7              rhel-server-rhscl-7-rpms"
+    ]
+}

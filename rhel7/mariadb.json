@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "5.5.68",
+        "Release": "1.el7",
+        "Size": "8.7 M",
+        "Repo": "rhel-7-server-rpms/7Server/x86_64",
+        "Summary": "A community developed branch of MySQL",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a community developed branch of MySQL."
+    },
+    "list": [
+        "mariadb.x86_64                1:5.5.35-3.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.37-1.el7_0                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.40-1.el7_0                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.40-2.el7_0                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.41-2.el7_0                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.44-1.el7_1                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.44-2.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.47-1.el7_2                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.50-1.el7_2                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.52-1.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.56-2.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.60-1.el7_5                rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.64-1.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.65-1.el7                  rhel-7-server-rpms",
+        "mariadb.x86_64                1:5.5.68-1.el7                  rhel-7-server-rpms"
+    ]
+}

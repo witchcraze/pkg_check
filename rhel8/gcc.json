@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "8.5.0",
+        "Release": "20.el8",
+        "Architecture": "x86_64",
+        "Size": "23 M",
+        "Source": "gcc-8.5.0-20.el8.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD",
+        "Description": "The gcc package contains the GNU Compiler Collection version 8."
+    },
+    "list": [
+        "gcc.x86_64           8.2.1-3.5.el8              rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.3.1-4.5.el8              rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.3.1-5.el8                rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.3.1-5.1.el8              rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.4.1-1.el8                rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-3.el8                rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-4.el8_5              rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-10.el8               rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-10.1.el8_6           rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-15.el8               rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-16.el8_7             rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-18.el8               rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64           8.5.0-20.el8               rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "rh-php72-php",
+        "Arch": "x86_64",
+        "Version": "7.2.24",
+        "Release": "1.el7",
+        "Size": "1.4 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make"
+    },
+    "list": [
+        "rh-php72-php.x86_64            7.2.10-3.el7             rhel-server-rhscl-7-rpms",
+        "rh-php72-php.x86_64            7.2.24-1.el7             rhel-server-rhscl-7-rpms"
+    ]
+}

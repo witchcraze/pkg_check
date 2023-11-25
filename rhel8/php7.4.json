@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "7.4.33",
+        "Release": "1.module+el8.8.0+17865+ef7eddfa",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "php-7.4.33-1.module+el8.8.0+17865+ef7eddfa.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64 7.4.6-4.module+el8.3.0+7002+2eb69d76   rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.19-1.module+el8.5.0+11143+cc873159 rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.19-2.module+el8.6.0+13953+0a59ce9f rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.19-3.module+el8.6.0+15726+994cde98 rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.19-4.module+el8.6.0+16316+906f6c6d rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.30-1.module+el8.7.0+15886+8e29b882 rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64 7.4.33-1.module+el8.8.0+17865+ef7eddfa rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

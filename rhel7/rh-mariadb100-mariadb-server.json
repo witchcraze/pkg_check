@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "rh-mariadb100-mariadb-server",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "10.0.33",
+        "Release": "3.el7",
+        "Size": "18 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "The MariaDB server and related files",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is"
+    },
+    "list": [
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.17-9.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.20-1.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.25-4.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.26-2.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.28-5.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb100-mariadb-server.x86_64   1:10.0.33-3.el7   rhel-server-rhscl-7-rpms"
+    ]
+}

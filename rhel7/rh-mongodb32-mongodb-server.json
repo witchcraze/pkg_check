@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "rh-mongodb32-mongodb-server",
+        "Arch": "x86_64",
+        "Version": "3.2.10",
+        "Release": "1.el7",
+        "Size": "9.5 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "MongoDB server, sharding server and support scripts",
+        "URL": "http://www.mongodb.org",
+        "License": "AGPLv3 and zlib and ASL 2.0",
+        "Description": "This package provides the mongo server software, mongo sharding"
+    },
+    "list": [
+        "rh-mongodb32-mongodb-server.x86_64     3.2.6-2.el7      rhel-server-rhscl-7-rpms",
+        "rh-mongodb32-mongodb-server.x86_64     3.2.10-1.el7     rhel-server-rhscl-7-rpms"
+    ]
+}

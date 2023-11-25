@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "rh-python38-python",
+        "Arch": "x86_64",
+        "Version": "3.8.18",
+        "Release": "2.el7",
+        "Size": "73 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed,"
+    },
+    "list": [
+        "rh-python38-python.x86_64         3.8.0-15.el7          rhel-server-rhscl-7-rpms",
+        "rh-python38-python.x86_64         3.8.6-1.el7           rhel-server-rhscl-7-rpms",
+        "rh-python38-python.x86_64         3.8.11-2.el7          rhel-server-rhscl-7-rpms",
+        "rh-python38-python.x86_64         3.8.13-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-python38-python.x86_64         3.8.14-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-python38-python.x86_64         3.8.18-2.el7          rhel-server-rhscl-7-rpms"
+    ]
+}

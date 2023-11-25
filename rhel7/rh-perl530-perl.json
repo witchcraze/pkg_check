@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "rh-perl530-perl",
+        "Arch": "x86_64",
+        "Epoch": "4",
+        "Version": "5.30.1",
+        "Release": "452.el7",
+        "Size": "78 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed,"
+    },
+    "list": [
+        "rh-perl530-perl.x86_64         4:5.30.1-452.el7         rhel-server-rhscl-7-rpms"
+    ]
+}

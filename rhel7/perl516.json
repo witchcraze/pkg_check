@@ -1,0 +1,16 @@
+{
+    "info": {
+        "Name": "perl516",
+        "Arch": "x86_64",
+        "Version": "1.1",
+        "Release": "3.el7",
+        "Size": "5.3 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "Package that installs perl516",
+        "License": "GPLv2+",
+        "Description": "This is the main package for perl516 Software Collection."
+    },
+    "list": [
+        "perl516.x86_64                1.1-3.el7                 rhel-server-rhscl-7-rpms"
+    ]
+}

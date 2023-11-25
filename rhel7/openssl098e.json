@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "openssl098e",
+        "Arch": "x86_64",
+        "Version": "0.9.8e",
+        "Release": "29.el7_2.3",
+        "Size": "793 k",
+        "Repo": "rhel-7-server-rpms/7Server/x86_64",
+        "Summary": "A compatibility version of a general cryptography and TLS library",
+        "URL": "http://www.openssl.org/",
+        "License": "OpenSSL",
+        "Description": "The OpenSSL toolkit provides support for secure communications"
+    },
+    "list": [
+        "openssl098e.i686               0.9.8e-29.el7                  rhel-7-server-rpms",
+        "openssl098e.x86_64             0.9.8e-29.el7                  rhel-7-server-rpms",
+        "openssl098e.i686               0.9.8e-29.el7_0.2              rhel-7-server-rpms",
+        "openssl098e.x86_64             0.9.8e-29.el7_0.2              rhel-7-server-rpms",
+        "openssl098e.i686               0.9.8e-29.el7_2.3              rhel-7-server-rpms",
+        "openssl098e.x86_64             0.9.8e-29.el7_2.3              rhel-7-server-rpms"
+    ]
+}

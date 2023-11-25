@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Epoch": "1",
+        "Version": "1.18.0",
+        "Release": "3.module+el8.4.0+11152+f736ed63.1",
+        "Architecture": "x86_64",
+        "Size": "580 k",
+        "Source": "nginx-1.18.0-3.module+el8.4.0+11152+f736ed63.1.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
+    },
+    "list": [
+        "nginx.x86_64 1:1.18.0-2.module+el8.3.0+6830+4321f41c    rhel-8-for-x86_64-appstream-rpms",
+        "nginx.x86_64 1:1.18.0-3.module+el8.4.0+8863+ca1cf78e    rhel-8-for-x86_64-appstream-rpms",
+        "nginx.x86_64 1:1.18.0-3.module+el8.4.0+11152+f736ed63.1 rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

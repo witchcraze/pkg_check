@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "10.24.0",
+        "Release": "1.module+el8.3.0+10166+b07ac28e",
+        "Architecture": "x86_64",
+        "Size": "8.8 M",
+        "Source": "nodejs-10.24.0-1.module+el8.3.0+10166+b07ac28e.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64 1:10.14.1-1.module+el8+2632+6c5111ed      rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.16.3-2.module+el8.0.0+4214+49953fda  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.19.0-1.module+el8.1.0+5726+6ed65f8c  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.19.0-2.module+el8.1.0+6118+5aaa808b  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.19.0-2.module+el8.2.0+6232+1df3dc5f  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.21.0-3.module+el8.2.0+7071+d2377ea3  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.23.1-1.module+el8.3.0+9502+012d8a97  rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:10.24.0-1.module+el8.3.0+10166+b07ac28e rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.0.4",
+        "Release": "160.el9_0",
+        "Architecture": "x86_64",
+        "Size": "45 k",
+        "Source": "ruby-3.0.4-160.el9_0.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             3.0.3-159.el9             rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64           3.0.3-159.el9             rhel-9-for-x86_64-appstream-rpms",
+        "ruby.i686             3.0.4-160.el9_0           rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64           3.0.4-160.el9_0           rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

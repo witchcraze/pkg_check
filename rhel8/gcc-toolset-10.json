@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "gcc-toolset-10",
+        "Version": "10.1",
+        "Release": "0.el8",
+        "Architecture": "x86_64",
+        "Size": "10 k",
+        "Source": "gcc-toolset-10-10.1-0.el8.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "Package that installs gcc-toolset-10",
+        "License": "GPLv2+",
+        "Description": "This is the main package for gcc-toolset-10 Software Collection."
+    },
+    "list": [
+        "gcc-toolset-10.x86_64        10.0-0.el8         rhel-8-for-x86_64-appstream-rpms",
+        "gcc-toolset-10.x86_64        10.1-0.el8         rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "rh-nodejs12-nodejs",
+        "Arch": "x86_64",
+        "Version": "12.22.12",
+        "Release": "2.el7",
+        "Size": "10 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "rh-nodejs12-nodejs.x86_64        12.10.0-4.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.14.1-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.16.1-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.18.2-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.18.4-3.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.19.1-2.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.20.1-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.21.0-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.22.2-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.22.5-1.el7          rhel-server-rhscl-7-rpms",
+        "rh-nodejs12-nodejs.x86_64        12.22.12-2.el7         rhel-server-rhscl-7-rpms"
+    ]
+}

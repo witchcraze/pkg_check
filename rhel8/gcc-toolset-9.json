@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "gcc-toolset-9",
+        "Version": "9.0",
+        "Release": "4.el8",
+        "Architecture": "x86_64",
+        "Size": "10 k",
+        "Source": "gcc-toolset-9-9.0-4.el8.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "Package that installs gcc-toolset-9",
+        "License": "GPLv2+",
+        "Description": "This is the main package for gcc-toolset-9 Software Collection."
+    },
+    "list": [
+        "gcc-toolset-9.x86_64         9.0-3.el8          rhel-8-for-x86_64-appstream-rpms",
+        "gcc-toolset-9.x86_64         9.0-4.el8          rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

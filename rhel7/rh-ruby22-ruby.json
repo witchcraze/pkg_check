@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby22-ruby",
+        "Arch": "x86_64",
+        "Version": "2.2.9",
+        "Release": "19.el7",
+        "Size": "71 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby22-ruby.x86_64           2.2.2-11.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby22-ruby.x86_64           2.2.2-12.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby22-ruby.x86_64           2.2.2-15.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby22-ruby.x86_64           2.2.2-16.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby22-ruby.x86_64           2.2.9-19.el7            rhel-server-rhscl-7-rpms"
+    ]
+}

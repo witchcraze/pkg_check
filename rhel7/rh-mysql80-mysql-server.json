@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "rh-mysql80-mysql-server",
+        "Arch": "x86_64",
+        "Version": "8.0.32",
+        "Release": "1.el7",
+        "Size": "34 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "rh-mysql80-mysql-server.x86_64       8.0.13-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.17-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.21-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.26-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.30-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.32-1.el7       rhel-server-rhscl-7-rpms"
+    ]
+}

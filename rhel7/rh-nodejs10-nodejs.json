@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "rh-nodejs10-nodejs",
+        "Arch": "x86_64",
+        "Version": "10.24.0",
+        "Release": "1.el7",
+        "Size": "8.6 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "rh-nodejs10-nodejs.x86_64         10.10.0-2.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.10.0-3.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.16.3-3.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.16.3-4.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.19.0-1.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.21.0-3.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.23.1-2.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs10-nodejs.x86_64         10.24.0-1.el7         rhel-server-rhscl-7-rpms"
+    ]
+}

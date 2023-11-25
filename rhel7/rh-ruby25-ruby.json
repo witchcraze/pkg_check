@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby25-ruby",
+        "Arch": "x86_64",
+        "Version": "2.5.9",
+        "Release": "9.el7",
+        "Size": "79 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby25-ruby.x86_64            2.5.0-5.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby25-ruby.x86_64            2.5.3-6.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby25-ruby.x86_64            2.5.5-7.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby25-ruby.x86_64            2.5.5-8.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby25-ruby.x86_64            2.5.9-9.el7            rhel-server-rhscl-7-rpms"
+    ]
+}

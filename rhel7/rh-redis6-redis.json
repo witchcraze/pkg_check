@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "rh-redis6-redis",
+        "Arch": "x86_64",
+        "Version": "6.0.16",
+        "Release": "2.el7",
+        "Size": "1.1 M",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "A persistent key-value database",
+        "URL": "http://redis.io",
+        "License": "BSD and MIT",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a"
+    },
+    "list": [
+        "rh-redis6-redis.x86_64           6.0.16-2.el7           rhel-server-rhscl-7-rpms"
+    ]
+}

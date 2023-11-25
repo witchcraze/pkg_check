@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "2.7.8",
+        "Release": "139.module+el8.8.0+18745+f1bef313",
+        "Architecture": "x86_64",
+        "Size": "89 k",
+        "Source": "ruby-2.7.8-139.module+el8.8.0+18745+f1bef313.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686   2.7.1-133.module+el8.3.0+7192+4e3a532a  rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64 2.7.1-133.module+el8.3.0+7192+4e3a532a  rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686   2.7.3-136.module+el8.4.0+10728+4c884998 rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64 2.7.3-136.module+el8.4.0+10728+4c884998 rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686   2.7.4-137.module+el8.4.0+12025+f744ca41 rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64 2.7.4-137.module+el8.4.0+12025+f744ca41 rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686   2.7.6-138.module+el8.6.0+16148+54b2ba8f rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64 2.7.6-138.module+el8.6.0+16148+54b2ba8f rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686   2.7.8-139.module+el8.8.0+18745+f1bef313 rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64 2.7.8-139.module+el8.8.0+18745+f1bef313 rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

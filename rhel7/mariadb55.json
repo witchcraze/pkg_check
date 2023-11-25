@@ -1,0 +1,16 @@
+{
+    "info": {
+        "Name": "mariadb55",
+        "Arch": "x86_64",
+        "Version": "1.1",
+        "Release": "17.el7",
+        "Size": "5.3 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "Package that installs mariadb55",
+        "License": "GPLv2+",
+        "Description": "This is the main package for mariadb55 Software Collection, which"
+    },
+    "list": [
+        "mariadb55.x86_64               1.1-17.el7               rhel-server-rhscl-7-rpms"
+    ]
+}

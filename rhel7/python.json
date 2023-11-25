@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "python",
+        "Arch": "x86_64",
+        "Version": "2.7.5",
+        "Release": "94.el7_9",
+        "Size": "79 k",
+        "Repo": "installed",
+        "From repo": "anaconda",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "http://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an interpreted, interactive, object-oriented programming"
+    },
+    "list": [
+        "python.x86_64                2.7.5-94.el7_9                   @anaconda/7.9",
+        "python.x86_64                2.7.5-16.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-18.el7_1.1                 rhel-7-server-rpms",
+        "python.x86_64                2.7.5-34.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-38.el7_2                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-39.el7_2                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-48.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-58.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-68.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-69.el7_5                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-76.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-77.el7_6                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-79.el7_6                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-80.el7_6                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-86.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-88.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-89.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-90.el7                     rhel-7-server-rpms",
+        "python.x86_64                2.7.5-92.el7_9                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-93.el7_9                   rhel-7-server-rpms",
+        "python.x86_64                2.7.5-94.el7_9                   rhel-7-server-rpms"
+    ]
+}

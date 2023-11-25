@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "mariadb-server",
+        "Epoch": "3",
+        "Version": "10.3.39",
+        "Release": "1.module+el8.8.0+19673+72b0d35f",
+        "Architecture": "x86_64",
+        "Size": "16 M",
+        "Source": "mariadb-10.3.39-1.module+el8.8.0+19673+72b0d35f.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "The MariaDB server and related files",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
+    },
+    "list": [
+        "mariadb-server.x86_64 3:10.3.11-1.module+el8+2765+cfa4f87b      rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.11-2.module+el8+2885+7b8bb354      rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.17-1.module+el8.1.0+3974+90eded84  rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.27-3.module+el8.3.0+8972+5e3224e9  rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.28-1.module+el8.3.0+10472+7adc332a rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.32-2.module+el8.5.0+14124+14ced695 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.35-1.module+el8.6.0+15949+4ba4ec26 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64 3:10.3.39-1.module+el8.8.0+19673+72b0d35f rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

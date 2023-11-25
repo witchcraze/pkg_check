@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "20.9.0",
+        "Release": "1.module+el9.3.0.z+20633+3a660725",
+        "Architecture": "x86_64",
+        "Size": "14 M",
+        "Source": "nodejs-20.9.0-1.module+el9.3.0.z+20633+3a660725.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64 1:20.8.1-1.module+el9.3.0.z+20478+84a9f781 rhel-9-for-x86_64-appstream-rpms",
+        "nodejs.x86_64 1:20.9.0-1.module+el9.3.0.z+20633+3a660725 rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

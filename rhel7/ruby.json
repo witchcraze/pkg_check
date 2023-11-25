@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Arch": "x86_64",
+        "Version": "2.0.0.648",
+        "Release": "39.el7_9",
+        "Size": "73 k",
+        "Repo": "rhel-7-server-rpms/7Server/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.x86_64                2.0.0.353-20.el7                   rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.353-22.el7_0                 rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.598-24.el7                   rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.598-25.el7_1                 rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-29.el7                   rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-30.el7                   rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-33.el7_4                 rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-34.el7_6                 rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-35.el7_6                 rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-36.el7                   rhel-7-server-rpms",
+        "ruby.x86_64                2.0.0.648-39.el7_9                 rhel-7-server-rpms"
+    ]
+}

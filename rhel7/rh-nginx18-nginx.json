@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-nginx18-nginx",
+        "Arch": "x86_64",
+        "Epoch": "1",
+        "Version": "1.8.1",
+        "Release": "1.el7.1",
+        "Size": "836 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "http://nginx.org/",
+        "License": "BSD",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP,"
+    },
+    "list": [
+        "rh-nginx18-nginx.x86_64         1:1.8.0-3.el7           rhel-server-rhscl-7-rpms",
+        "rh-nginx18-nginx.x86_64         1:1.8.0-4.el7           rhel-server-rhscl-7-rpms",
+        "rh-nginx18-nginx.x86_64         1:1.8.1-1.el7           rhel-server-rhscl-7-rpms",
+        "rh-nginx18-nginx.x86_64         1:1.8.1-1.el7.1         rhel-server-rhscl-7-rpms"
+    ]
+}

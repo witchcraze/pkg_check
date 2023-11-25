@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "6.0.8",
+        "Release": "3.module+el8.8.0+20455+bdc2c048.1",
+        "Architecture": "x86_64",
+        "Size": "980 k",
+        "Source": "varnish-6.0.8-3.module+el8.8.0+20455+bdc2c048.1.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.x86_64 6.0.2-1.module+el8+2481+4078e9d2        rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.6-2.module+el8.3.0+6843+b3b42fcc    rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.6-2.module+el8.4.0+11921+1a6539fc.1 rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.8-1.module+el8.5.0+11919+2c98a2b6   rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.8-1.module+el8.5.0+14089+03a0c2cc.1 rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.8-2.module+el8.7.0+17239+94d153bd.1 rhel-8-for-x86_64-appstream-rpms",
+        "varnish.x86_64 6.0.8-3.module+el8.8.0+20455+bdc2c048.1 rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

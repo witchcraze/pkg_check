@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "tomcat",
+        "Arch": "noarch",
+        "Version": "7.0.76",
+        "Release": "16.el7_9",
+        "Size": "93 k",
+        "Repo": "rhel-7-server-rpms/7Server/x86_64",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official"
+    },
+    "list": [
+        "tomcat.noarch                 7.0.42-4.el7                    rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.42-5.el7_0                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.42-6.el7_0                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.42-8.el7_0                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.54-1.el7                    rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.54-2.el7_1                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.54-8.el7_2                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.69-10.el7                   rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.69-11.el7_3                 rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.69-12.el7_3                 rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-2.el7                    rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-3.el7_4                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-6.el7                    rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-7.el7_5                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-8.el7_5                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-9.el7                    rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-9.el7_6                  rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-10.el7_7                 rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-11.el7_7                 rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-12.el7_8                 rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-15.el7                   rhel-7-server-rpms",
+        "tomcat.noarch                 7.0.76-16.el7_9                 rhel-7-server-rpms"
+    ]
+}

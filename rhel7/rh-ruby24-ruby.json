@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "rh-ruby24-ruby",
+        "Arch": "x86_64",
+        "Version": "2.4.6",
+        "Release": "92.el7",
+        "Size": "78 k",
+        "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "http://ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "rh-ruby24-ruby.x86_64           2.4.0-75.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby24-ruby.x86_64           2.4.2-86.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby24-ruby.x86_64           2.4.3-90.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby24-ruby.x86_64           2.4.5-91.el7            rhel-server-rhscl-7-rpms",
+        "rh-ruby24-ruby.x86_64           2.4.6-92.el7            rhel-server-rhscl-7-rpms"
+    ]
+}

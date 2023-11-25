@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.57",
+        "Release": "5.el9",
+        "Architecture": "x86_64",
+        "Size": "52 k",
+        "Source": "httpd-2.4.57-5.el9.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64         2.4.51-7.el9_0             rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.53-7.el9               rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.53-7.el9_1.1           rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.53-7.el9_1.5           rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.53-11.el9_2.4          rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.53-11.el9_2.5          rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64         2.4.57-5.el9               rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

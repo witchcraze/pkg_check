@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "redis",
+        "Version": "5.0.3",
+        "Release": "5.module+el8.4.0+12927+b9845322",
+        "Architecture": "x86_64",
+        "Size": "927 k",
+        "Source": "redis-5.0.3-5.module+el8.4.0+12927+b9845322.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "A persistent key-value database",
+        "URL": "http://redis.io",
+        "License": "BSD and MIT",
+        "Description": "Redis is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "redis.x86_64 5.0.3-1.module+el8+2566+19ca22c8       rhel-8-for-x86_64-appstream-rpms",
+        "redis.x86_64 5.0.3-2.module+el8.0.0.z+3657+acb471dc rhel-8-for-x86_64-appstream-rpms",
+        "redis.x86_64 5.0.3-5.module+el8.4.0+12927+b9845322  rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

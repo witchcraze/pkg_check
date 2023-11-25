@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.23",
+        "Release": "2.module+el8.8.0+19493+5804baf6",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-10.23-2.module+el8.8.0+19493+5804baf6.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64 10.6-1.module+el8+2469+5ecd5aae       rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.14-1.module+el8.2.0+7801+be0fed80  rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.15-1.module+el8.3.0+8944+1ca16b1f  rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.17-1.module+el8.4.0+11249+895597ab rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.17-2.module+el8.5.0+11838+8dca950a rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.19-1.module+el8.6.0+13642+78853f5a rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.21-2.module+el8.6.0+15342+53518fac rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.23-1.module+el8.7.0+17280+3a452e1f rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64 10.23-2.module+el8.8.0+19493+5804baf6 rhel-8-for-x86_64-appstream-rpms"
+    ]
+}
