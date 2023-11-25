@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "dotnet6.0",
-        "Version": "6.0.124",
-        "Release": "1.0.1.el8_8",
+        "Version": "6.0.125",
+        "Release": "1.0.2.el8_9",
         "Architecture": "src",
-        "Size": "509 M",
+        "Size": "506 M",
         "Source": "None",
         "Repository": "ol8_appstream",
         "Summary": ".NET Runtime and SDK",
@@ -40,6 +40,7 @@
         "dotnet6.0.src        6.0.121-1.0.1.el8_8                                               ol8_appstream",
         "dotnet6.0.src        6.0.122-1.0.1.el8_8                                               ol8_appstream",
         "dotnet6.0.src        6.0.123-1.0.1.el8_8                                               ol8_appstream",
-        "dotnet6.0.src        6.0.124-1.0.1.el8_8                                               ol8_appstream"
+        "dotnet6.0.src        6.0.124-1.0.1.el8_8                                               ol8_appstream",
+        "dotnet6.0.src        6.0.125-1.0.2.el8_9                                               ol8_appstream"
     ]
 }
