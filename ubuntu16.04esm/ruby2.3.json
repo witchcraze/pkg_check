@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "ruby2.3",
+        "Version": "2.3.1-2~ubuntu16.04.16+esm8",
+        "Priority": "optional",
+        "Section": "ruby",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Antonio Terceiro <terceiro@debian.org>",
+        "Installed-Size": "109 kB",
+        "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.2.5), libruby2.3 (>= 2.3.0~preview2)",
+        "Recommends": "fonts-lato, libjs-jquery",
+        "Download-Size": "41.0 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm8) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm7) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm6) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm5) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm4) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm3) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm2) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm1) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16) xenial-security; urgency=medium",
+        "ruby2.3 (2.3.1-2~ubuntu16.04.15) xenial-security; urgency=medium"
+    ]
+}

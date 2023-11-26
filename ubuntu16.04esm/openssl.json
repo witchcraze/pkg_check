@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "openssl",
+        "Version": "1.0.2g-1ubuntu4.20+esm10",
+        "Priority": "optional",
+        "Section": "utils",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
+        "Installed-Size": "957 kB",
+        "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.2g)",
+        "Suggests": "ca-certificates",
+        "Download-Size": "492 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Secure Sockets Layer toolkit - cryptographic utility"
+    },
+    "changelog": [
+        "openssl (1.0.2g-1ubuntu4.20) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.19) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.18) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.17) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.16) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.15) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.14) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.13) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.12) xenial-security; urgency=medium",
+        "openssl (1.0.2g-1ubuntu4.11) xenial-security; urgency=medium"
+    ]
+}

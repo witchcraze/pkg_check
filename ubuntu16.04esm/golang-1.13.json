@@ -1,0 +1,27 @@
+{
+    "show": {
+        "Package": "golang-1.13",
+        "Version": "1.13.8-1ubuntu1~16.04.3+esm2",
+        "Priority": "optional",
+        "Section": "devel",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Go Compiler Team <team+go-compiler@tracker.debian.org>",
+        "Installed-Size": "58.4 kB",
+        "Depends": "golang-1.13-doc (>= 1.13.8-1ubuntu1~16.04.3+esm2), golang-1.13-go (>= 1.13.8-1ubuntu1~16.04.3+esm2), golang-1.13-src (>= 1.13.8-1ubuntu1~16.04.3+esm2)",
+        "Download-Size": "11.2 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
+        "Description": "Go programming language compiler - metapackage"
+    },
+    "changelog": [
+        "golang-1.13 (1.13.8-1ubuntu1~16.04.3+esm2) xenial-security; urgency=medium",
+        "golang-1.13 (1.13.8-1ubuntu1~16.04.3) xenial; urgency=medium",
+        "golang-1.13 (1.13.8-1ubuntu1~16.04.2) xenial; urgency=medium",
+        "golang-1.13 (1.13.8-1ubuntu1~16.04.1) xenial; urgency=medium",
+        "golang-1.13 (1.13.8-1ubuntu1) focal; urgency=low",
+        "golang-1.13 (1.13.8-1) unstable; urgency=medium",
+        "golang-1.13 (1.13.7-1ubuntu1) focal; urgency=low",
+        "golang-1.13 (1.13.7-1) unstable; urgency=medium",
+        "golang-1.13 (1.13.6-2ubuntu1) focal; urgency=low",
+        "golang-1.13 (1.13.6-2) unstable; urgency=medium"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "apache2",
+        "Version": "2.4.29-1ubuntu4.27+esm1",
+        "Priority": "optional",
+        "Section": "httpd",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
+        "Installed-Size": "538 kB",
+        "Provides": "httpd, httpd-cgi",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.29-1ubuntu4.27+esm1), apache2-utils (= 2.4.29-1ubuntu4.27+esm1), apache2-data (= 2.4.29-1ubuntu4.27+esm1), perl:any",
+        "Recommends": "ssl-cert",
+        "Suggests": "www-browser, apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw",
+        "Conflicts": "apache2.2-bin, apache2.2-common",
+        "Replaces": "apache2.2-bin, apache2.2-common",
+        "Download-Size": "95.1 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "Apache HTTP Server"
+    },
+    "changelog": [
+        "apache2 (2.4.29-1ubuntu4.27+esm1) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.27) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.26) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.25) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.24) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.23) bionic; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.22) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.21) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.20) bionic; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.19) bionic; urgency=medium"
+    ]
+}

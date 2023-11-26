@@ -1,0 +1,39 @@
+{
+    "show": {
+        "Package": "ruby2.0",
+        "Priority": "extra",
+        "Section": "ruby",
+        "Installed-Size": "129 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "2.0.0.484-1ubuntu2.13+esm1",
+        "Provides": "ruby-interpreter",
+        "Depends": "libc6 (>= 2.2.5), libruby2.0 (>= 2.0.0), ruby (>= 1:1.9.3.1), rubygems-integration",
+        "Download-Size": "70.4 kB",
+        "Original-Maintainer": "Antonio Terceiro <terceiro@debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.0 (2.0.0.484-1ubuntu2.13+esm1) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.13) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.11) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.10) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.9) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.8) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.6) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.5) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.4) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.2) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2.1) trusty-security; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu2) trusty; urgency=medium",
+        "ruby2.0 (2.0.0.484-1ubuntu1) trusty; urgency=low",
+        "ruby2.0 (2.0.0.484-1) unstable; urgency=medium",
+        "ruby2.0 (2.0.0.353-1ubuntu1) trusty; urgency=medium",
+        "ruby2.0 (2.0.0.353-1build1) trusty; urgency=medium",
+        "ruby2.0 (2.0.0.353-1) unstable; urgency=low",
+        "ruby2.0 (2.0.0.343-1) unstable; urgency=low",
+        "ruby2.0 (2.0.0.299-2) unstable; urgency=low",
+        "ruby2.0 (2.0.0.299-1) unstable; urgency=low",
+        "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
+    ]
+}

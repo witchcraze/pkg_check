@@ -1,0 +1,29 @@
+{
+    "show": {
+        "Package": "tomcat6",
+        "Priority": "optional",
+        "Section": "java",
+        "Installed-Size": "372 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "6.0.39-1ubuntu0.1+esm1",
+        "Recommends": "authbind",
+        "Suggests": "tomcat6-docs (>= 6.0.39-1ubuntu0.1+esm1), tomcat6-admin (>= 6.0.39-1ubuntu0.1+esm1), tomcat6-examples (>= 6.0.39-1ubuntu0.1+esm1), tomcat6-user (>= 6.0.39-1ubuntu0.1+esm1), libtcnative-1",
+        "Depends": "tomcat6-common (>= 6.0.39-1ubuntu0.1+esm1), ucf, adduser, debconf (>= 0.5) | debconf-2.0",
+        "Download-Size": "35.3 kB",
+        "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "Servlet and JSP engine"
+    },
+    "changelog": [
+        "tomcat6 (6.0.39-1ubuntu0.1+esm1) trusty-security; urgency=medium",
+        "tomcat6 (6.0.39-1ubuntu0.1) trusty-security; urgency=medium",
+        "tomcat6 (6.0.39-1) unstable; urgency=medium",
+        "tomcat6 (6.0.37-1) unstable; urgency=low",
+        "tomcat6 (6.0.35-7) unstable; urgency=low",
+        "tomcat6 (6.0.35-6) unstable; urgency=high",
+        "tomcat6 (6.0.35-5+nmu1) unstable; urgency=high",
+        "tomcat6 (6.0.35-5) unstable; urgency=low",
+        "tomcat6 (6.0.35-4) unstable; urgency=low",
+        "tomcat6 (6.0.35-3) unstable; urgency=low"
+    ]
+}

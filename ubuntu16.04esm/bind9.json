@@ -1,0 +1,30 @@
+{
+    "show": {
+        "Package": "bind9",
+        "Version": "1:9.10.3.dfsg.P4-8ubuntu1.19+esm7",
+        "Priority": "optional",
+        "Section": "net",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "LaMont Jones <lamont@debian.org>",
+        "Installed-Size": "1674 kB",
+        "Depends": "libbind9-140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), libc6 (>= 2.14), libcap2 (>= 1:2.10), libdns162 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), libgeoip1, libirs141, libisc160 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), libisccc140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), libisccfg140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), liblwres141 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm7), net-tools",
+        "Suggests": "dnsutils, bind9-doc, resolvconf, ufw",
+        "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
+        "Replaces": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind, bind9utils (<< 1:9.9.3.dfsg.P2-3), dnsutils (<< 1:9.1.0-3)",
+        "Download-Size": "373 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Internet Domain Name Server"
+    },
+    "changelog": [
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm7) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm6) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm5) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm3) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm2) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm1) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.18) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.17) xenial-security; urgency=medium",
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.16) xenial-security; urgency=medium"
+    ]
+}

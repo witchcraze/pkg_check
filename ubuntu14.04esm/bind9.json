@@ -1,0 +1,30 @@
+{
+    "show": {
+        "Package": "bind9",
+        "Priority": "optional",
+        "Section": "net",
+        "Installed-Size": "980 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "1:9.9.5.dfsg-3ubuntu0.19+esm11",
+        "Replaces": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind, bind9utils (<< 1:9.9.3.dfsg.P2-3), dnsutils (<< 1:9.1.0-3)",
+        "Suggests": "dnsutils, bind9-doc, resolvconf, ufw",
+        "Depends": "libbind9-90 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), libc6 (>= 2.14), libcap2 (>= 2.10), libdns100 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), libisc95 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), libisccc90 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), libisccfg90 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), liblwres90 (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.13~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.9.5.dfsg-3ubuntu0.19+esm11), net-tools",
+        "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
+        "Download-Size": "288 kB",
+        "Original-Maintainer": "LaMont Jones <lamont@debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "Internet Domain Name Server"
+    },
+    "changelog": [
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm11) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm10) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm9) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm7) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm6) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm5) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm4) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm3) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm2) trusty-security; urgency=medium",
+        "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm1) trusty-security; urgency=medium"
+    ]
+}

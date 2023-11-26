@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "openssl",
+        "Priority": "optional",
+        "Section": "utils",
+        "Installed-Size": "929 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "1.0.1f-1ubuntu2.27+esm9",
+        "Suggests": "ca-certificates",
+        "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.1)",
+        "Download-Size": "489 kB",
+        "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "Secure Sockets Layer toolkit - cryptographic utility"
+    },
+    "changelog": [
+        "openssl (1.0.1f-1ubuntu2.27) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.26) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.25) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.24) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.23) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.22) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.21) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.20) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.19) trusty-security; urgency=medium",
+        "openssl (1.0.1f-1ubuntu2.18) trusty-security; urgency=medium"
+    ]
+}

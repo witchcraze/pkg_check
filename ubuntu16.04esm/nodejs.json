@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "nodejs",
+        "Version": "4.2.6~dfsg-1ubuntu4.2+esm2",
+        "Priority": "optional",
+        "Section": "web",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
+        "Installed-Size": "13.2 MB",
+        "Provides": "nodejs-abi-46",
+        "Depends": "libc6 (>= 2.15), libgcc1 (>= 1:3.4), libicu55 (>= 55.1-1~), libssl1.0.0 (>= 1.0.2~beta3), libstdc++6 (>= 5.2), libuv1 (>= 1.6.1), zlib1g (>= 1:1.1.4)",
+        "Download-Size": "3163 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
+        "Description": "evented I/O for V8 javascript"
+    },
+    "changelog": [
+        "nodejs (4.2.6~dfsg-1ubuntu4.2+esm2) xenial-security; urgency=medium",
+        "nodejs (4.2.6~dfsg-1ubuntu4.2+esm1) xenial-security; urgency=medium",
+        "nodejs (4.2.6~dfsg-1ubuntu4.2) xenial-security; urgency=medium",
+        "nodejs (4.2.6~dfsg-1ubuntu4.1) xenial; urgency=medium",
+        "nodejs (4.2.6~dfsg-1ubuntu4) xenial; urgency=medium",
+        "nodejs (4.2.6~dfsg-1ubuntu1) xenial; urgency=medium",
+        "nodejs (4.2.6~dfsg-1) unstable; urgency=medium",
+        "nodejs (4.2.5~dfsg-1) unstable; urgency=medium",
+        "nodejs (4.2.4~dfsg-2) unstable; urgency=medium",
+        "nodejs (4.2.4~dfsg-1) unstable; urgency=medium"
+    ]
+}

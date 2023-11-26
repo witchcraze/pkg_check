@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "apache2",
+        "Version": "2.4.18-2ubuntu3.17+esm11",
+        "Priority": "optional",
+        "Section": "httpd",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
+        "Installed-Size": "512 kB",
+        "Provides": "httpd, httpd-cgi",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.18-2ubuntu3.17+esm11), apache2-utils (>= 2.4), apache2-data (= 2.4.18-2ubuntu3.17+esm11)",
+        "Recommends": "ssl-cert",
+        "Suggests": "www-browser, apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw",
+        "Conflicts": "apache2.2-bin, apache2.2-common",
+        "Replaces": "apache2.2-bin, apache2.2-common",
+        "Download-Size": "86.6 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Apache HTTP Server"
+    },
+    "changelog": [
+        "apache2 (2.4.18-2ubuntu3.17+esm11) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm10) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm9) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm8) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm7) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm6) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm5) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm4) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm3) xenial-security; urgency=medium",
+        "apache2 (2.4.18-2ubuntu3.17+esm2) xenial-security; urgency=medium"
+    ]
+}

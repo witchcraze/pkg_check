@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "python3.5",
+        "Version": "3.5.2-2ubuntu0~16.04.13+esm12",
+        "Priority": "optional",
+        "Section": "python",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Installed-Size": "312 kB",
+        "Depends": "python3.5-minimal (= 3.5.2-2ubuntu0~16.04.13+esm12), libpython3.5-stdlib (= 3.5.2-2ubuntu0~16.04.13+esm12), mime-support",
+        "Suggests": "python3.5-venv, python3.5-doc, binutils",
+        "Download-Size": "165 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 3.5)"
+    },
+    "changelog": [
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm12) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm11) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm10) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm9) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm8) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm7) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm6) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm5) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm3) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm2) xenial-security; urgency=medium"
+    ]
+}

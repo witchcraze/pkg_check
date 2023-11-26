@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "python3.4",
+        "Priority": "optional",
+        "Section": "python",
+        "Installed-Size": "356 kB",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "3.4.3-1ubuntu1~14.04.7+esm13",
+        "Suggests": "python3.4-venv, python3.4-doc, binutils",
+        "Depends": "python3.4-minimal (= 3.4.3-1ubuntu1~14.04.7+esm13), libpython3.4-stdlib (= 3.4.3-1ubuntu1~14.04.7+esm13), mime-support",
+        "Download-Size": "177 kB",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 3.4)"
+    },
+    "changelog": [
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm13) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm12) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm11) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm10) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm8) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm7) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm6) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm4) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7+esm2) trusty-security; urgency=medium",
+        "python3.4 (3.4.3-1ubuntu1~14.04.7) trusty-security; urgency=medium"
+    ]
+}

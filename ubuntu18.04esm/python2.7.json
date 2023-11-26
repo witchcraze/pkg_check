@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "python2.7",
+        "Version": "2.7.17-1~18.04ubuntu1.13+esm4",
+        "Priority": "optional",
+        "Section": "python",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Installed-Size": "393 kB",
+        "Depends": "python2.7-minimal (= 2.7.17-1~18.04ubuntu1.13+esm4), libpython2.7-stdlib (= 2.7.17-1~18.04ubuntu1.13+esm4), mime-support",
+        "Suggests": "python2.7-doc, binutils",
+        "Conflicts": "python-profiler (<= 2.7.1-2)",
+        "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
+        "Replaces": "python-profiler (<= 2.7.1-2), python2.7-minimal (<< 2.7.3-7~)",
+        "Download-Size": "248 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 2.7)"
+    },
+    "changelog": [
+        "python2.7 (2.7.17-1~18.04ubuntu1.13+esm4) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.13+esm3) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.13+esm2) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.13+esm1) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.13) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.11) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.10) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.8) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.7) bionic-security; urgency=medium",
+        "python2.7 (2.7.17-1~18.04ubuntu1.6) bionic-security; urgency=medium"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "show": {
+        "Package": "gcc-5",
+        "Version": "5.4.0-6ubuntu1~16.04.12+esm2",
+        "Priority": "optional",
+        "Section": "devel",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
+        "Installed-Size": "24.2 MB",
+        "Provides": "c-compiler",
+        "Depends": "cpp-5 (= 5.4.0-6ubuntu1~16.04.12+esm2), gcc-5-base (= 5.4.0-6ubuntu1~16.04.12+esm2), libcc1-0 (>= 5.4.0-6ubuntu1~16.04.12+esm2), binutils (>= 2.26.1), libgcc-5-dev (= 5.4.0-6ubuntu1~16.04.12+esm2), libc6 (>= 2.15), libgcc1 (>= 1:3.0), libgmp10 (>= 2:5.0.1~), libisl15 (>= 0.15), libmpc3, libmpfr4 (>= 3.1.3), libstdc++6 (>= 4.1.1), zlib1g (>= 1:1.1.4)",
+        "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
+        "Suggests": "gcc-5-multilib, gcc-5-doc (>= 5.2.1-23), gcc-5-locales (>= 5.2.1-23), libgcc1-dbg (>= 1:5.4.0-6ubuntu1~16.04.12+esm2), libgomp1-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libitm1-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libatomic1-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libasan2-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), liblsan0-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libtsan0-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libubsan0-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libcilkrts5-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libmpx0-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2), libquadmath0-dbg (>= 5.4.0-6ubuntu1~16.04.12+esm2)",
+        "Replaces": "gcc-5-base (<< 5-20150329-1), gcc-5-plugin-dev (<< 5-20150321-1), gccgo-5 (<< 5.4.0-6ubuntu1~16.04.12+esm2)",
+        "Download-Size": "8633 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "GNU C compiler"
+    },
+    "changelog": [
+        "gcc-5 (5.4.0-6ubuntu1~16.04.12+esm2) xenial-security; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.12) xenial; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.11) xenial; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.10) xenial-security; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.9) xenial-security; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.8) xenial-security; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.6) xenial; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.5) xenial-proposed; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.4) xenial-security; urgency=medium",
+        "gcc-5 (5.4.0-6ubuntu1~16.04.2) xenial-security; urgency=medium"
+    ]
+}

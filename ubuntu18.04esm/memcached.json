@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "memcached",
+        "Version": "1.5.6-0ubuntu1.2+esm1",
+        "Priority": "optional",
+        "Section": "web",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Guillaume Delacour <gui@iroqwa.org>",
+        "Installed-Size": "293 kB",
+        "Depends": "libc6 (>= 2.17), libevent-2.1-6 (>= 2.1.8-stable), libsasl2-2, perl, lsb-base (>= 3.2-13), adduser",
+        "Suggests": "libcache-memcached-perl, libmemcached, libanyevent-perl, libyaml-perl, libterm-readkey-perl",
+        "Download-Size": "109 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "high-performance memory object caching system"
+    },
+    "changelog": [
+        "memcached (1.5.6-0ubuntu1.2+esm1) bionic-security; urgency=medium",
+        "memcached (1.5.6-0ubuntu1.2) bionic-security; urgency=medium",
+        "memcached (1.5.6-0ubuntu1.1) bionic-security; urgency=medium",
+        "memcached (1.5.6-0ubuntu1) bionic; urgency=medium",
+        "memcached (1.5.4-1ubuntu3) bionic; urgency=medium",
+        "memcached (1.5.4-1ubuntu2) bionic; urgency=medium",
+        "memcached (1.5.4-1ubuntu1) bionic; urgency=low",
+        "memcached (1.5.4-1) unstable; urgency=medium",
+        "memcached (1.5.1-1) unstable; urgency=medium",
+        "memcached (1.5.0-1) unstable; urgency=medium"
+    ]
+}

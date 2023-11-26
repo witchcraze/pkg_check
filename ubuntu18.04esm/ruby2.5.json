@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "ruby2.5",
+        "Version": "2.5.1-1ubuntu1.16+esm1",
+        "Priority": "optional",
+        "Section": "ruby",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
+        "Installed-Size": "133 kB",
+        "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.2.5), libruby2.5 (>= 2.5.0~preview1)",
+        "Recommends": "fonts-lato, libjs-jquery",
+        "Download-Size": "48.6 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "Interpreter of object-oriented scripting language Ruby"
+    },
+    "changelog": [
+        "ruby2.5 (2.5.1-1ubuntu1.16+esm1) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.16) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.15) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.14) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.13) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.12) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.11) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.10) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.9) bionic-security; urgency=medium",
+        "ruby2.5 (2.5.1-1ubuntu1.8) bionic-security; urgency=medium"
+    ]
+}

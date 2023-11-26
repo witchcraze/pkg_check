@@ -1,0 +1,28 @@
+{
+    "show": {
+        "Package": "openssl",
+        "Version": "1.1.1-1ubuntu2.1~18.04.23+esm3",
+        "Priority": "optional",
+        "Section": "utils",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
+        "Installed-Size": "1251 kB",
+        "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
+        "Suggests": "ca-certificates",
+        "Download-Size": "614 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "Secure Sockets Layer toolkit - cryptographic utility"
+    },
+    "changelog": [
+        "openssl (1.1.1-1ubuntu2.1~18.04.23) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.22) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.21) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.20) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.19) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.18) bionic; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.17) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.15) bionic-security; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.14) bionic; urgency=medium",
+        "openssl (1.1.1-1ubuntu2.1~18.04.13) bionic-security; urgency=medium"
+    ]
+}

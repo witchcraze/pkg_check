@@ -1,0 +1,29 @@
+{
+    "show": {
+        "Package": "python3.8",
+        "Version": "3.8.0-3ubuntu1~18.04.2+esm1",
+        "Priority": "optional",
+        "Section": "python",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Installed-Size": "488 kB",
+        "Depends": "python3.8-minimal (= 3.8.0-3ubuntu1~18.04.2+esm1), libpython3.8-stdlib (= 3.8.0-3ubuntu1~18.04.2+esm1), mime-support",
+        "Suggests": "python3.8-venv, python3.8-doc, binutils",
+        "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
+        "Download-Size": "355 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 3.8)"
+    },
+    "changelog": [
+        "python3.8 (3.8.0-3ubuntu1~18.04.2+esm1) bionic-security; urgency=medium",
+        "python3.8 (3.8.0-3ubuntu1~18.04.2) bionic-security; urgency=medium",
+        "python3.8 (3.8.0-3~18.04.1) bionic-security; urgency=medium",
+        "python3.8 (3.8.0-3~18.04) bionic-proposed; urgency=medium",
+        "python3.8 (3.8.0-3) unstable; urgency=medium",
+        "python3.8 (3.8.0-2) unstable; urgency=medium",
+        "python3.8 (3.8.0-1) unstable; urgency=medium",
+        "python3.8 (3.8.0~rc1-3) unstable; urgency=medium",
+        "python3.8 (3.8.0~rc1-2) unstable; urgency=medium",
+        "python3.8 (3.8.0~b4-1) unstable; urgency=medium"
+    ]
+}
