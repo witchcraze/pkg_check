@@ -14,5 +14,12 @@
     },
     "list": [
         "postgresql.x86_64      15beta2-1.module_f35+14724+2ee7a044       updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-15.1-1.module_f35+15747+790ecb86",
+        "postgresql-15.1-1.module_f35+15753+a0f6e288",
+        "postgresql-15beta2-1.module_f35+14724+2ee7a044",
+        "postgresql-15beta2-1.module_f35+14699+7cba3fcb",
+        "postgresql-15beta2-1.module_f35+14690+a1ffb61b"
     ]
 }

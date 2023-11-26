@@ -15,5 +15,11 @@
     "list": [
         "varnish.i686                          7.3.0-4.fc39                        fedora",
         "varnish.x86_64                        7.3.0-4.fc39                        fedora"
+    ],
+    "kojiPackages": [
+        "varnish-7.3.0-4.fc39",
+        "varnish-7.3.0-2.fc39",
+        "varnish-7.3.0-1.fc39",
+        "varnish-6.0.11-1.module_f39+16117+8adad8d8"
     ]
 }

@@ -17,5 +17,19 @@
         "python35.x86_64                      3.5.9-1.fc32                        fedora",
         "python35.i686                        3.5.10-5.fc32                       updates",
         "python35.x86_64                      3.5.10-5.fc32                       updates"
+    ],
+    "kojiPackages": [
+        "python35-3.5.10-5.fc32",
+        "python35-3.5.10-1.fc32",
+        "python35-3.5.10~rc1-1.fc32",
+        "python35-3.5.9-9.fc32",
+        "python35-3.5.9-7.fc32",
+        "python35-3.5.9-3.fc32",
+        "python35-3.5.9-2.fc32",
+        "python35-3.5.9-1.fc32",
+        "python35-3.5.8-2.fc32",
+        "python35-3.5.8-1.fc32",
+        "python35-3.5.8~rc2-1.fc32",
+        "python35-3.5.8~rc1-1.fc32"
     ]
 }

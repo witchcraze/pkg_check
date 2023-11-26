@@ -15,5 +15,24 @@
     "list": [
         "httpd.x86_64                       2.4.46-10.fc34                        fedora",
         "httpd.x86_64                       2.4.53-1.fc34                         updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.53-1.fc34",
+        "httpd-2.4.51-1.fc34",
+        "httpd-2.4.50-1.fc34",
+        "httpd-2.4.49-1.fc34",
+        "httpd-2.4.43-7.module_f34+12446+1d210621",
+        "httpd-2.4.48-1.fc34",
+        "httpd-2.4.46-10.fc34",
+        "httpd-2.4.46-9.fc34",
+        "httpd-2.4.46-8.fc34",
+        "httpd-2.4.46-6.fc34",
+        "httpd-2.4.46-5.fc34",
+        "httpd-2.4.46-4.fc34",
+        "httpd-2.4.46-3.fc34",
+        "httpd-2.4.46-2.fc34",
+        "httpd-2.4.46-1.fc34",
+        "httpd-2.4.43-6.fc34",
+        "httpd-2.4.43-7.module_f34+9746+059adc59"
     ]
 }

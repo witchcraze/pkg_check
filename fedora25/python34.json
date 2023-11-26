@@ -15,5 +15,9 @@
     "list": [
         "python34.i686                         3.4.5-2.fc25                        fedora",
         "python34.x86_64                       3.4.5-2.fc25                        fedora"
+    ],
+    "kojiPackages": [
+        "python34-3.4.5-2.fc25",
+        "python34-3.4.5-1.fc25"
     ]
 }

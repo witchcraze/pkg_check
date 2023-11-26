@@ -17,5 +17,27 @@
         "ruby.x86_64                        2.4.1-79.fc26                         fedora",
         "ruby.i686                          2.4.4-88.fc26                         updates",
         "ruby.x86_64                        2.4.4-88.fc26                         updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.4.4-89.fc26",
+        "ruby-2.4.4-88.fc26",
+        "ruby-2.4.4-87.fc26",
+        "ruby-2.4.3-87.fc26",
+        "ruby-2.4.3-86.fc26",
+        "ruby-2.4.2-84.fc26",
+        "ruby-2.4.1-79.fc26",
+        "ruby-2.4.0-78.fc26",
+        "ruby-2.4.0-77.fc26",
+        "ruby-2.4.0-76.fc26",
+        "ruby-2.4.0-75.fc26",
+        "ruby-2.4.0-74.fc26",
+        "ruby-2.4.0-73.fc26",
+        "ruby-2.4.0-72.fc26",
+        "ruby-2.4.0-71.fc26",
+        "ruby-2.4.0-70.fc26",
+        "ruby-2.3.3-61.fc26",
+        "ruby-2.3.2-60.fc26",
+        "ruby-2.3.1-59.fc26",
+        "ruby-2.3.1-58.fc26"
     ]
 }

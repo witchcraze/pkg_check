@@ -19,5 +19,14 @@
         "python3.x86_64                       3.9.0-1.fc33                       fedora",
         "python3.i686                         3.9.9-2.fc33                       updates",
         "python3.x86_64                       3.9.9-2.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "python3-3.8.3-1.fc33",
+        "python3-3.8.3~rc1-1.fc33",
+        "python3-3.8.2-2.fc33",
+        "python3-3.8.2-1.fc33",
+        "python3-3.8.2~rc2-2.fc33",
+        "python3-3.8.2~rc2-1.fc33",
+        "python3-3.8.2~rc1-1.fc33"
     ]
 }

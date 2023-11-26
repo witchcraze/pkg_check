@@ -15,5 +15,26 @@
     "list": [
         "httpd.x86_64                        2.4.51-2.fc35                        fedora",
         "httpd.x86_64                        2.4.54-1.fc35                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.54-1.fc35",
+        "httpd-2.4.53-1.fc35",
+        "httpd-2.4.43-7.module_f35+13680+08e124b1",
+        "httpd-2.4.52-1.fc35",
+        "httpd-2.4.51-2.fc35",
+        "httpd-2.4.51-1.fc35",
+        "httpd-2.4.50-1.fc35",
+        "httpd-2.4.49-1.fc35",
+        "httpd-2.4.48-6.fc35",
+        "httpd-2.4.48-5.fc35",
+        "httpd-2.4.48-4.fc35",
+        "httpd-2.4.48-3.fc35",
+        "httpd-2.4.48-2.fc35",
+        "httpd-2.4.48-1.fc35",
+        "httpd-2.4.46-13.fc35",
+        "httpd-2.4.46-12.fc35",
+        "httpd-2.4.46-11.fc35",
+        "httpd-2.4.46-10.fc35",
+        "httpd-2.4.46-9.fc35"
     ]
 }

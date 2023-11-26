@@ -16,5 +16,20 @@
     "list": [
         "nginx.x86_64                      1:1.12.1-14.fc29                       fedora",
         "nginx.x86_64                      1:1.16.1-1.fc29                        updates"
+    ],
+    "kojiPackages": [
+        "nginx-1.16.1-1.fc29",
+        "nginx-1.14.2-2.fc29",
+        "nginx-1.14.2-1.fc29",
+        "nginx-1.14.1-2.fc29",
+        "nginx-1.14.1-1.fc29",
+        "nginx-1.12.1-14.fc29",
+        "nginx-1.12.1-13.fc29",
+        "nginx-1.12.1-12.fc29",
+        "nginx-1.12.1-11.fc29",
+        "nginx-1.12.1-10.fc29",
+        "nginx-1.12.1-9.fc29",
+        "nginx-1.12.1-8.fc29",
+        "nginx-1.12.1-7.fc29"
     ]
 }

@@ -16,5 +16,23 @@
         "httpd.x86_64                        2.4.54-5.fc37                        fedora",
         "httpd.i686                          2.4.58-1.fc37                        updates",
         "httpd.x86_64                        2.4.58-1.fc37                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.58-1.fc37",
+        "httpd-2.4.57-1.fc37",
+        "httpd-2.4.56-1.fc37",
+        "httpd-2.4.55-1.fc37",
+        "httpd-2.4.54-5.fc37",
+        "httpd-2.4.54-4.fc37",
+        "httpd-2.4.54-3.fc37",
+        "httpd-2.4.54-2.fc37",
+        "httpd-2.4.54-1.fc37",
+        "httpd-2.4.53-7.fc37",
+        "httpd-2.4.53-6.fc37",
+        "httpd-2.4.53-5.fc37",
+        "httpd-2.4.53-4.fc37",
+        "httpd-2.4.53-3.fc37",
+        "httpd-2.4.53-2.fc37",
+        "httpd-2.4.53-1.fc37"
     ]
 }

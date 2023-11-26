@@ -15,5 +15,24 @@
     "list": [
         "golang.x86_64                        1.7.3-1.fc25                        fedora",
         "golang.x86_64                        1.7.6-3.fc25                        updates"
+    ],
+    "kojiPackages": [
+        "golang-1.7.6-3.fc25",
+        "golang-1.7.6-2.fc25",
+        "golang-1.7.6-1.fc25",
+        "golang-1.7.5-2.fc25",
+        "golang-1.7.5-1.fc25",
+        "golang-1.7.4-2.fc25",
+        "golang-1.7.4-1.fc25",
+        "golang-1.7.3-2.fc25",
+        "golang-1.7.3-1.fc25",
+        "golang-1.7.1-2.fc25",
+        "golang-1.7.1-1.fc25",
+        "golang-1.7-1.fc25",
+        "golang-1.7-0.2.rc5.fc25",
+        "golang-1.7-0.1.rc2.fc25",
+        "golang-1.7-0.0.rc2.fc25",
+        "golang-1.6.2-1.fc25",
+        "golang-1.6.1-1.fc25"
     ]
 }

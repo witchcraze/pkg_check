@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "8.0.24",
+        "Release": "1.module_f32+11956+0f74d563",
+        "Architecture": "x86_64",
+        "Size": "2.6 M",
+        "Source": "community-mysql-8.0.24-1.module_f32+11956+0f74d563.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "community-mysql.x86_64    8.0.19-2.module_f32+7802+ea3258be      fedora-modular",
+        "community-mysql.x86_64    8.0.24-1.module_f32+11956+0f74d563     updates-modular"
+    ],
+    "kojiPackages": [
+        "community-mysql-8.0.24-1.module_f32+11956+0f74d563",
+        "community-mysql-8.0.22-1.module_f32+11176+5af50a1d",
+        "community-mysql-8.0.22-1.module_f32+10503+39f98c83",
+        "community-mysql-8.0.21-11.module_f32+10055+49759a1b",
+        "community-mysql-8.0.21-1.module_f32+9646+8f8f33f2",
+        "community-mysql-8.0.21-1.module_f32+9527+7b8f8383",
+        "community-mysql-8.0.21-1.module_f32+9233+6dee5ef1",
+        "community-mysql-8.0.20-1.module_f32+8811+025e8a6d",
+        "community-mysql-8.0.19-2.module_f32+7802+ea3258be",
+        "community-mysql-8.0.18-6.module_f32+7378+6faafa4a",
+        "community-mysql-8.0.18-4.module_f32+7127+85f7e799",
+        "community-mysql-8.0.18-2.module_f32+6961+a2efe77a",
+        "community-mysql-8.0.17-2.module_f32+6049+5214e77e"
+    ]
+}

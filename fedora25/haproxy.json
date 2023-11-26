@@ -15,5 +15,18 @@
     "list": [
         "haproxy.x86_64                       1.6.9-1.fc25                        fedora",
         "haproxy.x86_64                       1.6.13-1.fc25                       updates"
+    ],
+    "kojiPackages": [
+        "haproxy-1.6.13-1.fc25",
+        "haproxy-1.6.11-2.fc25",
+        "haproxy-1.6.11-1.fc25",
+        "haproxy-1.6.10-1.fc25",
+        "haproxy-1.6.9-1.fc25",
+        "haproxy-1.6.7-2.fc25",
+        "haproxy-1.6.6-2.fc25",
+        "haproxy-1.6.6-1.fc25",
+        "haproxy-1.6.5-3.fc25",
+        "haproxy-1.6.5-2.fc25",
+        "haproxy-1.6.5-1.fc25"
     ]
 }

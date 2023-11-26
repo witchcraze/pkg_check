@@ -17,5 +17,25 @@
         "python2.x86_64                      2.7.14-15.fc28                       fedora",
         "python2.i686                        2.7.15-4.fc28                        updates",
         "python2.x86_64                      2.7.15-4.fc28                        updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.15-4.fc28",
+        "python2-2.7.15-3.fc28",
+        "python2-2.7.15-2.fc28",
+        "python2-2.7.15-1.fc28",
+        "python2-2.7.14-15.fc28",
+        "python2-2.7.14-14.fc28",
+        "python2-2.7.14-13.fc28",
+        "python2-2.7.14-12.fc28",
+        "python2-2.7.14-11.fc28",
+        "python2-2.7.14-10.fc28",
+        "python2-2.7.14-9.fc28",
+        "python2-2.7.14-8.fc28",
+        "python2-2.7.14-7.fc28",
+        "python2-2.7.14-5.fc28",
+        "python2-2.7.14-4.fc28",
+        "python2-2.7.14-2.fc28",
+        "python2-2.7.14-1.fc28",
+        "python2-2.7.13-18.fc28"
     ]
 }

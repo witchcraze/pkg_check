@@ -16,5 +16,11 @@
         "ruby.i686           3.1.1-162.module_f37+14147+6df1d2ac          fedora-modular",
         "ruby.x86_64         3.1.1-162.module_f37+14147+6df1d2ac          fedora-modular",
         "ruby.x86_64         3.1.1-162.module_f37+14147+6df1d2ac          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-3.1.2-169.module_f37+15390+fb26f2c0",
+        "ruby-3.1.2-168.module_f37+15249+bfb7b10c",
+        "ruby-3.1.2-167.module_f37+15061+3a8c70f4",
+        "ruby-3.1.1-162.module_f37+14147+6df1d2ac"
     ]
 }

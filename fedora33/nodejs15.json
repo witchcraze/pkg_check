@@ -15,5 +15,13 @@
     },
     "list": [
         "nodejs.x86_64       1:15.11.0-1.module_f33+11586+5818f6e1        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-15.11.0-1.module_f33+11586+5818f6e1",
+        "nodejs-15.10.0-1.module_f33+11476+3819dc00",
+        "nodejs-15.7.0-1.module_f33+11105+4cd0267e",
+        "nodejs-15.6.0-2.module_f33+11024+7a30d295",
+        "nodejs-15.6.0-2.module_f33+11018+9d7f7666",
+        "nodejs-15.6.0-1.module_f33+10991+bbc1fca4"
     ]
 }

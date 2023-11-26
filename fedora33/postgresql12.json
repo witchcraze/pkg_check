@@ -14,5 +14,16 @@
     },
     "list": [
         "postgresql.x86_64        12.8-1.module_f33+12653+1da3be1e        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-12.8-2.module_f33+13248+d3202824",
+        "postgresql-12.8-1.module_f33+12653+1da3be1e",
+        "postgresql-12.5-1.module_f33+11059+bbf3cd3e",
+        "postgresql-12.5-1.module_f33+11053+1dcac0a6",
+        "postgresql-12.5-1.module_f33+10966+6ea363b9",
+        "postgresql-12.5-1.module_f33+10961+83d9f495",
+        "postgresql-12.2-1.module_f33+8073+064bda32",
+        "postgresql-12.2-1.module_f33+8066+056189ac",
+        "postgresql-12.1-2.module_f33+7945+f7890385"
     ]
 }

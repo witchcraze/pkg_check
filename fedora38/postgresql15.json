@@ -15,5 +15,10 @@
     "list": [
         "postgresql.x86_64        15.1-1.module_f38+15754+c8811bf5        fedora-modular",
         "postgresql.x86_64        15.1-1.module_f38+15754+c8811bf5        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-15.1-1.module_f38+15754+c8811bf5",
+        "postgresql-15.1-1.module_f38+15749+a6401fd0",
+        "postgresql-15beta2-1.module_f38+15074+91bb6263"
     ]
 }

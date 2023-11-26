@@ -17,5 +17,22 @@
         "python3.6.x86_64                      3.6.12-2.fc33                      fedora",
         "python3.6.i686                        3.6.15-1.fc33                      updates",
         "python3.6.x86_64                      3.6.15-1.fc33                      updates"
+    ],
+    "kojiPackages": [
+        "python3.6-3.6.15-1.fc33",
+        "python3.6-3.6.14-1.fc33",
+        "python3.6-3.6.13-2.fc33",
+        "python3.6-3.6.13-1.fc33",
+        "python3.6-3.6.12-2.fc33",
+        "python3.6-3.6.12-1.fc33",
+        "python3.6-3.6.11-5.fc33",
+        "python3.6-3.6.11-4.fc33",
+        "python3.6-3.6.11-3.fc33",
+        "python3.6-3.6.11-2.fc33",
+        "python3.6-3.6.11-1.fc33",
+        "python3.6-3.6.11~rc1-2.fc33",
+        "python3.6-3.6.11~rc1-1.fc33",
+        "python3.6-3.6.10-5.fc33",
+        "python3.6-3.6.10-4.fc33"
     ]
 }

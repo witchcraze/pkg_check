@@ -15,5 +15,9 @@
     "list": [
         "python3.13.i686                      3.13.0~a1-1.fc37                    updates",
         "python3.13.x86_64                    3.13.0~a1-1.fc37                    updates"
+    ],
+    "kojiPackages": [
+        "python3.13-3.13.0~a2-1.fc37",
+        "python3.13-3.13.0~a1-1.fc37"
     ]
 }

@@ -15,5 +15,30 @@
     "list": [
         "httpd.x86_64                       2.4.33-2.fc28                         fedora",
         "httpd.x86_64                       2.4.39-1.1.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.39-1.1.fc28",
+        "httpd-2.4.39-1.fc28",
+        "httpd-2.4.34-4.fc28",
+        "httpd-2.4.34-3.fc28",
+        "httpd-2.4.34-1.fc28",
+        "httpd-2.4.33-8.fc28",
+        "httpd-2.4.33-5.fc28",
+        "httpd-2.4.33-2.fc28",
+        "httpd-2.4.33-1.fc28",
+        "httpd-2.4.29-5.fc28",
+        "httpd-2.4.29-4.fc28",
+        "httpd-2.4.29-3.fc28",
+        "httpd-2.4.29-2.fc28",
+        "httpd-2.4.29-1.fc28",
+        "httpd-2.4.28-3.fc28",
+        "httpd-2.4.28-1.fc28",
+        "httpd-2.4.27-14.fc28",
+        "httpd-2.4.27-12.fc28",
+        "httpd-2.4.27-11.fc28",
+        "httpd-2.4.27-10.fc28",
+        "httpd-2.4.27-9.fc28",
+        "httpd-2.4.27-8.fc28",
+        "httpd-2.4.27-7.fc28"
     ]
 }

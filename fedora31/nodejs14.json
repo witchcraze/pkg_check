@@ -15,5 +15,22 @@
     },
     "list": [
         "nodejs.x86_64       1:14.14.0-2.module_f31+10428+32fdbe2a        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-14.14.0-2.module_f31+10428+32fdbe2a",
+        "nodejs-14.14.0-1.module_f31+10414+a9bffd47",
+        "nodejs-14.13.1-1.module_f31+10324+ad785758",
+        "nodejs-14.13.0-1.module_f31+10228+b924412e",
+        "nodejs-14.11.0-1.module_f31+10182+c3e05648",
+        "nodejs-14.10.0-1.module_f31+10146+f2b7d880",
+        "nodejs-14.10.0-1.module_f31+10103+b4444422",
+        "nodejs-14.10.0-1.module_f31+10098+509ca18e",
+        "nodejs-14.7.0-1.module_f31+9660+8b9905e0",
+        "nodejs-14.7.0-1.module_f31+9319+168b45e3",
+        "nodejs-14.4.0-1.module_f31+9032+050b9952",
+        "nodejs-14.3.0-1.module_f31+8958+5dc45193",
+        "nodejs-14.2.0-1.module_f31+8849+5d3798f6",
+        "nodejs-14.1.0-1.module_f31+8794+c373d30e",
+        "nodejs-14.0.0-2.module_f31+8724+50f438fb"
     ]
 }

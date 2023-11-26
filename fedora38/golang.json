@@ -15,5 +15,24 @@
     "list": [
         "golang.x86_64                       1.20.2-1.fc38                        fedora",
         "golang.x86_64                       1.20.11-1.fc38                       updates"
+    ],
+    "kojiPackages": [
+        "golang-1.20.11-1.fc38",
+        "golang-1.20.10-2.fc38",
+        "golang-1.20.8-1.fc38",
+        "golang-1.20.7-1.fc38",
+        "golang-1.20.6-1.fc38",
+        "golang-1.20.5-1.fc38",
+        "golang-1.20.4-1.fc38",
+        "golang-1.20.3-1.fc38",
+        "golang-1.20.2-1.fc38",
+        "golang-1.20.1-1.fc38",
+        "golang-1.20-1.fc38",
+        "golang-1.20~rc3-3.fc38",
+        "golang-1.20~rc3-2.fc38",
+        "golang-1.19.4-1.fc38",
+        "golang-1.19.3-2.fc38",
+        "golang-1.19.2-1.fc38",
+        "golang-1.19.1-1.fc38"
     ]
 }

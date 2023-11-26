@@ -15,5 +15,12 @@
     },
     "list": [
         "nginx.x86_64        1:1.20.1-6.module_f34+12930+8caa27e4         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.20.2-1.module_f34+14068+03068a31",
+        "nginx-1.20.2-1.module_f34+13579+14703592",
+        "nginx-1.20.1-6.module_f34+12930+8caa27e4",
+        "nginx-1.20.1-1.module_f34+12122+ccb12d9b",
+        "nginx-1.20.0-2.module_f34+11914+c3e8d9b3"
     ]
 }

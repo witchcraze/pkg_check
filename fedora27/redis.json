@@ -15,5 +15,21 @@
     "list": [
         "redis.x86_64                        3.2.11-1.fc27                        fedora",
         "redis.x86_64                        4.0.10-1.fc27                        updates"
+    ],
+    "kojiPackages": [
+        "redis-4.0.11-1.fc27",
+        "redis-4.0.10-1.fc27",
+        "redis-4.0.9-1.fc27",
+        "redis-4.0.8-1.fc27",
+        "redis-4.0.7-1.fc27",
+        "redis-4.0.6-1.fc27",
+        "redis-4.0.5-1.fc27",
+        "redis-4.0.4-1.fc27",
+        "redis-4.0.2-2.fc27",
+        "redis-4.0.2-1.fc27",
+        "redis-3.2.11-1.fc27",
+        "redis-3.2.9-3.fc27",
+        "redis-3.2.9-2.fc27",
+        "redis-3.2.9-1.fc27"
     ]
 }

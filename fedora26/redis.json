@@ -15,5 +15,21 @@
     "list": [
         "redis.x86_64                        3.2.8-1.fc26                         fedora",
         "redis.x86_64                        4.0.9-1.fc26                         updates"
+    ],
+    "kojiPackages": [
+        "redis-4.0.9-1.fc26",
+        "redis-4.0.8-1.fc26",
+        "redis-4.0.7-1.fc26",
+        "redis-4.0.6-1.fc26",
+        "redis-4.0.5-1.fc26",
+        "redis-4.0.4-1.fc26",
+        "redis-4.0.2-2.fc26",
+        "redis-3.2.11-1.fc26",
+        "redis-3.2.10-2.fc26",
+        "redis-3.2.8-1.fc26",
+        "redis-3.2.7-2.fc26",
+        "redis-3.2.7-1.fc26",
+        "redis-3.2.4-1.fc26",
+        "redis-3.2.3-1.fc26"
     ]
 }

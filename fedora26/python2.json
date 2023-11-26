@@ -17,5 +17,27 @@
         "python2.x86_64                      2.7.13-10.fc26                       fedora",
         "python2.i686                        2.7.15-1.fc26                        updates",
         "python2.x86_64                      2.7.15-1.fc26                        updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.15-1.fc26",
+        "python2-2.7.14-7.fc26",
+        "python2-2.7.14-6.fc26",
+        "python2-2.7.14-5.fc26",
+        "python2-2.7.14-4.fc26",
+        "python2-2.7.14-2.fc26",
+        "python2-2.7.14-1.fc26",
+        "python2-2.7.13-12.fc26",
+        "python2-2.7.13-11.fc26",
+        "python2-2.7.13-10.fc26",
+        "python2-2.7.13-9.fc26",
+        "python2-2.7.13-8.fc26",
+        "python2-2.7.13-7.fc26",
+        "python2-2.7.13-6.fc26",
+        "python2-2.7.13-5.fc26",
+        "python2-2.7.13-4.fc26",
+        "python2-2.7.13-3.fc26",
+        "python2-2.7.13-2.fc26",
+        "python2-2.7.13-1.fc26",
+        "python2-2.7.12-9.fc26"
     ]
 }

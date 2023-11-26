@@ -15,5 +15,12 @@
     "list": [
         "python3.9.i686                        3.9.18-1.fc39                       fedora",
         "python3.9.x86_64                      3.9.18-1.fc39                       fedora"
+    ],
+    "kojiPackages": [
+        "python3.9-3.9.18-1.fc39",
+        "python3.9-3.9.17-3.fc39",
+        "python3.9-3.9.17-2.fc39",
+        "python3.9-3.9.17-1.fc39",
+        "python3.9-3.9.16-4.fc39"
     ]
 }

@@ -16,5 +16,10 @@
     "list": [
         "nginx.x86_64                       1:1.22.1-2.fc38                       fedora",
         "nginx.x86_64                       1:1.24.0-1.fc38                       updates"
+    ],
+    "kojiPackages": [
+        "nginx-1.24.0-1.fc38",
+        "nginx-1.22.1-2.fc38",
+        "nginx-1.22.1-1.fc38"
     ]
 }

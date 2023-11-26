@@ -16,5 +16,34 @@
     "list": [
         "nodejs.x86_64        1:18.7.0-1.module_f37+15041+5bae0535        fedora-modular",
         "nodejs.x86_64        1:18.7.0-1.module_f37+15041+5bae0535        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-18.7.0-1.module_f37+15041+5bae0535",
+        "nodejs-18.6.0-1.module_f37+14783+6b9401ed",
+        "nodejs-18.6.0-1.module_f37+14705+0ed9167b",
+        "nodejs-18.5.0-1.module_f37+14673+e484c9a2",
+        "nodejs-18.2.0-1.module_f37+14478+9c58b04f",
+        "nodejs-18.1.0-2.module_f37+14431+88e11897",
+        "nodejs-18.0.0-1.module_f37+14390+7a90c33b",
+        "nodejs-18.0.0-1.module_f37+14378+c05b482e",
+        "nodejs18-18.18.2-1.fc37",
+        "nodejs18-18.18.0-1.fc37",
+        "nodejs18-18.17.1-5.fc37",
+        "nodejs18-18.17.1-4.fc37",
+        "nodejs18-18.17.1-3.fc37",
+        "nodejs18-18.17.1-1.fc37",
+        "nodejs18-18.16.1-1.fc37",
+        "nodejs18-18.16.0-8.fc37",
+        "nodejs18-18.16.0-5.fc37",
+        "nodejs18-18.16.0-4.fc37",
+        "nodejs18-18.16.0-2.fc37",
+        "nodejs18-18.15.0-7.fc37",
+        "nodejs18-18.15.0-6.fc37",
+        "nodejs18-18.15.0-5.fc37",
+        "nodejs18-18.15.0-4.fc37",
+        "nodejs18-18.15.0-3.fc37",
+        "nodejs18-18.15.0-2.fc37",
+        "nodejs18-18.15.0-1.fc37",
+        "nodejs18-18.14.2-5.fc37"
     ]
 }

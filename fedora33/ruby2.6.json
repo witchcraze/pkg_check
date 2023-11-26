@@ -16,5 +16,9 @@
         "ruby.i686            2.6.6-126.module_f33+9701+3cbd49de          fedora-modular",
         "ruby.x86_64          2.6.6-126.module_f33+9701+3cbd49de          fedora-modular",
         "ruby.x86_64          2.6.6-126.module_f33+9701+3cbd49de          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.6.8-129.module_f33+13399+c50dd72d",
+        "ruby-2.6.6-126.module_f33+9701+3cbd49de"
     ]
 }

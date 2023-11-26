@@ -16,5 +16,12 @@
     "list": [
         "nodejs.x86_64        1:8.11.4-1.module_2030+42747d40             fedora-modular",
         "nodejs.x86_64        1:8.16.0-1.module_f29+3973+0f3d85d2         updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-8.16.1-1.module_f29+5962+49efb38a",
+        "nodejs-8.16.0-1.module_f29+3973+0f3d85d2",
+        "nodejs-8.15.1-1.module_f29+3187+1db35651",
+        "nodejs-8.15.0-1.module_f29+2987+4139df64",
+        "nodejs-8.15.0-1.module_f29+2744+cb8b0e4e"
     ]
 }

@@ -16,5 +16,13 @@
     "list": [
         "nodejs.x86_64       1:15.11.0-1.module_f34+11585+7d34a2e8        fedora-modular",
         "nodejs.x86_64       1:15.11.0-1.module_f34+11585+7d34a2e8        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-15.11.0-1.module_f34+11585+7d34a2e8",
+        "nodejs-15.10.0-1.module_f34+11477+1f608e4c",
+        "nodejs-15.7.0-1.module_f34+11104+2564474e",
+        "nodejs-15.6.0-2.module_f34+11025+29f2bd75",
+        "nodejs-15.6.0-2.module_f34+11019+285fe7de",
+        "nodejs-15.6.0-1.module_f34+10992+5993b711"
     ]
 }

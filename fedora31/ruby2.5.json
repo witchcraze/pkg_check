@@ -16,5 +16,11 @@
         "ruby.i686            2.5.5-105.module_f31+4124+d9096b83          fedora-modular",
         "ruby.x86_64          2.5.5-105.module_f31+4124+d9096b83          fedora-modular",
         "ruby.x86_64          2.5.5-105.module_f31+4124+d9096b83          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.5.8-107.module_f31+10493+fc56f369",
+        "ruby-2.5.5-106.module_f31+10431+a8ab41e6",
+        "ruby-2.5.5-105.module_f31+4124+d9096b83",
+        "ruby-2.5.3-104.module_f31+3890+3bd01556"
     ]
 }

@@ -15,5 +15,18 @@
     },
     "list": [
         "java-17-openjdk.x86_64                1:17.0.8.0.7-1.fc39                 fedora"
+    ],
+    "kojiPackages": [
+        "java-17-openjdk-17.0.8.0.7-2.fc39app3",
+        "java-17-openjdk-17.0.8.0.7-1.fc39app2",
+        "java-17-openjdk-17.0.8.0.7-1.fc39",
+        "java-17-openjdk-17.0.7.0.7-5.fc39.1",
+        "java-17-openjdk-17.0.7.0.7-5.fc39",
+        "java-17-openjdk-17.0.7.0.7-4.fc39",
+        "java-17-openjdk-17.0.7.0.7-3.fc39",
+        "java-17-openjdk-17.0.7.0.7-2.fc39",
+        "java-17-openjdk-17.0.7.0.7-1.fc39",
+        "java-17-openjdk-17.0.6.0.10-5.fc39",
+        "java-17-openjdk-17.0.6.0.10-4.fc39"
     ]
 }

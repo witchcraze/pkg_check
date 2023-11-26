@@ -15,5 +15,20 @@
     "list": [
         "postgresql.x86_64                      9.6.3-1.fc26                      fedora",
         "postgresql.x86_64                      9.6.9-1.fc26                      updates"
+    ],
+    "kojiPackages": [
+        "postgresql-9.6.9-1.fc26",
+        "postgresql-9.6.8-1.fc26",
+        "postgresql-9.6.7-1.fc26",
+        "postgresql-9.6.6-1.fc26",
+        "postgresql-9.6.5-1.fc26",
+        "postgresql-9.6.4-1.fc26",
+        "postgresql-9.6.3-1.fc26",
+        "postgresql-9.6.2-1.fc26",
+        "postgresql-9.6.1-3.fc26",
+        "postgresql-9.6.1-2.fc26",
+        "postgresql-9.6.1-1.fc26",
+        "postgresql-9.6.0-1.fc26",
+        "postgresql-9.5.4-1.fc26"
     ]
 }

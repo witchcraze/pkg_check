@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "8.0.20",
+        "Release": "1.fc30",
+        "Architecture": "x86_64",
+        "Size": "11 M",
+        "Source": "community-mysql-8.0.20-1.fc30.src.rpm",
+        "Repository": "updates",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "community-mysql.x86_64                   8.0.15-1.fc30                   fedora",
+        "community-mysql.x86_64                   8.0.20-1.fc30                   updates"
+    ],
+    "kojiPackages": [
+        "community-mysql-8.0.20-1.fc30",
+        "community-mysql-8.0.19-1.fc30",
+        "community-mysql-8.0.18-4.fc30",
+        "community-mysql-8.0.18-1.fc30",
+        "community-mysql-8.0.17-2.fc30",
+        "community-mysql-8.0.16-1.fc30",
+        "community-mysql-8.0.15-1.fc30",
+        "community-mysql-8.0.14-3.fc30",
+        "community-mysql-8.0.14-2.fc30",
+        "community-mysql-8.0.14-1.fc30",
+        "community-mysql-8.0.13-2.fc30",
+        "community-mysql-8.0.13-1.fc30",
+        "community-mysql-8.0.12-2.fc30"
+    ]
+}

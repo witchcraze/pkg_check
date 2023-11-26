@@ -17,5 +17,15 @@
         "python35.x86_64                       3.5.4-2.fc28                       fedora",
         "python35.i686                         3.5.7-1.fc28                       updates",
         "python35.x86_64                       3.5.7-1.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "python35-3.5.7-1.fc28",
+        "python35-3.5.6-3.fc28",
+        "python35-3.5.6-1.fc28",
+        "python35-3.5.5-1.fc28",
+        "python35-3.5.4-4.fc28",
+        "python35-3.5.4-3.fc28",
+        "python35-3.5.4-2.fc28",
+        "python35-3.5.4-1.fc28"
     ]
 }

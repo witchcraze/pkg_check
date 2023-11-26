@@ -16,5 +16,38 @@
     "list": [
         "nodejs.x86_64       1:12.16.1-1.module_f32+8191+04fa579c         fedora-modular",
         "nodejs.x86_64       1:12.22.1-1.module_f32+11840+b55b310a        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-12.22.1-1.module_f32+11840+b55b310a",
+        "nodejs-12.21.0-2.module_f32+11528+1d861f0a",
+        "nodejs-12.21.0-1.module_f32+11495+f65f8f87",
+        "nodejs-12.20.1-1.module_f32+10910+98094491",
+        "nodejs-12.19.0-1.module_f32+10420+49362f2f",
+        "nodejs-12.18.4-1.module_f32+10188+612b71bf",
+        "nodejs-12.18.3-1.module_f32+9655+77d479de",
+        "nodejs-12.18.3-1.module_f32+9379+fdef9859",
+        "nodejs-12.18.2-1.module_f32+9143+91b25cd1",
+        "nodejs-12.18.0-1.module_f32+9057+e2442e24",
+        "nodejs-12.16.3-1.module_f32+8800+19e02b4b",
+        "nodejs-12.16.2-1.module_f32+8683+49b96b7f",
+        "nodejs-12.16.1-3.module_f32+8302+85e9b2ec",
+        "nodejs-12.16.1-1.module_f32+8191+04fa579c",
+        "nodejs-12.16.0-1.module_f32+7960+807dfa25",
+        "nodejs-12.15.0-1.module_f32+7522+981ba268",
+        "nodejs-12.14.1-3.module_f32+7352+3017f7e9",
+        "nodejs-12.14.1-2.module_f32+7312+f7946686",
+        "nodejs-12.14.1-1.module_f32+7307+4d8eb70d",
+        "nodejs-12.14.0-2.module_f32+7295+8b6bd55e",
+        "nodejs-12.14.0-2.module_f32+7292+eb81d9f1",
+        "nodejs-12.13.1-1.module_f32+7166+636210c8",
+        "nodejs-12.13.0-7.module_f32+7015+a70cc4b0",
+        "nodejs-12.13.0-5.module_f32+6918+31b8dfdb",
+        "nodejs-12.13.0-3.module_f32+6912+619ebc32",
+        "nodejs-12.13.0-2.module_f32+6910+86c76b46",
+        "nodejs-12.13.0-1.module_f32+6906+25f90001",
+        "nodejs-12.10.0-1.module_f32+6285+65c70ac9",
+        "nodejs-12.9.0-1.module_f32+5976+21ba777a",
+        "nodejs-12.8.1-1.module_f32+5953+e196c4a7",
+        "nodejs-12.7.0-3.module_f32+5759+e5077333"
     ]
 }

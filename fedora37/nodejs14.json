@@ -16,5 +16,10 @@
     "list": [
         "nodejs.x86_64       1:14.19.3-1.module_f37+14476+e95ad973        fedora-modular",
         "nodejs.x86_64       1:14.19.3-1.module_f37+14476+e95ad973        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-14.21.2-1.module_f37+15901+a68fe6b1",
+        "nodejs-14.19.3-1.module_f37+14476+e95ad973",
+        "nodejs-14.19.0-3.module_f37+13931+3425fdb4"
     ]
 }

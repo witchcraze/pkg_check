@@ -15,5 +15,21 @@
     "list": [
         "golang.x86_64                        1.9.1-1.fc27                        fedora",
         "golang.x86_64                        1.9.7-1.fc27                        updates"
+    ],
+    "kojiPackages": [
+        "golang-1.9.7-1.fc27",
+        "golang-1.9.6-1.fc27",
+        "golang-1.9.5-1.fc27",
+        "golang-1.9.4-2.fc27",
+        "golang-1.9.4-1.fc27",
+        "golang-1.9.3-1.fc27",
+        "golang-1.9.2-1.fc27",
+        "golang-1.9.1-1.fc27",
+        "golang-1.9-1.fc27",
+        "golang-1.9-0.beta2.1.fc27.2",
+        "golang-1.9-0.beta2.1.fc27.1",
+        "golang-1.9-0.beta2.1.fc27",
+        "golang-1.8.1-2.fc27",
+        "golang-1.8.1-1.fc27"
     ]
 }

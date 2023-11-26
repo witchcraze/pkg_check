@@ -15,5 +15,8 @@
     },
     "list": [
         "nginx.x86_64         1:1.12.2-1.module_f29+6850+e830bc37         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.12.2-1.module_f29+6850+e830bc37"
     ]
 }

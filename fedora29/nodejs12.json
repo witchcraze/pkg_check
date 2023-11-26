@@ -15,5 +15,25 @@
     },
     "list": [
         "nodejs.x86_64        1:12.13.0-5.module_f29+6917+1b172bdb        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-12.13.0-7.module_f29+7013+7b5e14fe",
+        "nodejs-12.13.0-5.module_f29+6917+1b172bdb",
+        "nodejs-12.13.0-3.module_f29+6913+5b8b7d3f",
+        "nodejs-12.13.0-2.module_f29+6908+86255d72",
+        "nodejs-12.13.0-1.module_f29+6904+96712a89",
+        "nodejs-12.9.0-1.module_f29+5978+645d6d80",
+        "nodejs-12.8.1-1.module_f29+5950+7595ea0f",
+        "nodejs-12.7.0-3.module_f29+5296+f24f2d93",
+        "nodejs-12.7.0-2.module_f29+5269+5c84fc2e",
+        "nodejs-12.7.0-1.module_f29+5261+6b332ff4",
+        "nodejs-12.6.0-1.module_f29+5189+da5ff9fb",
+        "nodejs-12.4.0-1.module_f29+4532+ea069662",
+        "nodejs-12.3.1-1.module_f29+4379+b70044ce",
+        "nodejs-12.2.0-1.module_f29+4296+8e7c0a8f",
+        "nodejs-12.1.0-1.module_f29+4119+cc6d9a0f",
+        "nodejs-12.0.0-3.module_f29+4067+c895f725",
+        "nodejs-12.0.0-2.module_f29+3987+c0a4da00",
+        "nodejs-12.0.0-1.module_f29+3979+6aa17270"
     ]
 }

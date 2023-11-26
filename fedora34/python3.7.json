@@ -17,5 +17,18 @@
         "python3.7.x86_64                      3.7.10-1.fc34                      fedora",
         "python3.7.i686                        3.7.13-1.fc34                      updates",
         "python3.7.x86_64                      3.7.13-1.fc34                      updates"
+    ],
+    "kojiPackages": [
+        "python3.7-3.7.13-1.fc34",
+        "python3.7-3.7.12-9.fc34",
+        "python3.7-3.7.12-8.fc34",
+        "python3.7-3.7.12-1.fc34",
+        "python3.7-3.7.11-1.fc34",
+        "python3.7-3.7.10-1.fc34",
+        "python3.7-3.7.9-4.fc34",
+        "python3.7-3.7.9-3.fc34",
+        "python3.7-3.7.9-2.fc34",
+        "python3.7-3.7.9-1.fc34",
+        "python3.7-3.7.8-4.fc34"
     ]
 }

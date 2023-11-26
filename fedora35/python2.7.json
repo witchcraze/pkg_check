@@ -17,5 +17,21 @@
         "python2.7.x86_64                     2.7.18-15.fc35                      fedora",
         "python2.7.i686                       2.7.18-22.fc35                      updates",
         "python2.7.x86_64                     2.7.18-22.fc35                      updates"
+    ],
+    "kojiPackages": [
+        "python2.7-2.7.18-22.module_f35+14708+9668eb93",
+        "python2.7-2.7.18-22.fc35",
+        "python2.7-2.7.18-21.module_f35+14159+f397ca9f",
+        "python2.7-2.7.18-21.fc35",
+        "python2.7-2.7.18-20.fc35",
+        "python2.7-2.7.18-15.module_f35+13086+304a346b",
+        "python2.7-2.7.18-15.module_f35+13075+4afe2635",
+        "python2.7-2.7.18-15.module_f35+13074+a14f67c0",
+        "python2.7-2.7.18-15.module_f35+13073+2fb8c095",
+        "python2.7-2.7.18-15.module_f35+13072+7294ee00",
+        "python2.7-2.7.18-15.fc35",
+        "python2.7-2.7.18-12.fc35",
+        "python2.7-2.7.18-11.fc35",
+        "python2.7-2.7.18-10.fc35"
     ]
 }

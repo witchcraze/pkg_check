@@ -15,5 +15,31 @@
     "list": [
         "golang.x86_64                       1.15.2-1.fc33                        fedora",
         "golang.x86_64                       1.15.15-1.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "golang-1.15.15-1.fc33",
+        "golang-1.15.14-2.fc33",
+        "golang-1.15.14-1.fc33",
+        "golang-1.15.13-1.fc33",
+        "golang-1.15.12-1.fc33",
+        "golang-1.15.11-1.fc33",
+        "golang-1.15.8-1.fc33",
+        "golang-1.15.7-1.fc33",
+        "golang-1.15.6-1.fc33",
+        "golang-1.15.5-1.fc33",
+        "golang-1.15.4-1.fc33",
+        "golang-1.15.3-1.fc33",
+        "golang-1.15.2-1.fc33",
+        "golang-1.15.1-1.fc33",
+        "golang-1.15-1.fc33",
+        "golang-1.15-0.rc2.0.fc33",
+        "golang-1.15-0.rc1.0.fc33.1",
+        "golang-1.15-0.rc1.0.fc33",
+        "golang-1.15-0.beta1.0.fc33",
+        "golang-1.14.6-1.fc33",
+        "golang-1.14.4-1.fc33",
+        "golang-1.14.3-1.fc33",
+        "golang-1.14.2-1.fc33",
+        "golang-1.14-1.fc33"
     ]
 }

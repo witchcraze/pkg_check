@@ -15,5 +15,18 @@
     },
     "list": [
         "perl.x86_64        4:5.32.0-463.module_f31+10364+eade3ee5        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.32.0-464.module_f31+10620+d5dac42c",
+        "perl-5.32.0-463.module_f31+10364+eade3ee5",
+        "perl-5.32.0-463.module_f31+10359+991adf05",
+        "perl-5.32.0-461.module_f31+9998+0671d173",
+        "perl-5.32.0-461.module_f31+9982+6e67def2",
+        "perl-5.32.0-460.module_f31+9840+2305b6e5",
+        "perl-5.32.0-460.module_f31+9698+01bcb218",
+        "perl-5.32.0-460.module_f31+9480+65a815b4",
+        "perl-5.32.0-459.module_f31+9470+d3987ae4",
+        "perl-5.32.0-459.module_f31+9464+ea1243cd",
+        "perl-5.32.0-458.module_f31+9313+0de2a06c"
     ]
 }

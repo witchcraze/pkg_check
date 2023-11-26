@@ -15,5 +15,10 @@
     },
     "list": [
         "nginx.x86_64         1:1.18.0-1.module_f32+8814+88b7fc3a         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.18.0-1.module_f32+11185+5c0179b7",
+        "nginx-1.18.0-1.module_f32+9537+7a1300f7",
+        "nginx-1.18.0-1.module_f32+8814+88b7fc3a"
     ]
 }

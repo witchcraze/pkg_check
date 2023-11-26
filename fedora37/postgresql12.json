@@ -15,5 +15,11 @@
     "list": [
         "postgresql.x86_64       12.11-3.module_f37+14749+80091dce        fedora-modular",
         "postgresql.x86_64       12.14-2.module_f37+17180+c836968f        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-12.14-2.module_f37+17180+c836968f",
+        "postgresql-12.14-1.module_f37+16138+9fd7cfe1",
+        "postgresql-12.11-3.module_f37+14749+80091dce",
+        "postgresql-12.10-2.module_f37+14009+bf922410"
     ]
 }

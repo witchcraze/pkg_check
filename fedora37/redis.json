@@ -15,5 +15,25 @@
     "list": [
         "redis.x86_64                        7.0.5-1.fc37                         fedora",
         "redis.x86_64                        7.0.14-1.fc37                        updates"
+    ],
+    "kojiPackages": [
+        "redis-7.0.14-1.fc37",
+        "redis-7.0.13-1.fc37",
+        "redis-7.0.12-1.fc37",
+        "redis-7.0.11-1.fc37",
+        "redis-7.0.10-1.fc37",
+        "redis-7.0.9-1.fc37",
+        "redis-7.0.8-1.fc37",
+        "redis-7.0.7-2.fc37",
+        "redis-7.0.7-1.fc37",
+        "redis-7.0.6-1.fc37",
+        "redis-7.0.5-1.fc37",
+        "redis-7.0.4-2.fc37",
+        "redis-7.0.4-1.fc37",
+        "redis-7.0.3-1.fc37",
+        "redis-7.0.2-1.fc37",
+        "redis-7.0.1-1.fc37",
+        "redis-7.0.0-1.fc37",
+        "redis-6.2.7-1.fc37"
     ]
 }

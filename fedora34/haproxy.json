@@ -15,5 +15,14 @@
     "list": [
         "haproxy.x86_64                       2.3.4-2.fc34                        fedora",
         "haproxy.x86_64                       2.3.14-1.fc34                       updates"
+    ],
+    "kojiPackages": [
+        "haproxy-2.3.14-1.fc34",
+        "haproxy-2.3.13-1.fc34",
+        "haproxy-2.3.10-1.fc34",
+        "haproxy-2.3.9-1.fc34",
+        "haproxy-2.3.4-2.fc34",
+        "haproxy-2.3.4-1.fc34",
+        "haproxy-2.3.2-1.fc34"
     ]
 }

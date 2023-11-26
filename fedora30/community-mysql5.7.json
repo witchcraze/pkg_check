@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "5.7.22",
+        "Release": "1.module_2068+691c797f",
+        "Architecture": "x86_64",
+        "Size": "7.6 M",
+        "Source": "community-mysql-5.7.22-1.module_2068+691c797f.src.rpm",
+        "Repository": "fedora-modular",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "community-mysql.x86_64       5.7.22-1.module_2068+691c797f        fedora-modular"
+    ],
+    "kojiPackages": [
+        "community-mysql-5.7.22-1.module_f30+6213+18d3f824"
+    ]
+}

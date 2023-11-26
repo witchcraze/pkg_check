@@ -17,5 +17,19 @@
         "postgresql.x86_64                      12.4-2.fc33                       fedora",
         "postgresql.i686                        12.7-1.fc33                       updates",
         "postgresql.x86_64                      12.7-1.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "postgresql-12.7-1.fc33",
+        "postgresql-12.6-1.fc33",
+        "postgresql-12.4-3.fc33",
+        "postgresql-12.4-2.fc33",
+        "postgresql-12.3-7.fc33",
+        "postgresql-12.3-6.fc33",
+        "postgresql-12.3-4.fc33",
+        "postgresql-12.3-2.fc33",
+        "postgresql-12.3-1.fc33",
+        "postgresql-12.2-3.fc33",
+        "postgresql-12.2-2.fc33",
+        "postgresql-12.2-1.fc33"
     ]
 }

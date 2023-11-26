@@ -16,5 +16,9 @@
     "list": [
         "nodejs.x86_64       1:15.11.0-1.module_f35+11584+2ecfd81f        fedora-modular",
         "nodejs.x86_64       1:15.11.0-1.module_f35+11584+2ecfd81f        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-15.11.0-1.module_f35+11584+2ecfd81f",
+        "nodejs-15.10.0-1.module_f35+11475+d88946ac"
     ]
 }

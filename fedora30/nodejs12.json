@@ -15,5 +15,35 @@
     },
     "list": [
         "nodejs.x86_64        1:12.16.3-1.module_f30+8798+c5ee27ef        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-12.16.3-1.module_f30+8798+c5ee27ef",
+        "nodejs-12.16.2-1.module_f30+8681+0a8a5e34",
+        "nodejs-12.16.1-3.module_f30+8303+459c5a3b",
+        "nodejs-12.16.1-1.module_f30+8192+c64e3d38",
+        "nodejs-12.16.0-1.module_f30+7962+811b8345",
+        "nodejs-12.15.0-1.module_f30+7523+610daaa7",
+        "nodejs-12.14.1-3.module_f30+7351+bb1a439b",
+        "nodejs-12.14.1-2.module_f30+7314+c8f3062d",
+        "nodejs-12.14.1-1.module_f30+7309+99c73f64",
+        "nodejs-12.14.0-2.module_f30+7294+8f92360a",
+        "nodejs-12.13.0-7.module_f30+7014+2b064a93",
+        "nodejs-12.13.0-5.module_f30+6916+88fa930d",
+        "nodejs-12.13.0-3.module_f30+6914+8c85ab39",
+        "nodejs-12.13.0-2.module_f30+6911+a2165bb4",
+        "nodejs-12.13.0-1.module_f30+6907+e04fec3e",
+        "nodejs-12.9.0-1.module_f30+5975+d9a57fdc",
+        "nodejs-12.8.1-1.module_f30+5951+3a3b28db",
+        "nodejs-12.7.0-3.module_f30+5294+008bc2ba",
+        "nodejs-12.7.0-2.module_f30+5270+81aa39dd",
+        "nodejs-12.7.0-1.module_f30+5262+10ab6e6f",
+        "nodejs-12.6.0-1.module_f30+5190+644ae6f9",
+        "nodejs-12.4.0-1.module_f30+4533+e9fd3656",
+        "nodejs-12.3.1-1.module_f30+4381+32f791f9",
+        "nodejs-12.2.0-1.module_f30+4294+e111b9b0",
+        "nodejs-12.1.0-1.module_f30+4118+3f28b6b8",
+        "nodejs-12.0.0-3.module_f30+4068+c6b580ee",
+        "nodejs-12.0.0-2.module_f30+3988+b4cb7ecc",
+        "nodejs-12.0.0-1.module_f30+3980+cf630317"
     ]
 }

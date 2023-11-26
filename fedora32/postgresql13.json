@@ -14,5 +14,11 @@
     },
     "list": [
         "postgresql.x86_64        13.2-2.module_f32+11458+489d6f99        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-13.3-2.module_f32+12050+7696cfd6",
+        "postgresql-13.3-1.module_f32+12028+ef603d5a",
+        "postgresql-13.2-2.module_f32+11458+489d6f99",
+        "postgresql-13.1-1.module_f32+11141+7ec5c70c"
     ]
 }

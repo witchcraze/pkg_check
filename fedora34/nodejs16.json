@@ -15,5 +15,33 @@
     },
     "list": [
         "nodejs.x86_64       1:16.14.1-1.module_f34+14150+7cdb028d        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-16.15.0-3.module_f34+14427+015d56df",
+        "nodejs-16.15.0-2.module_f34+14393+6d721863",
+        "nodejs-16.15.0-1.module_f34+14372+a5ed0969",
+        "nodejs-16.14.1-1.module_f34+14150+7cdb028d",
+        "nodejs-16.14.0-2.module_f34+13801+c5e20d12",
+        "nodejs-16.13.2-7.module_f34+13769+e3f88771",
+        "nodejs-16.13.2-6.module_f34+13746+ff7a25ce",
+        "nodejs-16.13.2-1.module_f34+13627+d44703c1",
+        "nodejs-16.13.1-1.module_f34+13460+20ae7464",
+        "nodejs-16.13.0-3.module_f34+13440+e597fdd1",
+        "nodejs-16.13.0-2.module_f34+13316+d0a98dd6",
+        "nodejs-16.12.0-1.module_f34+13255+ebd17373",
+        "nodejs-16.11.1-1.module_f34+13201+29e2e18a",
+        "nodejs-16.10.0-1.module_f34+13024+0d8f1c16",
+        "nodejs-16.9.1-4.module_f34+12966+91ba7634",
+        "nodejs-16.9.1-2.module_f34+12948+f6e030c9",
+        "nodejs-16.9.1-1.module_f34+12944+c89cfbfc",
+        "nodejs-16.6.2-1.module_f34+12599+e02b8c03",
+        "nodejs-16.5.0-1.module_f34+12433+f439d347",
+        "nodejs-16.4.1-1.module_f34+12326+9581909e",
+        "nodejs-16.4.0-1.module_f34+12261+1ada1fcd",
+        "nodejs-16.3.0-1.module_f34+12145+967b29a9",
+        "nodejs-16.2.0-1.module_f34+12067+a3158f2e",
+        "nodejs-16.1.0-1.module_f34+11961+ab4918c6",
+        "nodejs-16.0.0-1.module_f34+11949+60d8928d",
+        "nodejs-16.0.0-1.module_f34+11944+9be5c8b6"
     ]
 }

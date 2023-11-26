@@ -15,5 +15,10 @@
     },
     "list": [
         "nodejs.x86_64           1:8.12.0-1.module_2180+1761d862           fedora-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-8.16.0-1.module_f30+3974+4c7efd5d",
+        "nodejs-8.15.1-1.module_f30+3091+65a6a23c",
+        "nodejs-8.15.0-1.module_f30+2743+7324f856"
     ]
 }

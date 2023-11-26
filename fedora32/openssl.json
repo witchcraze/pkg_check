@@ -18,5 +18,19 @@
         "openssl.x86_64                 1:1.1.1k-1.fc32                  @koji-override-0",
         "openssl.x86_64                 1:1.1.1d-7.fc32                  fedora",
         "openssl.x86_64                 1:1.1.1k-1.fc32                  updates"
+    ],
+    "kojiPackages": [
+        "openssl-1.1.1k-1.fc32",
+        "openssl-1.1.1i-1.fc32",
+        "openssl-1.1.1g-1.fc32",
+        "openssl-1.1.1d-7.fc32",
+        "openssl-1.1.1d-6.fc32",
+        "openssl-1.1.1d-5.fc32",
+        "openssl-1.1.1d-4.fc32",
+        "openssl-1.1.1d-3.fc32",
+        "openssl-1.1.1d-2.fc32",
+        "openssl-1.1.1d-1.fc32",
+        "openssl-1.1.1c-6.fc32",
+        "openssl-1.1.1c-5.fc32"
     ]
 }

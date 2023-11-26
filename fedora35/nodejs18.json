@@ -15,5 +15,16 @@
     },
     "list": [
         "nodejs.x86_64        1:18.1.0-2.module_f35+14434+9641df8a        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-18.7.0-1.module_f35+15042+4ed7904d",
+        "nodejs-18.6.0-1.module_f35+14784+e6e1fcce",
+        "nodejs-18.6.0-1.module_f35+14703+58d247f0",
+        "nodejs-18.5.0-1.module_f35+14671+2077fead",
+        "nodejs-18.3.0-1.module_f35+14567+86ce7abf",
+        "nodejs-18.2.0-1.module_f35+14481+e9db41ec",
+        "nodejs-18.1.0-2.module_f35+14434+9641df8a",
+        "nodejs-18.0.0-1.module_f35+14388+34060c08",
+        "nodejs-18.0.0-1.module_f35+14380+39b79014"
     ]
 }

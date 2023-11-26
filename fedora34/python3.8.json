@@ -17,5 +17,23 @@
         "python3.8.x86_64                      3.8.8-1.fc34                       fedora",
         "python3.8.i686                        3.8.13-1.fc34                      updates",
         "python3.8.x86_64                      3.8.13-1.fc34                      updates"
+    ],
+    "kojiPackages": [
+        "python3.8-3.8.13-1.fc34",
+        "python3.8-3.8.12-7.fc34",
+        "python3.8-3.8.12-6.fc34",
+        "python3.8-3.8.12-1.fc34",
+        "python3.8-3.8.11-1.fc34",
+        "python3.8-3.8.10-1.fc34",
+        "python3.8-3.8.9-1.fc34",
+        "python3.8-3.8.8-1.fc34",
+        "python3.8-3.8.7-3.fc34",
+        "python3.8-3.8.7-2.fc34",
+        "python3.8-3.8.7-1.fc34",
+        "python3.8-3.8.7~rc1-1.fc34",
+        "python3.8-3.8.6-2.fc34",
+        "python3.8-3.8.6-1.fc34",
+        "python3.8-3.8.6~rc1-1.fc34",
+        "python3.8-3.8.5-5.fc34"
     ]
 }

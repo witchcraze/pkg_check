@@ -16,5 +16,27 @@
     "list": [
         "tomcat.noarch                      1:9.0.26-1.fc31                       fedora",
         "tomcat.noarch                      1:9.0.39-1.fc31                       updates"
+    ],
+    "kojiPackages": [
+        "tomcat-9.0.39-1.fc31",
+        "tomcat-9.0.38-2.fc31",
+        "tomcat-9.0.38-1.fc31",
+        "tomcat-9.0.37-4.module_f31+9956+8b681019",
+        "tomcat-9.0.37-1.fc31",
+        "tomcat-9.0.36-1.fc31",
+        "tomcat-9.0.35-2.fc31",
+        "tomcat-9.0.35-1.fc31",
+        "tomcat-9.0.34-2.fc31",
+        "tomcat-9.0.34-1.fc31",
+        "tomcat-9.0.31-2.fc31",
+        "tomcat-9.0.31-1.fc31",
+        "tomcat-9.0.30-2.module_f31+8024+8724a012",
+        "tomcat-9.0.30-1.fc31",
+        "tomcat-9.0.26-1.fc31",
+        "tomcat-9.0.21-3.module_f31+5913+a1114c66",
+        "tomcat-9.0.21-3.fc31",
+        "tomcat-9.0.21-2.fc31",
+        "tomcat-9.0.21-1.fc31",
+        "tomcat-9.0.13-4.fc31"
     ]
 }

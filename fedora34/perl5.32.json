@@ -16,5 +16,29 @@
     "list": [
         "perl.x86_64        4:5.32.1-468.module_f34+11632+21c49d06        fedora-modular",
         "perl.x86_64        4:5.32.1-477.module_f34+13901+6a4e0b68        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.32.1-477.module_f34+14504+9d42bc62",
+        "perl-5.32.1-477.module_f34+13901+6a4e0b68",
+        "perl-5.32.1-477.module_f34+13884+9cebee98",
+        "perl-5.32.1-471.module_f34+13862+3e2819f6",
+        "perl-5.32.1-471.module_f34+12591+92d138b6",
+        "perl-5.32.1-471.module_f34+12577+a648da04",
+        "perl-5.32.1-470.module_f34+12247+573461ad",
+        "perl-5.32.1-470.module_f34+12239+ea36e837",
+        "perl-5.32.1-470.module_f34+12235+7afb689a",
+        "perl-5.32.1-469.module_f34+12226+28943671",
+        "perl-5.32.1-468.module_f34+11632+21c49d06",
+        "perl-5.32.1-467.module_f34+11298+4cde107a",
+        "perl-5.32.1-467.module_f34+11257+2207b187",
+        "perl-5.32.1-466.module_f34+11085+92e4185a",
+        "perl-5.32.0-465.module_f34+10927+ab3f4f3f",
+        "perl-5.32.0-465.module_f34+10921+25324faf",
+        "perl-5.32.0-464.module_f34+10622+c59d9fbf",
+        "perl-5.32.0-463.module_f34+10357+c755b1ef",
+        "perl-5.32.0-461.module_f34+9995+82b5edd0",
+        "perl-5.32.0-461.module_f34+9979+fd360d95",
+        "perl-5.32.0-460.module_f34+9936+f64afe57",
+        "perl-5.32.0-460.module_f34+9841+40019f34"
     ]
 }

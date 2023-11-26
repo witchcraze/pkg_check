@@ -16,5 +16,17 @@
     "list": [
         "squid.x86_64                       7:4.0.21-1.fc27                       fedora",
         "squid.x86_64                       7:4.0.23-2.fc27                       updates"
+    ],
+    "kojiPackages": [
+        "squid-4.0.23-2.fc27",
+        "squid-4.0.21-1.fc27",
+        "squid-4.0.20-4.fc27",
+        "squid-4.0.20-3.fc27",
+        "squid-4.0.20-2.fc27",
+        "squid-4.0.20-1.fc27",
+        "squid-4.0.19-4.fc27",
+        "squid-4.0.19-3.fc27",
+        "squid-4.0.19-2.fc27",
+        "squid-4.0.19-1.fc27"
     ]
 }

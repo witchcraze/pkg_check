@@ -17,5 +17,17 @@
         "ruby.x86_64                        2.6.3-122.fc31                        fedora",
         "ruby.i686                          2.6.6-125.fc31                        updates",
         "ruby.x86_64                        2.6.6-125.fc31                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.6.6-125.fc31",
+        "ruby-2.6.5-124.fc31",
+        "ruby-2.6.3-122.fc31",
+        "ruby-2.6.3-121.fc31",
+        "ruby-2.6.3-120.fc31",
+        "ruby-2.6.2-119.fc31",
+        "ruby-2.6.2-118.fc31",
+        "ruby-2.6.2-117.fc31",
+        "ruby-2.6.2-116.fc31",
+        "ruby-2.6.1-115.fc31"
     ]
 }

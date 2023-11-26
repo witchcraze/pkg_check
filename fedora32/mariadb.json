@@ -16,5 +16,29 @@
     "list": [
         "mariadb.x86_64                     3:10.4.12-3.fc32                      fedora",
         "mariadb.x86_64                     3:10.4.19-1.fc32                      updates"
+    ],
+    "kojiPackages": [
+        "mariadb-10.4.19-1.fc32",
+        "mariadb-10.4.18-1.fc32",
+        "mariadb-10.4.17-1.fc32",
+        "mariadb-10.4.16-1.fc32",
+        "mariadb-10.4.14-2.fc32",
+        "mariadb-10.4.14-1.fc32",
+        "mariadb-10.4.13-7.fc32",
+        "mariadb-10.4.13-2.fc32",
+        "mariadb-10.4.13-1.fc32",
+        "mariadb-10.4.12-3.fc32",
+        "mariadb-10.4.12-1.fc32",
+        "mariadb-10.4.11-2.fc32",
+        "mariadb-10.4.11-1.fc32",
+        "mariadb-10.3.21-3.fc32",
+        "mariadb-10.3.20-3.fc32",
+        "mariadb-10.3.20-2.fc32",
+        "mariadb-10.3.20-1.fc32",
+        "mariadb-10.3.19-1.fc32",
+        "mariadb-10.3.18-1.fc32",
+        "mariadb-10.3.17-3.fc32",
+        "mariadb-10.3.16-1.fc32",
+        "mariadb-10.4.6-2.fc32"
     ]
 }

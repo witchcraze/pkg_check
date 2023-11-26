@@ -15,5 +15,15 @@
     "list": [
         "varnish.i686                          7.2.1-1.fc38                        fedora",
         "varnish.x86_64                        7.2.1-1.fc38                        fedora"
+    ],
+    "kojiPackages": [
+        "varnish-7.2.1-2.fc38",
+        "varnish-6.0.11-1.module_f38+15717+799fadfd",
+        "varnish-6.0.11-1.module_f38+15709+bb5243df",
+        "varnish-6.0.11-1.module_f38+15703+fa741e5b",
+        "varnish-7.2.1-1.fc38",
+        "varnish-7.2.0-1.fc38",
+        "varnish-6.0.10-1.module_f38+15275+c0711295",
+        "varnish-7.1.1-1.fc38"
     ]
 }

@@ -16,5 +16,10 @@
     "list": [
         "mariadb.x86_64       3:10.9.1-1.module_f37+14773+1a96a95c        fedora-modular",
         "mariadb.x86_64       3:10.9.4-1.module_f37+15689+adf23171        updates-modular"
+    ],
+    "kojiPackages": [
+        "mariadb-10.9.4-1.module_f37+15689+adf23171",
+        "mariadb-10.9.3-1.module_f37+15627+f2e347c2",
+        "mariadb-10.9.1-1.module_f37+14773+1a96a95c"
     ]
 }

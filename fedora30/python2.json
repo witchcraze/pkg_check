@@ -17,5 +17,21 @@
         "python2.x86_64                       2.7.16-1.fc30                       fedora",
         "python2.i686                         2.7.18-1.fc30                       updates",
         "python2.x86_64                       2.7.18-1.fc30                       updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.18-1.fc30",
+        "python2-2.7.17-1.module_f30+7123+6341077b",
+        "python2-2.7.17-1.module_f30+7005+588a465e",
+        "python2-2.7.17-1.fc30",
+        "python2-2.7.16-2.fc30",
+        "python2-2.7.16-1.fc30",
+        "python2-2.7.15-14.fc30",
+        "python2-2.7.15-13.fc30",
+        "python2-2.7.15-12.fc30",
+        "python2-2.7.15-11.fc30",
+        "python2-2.7.15-10.fc30",
+        "python2-2.7.15-9.fc30",
+        "python2-2.7.15-8.fc30",
+        "python2-2.7.15-7.fc30"
     ]
 }

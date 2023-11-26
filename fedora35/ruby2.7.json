@@ -16,5 +16,8 @@
         "ruby.i686           2.7.4-139.module_f35+12414+80f8125a          fedora-modular",
         "ruby.x86_64         2.7.4-139.module_f35+12414+80f8125a          fedora-modular",
         "ruby.x86_64         2.7.4-139.module_f35+12414+80f8125a          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.7.4-139.module_f35+12414+80f8125a"
     ]
 }

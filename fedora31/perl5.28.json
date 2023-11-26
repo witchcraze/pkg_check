@@ -16,5 +16,27 @@
     "list": [
         "perl.x86_64        4:5.28.2-440.module_f31+6416+9f8c482e         fedora-modular",
         "perl.x86_64        4:5.28.2-444.module_f31+8514+654d304b         updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.28.2-444.module_f31+9703+8d056322",
+        "perl-5.28.2-444.module_f31+9683+1b4f8219",
+        "perl-5.28.2-444.module_f31+8514+654d304b",
+        "perl-5.28.2-442.module_f31+8129+2fb305f5",
+        "perl-5.28.2-442.module_f31+8112+ca417522",
+        "perl-5.28.2-442.module_f31+8060+c87d80b2",
+        "perl-5.28.2-442.module_f31+7957+7453d6aa",
+        "perl-5.28.2-441.module_f31+7926+8cb5ece5",
+        "perl-5.28.2-441.module_f31+7158+40a3e9a8",
+        "perl-5.28.2-440.module_f31+6416+9f8c482e",
+        "perl-5.28.2-440.module_f31+6396+5c1b9706",
+        "perl-5.28.2-439.module_f31+6050+a462f342",
+        "perl-5.28.2-439.module_f31+6019+b24e098f",
+        "perl-5.28.2-438.module_f31+5480+8886970f",
+        "perl-5.28.2-438.module_f31+5472+efbcf7bd",
+        "perl-5.28.2-438.module_f31+5095+7e8c137a",
+        "perl-5.28.2-438.module_f31+5092+cc9dbb93",
+        "perl-5.28.2-437.module_f31+5088+5613f07a",
+        "perl-5.28.2-436.module_f31+4656+d9a7a840",
+        "perl-5.28.2-436.module_f31+4653+41c46b04"
     ]
 }

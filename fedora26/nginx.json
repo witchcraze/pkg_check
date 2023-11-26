@@ -16,5 +16,10 @@
     "list": [
         "nginx.x86_64                       1:1.10.3-1.fc26                       fedora",
         "nginx.x86_64                       1:1.12.1-1.fc26                       updates"
+    ],
+    "kojiPackages": [
+        "nginx-1.12.1-1.fc26",
+        "nginx-1.10.3-1.fc26",
+        "nginx-1.10.2-1.fc26"
     ]
 }

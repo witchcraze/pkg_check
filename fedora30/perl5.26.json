@@ -16,5 +16,11 @@
     "list": [
         "perl.x86_64          4:5.26.3-415.module_2570+32b47dc0           fedora-modular",
         "perl.x86_64          4:5.26.3-415.module_2570+32b47dc0           updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.26.3-418.module_f30+5474+ab7069de",
+        "perl-5.26.3-418.module_f30+4548+76b0d14f",
+        "perl-5.26.3-416.module_f30+3005+df581c42",
+        "perl-5.26.3-416.module_f30+3000+d9c2ee6a"
     ]
 }

@@ -16,5 +16,37 @@
     "list": [
         "java-1.8.0-openjdk.x86_64             1:1.8.0.345.b01-2.fc37             fedora",
         "java-1.8.0-openjdk.x86_64             1:1.8.0.382.b05-2.fc37             updates"
+    ],
+    "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.382.b05-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.382.b05-1.fc37",
+        "java-1.8.0-openjdk-1.8.0.372.b07-7.fc37.1",
+        "java-1.8.0-openjdk-1.8.0.372.b07-6.fc37",
+        "java-1.8.0-openjdk-1.8.0.362.b09-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.352.b08-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.345.b01-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.345.b01-1.fc37",
+        "java-1.8.0-openjdk-1.8.0.342.b07-1.fc37",
+        "java-1.8.0-openjdk-1.8.0.342.b06-0.4.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.342.b06-0.3.ea.fc37.1",
+        "java-1.8.0-openjdk-1.8.0.342.b06-0.3.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.342.b06-0.2.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.342.b06-0.1.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-7.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-4.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-6.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-5.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-3.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b09-1.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b06-0.1.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.332.b01-0.1.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b06-7.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b06-6.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b06-3.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b06-2.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b06-1.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b05-0.1.ea.fc37",
+        "java-1.8.0-openjdk-1.8.0.322.b04-0.3.ea.fc37"
     ]
 }

@@ -15,5 +15,11 @@
     "list": [
         "platform-python.x86_64                   3.6.2-12.fc27                   fedora",
         "platform-python.x86_64                   3.6.2-13.fc27                   updates"
+    ],
+    "kojiPackages": [
+        "platform-python-3.6.2-13.fc27",
+        "platform-python-3.6.2-12.fc27",
+        "platform-python-3.6.2-11.fc27",
+        "platform-python-3.6.2-10.fc27"
     ]
 }

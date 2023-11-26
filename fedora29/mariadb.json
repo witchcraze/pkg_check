@@ -16,5 +16,29 @@
     "list": [
         "mariadb.x86_64                     3:10.3.9-2.fc29                       fedora",
         "mariadb.x86_64                     3:10.3.18-1.fc29                      updates"
+    ],
+    "kojiPackages": [
+        "mariadb-10.3.18-1.fc29",
+        "mariadb-10.3.17-1.fc29",
+        "mariadb-10.3.16-1.fc29",
+        "mariadb-10.3.12-10.fc29",
+        "mariadb-10.3.12-7.fc29",
+        "mariadb-10.3.12-5.fc29",
+        "mariadb-10.3.12-1.fc29",
+        "mariadb-10.3.11-1.fc29",
+        "mariadb-10.3.10-1.fc29",
+        "mariadb-10.3.9-2.fc29",
+        "mariadb-10.3.9-1.fc29",
+        "mariadb-10.3.8-3.fc29",
+        "mariadb-10.3.8-2.fc29",
+        "mariadb-10.3.8-1.fc29",
+        "mariadb-10.3.7-2.fc29",
+        "mariadb-10.3.7-1.fc29",
+        "mariadb-10.2.15-2.fc29",
+        "mariadb-10.2.15-1.fc29",
+        "mariadb-10.2.14-1.fc29",
+        "mariadb-10.2.13-2.fc29",
+        "mariadb-10.2.13-1.fc29",
+        "mariadb-10.2.12-7.fc29"
     ]
 }

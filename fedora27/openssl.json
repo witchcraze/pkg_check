@@ -16,5 +16,21 @@
     "list": [
         "openssl.x86_64                      1:1.1.0f-9.fc27                      fedora",
         "openssl.x86_64                      1:1.1.0i-1.fc27                      updates"
+    ],
+    "kojiPackages": [
+        "openssl-1.1.0i-1.fc27",
+        "openssl-1.1.0h-3.fc27",
+        "openssl-1.1.0h-1.fc27",
+        "openssl-1.1.0g-1.fc27",
+        "openssl-1.1.0f-9.fc27",
+        "openssl-1.1.0f-8.fc27",
+        "openssl-1.1.0f-7.fc27",
+        "openssl-1.1.0f-6.fc27",
+        "openssl-1.1.0f-5.fc27",
+        "openssl-1.1.0f-4.fc27",
+        "openssl-1.1.0f-3.fc27",
+        "openssl-1.1.0f-2.fc27",
+        "openssl-1.1.0f-1.fc27",
+        "openssl-1.1.0e-1.fc27"
     ]
 }

@@ -17,5 +17,15 @@
         "python34.x86_64                      3.4.8-1.fc28                        fedora",
         "python34.i686                        3.4.10-1.fc28                       updates",
         "python34.x86_64                      3.4.10-1.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "python34-3.4.10-1.fc28",
+        "python34-3.4.9-2.fc28",
+        "python34-3.4.9-1.fc28",
+        "python34-3.4.8-1.fc28",
+        "python34-3.4.7-4.fc28",
+        "python34-3.4.7-3.fc28",
+        "python34-3.4.7-2.fc28",
+        "python34-3.4.7-1.fc28"
     ]
 }

@@ -15,5 +15,13 @@
     "list": [
         "redis.x86_64                        5.0.8-1.fc32                         fedora",
         "redis.x86_64                        5.0.9-1.fc32                         updates"
+    ],
+    "kojiPackages": [
+        "redis-5.0.9-1.fc32",
+        "redis-5.0.8-1.fc32",
+        "redis-5.0.7-3.fc32",
+        "redis-5.0.7-2.fc32",
+        "redis-5.0.7-1.fc32",
+        "redis-5.0.6-1.fc32"
     ]
 }

@@ -15,5 +15,25 @@
     "list": [
         "redis.x86_64                        4.0.9-1.fc28                         fedora",
         "redis.x86_64                        5.0.4-1.fc28                         updates"
+    ],
+    "kojiPackages": [
+        "redis-5.0.4-1.fc28",
+        "redis-5.0.3-1.fc28",
+        "redis-5.0.2-1.fc28",
+        "redis-5.0.1-1.fc28",
+        "redis-5.0.0-1.fc28",
+        "redis-4.0.11-1.fc28",
+        "redis-4.0.10-1.fc28",
+        "redis-4.0.9-1.fc28",
+        "redis-4.0.8-2.fc28",
+        "redis-4.0.8-1.fc28",
+        "redis-4.0.7-1.fc28",
+        "redis-4.0.6-1.fc28",
+        "redis-4.0.5-1.fc28",
+        "redis-4.0.4-1.fc28",
+        "redis-4.0.2-2.fc28",
+        "redis-4.0.2-1.fc28",
+        "redis-3.2.11-1.fc28",
+        "redis-3.2.10-2.fc28"
     ]
 }

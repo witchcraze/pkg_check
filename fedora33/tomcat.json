@@ -16,5 +16,32 @@
     "list": [
         "tomcat.noarch                      1:9.0.38-1.fc33                       fedora",
         "tomcat.noarch                      1:9.0.54-1.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "tomcat-9.0.55-1.fc33",
+        "tomcat-9.0.54-1.fc33",
+        "tomcat-9.0.53-1.fc33",
+        "tomcat-9.0.52-1.fc33",
+        "tomcat-9.0.50-1.fc33",
+        "tomcat-9.0.45-1.fc33",
+        "tomcat-9.0.44-1.fc33",
+        "tomcat-9.0.43-1.fc33",
+        "tomcat-9.0.41-1.fc33",
+        "tomcat-9.0.40-1.fc33",
+        "tomcat-9.0.39-1.fc33",
+        "tomcat-9.0.38-1.fc33",
+        "tomcat-9.0.37-4.module_f33+9953+76bc174e",
+        "tomcat-9.0.37-4.fc33",
+        "tomcat-9.0.37-3.fc33",
+        "tomcat-9.0.37-2.fc33",
+        "tomcat-9.0.37-1.fc33",
+        "tomcat-9.0.36-2.fc33",
+        "tomcat-9.0.36-1.fc33",
+        "tomcat-9.0.35-2.fc33",
+        "tomcat-9.0.35-1.fc33",
+        "tomcat-9.0.34-2.fc33",
+        "tomcat-9.0.34-1.fc33",
+        "tomcat-9.0.31-1.fc33",
+        "tomcat-9.0.30-2.module_f33+8025+7d491847"
     ]
 }

@@ -15,5 +15,12 @@
     },
     "list": [
         "nodejs.x86_64        1:13.14.0-1.module_f31+8852+09e47682        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-13.14.0-1.module_f31+8852+09e47682",
+        "nodejs-13.13.0-1.module_f31+8694+712c5845",
+        "nodejs-13.11.0-2.module_f31+8331+2cfeb415",
+        "nodejs-13.11.0-1.module_f31+8296+6b3cd70f",
+        "nodejs-13.9.0-1.module_f31+8198+a4049931"
     ]
 }

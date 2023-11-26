@@ -15,5 +15,31 @@
     "list": [
         "httpd.x86_64                       2.4.39-2.fc30                         fedora",
         "httpd.x86_64                       2.4.41-6.1.fc30                       updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.41-6.1.fc30",
+        "httpd-2.4.41-5.fc30",
+        "httpd-2.4.41-4.fc30",
+        "httpd-2.4.41-1.fc30",
+        "httpd-2.4.39-4.fc30",
+        "httpd-2.4.39-3.fc30",
+        "httpd-2.4.39-2.fc30",
+        "httpd-2.4.39-1.fc30",
+        "httpd-2.4.38-6.fc30",
+        "httpd-2.4.38-4.fc30",
+        "httpd-2.4.38-3.fc30",
+        "httpd-2.4.38-2.fc30",
+        "httpd-2.4.38-1.fc30",
+        "httpd-2.4.37-6.fc30",
+        "httpd-2.4.37-5.fc30",
+        "httpd-2.4.37-4.fc30",
+        "httpd-2.4.37-3.fc30",
+        "httpd-2.4.37-2.fc30",
+        "httpd-2.4.37-1.fc30",
+        "httpd-2.4.34-10.fc30",
+        "httpd-2.4.34-9.fc30",
+        "httpd-2.4.34-8.fc30",
+        "httpd-2.4.34-6.fc30",
+        "httpd-2.4.34-5.fc30"
     ]
 }

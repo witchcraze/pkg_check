@@ -16,5 +16,16 @@
     "list": [
         "squid.x86_64                        7:5.8-1.fc38                         fedora",
         "squid.x86_64                        7:6.5-1.fc38                         updates"
+    ],
+    "kojiPackages": [
+        "squid-6.5-1.fc38",
+        "squid-6.4-1.fc38",
+        "squid-6.1-1.fc38",
+        "squid-5.9-1.fc38",
+        "squid-5.8-1.fc38",
+        "squid-5.7-4.fc38",
+        "squid-5.7-3.fc38",
+        "squid-5.7-2.fc38",
+        "squid-5.7-1.fc38"
     ]
 }

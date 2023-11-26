@@ -17,5 +17,26 @@
         "python37.x86_64                    3.7.0-0.14.b3.fc28                    fedora",
         "python37.i686                      3.7.3-1.fc28                          updates",
         "python37.x86_64                    3.7.3-1.fc28                          updates"
+    ],
+    "kojiPackages": [
+        "python37-3.7.3-1.fc28",
+        "python37-3.7.2-2.fc28",
+        "python37-3.7.2-1.fc28",
+        "python37-3.7.1-1.fc28",
+        "python37-3.7.0-10.fc28",
+        "python37-3.7.0-1.fc28",
+        "python37-3.7.0-0.20.rc1.fc28",
+        "python37-3.7.0-0.19.b5.fc28",
+        "python37-3.7.0-0.18.b4.fc28",
+        "python37-3.7.0-0.17.b4.fc28",
+        "python37-3.7.0-0.14.b3.fc28",
+        "python37-3.7.0-0.12.b2.fc28",
+        "python37-3.7.0-0.9.b1.fc28",
+        "python37-3.7.0-0.8.b1.fc28",
+        "python37-3.7.0-0.7.b1.fc28",
+        "python37-3.7.0-0.6.a4.fc28",
+        "python37-3.7.0-0.4.a4.fc28",
+        "python37-3.7.0-0.2.a4.fc28",
+        "python37-3.7.0-0.1.a2.fc28"
     ]
 }

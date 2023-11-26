@@ -15,5 +15,10 @@
     "list": [
         "python3.6.i686                        3.6.15-20.fc39                      fedora",
         "python3.6.x86_64                      3.6.15-20.fc39                      fedora"
+    ],
+    "kojiPackages": [
+        "python3.6-3.6.15-20.fc39",
+        "python3.6-3.6.15-19.fc39",
+        "python3.6-3.6.15-18.fc39"
     ]
 }

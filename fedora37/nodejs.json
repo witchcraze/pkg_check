@@ -20,5 +20,26 @@
         "nodejs.x86_64                      1:18.12.1-1.fc37                      updates",
         "nodejs.i686                        1:18.18.2-1.fc37                      updates",
         "nodejs.x86_64                      1:18.18.2-1.fc37                      updates"
+    ],
+    "kojiPackages": [
+        "nodejs-18.12.1-1.fc37",
+        "nodejs-18.11.0-3.fc37",
+        "nodejs-18.11.0-2.fc37",
+        "nodejs-18.11.0-1.fc37",
+        "nodejs-18.10.0-1.fc37",
+        "nodejs-18.9.1-1.fc37",
+        "nodejs-18.9.0-1.fc37",
+        "nodejs-18.7.0-1.fc37",
+        "nodejs-18.6.0-1.fc37.1",
+        "nodejs-18.6.0-1.fc37",
+        "nodejs-18.5.0-1.fc37",
+        "nodejs-18.4.0-1.fc37",
+        "nodejs-18.3.0-2.fc37",
+        "nodejs-18.3.0-1.fc37",
+        "nodejs-16.15.0-3.fc37",
+        "nodejs-16.15.0-2.fc37",
+        "nodejs-16.15.0-1.fc37",
+        "nodejs-16.14.1-1.fc37",
+        "nodejs-16.14.0-2.fc37"
     ]
 }

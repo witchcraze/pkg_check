@@ -15,5 +15,20 @@
     "list": [
         "tomcat.noarch                      1:8.0.36-2.fc25                       fedora",
         "tomcat.noarch                      1:8.0.47-1.fc25                       updates"
+    ],
+    "kojiPackages": [
+        "tomcat-8.0.47-1.fc25",
+        "tomcat-8.0.46-1.fc25",
+        "tomcat-8.0.44-1.fc25",
+        "tomcat-8.0.43-1.fc25",
+        "tomcat-8.0.42-1.fc25",
+        "tomcat-8.0.41-1.fc25",
+        "tomcat-8.0.39-1.fc25",
+        "tomcat-8.0.38-1.fc25",
+        "tomcat-8.0.37-3.fc25",
+        "tomcat-8.0.36-2.fc25",
+        "tomcat-8.0.36-1.fc25",
+        "tomcat-8.0.32-4.fc25",
+        "tomcat-8.0.32-3.fc25"
     ]
 }

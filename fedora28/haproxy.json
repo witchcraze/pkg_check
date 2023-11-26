@@ -15,5 +15,22 @@
     "list": [
         "haproxy.x86_64                       1.8.4-2.fc28                        fedora",
         "haproxy.x86_64                       1.8.17-1.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "haproxy-1.8.19-1.fc28",
+        "haproxy-1.8.17-1.fc28",
+        "haproxy-1.8.15-1.fc28",
+        "haproxy-1.8.14-1.fc28",
+        "haproxy-1.8.12-2.fc28",
+        "haproxy-1.8.12-1.fc28",
+        "haproxy-1.8.8-2.fc28",
+        "haproxy-1.8.8-1.fc28",
+        "haproxy-1.8.7-1.fc28",
+        "haproxy-1.8.4-2.fc28",
+        "haproxy-1.8.3-5.fc28",
+        "haproxy-1.8.3-3.fc28",
+        "haproxy-1.8.3-2.fc28",
+        "haproxy-1.8.3-1.fc28",
+        "haproxy-1.7.9-1.fc28"
     ]
 }

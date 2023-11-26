@@ -17,5 +17,25 @@
         "python2.x86_64                      2.7.15-10.fc29                       fedora",
         "python2.i686                        2.7.17-1.fc29                        updates",
         "python2.x86_64                      2.7.17-1.fc29                        updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.17-1.fc29",
+        "python2-2.7.16-2.fc29",
+        "python2-2.7.16-1.fc29",
+        "python2-2.7.15-11.fc29",
+        "python2-2.7.15-10.fc29",
+        "python2-2.7.15-8.fc29",
+        "python2-2.7.15-7.fc29",
+        "python2-2.7.15-6.fc29",
+        "python2-2.7.15-5.fc29",
+        "python2-2.7.15-4.fc29",
+        "python2-2.7.15-3.fc29",
+        "python2-2.7.15-2.fc29",
+        "python2-2.7.15-1.fc29",
+        "python2-2.7.14-17.fc29",
+        "python2-2.7.14-15.fc29",
+        "python2-2.7.14-14.fc29",
+        "python2-2.7.14-13.fc29",
+        "python2-2.7.14-12.fc29"
     ]
 }

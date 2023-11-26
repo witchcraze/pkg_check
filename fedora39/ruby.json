@@ -15,5 +15,10 @@
     "list": [
         "ruby.i686                          3.2.2-181.fc39                         fedora",
         "ruby.x86_64                        3.2.2-181.fc39                         fedora"
+    ],
+    "kojiPackages": [
+        "ruby-3.2.2-181.fc39",
+        "ruby-3.2.2-180.fc39",
+        "ruby-3.2.1-179.fc39"
     ]
 }

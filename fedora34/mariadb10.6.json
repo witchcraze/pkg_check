@@ -15,5 +15,11 @@
     },
     "list": [
         "mariadb.x86_64       3:10.6.7-1.module_f34+14398+d94e6811        updates-modular"
+    ],
+    "kojiPackages": [
+        "mariadb-10.6.8-1.module_f34+14508+f0207e0f",
+        "mariadb-10.6.7-1.module_f34+14398+d94e6811",
+        "mariadb-10.6.5-1.module_f34+13477+2f9ec574",
+        "mariadb-10.6.5-1.module_f34+13474+445eeb5a"
     ]
 }

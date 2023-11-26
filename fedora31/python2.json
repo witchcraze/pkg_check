@@ -17,5 +17,16 @@
         "python2.x86_64                       2.7.16-4.fc31                       fedora",
         "python2.i686                         2.7.18-6.fc31                       updates",
         "python2.x86_64                       2.7.18-6.fc31                       updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.18-6.fc31",
+        "python2-2.7.18-2.fc31",
+        "python2-2.7.18-1.fc31",
+        "python2-2.7.17-1.fc31",
+        "python2-2.7.16-4.fc31",
+        "python2-2.7.16-3.fc31",
+        "python2-2.7.16-2.fc31",
+        "python2-2.7.16-1.fc31",
+        "python2-2.7.16~rc1-1.fc31"
     ]
 }

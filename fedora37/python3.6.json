@@ -17,5 +17,16 @@
         "python3.6.x86_64                     3.6.15-12.fc37                      fedora",
         "python3.6.i686                       3.6.15-16.fc37                      updates",
         "python3.6.x86_64                     3.6.15-16.fc37                      updates"
+    ],
+    "kojiPackages": [
+        "python3.6-3.6.15-16.fc37",
+        "python3.6-3.6.15-15.fc37",
+        "python3.6-3.6.15-14.fc37",
+        "python3.6-3.6.15-13.fc37",
+        "python3.6-3.6.15-12.fc37",
+        "python3.6-3.6.15-11.fc37",
+        "python3.6-3.6.15-9.fc37",
+        "python3.6-3.6.15-8.fc37",
+        "python3.6-3.6.15-7.fc37"
     ]
 }

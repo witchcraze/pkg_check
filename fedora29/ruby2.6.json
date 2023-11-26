@@ -14,5 +14,15 @@
     },
     "list": [
         "ruby.x86_64          2.6.3-120.module_f29+4420+eea93459          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.6.3-122.module_f29+6628+1b40f945",
+        "ruby-2.6.3-122.module_f29+6071+5e1dd2b3",
+        "ruby-2.6.3-120.module_f29+4420+eea93459",
+        "ruby-2.6.3-120.module_f29+4418+a52419e1",
+        "ruby-2.6.2-119.module_f29+3836+4592e78f",
+        "ruby-2.6.2-119.module_f29+3814+baba219b",
+        "ruby-2.6.1-115.module_f29+3604+0dd4c207",
+        "ruby-2.6.1-114.module_f29+3028+8256bd1e"
     ]
 }

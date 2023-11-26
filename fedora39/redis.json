@@ -15,5 +15,20 @@
     "list": [
         "redis.x86_64                        7.2.1-2.fc39                         fedora",
         "redis.x86_64                        7.2.3-1.fc39                         updates"
+    ],
+    "kojiPackages": [
+        "redis-7.2.3-1.fc39",
+        "redis-7.2.2-1.fc39",
+        "redis-7.2.1-2.fc39",
+        "redis-7.2.1-1.fc39",
+        "redis-7.2.0-1.fc39",
+        "redis-7.2~rc3-2.fc39",
+        "redis-7.2~rc3-1.fc39",
+        "redis-7.2~rc2-1.fc39",
+        "redis-7.2~rc1-3.fc39",
+        "redis-7.2~rc1-2.fc39",
+        "redis-7.2~rc1-1.fc39",
+        "redis-7.0.10-1.fc39",
+        "redis-7.0.9-1.fc39"
     ]
 }

@@ -14,5 +14,14 @@
     },
     "list": [
         "postgresql.x86_64       10.18-1.module_f33+13245+4eeab1e3        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-10.18-1.module_f33+13245+4eeab1e3",
+        "postgresql-10.15-1.module_f33+10936+71432ad5",
+        "postgresql-10.14-1.module_f33+10074+60397988",
+        "postgresql-10.13-1.module_f33+10071+b8544c22",
+        "postgresql-10.13-1.module_f33+9886+2311cd76",
+        "postgresql-10.13-1.module_f33+8987+c77d3488",
+        "postgresql-10.10-1.module_f33+7937+8a92296d"
     ]
 }

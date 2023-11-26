@@ -16,5 +16,10 @@
         "ruby.i686           2.7.1-134.module_f34+9689+e3ec17c1           fedora-modular",
         "ruby.x86_64         2.7.1-134.module_f34+9689+e3ec17c1           fedora-modular",
         "ruby.x86_64         2.7.4-139.module_f34+12416+87f3e49a          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.7.4-139.module_f34+12416+87f3e49a",
+        "ruby-2.7.1-134.module_f34+9909+425a958e",
+        "ruby-2.7.1-134.module_f34+9689+e3ec17c1"
     ]
 }

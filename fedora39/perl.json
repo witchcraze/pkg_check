@@ -16,5 +16,14 @@
     "list": [
         "perl.x86_64                      4:5.38.0-500.fc39                       fedora",
         "perl.x86_64                      4:5.38.0-501.fc39                       updates"
+    ],
+    "kojiPackages": [
+        "perl-5.38.0-502.fc39app3",
+        "perl-5.38.0-501.fc39",
+        "perl-5.38.0-500.fc39",
+        "perl-5.38.0-499.fc39",
+        "perl-5.38.0-498.fc39",
+        "perl-5.36.1-497.fc39",
+        "perl-5.36.1-496.fc39"
     ]
 }

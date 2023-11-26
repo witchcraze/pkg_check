@@ -16,5 +16,16 @@
     "list": [
         "tomcat.noarch                      1:9.0.10-1.fc29                       fedora",
         "tomcat.noarch                      1:9.0.26-2.fc29                       updates"
+    ],
+    "kojiPackages": [
+        "tomcat-9.0.26-2.fc29",
+        "tomcat-9.0.21-3.fc29",
+        "tomcat-9.0.21-2.fc29",
+        "tomcat-9.0.21-1.fc29",
+        "tomcat-9.0.13-1.fc29",
+        "tomcat-9.0.10-1.fc29",
+        "tomcat-9.0.7-2.fc29",
+        "tomcat-9.0.7-1.fc29",
+        "tomcat-8.5.29-1.fc29"
     ]
 }

@@ -16,5 +16,20 @@
     "list": [
         "perl.x86_64        4:5.28.2-442.module_f32+8111+66b92dcd         fedora-modular",
         "perl.x86_64        4:5.28.2-444.module_f32+8513+01a85d28         updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.28.2-444.module_f32+9704+8b7d4523",
+        "perl-5.28.2-444.module_f32+9685+fa76801c",
+        "perl-5.28.2-444.module_f32+8513+01a85d28",
+        "perl-5.28.2-444.module_f32+8495+0c171aa6",
+        "perl-5.28.2-442.module_f32+8111+66b92dcd",
+        "perl-5.28.2-442.module_f32+8059+8a5cccba",
+        "perl-5.28.2-442.module_f32+7958+649363be",
+        "perl-5.28.2-441.module_f32+7925+436e104d",
+        "perl-5.28.2-441.module_f32+7156+166c68f2",
+        "perl-5.28.2-440.module_f32+6399+4f5ca707",
+        "perl-5.28.2-439.module_f32+6051+c55fe8d4",
+        "perl-5.28.2-439.module_f32+6028+fa6eee1b",
+        "perl-5.28.2-439.module_f32+6018+a18e12d5"
     ]
 }

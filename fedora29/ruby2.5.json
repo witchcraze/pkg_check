@@ -14,5 +14,10 @@
     },
     "list": [
         "ruby.x86_64          2.5.5-105.module_f29+4257+f7b00971          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.5.5-105.module_f29+4257+f7b00971",
+        "ruby-2.5.5-105.module_f29+4126+8ecbdf73",
+        "ruby-2.5.3-104.module_f29+3889+fae9861f"
     ]
 }

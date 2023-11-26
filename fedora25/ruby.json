@@ -17,5 +17,18 @@
         "ruby.x86_64                        2.3.1-58.fc25                         fedora",
         "ruby.i686                          2.3.4-64.fc25                         updates",
         "ruby.x86_64                        2.3.4-64.fc25                         updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.3.5-65.fc25",
+        "ruby-2.3.4-64.fc25",
+        "ruby-2.3.4-63.fc25",
+        "ruby-2.3.3-62.fc25",
+        "ruby-2.3.3-61.1.fc25",
+        "ruby-2.3.3-61.fc25",
+        "ruby-2.3.2-60.fc25",
+        "ruby-2.3.1-58.fc25",
+        "ruby-2.3.1-57.fc25",
+        "ruby-2.3.1-56.fc25",
+        "ruby-2.3.1-55.fc25"
     ]
 }

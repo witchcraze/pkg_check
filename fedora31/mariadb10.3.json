@@ -16,5 +16,25 @@
     "list": [
         "mariadb.x86_64       3:10.3.17-1.module_f31+6004+4549445a        fedora-modular",
         "mariadb.x86_64       3:10.3.27-1.module_f31+10592+00138f49       updates-modular"
+    ],
+    "kojiPackages": [
+        "mariadb-10.3.27-1.module_f31+10592+00138f49",
+        "mariadb-10.3.26-1.module_f31+10547+db84b295",
+        "mariadb-10.3.26-1.module_f31+10534+8c19a5be",
+        "mariadb-10.3.25-1.module_f31+10477+9dd24654",
+        "mariadb-10.3.22-2.module_f31+9633+6008c1ba",
+        "mariadb-10.3.22-2.module_f31+9517+d902e740",
+        "mariadb-10.3.22-1.module_f31+8211+f8c33345",
+        "mariadb-10.3.21-1.module_f31+7848+02ef7396",
+        "mariadb-10.3.21-3.module_f31+7326+2f50b29b",
+        "mariadb-10.3.20-3.module_f31+7124+ede85aa6",
+        "mariadb-10.3.18-1.module_f31+6967+84bd25ec",
+        "mariadb-10.3.17-3.module_f31+6680+f2703393",
+        "mariadb-10.3.17-1.module_f31+6004+4549445a",
+        "mariadb-10.3.16-1.module_f31+5422+98e7bd26",
+        "mariadb-10.3.16-1.module_f31+4754+bd82614e",
+        "mariadb-10.3.15-1.module_f31+4702+1e64c325",
+        "mariadb-10.3.15-1.module_f31+4693+76c9037f",
+        "mariadb-10.3.12-10.module_f31+3340+79f6add1"
     ]
 }

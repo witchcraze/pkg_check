@@ -14,5 +14,13 @@
     },
     "list": [
         "varnish.x86_64                        5.2.1-4.fc28                        fedora"
+    ],
+    "kojiPackages": [
+        "varnish-5.2.1-4.fc28.1",
+        "varnish-5.2.1-4.fc28",
+        "varnish-5.2.1-3.fc28",
+        "varnish-5.2.1-2.fc28",
+        "varnish-5.2.1-1.fc28",
+        "varnish-5.2.0-1.fc28"
     ]
 }

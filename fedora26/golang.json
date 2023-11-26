@@ -15,5 +15,27 @@
     "list": [
         "golang.x86_64                        1.8.1-2.fc26                        fedora",
         "golang.x86_64                        1.8.7-1.fc26                        updates"
+    ],
+    "kojiPackages": [
+        "golang-1.8.7-1.fc26",
+        "golang-1.8.5-1.fc26",
+        "golang-1.8.4-1.fc26",
+        "golang-1.8.3-2.fc26",
+        "golang-1.8.3-1.fc26",
+        "golang-1.8.1-2.fc26",
+        "golang-1.8.1-1.fc26",
+        "golang-1.8-2.fc26",
+        "golang-1.8-1.fc26",
+        "golang-1.8-0.rc3.2.fc26.1",
+        "golang-1.8-0.rc3.2.fc26",
+        "golang-1.8-0.rc3.1.fc26",
+        "golang-1.7.4-2.fc26",
+        "golang-1.7.4-1.fc26",
+        "golang-1.7.3-2.fc26",
+        "golang-1.7.3-1.fc26",
+        "golang-1.7.1-2.fc26",
+        "golang-1.7.1-1.fc26",
+        "golang-1.7-1.fc26",
+        "golang-1.7-0.2.rc5.fc26"
     ]
 }

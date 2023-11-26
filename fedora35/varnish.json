@@ -17,5 +17,22 @@
         "varnish.x86_64                       6.6.1-3.fc35                        fedora",
         "varnish.i686                         6.6.2-3.fc35                        updates",
         "varnish.x86_64                       6.6.2-3.fc35                        updates"
+    ],
+    "kojiPackages": [
+        "varnish-6.0.11-1.module_f35+15719+9bdc8005",
+        "varnish-6.0.11-1.module_f35+15711+c9125da6",
+        "varnish-6.0.11-1.module_f35+15704+902d2494",
+        "varnish-6.6.2-3.fc35",
+        "varnish-6.0.10-1.module_f35+15273+8ddbf643",
+        "varnish-6.6.2-2.fc35",
+        "varnish-6.0.10-1.module_f35+13737+9006786b",
+        "varnish-6.6.2-1.fc35",
+        "varnish-6.0.9-1.module_f35+13663+98b8c0f3",
+        "varnish-6.6.1-3.fc35",
+        "varnish-6.0.8-1.module_f35+12423+350f040c",
+        "varnish-6.6.1-2.fc35",
+        "varnish-6.6.1-1.fc35",
+        "varnish-6.6.0-1.fc35",
+        "varnish-6.5.1-4.fc35"
     ]
 }

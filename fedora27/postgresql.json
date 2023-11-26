@@ -15,5 +15,28 @@
     "list": [
         "postgresql.x86_64                     9.6.5-1.fc27                       fedora",
         "postgresql.x86_64                     9.6.10-3.fc27                      updates"
+    ],
+    "kojiPackages": [
+        "postgresql-9.6.11-1.fc27",
+        "postgresql-9.6.10-3.fc27",
+        "postgresql-9.6.10-2.fc27",
+        "postgresql-9.6.10-1.fc27",
+        "postgresql-9.6.9-1.fc27",
+        "postgresql-9.6.8-1.fc27",
+        "postgresql-9.6.7-1.fc27",
+        "postgresql-9.6.6-1.fc27",
+        "postgresql-9.6.5-1.fc27",
+        "postgresql-9.6.4-1.fc27",
+        "postgresql-9.6.3-9.fc27",
+        "postgresql-9.6.3-8.fc27",
+        "postgresql-9.6.3-7.fc27",
+        "postgresql-9.6.3-6.fc27",
+        "postgresql-9.6.3-5.fc27",
+        "postgresql-9.6.3-3.fc27",
+        "postgresql-9.6.3-2.fc27",
+        "postgresql-9.6.3-1.fc27",
+        "postgresql-9.6.2-4.fc27",
+        "postgresql-9.6.2-2.fc27",
+        "postgresql-9.6.2-1.fc27"
     ]
 }

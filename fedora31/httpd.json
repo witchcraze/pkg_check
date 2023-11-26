@@ -15,5 +15,33 @@
     "list": [
         "httpd.x86_64                        2.4.41-5.fc31                        fedora",
         "httpd.x86_64                        2.4.46-1.fc31                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.46-1.fc31",
+        "httpd-2.4.43-7.module_f31+9607+02932ea1",
+        "httpd-2.4.43-7.module_f31+9375+50453ee9",
+        "httpd-2.4.43-1.fc31",
+        "httpd-2.4.41-12.fc31",
+        "httpd-2.4.41-9.fc31",
+        "httpd-2.4.41-5.fc31",
+        "httpd-2.4.41-1.fc31",
+        "httpd-2.4.39-4.module_f31+5388+803b7968",
+        "httpd-2.4.39-13.fc31",
+        "httpd-2.4.39-12.fc31",
+        "httpd-2.4.39-11.fc31",
+        "httpd-2.4.39-10.fc31",
+        "httpd-2.4.39-9.fc31",
+        "httpd-2.4.39-8.fc31",
+        "httpd-2.4.39-7.fc31",
+        "httpd-2.4.39-6.fc31",
+        "httpd-2.4.39-5.fc31",
+        "httpd-2.4.39-4.module_f31+4477+190d928f",
+        "httpd-2.4.39-4.module_f31+4472+426cdb33",
+        "httpd-2.4.34-3.module_f31+4445+433b915b",
+        "httpd-2.4.39-4.fc31",
+        "httpd-2.4.39-3.fc31",
+        "httpd-2.4.39-2.fc31",
+        "httpd-2.4.39-1.fc31",
+        "httpd-2.4.38-6.fc31"
     ]
 }

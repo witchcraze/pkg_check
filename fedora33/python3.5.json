@@ -17,5 +17,14 @@
         "python3.5.x86_64                      3.5.10-1.fc33                      fedora",
         "python3.5.i686                        3.5.10-7.fc33                      updates",
         "python3.5.x86_64                      3.5.10-7.fc33                      updates"
+    ],
+    "kojiPackages": [
+        "python3.5-3.5.10-7.fc33",
+        "python3.5-3.5.10-5.fc33",
+        "python3.5-3.5.10-1.fc33",
+        "python3.5-3.5.10~rc1-1.fc33",
+        "python3.5-3.5.9-9.fc33",
+        "python3.5-3.5.9-6.fc33",
+        "python3.5-3.5.9-5.fc33"
     ]
 }

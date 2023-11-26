@@ -15,5 +15,9 @@
     "list": [
         "python33.i686                         3.3.6-2.fc25                        fedora",
         "python33.x86_64                       3.3.6-2.fc25                        fedora"
+    ],
+    "kojiPackages": [
+        "python33-3.3.6-2.fc25",
+        "python33-3.3.6-1.fc25"
     ]
 }

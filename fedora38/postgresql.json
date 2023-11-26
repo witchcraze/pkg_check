@@ -17,5 +17,14 @@
         "postgresql.x86_64                      15.1-2.fc38                       fedora",
         "postgresql.i686                        15.4-1.fc38                       updates",
         "postgresql.x86_64                      15.4-1.fc38                       updates"
+    ],
+    "kojiPackages": [
+        "postgresql-15.4-1.fc38",
+        "postgresql-15.1-2.fc38",
+        "postgresql-15.1-1.fc38",
+        "postgresql-15.0-2.fc38",
+        "postgresql-15.0-1.fc38",
+        "postgresql-14.3-10.fc38",
+        "postgresql-14.3-9.fc38"
     ]
 }

@@ -18,5 +18,31 @@
         "openssl.x86_64                     1:1.1.1d-2.fc29                      @updates",
         "openssl.x86_64                     1:1.1.1-3.fc29                       fedora",
         "openssl.x86_64                     1:1.1.1d-2.fc29                      updates"
+    ],
+    "kojiPackages": [
+        "openssl-1.1.1d-2.fc29",
+        "openssl-1.1.1d-1.fc29",
+        "openssl-1.1.1c-6.fc29",
+        "openssl-1.1.1c-2.fc29",
+        "openssl-1.1.1b-5.fc29",
+        "openssl-1.1.1b-3.fc29",
+        "openssl-1.1.1b-2.fc29",
+        "openssl-1.1.1b-1.fc29",
+        "openssl-1.1.1a-1.fc29",
+        "openssl-1.1.1-3.fc29",
+        "openssl-1.1.1-2.fc29",
+        "openssl-1.1.1-0.pre9.3.fc29",
+        "openssl-1.1.1-0.pre9.1.fc29",
+        "openssl-1.1.1-0.pre8.4.fc29",
+        "openssl-1.1.1-0.pre8.3.fc29",
+        "openssl-1.1.1-0.pre8.2.fc29",
+        "openssl-1.1.1-0.pre8.fc29",
+        "openssl-1.1.0h-6.fc29",
+        "openssl-1.1.0h-5.fc29",
+        "openssl-1.1.0h-4.fc29",
+        "openssl-1.1.0h-3.fc29",
+        "openssl-1.1.0h-2.fc29",
+        "openssl-1.1.0h-1.fc29",
+        "openssl-1.1.0g-6.fc29"
     ]
 }

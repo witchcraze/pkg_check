@@ -15,5 +15,32 @@
     "list": [
         "golang.x86_64                       1.16-2.fc34                          fedora",
         "golang.x86_64                       1.16.15-1.fc34                       updates"
+    ],
+    "kojiPackages": [
+        "golang-1.16.15-1.fc34",
+        "golang-1.16.14-1.fc34",
+        "golang-1.16.13-1.fc34",
+        "golang-1.16.12-1.fc34",
+        "golang-1.16.11-1.fc34",
+        "golang-1.16.10-1.fc34",
+        "golang-1.16.8-1.fc34",
+        "golang-1.16.6-2.fc34",
+        "golang-1.16.6-1.fc34",
+        "golang-1.16.5-1.fc34",
+        "golang-1.16.4-2.fc34",
+        "golang-1.16.4-1.fc34",
+        "golang-1.16.3-1.fc34",
+        "golang-1.16-2.fc34",
+        "golang-1.16-1.fc34",
+        "golang-1.16-0.rc1.1.fc34",
+        "golang-1.16-0.beta1.1.fc34.1",
+        "golang-1.16-0.beta1.1.fc34",
+        "golang-1.15.6-1.fc34",
+        "golang-1.15.5-1.fc34",
+        "golang-1.15.4-1.fc34",
+        "golang-1.15.3-1.fc34",
+        "golang-1.15.2-1.fc34",
+        "golang-1.15.1-1.fc34",
+        "golang-1.15-1.fc34"
     ]
 }

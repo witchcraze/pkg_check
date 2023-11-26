@@ -19,5 +19,30 @@
         "python3.x86_64                       3.7.3-1.fc30                       fedora",
         "python3.i686                         3.7.7-1.fc30                       updates",
         "python3.x86_64                       3.7.7-1.fc30                       updates"
+    ],
+    "kojiPackages": [
+        "python3-3.7.7-1.fc30",
+        "python3-3.7.6-2.fc30",
+        "python3-3.7.6-1.fc30",
+        "python3-3.7.5-2.fc30",
+        "python3-3.7.5-1.fc30",
+        "python3-3.7.4-1.fc30",
+        "python3-3.7.3-3.fc30",
+        "python3-3.7.3-1.fc30",
+        "python3-3.7.2-8.fc30",
+        "python3-3.7.2-7.fc30",
+        "python3-3.7.2-6.fc30",
+        "python3-3.7.2-5.fc30",
+        "python3-3.7.2-4.fc30",
+        "python3-3.7.2-3.fc30",
+        "python3-3.7.2-2.fc30",
+        "python3-3.7.2-1.fc30",
+        "python3-3.7.1-5.fc30",
+        "python3-3.7.1-4.fc30",
+        "python3-3.7.1-2.fc30",
+        "python3-3.7.1-1.fc30",
+        "python3-3.7.0-10.fc30",
+        "python3-3.7.0-9.fc30",
+        "python3-3.7.0-8.fc30"
     ]
 }

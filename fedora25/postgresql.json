@@ -15,5 +15,20 @@
     "list": [
         "postgresql.x86_64                     9.5.4-1.fc25                       fedora",
         "postgresql.x86_64                     9.5.10-1.fc25                      updates"
+    ],
+    "kojiPackages": [
+        "postgresql-9.5.10-1.fc25",
+        "postgresql-9.5.9-1.fc25",
+        "postgresql-9.5.8-1.fc25",
+        "postgresql-9.5.7-1.fc25",
+        "postgresql-9.5.6-1.fc25",
+        "postgresql-9.5.5-1.fc25",
+        "postgresql-9.5.4-1.fc25",
+        "postgresql-9.5.3-3.fc25",
+        "postgresql-9.5.3-2.fc25",
+        "postgresql-9.5.3-1.fc25",
+        "postgresql-9.5.2-2.fc25",
+        "postgresql-9.5.2-1.fc25",
+        "postgresql-9.5.1-2.fc25"
     ]
 }

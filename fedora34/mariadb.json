@@ -16,5 +16,27 @@
     "list": [
         "mariadb.x86_64                     3:10.5.9-5.fc34                       fedora",
         "mariadb.x86_64                     3:10.5.15-1.fc34                      updates"
+    ],
+    "kojiPackages": [
+        "mariadb-10.5.16-1.fc34",
+        "mariadb-10.5.15-1.fc34",
+        "mariadb-10.5.13-1.fc34",
+        "mariadb-10.5.12-1.fc34",
+        "mariadb-10.5.11-1.fc34",
+        "mariadb-10.5.10-1.fc34",
+        "mariadb-10.5.9-5.fc34",
+        "mariadb-10.5.9-1.fc34",
+        "mariadb-10.5.8-8.fc34",
+        "mariadb-10.5.8-4.fc34",
+        "mariadb-10.5.8-5.fc34",
+        "mariadb-10.5.8-3.fc34",
+        "mariadb-10.5.8-2.fc34",
+        "mariadb-10.5.8-1.fc34",
+        "mariadb-10.4.17-1.fc34",
+        "mariadb-10.4.16-1.fc34",
+        "mariadb-10.4.14-3.fc34",
+        "mariadb-10.4.14-2.fc34",
+        "mariadb-10.4.14-1.fc34",
+        "mariadb-10.4.13-7.fc34"
     ]
 }

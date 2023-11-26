@@ -16,5 +16,11 @@
     "list": [
         "openssl1.1.i686                       1:1.1.1i-2.fc34                     fedora",
         "openssl1.1.x86_64                     1:1.1.1i-2.fc34                     fedora"
+    ],
+    "kojiPackages": [
+        "openssl1.1-1.1.1i-2.fc34",
+        "openssl1.1-1.1.1i-1.fc34",
+        "openssl1.1-1.1.1g-3.fc34",
+        "openssl1.1-1.1.1g-2.fc34"
     ]
 }

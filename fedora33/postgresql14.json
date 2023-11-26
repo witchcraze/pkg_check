@@ -14,5 +14,9 @@
     },
     "list": [
         "postgresql.x86_64        14.0-1.module_f33+13195+ae7b0f99        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-14.0-1.module_f33+13195+ae7b0f99",
+        "postgresql-14-0.beta2.module_f33+12286+24a1a5c5"
     ]
 }

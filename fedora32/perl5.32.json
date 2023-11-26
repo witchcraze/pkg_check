@@ -15,5 +15,28 @@
     },
     "list": [
         "perl.x86_64        4:5.32.1-468.module_f32+11631+3c374351        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.32.1-468.module_f32+11631+3c374351",
+        "perl-5.32.1-467.module_f32+11300+f9942016",
+        "perl-5.32.1-467.module_f32+11260+b7e900d6",
+        "perl-5.32.1-466.module_f32+11084+3c940dc5",
+        "perl-5.32.0-465.module_f32+10932+ede777ff",
+        "perl-5.32.0-465.module_f32+10929+e9c5d858",
+        "perl-5.32.0-465.module_f32+10924+155d24c4",
+        "perl-5.32.0-464.module_f32+10640+e07cac5b",
+        "perl-5.32.0-464.module_f32+10621+3cbc40c9",
+        "perl-5.32.0-463.module_f32+10368+bd17c5a6",
+        "perl-5.32.0-463.module_f32+10365+35c2c75b",
+        "perl-5.32.0-463.module_f32+10358+07931869",
+        "perl-5.32.0-461.module_f32+9997+06ed7dc8",
+        "perl-5.32.0-461.module_f32+9981+5dd6d603",
+        "perl-5.32.0-460.module_f32+9839+7fe6b9db",
+        "perl-5.32.0-460.module_f32+9697+f7cfbc52",
+        "perl-5.32.0-460.module_f32+9484+7f77411f",
+        "perl-5.32.0-460.module_f32+9482+584dd6fb",
+        "perl-5.32.0-459.module_f32+9469+b469b9b0",
+        "perl-5.32.0-459.module_f32+9465+aef2303a",
+        "perl-5.32.0-458.module_f32+9317+8658e539"
     ]
 }

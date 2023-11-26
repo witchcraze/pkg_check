@@ -16,5 +16,12 @@
         "httpd.i686                          2.4.57-3.fc39                        fedora",
         "httpd.x86_64                        2.4.57-3.fc39                        fedora",
         "httpd.x86_64                        2.4.58-1.fc39                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.58-1.fc39",
+        "httpd-2.4.57-3.fc39",
+        "httpd-2.4.57-2.fc39",
+        "httpd-2.4.57-1.fc39",
+        "httpd-2.4.56-1.fc39"
     ]
 }

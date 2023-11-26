@@ -17,5 +17,17 @@
         "python34.x86_64                      3.4.10-1.fc30                       fedora",
         "python34.i686                        3.4.10-4.fc30                       updates",
         "python34.x86_64                      3.4.10-4.fc30                       updates"
+    ],
+    "kojiPackages": [
+        "python34-3.4.10-4.fc30",
+        "python34-3.4.10-3.fc30",
+        "python34-3.4.10-2.fc30",
+        "python34-3.4.10-1.fc30",
+        "python34-3.4.9-8.fc30",
+        "python34-3.4.9-7.fc30",
+        "python34-3.4.9-6.fc30",
+        "python34-3.4.9-5.fc30",
+        "python34-3.4.9-4.fc30",
+        "python34-3.4.9-3.fc30"
     ]
 }

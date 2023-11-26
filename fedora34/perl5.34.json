@@ -15,5 +15,9 @@
     },
     "list": [
         "perl.x86_64        4:5.34.1-486.module_f34+14416+d5587e02        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.34.1-486.module_f34+14416+d5587e02",
+        "perl-5.34.1-486.module_f34+14406+8fef7942"
     ]
 }

@@ -16,5 +16,15 @@
     "list": [
         "nginx.x86_64                       1:1.16.1-1.fc31                       fedora",
         "nginx.x86_64                       1:1.18.0-1.fc31                       updates"
+    ],
+    "kojiPackages": [
+        "nginx-1.18.0-1.fc31",
+        "nginx-1.16.1-1.fc31",
+        "nginx-1.16.0-5.fc31",
+        "nginx-1.16.0-4.fc31",
+        "nginx-1.16.0-3.fc31",
+        "nginx-1.16.0-2.fc31",
+        "nginx-1.16.0-1.fc31",
+        "nginx-1.15.9-1.fc31"
     ]
 }

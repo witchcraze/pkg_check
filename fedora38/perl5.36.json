@@ -16,5 +16,15 @@
     "list": [
         "perl.x86_64        4:5.36.0-492.module_f38+16103+9a9afa0b        fedora-modular",
         "perl.x86_64        4:5.36.1-494.module_f38+17342+f491223f        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.36.1-494.module_f38+17342+f491223f",
+        "perl-5.36.1-494.module_f38+17332+09097746",
+        "perl-5.36.0-495.module_f38+16534+daa407d4",
+        "perl-5.36.0-492.module_f38+16103+9a9afa0b",
+        "perl-5.36.0-492.module_f38+16026+28edc583",
+        "perl-5.36.0-491.module_f38+15066+601f9d65",
+        "perl-5.36.0-491.module_f38+14946+ce966be0",
+        "perl-5.36.0-491.module_f38+14942+b101928a"
     ]
 }

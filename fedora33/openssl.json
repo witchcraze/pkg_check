@@ -16,5 +16,32 @@
     "list": [
         "openssl.x86_64                     1:1.1.1g-15.fc33                      fedora",
         "openssl.x86_64                     1:1.1.1l-2.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "openssl-1.1.1l-2.fc33",
+        "openssl-1.1.1l-1.fc33",
+        "openssl-1.1.1k-1.fc33",
+        "openssl-1.1.1j-1.fc33",
+        "openssl-1.1.1i-3.fc33",
+        "openssl-1.1.1i-1.fc33",
+        "openssl-1.1.1h-1.fc33",
+        "openssl-1.1.1g-15.fc33",
+        "openssl-1.1.1g-13.fc33",
+        "openssl-1.1.1g-12.fc33",
+        "openssl-1.1.1g-11.fc33",
+        "openssl-1.1.1g-10.fc33",
+        "openssl-1.1.1g-9.fc33",
+        "openssl-1.1.1g-8.fc33",
+        "openssl-1.1.1g-7.fc33",
+        "openssl-1.1.1g-6.fc33",
+        "openssl-1.1.1g-5.fc33",
+        "openssl-1.1.1g-4.fc33",
+        "openssl-1.1.1g-3.fc33",
+        "openssl-1.1.1g-2.fc33",
+        "openssl-1.1.1g-1.fc33",
+        "openssl-1.1.1f-1.fc33",
+        "openssl-1.1.1e-2.fc33",
+        "openssl-1.1.1e-1.fc33",
+        "openssl-1.1.1d-7.fc33"
     ]
 }

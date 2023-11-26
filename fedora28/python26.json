@@ -17,5 +17,14 @@
         "python26.x86_64                      2.6.9-14.fc28                       fedora",
         "python26.i686                        2.6.9-17.fc28                       updates",
         "python26.x86_64                      2.6.9-17.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "python26-2.6.9-17.fc28",
+        "python26-2.6.9-14.fc28",
+        "python26-2.6.9-13.fc28",
+        "python26-2.6.9-12.fc28",
+        "python26-2.6.9-11.fc28",
+        "python26-2.6.9-10.fc28",
+        "python26-2.6.9-9.fc28"
     ]
 }

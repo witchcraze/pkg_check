@@ -17,5 +17,20 @@
         "python2.7.x86_64                     2.7.18-25.fc37                      fedora",
         "python2.7.i686                       2.7.18-35.fc37                      updates",
         "python2.7.x86_64                     2.7.18-35.fc37                      updates"
+    ],
+    "kojiPackages": [
+        "python2.7-2.7.18-35.fc37",
+        "python2.7-2.7.18-27.fc37",
+        "python2.7-2.7.18-26.module_f37+15846+f7f51a84",
+        "python2.7-2.7.18-26.fc37",
+        "python2.7-2.7.18-25.module_f37+15505+b5cb9d58",
+        "python2.7-2.7.18-25.module_f37+15379+25f42d4d",
+        "python2.7-2.7.18-25.fc37",
+        "python2.7-2.7.18-24.module_f37+15013+7faed6cf",
+        "python2.7-2.7.18-24.fc37",
+        "python2.7-2.7.18-23.fc37",
+        "python2.7-2.7.18-22.fc37",
+        "python2.7-2.7.18-21.fc37",
+        "python2.7-2.7.18-20.fc37"
     ]
 }

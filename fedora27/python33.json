@@ -17,5 +17,13 @@
         "python33.x86_64                       3.3.6-7.fc27                       fedora",
         "python33.i686                         3.3.7-3.fc27                       updates",
         "python33.x86_64                       3.3.7-3.fc27                       updates"
+    ],
+    "kojiPackages": [
+        "python33-3.3.7-3.fc27",
+        "python33-3.3.7-2.fc27",
+        "python33-3.3.7-1.fc27",
+        "python33-3.3.6-7.fc27",
+        "python33-3.3.6-6.fc27",
+        "python33-3.3.6-5.fc27"
     ]
 }

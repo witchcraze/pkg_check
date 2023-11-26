@@ -15,5 +15,18 @@
     "list": [
         "python37.i686                         3.7.0-1.fc27                       updates",
         "python37.x86_64                       3.7.0-1.fc27                       updates"
+    ],
+    "kojiPackages": [
+        "python37-3.7.0-1.fc27",
+        "python37-3.7.0-0.20.rc1.fc27",
+        "python37-3.7.0-0.19.b5.fc27",
+        "python37-3.7.0-0.18.b4.fc27",
+        "python37-3.7.0-0.14.b3.fc27",
+        "python37-3.7.0-0.12.b2.fc27",
+        "python37-3.7.0-0.9.b1.fc27",
+        "python37-3.7.0-0.8.b1.fc27",
+        "python37-3.7.0-0.7.b1.fc27",
+        "python37-3.7.0-0.2.a4.fc27",
+        "python37-3.7.0-0.1.a2.fc27"
     ]
 }

@@ -16,5 +16,28 @@
     "list": [
         "java-11-openjdk.i686                   1:11.0.3.7-1.fc28                 updates",
         "java-11-openjdk.x86_64                 1:11.0.3.7-1.fc28                 updates"
+    ],
+    "kojiPackages": [
+        "java-11-openjdk-11.0.3.7-1.fc28",
+        "java-11-openjdk-11.0.2.7-6.fc28",
+        "java-11-openjdk-11.0.2.7-0.fc28",
+        "java-11-openjdk-11.0.1.13-10.fc28",
+        "java-11-openjdk-11.0.1.13-9.fc28",
+        "java-11-openjdk-11.0.1.13-8.fc28",
+        "java-11-openjdk-11.0.1.13-7.fc28",
+        "java-11-openjdk-11.0.1.13-4.fc28",
+        "java-11-openjdk-11.0.1.13-2.fc28",
+        "java-11-openjdk-11.0.1.13-1.fc28",
+        "java-11-openjdk-11.0.0.28-1.fc28",
+        "java-11-openjdk-11.0.ea.28-8.fc28",
+        "java-11-openjdk-11.0.ea.28-6.fc28",
+        "java-11-openjdk-11.0.ea.28-5.fc28",
+        "java-11-openjdk-11.0.ea.28-4.fc28",
+        "java-11-openjdk-11.0.ea.28-2.fc28",
+        "java-11-openjdk-11.0.ea.22-7.fc28",
+        "java-11-openjdk-11.0.ea.22-6.fc28",
+        "java-11-openjdk-11.0.ea.22-5.fc28",
+        "java-11-openjdk-11.0.ea.22-1.fc28",
+        "java-11-openjdk-11.0.ea.20-1.fc28"
     ]
 }

@@ -14,5 +14,19 @@
     },
     "list": [
         "postgresql.x86_64       11.13-1.module_f33+12687+6803e07c        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-11.13-1.module_f33+12687+6803e07c",
+        "postgresql-11.12-1.module_f33+12114+dc9cc798",
+        "postgresql-11.10-1.module_f33+10956+a2606548",
+        "postgresql-11.10-1.module_f33+10950+366dc897",
+        "postgresql-11.10-1.module_f33+10947+8b1754b2",
+        "postgresql-11.10-1.module_f33+10941+24130ef1",
+        "postgresql-11.9-2.module_f33+10080+df4a689c",
+        "postgresql-11.8-1.module_f33+9888+238a099a",
+        "postgresql-11.8-1.module_f33+9006+b7a01ff1",
+        "postgresql-11.8-1.module_f33+8992+973ac7e7",
+        "postgresql-11.7-1.module_f33+8174+7b3a0295",
+        "postgresql-11.6-1.module_f33+7943+044621aa"
     ]
 }

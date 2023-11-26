@@ -15,5 +15,10 @@
     },
     "list": [
         "perl.x86_64        4:5.36.0-491.module_f35+14794+a66c0d71        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.36.0-491.module_f35+14794+a66c0d71",
+        "perl-5.36.0-491.module_f35+14791+196cb9b5",
+        "perl-5.36.0-491.module_f35+14778+430ec2f8"
     ]
 }

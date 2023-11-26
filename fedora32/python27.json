@@ -17,5 +17,19 @@
         "python27.x86_64                      2.7.17-1.fc32                       fedora",
         "python27.i686                        2.7.18-8.fc32                       updates",
         "python27.x86_64                      2.7.18-8.fc32                       updates"
+    ],
+    "kojiPackages": [
+        "python27-2.7.18-8.fc32",
+        "python27-2.7.18-6.module_f32+10322+69226257",
+        "python27-2.7.18-6.fc32",
+        "python27-2.7.18-2.module_f32+10201+fc7048d5",
+        "python27-2.7.18-2.module_f32+10174+0920a78d",
+        "python27-2.7.18-2.fc32",
+        "python27-2.7.18-1.fc32",
+        "python27-2.7.17-2.fc32",
+        "python27-2.7.17-1.fc32",
+        "python27-2.7.17~rc1-1.fc32",
+        "python27-2.7.16-9.fc32",
+        "python27-2.7.16-8.fc32"
     ]
 }

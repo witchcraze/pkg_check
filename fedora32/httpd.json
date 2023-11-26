@@ -15,5 +15,24 @@
     "list": [
         "httpd.x86_64                        2.4.43-1.fc32                        fedora",
         "httpd.x86_64                        2.4.46-1.fc32                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.46-1.fc32",
+        "httpd-2.4.43-7.module_f32+9608+35cdc1cc",
+        "httpd-2.4.43-7.module_f32+9374+f0619db1",
+        "httpd-2.4.43-5.fc32",
+        "httpd-2.4.43-4.fc32",
+        "httpd-2.4.43-1.fc32",
+        "httpd-2.4.41-13.fc32",
+        "httpd-2.4.41-12.fc32",
+        "httpd-2.4.41-11.fc32",
+        "httpd-2.4.41-9.fc32",
+        "httpd-2.4.41-8.fc32",
+        "httpd-2.4.41-7.fc32",
+        "httpd-2.4.41-6.fc32",
+        "httpd-2.4.41-5.fc32",
+        "httpd-2.4.41-4.fc32",
+        "httpd-2.4.41-3.fc32",
+        "httpd-2.4.41-1.fc32"
     ]
 }

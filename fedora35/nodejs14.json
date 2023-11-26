@@ -16,5 +16,23 @@
     "list": [
         "nodejs.x86_64       1:14.17.2-2.module_f35+12348+fe4be0bd        fedora-modular",
         "nodejs.x86_64       1:14.19.0-3.module_f35+13929+6f621ca8        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-14.19.3-1.module_f35+14474+7c069ce4",
+        "nodejs-14.19.0-3.module_f35+13929+6f621ca8",
+        "nodejs-14.19.0-2.module_f35+13766+ad18d3e5",
+        "nodejs-14.19.0-1.module_f35+13758+a7d8c475",
+        "nodejs-14.18.3-1.module_f35+13631+e47543fa",
+        "nodejs-14.18.2-1.module_f35+13535+391bf662",
+        "nodejs-14.18.1-1.module_f35+13206+b1076c64",
+        "nodejs-14.18.0-1.module_f35+13037+2539b53c",
+        "nodejs-14.18.0-1.module_f35+13030+1ac7e6d8",
+        "nodejs-14.17.5-1.module_f35+12606+a63de154",
+        "nodejs-14.17.4-1.module_f35+12521+3700a810",
+        "nodejs-14.17.2-2.module_f35+12348+fe4be0bd",
+        "nodejs-14.17.2-1.module_f35+12330+b4a6d3c2",
+        "nodejs-14.17.0-1.module_f35+12034+e14fbd69",
+        "nodejs-14.16.1-1.module_f35+11848+25e5815a",
+        "nodejs-14.16.0-2.module_f35+11499+8a432ff1"
     ]
 }

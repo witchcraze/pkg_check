@@ -14,5 +14,13 @@
     },
     "list": [
         "dotnet-sdk-6.0.x86_64                   6.0.104-1.fc34                   updates"
+    ],
+    "kojiPackages": [
+        "dotnet6.0-6.0.105-1.fc34",
+        "dotnet6.0-6.0.104-1.fc34",
+        "dotnet6.0-6.0.103-1.fc34",
+        "dotnet6.0-6.0.102-1.fc34",
+        "dotnet6.0-6.0.101-3.fc34",
+        "dotnet6.0-6.0.100-2.fc34"
     ]
 }

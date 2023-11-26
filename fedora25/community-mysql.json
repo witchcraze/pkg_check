@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Arch": "x86_64",
+        "Epoch": "0",
+        "Version": "5.7.20",
+        "Release": "1.fc25",
+        "Size": "8.3 M",
+        "Repo": "updates",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "community-mysql.x86_64                   5.7.15-1.fc25                   fedora",
+        "community-mysql.x86_64                   5.7.20-1.fc25                   updates"
+    ],
+    "kojiPackages": [
+        "community-mysql-5.7.20-1.fc25",
+        "community-mysql-5.7.19-6.fc25",
+        "community-mysql-5.7.19-1.fc25",
+        "community-mysql-5.7.18-2.fc25",
+        "community-mysql-5.7.17-4.fc25",
+        "community-mysql-5.7.17-1.fc25",
+        "community-mysql-5.7.16-1.fc25",
+        "community-mysql-5.7.15-1.fc25",
+        "community-mysql-5.7.13-1.fc25",
+        "community-mysql-5.7.12-2.fc25",
+        "community-mysql-5.7.12-1.fc25"
+    ]
+}

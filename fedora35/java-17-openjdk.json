@@ -16,5 +16,19 @@
     "list": [
         "java-17-openjdk.i686                  1:17.0.5.0.8-2.fc35                updates",
         "java-17-openjdk.x86_64                1:17.0.5.0.8-2.fc35                updates"
+    ],
+    "kojiPackages": [
+        "java-17-openjdk-17.0.5.0.8-2.fc35",
+        "java-17-openjdk-17.0.4.1.1-1.fc35",
+        "java-17-openjdk-17.0.4.0.8-1.fc35",
+        "java-17-openjdk-17.0.3.0.7-7.fc35",
+        "java-17-openjdk-17.0.3.0.7-2.fc35",
+        "java-17-openjdk-17.0.3.0.7-1.fc35",
+        "java-17-openjdk-17.0.2.0.8-2.fc35",
+        "java-17-openjdk-17.0.2.0.8-1.fc35",
+        "java-17-openjdk-17.0.1.0.12-16.fc35",
+        "java-17-openjdk-17.0.1.0.12-13.fc35",
+        "java-17-openjdk-17.0.1.0.12-11.fc35",
+        "java-17-openjdk-17.0.1.0.12-9.fc35"
     ]
 }

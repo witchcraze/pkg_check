@@ -14,5 +14,14 @@
     },
     "list": [
         "haproxy.x86_64                        2.8.3-1.fc39                        fedora"
+    ],
+    "kojiPackages": [
+        "haproxy-2.8.3-1.fc39",
+        "haproxy-2.8.1-1.fc39",
+        "haproxy-2.8.0-2.fc39",
+        "haproxy-2.8.0-1.fc39",
+        "haproxy-2.7.6-1.fc39",
+        "haproxy-2.7.5-1.fc39",
+        "haproxy-2.7.3-1.fc39"
     ]
 }

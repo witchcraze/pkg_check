@@ -16,5 +16,18 @@
     "list": [
         "java-1.8.0-openjdk.x86_64             1:1.8.0.362.b09-2.fc38             fedora",
         "java-1.8.0-openjdk.x86_64             1:1.8.0.382.b05-2.fc38             updates"
+    ],
+    "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.382.b05-2.fc38",
+        "java-1.8.0-openjdk-1.8.0.382.b05-1.fc38",
+        "java-1.8.0-openjdk-1.8.0.372.b07-7.fc38.1",
+        "java-1.8.0-openjdk-1.8.0.372.b07-6.fc38",
+        "java-1.8.0-openjdk-1.8.0.362.b09-2.fc38",
+        "java-1.8.0-openjdk-1.8.0.362.b09-1.fc38",
+        "java-1.8.0-openjdk-1.8.0.352.b08-1.fc38.1",
+        "java-1.8.0-openjdk-1.8.0.352.b08-1.fc38",
+        "java-1.8.0-openjdk-1.8.0.352.b07-0.2.ea.fc38",
+        "java-1.8.0-openjdk-1.8.0.352.b07-0.1.ea.fc38",
+        "java-1.8.0-openjdk-1.8.0.345.b01-2.fc38"
     ]
 }

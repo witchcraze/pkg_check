@@ -16,5 +16,24 @@
     "list": [
         "squid.x86_64                        7:4.8-3.fc31                         fedora",
         "squid.x86_64                        7:4.13-1.fc31                        updates"
+    ],
+    "kojiPackages": [
+        "squid-4.13-1.fc31",
+        "squid-4.12-3.module_f31+9479+8b361bdf",
+        "squid-4.12-1.fc31",
+        "squid-4.11-1.fc31",
+        "squid-4.10-3.fc31",
+        "squid-4.10-2.fc31",
+        "squid-4.9-2.fc31",
+        "squid-4.8-5.fc31",
+        "squid-4.8-3.fc31",
+        "squid-4.8-2.fc31",
+        "squid-4.8-1.module_f31+4990+9320d758",
+        "squid-4.8-1.fc31",
+        "squid-4.7-4.module_f31+4407+71ecefea",
+        "squid-4.7-2.fc31",
+        "squid-4.7-1.fc31",
+        "squid-4.6-2.fc31",
+        "squid-4.6-1.fc31"
     ]
 }

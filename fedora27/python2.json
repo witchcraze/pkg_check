@@ -17,5 +17,31 @@
         "python2.x86_64                      2.7.13-17.fc27                       fedora",
         "python2.i686                        2.7.15-4.fc27                        updates",
         "python2.x86_64                      2.7.15-4.fc27                        updates"
+    ],
+    "kojiPackages": [
+        "python2-2.7.15-4.fc27",
+        "python2-2.7.15-3.fc27",
+        "python2-2.7.15-2.fc27",
+        "python2-2.7.15-1.fc27",
+        "python2-2.7.14-10.fc27",
+        "python2-2.7.14-9.fc27",
+        "python2-2.7.14-8.fc27",
+        "python2-2.7.14-7.fc27",
+        "python2-2.7.14-6.fc27",
+        "python2-2.7.14-5.fc27",
+        "python2-2.7.14-4.fc27",
+        "python2-2.7.14-2.fc27",
+        "python2-2.7.14-1.fc27",
+        "python2-2.7.13-17.fc27",
+        "python2-2.7.13-16.fc27",
+        "python2-2.7.13-14.fc27",
+        "python2-2.7.13-13.fc27",
+        "python2-2.7.13-12.fc27",
+        "python2-2.7.13-11.fc27",
+        "python2-2.7.13-10.fc27",
+        "python2-2.7.13-9.fc27",
+        "python2-2.7.13-8.fc27",
+        "python2-2.7.13-7.fc27",
+        "python2-2.7.13-6.fc27"
     ]
 }

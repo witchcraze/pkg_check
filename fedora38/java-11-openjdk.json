@@ -16,5 +16,19 @@
     "list": [
         "java-11-openjdk.x86_64               1:11.0.18.0.10-1.fc38               fedora",
         "java-11-openjdk.x86_64               1:11.0.20.0.8-1.fc38                updates"
+    ],
+    "kojiPackages": [
+        "java-11-openjdk-11.0.20.0.8-1.fc38",
+        "java-11-openjdk-11.0.19.0.7-1.fc38",
+        "java-11-openjdk-11.0.18.0.10-1.fc38",
+        "java-11-openjdk-11.0.18.0.9-0.1.ea.fc38.1",
+        "java-11-openjdk-11.0.18.0.9-0.1.ea.fc38",
+        "java-11-openjdk-11.0.18.0.1-0.1.ea.fc38",
+        "java-11-openjdk-11.0.17.0.8-1.fc38",
+        "java-11-openjdk-11.0.17.0.7-0.2.ea.fc38",
+        "java-11-openjdk-11.0.17.0.7-0.1.ea.fc38",
+        "java-11-openjdk-11.0.17.0.1-0.1.ea.fc38",
+        "java-11-openjdk-11.0.16.1.1-2.fc38",
+        "java-11-openjdk-11.0.16.1.1-1.fc38"
     ]
 }

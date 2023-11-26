@@ -17,5 +17,21 @@
         "ruby.x86_64                        2.5.1-98.fc29                         fedora",
         "ruby.i686                          2.5.7-102.fc29                        updates",
         "ruby.x86_64                        2.5.7-102.fc29                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.5.7-102.fc29",
+        "ruby-2.6.3-122.fc29",
+        "ruby-2.5.5-101.fc29",
+        "ruby-2.5.3-100.fc29",
+        "ruby-2.5.3-99.fc29",
+        "ruby-2.5.1-98.fc29",
+        "ruby-2.5.1-97.fc29",
+        "ruby-2.5.1-96.fc29",
+        "ruby-2.5.1-95.fc29",
+        "ruby-2.5.1-94.fc29",
+        "ruby-2.5.1-93.fc29",
+        "ruby-2.5.1-92.fc29",
+        "ruby-2.5.0-90.fc29",
+        "ruby-2.5.0-89.fc29"
     ]
 }

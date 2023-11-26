@@ -14,5 +14,13 @@
     },
     "list": [
         "postgresql.x86_64       10.19-1.module_f35+13550+f7c69371        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-10.21-1.module_f35+14739+c3a7d002",
+        "postgresql-10.20-1.module_f35+13867+9622af08",
+        "postgresql-10.20-1.module_f35+13860+da371205",
+        "postgresql-10.19-1.module_f35+13778+fe735f93",
+        "postgresql-10.19-1.module_f35+13550+f7c69371",
+        "postgresql-10.18-1.module_f35+13243+267878cb"
     ]
 }

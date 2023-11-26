@@ -15,5 +15,27 @@
     "list": [
         "haproxy.x86_64                       2.2.4-1.fc33                        fedora",
         "haproxy.x86_64                       2.2.17-1.fc33                       updates"
+    ],
+    "kojiPackages": [
+        "haproxy-2.2.17-1.fc33",
+        "haproxy-2.2.16-1.fc33",
+        "haproxy-2.2.13-1.fc33",
+        "haproxy-2.2.12-1.fc33.infra",
+        "haproxy-2.2.9-1.fc33",
+        "haproxy-2.2.6-1.fc33",
+        "haproxy-2.2.4-1.fc33",
+        "haproxy-2.2.3-2.fc33",
+        "haproxy-2.2.3-1.fc33",
+        "haproxy-2.2.2-1.fc33",
+        "haproxy-2.2.1-1.fc33",
+        "haproxy-2.2.0-3.fc33",
+        "haproxy-2.2.0-2.fc33",
+        "haproxy-2.2.0-1.fc33",
+        "haproxy-2.1.7-1.fc33",
+        "haproxy-2.1.6-1.fc33",
+        "haproxy-2.1.5-1.fc33",
+        "haproxy-2.1.4-1.fc33",
+        "haproxy-2.1.3-2.fc33",
+        "haproxy-2.1.3-1.fc33"
     ]
 }

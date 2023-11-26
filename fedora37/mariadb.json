@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.22",
+        "Version": "10.5.23",
         "Release": "1.fc37",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "mariadb-10.5.22-1.fc37.src.rpm",
+        "Source": "mariadb-10.5.23-1.fc37.src.rpm",
         "Repository": "updates",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,6 +15,17 @@
     },
     "list": [
         "mariadb.x86_64                     3:10.5.16-3.fc37                      fedora",
-        "mariadb.x86_64                     3:10.5.22-1.fc37                      updates"
+        "mariadb.x86_64                     3:10.5.23-1.fc37                      updates"
+    ],
+    "kojiPackages": [
+        "mariadb-10.5.23-1.fc37",
+        "mariadb-10.5.22-1.fc37",
+        "mariadb-10.5.21-1.fc37",
+        "mariadb-10.5.20-1.fc37",
+        "mariadb-10.5.19-2.fc37",
+        "mariadb-10.5.18-1.fc37",
+        "mariadb-10.5.16-3.fc37",
+        "mariadb-10.5.16-1.fc37",
+        "mariadb-10.5.15-1.fc37"
     ]
 }

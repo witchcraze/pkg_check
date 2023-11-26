@@ -17,5 +17,19 @@
         "python35.x86_64                       3.5.3-1.fc26                       fedora",
         "python35.i686                         3.5.5-1.fc26                       updates",
         "python35.x86_64                       3.5.5-1.fc26                       updates"
+    ],
+    "kojiPackages": [
+        "python35-3.5.5-1.fc26",
+        "python35-3.5.4-2.fc26",
+        "python35-3.5.4-1.fc26",
+        "python35-3.5.3-2.fc26",
+        "python35-3.5.3-1.fc26",
+        "python35-3.5.2-9.fc26",
+        "python35-3.5.2-8.fc26",
+        "python35-3.5.2-7.fc26",
+        "python35-3.5.2-6.fc26",
+        "python35-3.5.2-5.fc26",
+        "python35-3.5.2-4.fc26",
+        "python35-3.5.2-3.fc26"
     ]
 }

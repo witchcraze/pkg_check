@@ -17,5 +17,20 @@
         "varnish.x86_64                       6.3.0-1.fc31                        fedora",
         "varnish.i686                         6.3.2-3.fc31                        updates",
         "varnish.x86_64                       6.3.2-3.fc31                        updates"
+    ],
+    "kojiPackages": [
+        "varnish-6.0.7-2.module_f31+10701+12f03b40",
+        "varnish-6.0.7-1.module_f31+10684+74c50c1e",
+        "varnish-6.0.6-1.module_f31+7887+f338cfab",
+        "varnish-6.3.2-3.fc31",
+        "varnish-6.3.1-1.fc31",
+        "varnish-6.0.5-1.module_f31+6836+103e537c",
+        "varnish-6.0.4-4.module_f31+6694+fd797491",
+        "varnish-6.3.0-1.fc31",
+        "varnish-6.2.0-3.fc31",
+        "varnish-6.1.1-5.module_f31+4507+9628b990",
+        "varnish-6.2.0-2.module_f31+4408+fd5413f0",
+        "varnish-6.2.0-2.fc31",
+        "varnish-6.2.0-1.fc31"
     ]
 }

@@ -15,5 +15,21 @@
     "list": [
         "python3.11.i686                      3.11.0~a7-2.fc34                    updates",
         "python3.11.x86_64                    3.11.0~a7-2.fc34                    updates"
+    ],
+    "kojiPackages": [
+        "python3.11-3.11.0~b3-1.fc34",
+        "python3.11-3.11.0~b2-1.fc34",
+        "python3.11-3.11.0~b1-2.fc34",
+        "python3.11-3.11.0~b1-1.fc34",
+        "python3.11-3.11.0~a7-3.fc34",
+        "python3.11-3.11.0~a7-2.fc34",
+        "python3.11-3.11.0~a7-1.fc34",
+        "python3.11-3.11.0~a6-2.fc34",
+        "python3.11-3.11.0~a6-1.fc34",
+        "python3.11-3.11.0~a5-1.fc34",
+        "python3.11-3.11.0~a4-1.fc34",
+        "python3.11-3.11.0~a3-1.fc34",
+        "python3.11-3.11.0~a2-1.fc34",
+        "python3.11-3.11.0~a1-1.fc34"
     ]
 }

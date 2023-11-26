@@ -16,5 +16,10 @@
     "list": [
         "nginx.x86_64        1:1.20.2-4.module_f37+14554+68b287b6         fedora-modular",
         "nginx.x86_64        1:1.20.2-5.module_f37+15684+cc0da129         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.20.2-5.module_f37+15684+cc0da129",
+        "nginx-1.20.2-4.module_f37+14554+68b287b6",
+        "nginx-1.20.2-1.module_f37+14071+a1ff7b3b"
     ]
 }

@@ -17,5 +17,31 @@
         "java-11-openjdk.x86_64               1:11.0.6.10-0.fc32                  fedora",
         "java-11-openjdk.i686                 1:11.0.11.0.9-0.fc32                updates",
         "java-11-openjdk.x86_64               1:11.0.11.0.9-0.fc32                updates"
+    ],
+    "kojiPackages": [
+        "java-11-openjdk-11.0.11.0.9-0.fc32",
+        "java-11-openjdk-11.0.11.0.7-0.0.ea.fc32",
+        "java-11-openjdk-11.0.10.0.9-0.fc32",
+        "java-11-openjdk-11.0.9.11-9.fc32",
+        "java-11-openjdk-11.0.9.11-8.fc32",
+        "java-11-openjdk-11.0.9.11-6.fc32",
+        "java-11-openjdk-11.0.9.11-4.fc32",
+        "java-11-openjdk-11.0.9.11-1.fc32",
+        "java-11-openjdk-11.0.9.11-0.fc32",
+        "java-11-openjdk-11.0.8.10-2.fc32",
+        "java-11-openjdk-11.0.8.10-1.fc32",
+        "java-11-openjdk-11.0.8.10-0.fc32",
+        "java-11-openjdk-11.0.7.10-1.fc32",
+        "java-11-openjdk-11.0.7.10-0.fc32",
+        "java-11-openjdk-11.0.6.10-0.fc32",
+        "java-11-openjdk-11.0.6.9-0.0.ea.fc32.1",
+        "java-11-openjdk-11.0.6.9-0.0.ea.fc32",
+        "java-11-openjdk-11.0.6.2-0.0.ea.fc32",
+        "java-11-openjdk-11.0.6.1-0.0.ea.fc32",
+        "java-11-openjdk-11.0.5.10-0.fc32",
+        "java-11-openjdk-11.0.5.9-0.0.ea.fc32",
+        "java-11-openjdk-11.0.5.2-0.2.ea.fc32",
+        "java-11-openjdk-11.0.5.2-0.1.ea.fc32",
+        "java-11-openjdk-11.0.5.1-0.1.ea.fc32"
     ]
 }

@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb-server",
         "Epoch": "3",
-        "Version": "10.5.22",
+        "Version": "10.5.23",
         "Release": "1.fc37",
         "Architecture": "x86_64",
         "Size": "11 M",
-        "Source": "mariadb-10.5.22-1.fc37.src.rpm",
+        "Source": "mariadb-10.5.23-1.fc37.src.rpm",
         "Repository": "updates",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -15,6 +15,6 @@
     },
     "list": [
         "mariadb-server.x86_64                  3:10.5.16-3.fc37                  fedora",
-        "mariadb-server.x86_64                  3:10.5.22-1.fc37                  updates"
+        "mariadb-server.x86_64                  3:10.5.23-1.fc37                  updates"
     ]
 }

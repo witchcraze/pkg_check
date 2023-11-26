@@ -17,5 +17,33 @@
         "java-1.8.0-openjdk.x86_64             1:1.8.0.201.b09-6.fc30             fedora",
         "java-1.8.0-openjdk.i686               1:1.8.0.252.b09-0.fc30             updates",
         "java-1.8.0-openjdk.x86_64             1:1.8.0.252.b09-0.fc30             updates"
+    ],
+    "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.252.b09-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.252.b01-0.0.ea.fc30",
+        "java-1.8.0-openjdk-1.8.0.242.b08-1.fc30",
+        "java-1.8.0-openjdk-1.8.0.242.b08-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.232.b09-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.222.b10-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.212.b04-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.201.b09-6.fc30",
+        "java-1.8.0-openjdk-1.8.0.201.b09-3.fc30",
+        "java-1.8.0-openjdk-1.8.0.201.b09-2.fc30",
+        "java-1.8.0-openjdk-1.8.0.201.b09-1.fc30",
+        "java-1.8.0-openjdk-1.8.0.192.b12-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b14-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b13-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-12.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-11.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-10.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-9.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-8.fc30",
+        "java-1.8.0-openjdk-1.8.0.191.b12-7.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b15-6.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b15-5.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b15-3.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b15-1.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b15-0.fc30",
+        "java-1.8.0-openjdk-1.8.0.181.b13-9.fc30"
     ]
 }

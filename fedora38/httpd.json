@@ -17,5 +17,17 @@
         "httpd.x86_64                        2.4.56-1.fc38                        fedora",
         "httpd.i686                          2.4.58-1.fc38                        updates",
         "httpd.x86_64                        2.4.58-1.fc38                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.58-1.fc38",
+        "httpd-2.4.57-1.fc38",
+        "httpd-2.4.56-1.fc38",
+        "httpd-2.4.55-2.fc38",
+        "httpd-2.4.55-1.fc38",
+        "httpd-2.4.54-12.fc38",
+        "httpd-2.4.54-11.fc38",
+        "httpd-2.4.54-10.fc38",
+        "httpd-2.4.54-9.fc38",
+        "httpd-2.4.54-6.fc38"
     ]
 }

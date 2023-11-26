@@ -15,5 +15,9 @@
     },
     "list": [
         "nginx.x86_64         1:1.18.0-1.module_f31+8818+dd851384         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.18.0-1.module_f31+9536+463da55f",
+        "nginx-1.18.0-1.module_f31+8818+dd851384"
     ]
 }

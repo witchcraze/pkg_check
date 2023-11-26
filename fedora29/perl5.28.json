@@ -15,5 +15,18 @@
     },
     "list": [
         "perl.x86_64        4:5.28.2-440.module_f29+6417+76ea2177         updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.28.2-440.module_f29+6417+76ea2177",
+        "perl-5.28.2-440.module_f29+6397+e4bdc5b5",
+        "perl-5.28.2-439.module_f29+6053+0d44d598",
+        "perl-5.28.2-439.module_f29+6017+41055c22",
+        "perl-5.28.2-438.module_f29+5478+90e7ecd8",
+        "perl-5.28.2-438.module_f29+5471+3b9864fa",
+        "perl-5.28.2-438.module_f29+5097+bcb31f34",
+        "perl-5.28.2-438.module_f29+5094+84adf8be",
+        "perl-5.28.2-437.module_f29+5086+4cedadc2",
+        "perl-5.28.2-436.module_f29+4657+c236dca1",
+        "perl-5.28.2-436.module_f29+4655+58742ca9"
     ]
 }

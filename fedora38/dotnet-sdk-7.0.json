@@ -15,5 +15,21 @@
     "list": [
         "dotnet-sdk-7.0.x86_64                   7.0.104-1.fc38                   fedora",
         "dotnet-sdk-7.0.x86_64                   7.0.113-1.fc38                   updates"
+    ],
+    "kojiPackages": [
+        "dotnet7.0-7.0.114-1.fc38",
+        "dotnet7.0-7.0.113-1.fc38",
+        "dotnet7.0-7.0.112-1.fc38",
+        "dotnet7.0-7.0.111-1.fc38",
+        "dotnet7.0-7.0.110-1.fc38",
+        "dotnet7.0-7.0.109-1.fc38",
+        "dotnet7.0-7.0.107-1.fc38",
+        "dotnet7.0-7.0.105-1.fc38",
+        "dotnet7.0-7.0.104-1.fc38",
+        "dotnet7.0-7.0.103-1.fc38",
+        "dotnet7.0-7.0.102-2.fc38",
+        "dotnet7.0-7.0.102-1.fc38",
+        "dotnet7.0-7.0.101-1.fc38",
+        "dotnet7.0-7.0.100-1.fc38"
     ]
 }

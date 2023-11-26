@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "8.0.18",
+        "Release": "2.module_f29+6960+fec0662d",
+        "Architecture": "x86_64",
+        "Size": "11 M",
+        "Source": "community-mysql-8.0.18-2.module_f29+6960+fec0662d.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "community-mysql.x86_64     8.0.18-2.module_f29+6960+fec0662d     updates-modular"
+    ],
+    "kojiPackages": [
+        "community-mysql-8.0.18-2.module_f29+6960+fec0662d",
+        "community-mysql-8.0.17-2.module_f29+6047+dcfd13cb"
+    ]
+}

@@ -15,5 +15,9 @@
     "list": [
         "postgresql.x86_64        14.7-3.module_f38+16250+c783e747        fedora-modular",
         "postgresql.x86_64        14.7-3.module_f38+16250+c783e747        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-14.7-3.module_f38+16250+c783e747",
+        "postgresql-14.3-3.module_f38+15182+aafbe60b"
     ]
 }

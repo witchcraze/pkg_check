@@ -15,5 +15,13 @@
     "list": [
         "postgresql.x86_64       9.6.15-1.module_f32+6608+8e36ca36        fedora-modular",
         "postgresql.x86_64       9.6.15-1.module_f32+6608+8e36ca36        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-9.6.19-1.module_f32+10008+6f4f7462",
+        "postgresql-9.6.19-1.module_f32+9994+ed0714d8",
+        "postgresql-9.6.18-1.module_f32+9894+df389eb6",
+        "postgresql-9.6.18-1.module_f32+9000+f7485996",
+        "postgresql-9.6.18-1.module_f32+8981+13427290",
+        "postgresql-9.6.15-1.module_f32+6608+8e36ca36"
     ]
 }

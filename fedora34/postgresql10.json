@@ -15,5 +15,15 @@
     "list": [
         "postgresql.x86_64       10.15-1.module_f34+10937+5338a3c8        fedora-modular",
         "postgresql.x86_64       10.19-1.module_f34+13551+eef6c6f8        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-10.20-1.module_f34+14078+2b29a28c",
+        "postgresql-10.20-1.module_f34+13855+52a6ac84",
+        "postgresql-10.19-1.module_f34+13551+eef6c6f8",
+        "postgresql-10.18-1.module_f34+13244+1c4272a6",
+        "postgresql-10.15-1.module_f34+10937+5338a3c8",
+        "postgresql-10.14-1.module_f34+10073+17d3e5a2",
+        "postgresql-10.13-1.module_f34+10070+875bb4ea",
+        "postgresql-10.13-1.module_f34+9885+4c77d1ea"
     ]
 }

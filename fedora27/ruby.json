@@ -17,5 +17,18 @@
         "ruby.x86_64                        2.4.2-84.fc27                         fedora",
         "ruby.i686                          2.4.5-90.fc27                         updates",
         "ruby.x86_64                        2.4.5-90.fc27                         updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.4.5-90.fc27",
+        "ruby-2.4.4-89.fc27",
+        "ruby-2.4.4-88.fc27",
+        "ruby-2.4.4-87.fc27",
+        "ruby-2.4.3-87.fc27",
+        "ruby-2.4.3-86.fc27",
+        "ruby-2.4.2-84.fc27",
+        "ruby-2.4.1-83.fc27",
+        "ruby-2.4.1-82.fc27",
+        "ruby-2.4.1-81.fc27",
+        "ruby-2.4.1-79.fc27"
     ]
 }

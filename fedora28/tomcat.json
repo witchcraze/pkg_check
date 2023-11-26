@@ -16,5 +16,18 @@
     "list": [
         "tomcat.noarch                      1:8.5.29-1.fc28                       fedora",
         "tomcat.noarch                      1:8.5.35-1.fc28                       updates"
+    ],
+    "kojiPackages": [
+        "tomcat-9.0.13-3.module_f28+3755+e76c9d95",
+        "tomcat-8.5.35-1.fc28",
+        "tomcat-8.5.32-1.fc28",
+        "tomcat-8.5.30-1.fc28",
+        "tomcat-8.5.29-1.fc28",
+        "tomcat-8.0.49-2.fc28",
+        "tomcat-8.0.49-1.fc28",
+        "tomcat-8.0.47-3.fc28",
+        "tomcat-8.0.47-2.fc28",
+        "tomcat-8.0.46-1.fc28",
+        "tomcat-8.0.46-2.fc28"
     ]
 }

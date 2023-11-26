@@ -14,5 +14,14 @@
     },
     "list": [
         "postgresql.x86_64        13.4-1.module_f33+12621+95c74994        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-13.4-1.module_f33+12621+95c74994",
+        "postgresql-13.3-4.module_f33+12427+9f1ce9ed",
+        "postgresql-13.3-3.module_f33+12234+775821e8",
+        "postgresql-13.3-2.module_f33+12052+f83da772",
+        "postgresql-13.3-1.module_f33+12032+64fb2aca",
+        "postgresql-13.2-2.module_f33+11459+cda71f5f",
+        "postgresql-13.1-1.module_f33+11142+f4825070"
     ]
 }

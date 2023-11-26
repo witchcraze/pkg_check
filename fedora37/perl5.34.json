@@ -16,5 +16,11 @@
     "list": [
         "perl.x86_64        4:5.34.1-487.module_f37+15117+20131e0e        fedora-modular",
         "perl.x86_64        4:5.34.1-487.module_f37+15117+20131e0e        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.34.1-487.module_f37+15117+20131e0e",
+        "perl-5.34.1-487.module_f37+15102+0892c02a",
+        "perl-5.34.1-486.module_f37+14419+7d39a4ba",
+        "perl-5.34.1-486.module_f37+14409+c1e77cb7"
     ]
 }

@@ -16,5 +16,10 @@
         "ruby.i686           3.1.2-169.module_f38+15392+0b99661f          fedora-modular",
         "ruby.x86_64         3.1.2-169.module_f38+15392+0b99661f          fedora-modular",
         "ruby.x86_64         3.1.2-169.module_f38+15392+0b99661f          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-3.1.2-169.module_f38+15392+0b99661f",
+        "ruby-3.1.2-168.module_f38+15248+510f183c",
+        "ruby-3.1.2-167.module_f38+15060+23fbcf4e"
     ]
 }

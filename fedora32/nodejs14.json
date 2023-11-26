@@ -15,5 +15,28 @@
     },
     "list": [
         "nodejs.x86_64       1:14.16.0-2.module_f32+11501+6fa68e40        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-14.17.0-1.module_f32+12037+e16c9023",
+        "nodejs-14.16.1-2.module_f32+11902+ca975ab1",
+        "nodejs-14.16.0-2.module_f32+11501+6fa68e40",
+        "nodejs-14.15.4-1.module_f32+10906+da706d8f",
+        "nodejs-14.15.1-1.module_f32+10780+fcd1ea38",
+        "nodejs-14.14.0-2.module_f32+10424+8f478f3f",
+        "nodejs-14.14.0-1.module_f32+10415+39f6e655",
+        "nodejs-14.13.1-1.module_f32+10323+616685be",
+        "nodejs-14.13.0-1.module_f32+10227+2ca116db",
+        "nodejs-14.11.0-1.module_f32+10185+b98472c2",
+        "nodejs-14.10.0-1.module_f32+10143+8fbe2ecf",
+        "nodejs-14.10.0-1.module_f32+10102+354e65eb",
+        "nodejs-14.10.0-1.module_f32+10097+f6b40d29",
+        "nodejs-14.7.0-1.module_f32+9659+558cb4dc",
+        "nodejs-14.7.0-1.module_f32+9322+205b54b7",
+        "nodejs-14.5.0-1.module_f32+9140+80b4c113",
+        "nodejs-14.4.0-1.module_f32+9030+0a08c360",
+        "nodejs-14.3.0-1.module_f32+8957+31204a29",
+        "nodejs-14.2.0-1.module_f32+8848+8d606a6e",
+        "nodejs-14.1.0-1.module_f32+8797+397dd1f8",
+        "nodejs-14.0.0-2.module_f32+8723+aeaf79ed"
     ]
 }

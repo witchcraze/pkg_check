@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "8.0.31",
+        "Release": "1.fc35",
+        "Architecture": "x86_64",
+        "Size": "2.7 M",
+        "Source": "community-mysql-8.0.31-1.fc35.src.rpm",
+        "Repository": "updates",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "community-mysql.x86_64                   8.0.26-1.fc35                   fedora",
+        "community-mysql.x86_64                   8.0.31-1.fc35                   updates"
+    ],
+    "kojiPackages": [
+        "community-mysql-8.0.31-1.fc35",
+        "community-mysql-8.0.30-2.fc35",
+        "community-mysql-8.0.29-1.fc35",
+        "community-mysql-8.0.28-1.fc35",
+        "community-mysql-8.0.27-1.fc35",
+        "community-mysql-8.0.26-1.fc35",
+        "community-mysql-8.0.25-2.fc35",
+        "community-mysql-8.0.25-1.fc35",
+        "community-mysql-8.0.24-3.fc35",
+        "community-mysql-8.0.24-2.fc35",
+        "community-mysql-8.0.24-1.fc35",
+        "community-mysql-8.0.23-3.fc35",
+        "community-mysql-8.0.23-2.fc35"
+    ]
+}

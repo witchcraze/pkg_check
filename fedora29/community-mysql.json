@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "community-mysql",
+        "Version": "8.0.18",
+        "Release": "1.fc29",
+        "Architecture": "x86_64",
+        "Size": "11 M",
+        "Source": "community-mysql-8.0.18-1.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL"
+    },
+    "list": [
+        "community-mysql.x86_64                   8.0.12-1.fc29                   fedora",
+        "community-mysql.x86_64                   8.0.18-1.fc29                   updates"
+    ],
+    "kojiPackages": [
+        "community-mysql-8.0.18-1.fc29",
+        "community-mysql-8.0.17-2.fc29",
+        "community-mysql-8.0.16-1.fc29",
+        "community-mysql-8.0.15-1.fc29",
+        "community-mysql-8.0.14-1.fc29",
+        "community-mysql-8.0.13-1.fc29",
+        "community-mysql-8.0.12-2.fc29",
+        "community-mysql-8.0.12-1.fc29",
+        "community-mysql-8.0.11-5.fc29",
+        "community-mysql-8.0.11-3.fc29",
+        "community-mysql-8.0.11-4.fc29",
+        "community-mysql-8.0.11-2.fc29",
+        "community-mysql-8.0.11-1.fc29",
+        "community-mysql-5.7.22-1.fc29",
+        "community-mysql-5.7.21-6.fc29",
+        "community-mysql-5.7.21-5.fc29",
+        "community-mysql-5.7.21-4.fc29"
+    ]
+}

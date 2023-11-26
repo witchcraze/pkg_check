@@ -15,5 +15,17 @@
     "list": [
         "postgresql.x86_64        11.5-1.module_f31+5991+0917490e         fedora-modular",
         "postgresql.x86_64        11.9-2.module_f31+10082+c2077709        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-11.9-2.module_f31+10082+c2077709",
+        "postgresql-11.8-1.module_f31+9891+6948173c",
+        "postgresql-11.8-1.module_f31+9003+6377c313",
+        "postgresql-11.8-1.module_f31+8995+6af792c2",
+        "postgresql-11.7-1.module_f31+8172+bbba877b",
+        "postgresql-11.6-1.module_f31+7942+46793af3",
+        "postgresql-11.5-1.module_f31+5991+0917490e",
+        "postgresql-11.5-1.module_f31+5974+8878060a",
+        "postgresql-11.4-1.module_f31+5073+c4e22bd3",
+        "postgresql-11.4-1.module_f31+5024+18169cb8"
     ]
 }

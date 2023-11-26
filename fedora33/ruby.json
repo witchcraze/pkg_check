@@ -17,5 +17,15 @@
         "ruby.x86_64                        2.7.1-134.fc33                        fedora",
         "ruby.i686                          2.7.3-136.fc33                        updates",
         "ruby.x86_64                        2.7.3-136.fc33                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.7.3-136.fc33",
+        "ruby-2.7.2-135.fc33",
+        "ruby-2.7.1-134.fc33",
+        "ruby-2.7.1-132.fc33",
+        "ruby-2.7.1-131.fc33",
+        "ruby-2.7.1-130.fc33",
+        "ruby-2.7.1-129.fc33",
+        "ruby-2.7.1-128.fc33"
     ]
 }

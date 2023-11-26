@@ -17,5 +17,22 @@
         "ruby.x86_64                        2.5.1-92.fc28                         fedora",
         "ruby.i686                          2.5.5-108.fc28                        updates",
         "ruby.x86_64                        2.5.5-108.fc28                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-2.5.5-108.fc28",
+        "ruby-2.5.5-102.fc28",
+        "ruby-2.5.5-101.fc28",
+        "ruby-2.5.3-95.fc28",
+        "ruby-2.5.3-94.fc28",
+        "ruby-2.5.1-93.fc28",
+        "ruby-2.5.1-92.fc28",
+        "ruby-2.5.0-90.fc28",
+        "ruby-2.5.0-89.fc28",
+        "ruby-2.5.0-88.fc28",
+        "ruby-2.5.0-87.fc28",
+        "ruby-2.5.0-86.fc28",
+        "ruby-2.4.2-85.fc28",
+        "ruby-2.4.2-84.fc28",
+        "ruby-2.4.1-83.fc28"
     ]
 }

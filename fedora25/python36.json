@@ -15,5 +15,11 @@
     "list": [
         "python36.i686                         3.6.2-1.fc25                       updates",
         "python36.x86_64                       3.6.2-1.fc25                       updates"
+    ],
+    "kojiPackages": [
+        "python36-3.6.2-1.fc25",
+        "python36-3.6.1-1.fc25",
+        "python36-3.6.0-8.fc25",
+        "python36-3.6.0-7.fc25"
     ]
 }

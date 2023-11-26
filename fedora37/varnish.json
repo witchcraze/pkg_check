@@ -17,5 +17,17 @@
         "varnish.x86_64                       7.1.1-1.fc37                        fedora",
         "varnish.i686                         7.1.2-1.fc37                        updates",
         "varnish.x86_64                       7.1.2-1.fc37                        updates"
+    ],
+    "kojiPackages": [
+        "varnish-6.0.11-1.module_f37+15718+4dd2faa1",
+        "varnish-6.0.11-1.module_f37+15714+56bf9880",
+        "varnish-6.0.11-1.module_f37+15710+6808dc43",
+        "varnish-6.0.11-1.module_f37+15702+3adc6214",
+        "varnish-7.1.2-1.fc37",
+        "varnish-7.1.1-1.fc37",
+        "varnish-7.1.0-2.fc37",
+        "varnish-7.1.0-1.fc37",
+        "varnish-6.0.10-1.module_f37+14113+926e46d7",
+        "varnish-7.0.2-2.fc37"
     ]
 }

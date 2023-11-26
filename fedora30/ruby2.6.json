@@ -14,5 +14,16 @@
     },
     "list": [
         "ruby.x86_64          2.6.3-120.module_f30+4422+f50e013d          updates-modular"
+    ],
+    "kojiPackages": [
+        "ruby-2.6.3-122.module_f30+6072+b233b9b1",
+        "ruby-2.6.3-120.module_f30+4422+f50e013d",
+        "ruby-2.6.3-120.module_f30+4417+b9bfa475",
+        "ruby-2.6.2-119.module_f30+3838+0c262d71",
+        "ruby-2.6.2-119.module_f30+3815+af4a8105",
+        "ruby-2.6.1-115.module_f30+3619+958d22e0",
+        "ruby-2.6.1-115.module_f30+3605+2e2340bf",
+        "ruby-2.6.1-114.module_f30+3422+ca3e1603",
+        "ruby-2.6.1-114.module_f30+3027+f8ae4f8b"
     ]
 }

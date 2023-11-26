@@ -17,5 +17,19 @@
         "varnish.x86_64                       6.4.0-4.fc33                        fedora",
         "varnish.i686                         6.4.0-5.fc33                        updates",
         "varnish.x86_64                       6.4.0-5.fc33                        updates"
+    ],
+    "kojiPackages": [
+        "varnish-6.0.8-1.module_f33+12418+478eb289",
+        "varnish-6.4.0-5.fc33",
+        "varnish-6.0.7-2.module_f33+11192+b32f0b23",
+        "varnish-6.0.7-2.module_f33+10700+0adc2e52",
+        "varnish-6.0.7-1.module_f33+10685+a33d33f6",
+        "varnish-6.0.6-1.module_f33+9963+f5992496",
+        "varnish-6.4.0-4.fc33",
+        "varnish-6.4.0-3.fc33",
+        "varnish-6.4.0-2.fc33",
+        "varnish-6.4.0-1.fc33",
+        "varnish-6.0.6-1.module_f33+8032+9e318587",
+        "varnish-6.0.6-1.module_f33+7892+dd90c100"
     ]
 }

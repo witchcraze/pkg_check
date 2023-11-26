@@ -2,18 +2,29 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.22",
+        "Version": "10.5.23",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "mariadb-10.5.22-1.fc39.src.rpm",
-        "Repository": "fedora",
+        "Source": "mariadb-10.5.23-1.fc39.src.rpm",
+        "Repository": "updates",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
         "License": "GPLv2 and LGPLv2",
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64                      3:10.5.22-1.fc39                      fedora"
+        "mariadb.x86_64                     3:10.5.22-1.fc39                      fedora",
+        "mariadb.x86_64                     3:10.5.23-1.fc39                      updates"
+    ],
+    "kojiPackages": [
+        "mariadb-10.5.23-1.fc39",
+        "mariadb-10.5.22-1.fc39",
+        "mariadb-10.5.21-1.fc39",
+        "mariadb-10.5.20-2.fc39",
+        "mariadb-10.5.20-1.fc39",
+        "mariadb-10.5.19-2.fc39",
+        "mariadb-10.5.18-3.fc39",
+        "mariadb-10.5.18-2.fc39"
     ]
 }

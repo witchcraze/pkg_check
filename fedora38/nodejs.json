@@ -18,5 +18,15 @@
         "nodejs.x86_64                      1:18.15.0-6.fc38                      fedora",
         "nodejs.i686                        1:18.18.2-1.fc38                      updates",
         "nodejs.x86_64                      1:18.18.2-1.fc38                      updates"
+    ],
+    "kojiPackages": [
+        "nodejs-18.12.1-4.fc38",
+        "nodejs-18.12.1-1.fc38",
+        "nodejs-18.11.0-3.fc38",
+        "nodejs-18.11.0-2.fc38",
+        "nodejs-18.11.0-1.fc38",
+        "nodejs-18.10.0-1.fc38",
+        "nodejs-18.9.1-1.fc38",
+        "nodejs-18.9.0-1.fc38"
     ]
 }

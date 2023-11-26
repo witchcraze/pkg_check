@@ -15,5 +15,26 @@
     },
     "list": [
         "perl.x86_64        4:5.28.2-444.module_f30+8510+cff47f57         updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.28.2-444.module_f30+8510+cff47f57",
+        "perl-5.28.2-442.module_f30+8128+6db97a4f",
+        "perl-5.28.2-442.module_f30+8108+a4617f52",
+        "perl-5.28.2-442.module_f30+7959+7be9cbb0",
+        "perl-5.28.2-441.module_f30+7927+55249808",
+        "perl-5.28.2-441.module_f30+7157+a61c60c0",
+        "perl-5.28.2-440.module_f30+6418+44766c22",
+        "perl-5.28.2-440.module_f30+6398+08d02ede",
+        "perl-5.28.2-439.module_f30+6052+a2402c17",
+        "perl-5.28.2-439.module_f30+6016+ca861590",
+        "perl-5.28.2-438.module_f30+5470+1acb53e0",
+        "perl-5.28.2-438.module_f30+5479+6f0ed786",
+        "perl-5.28.2-438.module_f30+5096+c4c8b79b",
+        "perl-5.28.2-438.module_f30+5093+db671d9e",
+        "perl-5.28.2-437.module_f30+5087+f2417b1a",
+        "perl-5.28.2-436.module_f30+4677+de2e7282",
+        "perl-5.28.2-436.module_f30+4671+f05f8056",
+        "perl-5.28.2-436.module_f30+4658+b710f6a6",
+        "perl-5.28.2-436.module_f30+4654+3e07b2e4"
     ]
 }

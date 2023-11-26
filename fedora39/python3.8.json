@@ -15,5 +15,12 @@
     "list": [
         "python3.8.i686                        3.8.18-1.fc39                       fedora",
         "python3.8.x86_64                      3.8.18-1.fc39                       fedora"
+    ],
+    "kojiPackages": [
+        "python3.8-3.8.18-1.fc39",
+        "python3.8-3.8.17-3.fc39",
+        "python3.8-3.8.17-2.fc39",
+        "python3.8-3.8.17-1.fc39",
+        "python3.8-3.8.16-4.fc39"
     ]
 }

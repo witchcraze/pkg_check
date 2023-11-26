@@ -15,5 +15,11 @@
     },
     "list": [
         "nginx.x86_64                       1:1.24.0-4.fc39                        fedora"
+    ],
+    "kojiPackages": [
+        "nginx-1.24.0-4.fc39",
+        "nginx-1.24.0-3.fc39",
+        "nginx-1.24.0-2.fc39",
+        "nginx-1.24.0-1.fc39"
     ]
 }

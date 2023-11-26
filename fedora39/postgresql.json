@@ -15,5 +15,16 @@
     "list": [
         "postgresql.i686                         15.4-1.fc39                       fedora",
         "postgresql.x86_64                       15.4-1.fc39                       fedora"
+    ],
+    "kojiPackages": [
+        "postgresql-15.4-1.fc39",
+        "postgresql-15.3-9.fc39",
+        "postgresql-15.3-8.fc39",
+        "postgresql-15.3-7.fc39",
+        "postgresql-15.3-6.fc39",
+        "postgresql-15.3-5.fc39",
+        "postgresql-15.3-4.fc39",
+        "postgresql-15.3-2.fc39",
+        "postgresql-15.3-1.fc39"
     ]
 }

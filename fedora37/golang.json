@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.20.10",
-        "Release": "3.fc37",
+        "Version": "1.20.11",
+        "Release": "1.fc37",
         "Architecture": "x86_64",
         "Size": "603 k",
-        "Source": "golang-1.20.10-3.fc37.src.rpm",
+        "Source": "golang-1.20.11-1.fc37.src.rpm",
         "Repository": "updates",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -14,6 +14,32 @@
     },
     "list": [
         "golang.x86_64                       1.19.2-1.fc37                        fedora",
-        "golang.x86_64                       1.20.10-3.fc37                       updates"
+        "golang.x86_64                       1.20.11-1.fc37                       updates"
+    ],
+    "kojiPackages": [
+        "golang-1.20.11-1.fc37",
+        "golang-1.20.10-3.fc37",
+        "golang-1.19.13-1.fc37",
+        "golang-1.19.12-1.fc37",
+        "golang-1.19.11-1.fc37",
+        "golang-1.19.10-1.fc37",
+        "golang-1.19.9-1.fc37",
+        "golang-1.19.8-1.fc37",
+        "golang-1.19.7-1.fc37",
+        "golang-1.19.6-1.fc37",
+        "golang-1.19.5-1.fc37",
+        "golang-1.19.4-1.fc37",
+        "golang-1.19.3-2.fc37",
+        "golang-1.19.2-1.fc37",
+        "golang-1.19.1-1.fc37",
+        "golang-1.19-1.fc37",
+        "golang-1.19~rc2-2.fc37",
+        "golang-1.19~rc2-1.fc37",
+        "golang-1.18.4-1.fc37",
+        "golang-1.18.3-2.fc37",
+        "golang-1.18.3-1.fc37",
+        "golang-1.18.2-1.fc37",
+        "golang-1.18-1.fc37",
+        "golang-1.18~rc1-1.fc37"
     ]
 }

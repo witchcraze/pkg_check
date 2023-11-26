@@ -17,5 +17,29 @@
         "python3.9.x86_64                      3.9.7-1.fc35                       fedora",
         "python3.9.i686                        3.9.16-1.fc35                      updates",
         "python3.9.x86_64                      3.9.16-1.fc35                      updates"
+    ],
+    "kojiPackages": [
+        "python3.9-3.9.16-1.fc35",
+        "python3.9-3.9.15-2.fc35",
+        "python3.9-3.9.15-1.fc35",
+        "python3.9-3.9.14-1.fc35",
+        "python3.9-3.9.13-2.fc35",
+        "python3.9-3.9.13-1.fc35",
+        "python3.9-3.9.12-1.fc35",
+        "python3.9-3.9.11-1.fc35",
+        "python3.9-3.9.10-1.fc35",
+        "python3.9-3.9.9-2.fc35",
+        "python3.9-3.9.9-1.fc35",
+        "python3.9-3.9.8-1.fc35",
+        "python3.9-3.9.7-1.fc35",
+        "python3.9-3.9.6-3.fc35",
+        "python3.9-3.9.6-2.fc35",
+        "python3.9-3.9.6-1.fc35",
+        "python3.9-3.9.5-3.fc35",
+        "python3.9-3.9.5-2.fc35",
+        "python3.9-3.9.5-1.fc35",
+        "python3.9-3.9.4-1.fc35",
+        "python3.9-3.9.2-1.fc35",
+        "python3.9-3.9.2~rc1-1.fc35"
     ]
 }

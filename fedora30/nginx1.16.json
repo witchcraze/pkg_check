@@ -15,5 +15,9 @@
     },
     "list": [
         "nginx.x86_64         1:1.16.1-1.module_f30+6855+dbe576a8         updates-modular"
+    ],
+    "kojiPackages": [
+        "nginx-1.16.1-1.module_f30+6855+dbe576a8",
+        "nginx-1.16.0-3.module_f30+5007+78d6035e"
     ]
 }

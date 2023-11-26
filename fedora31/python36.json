@@ -17,5 +17,15 @@
         "python36.x86_64                      3.6.9-2.fc31                        fedora",
         "python36.i686                        3.6.12-1.fc31                       updates",
         "python36.x86_64                      3.6.12-1.fc31                       updates"
+    ],
+    "kojiPackages": [
+        "python36-3.6.12-1.fc31",
+        "python36-3.6.11-5.fc31",
+        "python36-3.6.11-3.fc31",
+        "python36-3.6.11-1.fc31",
+        "python36-3.6.10-5.fc31",
+        "python36-3.6.10-1.fc31",
+        "python36-3.6.9-2.fc31",
+        "python36-3.6.9-1.fc31"
     ]
 }

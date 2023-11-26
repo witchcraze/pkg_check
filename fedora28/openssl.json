@@ -19,5 +19,17 @@
         "openssl.x86_64                 1:1.1.0h-3.fc28                  fedora",
         "openssl.x86_64                 1:1.1.0i-1.fc28                  @koji-override-0",
         "openssl.x86_64                 1:1.1.0i-1.fc28                  updates"
+    ],
+    "kojiPackages": [
+        "openssl-1.1.0i-1.fc28",
+        "openssl-1.1.0h-3.fc28",
+        "openssl-1.1.0h-2.fc28",
+        "openssl-1.1.0h-1.fc28",
+        "openssl-1.1.0g-6.fc28",
+        "openssl-1.1.0g-5.fc28",
+        "openssl-1.1.0g-4.fc28",
+        "openssl-1.1.0g-3.fc28",
+        "openssl-1.1.0g-2.fc28",
+        "openssl-1.1.0g-1.fc28"
     ]
 }

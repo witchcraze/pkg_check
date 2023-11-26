@@ -17,5 +17,18 @@
         "ruby.x86_64                        3.0.2-151.fc35                        fedora",
         "ruby.i686                          3.0.5-155.fc35                        updates",
         "ruby.x86_64                        3.0.5-155.fc35                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-3.0.5-156.fc35",
+        "ruby-3.0.5-155.fc35",
+        "ruby-3.0.4-154.fc35",
+        "ruby-3.0.4-153.fc35",
+        "ruby-3.0.4-152.fc35",
+        "ruby-3.0.2-151.fc35",
+        "ruby-3.0.2-150.fc35",
+        "ruby-3.0.1-149.fc35",
+        "ruby-3.0.1-148.fc35",
+        "ruby-3.0.0-147.fc35",
+        "ruby-3.0.0-146.fc35"
     ]
 }

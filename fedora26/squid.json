@@ -15,5 +15,13 @@
     },
     "list": [
         "squid.x86_64                       7:4.0.20-2.fc26                        fedora"
+    ],
+    "kojiPackages": [
+        "squid-4.0.23-1.fc26",
+        "squid-4.0.21-2.fc26",
+        "squid-4.0.21-1.fc26",
+        "squid-4.0.20-2.fc26",
+        "squid-4.0.17-2.fc26",
+        "squid-4.0.17-1.fc26"
     ]
 }

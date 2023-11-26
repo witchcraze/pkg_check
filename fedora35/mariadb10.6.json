@@ -15,5 +15,12 @@
     },
     "list": [
         "mariadb.x86_64       3:10.6.11-1.module_f35+15727+58fad2b5       updates-modular"
+    ],
+    "kojiPackages": [
+        "mariadb-10.6.11-1.module_f35+15727+58fad2b5",
+        "mariadb-10.6.8-1.module_f35+14509+7bf4e536",
+        "mariadb-10.6.7-1.module_f35+14397+5c12ed19",
+        "mariadb-10.6.5-1.module_f35+13476+af997998",
+        "mariadb-10.6.5-1.module_f35+13473+49f876b4"
     ]
 }
