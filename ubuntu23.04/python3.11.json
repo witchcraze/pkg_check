@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.11",
-        "Version": "3.11.4-1~23.04",
+        "Version": "3.11.4-1~23.04.1",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "671 kB",
-        "Depends": "python3.11-minimal (= 3.11.4-1~23.04), libpython3.11-stdlib (= 3.11.4-1~23.04), media-types | mime-support",
+        "Depends": "python3.11-minimal (= 3.11.4-1~23.04.1), libpython3.11-stdlib (= 3.11.4-1~23.04.1), media-types | mime-support",
         "Recommends": "ca-certificates",
         "Suggests": "python3.11-venv, python3.11-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
@@ -19,6 +19,7 @@
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
     "changelog": [
+        "python3.11 (3.11.4-1~23.04.1) lunar-security; urgency=medium",
         "python3.11 (3.11.4-1~23.04) lunar-proposed; urgency=medium",
         "python3.11 (3.11.4-1) unstable; urgency=medium",
         "python3.11 (3.11.3-2) experimental; urgency=medium",
