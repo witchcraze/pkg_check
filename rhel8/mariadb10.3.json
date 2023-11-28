@@ -14,13 +14,13 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64 3:10.3.11-1.module+el8+2765+cfa4f87b      rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.11-2.module+el8+2885+7b8bb354      rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.17-1.module+el8.1.0+3974+90eded84  rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.27-3.module+el8.3.0+8972+5e3224e9  rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.28-1.module+el8.3.0+10472+7adc332a rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.32-2.module+el8.5.0+14124+14ced695 rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.35-1.module+el8.6.0+15949+4ba4ec26 rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.3.39-1.module+el8.8.0+19673+72b0d35f rhel-8-for-x86_64-appstream-rpms"
+        "mariadb.x86_64                3:10.3.11-1.module+el8+2765+cfa4f87b                      rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.11-2.module+el8+2885+7b8bb354                      rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.17-1.module+el8.1.0+3974+90eded84                  rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.27-3.module+el8.3.0+8972+5e3224e9                  rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.28-1.module+el8.3.0+10472+7adc332a                 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.32-2.module+el8.5.0+14124+14ced695                 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.35-1.module+el8.6.0+15949+4ba4ec26                 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.3.39-1.module+el8.8.0+19673+72b0d35f                 rhel-8-for-x86_64-appstream-rpms"
     ]
 }

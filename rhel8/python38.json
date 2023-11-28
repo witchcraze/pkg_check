@@ -13,14 +13,14 @@
         "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
     },
     "list": [
-        "python38.x86_64 3.8.0-6.module+el8.2.0+5978+503155c0     rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.3-3.module+el8.3.0+7680+79e7e61a     rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.6-3.module+el8.4.0+9579+e9717e18     rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.8-4.module+el8.5.0+12205+a865257a    rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.12-1.module+el8.6.0+12642+c3710b74   rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.13-1.module+el8.7.0+15641+2ece4388   rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.16-1.module+el8.8.0+17624+9a09af5a   rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.16-1.module+el8.8.0+18967+20d359ae.1 rhel-8-for-x86_64-appstream-rpms",
-        "python38.x86_64 3.8.17-2.module+el8.9.0+19642+a12b4af6   rhel-8-for-x86_64-appstream-rpms"
+        "python38.x86_64                3.8.0-6.module+el8.2.0+5978+503155c0                     rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.3-3.module+el8.3.0+7680+79e7e61a                     rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.6-3.module+el8.4.0+9579+e9717e18                     rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.8-4.module+el8.5.0+12205+a865257a                    rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.12-1.module+el8.6.0+12642+c3710b74                   rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.13-1.module+el8.7.0+15641+2ece4388                   rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.16-1.module+el8.8.0+17624+9a09af5a                   rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.16-1.module+el8.8.0+18967+20d359ae.1                 rhel-8-for-x86_64-appstream-rpms",
+        "python38.x86_64                3.8.17-2.module+el8.9.0+19642+a12b4af6                   rhel-8-for-x86_64-appstream-rpms"
     ]
 }

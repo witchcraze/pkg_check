@@ -14,12 +14,12 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64        4:5.26.3-416.el8             rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-417.el8_3           rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-419.el8             rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-419.el8_4.1         rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-420.el8             rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-421.el8             rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64        4:5.26.3-422.el8             rhel-8-for-x86_64-appstream-rpms"
+        "perl.x86_64                            4:5.26.3-416.el8                                 rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-417.el8_3                               rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-419.el8                                 rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-419.el8_4.1                             rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-420.el8                                 rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-421.el8                                 rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                            4:5.26.3-422.el8                                 rhel-8-for-x86_64-appstream-rpms"
     ]
 }

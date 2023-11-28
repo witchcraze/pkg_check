@@ -13,8 +13,8 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64 9.6.10-1.module+el8+2470+d1bafa0e      rhel-8-for-x86_64-appstream-rpms",
-        "postgresql.x86_64 9.6.20-1.module+el8.3.0+8938+7f0e88b6  rhel-8-for-x86_64-appstream-rpms",
-        "postgresql.x86_64 9.6.22-1.module+el8.4.0+11244+beebcf7e rhel-8-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                9.6.10-1.module+el8+2470+d1bafa0e                      rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                9.6.20-1.module+el8.3.0+8938+7f0e88b6                  rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                9.6.22-1.module+el8.4.0+11244+beebcf7e                 rhel-8-for-x86_64-appstream-rpms"
     ]
 }

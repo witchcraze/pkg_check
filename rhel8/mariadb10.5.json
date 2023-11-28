@@ -14,9 +14,9 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64 3:10.5.9-1.module+el8.4.0+10457+88cd7ba1  rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.5.13-1.module+el8.5.0+14125+d11efe18 rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.5.16-2.module+el8.6.0+15639+405b7427 rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64 3:10.5.22-1.module+el8.8.0+20134+a92c7654 rhel-8-for-x86_64-appstream-rpms"
+        "mariadb.x86_64                3:10.5.9-1.module+el8.4.0+10457+88cd7ba1                  rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.5.13-1.module+el8.5.0+14125+d11efe18                 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.5.16-2.module+el8.6.0+15639+405b7427                 rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                3:10.5.22-1.module+el8.8.0+20134+a92c7654                 rhel-8-for-x86_64-appstream-rpms"
     ]
 }

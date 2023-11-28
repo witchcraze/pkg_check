@@ -13,20 +13,20 @@
         "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
     },
     "list": [
-        "python2.x86_64 2.7.15-21.module+el8+2540+b19c9b35        rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.15-22.module+el8.0.0+2961+596d0223    rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.15-24.module+el8.0.0.z+3358+99b46920  rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.15-24.module+el8.0.0+4028+a686efca    rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.16-12.module+el8.1.0+4148+33a50073    rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.17-1.module+el8.2.0+4561+f4e0d66a     rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.17-2.module+el8.3.0+7681+f1f02ded     rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-4.module+el8.4.0+9577+0b56c8de     rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-7.module+el8.5.0+12203+77770ab7    rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-10.module+el8.6.0+14191+7fdd52cd   rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-11.module+el8.7.0+15681+7a92afba   rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-12.module+el8.8.0+17629+2cfc9d03   rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-13.module+el8.8.0+19042+06909d2c.1 rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-13.module+el8.8.0+20144+beed974d.2 rhel-8-for-x86_64-appstream-rpms",
-        "python2.x86_64 2.7.18-15.module+el8.9.0+20125+68111a8f   rhel-8-for-x86_64-appstream-rpms"
+        "python2.x86_64                2.7.15-21.module+el8+2540+b19c9b35                        rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.15-22.module+el8.0.0+2961+596d0223                    rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.15-24.module+el8.0.0.z+3358+99b46920                  rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.15-24.module+el8.0.0+4028+a686efca                    rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.16-12.module+el8.1.0+4148+33a50073                    rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.17-1.module+el8.2.0+4561+f4e0d66a                     rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.17-2.module+el8.3.0+7681+f1f02ded                     rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-4.module+el8.4.0+9577+0b56c8de                     rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-7.module+el8.5.0+12203+77770ab7                    rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-10.module+el8.6.0+14191+7fdd52cd                   rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-11.module+el8.7.0+15681+7a92afba                   rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-12.module+el8.8.0+17629+2cfc9d03                   rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-13.module+el8.8.0+19042+06909d2c.1                 rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-13.module+el8.8.0+20144+beed974d.2                 rhel-8-for-x86_64-appstream-rpms",
+        "python2.x86_64                2.7.18-15.module+el8.9.0+20125+68111a8f                   rhel-8-for-x86_64-appstream-rpms"
     ]
 }

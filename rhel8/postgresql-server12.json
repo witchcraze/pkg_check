@@ -13,14 +13,14 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64 12.1-2.module+el8.1.1+4794+c82b6e09   rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.5-1.module+el8.3.0+9042+664538f4   rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.7-1.module+el8.4.0+11288+c193d6d7  rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.7-2.module+el8.5.0+11804+86306fc7  rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.9-1.module+el8.5.0+13373+4554acc4  rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.9-3.module+el8.6.0+13484+00387d81  rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.11-2.module+el8.6.0+15345+1dd8d6b8 rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.12-1.module+el8.6.0+16796+0abe6678 rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64 12.15-1.module+el8.8.0+19427+d1071523 rhel-8-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64             12.1-2.module+el8.1.1+4794+c82b6e09                rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.5-1.module+el8.3.0+9042+664538f4                rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.7-1.module+el8.4.0+11288+c193d6d7               rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.7-2.module+el8.5.0+11804+86306fc7               rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.9-1.module+el8.5.0+13373+4554acc4               rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.9-3.module+el8.6.0+13484+00387d81               rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.11-2.module+el8.6.0+15345+1dd8d6b8              rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.12-1.module+el8.6.0+16796+0abe6678              rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64             12.15-1.module+el8.8.0+19427+d1071523              rhel-8-for-x86_64-appstream-rpms"
     ]
 }
