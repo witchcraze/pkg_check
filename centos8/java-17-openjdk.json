@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "java-17-openjdk",
+        "Epoch": "1",
+        "Version": "17.0.1.0.12",
+        "Release": "2.el8_5",
+        "Architecture": "x86_64",
+        "Size": "244 k",
+        "Source": "java-17-openjdk-17.0.1.0.12-2.el8_5.src.rpm",
+        "Repository": "appstream",
+        "Summary": "OpenJDK 17 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
+        "Description": "The OpenJDK 17 runtime environment."
+    },
+    "list": [
+        "java-17-openjdk.x86_64                                  1:17.0.0.0.35-4.el8                                    appstream",
+        "java-17-openjdk.x86_64                                  1:17.0.1.0.12-2.el8_5                                  appstream"
+    ]
+}

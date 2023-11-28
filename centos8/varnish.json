@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "6.0.8",
+        "Release": "1.module_el8.5.0+995+944219f1",
+        "Architecture": "x86_64",
+        "Size": "978 k",
+        "Source": "varnish-6.0.8-1.module_el8.5.0+995+944219f1.src.rpm",
+        "Repository": "appstream",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.x86_64           6.0.2-1.module_el8.0.0+19+b2cdb875               vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.2-1.module_el8.0.0+19+b2cdb875               vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.2-1.module_el8.0.0+19+b2cdb875               vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.6-2.module_el8.3.0+399+10bd7ebd              vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.6-2.module_el8.3.0+399+10bd7ebd              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.6-2.module_el8.4.0+873+3086ea3b.1            vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "varnish.x86_64           6.0.8-1.module_el8.5.0+995+944219f1              appstream"
+    ]
+}

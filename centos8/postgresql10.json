@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.17",
+        "Release": "2.module_el8.5.0+865+7313c562",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-10.17-2.module_el8.5.0+865+7313c562.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64           10.6-1.module_el8.0.0+15+f57f353b             vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.6-1.module_el8.0.0+15+f57f353b             vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.14-1.module_el8.2.0+487+53cc39ce           vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.15-1.module_el8.3.0+619+dbc95fbc           vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.15-1.module_el8.3.0+619+dbc95fbc           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.17-1.module_el8.4.0+823+f0dbe136           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "postgresql.x86_64           10.17-2.module_el8.5.0+865+7313c562           appstream"
+    ]
+}

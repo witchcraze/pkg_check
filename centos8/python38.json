@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "python38",
+        "Version": "3.8.8",
+        "Release": "4.module_el8.5.0+896+eb9e77ba",
+        "Architecture": "x86_64",
+        "Size": "79 k",
+        "Source": "python38-3.8.8-4.module_el8.5.0+896+eb9e77ba.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
+    },
+    "list": [
+        "python38.x86_64            3.8.0-6.module_el8.2.0+317+61fa6e7d            vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "python38.x86_64            3.8.3-3.module_el8.3.0+468+0c52a667            vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "python38.x86_64            3.8.6-3.module_el8.4.0+665+abc3a503            vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "python38.x86_64            3.8.8-4.module_el8.5.0+896+eb9e77ba            appstream"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "info": {
+        "Name": "platform-python",
+        "Version": "3.6.8",
+        "Release": "41.el8",
+        "Architecture": "i686",
+        "Size": "85 k",
+        "Source": "python3-3.6.8-41.el8.src.rpm",
+        "Repository": "appstream",
+        "From repo": "baseos",
+        "Summary": "Internal interpreter of the Python programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "This is the internal interpreter of the Python language for the system."
+    },
+    "list": [
+        "platform-python.x86_64                 3.6.8-41.el8                       @baseos",
+        "platform-python.i686                   3.6.8-1.el8.0.1                    vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-1.el8.0.1                    vault.centos.org_8.0.1905_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-2.el8_0.0.1                  vault.centos.org_8.0.1905_BaseOS_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-2.el8_0.0.1                  vault.centos.org_8.0.1905_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-4.el8_0                      vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-4.el8_0                      vault.centos.org_8.0.1905_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-15.1.el8                     vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-15.1.el8                     vault.centos.org_8.1.1911_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-23.el8                       vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-23.el8                       vault.centos.org_8.2.2004_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-31.el8                       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-31.el8                       vault.centos.org_8.3.2011_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-37.el8                       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-37.el8                       vault.centos.org_8.4.2105_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-38.el8_4                     vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-38.el8_4                     vault.centos.org_8.4.2105_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-39.el8_4                     vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "platform-python.x86_64                 3.6.8-39.el8_4                     vault.centos.org_8.4.2105_BaseOS_x86_64_os_",
+        "platform-python.i686                   3.6.8-41.el8                       appstream",
+        "platform-python.x86_64                 3.6.8-41.el8                       baseos"
+    ]
+}

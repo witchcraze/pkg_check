@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.24.4",
+        "Release": "404.module_el8.1.0+229+cd132df8",
+        "Architecture": "x86_64",
+        "Size": "6.1 M",
+        "Source": "perl-5.24.4-404.module_el8.1.0+229+cd132df8.src.rpm",
+        "Repository": "vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and BSD and Public Domain and UCD",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64           4:5.24.4-398.module_el8.0.0+50+c3b345cd             vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "perl.x86_64           4:5.24.4-404.module_el8.1.0+229+cd132df8            appstream",
+        "perl.x86_64           4:5.24.4-404.module_el8.1.0+229+cd132df8            vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "perl.x86_64           4:5.24.4-404.module_el8.1.0+229+cd132df8            vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "perl.x86_64           4:5.24.4-404.module_el8.1.0+229+cd132df8            vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "perl.x86_64           4:5.24.4-404.module_el8.1.0+229+cd132df8            vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+    ]
+}

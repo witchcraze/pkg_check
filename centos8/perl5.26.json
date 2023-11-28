@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.26.3",
+        "Release": "420.el8",
+        "Architecture": "x86_64",
+        "Size": "73 k",
+        "Source": "perl-5.26.3-420.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "http://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64                     4:5.26.3-416.el8                          vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-416.el8                          vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-416.el8                          vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-416.el8                          vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-419.el8                          vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-419.el8_4.1                      vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.26.3-420.el8                          appstream"
+    ]
+}

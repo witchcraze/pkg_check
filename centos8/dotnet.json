@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "dotnet",
+        "Version": "6.0.0",
+        "Release": "0.6.28be3e9a006d90d8c6e87d4353b77882829df718.el8",
+        "Architecture": "x86_64",
+        "Size": "17 k",
+        "Source": "dotnet6.0-6.0.0-0.6.28be3e9a006d90d8c6e87d4353b77882829df718.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": ".NET CLI tools and runtime",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet.x86_64   2.1.504-1.el8                                             vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet.x86_64   2.1.507-2.el8_0                                           vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet.x86_64   2.1.508-1.el8_0                                           vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet.x86_64   2.1.509-1.el8_0                                           vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet.x86_64   2.1.509-2.el8.0.1                                         vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet.x86_64   3.1.101-1.el8                                             vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet.x86_64   3.1.103-1.el8_1                                           vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet.x86_64   3.1.107-1.el8_2                                           vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.102-2.el8_3                                           vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.104-2.el8                                             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.203-1.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.205-1.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.205-2.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.206-1.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.207-1.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   5.0.208-1.el8_4                                           vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet.x86_64   6.0.0-0.6.28be3e9a006d90d8c6e87d4353b77882829df718.el8    appstream"
+    ]
+}

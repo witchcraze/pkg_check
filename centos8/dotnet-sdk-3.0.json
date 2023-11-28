@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "dotnet-sdk-3.0",
+        "Version": "3.0.103",
+        "Release": "1.el8_1",
+        "Architecture": "x86_64",
+        "Size": "40 M",
+        "Source": "dotnet3.0-3.0.103-1.el8_1.src.rpm",
+        "Repository": "vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "Summary": ".NET Core 3.0 Software Development Kit",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD",
+        "Description": "The .NET Core SDK is a collection of command line applications to"
+    },
+    "list": [
+        "dotnet-sdk-3.0.x86_64                   3.0.102-2.el8_1                   vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-3.0.x86_64                   3.0.103-1.el8_1                   appstream",
+        "dotnet-sdk-3.0.x86_64                   3.0.103-1.el8_1                   vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-3.0.x86_64                   3.0.103-1.el8_1                   vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "dotnet-sdk-3.0.x86_64                   3.0.103-1.el8_1                   vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "dotnet-sdk-3.0.x86_64                   3.0.103-1.el8_1                   vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+    ]
+}

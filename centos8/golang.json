@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.16.12",
+        "Release": "1.module_el8.5.0+1051+7eeb051e",
+        "Architecture": "x86_64",
+        "Size": "688 k",
+        "Source": "golang-1.16.12-1.module_el8.5.0+1051+7eeb051e.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Go Programming Language",
+        "URL": "http://golang.org/",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64           1.11.6-1.module_el8.0.0+192+8b12aa21              vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "golang.x86_64           1.12.12-4.module_el8.1.0+271+e71148fc             vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "golang.x86_64           1.13.15-1.module_el8.2.0+490+5bc58d45             vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "golang.x86_64           1.14.12-1.module_el8.3.0+605+410c5674             vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "golang.x86_64           1.15.7-1.module_el8.4.0+662+fcb27825              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "golang.x86_64           1.15.13-3.module_el8.4.0+844+08d04f30             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "golang.x86_64           1.15.14-1.module_el8.4.0+882+ab13bcd9             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "golang.x86_64           1.15.14-2.module_el8.4.0+934+66c655ab             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "golang.x86_64           1.16.7-1.module_el8.5.0+891+69fdb1de              appstream",
+        "golang.x86_64           1.16.12-1.module_el8.5.0+1051+7eeb051e            appstream"
+    ]
+}
