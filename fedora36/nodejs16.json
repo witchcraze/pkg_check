@@ -1,0 +1,41 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "16.18.1",
+        "Release": "1.module_f36+15762+63b902f0",
+        "Architecture": "x86_64",
+        "Size": "104 k",
+        "Source": "nodejs-16.18.1-1.module_f36+15762+63b902f0.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64       1:16.14.1-1.module_f36+14149+7ee34295        fedora-modular",
+        "nodejs.x86_64       1:16.18.1-1.module_f36+15762+63b902f0        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-16.18.1-1.module_f36+15762+63b902f0",
+        "nodejs-16.16.0-1.module_f36+14709+d2ab7938",
+        "nodejs-16.15.0-3.module_f36+14428+96d0616f",
+        "nodejs-16.15.0-2.module_f36+14395+87e56b78",
+        "nodejs-16.15.0-1.module_f36+14371+6228dae4",
+        "nodejs-16.14.1-1.module_f36+14149+7ee34295",
+        "nodejs-16.14.0-2.module_f36+13800+f0accfe3",
+        "nodejs-16.14.0-1.module_f36+13794+0005880e",
+        "nodejs-16.13.2-7.module_f36+13771+df6cc96a",
+        "nodejs-16.13.2-1.module_f36+13624+227f2d4c",
+        "nodejs-16.13.1-1.module_f36+13461+1402e6f4",
+        "nodejs-16.13.0-3.module_f36+13442+e63a7224",
+        "nodejs-16.13.0-2.module_f36+13318+ae26fbdb",
+        "nodejs-16.12.0-1.module_f36+13253+90dd5853",
+        "nodejs-16.11.1-1.module_f36+13203+0d683446",
+        "nodejs-16.10.0-1.module_f36+13022+5e657b0b",
+        "nodejs-16.9.1-4.module_f36+12964+486cfb5d",
+        "nodejs-16.9.1-2.module_f36+12951+77a3d5f2",
+        "nodejs-16.6.2-1.module_f36+12602+12635f8d"
+    ]
+}

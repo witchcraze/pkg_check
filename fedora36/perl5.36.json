@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.36.0",
+        "Release": "491.module_f36+14795+3d766033",
+        "Architecture": "x86_64",
+        "Size": "17 k",
+        "Source": "perl-5.36.0-491.module_f36+14795+3d766033.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL+ or Artistic",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64        4:5.36.0-491.module_f36+14795+3d766033        updates-modular"
+    ],
+    "kojiPackages": [
+        "perl-5.36.0-492.module_f36+16101+e79c09b8",
+        "perl-5.36.0-492.module_f36+16088+41252541",
+        "perl-5.36.0-492.module_f36+16024+3595c772",
+        "perl-5.36.0-491.module_f36+14795+3d766033",
+        "perl-5.36.0-491.module_f36+14779+b31073d2"
+    ]
+}

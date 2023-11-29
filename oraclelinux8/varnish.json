@@ -13,12 +13,12 @@
         "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
     },
     "list": [
-        "varnish.x86_64                 6.0.2-1.module+el8+5145+1fddc23d                        ol8_appstream",
-        "varnish.x86_64                 6.0.6-2.module+el8.3.0+7653+45014445                    ol8_appstream",
-        "varnish.x86_64                 6.0.6-2.module+el8.4.0+20258+f99218b2.1                 ol8_appstream",
-        "varnish.x86_64                 6.0.8-1.module+el8.5.0+20320+0b4af72d                   ol8_appstream",
-        "varnish.x86_64                 6.0.8-1.module+el8.5.0+20491+1af4e193.1                 ol8_appstream",
-        "varnish.x86_64                 6.0.8-2.module+el8.7.0+20885+cb213da4.1                 ol8_appstream",
-        "varnish.x86_64                 6.0.8-3.module+el8.8.0+21197+bdc2c048.1                 ol8_appstream"
+        "varnish.x86_64                           6.0.2-1.module+el8+5145+1fddc23d                                  ol8_appstream",
+        "varnish.x86_64                           6.0.6-2.module+el8.3.0+7653+45014445                              ol8_appstream",
+        "varnish.x86_64                           6.0.6-2.module+el8.4.0+20258+f99218b2.1                           ol8_appstream",
+        "varnish.x86_64                           6.0.8-1.module+el8.5.0+20320+0b4af72d                             ol8_appstream",
+        "varnish.x86_64                           6.0.8-1.module+el8.5.0+20491+1af4e193.1                           ol8_appstream",
+        "varnish.x86_64                           6.0.8-2.module+el8.7.0+20885+cb213da4.1                           ol8_appstream",
+        "varnish.x86_64                           6.0.8-3.module+el8.8.0+21197+bdc2c048.1                           ol8_appstream"
     ]
 }

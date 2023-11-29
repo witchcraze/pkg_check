@@ -16,6 +16,7 @@
         "python36.x86_64          3.6.8-38.module+el8.5.0+671+195e4563          appstream"
     ],
     "kojiPackages": [
+        "python36-3.6.8-39.module+el8.10.0+1592+61442852",
         "python36-3.6.8-38.module+el8.5.0+671+195e4563",
         "python36-3.6.8-2.module+el8.4.0+597+ddf0ddea",
         "python36-3.6.6-13.buildroot.el8",

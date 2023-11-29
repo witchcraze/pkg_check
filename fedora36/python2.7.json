@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "python2.7",
+        "Version": "2.7.18",
+        "Release": "23.fc36",
+        "Architecture": "x86_64",
+        "Size": "13 M",
+        "Source": "python2.7-2.7.18-23.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 2.7 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python and MIT and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python2.7.i686                       2.7.18-21.fc36                      fedora",
+        "python2.7.x86_64                     2.7.18-21.fc36                      fedora",
+        "python2.7.i686                       2.7.18-23.fc36                      updates",
+        "python2.7.x86_64                     2.7.18-23.fc36                      updates"
+    ],
+    "kojiPackages": [
+        "python2.7-2.7.18-23.fc36",
+        "python2.7-2.7.18-22.module_f36+15378+f28f7b79",
+        "python2.7-2.7.18-22.module_f36+14700+a0993c18",
+        "python2.7-2.7.18-22.fc36",
+        "python2.7-2.7.18-21.module_f36+14447+3a58690a",
+        "python2.7-2.7.18-21.module_f36+14446+2f88a0cc",
+        "python2.7-2.7.18-21.module_f36+14439+b39acb46",
+        "python2.7-2.7.18-21.fc36",
+        "python2.7-2.7.18-20.fc36",
+        "python2.7-2.7.18-18.fc36",
+        "python2.7-2.7.18-19.fc36",
+        "python2.7-2.7.18-17.fc36",
+        "python2.7-2.7.18-16.fc36",
+        "python2.7-2.7.18-15.fc36",
+        "python2.7-2.7.18-13.fc36"
+    ]
+}

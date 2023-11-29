@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "7.0.3",
+        "Release": "2.fc36",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "varnish-7.0.3-2.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.i686                         7.0.2-1.fc36                        fedora",
+        "varnish.x86_64                       7.0.2-1.fc36                        fedora",
+        "varnish.i686                         7.0.3-2.fc36                        updates",
+        "varnish.x86_64                       7.0.3-2.fc36                        updates"
+    ],
+    "kojiPackages": [
+        "varnish-6.0.11-1.module_f36+15716+efb8b516",
+        "varnish-6.0.11-1.module_f36+15712+9f9ab2f2",
+        "varnish-6.0.11-1.module_f36+15708+98a65b96",
+        "varnish-6.0.11-1.module_f36+15701+9da54d45",
+        "varnish-7.0.3-2.fc36",
+        "varnish-6.0.10-1.module_f36+15274+b9a30203",
+        "varnish-7.0.3-1.fc36",
+        "varnish-7.0.2-1.fc36",
+        "varnish-6.0.10-1.module_f36+13738+9285cf3e",
+        "varnish-7.0.1-3.fc36",
+        "varnish-6.0.9-1.module_f36+13664+cd70e3be",
+        "varnish-7.0.1-2.fc36",
+        "varnish-7.0.1-1.fc36",
+        "varnish-7.0.0-2.fc36",
+        "varnish-7.0.0-1.fc36"
+    ]
+}

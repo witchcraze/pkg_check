@@ -1,0 +1,46 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.19.8",
+        "Release": "1.fc36",
+        "Architecture": "x86_64",
+        "Size": "572 k",
+        "Source": "golang-1.19.8-1.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "https://go.dev",
+        "License": "BSD and Public Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                       1.18-1.fc36                          fedora",
+        "golang.x86_64                       1.19.8-1.fc36                        updates"
+    ],
+    "kojiPackages": [
+        "golang-1.19.8-1.fc36",
+        "golang-1.19.7-1.fc36",
+        "golang-1.19.6-1.fc36",
+        "golang-1.18.10-1.fc36",
+        "golang-1.18.9-1.fc36",
+        "golang-1.18.8-1.fc36",
+        "golang-1.18.7-1.fc36",
+        "golang-1.18.6-1.fc36",
+        "golang-1.18.5-1.fc36",
+        "golang-1.18.4-1.fc36",
+        "golang-1.18.3-2.fc36",
+        "golang-1.18.3-1.fc36",
+        "golang-1.18.2-1.fc36",
+        "golang-1.18.1-1.fc36",
+        "golang-1.18-1.fc36",
+        "golang-1.18~rc1-2.fc36",
+        "golang-1.18~rc1-1.fc36",
+        "golang-1.18~beta2-1.fc36",
+        "golang-1.18~beta1-2.fc36",
+        "golang-1.18~beta1-1.fc36",
+        "golang-1.18beta1-1.fc36",
+        "golang-1.17.5-1.fc36",
+        "golang-1.17.4-1.fc36",
+        "golang-1.17-2.fc36",
+        "golang-1.17rc2-1.fc36"
+    ]
+}

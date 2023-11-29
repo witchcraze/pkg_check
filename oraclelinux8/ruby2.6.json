@@ -13,13 +13,13 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                    2.6.3-106.module+el8.1.0+5406+ce01f9b9                    ol8_appstream",
-        "ruby.x86_64                  2.6.3-106.module+el8.1.0+5406+ce01f9b9                    ol8_appstream",
-        "ruby.i686                    2.6.7-107.module+el8.4.0+20235+1e5b8be3                   ol8_appstream",
-        "ruby.x86_64                  2.6.7-107.module+el8.4.0+20235+1e5b8be3                   ol8_appstream",
-        "ruby.i686                    2.6.9-108.module+el8.5.0+20495+db24e7b4                   ol8_appstream",
-        "ruby.x86_64                  2.6.9-108.module+el8.5.0+20495+db24e7b4                   ol8_appstream",
-        "ruby.i686                    2.6.10-109.module+el8.6.0+20693+52f02d9c                  ol8_appstream",
-        "ruby.x86_64                  2.6.10-109.module+el8.6.0+20693+52f02d9c                  ol8_appstream"
+        "ruby.i686                              2.6.3-106.module+el8.1.0+5406+ce01f9b9                              ol8_appstream",
+        "ruby.x86_64                            2.6.3-106.module+el8.1.0+5406+ce01f9b9                              ol8_appstream",
+        "ruby.i686                              2.6.7-107.module+el8.4.0+20235+1e5b8be3                             ol8_appstream",
+        "ruby.x86_64                            2.6.7-107.module+el8.4.0+20235+1e5b8be3                             ol8_appstream",
+        "ruby.i686                              2.6.9-108.module+el8.5.0+20495+db24e7b4                             ol8_appstream",
+        "ruby.x86_64                            2.6.9-108.module+el8.5.0+20495+db24e7b4                             ol8_appstream",
+        "ruby.i686                              2.6.10-109.module+el8.6.0+20693+52f02d9c                            ol8_appstream",
+        "ruby.x86_64                            2.6.10-109.module+el8.6.0+20693+52f02d9c                            ol8_appstream"
     ]
 }

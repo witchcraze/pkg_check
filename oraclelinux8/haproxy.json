@@ -13,19 +13,19 @@
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
     },
     "list": [
-        "haproxy.src                               1.8.15-5.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.15-5.el8                                 ol8_appstream",
-        "haproxy.src                               1.8.15-6.el8_1.1                             ol8_appstream",
-        "haproxy.x86_64                            1.8.15-6.el8_1.1                             ol8_appstream",
-        "haproxy.src                               1.8.23-3.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.23-3.el8                                 ol8_appstream",
-        "haproxy.src                               1.8.23-5.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.23-5.el8                                 ol8_appstream",
-        "haproxy.src                               1.8.27-2.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.27-2.el8                                 ol8_appstream",
-        "haproxy.src                               1.8.27-4.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.27-4.el8                                 ol8_appstream",
-        "haproxy.src                               1.8.27-5.el8                                 ol8_appstream",
-        "haproxy.x86_64                            1.8.27-5.el8                                 ol8_appstream"
+        "haproxy.src                                         1.8.15-5.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.15-5.el8                                           ol8_appstream",
+        "haproxy.src                                         1.8.15-6.el8_1.1                                       ol8_appstream",
+        "haproxy.x86_64                                      1.8.15-6.el8_1.1                                       ol8_appstream",
+        "haproxy.src                                         1.8.23-3.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.23-3.el8                                           ol8_appstream",
+        "haproxy.src                                         1.8.23-5.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.23-5.el8                                           ol8_appstream",
+        "haproxy.src                                         1.8.27-2.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.27-2.el8                                           ol8_appstream",
+        "haproxy.src                                         1.8.27-4.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.27-4.el8                                           ol8_appstream",
+        "haproxy.src                                         1.8.27-5.el8                                           ol8_appstream",
+        "haproxy.x86_64                                      1.8.27-5.el8                                           ol8_appstream"
     ]
 }

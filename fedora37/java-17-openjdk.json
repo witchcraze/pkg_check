@@ -18,6 +18,7 @@
         "java-17-openjdk.x86_64                1:17.0.8.0.7-1.fc37                updates"
     ],
     "kojiPackages": [
+        "java-17-openjdk-17.0.9.0.9-1.fc37",
         "java-17-openjdk-17.0.8.0.7-1.fc37",
         "java-17-openjdk-17.0.7.0.7-5.fc37",
         "java-17-openjdk-17.0.7.0.7-4.fc37",

@@ -1,0 +1,35 @@
+{
+    "info": {
+        "Name": "python3.6",
+        "Version": "3.6.15",
+        "Release": "15.fc36",
+        "Architecture": "x86_64",
+        "Size": "16 M",
+        "Source": "python3.6-3.6.15-15.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.6 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.6 package for developers."
+    },
+    "list": [
+        "python3.6.i686                       3.6.15-8.fc36                       fedora",
+        "python3.6.x86_64                     3.6.15-8.fc36                       fedora",
+        "python3.6.i686                       3.6.15-15.fc36                      updates",
+        "python3.6.x86_64                     3.6.15-15.fc36                      updates"
+    ],
+    "kojiPackages": [
+        "python3.6-3.6.15-15.fc36",
+        "python3.6-3.6.15-14.fc36",
+        "python3.6-3.6.15-12.fc36",
+        "python3.6-3.6.15-11.fc36",
+        "python3.6-3.6.15-9.fc36",
+        "python3.6-3.6.15-8.fc36",
+        "python3.6-3.6.15-5.fc36",
+        "python3.6-3.6.15-6.fc36",
+        "python3.6-3.6.15-4.fc36",
+        "python3.6-3.6.15-3.fc36",
+        "python3.6-3.6.15-2.fc36",
+        "python3.6-3.6.15-1.fc36"
+    ]
+}

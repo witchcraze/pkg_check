@@ -13,15 +13,15 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                    2.7.1-133.module+el8.3.0+7760+537395ec                    ol8_appstream",
-        "ruby.x86_64                  2.7.1-133.module+el8.3.0+7760+537395ec                    ol8_appstream",
-        "ruby.i686                    2.7.3-136.module+el8.4.0+20239+cbf59dc8                   ol8_appstream",
-        "ruby.x86_64                  2.7.3-136.module+el8.4.0+20239+cbf59dc8                   ol8_appstream",
-        "ruby.i686                    2.7.4-137.module+el8.4.0+20269+fcbf533e                   ol8_appstream",
-        "ruby.x86_64                  2.7.4-137.module+el8.4.0+20269+fcbf533e                   ol8_appstream",
-        "ruby.i686                    2.7.6-138.module+el8.6.0+20740+358d9979                   ol8_appstream",
-        "ruby.x86_64                  2.7.6-138.module+el8.6.0+20740+358d9979                   ol8_appstream",
-        "ruby.i686                    2.7.8-139.module+el8.8.0+21111+2e34bf27                   ol8_appstream",
-        "ruby.x86_64                  2.7.8-139.module+el8.8.0+21111+2e34bf27                   ol8_appstream"
+        "ruby.i686                              2.7.1-133.module+el8.3.0+7760+537395ec                              ol8_appstream",
+        "ruby.x86_64                            2.7.1-133.module+el8.3.0+7760+537395ec                              ol8_appstream",
+        "ruby.i686                              2.7.3-136.module+el8.4.0+20239+cbf59dc8                             ol8_appstream",
+        "ruby.x86_64                            2.7.3-136.module+el8.4.0+20239+cbf59dc8                             ol8_appstream",
+        "ruby.i686                              2.7.4-137.module+el8.4.0+20269+fcbf533e                             ol8_appstream",
+        "ruby.x86_64                            2.7.4-137.module+el8.4.0+20269+fcbf533e                             ol8_appstream",
+        "ruby.i686                              2.7.6-138.module+el8.6.0+20740+358d9979                             ol8_appstream",
+        "ruby.x86_64                            2.7.6-138.module+el8.6.0+20740+358d9979                             ol8_appstream",
+        "ruby.i686                              2.7.8-139.module+el8.8.0+21111+2e34bf27                             ol8_appstream",
+        "ruby.x86_64                            2.7.8-139.module+el8.8.0+21111+2e34bf27                             ol8_appstream"
     ]
 }

@@ -13,6 +13,6 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64 7.0.12-1.module+el9.3.0+19307+b7a69809 rhel-9-for-x86_64-appstream-rpms"
+        "redis.x86_64                   7.0.12-1.module+el9.3.0+19307+b7a69809                   rhel-9-for-x86_64-appstream-rpms"
     ]
 }

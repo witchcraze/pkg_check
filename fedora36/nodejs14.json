@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "14.19.0",
+        "Release": "3.module_f36+13930+82e25793",
+        "Architecture": "x86_64",
+        "Size": "200 k",
+        "Source": "nodejs-14.19.0-3.module_f36+13930+82e25793.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64       1:14.19.0-3.module_f36+13930+82e25793        fedora-modular",
+        "nodejs.x86_64       1:14.19.0-3.module_f36+13930+82e25793        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-14.21.2-1.module_f36+15899+c494d3f4",
+        "nodejs-14.19.3-1.module_f36+14475+f6301446",
+        "nodejs-14.19.0-3.module_f36+13930+82e25793",
+        "nodejs-14.18.3-1.module_f36+13628+6f5f4178",
+        "nodejs-14.18.2-1.module_f36+13536+41534192",
+        "nodejs-14.18.1-1.module_f36+13205+6bc2efaa",
+        "nodejs-14.18.0-1.module_f36+13036+bdb37557",
+        "nodejs-14.18.0-1.module_f36+13031+8056b8a7",
+        "nodejs-14.17.5-1.module_f36+12605+11944683"
+    ]
+}

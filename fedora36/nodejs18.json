@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "18.1.0",
+        "Release": "2.module_f36+14433+ea9af1bf",
+        "Architecture": "x86_64",
+        "Size": "97 k",
+        "Source": "nodejs-18.1.0-2.module_f36+14433+ea9af1bf.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64        1:18.1.0-2.module_f36+14433+ea9af1bf        updates-modular"
+    ],
+    "kojiPackages": [
+        "nodejs-18.7.0-1.module_f36+15040+f6562477",
+        "nodejs-18.6.0-1.module_f36+14782+6f52279c",
+        "nodejs-18.6.0-1.module_f36+14704+7c341ca0",
+        "nodejs-18.5.0-1.module_f36+14672+ed8d1736",
+        "nodejs-18.3.0-1.module_f36+14564+858d7cbd",
+        "nodejs-18.2.0-1.module_f36+14480+8c2c4a59",
+        "nodejs-18.1.0-2.module_f36+14433+ea9af1bf",
+        "nodejs-18.0.0-1.module_f36+14387+b3c69273",
+        "nodejs-18.0.0-1.module_f36+14379+5859e3b5"
+    ]
+}

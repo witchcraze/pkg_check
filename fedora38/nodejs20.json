@@ -20,6 +20,8 @@
         "nodejs20.x86_64                     1:20.8.1-1.fc38                      updates"
     ],
     "kojiPackages": [
+        "nodejs20-20.10.0-2.fc38",
+        "nodejs20-20.10.0-1.fc38",
         "nodejs20-20.9.0-2.fc38",
         "nodejs20-20.9.0-1.fc38",
         "nodejs20-20.8.1-1.fc38",

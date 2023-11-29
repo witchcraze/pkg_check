@@ -13,9 +13,9 @@
         "Description": ".NET Core is a fast, lightweight and modular platform for creating"
     },
     "list": [
-        "dotnet3.0.src                         3.0.100-1.0.1.el8                            ol8_appstream",
-        "dotnet3.0.src                         3.0.102-2.0.1.el8_1                          ol8_baseos_latest",
-        "dotnet3.0.src                         3.0.102-2.0.1.el8_1                          ol8_appstream",
-        "dotnet3.0.src                         3.0.103-1.0.1.el8_1                          ol8_appstream"
+        "dotnet3.0.src                                   3.0.100-1.0.1.el8                                      ol8_appstream",
+        "dotnet3.0.src                                   3.0.102-2.0.1.el8_1                                    ol8_baseos_latest",
+        "dotnet3.0.src                                   3.0.102-2.0.1.el8_1                                    ol8_appstream",
+        "dotnet3.0.src                                   3.0.103-1.0.1.el8_1                                    ol8_appstream"
     ]
 }

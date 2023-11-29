@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Version": "2.4.22",
+        "Release": "2.fc36",
+        "Architecture": "x86_64",
+        "Size": "2.2 M",
+        "Source": "haproxy-2.4.22-2.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "HAProxy reverse proxy for high availability environments",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPLv2+",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
+    },
+    "list": [
+        "haproxy.x86_64                       2.4.8-4.fc36                        fedora",
+        "haproxy.x86_64                       2.4.22-2.fc36                       updates"
+    ],
+    "kojiPackages": [
+        "haproxy-2.4.22-2.fc36",
+        "haproxy-2.4.22-1.fc36",
+        "haproxy-2.4.19-1.fc36",
+        "haproxy-2.4.17-1.fc36",
+        "haproxy-2.4.8-4.fc36",
+        "haproxy-2.4.8-3.fc36",
+        "haproxy-2.4.7-1.fc36",
+        "haproxy-2.4.4-2.fc36",
+        "haproxy-2.4.4-1.fc36",
+        "haproxy-2.4.3-1.fc36"
+    ]
+}

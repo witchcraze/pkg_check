@@ -18,6 +18,7 @@
         "openssl1.1.x86_64                     1:1.1.1q-4.fc38                     fedora"
     ],
     "kojiPackages": [
+        "openssl1.1-1.1.1q-4.module_f38+16495+b673becd",
         "openssl1.1-1.1.1q-4.fc38",
         "openssl1.1-1.1.1q-3.fc38"
     ]

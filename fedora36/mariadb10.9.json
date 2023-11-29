@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "10.9.4",
+        "Release": "1.module_f36+15688+4344cdb1",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "mariadb-10.9.4-1.module_f36+15688+4344cdb1.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "GPLv2 and LGPLv2",
+        "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb.x86_64       3:10.9.4-1.module_f36+15688+4344cdb1        updates-modular"
+    ],
+    "kojiPackages": [
+        "mariadb-10.9.4-1.module_f36+15688+4344cdb1",
+        "mariadb-10.9.3-1.module_f36+15626+cb8b3d16",
+        "mariadb-10.9.1-1.module_f36+14775+76ecc43a"
+    ]
+}

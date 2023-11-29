@@ -1,0 +1,40 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.1.4",
+        "Release": "175.fc36",
+        "Architecture": "x86_64",
+        "Size": "41 k",
+        "Source": "ruby-3.1.4-175.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                          3.1.1-162.fc36                        fedora",
+        "ruby.x86_64                        3.1.1-162.fc36                        fedora",
+        "ruby.i686                          3.1.4-175.fc36                        updates",
+        "ruby.x86_64                        3.1.4-175.fc36                        updates"
+    ],
+    "kojiPackages": [
+        "ruby-3.1.4-175.fc36",
+        "ruby-3.1.3-174.fc36",
+        "ruby-3.1.3-173.fc36",
+        "ruby-3.1.3-172.fc36",
+        "ruby-3.1.2-170.fc36",
+        "ruby-3.1.2-169.fc36",
+        "ruby-3.1.2-164.fc36",
+        "ruby-3.1.1-162.fc36",
+        "ruby-3.1.0-160.fc36",
+        "ruby-3.0.3-159.fc36",
+        "ruby-3.0.3-158.fc36",
+        "ruby-3.0.3-157.fc36",
+        "ruby-3.0.3-156.fc36",
+        "ruby-3.0.3-155.fc36",
+        "ruby-3.0.3-154.fc36",
+        "ruby-3.0.2-153.fc36",
+        "ruby-3.0.2-152.fc36"
+    ]
+}

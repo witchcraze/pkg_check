@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "14.3",
+        "Release": "1.module_f36+14654+ca9d57a5",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "postgresql-14.3-1.module_f36+14654+ca9d57a5.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64        14.2-1.module_f36+13835+244d4b31        fedora-modular",
+        "postgresql.x86_64        14.3-1.module_f36+14654+ca9d57a5        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-14.7-3.module_f36+16249+5cf4c6eb",
+        "postgresql-14.3-3.module_f36+14927+1e43a4c8",
+        "postgresql-14.3-1.module_f36+14654+ca9d57a5",
+        "postgresql-14.2-1.module_f36+13835+244d4b31",
+        "postgresql-14.1-1.module_f36+13636+1b9ddb35",
+        "postgresql-14.0-1.module_f36+13193+ead6eeb7"
+    ]
+}

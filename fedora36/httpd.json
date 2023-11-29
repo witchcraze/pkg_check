@@ -1,0 +1,42 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.57",
+        "Release": "1.fc36",
+        "Architecture": "x86_64",
+        "Size": "47 k",
+        "Source": "httpd-2.4.57-1.fc36.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.x86_64                        2.4.53-1.fc36                        fedora",
+        "httpd.i686                          2.4.57-1.fc36                        updates",
+        "httpd.x86_64                        2.4.57-1.fc36                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.57-1.fc36",
+        "httpd-2.4.56-1.fc36",
+        "httpd-2.4.55-1.fc36",
+        "httpd-2.4.54-3.fc36",
+        "httpd-2.4.53-1.fc36",
+        "httpd-2.4.52-5.fc36",
+        "httpd-2.4.52-4.fc36",
+        "httpd-2.4.52-3.fc36",
+        "httpd-2.4.43-7.module_f36+13677+342c3efe",
+        "httpd-2.4.52-2.fc36",
+        "httpd-2.4.52-1.fc36",
+        "httpd-2.4.51-3.fc36",
+        "httpd-2.4.51-2.fc36",
+        "httpd-2.4.51-1.fc36",
+        "httpd-2.4.50-1.fc36",
+        "httpd-2.4.49-3.fc36",
+        "httpd-2.4.49-2.fc36",
+        "httpd-2.4.49-1.fc36",
+        "httpd-2.4.48-8.fc36",
+        "httpd-2.4.48-7.fc36"
+    ]
+}

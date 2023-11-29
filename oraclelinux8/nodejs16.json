@@ -14,17 +14,17 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64              1:16.8.0-1.0.1.module+el8.5.0+20419+fdab02ff                ol8_appstream",
-        "nodejs.x86_64              1:16.13.1-3.0.1.module+el8.5.0+20457+52828f44               ol8_appstream",
-        "nodejs.x86_64              1:16.14.0-4.module+el8.5.0+20657+d2c43c10                   ol8_appstream",
-        "nodejs.x86_64              1:16.14.0-4.module+el8.6.0+20672+19f3909b                   ol8_appstream",
-        "nodejs.x86_64              1:16.16.0-3.module+el8.6.0+20742+4c4c4b80                   ol8_appstream",
-        "nodejs.x86_64              1:16.17.1-1.module+el8.6.0+20846+72f1269d                   ol8_appstream",
-        "nodejs.x86_64              1:16.18.1-3.module+el8.7.0+20893+df13f383                   ol8_appstream",
-        "nodejs.x86_64              1:16.19.1-1.module+el8.7.0+21021+1eb7f63d                   ol8_appstream",
-        "nodejs.x86_64              1:16.19.1-2.module+el8.8.0+21121+9536f36f                   ol8_appstream",
-        "nodejs.x86_64              1:16.20.1-1.module+el8.8.0+21143+178952bb                   ol8_appstream",
-        "nodejs.x86_64              1:16.20.2-2.module+el8.8.0+21172+0baa0bae                   ol8_appstream",
-        "nodejs.x86_64              1:16.20.2-3.0.1.module+el8.8.0+21192+e43554c6               ol8_appstream"
+        "nodejs.x86_64                        1:16.8.0-1.0.1.module+el8.5.0+20419+fdab02ff                          ol8_appstream",
+        "nodejs.x86_64                        1:16.13.1-3.0.1.module+el8.5.0+20457+52828f44                         ol8_appstream",
+        "nodejs.x86_64                        1:16.14.0-4.module+el8.5.0+20657+d2c43c10                             ol8_appstream",
+        "nodejs.x86_64                        1:16.14.0-4.module+el8.6.0+20672+19f3909b                             ol8_appstream",
+        "nodejs.x86_64                        1:16.16.0-3.module+el8.6.0+20742+4c4c4b80                             ol8_appstream",
+        "nodejs.x86_64                        1:16.17.1-1.module+el8.6.0+20846+72f1269d                             ol8_appstream",
+        "nodejs.x86_64                        1:16.18.1-3.module+el8.7.0+20893+df13f383                             ol8_appstream",
+        "nodejs.x86_64                        1:16.19.1-1.module+el8.7.0+21021+1eb7f63d                             ol8_appstream",
+        "nodejs.x86_64                        1:16.19.1-2.module+el8.8.0+21121+9536f36f                             ol8_appstream",
+        "nodejs.x86_64                        1:16.20.1-1.module+el8.8.0+21143+178952bb                             ol8_appstream",
+        "nodejs.x86_64                        1:16.20.2-2.module+el8.8.0+21172+0baa0bae                             ol8_appstream",
+        "nodejs.x86_64                        1:16.20.2-3.0.1.module+el8.8.0+21192+e43554c6                         ol8_appstream"
     ]
 }

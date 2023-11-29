@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "12.10",
+        "Release": "2.module_f36+14014+7b51104f",
+        "Architecture": "x86_64",
+        "Size": "1.4 M",
+        "Source": "postgresql-12.10-2.module_f36+14014+7b51104f.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       12.10-2.module_f36+14014+7b51104f        fedora-modular",
+        "postgresql.x86_64       12.10-2.module_f36+14014+7b51104f        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-12.14-1.module_f36+16135+03d15e58",
+        "postgresql-12.11-3.module_f36+14745+601e7102",
+        "postgresql-12.11-1.module_f36+14585+55df91f7",
+        "postgresql-12.10-2.module_f36+14014+7b51104f",
+        "postgresql-12.10-2.module_f36+13990+e27ce491",
+        "postgresql-12.10-1.module_f36+13844+4f4c76d0",
+        "postgresql-12.9-1.module_f36+13667+2e36d43b",
+        "postgresql-12.8-2.module_f36+13246+a608e557",
+        "postgresql-12.8-1.module_f36+12651+20235714"
+    ]
+}

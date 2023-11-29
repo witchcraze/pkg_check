@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.19",
+        "Release": "1.module_f36+13780+9d1fd8a1",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-10.19-1.module_f36+13780+9d1fd8a1.src.rpm",
+        "Repository": "updates-modular",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64       10.19-1.module_f36+13780+9d1fd8a1        fedora-modular",
+        "postgresql.x86_64       10.19-1.module_f36+13780+9d1fd8a1        updates-modular"
+    ],
+    "kojiPackages": [
+        "postgresql-10.21-1.module_f36+14736+86cf7b44",
+        "postgresql-10.20-1.module_f36+13872+1d30a730",
+        "postgresql-10.20-1.module_f36+13859+a731d4fa",
+        "postgresql-10.19-1.module_f36+13780+9d1fd8a1",
+        "postgresql-10.19-1.module_f36+13547+13479fe0",
+        "postgresql-10.18-1.module_f36+13241+83892fd5"
+    ]
+}
