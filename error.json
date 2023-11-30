@@ -1,11 +1,4 @@
 {
-    "debian": {
-        "12": {
-            "postgresql-15": [
-                "apt-get changelog"
-            ]
-        }
-    },
     "centosstream": {
         "8": {
             "dotnet": [

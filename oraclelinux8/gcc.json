@@ -102,7 +102,6 @@
         "gcc.x86_64                                    8.5.0-18.0.6.el8                                        ol8_appstream",
         "gcc.src                                       8.5.0-20.0.1.el8                                        ol8_baseos_latest",
         "gcc.src                                       8.5.0-20.0.1.el8                                        ol8_appstream",
-        "gcc.src                                       8.5.0-20.0.1.el8                                        ol8_u9_baseos_base",
         "gcc.x86_64                                    8.5.0-20.0.1.el8                                        ol8_appstream"
     ]
 }

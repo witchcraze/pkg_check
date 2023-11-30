@@ -19,6 +19,7 @@
         "python2.7.x86_64                     2.7.18-35.fc37                      updates"
     ],
     "kojiPackages": [
+        "python2.7-2.7.18-36.fc37",
         "python2.7-2.7.18-35.fc37",
         "python2.7-2.7.18-27.fc37",
         "python2.7-2.7.18-26.module_f37+15846+f7f51a84",

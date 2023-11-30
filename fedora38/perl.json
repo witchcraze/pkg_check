@@ -18,6 +18,7 @@
         "perl.x86_64                      4:5.36.1-497.fc38                       updates"
     ],
     "kojiPackages": [
+        "perl-5.36.3-498.fc38",
         "perl-5.36.1-497.fc38",
         "perl-5.36.1-496.fc38",
         "perl-5.36.0-495.fc38",
