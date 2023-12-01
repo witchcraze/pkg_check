@@ -85,6 +85,7 @@
         "bind.x86_64                                  32:9.11.36-8.el8_8.2                                     ol8_appstream",
         "bind.src                                     32:9.11.36-11.el8_9                                      ol8_baseos_latest",
         "bind.src                                     32:9.11.36-11.el8_9                                      ol8_appstream",
+        "bind.src                                     32:9.11.36-11.el8_9                                      ol8_u9_baseos_base",
         "bind.x86_64                                  32:9.11.36-11.el8_9                                      ol8_appstream"
     ]
 }

@@ -24,6 +24,7 @@
         "openssl.x86_64                     1:1.1.1k-11.el8                        baseos"
     ],
     "kojiPackages": [
+        "openssl-1.1.1k-12.el8",
         "openssl-1.1.1k-11.el8",
         "openssl-1.1.1k-10.el8",
         "openssl-1.1.1k-9.el8",
