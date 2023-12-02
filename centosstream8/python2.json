@@ -25,6 +25,7 @@
         "python2.x86_64         2.7.18-16.module_el8+739+75e8b99b               appstream"
     ],
     "kojiPackages": [
+        "python2-2.7.18-17.module_el8+770+d35395c9",
         "python2-2.7.18-16.module_el8+739+75e8b99b",
         "python2-2.7.18-14.module_el8+570+db61b4f9",
         "python2-2.7.18-12.module_el8+299+aa6e9afa",
