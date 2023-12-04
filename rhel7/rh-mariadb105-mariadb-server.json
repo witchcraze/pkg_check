@@ -3,9 +3,9 @@
         "Name": "rh-mariadb105-mariadb-server",
         "Arch": "x86_64",
         "Epoch": "3",
-        "Version": "10.5.16",
-        "Release": "2.el7",
-        "Size": "18 M",
+        "Version": "10.5.22",
+        "Release": "1.el7",
+        "Size": "19 M",
         "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -15,6 +15,7 @@
     "list": [
         "rh-mariadb105-mariadb-server.x86_64   3:10.5.9-2.el7    rhel-server-rhscl-7-rpms",
         "rh-mariadb105-mariadb-server.x86_64   3:10.5.13-1.el7   rhel-server-rhscl-7-rpms",
-        "rh-mariadb105-mariadb-server.x86_64   3:10.5.16-2.el7   rhel-server-rhscl-7-rpms"
+        "rh-mariadb105-mariadb-server.x86_64   3:10.5.16-2.el7   rhel-server-rhscl-7-rpms",
+        "rh-mariadb105-mariadb-server.x86_64   3:10.5.22-1.el7   rhel-server-rhscl-7-rpms"
     ]
 }
