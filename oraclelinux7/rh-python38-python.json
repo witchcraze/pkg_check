@@ -2,9 +2,9 @@
     "info": {
         "Name": "rh-python38-python",
         "Arch": "x86_64",
-        "Version": "3.8.14",
-        "Release": "1.el7",
-        "Size": "71 k",
+        "Version": "3.8.18",
+        "Release": "2.el7",
+        "Size": "72 k",
         "Repo": "ol7_software_collections/x86_64",
         "Summary": "Interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -16,6 +16,7 @@
         "rh-python38-python.x86_64         3.8.6-1.el7           ol7_software_collections",
         "rh-python38-python.x86_64         3.8.11-2.el7          ol7_software_collections",
         "rh-python38-python.x86_64         3.8.13-1.el7          ol7_software_collections",
-        "rh-python38-python.x86_64         3.8.14-1.el7          ol7_software_collections"
+        "rh-python38-python.x86_64         3.8.14-1.el7          ol7_software_collections",
+        "rh-python38-python.x86_64         3.8.18-2.el7          ol7_software_collections"
     ]
 }

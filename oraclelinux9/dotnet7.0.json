@@ -29,6 +29,7 @@
         "dotnet7.0.src          7.0.111-1.0.1.el9_2                         ol9_appstream",
         "dotnet7.0.src          7.0.112-1.0.1.el9_2                         ol9_appstream",
         "dotnet7.0.src          7.0.113-1.0.1.el9_2                         ol9_appstream",
+        "dotnet7.0.src          7.0.113-2.0.1.el9_3                         ol9_appstream",
         "dotnet7.0.src          7.0.114-1.0.1.el9_3                         ol9_appstream"
     ]
 }
