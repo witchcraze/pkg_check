@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-15",
-        "Version": "15.4-0ubuntu0.23.04.1",
+        "Version": "15.5-0ubuntu0.23.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
@@ -21,6 +21,7 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "changelog": [
+        "postgresql-15 (15.5-0ubuntu0.23.04.1) lunar-security; urgency=medium",
         "postgresql-15 (15.4-0ubuntu0.23.04.1) lunar-security; urgency=medium",
         "postgresql-15 (15.3-0ubuntu0.23.04.1) lunar-security; urgency=medium",
         "postgresql-15 (15.2-1) unstable; urgency=medium",

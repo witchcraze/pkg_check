@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-14",
-        "Version": "14.9-0ubuntu0.22.04.1",
+        "Version": "14.10-0ubuntu0.22.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
@@ -20,6 +20,7 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "changelog": [
+        "postgresql-14 (14.10-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "postgresql-14 (14.9-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "postgresql-14 (14.8-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "postgresql-14 (14.7-0ubuntu0.22.04.1) jammy-security; urgency=medium",

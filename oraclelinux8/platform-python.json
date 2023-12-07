@@ -7,14 +7,13 @@
         "Size": "86 k",
         "Source": "python3-3.6.8-56.0.1.el8_9.src.rpm",
         "Repository": "ol8_appstream",
-        "From repo": "ol8_baseos_latest",
         "Summary": "Internal interpreter of the Python programming language",
         "URL": "https://www.python.org/",
         "License": "Python",
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64                              3.6.8-56.0.1.el8_9                                @ol8_baseos_latest",
+        "platform-python.x86_64                              3.6.8-56.0.1.el8_9                                @System",
         "platform-python.i686                                3.6.8-1.0.1.el8                                   ol8_appstream",
         "platform-python.x86_64                              3.6.8-1.0.1.el8                                   ol8_baseos_latest",
         "platform-python.x86_64                              3.6.8-1.0.1.el8                                   ol8_u0_baseos_base",

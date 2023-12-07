@@ -17,6 +17,7 @@
         "gcc.x86_64                         13.2.1-4.fc39                         updates"
     ],
     "kojiPackages": [
+        "gcc-13.2.1-6.fc39",
         "gcc-13.2.1-4.fc39",
         "gcc-13.2.1-3.fc39",
         "gcc-13.2.1-2.fc39",

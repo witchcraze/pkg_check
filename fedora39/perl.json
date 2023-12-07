@@ -2,11 +2,11 @@
     "info": {
         "Name": "perl",
         "Epoch": "4",
-        "Version": "5.38.0",
-        "Release": "501.fc39",
+        "Version": "5.38.2",
+        "Release": "502.fc39",
         "Architecture": "x86_64",
         "Size": "14 k",
-        "Source": "perl-5.38.0-501.fc39.src.rpm",
+        "Source": "perl-5.38.2-502.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "perl.x86_64                      4:5.38.0-500.fc39                       fedora",
-        "perl.x86_64                      4:5.38.0-501.fc39                       updates"
+        "perl.x86_64                      4:5.38.2-502.fc39                       updates"
     ],
     "kojiPackages": [
         "perl-5.38.2-502.fc39",

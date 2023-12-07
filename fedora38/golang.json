@@ -17,6 +17,7 @@
         "golang.x86_64                       1.20.11-1.fc38                       updates"
     ],
     "kojiPackages": [
+        "golang-1.20.12-1.fc38",
         "golang-1.20.11-1.fc38",
         "golang-1.20.10-2.fc38",
         "golang-1.20.8-1.fc38",

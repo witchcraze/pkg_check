@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "4.15",
-        "Release": "7.module+el8.9.0+20571+8d39338b.1",
+        "Release": "7.module+el8.9.0+20806+014d88aa.3",
         "Architecture": "x86_64",
-        "Size": "3.6 M",
-        "Source": "squid-4.15-7.module+el8.9.0+20571+8d39338b.1.src.rpm",
+        "Size": "3.5 M",
+        "Source": "squid-4.15-7.module+el8.9.0+20806+014d88aa.3.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -29,6 +29,7 @@
         "squid.x86_64                  7:4.15-6.module+el8.8.0+17468+cecc5697                    rhel-8-for-x86_64-appstream-rpms",
         "squid.x86_64                  7:4.15-6.module+el8.8.0+20569+26050b0f.1                  rhel-8-for-x86_64-appstream-rpms",
         "squid.x86_64                  7:4.15-7.module+el8.9.0+19703+a1da7223                    rhel-8-for-x86_64-appstream-rpms",
-        "squid.x86_64                  7:4.15-7.module+el8.9.0+20571+8d39338b.1                  rhel-8-for-x86_64-appstream-rpms"
+        "squid.x86_64                  7:4.15-7.module+el8.9.0+20571+8d39338b.1                  rhel-8-for-x86_64-appstream-rpms",
+        "squid.x86_64                  7:4.15-7.module+el8.9.0+20806+014d88aa.3                  rhel-8-for-x86_64-appstream-rpms"
     ]
 }
