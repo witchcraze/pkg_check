@@ -2,10 +2,10 @@
     "info": {
         "Name": "python2.7",
         "Version": "2.7.18",
-        "Release": "35.fc38",
+        "Release": "36.fc38",
         "Architecture": "x86_64",
         "Size": "13 M",
-        "Source": "python2.7-2.7.18-35.fc38.src.rpm",
+        "Source": "python2.7-2.7.18-36.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "Version 2.7 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python2.7.i686                       2.7.18-30.fc38                      fedora",
         "python2.7.x86_64                     2.7.18-30.fc38                      fedora",
-        "python2.7.i686                       2.7.18-35.fc38                      updates",
-        "python2.7.x86_64                     2.7.18-35.fc38                      updates"
+        "python2.7.i686                       2.7.18-36.fc38                      updates",
+        "python2.7.x86_64                     2.7.18-36.fc38                      updates"
     ],
     "kojiPackages": [
         "python2.7-2.7.18-36.fc38",

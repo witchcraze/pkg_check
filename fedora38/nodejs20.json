@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs20",
         "Epoch": "1",
-        "Version": "20.8.1",
-        "Release": "1.fc38",
+        "Version": "20.10.0",
+        "Release": "3.fc38",
         "Architecture": "x86_64",
-        "Size": "2.2 M",
-        "Source": "nodejs20-20.8.1-1.fc38.src.rpm",
+        "Size": "48 k",
+        "Source": "nodejs20-20.10.0-3.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,8 +16,8 @@
     "list": [
         "nodejs20.i686                       1:19.8.1-7.fc38                      fedora",
         "nodejs20.x86_64                     1:19.8.1-7.fc38                      fedora",
-        "nodejs20.i686                       1:20.8.1-1.fc38                      updates",
-        "nodejs20.x86_64                     1:20.8.1-1.fc38                      updates"
+        "nodejs20.i686                       1:20.10.0-3.fc38                     updates",
+        "nodejs20.x86_64                     1:20.10.0-3.fc38                     updates"
     ],
     "kojiPackages": [
         "nodejs20-20.10.0-3.fc38",
