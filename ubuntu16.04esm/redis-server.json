@@ -1,19 +1,20 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "2:3.0.6-1ubuntu0.4+esm1",
+        "Version": "2:3.0.6-1ubuntu0.4+esm2",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "923 kB",
-        "Depends": "adduser, redis-tools (= 2:3.0.6-1ubuntu0.4+esm1), init-system-helpers (>= 1.18~), libc6 (>= 2.14), libjemalloc1 (>= 2.1.1)",
-        "Download-Size": "344 kB",
+        "Depends": "adduser, redis-tools (= 2:3.0.6-1ubuntu0.4+esm2), init-system-helpers (>= 1.18~), libc6 (>= 2.14), libjemalloc1 (>= 2.1.1)",
+        "Download-Size": "345 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "changelog": [
+        "redis (2:3.0.6-1ubuntu0.4+esm2) xenial-security; urgency=medium",
         "redis (2:3.0.6-1ubuntu0.4+esm1) xenial-security; urgency=medium",
         "redis (2:3.0.6-1ubuntu0.4) xenial-security; urgency=medium",
         "redis (2:3.0.6-1ubuntu0.3) xenial-security; urgency=medium",
@@ -22,7 +23,6 @@
         "redis (2:3.0.5-4) unstable; urgency=high",
         "redis (2:3.0.5-3) unstable; urgency=medium",
         "redis (2:3.0.5-2) unstable; urgency=medium",
-        "redis (2:3.0.5-1) unstable; urgency=medium",
-        "redis (2:3.0.4-8) unstable; urgency=medium"
+        "redis (2:3.0.5-1) unstable; urgency=medium"
     ]
 }
