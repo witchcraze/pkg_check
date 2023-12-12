@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "12.15",
-        "Release": "3.module+el8.9.0+1331+6f33d496",
+        "Version": "12.17",
+        "Release": "1.module+el8.9.0+1603+444d1b54",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-12.15-3.module+el8.9.0+1331+6f33d496.src.rpm",
+        "Source": "postgresql-12.17-1.module+el8.9.0+1603+444d1b54.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,9 +13,11 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64         12.15-3.module+el8.9.0+1331+6f33d496         appstream"
+        "postgresql.x86_64         12.15-3.module+el8.9.0+1331+6f33d496         appstream",
+        "postgresql.x86_64         12.17-1.module+el8.9.0+1603+444d1b54         appstream"
     ],
     "kojiPackages": [
+        "postgresql-12.17-1.module+el8.9.0+1603+444d1b54",
         "postgresql-12.15-1.module+el8.8.0+1441+a10239d2",
         "postgresql-12.15-3.module+el8.9.0+1331+6f33d496",
         "postgresql-12.12-1.module+el8.6.0+1049+f8fc4c36",

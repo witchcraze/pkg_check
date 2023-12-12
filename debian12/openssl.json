@@ -9,9 +9,12 @@
         "Depends": "libc6 (>= 2.34), libssl3 (>= 3.0.9)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
+        "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
+        "scope": "utility, security::cryptography, security::integrity,",
+        "use": "checking",
         "Download-Size": "1419 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "changelog": [

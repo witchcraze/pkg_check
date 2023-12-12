@@ -13,7 +13,7 @@
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "202209061",
         "Download-Size": "16.8 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "changelog": [

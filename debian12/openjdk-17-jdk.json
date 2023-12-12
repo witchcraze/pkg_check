@@ -13,7 +13,7 @@
         "Suggests": "openjdk-17-demo, openjdk-17-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "2777 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "changelog": [

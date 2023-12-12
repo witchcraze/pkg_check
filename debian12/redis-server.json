@@ -1,21 +1,22 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:7.0.11-1",
+        "Version": "5:7.0.11-1+deb12u1",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "185 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.11-1)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.11-1+deb12u1)",
         "Homepage": "https://redis.io/",
         "Tag": "implemented-in::c, role::program",
-        "Download-Size": "70.8 kB",
+        "Download-Size": "70.9 kB",
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "changelog": [
+        "redis (5:7.0.11-1+deb12u1) bookworm; urgency=medium",
         "redis (5:7.0.11-1) unstable; urgency=high",
         "redis (5:7.0.10-1) unstable; urgency=medium",
         "redis (5:7.0.9-1) unstable; urgency=high",
