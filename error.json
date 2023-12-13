@@ -170,9 +170,6 @@
             "mariadb-server": [
                 "kojiPackages"
             ],
-            "nodejs": [
-                "kojiPackages"
-            ],
             "postgresql-server": [
                 "kojiPackages"
             ]
