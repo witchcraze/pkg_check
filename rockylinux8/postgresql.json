@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "10.23",
-        "Release": "2.module+el8.9.0+1500+e42a8b96",
+        "Release": "3.module+el8.9.0+1608+45f68f05",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-10.23-2.module+el8.9.0+1500+e42a8b96.src.rpm",
+        "Source": "postgresql-10.23-3.module+el8.9.0+1608+45f68f05.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,6 +13,7 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64         10.23-2.module+el8.9.0+1500+e42a8b96         appstream"
+        "postgresql.x86_64         10.23-2.module+el8.9.0+1500+e42a8b96         appstream",
+        "postgresql.x86_64         10.23-3.module+el8.9.0+1608+45f68f05         appstream"
     ]
 }

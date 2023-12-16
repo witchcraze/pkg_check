@@ -3,7 +3,7 @@
         "Name": "postgresql",
         "Arch": "x86_64",
         "Version": "9.2.24",
-        "Release": "8.el7_9",
+        "Release": "9.el7_9",
         "Size": "3.0 M",
         "Repo": "rhel-7-server-rpms/7Server/x86_64",
         "Summary": "PostgreSQL client programs",
@@ -43,6 +43,8 @@
         "postgresql.i686                 9.2.24-7.el7_9                rhel-7-server-rpms",
         "postgresql.x86_64               9.2.24-7.el7_9                rhel-7-server-rpms",
         "postgresql.i686                 9.2.24-8.el7_9                rhel-7-server-rpms",
-        "postgresql.x86_64               9.2.24-8.el7_9                rhel-7-server-rpms"
+        "postgresql.x86_64               9.2.24-8.el7_9                rhel-7-server-rpms",
+        "postgresql.i686                 9.2.24-9.el7_9                rhel-7-server-rpms",
+        "postgresql.x86_64               9.2.24-9.el7_9                rhel-7-server-rpms"
     ]
 }

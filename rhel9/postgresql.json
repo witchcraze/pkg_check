@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "13.11",
-        "Release": "1.el9_2",
+        "Version": "13.13",
+        "Release": "1.el9_3",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql-13.11-1.el9_2.src.rpm",
+        "Source": "postgresql-13.13-1.el9_3.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -16,6 +16,7 @@
         "postgresql.x86_64                             13.5-1.el9                                rhel-9-for-x86_64-appstream-rpms",
         "postgresql.x86_64                             13.7-1.el9_0                              rhel-9-for-x86_64-appstream-rpms",
         "postgresql.x86_64                             13.10-1.el9_1                             rhel-9-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                             13.11-1.el9_2                             rhel-9-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                             13.11-1.el9_2                             rhel-9-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                             13.13-1.el9_3                             rhel-9-for-x86_64-appstream-rpms"
     ]
 }

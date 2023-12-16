@@ -3,7 +3,7 @@
         "Name": "postgresql-server",
         "Arch": "x86_64",
         "Version": "9.2.24",
-        "Release": "8.el7_9",
+        "Release": "9.el7_9",
         "Size": "3.8 M",
         "Repo": "ol7_latest/x86_64",
         "Summary": "The programs needed to create and run a PostgreSQL server",
@@ -29,6 +29,7 @@
         "postgresql-server.x86_64               9.2.24-4.el7_8                ol7_u9_base",
         "postgresql-server.x86_64               9.2.24-6.el7_9                ol7_latest",
         "postgresql-server.x86_64               9.2.24-7.el7_9                ol7_latest",
-        "postgresql-server.x86_64               9.2.24-8.el7_9                ol7_latest"
+        "postgresql-server.x86_64               9.2.24-8.el7_9                ol7_latest",
+        "postgresql-server.x86_64               9.2.24-9.el7_9                ol7_latest"
     ]
 }

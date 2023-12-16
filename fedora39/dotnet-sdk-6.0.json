@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.124",
+        "Version": "6.0.125",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "77 M",
-        "Source": "dotnet6.0-6.0.124-1.fc39.src.rpm",
+        "Source": "dotnet6.0-6.0.125-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "dotnet-sdk-6.0.x86_64                   6.0.122-1.fc39                   fedora",
-        "dotnet-sdk-6.0.x86_64                   6.0.124-1.fc39                   updates"
+        "dotnet-sdk-6.0.x86_64                   6.0.125-1.fc39                   updates"
     ],
     "kojiPackages": [
         "dotnet6.0-6.0.125-1.fc39",

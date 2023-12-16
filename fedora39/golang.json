@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.21.4",
+        "Version": "1.21.5",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "665 k",
-        "Source": "golang-1.21.4-1.fc39.src.rpm",
+        "Source": "golang-1.21.5-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -14,7 +14,7 @@
     },
     "list": [
         "golang.x86_64                       1.21.1-1.fc39                        fedora",
-        "golang.x86_64                       1.21.4-1.fc39                        updates"
+        "golang.x86_64                       1.21.5-1.fc39                        updates"
     ],
     "kojiPackages": [
         "golang-1.21.5-1.fc39",
