@@ -19,6 +19,7 @@
         "python3.10.x86_64                     3.10.13-1.fc38                     updates"
     ],
     "kojiPackages": [
+        "python3.10-3.10.13-2.fc38",
         "python3.10-3.10.13-1.fc38",
         "python3.10-3.10.12-1.fc38",
         "python3.10-3.10.11-2.fc38",

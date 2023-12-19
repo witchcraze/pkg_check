@@ -18,6 +18,7 @@
         "perl.x86_64                      4:5.38.2-502.fc39                       updates"
     ],
     "kojiPackages": [
+        "perl-5.38.2-503.fc39app4",
         "perl-5.38.2-502.fc39",
         "perl-5.38.0-502.fc39app3",
         "perl-5.38.0-501.fc39",
