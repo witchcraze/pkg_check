@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Arch": "x86_64",
+        "Version": "3.0.2",
+        "Release": "25.amzn2",
+        "Size": "170 k",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "https://security.appspot.com/vsftpd.html",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                   3.0.2-22.amzn2                        amzn2-core",
+        "vsftpd.x86_64                   3.0.2-22.amzn2.0.1                    amzn2-core",
+        "vsftpd.x86_64                   3.0.2-25.amzn2                        amzn2-core"
+    ]
+}

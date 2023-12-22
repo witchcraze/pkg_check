@@ -1,0 +1,33 @@
+{
+    "show": {
+        "Package": "varnish",
+        "Version": "5.2.1-1build2",
+        "Priority": "optional",
+        "Section": "universe/web",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Varnish Package Maintainers <pkg-varnish-devel@lists.alioth.debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "2062 kB",
+        "Provides": "varnishabi-6.1, varnishabi-strict-67e562482",
+        "Depends": "libc6 (>= 2.25), libedit2 (>= 2.11-20080614), libjemalloc2 (>= 2.1.1), libncursesw6 (>= 6), libpcre3, libtinfo6 (>= 6), libvarnishapi1 (>= 5.2.0), adduser, gcc, libc6-dev | libc6.1-dev | libc-dev, lsb-base",
+        "Suggests": "varnish-doc",
+        "Replaces": "libvarnishapi1 (<< 3.0.0-5)",
+        "Homepage": "https://www.varnish-cache.org/",
+        "Download-Size": "709 kB",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
+        "Description": "state of the art, high-performance web accelerator"
+    },
+    "changelog": [
+        "varnish (5.2.1-1build2) cosmic; urgency=medium",
+        "varnish (5.2.1-1build1) cosmic; urgency=medium",
+        "varnish (5.2.1-1) unstable; urgency=medium",
+        "varnish (5.2.0-1) unstable; urgency=medium",
+        "varnish (5.0.0-7.1) unstable; urgency=high",
+        "varnish (5.0.0-7) unstable; urgency=medium",
+        "varnish (5.0.0-6) unstable; urgency=medium",
+        "varnish (5.0.0-5) unstable; urgency=medium",
+        "varnish (5.0.0-4) unstable; urgency=medium",
+        "varnish (5.0.0-3) unstable; urgency=medium"
+    ]
+}

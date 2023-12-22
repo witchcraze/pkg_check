@@ -1,18 +1,19 @@
 {
     "info": {
         "Name": "openssl",
-        "Arch": "x86_64",
+        "Arch": "i686",
         "Version": "1.0.1e",
         "Release": "58.el6_10",
         "Size": "1.5 M",
         "Repo": "updates",
-        "From repo": "CentOS",
+        "From repo": "updates",
         "Summary": "A general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "OpenSSL",
         "Description": "The OpenSSL toolkit provides support for secure communications"
     },
     "list": [
+        "openssl.x86_64             1.0.1e-58.el6_10                         @updates",
         "openssl.i686               1.0.0-4.el6                              C6.0-base",
         "openssl.x86_64             1.0.0-4.el6                              C6.0-base",
         "openssl.i686               1.0.0-4.el6_0.1                          C6.0-updates",

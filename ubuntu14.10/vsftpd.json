@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "vsftpd",
+        "Priority": "extra",
+        "Section": "net",
+        "Installed-Size": "373 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Daniel Baumann <mail@daniel-baumann.ch>",
+        "Version": "3.0.2-14ubuntu1",
+        "Replaces": "ftp-server",
+        "Provides": "ftp-server",
+        "Depends": "debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), sysv-rc (>= 2.88dsf-24) | file-rc (>= 0.8.16), libc6 (>= 2.15), libcap2 (>= 2.10), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~), adduser, libpam-modules, netbase",
+        "Recommends": "logrotate, ssl-cert",
+        "Conflicts": "ftp-server",
+        "Download-Size": "112 kB",
+        "Homepage": "http://vsftpd.beasts.org/",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Origin": "Ubuntu",
+        "Supported": "9m",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
+        "Description": "lightweight, efficient FTP server written for security"
+    },
+    "changelog": [
+        "vsftpd (3.0.2-14ubuntu1) utopic; urgency=medium",
+        "vsftpd (3.0.2-14) unstable; urgency=low",
+        "vsftpd (3.0.2-13) experimental; urgency=low",
+        "vsftpd (3.0.2-12) experimental; urgency=low",
+        "vsftpd (3.0.2-11) experimental; urgency=low",
+        "vsftpd (3.0.2-10) experimental; urgency=low",
+        "vsftpd (3.0.2-9) experimental; urgency=low",
+        "vsftpd (3.0.2-8) experimental; urgency=low",
+        "vsftpd (3.0.2-7) experimental; urgency=low",
+        "vsftpd (3.0.2-6) experimental; urgency=low"
+    ]
+}

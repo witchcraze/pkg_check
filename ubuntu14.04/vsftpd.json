@@ -1,0 +1,36 @@
+{
+    "show": {
+        "Package": "vsftpd",
+        "Version": "3.0.2-1ubuntu2.14.04.1",
+        "Priority": "extra",
+        "Section": "net",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Daniel Baumann <daniel.baumann@progress-technologies.net>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "361 kB",
+        "Provides": "ftp-server",
+        "Depends": "debconf (>= 0.5) | debconf-2.0, sysv-rc (>= 2.88dsf-24) | file-rc (>= 0.8.16), libc6 (>= 2.15), libcap2 (>= 2.10), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~), adduser, libpam-modules, netbase",
+        "Recommends": "logrotate",
+        "Conflicts": "ftp-server",
+        "Replaces": "ftp-server",
+        "Download-Size": "111 kB",
+        "SHA512": "87c4c241312e75c44a8724f5618a04c74264ad788fde223aae9ad32f5eed18974d465047f9456a8010c2894bb5943cf2ad9e8f4f0f11f47585ddf7eb67dcbb1a",
+        "Homepage": "http://vsftpd.beasts.org/",
+        "Supported": "5y",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
+        "Description": "lightweight, efficient FTP server written for security"
+    },
+    "changelog": [
+        "vsftpd (3.0.2-1ubuntu2.14.04.1) trusty; urgency=medium",
+        "vsftpd (3.0.2-1ubuntu2) saucy; urgency=low",
+        "vsftpd (3.0.2-1ubuntu1) raring; urgency=low",
+        "vsftpd (3.0.2-1) unstable; urgency=low",
+        "vsftpd (3.0.0-4) unstable; urgency=low",
+        "vsftpd (3.0.0-3) unstable; urgency=low",
+        "vsftpd (3.0.0-2) unstable; urgency=low",
+        "vsftpd (3.0.0-1) unstable; urgency=low",
+        "vsftpd (2.3.5-3ubuntu1) quantal; urgency=low",
+        "vsftpd (2.3.5-3) unstable; urgency=low"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "squid34",
+        "Arch": "x86_64",
+        "Epoch": "7",
+        "Version": "3.4.14",
+        "Release": "15.el6",
+        "Size": "2.6 M",
+        "Repo": "C6.9-base",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid34.x86_64                  7:3.4.14-9.el6                      C6.8-base",
+        "squid34.x86_64                  7:3.4.14-9.el6_8.3                  C6.8-updates",
+        "squid34.x86_64                  7:3.4.14-9.el6_8.4                  C6.8-updates",
+        "squid34.x86_64                  7:3.4.14-15.el6                     C6.9-base",
+        "squid34.x86_64                  7:3.4.14-15.el6                     base"
+    ]
+}

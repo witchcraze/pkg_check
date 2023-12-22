@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Arch": "x86_64",
+        "Version": "1.4.15",
+        "Release": "10.el7_3.1",
+        "Size": "85 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "http://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                  1.4.15-9.el7                       ol7_u0_base",
+        "memcached.x86_64                  1.4.15-9.el7                       ol7_u1_base",
+        "memcached.x86_64                  1.4.15-9.el7                       ol7_u2_base",
+        "memcached.x86_64                  1.4.15-10.el7                      ol7_u3_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_latest",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u4_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u5_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u6_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u7_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u8_base",
+        "memcached.x86_64                  1.4.15-10.el7_3.1                  ol7_u9_base"
+    ]
+}

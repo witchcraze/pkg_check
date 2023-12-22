@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Version": "3.0.5",
+        "Release": "1.amzn2023.0.2",
+        "Architecture": "x86_64",
+        "Size": "159 k",
+        "Source": "vsftpd-3.0.5-1.amzn2023.0.2.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "https://security.appspot.com/vsftpd.html",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                  3.0.5-1.amzn2023.0.2                  amazonlinux"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.6.9",
+        "Release": "7.el9",
+        "Architecture": "x86_64",
+        "Size": "171 k",
+        "Source": "memcached-1.6.9-7.el9.src.rpm",
+        "Repository": "appstream",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                      1.6.9-7.el9                      appstream"
+    ],
+    "kojiPackages": [
+        "memcached-1.6.9-7.el9",
+        "memcached-1.6.9-6.el9"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Arch": "x86_64",
+        "Version": "3.0.2",
+        "Release": "29.el7_9",
+        "Size": "172 k",
+        "Repo": "ol7_latest/x86_64",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "https://security.appspot.com/vsftpd.html",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                     3.0.2-9.el7                        ol7_u0_base",
+        "vsftpd.x86_64                     3.0.2-9.el7                        ol7_u1_base",
+        "vsftpd.x86_64                     3.0.2-10.el7                       ol7_u2_base",
+        "vsftpd.x86_64                     3.0.2-21.el7                       ol7_u3_base",
+        "vsftpd.x86_64                     3.0.2-22.el7                       ol7_latest",
+        "vsftpd.x86_64                     3.0.2-22.el7                       ol7_u4_base",
+        "vsftpd.x86_64                     3.0.2-22.el7                       ol7_u5_base",
+        "vsftpd.x86_64                     3.0.2-25.el7                       ol7_latest",
+        "vsftpd.x86_64                     3.0.2-25.el7                       ol7_u6_base",
+        "vsftpd.x86_64                     3.0.2-25.el7                       ol7_u7_base",
+        "vsftpd.x86_64                     3.0.2-27.el7                       ol7_latest",
+        "vsftpd.x86_64                     3.0.2-27.el7                       ol7_u8_base",
+        "vsftpd.x86_64                     3.0.2-28.el7                       ol7_latest",
+        "vsftpd.x86_64                     3.0.2-28.el7                       ol7_u9_base",
+        "vsftpd.x86_64                     3.0.2-29.el7_9                     ol7_latest"
+    ]
+}

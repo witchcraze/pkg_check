@@ -1,0 +1,34 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Arch": "x86_64",
+        "Version": "2.2.2",
+        "Release": "24.el6",
+        "Size": "156 k",
+        "Repo": "C6.9-base",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "http://vsftpd.beasts.org/",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                   2.2.2-6.el6                         C6.0-base",
+        "vsftpd.x86_64                   2.2.2-6.el6_0.1                     C6.0-updates",
+        "vsftpd.x86_64                   2.2.2-6.el6_0.1                     C6.1-base",
+        "vsftpd.x86_64                   2.2.2-6.el6_0.1                     C6.2-base",
+        "vsftpd.x86_64                   2.2.2-6.el6_2.1                     C6.2-updates",
+        "vsftpd.x86_64                   2.2.2-11.el6                        C6.3-base",
+        "vsftpd.x86_64                   2.2.2-11.el6_3.1                    C6.3-updates",
+        "vsftpd.x86_64                   2.2.2-11.el6_3.1                    C6.4-base",
+        "vsftpd.x86_64                   2.2.2-11.el6_4.1                    C6.4-updates",
+        "vsftpd.x86_64                   2.2.2-11.el6_4.1                    C6.5-base",
+        "vsftpd.x86_64                   2.2.2-12.el6_5.1                    C6.5-updates",
+        "vsftpd.x86_64                   2.2.2-12.el6_5.1                    C6.6-base",
+        "vsftpd.x86_64                   2.2.2-13.el6_6.1                    C6.6-updates",
+        "vsftpd.x86_64                   2.2.2-14.el6                        C6.7-base",
+        "vsftpd.x86_64                   2.2.2-14.el6_7.1                    C6.7-updates",
+        "vsftpd.x86_64                   2.2.2-21.el6                        C6.8-base",
+        "vsftpd.x86_64                   2.2.2-24.el6                        C6.9-base",
+        "vsftpd.x86_64                   2.2.2-24.el6                        base"
+    ]
+}

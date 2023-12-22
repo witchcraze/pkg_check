@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.9.12",
+        "Version": "3.9.13",
         "Release": "1.fc34",
         "Architecture": "i686",
         "Size": "28 k",
-        "Source": "python3.9-3.9.12-1.fc34.src.rpm",
+        "Source": "python3.9-3.9.13-1.fc34.src.rpm",
         "Repository": "updates",
         "From repo": "updates",
         "Summary": "Python 3.9 interpreter",
@@ -14,10 +14,10 @@
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.9.12-1.fc34                       @updates",
+        "python3.x86_64                      3.9.13-1.fc34                       @updates",
         "python3.i686                        3.9.2-1.fc34                        fedora",
         "python3.x86_64                      3.9.2-1.fc34                        fedora",
-        "python3.i686                        3.9.12-1.fc34                       updates",
-        "python3.x86_64                      3.9.12-1.fc34                       updates"
+        "python3.i686                        3.9.13-1.fc34                       updates",
+        "python3.x86_64                      3.9.13-1.fc34                       updates"
     ]
 }

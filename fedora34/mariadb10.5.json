@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.15",
-        "Release": "1.module_f34+14374+59b003ff",
+        "Version": "10.5.16",
+        "Release": "1.module_f34+14516+25c05f1e",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "mariadb-10.5.15-1.module_f34+14374+59b003ff.src.rpm",
+        "Source": "mariadb-10.5.16-1.module_f34+14516+25c05f1e.src.rpm",
         "Repository": "updates-modular",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,7 +15,7 @@
     },
     "list": [
         "mariadb.x86_64       3:10.5.9-1.module_f34+11591+b21008f2        fedora-modular",
-        "mariadb.x86_64       3:10.5.15-1.module_f34+14374+59b003ff       updates-modular"
+        "mariadb.x86_64       3:10.5.16-1.module_f34+14516+25c05f1e       updates-modular"
     ],
     "kojiPackages": [
         "mariadb-10.5.16-1.module_f34+14516+25c05f1e",

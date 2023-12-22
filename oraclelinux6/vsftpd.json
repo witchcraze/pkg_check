@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Arch": "x86_64",
+        "Version": "2.2.2",
+        "Release": "24.el6",
+        "Size": "155 k",
+        "Repo": "ol6_latest",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "http://vsftpd.beasts.org/",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                   2.2.2-6.el6                         ol6_ga_base",
+        "vsftpd.x86_64                   2.2.2-6.el6_0.1                     ol6_u1_base",
+        "vsftpd.x86_64                   2.2.2-6.el6_0.1                     ol6_u2_base",
+        "vsftpd.x86_64                   2.2.2-11.el6                        ol6_u3_base",
+        "vsftpd.x86_64                   2.2.2-11.el6                        ol6_u4_base",
+        "vsftpd.x86_64                   2.2.2-11.el6_4.1                    ol6_u5_base",
+        "vsftpd.x86_64                   2.2.2-12.el6_5.1                    ol6_u6_base",
+        "vsftpd.x86_64                   2.2.2-14.el6                        ol6_u7_base",
+        "vsftpd.x86_64                   2.2.2-21.el6                        ol6_u8_base",
+        "vsftpd.x86_64                   2.2.2-24.el6                        ol6_latest",
+        "vsftpd.x86_64                   2.2.2-24.el6                        ol6_u10_base",
+        "vsftpd.x86_64                   2.2.2-24.el6                        ol6_u9_base"
+    ]
+}

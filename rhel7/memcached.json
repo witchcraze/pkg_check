@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Arch": "x86_64",
+        "Version": "1.4.15",
+        "Release": "10.el7_3.1",
+        "Size": "85 k",
+        "Repo": "rhel-7-server-rpms/7Server/x86_64",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "http://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64              1.4.15-9.el7                    rhel-7-server-rpms",
+        "memcached.x86_64              1.4.15-9.el7_2.1                rhel-7-server-rpms",
+        "memcached.x86_64              1.4.15-10.el7                   rhel-7-server-rpms",
+        "memcached.x86_64              1.4.15-10.el7_3.1               rhel-7-server-rpms"
+    ]
+}

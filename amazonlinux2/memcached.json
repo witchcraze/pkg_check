@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Arch": "x86_64",
+        "Version": "1.4.15",
+        "Release": "10.amzn2.1.2",
+        "Size": "86 k",
+        "Repo": "amzn2-core/2/x86_64",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "http://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                 1.4.15-10.amzn2.1                    amzn2-core",
+        "memcached.x86_64                 1.4.15-10.amzn2.1.1                  amzn2-core",
+        "memcached.x86_64                 1.4.15-10.amzn2.1.2                  amzn2-core"
+    ]
+}

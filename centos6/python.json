@@ -1,18 +1,19 @@
 {
     "info": {
         "Name": "python",
-        "Arch": "x86_64",
+        "Arch": "i686",
         "Version": "2.6.6",
-        "Release": "68.el6_10",
-        "Size": "76 k",
-        "Repo": "updates",
-        "From repo": "CentOS",
+        "Release": "37.el6_4",
+        "Size": "4.8 M",
+        "Repo": "C6.4-updates",
+        "From repo": "updates",
         "Summary": "An interpreted, interactive, object-oriented programming language",
         "URL": "http://www.python.org/",
         "License": "Python",
         "Description": "Python is an interpreted, interactive, object-oriented programming"
     },
     "list": [
+        "python.x86_64                   2.6.6-68.el6_10                     @updates",
         "python.i686                     2.6.5-3.el6                         C6.0-base",
         "python.x86_64                   2.6.5-3.el6                         C6.0-base",
         "python.i686                     2.6.5-3.el6_0.2                     C6.0-updates",

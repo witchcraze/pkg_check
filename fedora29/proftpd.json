@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "proftpd",
+        "Version": "1.3.6b",
+        "Release": "1.fc29",
+        "Architecture": "x86_64",
+        "Size": "3.9 M",
+        "Source": "proftpd-1.3.6b-1.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "Flexible, stable and highly-configurable FTP server",
+        "URL": "http://www.proftpd.org/",
+        "License": "GPLv2+",
+        "Description": "ProFTPD is an enhanced FTP server with a focus toward simplicity,"
+    },
+    "list": [
+        "proftpd.x86_64                       1.3.6-17.fc29                       fedora",
+        "proftpd.x86_64                       1.3.6b-1.fc29                       updates"
+    ],
+    "kojiPackages": [
+        "proftpd-1.3.6b-1.fc29",
+        "proftpd-1.3.6a-1.fc29",
+        "proftpd-1.3.6-21.fc29",
+        "proftpd-1.3.6-17.fc29",
+        "proftpd-1.3.6-16.fc29",
+        "proftpd-1.3.6-15.fc29.1",
+        "proftpd-1.3.6-15.fc29"
+    ]
+}

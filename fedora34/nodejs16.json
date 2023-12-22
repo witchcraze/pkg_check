@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "16.14.1",
-        "Release": "1.module_f34+14150+7cdb028d",
+        "Version": "16.15.0",
+        "Release": "3.module_f34+14427+015d56df",
         "Architecture": "x86_64",
-        "Size": "101 k",
-        "Source": "nodejs-16.14.1-1.module_f34+14150+7cdb028d.src.rpm",
+        "Size": "102 k",
+        "Source": "nodejs-16.15.0-3.module_f34+14427+015d56df.src.rpm",
         "Repository": "updates-modular",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,7 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64       1:16.14.1-1.module_f34+14150+7cdb028d        updates-modular"
+        "nodejs.x86_64       1:16.15.0-3.module_f34+14427+015d56df        updates-modular"
     ],
     "kojiPackages": [
         "nodejs-16.15.0-3.module_f34+14427+015d56df",

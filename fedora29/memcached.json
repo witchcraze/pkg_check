@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.5.14",
+        "Release": "2.fc29",
+        "Architecture": "x86_64",
+        "Size": "127 k",
+        "Source": "memcached-1.5.14-2.fc29.src.rpm",
+        "Repository": "updates",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object"
+    },
+    "list": [
+        "memcached.x86_64                      1.5.10-1.fc29                      fedora",
+        "memcached.x86_64                      1.5.14-2.fc29                      updates"
+    ],
+    "kojiPackages": [
+        "memcached-1.5.14-2.fc29",
+        "memcached-1.5.14-1.fc29",
+        "memcached-1.5.10-2.fc29",
+        "memcached-1.5.10-1.fc29",
+        "memcached-1.5.9-2.fc29",
+        "memcached-1.5.9-1.fc29",
+        "memcached-1.5.8-2.fc29",
+        "memcached-1.5.8-1.fc29",
+        "memcached-1.5.7-1.fc29",
+        "memcached-1.5.6-1.fc29"
+    ]
+}

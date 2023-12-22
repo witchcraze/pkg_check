@@ -2,11 +2,11 @@
     "info": {
         "Name": "nginx",
         "Epoch": "1",
-        "Version": "1.20.2",
+        "Version": "1.22.0",
         "Release": "1.fc34",
         "Architecture": "x86_64",
-        "Size": "596 k",
-        "Source": "nginx-1.20.2-1.fc34.src.rpm",
+        "Size": "38 k",
+        "Source": "nginx-1.22.0-1.fc34.src.rpm",
         "Repository": "updates",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -15,7 +15,7 @@
     },
     "list": [
         "nginx.x86_64                       1:1.18.0-5.fc34                       fedora",
-        "nginx.x86_64                       1:1.20.2-1.fc34                       updates"
+        "nginx.x86_64                       1:1.22.0-1.fc34                       updates"
     ],
     "kojiPackages": [
         "nginx-1.22.0-1.fc34",

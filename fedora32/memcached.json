@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.5.22",
+        "Release": "1.fc32",
+        "Architecture": "x86_64",
+        "Size": "152 k",
+        "Source": "memcached-1.5.22-1.fc32.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                      1.5.22-1.fc32                       fedora"
+    ],
+    "kojiPackages": [
+        "memcached-1.5.22-1.fc32",
+        "memcached-1.5.21-1.fc32",
+        "memcached-1.5.20-2.fc32",
+        "memcached-1.5.20-1.fc32",
+        "memcached-1.5.18-1.fc32",
+        "memcached-1.5.17-1.fc32"
+    ]
+}

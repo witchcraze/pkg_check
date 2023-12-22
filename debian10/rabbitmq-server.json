@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "3.8.2-1+deb10u1",
+        "Version": "3.8.2-1+deb10u2",
         "Priority": "extra",
         "Section": "net",
         "Maintainer": "Debian OpenStack <team+openstack@tracker.debian.org>",
@@ -13,6 +13,7 @@
         "Description": "AMQP server written in Erlang"
     },
     "changelog": [
+        "rabbitmq-server (3.8.2-1+deb10u2) buster-security; urgency=high",
         "rabbitmq-server (3.8.2-1+deb10u1) buster-security; urgency=high",
         "rabbitmq-server (3.8.2-0ubuntu1.4) focal; urgency=medium",
         "rabbitmq-server (3.8.2-0ubuntu1.3) focal-security; urgency=medium",

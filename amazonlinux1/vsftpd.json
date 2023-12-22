@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Arch": "x86_64",
+        "Version": "2.2.2",
+        "Release": "13.13.amzn1",
+        "Size": "161 k",
+        "Repo": "amzn-main/latest",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "http://vsftpd.beasts.org/",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
+    },
+    "list": [
+        "vsftpd.x86_64                    2.2.2-13.13.amzn1                     amzn-main"
+    ]
+}

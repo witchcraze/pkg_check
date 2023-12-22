@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.5.22",
+        "Release": "2.el8",
+        "Architecture": "x86_64",
+        "Size": "161 k",
+        "Source": "memcached-1.5.22-2.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                     1.5.22-2.el8                      appstream"
+    ],
+    "kojiPackages": [
+        "memcached-1.5.22-2.el8"
+    ]
+}

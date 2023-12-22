@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.5.7",
+        "Release": "1.fc28",
+        "Arch": "x86_64",
+        "Size": "130 k",
+        "Source": "memcached-1.5.7-1.fc28.src.rpm",
+        "Repo": "fedora",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object"
+    },
+    "list": [
+        "memcached.x86_64                       1.5.7-1.fc28                       fedora"
+    ],
+    "kojiPackages": [
+        "memcached-1.5.7-1.fc28",
+        "memcached-1.5.6-1.fc28",
+        "memcached-1.5.5-2.fc28",
+        "memcached-1.5.5-1.fc28",
+        "memcached-1.5.4-2.fc28",
+        "memcached-1.5.4-1.fc28",
+        "memcached-1.5.3-1.fc28",
+        "memcached-1.5.2-1.fc28",
+        "memcached-1.5.1-1.fc28"
+    ]
+}

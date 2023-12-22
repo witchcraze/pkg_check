@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "nginx16",
+        "Arch": "x86_64",
+        "Version": "1.2",
+        "Release": "2.el6",
+        "Size": "2.8 k",
+        "Repo": "ol6_software_collections",
+        "Summary": "Package that installs nginx16",
+        "License": "GPLv2+",
+        "Description": "This is the main package for nginx16 Software Collection."
+    },
+    "list": [
+        "nginx16.x86_64                1.2-1.el6                 ol6_software_collections",
+        "nginx16.x86_64                1.2-2.el6                 ol6_software_collections"
+    ]
+}

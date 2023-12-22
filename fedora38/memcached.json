@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.6.18",
+        "Release": "2.fc38",
+        "Architecture": "x86_64",
+        "Size": "185 k",
+        "Source": "memcached-1.6.18-2.fc38.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                      1.6.18-2.fc38                       fedora"
+    ],
+    "kojiPackages": [
+        "memcached-1.6.20-1.fc38",
+        "memcached-1.6.18-2.fc38",
+        "memcached-1.6.18-1.fc38",
+        "memcached-1.6.17-1.fc38"
+    ]
+}

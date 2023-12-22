@@ -9,6 +9,7 @@
         "Depends": "python3.5-minimal (= 3.5.3-1+deb9u5), libpython3.5-stdlib (= 3.5.3-1+deb9u5), mime-support",
         "Suggests": "python3.5-venv, python3.5-doc, binutils",
         "Download-Size": "231 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },

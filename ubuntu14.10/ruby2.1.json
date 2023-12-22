@@ -15,6 +15,7 @@
         "Origin": "Ubuntu",
         "Supported": "9m",
         "Task": "kubuntu-desktop, kubuntu-full, kubuntu-active, kubuntu-active-desktop, kubuntu-active-full, kubuntu-active, edubuntu-desktop-gnome, ubuntustudio-font-meta",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },

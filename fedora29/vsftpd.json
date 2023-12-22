@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "vsftpd",
+        "Version": "3.0.3",
+        "Release": "28.fc29",
+        "Architecture": "x86_64",
+        "Size": "161 k",
+        "Source": "vsftpd-3.0.3-28.fc29.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Very Secure Ftp Daemon",
+        "URL": "https://security.appspot.com/vsftpd.html",
+        "License": "GPLv2 with exceptions",
+        "Description": "vsftpd is a Very Secure FTP daemon. It was written completely"
+    },
+    "list": [
+        "vsftpd.x86_64                        3.0.3-28.fc29                        fedora"
+    ],
+    "kojiPackages": [
+        "vsftpd-3.0.3-28.fc29",
+        "vsftpd-3.0.3-27.fc29",
+        "vsftpd-3.0.3-26.fc29",
+        "vsftpd-3.0.3-25.fc29",
+        "vsftpd-3.0.3-24.fc29",
+        "vsftpd-3.0.3-23.fc29",
+        "vsftpd-3.0.3-22.fc29"
+    ]
+}
