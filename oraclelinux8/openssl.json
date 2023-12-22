@@ -3,11 +3,11 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "1.1.1k",
-        "Release": "9.el8_7",
+        "Release": "12.el8_9",
         "Architecture": "x86_64",
         "Size": "710 k",
-        "Source": "openssl-1.1.1k-9.el8_7.src.rpm",
-        "Repository": "ol8_u9_baseos_base",
+        "Source": "openssl-1.1.1k-12.el8_9.src.rpm",
+        "Repository": "ol8_baseos_latest",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "OpenSSL and ASL 2.0",
@@ -61,6 +61,8 @@
         "openssl.src                                 1:1.1.1k-9.el8_7                                  ol8_u9_baseos_base",
         "openssl.x86_64                              1:1.1.1k-9.el8_7                                  ol8_baseos_latest",
         "openssl.x86_64                              1:1.1.1k-9.el8_7                                  ol8_u8_baseos_base",
-        "openssl.x86_64                              1:1.1.1k-9.el8_7                                  ol8_u9_baseos_base"
+        "openssl.x86_64                              1:1.1.1k-9.el8_7                                  ol8_u9_baseos_base",
+        "openssl.src                                 1:1.1.1k-12.el8_9                                 ol8_baseos_latest",
+        "openssl.x86_64                              1:1.1.1k-12.el8_9                                 ol8_baseos_latest"
     ]
 }
