@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "python2",
+        "Version": "2.7.18",
+        "Release": "15.module_el8.9.0+3674+85657c95.alma.1",
+        "Architecture": "x86_64",
+        "Size": "110 k",
+        "Source": "python2-2.7.18-15.module_el8.9.0+3674+85657c95.alma.1.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreted, interactive, object-oriented programming language",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
+    },
+    "list": [
+        "python2.x86_64     2.7.17-2.module_el8.3.0+2062+eb4bba01.alma          repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-4.module_el8.4.0+2390+0b56c8de.alma          repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-7.module_el8.5.0+2579+77770ab7               repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-10.module_el8.6.0+2781+fed64c13.alma         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-11.module_el8.7.0+3331+6c5bd851.alma         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-12.module_el8.8.0+3480+108b5990.alma         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-13.module_el8.8.0+3580+eeda85da.1.alma       repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-13.module_el8.8.0+3663+627ce7bb.2.alma.1     repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python2.x86_64     2.7.18-14.module_el8.9.0+3640+8d3927b5.alma         appstream",
+        "python2.x86_64     2.7.18-15.module_el8.9.0+3674+85657c95.alma.1       appstream"
+    ]
+}

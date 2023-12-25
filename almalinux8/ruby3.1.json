@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.1.2",
+        "Release": "141.module_el8.7.0+3304+9392e77f",
+        "Architecture": "x86_64",
+        "Size": "88 k",
+        "Source": "ruby-3.1.2-141.module_el8.7.0+3304+9392e77f.src.rpm",
+        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             3.1.2-141.module_el8.7.0+3304+9392e77f           appstream",
+        "ruby.i686             3.1.2-141.module_el8.7.0+3304+9392e77f           repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "ruby.i686             3.1.2-141.module_el8.7.0+3304+9392e77f           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "ruby.x86_64           3.1.2-141.module_el8.7.0+3304+9392e77f           appstream",
+        "ruby.x86_64           3.1.2-141.module_el8.7.0+3304+9392e77f           repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "ruby.x86_64           3.1.2-141.module_el8.7.0+3304+9392e77f           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+    ]
+}

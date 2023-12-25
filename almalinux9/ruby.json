@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.0.4",
+        "Release": "160.el9_0",
+        "Architecture": "x86_64",
+        "Size": "41 k",
+        "Source": "ruby-3.0.4-160.el9_0.src.rpm",
+        "Repository": "repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                        3.0.3-159.el9                         repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.0.3-159.el9                         repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "ruby.i686                        3.0.4-160.el9_0                       appstream",
+        "ruby.i686                        3.0.4-160.el9_0                       repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "ruby.i686                        3.0.4-160.el9_0                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.i686                        3.0.4-160.el9_0                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.0.4-160.el9_0                       appstream",
+        "ruby.x86_64                      3.0.4-160.el9_0                       repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.0.4-160.el9_0                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.0.4-160.el9_0                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+    ]
+}

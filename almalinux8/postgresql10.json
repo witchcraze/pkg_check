@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "10.23",
+        "Release": "3.module_el8.9.0+3703+a01fd377",
+        "Architecture": "x86_64",
+        "Size": "1.5 M",
+        "Source": "postgresql-10.23-3.module_el8.9.0+3703+a01fd377.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64         10.15-1.module_el8.3.0+2030+1ca16b1f         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.15-1.module_el8.3.0+2030+1ca16b1f         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.17-1.module_el8.4.0+2480+895597ab         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.17-2.module_el8.5.0+2551+8dca950a         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.19-1.module_el8.6.0+2744+ce3fc19a         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.21-2.module_el8.6.0+2901+a6abf8d9         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.21-2.module_el8.6.0+2901+a6abf8d9         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.23-1.module_el8.7.0+3379+54d21c26         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.23-1.module_el8.7.0+3379+54d21c26         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.23-2.module_el8.8.0+3599+77865fc6         appstream",
+        "postgresql.x86_64         10.23-2.module_el8.8.0+3599+77865fc6         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql.x86_64         10.23-3.module_el8.9.0+3703+a01fd377         appstream"
+    ]
+}

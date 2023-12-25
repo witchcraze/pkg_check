@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "10.24.0",
+        "Release": "1.module_el8.3.0+2047+b07ac28e",
+        "Architecture": "x86_64",
+        "Size": "8.8 M",
+        "Source": "nodejs-10.24.0-1.module_el8.3.0+2047+b07ac28e.src.rpm",
+        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         appstream",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "nodejs.x86_64         1:10.24.0-1.module_el8.3.0+2047+b07ac28e         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+    ]
+}

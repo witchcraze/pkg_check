@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "4.15",
+        "Release": "7.module_el8.9.0+3696+b881db49.3",
+        "Architecture": "x86_64",
+        "Size": "3.6 M",
+        "Source": "squid-4.15-7.module_el8.9.0+3696+b881db49.3.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPLv2+ and (LGPLv2+ and MIT and BSD and Public Domain)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64      7:4.11-3.module_el8.3.0+6184+7808b5f9                repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.11-4.module_el8.4.0+2339+2063f9d1.2              repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-1.module_el8.5.0+2548+24c223d9                repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-3.module_el8.6.0+2741+01592ae8                repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-3.module_el8.6.0+3010+383bc947.1              repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-3.module_el8.6.0+3275+7a670b72.2              repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-3.module_el8.6.0+3275+7a670b72.2              repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-6.module_el8.8.0+3484+4c64a992                repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-6.module_el8.8.0+3670+56cb3c8e.1.alma.1       repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "squid.x86_64      7:4.15-7.module_el8.9.0+3680+f9142978.1.alma.1       appstream",
+        "squid.x86_64      7:4.15-7.module_el8.9.0+3696+b881db49.3              appstream"
+    ]
+}

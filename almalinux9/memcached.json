@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.6.9",
+        "Release": "7.el9",
+        "Architecture": "x86_64",
+        "Size": "171 k",
+        "Source": "memcached-1.6.9-7.el9.src.rpm",
+        "Repository": "repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                      1.6.9-6.el9                      repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "memcached.x86_64                      1.6.9-7.el9                      appstream",
+        "memcached.x86_64                      1.6.9-7.el9                      repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "memcached.x86_64                      1.6.9-7.el9                      repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+    ]
+}

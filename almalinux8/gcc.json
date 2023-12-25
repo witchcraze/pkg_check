@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "gcc",
+        "Version": "8.5.0",
+        "Release": "20.el8.alma",
+        "Architecture": "x86_64",
+        "Size": "23 M",
+        "Source": "gcc-8.5.0-20.el8.alma.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Various compilers (C, C++, Objective-C, ...)",
+        "URL": "http://gcc.gnu.org",
+        "License": "GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD",
+        "Description": "The gcc package contains the GNU Compiler Collection version 8."
+    },
+    "list": [
+        "gcc.x86_64                    8.3.1-5.1.el8.alma                       repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.4.1-1.el8.alma                         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-3.el8.alma                         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-4.el8_5.alma                       repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-10.el8.alma                        repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-10.1.el8_6.alma                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-15.el8.alma                        repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-16.el8_7.alma                      repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-18.el8.alma                        repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "gcc.x86_64                    8.5.0-20.el8.alma                        appstream"
+    ]
+}

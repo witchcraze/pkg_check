@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "python39",
+        "Version": "3.9.18",
+        "Release": "1.module_el8.9.0+3672+853baa42",
+        "Architecture": "x86_64",
+        "Size": "33 k",
+        "Source": "python39-3.9.18-1.module_el8.9.0+3672+853baa42.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Version 3.9 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python39.x86_64        3.9.2-1.module_el8.4.0+2374+27ce8e03            repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.6-2.module_el8.5.0+2571+54860423            repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.7-1.module_el8.6.0+2780+a40f65e1            repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.13-1.module_el8.7.0+3344+df07b58a           repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.13-2.module_el8.7.0+3351+e02cdf9b           repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.16-1.module_el8.8.0+3483+a028a3dd           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.16-1.module_el8.8.0+3577+f4afbb0e.1         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.16-1.module_el8.8.0+3664+2b1e4686.2         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python39.x86_64        3.9.18-1.module_el8.9.0+3672+853baa42           appstream"
+    ]
+}
