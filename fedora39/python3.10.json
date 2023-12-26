@@ -2,19 +2,21 @@
     "info": {
         "Name": "python3.10",
         "Version": "3.10.13",
-        "Release": "1.fc39",
+        "Release": "2.fc39",
         "Architecture": "x86_64",
-        "Size": "27 k",
-        "Source": "python3.10-3.10.13-1.fc39.src.rpm",
-        "Repository": "fedora",
+        "Size": "26 k",
+        "Source": "python3.10-3.10.13-2.fc39.src.rpm",
+        "Repository": "updates",
         "Summary": "Version 3.10 of the Python interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.10 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.10.i686                       3.10.13-1.fc39                      fedora",
-        "python3.10.x86_64                     3.10.13-1.fc39                      fedora"
+        "python3.10.i686                       3.10.13-1.fc39                     fedora",
+        "python3.10.x86_64                     3.10.13-1.fc39                     fedora",
+        "python3.10.i686                       3.10.13-2.fc39                     updates",
+        "python3.10.x86_64                     3.10.13-2.fc39                     updates"
     ],
     "kojiPackages": [
         "python3.10-3.10.13-2.fc39",
