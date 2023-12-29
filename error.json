@@ -1,4 +1,19 @@
 {
+    "debian": {
+        "11": {
+            "haproxy": [
+                "apt-get changelog"
+            ]
+        },
+        "12": {
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ]
+        }
+    },
     "centosstream": {
         "8": {
             "dotnet": [
@@ -99,40 +114,6 @@
         }
     },
     "fedora": {
-        "36": {
-            "python3": [
-                "kojiPackages"
-            ],
-            "community-mysql-server": [
-                "kojiPackages"
-            ],
-            "dotnet": [
-                "kojiPackages"
-            ],
-            "mariadb-server": [
-                "kojiPackages"
-            ],
-            "postgresql-server": [
-                "kojiPackages"
-            ]
-        },
-        "37": {
-            "python3": [
-                "kojiPackages"
-            ],
-            "community-mysql-server": [
-                "kojiPackages"
-            ],
-            "dotnet": [
-                "kojiPackages"
-            ],
-            "mariadb-server": [
-                "kojiPackages"
-            ],
-            "postgresql-server": [
-                "kojiPackages"
-            ]
-        },
         "38": {
             "python3": [
                 "kojiPackages"
@@ -151,9 +132,6 @@
             ]
         },
         "39": {
-            "python3": [
-                "kojiPackages"
-            ],
             "community-mysql-server": [
                 "kojiPackages"
             ],

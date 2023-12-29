@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "2.2.9-2+deb11u5",
+        "Version": "2.2.9-2+deb11u6",
         "Priority": "optional",
         "Section": "net",
         "Maintainer": "Debian HAProxy Maintainers <team+haproxy@tracker.debian.org>",
@@ -10,15 +10,12 @@
         "Depends": "libc6 (>= 2.17), libcrypt1 (>= 1:4.1.0), libgcc-s1 (>= 3.0), liblua5.3-0, libpcre2-8-0 (>= 10.22), libssl1.1 (>= 1.1.1), libsystemd0, zlib1g (>= 1:1.1.4), adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
-        "Tag": "implemented-in::c, interface::daemon, network::hiavailability,",
-        "network": "load-balancing, network::server, network::service,",
-        "protocol": "http, protocol::tcp, role::program, use::filtering,",
-        "use": "proxying",
-        "Download-Size": "1899 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "Download-Size": "1900 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "changelog": [
+        "haproxy (2.2.9-2+deb11u6) bullseye-security; urgency=high",
         "haproxy (2.2.9-2+deb11u5) bullseye-security; urgency=high",
         "haproxy (2.2.9-2+deb11u4) bullseye-security; urgency=high",
         "haproxy (2.2.9-2+deb11u3) bullseye-security; urgency=high",

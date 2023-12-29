@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.1",
-        "Release": "1.fc38",
+        "Release": "2.fc38",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.12-3.12.1-1.fc38.src.rpm",
+        "Source": "python3.12-3.12.1-2.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.12.i686                      3.12.0~a6-2.fc38                    fedora",
         "python3.12.x86_64                    3.12.0~a6-2.fc38                    fedora",
-        "python3.12.i686                      3.12.1-1.fc38                       updates",
-        "python3.12.x86_64                    3.12.1-1.fc38                       updates"
+        "python3.12.i686                      3.12.1-2.fc38                       updates",
+        "python3.12.x86_64                    3.12.1-2.fc38                       updates"
     ],
     "kojiPackages": [
         "python3.12-3.12.1-2.fc38",

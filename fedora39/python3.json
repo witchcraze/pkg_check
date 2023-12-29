@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.12.1",
-        "Release": "1.fc39",
+        "Release": "2.fc39",
         "Architecture": "i686",
         "Size": "26 k",
-        "Source": "python3.12-3.12.1-1.fc39.src.rpm",
+        "Source": "python3.12-3.12.1-2.fc39.src.rpm",
         "Repository": "updates",
         "From repo": "updates",
         "Summary": "Python 3.12 interpreter",
@@ -14,10 +14,30 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.12.1-1.fc39                       @updates",
+        "python3.x86_64                      3.12.1-2.fc39                       @updates",
         "python3.i686                        3.12.0-1.fc39                       fedora",
         "python3.x86_64                      3.12.0-1.fc39                       fedora",
-        "python3.i686                        3.12.1-1.fc39                       updates",
-        "python3.x86_64                      3.12.1-1.fc39                       updates"
+        "python3.i686                        3.12.1-2.fc39                       updates",
+        "python3.x86_64                      3.12.1-2.fc39                       updates"
+    ],
+    "kojiPackages": [
+        "python3.12-3.12.1-2.fc39",
+        "python3.12-3.12.1-1.fc39",
+        "python3.12-3.12.0-1.fc39",
+        "python3.12-3.12.0~rc3-1.fc39",
+        "python3.12-3.12.0~rc2-1.fc39",
+        "python3.12-3.12.0~rc1-1.fc39",
+        "python3.12-3.12.0~b4-3.fc39",
+        "python3.12-3.12.0~b4-2.fc39",
+        "python3.12-3.12.0~b4-1.fc39",
+        "python3.12-3.12.0~b3-2.fc39",
+        "python3.12-3.12.0~b2-3.fc39",
+        "python3.12-3.12.0~b2-2.fc39",
+        "python3.12-3.12.0~b2-1.fc39",
+        "python3.12-3.12.0~b1-1.fc39",
+        "python3.12-3.12.0~a7-1.fc39",
+        "python3.12-3.12.0~a6-2.fc39",
+        "python3.12-3.12.0~a6-1.fc39",
+        "python3.12-3.12.0~a5-1.fc39"
     ]
 }
