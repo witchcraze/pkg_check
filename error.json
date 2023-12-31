@@ -1,14 +1,6 @@
 {
     "debian": {
-        "11": {
-            "haproxy": [
-                "apt-get changelog"
-            ]
-        },
         "12": {
-            "haproxy": [
-                "apt-get changelog"
-            ],
             "nodejs": [
                 "apt-get changelog"
             ]
