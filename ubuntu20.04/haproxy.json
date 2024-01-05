@@ -13,7 +13,7 @@
         "Depends": "libc6 (>= 2.17), libcrypt1 (>= 1:4.1.0), libgcc-s1 (>= 3.0), liblua5.3-0, libpcre2-8-0 (>= 10.22), libssl1.1 (>= 1.1.1), libsystemd0, zlib1g (>= 1:1.1.4), adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
-        "Phased-Update-Percentage": "40",
+        "Phased-Update-Percentage": "80",
         "Download-Size": "1542 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
