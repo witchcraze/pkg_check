@@ -2,8 +2,8 @@
     "info": {
         "Name": "golang",
         "Arch": "x86_64",
-        "Version": "1.20.10",
-        "Release": "1.48.amzn1",
+        "Version": "1.20.12",
+        "Release": "1.49.amzn1",
         "Size": "977 k",
         "Repo": "amzn-updates/latest",
         "Summary": "The Go Programming Language",
@@ -34,6 +34,7 @@
         "golang.x86_64                  1.18.6-1.44.amzn1                    amzn-updates",
         "golang.x86_64                  1.18.6-1.45.amzn1                    amzn-updates",
         "golang.x86_64                  1.20.8-1.47.amzn1                    amzn-updates",
-        "golang.x86_64                  1.20.10-1.48.amzn1                   amzn-updates"
+        "golang.x86_64                  1.20.10-1.48.amzn1                   amzn-updates",
+        "golang.x86_64                  1.20.12-1.49.amzn1                   amzn-updates"
     ]
 }

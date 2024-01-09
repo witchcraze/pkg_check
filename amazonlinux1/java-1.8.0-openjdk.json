@@ -3,9 +3,9 @@
         "Name": "java-1.8.0-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.8.0.382.b05",
-        "Release": "1.79.amzn1",
-        "Size": "348 k",
+        "Version": "1.8.0.392.b08",
+        "Release": "2.82.amzn1",
+        "Size": "350 k",
         "Repo": "amzn-updates/latest",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -37,6 +37,7 @@
         "java-1.8.0-openjdk.x86_64       1:1.8.0.362.b08-1.72.amzn1          amzn-updates",
         "java-1.8.0-openjdk.x86_64       1:1.8.0.372.b07-1.76.amzn1          amzn-updates",
         "java-1.8.0-openjdk.x86_64       1:1.8.0.382.b05-1.78.amzn1          amzn-updates",
-        "java-1.8.0-openjdk.x86_64       1:1.8.0.382.b05-1.79.amzn1          amzn-updates"
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.382.b05-1.79.amzn1          amzn-updates",
+        "java-1.8.0-openjdk.x86_64       1:1.8.0.392.b08-2.82.amzn1          amzn-updates"
     ]
 }

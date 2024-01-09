@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "golang-1.13",
-        "Version": "1.13.8-1ubuntu1.1",
+        "Version": "1.13.8-1ubuntu1.2",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -9,13 +9,14 @@
         "Original-Maintainer": "Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "58.4 kB",
-        "Depends": "golang-1.13-doc (>= 1.13.8-1ubuntu1.1), golang-1.13-go (>= 1.13.8-1ubuntu1.1), golang-1.13-src (>= 1.13.8-1ubuntu1.1)",
+        "Depends": "golang-1.13-doc (>= 1.13.8-1ubuntu1.2), golang-1.13-go (>= 1.13.8-1ubuntu1.2), golang-1.13-src (>= 1.13.8-1ubuntu1.2)",
         "Homepage": "https://golang.org",
         "Download-Size": "11.3 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "changelog": [
+        "golang-1.13 (1.13.8-1ubuntu1.2) focal-security; urgency=medium",
         "golang-1.13 (1.13.8-1ubuntu1.1) focal-security; urgency=medium",
         "golang-1.13 (1.13.8-1ubuntu1) focal; urgency=low",
         "golang-1.13 (1.13.8-1) unstable; urgency=medium",

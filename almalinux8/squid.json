@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "4.15",
-        "Release": "7.module_el8.9.0+3696+b881db49.3",
+        "Release": "7.module_el8.9.0+3708+6acaac63.5",
         "Architecture": "x86_64",
         "Size": "3.6 M",
-        "Source": "squid-4.15-7.module_el8.9.0+3696+b881db49.3.src.rpm",
+        "Source": "squid-4.15-7.module_el8.9.0+3708+6acaac63.5.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -24,6 +24,7 @@
         "squid.x86_64      7:4.15-6.module_el8.8.0+3484+4c64a992                repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "squid.x86_64      7:4.15-6.module_el8.8.0+3670+56cb3c8e.1.alma.1       repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "squid.x86_64      7:4.15-7.module_el8.9.0+3680+f9142978.1.alma.1       appstream",
-        "squid.x86_64      7:4.15-7.module_el8.9.0+3696+b881db49.3              appstream"
+        "squid.x86_64      7:4.15-7.module_el8.9.0+3696+b881db49.3              appstream",
+        "squid.x86_64      7:4.15-7.module_el8.9.0+3708+6acaac63.5              appstream"
     ]
 }
