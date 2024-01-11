@@ -2,11 +2,11 @@
     "info": {
         "Name": "python3",
         "Version": "3.6.8",
-        "Release": "56.0.1.el8_9",
+        "Release": "56.0.1.el8_9.2",
         "Architecture": "src",
         "Size": "18 M",
         "Source": "None",
-        "Repository": "ol8_u9_baseos_base",
+        "Repository": "ol8_baseos_latest",
         "Summary": "Interpreter of the Python programming language",
         "URL": "https://www.python.org/",
         "License": "Python",
@@ -62,6 +62,8 @@
         "python3.src                                   3.6.8-51.0.1.el8_8.2                                    ol8_appstream",
         "python3.src                                   3.6.8-56.0.1.el8_9                                      ol8_baseos_latest",
         "python3.src                                   3.6.8-56.0.1.el8_9                                      ol8_appstream",
-        "python3.src                                   3.6.8-56.0.1.el8_9                                      ol8_u9_baseos_base"
+        "python3.src                                   3.6.8-56.0.1.el8_9                                      ol8_u9_baseos_base",
+        "python3.src                                   3.6.8-56.0.1.el8_9.2                                    ol8_baseos_latest",
+        "python3.src                                   3.6.8-56.0.1.el8_9.2                                    ol8_appstream"
     ]
 }

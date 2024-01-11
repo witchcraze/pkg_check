@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.57",
-        "Release": "5.el9",
+        "Release": "6.el9",
         "Architecture": "x86_64",
-        "Size": "47 k",
-        "Source": "httpd-2.4.57-5.el9.src.rpm",
+        "Size": "48 k",
+        "Source": "httpd-2.4.57-6.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -13,11 +13,11 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64                       2.4.53-10.el9                       appstream",
         "httpd.x86_64                       2.4.53-11.el9                       appstream",
         "httpd.x86_64                       2.4.57-2.el9                        appstream",
         "httpd.x86_64                       2.4.57-3.el9                        appstream",
-        "httpd.x86_64                       2.4.57-5.el9                        appstream"
+        "httpd.x86_64                       2.4.57-5.el9                        appstream",
+        "httpd.x86_64                       2.4.57-6.el9                        appstream"
     ],
     "kojiPackages": [
         "httpd-2.4.57-6.el9",

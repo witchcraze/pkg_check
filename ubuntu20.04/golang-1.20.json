@@ -1,21 +1,22 @@
 {
     "show": {
         "Package": "golang-1.20",
-        "Version": "1.20.3-1ubuntu0.1~20.04",
+        "Version": "1.20.3-1ubuntu0.1~20.04.1",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "43.0 kB",
-        "Depends": "golang-1.20-doc (>= 1.20.3-1ubuntu0.1~20.04), golang-1.20-go (>= 1.20.3-1ubuntu0.1~20.04), golang-1.20-src (>= 1.20.3-1ubuntu0.1~20.04)",
+        "Installed-Size": "44.0 kB",
+        "Depends": "golang-1.20-doc (>= 1.20.3-1ubuntu0.1~20.04.1), golang-1.20-go (>= 1.20.3-1ubuntu0.1~20.04.1), golang-1.20-src (>= 1.20.3-1ubuntu0.1~20.04.1)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5784 B",
+        "Download-Size": "5792 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "changelog": [
+        "golang-1.20 (1.20.3-1ubuntu0.1~20.04.1) focal-security; urgency=medium",
         "golang-1.20 (1.20.3-1ubuntu0.1~20.04) focal; urgency=medium",
         "golang-1.20 (1.20.3-1ubuntu0.1) lunar-security; urgency=medium",
         "golang-1.20 (1.20.3-1) unstable; urgency=medium",

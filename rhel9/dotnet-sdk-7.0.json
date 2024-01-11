@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.114",
+        "Version": "7.0.115",
         "Release": "1.el9_3",
         "Architecture": "x86_64",
         "Size": "85 M",
-        "Source": "dotnet7.0-7.0.114-1.el9_3.src.rpm",
+        "Source": "dotnet7.0-7.0.115-1.el9_3.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -31,6 +31,7 @@
         "dotnet-sdk-7.0.x86_64                   7.0.112-1.el9_2                                 rhel-9-for-x86_64-appstream-rpms",
         "dotnet-sdk-7.0.x86_64                   7.0.113-1.el9_2                                 rhel-9-for-x86_64-appstream-rpms",
         "dotnet-sdk-7.0.x86_64                   7.0.113-2.el9_3                                 rhel-9-for-x86_64-appstream-rpms",
-        "dotnet-sdk-7.0.x86_64                   7.0.114-1.el9_3                                 rhel-9-for-x86_64-appstream-rpms"
+        "dotnet-sdk-7.0.x86_64                   7.0.114-1.el9_3                                 rhel-9-for-x86_64-appstream-rpms",
+        "dotnet-sdk-7.0.x86_64                   7.0.115-1.el9_3                                 rhel-9-for-x86_64-appstream-rpms"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "golang-1.21",
-        "Version": "1.21.1-1~ubuntu20.04.1",
+        "Version": "1.21.1-1~ubuntu20.04.2",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
@@ -9,13 +9,14 @@
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "44.0 kB",
-        "Depends": "golang-1.21-doc (>= 1.21.1-1~ubuntu20.04.1), golang-1.21-go (>= 1.21.1-1~ubuntu20.04.1), golang-1.21-src (>= 1.21.1-1~ubuntu20.04.1)",
+        "Depends": "golang-1.21-doc (>= 1.21.1-1~ubuntu20.04.2), golang-1.21-go (>= 1.21.1-1~ubuntu20.04.2), golang-1.21-src (>= 1.21.1-1~ubuntu20.04.2)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5792 B",
+        "Download-Size": "5796 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "changelog": [
+        "golang-1.21 (1.21.1-1~ubuntu20.04.2) focal-security; urgency=medium",
         "golang-1.21 (1.21.1-1~ubuntu20.04.1) focal; urgency=medium",
         "golang-1.21 (1.21.1-1) unstable; urgency=medium",
         "golang-1.21 (1.21.0-1) unstable; urgency=medium",

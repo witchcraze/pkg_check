@@ -17,6 +17,7 @@
         "redis.x86_64                        7.0.14-1.fc38                        updates"
     ],
     "kojiPackages": [
+        "redis-7.0.15-1.fc38",
         "redis-7.0.14-1.fc38",
         "redis-7.0.13-2.fc38",
         "redis-7.0.13-1.fc38",

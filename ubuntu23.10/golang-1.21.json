@@ -1,21 +1,22 @@
 {
     "show": {
         "Package": "golang-1.21",
-        "Version": "1.21.1-1",
+        "Version": "1.21.1-1ubuntu0.23.10.1",
         "Priority": "optional",
         "Section": "golang",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "31.7 kB",
-        "Depends": "golang-1.21-doc (>= 1.21.1-1), golang-1.21-go (>= 1.21.1-1), golang-1.21-src (>= 1.21.1-1)",
+        "Installed-Size": "32.8 kB",
+        "Depends": "golang-1.21-doc (>= 1.21.1-1ubuntu0.23.10.1), golang-1.21-go (>= 1.21.1-1ubuntu0.23.10.1), golang-1.21-src (>= 1.21.1-1ubuntu0.23.10.1)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5690 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "Download-Size": "5708 B",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "changelog": [
+        "golang-1.21 (1.21.1-1ubuntu0.23.10.1) mantic-security; urgency=medium",
         "golang-1.21 (1.21.1-1) unstable; urgency=medium",
         "golang-1.21 (1.21.0-1) unstable; urgency=medium",
         "golang-1.21 (1.21~rc4-1) unstable; urgency=medium",
