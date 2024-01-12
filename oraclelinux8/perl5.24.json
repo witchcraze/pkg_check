@@ -14,7 +14,7 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64                           4:5.24.4-403.module+el8+5173+5d54a0c1                                ol8_appstream",
-        "perl.x86_64                           4:5.24.4-404.module+el8.1.0+5399+8245a79b                            ol8_appstream"
+        "perl.x86_64                                     4:5.24.4-403.module+el8+5173+5d54a0c1                                          ol8_appstream",
+        "perl.x86_64                                     4:5.24.4-404.module+el8.1.0+5399+8245a79b                                      ol8_appstream"
     ]
 }

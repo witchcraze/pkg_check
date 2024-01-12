@@ -12,10 +12,10 @@
         "Description": "This is the main package for gcc-toolset-11 Software Collection."
     },
     "list": [
-        "gcc-toolset-11.x86_64                    11.0-1.el8                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "gcc-toolset-11.x86_64                    11.1-1.el8                    appstream",
-        "gcc-toolset-11.x86_64                    11.1-1.el8                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "gcc-toolset-11.x86_64                    11.1-1.el8                    repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "gcc-toolset-11.x86_64                    11.1-1.el8                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "gcc-toolset-11.x86_64                              11.0-1.el8                              repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "gcc-toolset-11.x86_64                              11.1-1.el8                              appstream",
+        "gcc-toolset-11.x86_64                              11.1-1.el8                              repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "gcc-toolset-11.x86_64                              11.1-1.el8                              repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "gcc-toolset-11.x86_64                              11.1-1.el8                              repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

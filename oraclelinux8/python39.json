@@ -13,14 +13,14 @@
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python39.x86_64                          3.9.2-1.module+el8.4.0+20170+9398f393                             ol8_appstream",
-        "python39.x86_64                          3.9.6-2.module+el8.5.0+20364+c7fe1181                             ol8_appstream",
-        "python39.x86_64                          3.9.7-1.module+el8.6.0+20625+ee813db2                             ol8_appstream",
-        "python39.x86_64                          3.9.13-1.module+el8.7.0+20798+772c6867                            ol8_appstream",
-        "python39.x86_64                          3.9.13-2.module+el8.7.0+20879+a85b87b0                            ol8_appstream",
-        "python39.x86_64                          3.9.16-1.module+el8.8.0+21002+9d0e08bf                            ol8_appstream",
-        "python39.x86_64                          3.9.16-1.module+el8.8.0+21116+ee8c18cf.1                          ol8_appstream",
-        "python39.x86_64                          3.9.16-1.module+el8.8.0+90007+d415a2d2.2                          ol8_appstream",
-        "python39.x86_64                          3.9.18-1.module+el8.9.0+90071+8dc52a4f                            ol8_appstream"
+        "python39.x86_64                                    3.9.2-1.module+el8.4.0+20170+9398f393                                       ol8_appstream",
+        "python39.x86_64                                    3.9.6-2.module+el8.5.0+20364+c7fe1181                                       ol8_appstream",
+        "python39.x86_64                                    3.9.7-1.module+el8.6.0+20625+ee813db2                                       ol8_appstream",
+        "python39.x86_64                                    3.9.13-1.module+el8.7.0+20798+772c6867                                      ol8_appstream",
+        "python39.x86_64                                    3.9.13-2.module+el8.7.0+20879+a85b87b0                                      ol8_appstream",
+        "python39.x86_64                                    3.9.16-1.module+el8.8.0+21002+9d0e08bf                                      ol8_appstream",
+        "python39.x86_64                                    3.9.16-1.module+el8.8.0+21116+ee8c18cf.1                                    ol8_appstream",
+        "python39.x86_64                                    3.9.16-1.module+el8.8.0+90007+d415a2d2.2                                    ol8_appstream",
+        "python39.x86_64                                    3.9.18-1.module+el8.9.0+90071+8dc52a4f                                      ol8_appstream"
     ]
 }

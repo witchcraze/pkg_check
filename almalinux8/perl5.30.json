@@ -14,12 +14,12 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64         4:5.30.1-451.module_el8.3.0+6149+d2c5d96d          repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          appstream",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "perl.x86_64         4:5.30.1-452.module_el8.4.0+2179+01326e37          repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "perl.x86_64                   4:5.30.1-451.module_el8.3.0+6149+d2c5d96d                    repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    appstream",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.30.1-452.module_el8.4.0+2179+01326e37                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

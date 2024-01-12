@@ -12,6 +12,6 @@
         "Description": "This is the main package for gcc-toolset-13 Software Collection."
     },
     "list": [
-        "gcc-toolset-13.x86_64                                        13.0-2.el8                                        appstream"
+        "gcc-toolset-13.x86_64                                                  13.0-2.el8                                                  appstream"
     ]
 }

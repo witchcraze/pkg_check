@@ -13,7 +13,7 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64                    8.1.8-1.module+el9.1.0+15877+c3862210                     rhel-9-for-x86_64-appstream-rpms",
-        "php.x86_64                    8.1.14-1.module+el9.2.0+17911+b059dfc2                    rhel-9-for-x86_64-appstream-rpms"
+        "php.x86_64                              8.1.8-1.module+el9.1.0+15877+c3862210                               rhel-9-for-x86_64-appstream-rpms",
+        "php.x86_64                              8.1.14-1.module+el9.2.0+17911+b059dfc2                              rhel-9-for-x86_64-appstream-rpms"
     ]
 }

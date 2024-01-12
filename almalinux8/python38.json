@@ -13,15 +13,15 @@
         "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
     },
     "list": [
-        "python38.x86_64        3.8.0-6.module_el8.2.0+6107+533dc13a            repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.3-3.module_el8.3.0+2106+79e7e61a            repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.6-3.module_el8.4.0+2181+8e86ab84            repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.6-3.module_el8.4.0+2511+e19d35e4            repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.8-4.module_el8.5.0+2570+a865257a            repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.12-1.module_el8.6.0+2778+cd494b30           repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.13-1.module_el8.7.0+3344+99a6a656           repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.16-1.module_el8.8.0+3482+d5d93a3e           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.16-1.module_el8.8.0+3576+cd671ecd.1         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "python38.x86_64        3.8.17-2.module_el8.9.0+3633+e453b53a           appstream"
+        "python38.x86_64                  3.8.0-6.module_el8.2.0+6107+533dc13a                      repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.3-3.module_el8.3.0+2106+79e7e61a                      repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.6-3.module_el8.4.0+2181+8e86ab84                      repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.6-3.module_el8.4.0+2511+e19d35e4                      repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.8-4.module_el8.5.0+2570+a865257a                      repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.12-1.module_el8.6.0+2778+cd494b30                     repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.13-1.module_el8.7.0+3344+99a6a656                     repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.16-1.module_el8.8.0+3482+d5d93a3e                     repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.16-1.module_el8.8.0+3576+cd671ecd.1                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "python38.x86_64                  3.8.17-2.module_el8.9.0+3633+e453b53a                     appstream"
     ]
 }

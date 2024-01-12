@@ -14,19 +14,19 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                1:12.4.0-2.module+el8.1.0+3903+b7133459                    rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.13.1-1.module+el8.1.0+5069+f8aaab94                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.14.1-1.module+el8.1.0+5466+30f75629                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.16.1-1.module+el8.1.0+5811+44509afe                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.16.1-2.module+el8.1.0+6117+b25a342c                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.16.1-2.module+el8.2.0+6116+59db3763                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.18.2-1.module+el8.2.0+7233+61d664c1                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.18.4-2.module+el8.2.0+8361+192e434e                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.19.1-1.module+el8.3.0+8851+b7b41ca0                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.20.1-1.module+el8.3.0+9503+19cb079c                   rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.21.0-1.module+el8.3.0+10191+34fb5a07                  rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.22.3-2.module+el8.4.0+11732+c668cc9f                  rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.22.5-1.module+el8.4.0+12242+af52a4c7                  rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                1:12.22.12-1.module+el8.6.0+15324+1f2c5d8d                 rhel-8-for-x86_64-appstream-rpms"
+        "nodejs.x86_64                          1:12.4.0-2.module+el8.1.0+3903+b7133459                              rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.13.1-1.module+el8.1.0+5069+f8aaab94                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.14.1-1.module+el8.1.0+5466+30f75629                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.16.1-1.module+el8.1.0+5811+44509afe                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.16.1-2.module+el8.1.0+6117+b25a342c                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.16.1-2.module+el8.2.0+6116+59db3763                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.18.2-1.module+el8.2.0+7233+61d664c1                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.18.4-2.module+el8.2.0+8361+192e434e                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.19.1-1.module+el8.3.0+8851+b7b41ca0                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.20.1-1.module+el8.3.0+9503+19cb079c                             rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.21.0-1.module+el8.3.0+10191+34fb5a07                            rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.22.3-2.module+el8.4.0+11732+c668cc9f                            rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.22.5-1.module+el8.4.0+12242+af52a4c7                            rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:12.22.12-1.module+el8.6.0+15324+1f2c5d8d                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

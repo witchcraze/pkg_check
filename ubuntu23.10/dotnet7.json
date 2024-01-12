@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet7",
-        "Version": "7.0.114-0ubuntu1~23.10.1",
+        "Version": "7.0.115-0ubuntu1~23.10.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
@@ -16,6 +16,7 @@
         "Description": "dotNET CLI tools and runtime"
     },
     "changelog": [
+        "dotnet7 (7.0.115-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet7 (7.0.114-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet7 (7.0.113-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet7 (7.0.112-0ubuntu1) mantic-security; urgency=medium",

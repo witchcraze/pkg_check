@@ -14,18 +14,18 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64         1:14.16.0-2.module_el8.3.0+2049+b92e1eb6         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.16.0-2.module_el8.3.0+2049+b92e1eb6         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.17.3-2.module_el8.4.0+2522+3bd42762         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.17.5-1.module_el8.4.0+2536+e2879e58         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.17.5-1.module_el8.4.0+2536+e2879e58         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.18.2-2.module_el8.5.0+2618+8d46dafd         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.18.2-2.module_el8.5.0+2618+8d46dafd         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.20.0-2.module_el8.6.0+3261+490666b3         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.20.1-2.module_el8.7.0+3342+b2df8497         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.21.1-2.module_el8.7.0+3373+a4c18c43         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.21.3-1.module_el8.7.0+3551+53700ee8         appstream",
-        "nodejs.x86_64         1:14.21.3-1.module_el8.7.0+3551+53700ee8         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "nodejs.x86_64         1:14.21.3-1.module_el8.7.0+3551+53700ee8         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "nodejs.x86_64                   1:14.16.0-2.module_el8.3.0+2049+b92e1eb6                   repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.16.0-2.module_el8.3.0+2049+b92e1eb6                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.17.3-2.module_el8.4.0+2522+3bd42762                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.17.5-1.module_el8.4.0+2536+e2879e58                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.17.5-1.module_el8.4.0+2536+e2879e58                   repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.18.2-2.module_el8.5.0+2618+8d46dafd                   repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.18.2-2.module_el8.5.0+2618+8d46dafd                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.20.0-2.module_el8.6.0+3261+490666b3                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.20.1-2.module_el8.7.0+3342+b2df8497                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.21.1-2.module_el8.7.0+3373+a4c18c43                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.21.3-1.module_el8.7.0+3551+53700ee8                   appstream",
+        "nodejs.x86_64                   1:14.21.3-1.module_el8.7.0+3551+53700ee8                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:14.21.3-1.module_el8.7.0+3551+53700ee8                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

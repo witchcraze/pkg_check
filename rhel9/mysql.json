@@ -13,8 +13,8 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64                               8.0.28-1.el9                                 rhel-9-for-x86_64-appstream-rpms",
-        "mysql.x86_64                               8.0.30-3.el9_0                               rhel-9-for-x86_64-appstream-rpms",
-        "mysql.x86_64                               8.0.32-1.el9_2                               rhel-9-for-x86_64-appstream-rpms"
+        "mysql.x86_64                                         8.0.28-1.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql.x86_64                                         8.0.30-3.el9_0                                         rhel-9-for-x86_64-appstream-rpms",
+        "mysql.x86_64                                         8.0.32-1.el9_2                                         rhel-9-for-x86_64-appstream-rpms"
     ]
 }

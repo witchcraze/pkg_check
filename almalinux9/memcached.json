@@ -13,9 +13,9 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                      1.6.9-6.el9                      repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
-        "memcached.x86_64                      1.6.9-7.el9                      appstream",
-        "memcached.x86_64                      1.6.9-7.el9                      repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "memcached.x86_64                      1.6.9-7.el9                      repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+        "memcached.x86_64                                1.6.9-6.el9                                repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "memcached.x86_64                                1.6.9-7.el9                                appstream",
+        "memcached.x86_64                                1.6.9-7.el9                                repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "memcached.x86_64                                1.6.9-7.el9                                repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
     ]
 }

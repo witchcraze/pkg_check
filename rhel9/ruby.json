@@ -13,9 +13,9 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                                 3.0.3-159.el9                                 rhel-9-for-x86_64-appstream-rpms",
-        "ruby.x86_64                               3.0.3-159.el9                                 rhel-9-for-x86_64-appstream-rpms",
-        "ruby.i686                                 3.0.4-160.el9_0                               rhel-9-for-x86_64-appstream-rpms",
-        "ruby.x86_64                               3.0.4-160.el9_0                               rhel-9-for-x86_64-appstream-rpms"
+        "ruby.i686                                           3.0.3-159.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64                                         3.0.3-159.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "ruby.i686                                           3.0.4-160.el9_0                                         rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64                                         3.0.4-160.el9_0                                         rhel-9-for-x86_64-appstream-rpms"
     ]
 }

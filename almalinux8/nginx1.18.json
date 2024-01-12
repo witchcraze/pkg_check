@@ -14,14 +14,14 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64     1:1.18.0-2.module_el8.3.0+6139+58259601               repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-2.0.1.module_el8.3.0+2168+4321f41c.alma      repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2175+ca1cf78e.alma          repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        appstream",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "nginx.x86_64     1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma        repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "nginx.x86_64               1:1.18.0-2.module_el8.3.0+6139+58259601                         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-2.0.1.module_el8.3.0+2168+4321f41c.alma                repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2175+ca1cf78e.alma                    repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  appstream",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "nginx.x86_64               1:1.18.0-3.module_el8.4.0+2472+f736ed63.1.alma                  repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

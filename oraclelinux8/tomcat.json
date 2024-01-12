@@ -3,7 +3,7 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.62",
-        "Release": "27.el8_9",
+        "Release": "27.el8_9.2",
         "Architecture": "src",
         "Size": "14 M",
         "Source": "None",
@@ -14,11 +14,13 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat.noarch                                      1:9.0.62-5.el8                                          ol8_appstream",
-        "tomcat.src                                         1:9.0.62-5.el8                                          ol8_appstream",
-        "tomcat.noarch                                      1:9.0.62-5.el8_8.2                                      ol8_appstream",
-        "tomcat.src                                         1:9.0.62-5.el8_8.2                                      ol8_appstream",
-        "tomcat.noarch                                      1:9.0.62-27.el8_9                                       ol8_appstream",
-        "tomcat.src                                         1:9.0.62-27.el8_9                                       ol8_appstream"
+        "tomcat.noarch                                               1:9.0.62-5.el8                                                     ol8_appstream",
+        "tomcat.src                                                  1:9.0.62-5.el8                                                     ol8_appstream",
+        "tomcat.noarch                                               1:9.0.62-5.el8_8.2                                                 ol8_appstream",
+        "tomcat.src                                                  1:9.0.62-5.el8_8.2                                                 ol8_appstream",
+        "tomcat.noarch                                               1:9.0.62-27.el8_9                                                  ol8_appstream",
+        "tomcat.src                                                  1:9.0.62-27.el8_9                                                  ol8_appstream",
+        "tomcat.noarch                                               1:9.0.62-27.el8_9.2                                                ol8_appstream",
+        "tomcat.src                                                  1:9.0.62-27.el8_9.2                                                ol8_appstream"
     ]
 }

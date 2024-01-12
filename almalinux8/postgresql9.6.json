@@ -13,13 +13,13 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64        9.6.20-1.module_el8.3.0+2029+7f0e88b6         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.20-1.module_el8.3.0+2029+7f0e88b6         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         appstream",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "postgresql.x86_64        9.6.22-1.module_el8.4.0+2479+beebcf7e         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "postgresql.x86_64                  9.6.20-1.module_el8.3.0+2029+7f0e88b6                   repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.20-1.module_el8.3.0+2029+7f0e88b6                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   appstream",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "postgresql.x86_64                  9.6.22-1.module_el8.4.0+2479+beebcf7e                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

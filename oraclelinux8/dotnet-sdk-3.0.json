@@ -13,8 +13,8 @@
         "Description": "The .NET Core SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-3.0.x86_64                                 3.0.100-1.0.1.el8                                    ol8_appstream",
-        "dotnet-sdk-3.0.x86_64                                 3.0.102-2.0.1.el8_1                                  ol8_appstream",
-        "dotnet-sdk-3.0.x86_64                                 3.0.103-1.0.1.el8_1                                  ol8_appstream"
+        "dotnet-sdk-3.0.x86_64                                           3.0.100-1.0.1.el8                                              ol8_appstream",
+        "dotnet-sdk-3.0.x86_64                                           3.0.102-2.0.1.el8_1                                            ol8_appstream",
+        "dotnet-sdk-3.0.x86_64                                           3.0.103-1.0.1.el8_1                                            ol8_appstream"
     ]
 }

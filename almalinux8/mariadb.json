@@ -14,16 +14,16 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64        3:10.3.27-3.module_el8.3.0+2028+5e3224e9         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.28-1.module_el8.3.0+2177+7adc332a         repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.28-1.module_el8.3.0+2177+7adc332a         repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.28-1.module_el8.3.0+2177+7adc332a         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.32-2.module_el8.5.0+2632+14ced695         repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.32-2.module_el8.6.0+2867+72759d2f         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.35-1.module_el8.6.0+3265+230ed96b         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.35-1.module_el8.6.0+3265+230ed96b         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.35-1.module_el8.6.0+3265+230ed96b         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "mariadb.x86_64        3:10.3.39-1.module_el8.8.0+3609+204d4ab0         appstream",
-        "mariadb.x86_64        3:10.3.39-1.module_el8.8.0+3609+204d4ab0         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "mariadb.x86_64                  3:10.3.27-3.module_el8.3.0+2028+5e3224e9                   repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.28-1.module_el8.3.0+2177+7adc332a                   repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.28-1.module_el8.3.0+2177+7adc332a                   repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.28-1.module_el8.3.0+2177+7adc332a                   repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.32-2.module_el8.5.0+2632+14ced695                   repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.32-2.module_el8.6.0+2867+72759d2f                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.35-1.module_el8.6.0+3265+230ed96b                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.35-1.module_el8.6.0+3265+230ed96b                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.35-1.module_el8.6.0+3265+230ed96b                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   appstream",
+        "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

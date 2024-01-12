@@ -13,8 +13,8 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                              1.5.9-2.el8                               rhel-8-for-x86_64-appstream-rpms",
-        "memcached.x86_64                              1.5.9-3.el8                               rhel-8-for-x86_64-appstream-rpms",
-        "memcached.x86_64                              1.5.22-2.el8                              rhel-8-for-x86_64-appstream-rpms"
+        "memcached.x86_64                                        1.5.9-2.el8                                         rhel-8-for-x86_64-appstream-rpms",
+        "memcached.x86_64                                        1.5.9-3.el8                                         rhel-8-for-x86_64-appstream-rpms",
+        "memcached.x86_64                                        1.5.22-2.el8                                        rhel-8-for-x86_64-appstream-rpms"
     ]
 }

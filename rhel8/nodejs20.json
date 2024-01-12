@@ -14,8 +14,8 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                 1:20.5.1-1.module+el8.9.0+19645+fd8381c1                  rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                 1:20.8.1-1.module+el8.9.0+20473+c4e3d824                  rhel-8-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                 1:20.9.0-1.module+el8.9.0+20634+bcbf506f                  rhel-8-for-x86_64-appstream-rpms"
+        "nodejs.x86_64                           1:20.5.1-1.module+el8.9.0+19645+fd8381c1                            rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                           1:20.8.1-1.module+el8.9.0+20473+c4e3d824                            rhel-8-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                           1:20.9.0-1.module+el8.9.0+20634+bcbf506f                            rhel-8-for-x86_64-appstream-rpms"
     ]
 }

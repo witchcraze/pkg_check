@@ -12,9 +12,9 @@
         "Description": "This is the main package for gcc-toolset-10 Software Collection."
     },
     "list": [
-        "gcc-toolset-10.src                                         10.0-0.el8                                      ol8_appstream",
-        "gcc-toolset-10.x86_64                                      10.0-0.el8                                      ol8_appstream",
-        "gcc-toolset-10.src                                         10.1-0.el8                                      ol8_appstream",
-        "gcc-toolset-10.x86_64                                      10.1-0.el8                                      ol8_appstream"
+        "gcc-toolset-10.src                                                   10.0-0.el8                                                ol8_appstream",
+        "gcc-toolset-10.x86_64                                                10.0-0.el8                                                ol8_appstream",
+        "gcc-toolset-10.src                                                   10.1-0.el8                                                ol8_appstream",
+        "gcc-toolset-10.x86_64                                                10.1-0.el8                                                ol8_appstream"
     ]
 }

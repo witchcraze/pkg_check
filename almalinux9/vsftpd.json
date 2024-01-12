@@ -13,9 +13,9 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                       3.0.3-49.el9                       repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
-        "vsftpd.x86_64                       3.0.3-49.el9                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "vsftpd.x86_64                       3.0.5-4.el9                        repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "vsftpd.x86_64                       3.0.5-5.el9                        appstream"
+        "vsftpd.x86_64                                 3.0.3-49.el9                                 repo.almalinux.org_vault_9.0_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                 3.0.3-49.el9                                 repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                 3.0.5-4.el9                                  repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                 3.0.5-5.el9                                  appstream"
     ]
 }

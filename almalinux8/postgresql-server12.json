@@ -13,19 +13,19 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64  12.5-1.module_el8.3.0+2046+664538f4          repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.5-1.module_el8.3.0+2046+664538f4          repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.7-1.module_el8.4.0+2483+c193d6d7          repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.7-2.module_el8.5.0+2552+86306fc7          repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.9-1.module_el8.5.0+2606+4554acc4          repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.9-3.module_el8.6.0+2758+4f4474df          repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.11-2.module_el8.6.0+2905+eb237fb8         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.12-1.module_el8.6.0+3336+e779e518         repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.12-1.module_el8.6.0+3336+e779e518         repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.12-1.module_el8.6.0+3336+e779e518         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.15-1.module_el8.8.0+3600+38330172         repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.15-1.module_el8.8.0+3669+6916586d.alma.1  appstream",
-        "postgresql-server.x86_64  12.15-1.module_el8.8.0+3669+6916586d.alma.1  repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "postgresql-server.x86_64  12.17-1.module_el8.9.0+3704+f1f917ce         appstream"
+        "postgresql-server.x86_64            12.5-1.module_el8.3.0+2046+664538f4                    repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.5-1.module_el8.3.0+2046+664538f4                    repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.7-1.module_el8.4.0+2483+c193d6d7                    repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.7-2.module_el8.5.0+2552+86306fc7                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.9-1.module_el8.5.0+2606+4554acc4                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.9-3.module_el8.6.0+2758+4f4474df                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.11-2.module_el8.6.0+2905+eb237fb8                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.12-1.module_el8.6.0+3336+e779e518                   repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.12-1.module_el8.6.0+3336+e779e518                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.12-1.module_el8.6.0+3336+e779e518                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.15-1.module_el8.8.0+3600+38330172                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.15-1.module_el8.8.0+3669+6916586d.alma.1            appstream",
+        "postgresql-server.x86_64            12.15-1.module_el8.8.0+3669+6916586d.alma.1            repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.17-1.module_el8.9.0+3704+f1f917ce                   appstream"
     ]
 }

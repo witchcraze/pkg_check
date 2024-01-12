@@ -13,12 +13,12 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                               3.0.3-28.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-31.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-32.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-33.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-34.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-35.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                               3.0.3-36.el8                                rhel-8-for-x86_64-appstream-rpms"
+        "vsftpd.x86_64                                         3.0.3-28.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-31.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-32.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-33.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-34.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-35.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                         3.0.3-36.el8                                          rhel-8-for-x86_64-appstream-rpms"
     ]
 }

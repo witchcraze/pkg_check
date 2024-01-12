@@ -13,12 +13,12 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            appstream",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "php.x86_64            7.3.20-1.module_el8.3.0+2009+b272fdef            repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      appstream",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "php.x86_64                      7.3.20-1.module_el8.3.0+2009+b272fdef                      repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
     ]
 }

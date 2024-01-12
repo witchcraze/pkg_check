@@ -13,11 +13,11 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686              3.1.2-141.module_el9.1.0+8+503f6fbd             appstream",
-        "ruby.i686              3.1.2-141.module_el9.1.0+8+503f6fbd             repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "ruby.i686              3.1.2-141.module_el9.1.0+8+503f6fbd             repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "ruby.x86_64            3.1.2-141.module_el9.1.0+8+503f6fbd             appstream",
-        "ruby.x86_64            3.1.2-141.module_el9.1.0+8+503f6fbd             repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "ruby.x86_64            3.1.2-141.module_el9.1.0+8+503f6fbd             repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       appstream",
+        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       appstream",
+        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
     ]
 }
