@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.0",
-        "Release": "1.module_el8+715+f49b2628",
+        "Version": "16.1",
+        "Release": "1.module_el8+806+566c6023",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "postgresql-16.0-1.module_el8+715+f49b2628.src.rpm",
+        "Source": "postgresql-16.1-1.module_el8+806+566c6023.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,7 +13,8 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64            16.0-1.module_el8+715+f49b2628            appstream"
+        "postgresql.x86_64            16.0-1.module_el8+715+f49b2628            appstream",
+        "postgresql.x86_64            16.1-1.module_el8+806+566c6023            appstream"
     ],
     "kojiPackages": [
         "postgresql-16.1-1.module_el8+806+566c6023",

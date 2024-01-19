@@ -14,12 +14,6 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind.x86_64                     32:9.11.26-3.el8                       appstream",
-        "bind.x86_64                     32:9.11.26-4.el8_4                     appstream",
-        "bind.x86_64                     32:9.11.26-6.el8                       appstream",
-        "bind.x86_64                     32:9.11.36-2.el8                       appstream",
-        "bind.x86_64                     32:9.11.36-3.el8                       appstream",
-        "bind.x86_64                     32:9.11.36-4.el8                       appstream",
         "bind.x86_64                     32:9.11.36-5.el8                       appstream",
         "bind.x86_64                     32:9.11.36-7.el8                       appstream",
         "bind.x86_64                     32:9.11.36-8.el8                       appstream",

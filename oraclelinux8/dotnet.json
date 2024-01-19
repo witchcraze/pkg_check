@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet",
-        "Version": "7.0.114",
+        "Version": "7.0.115",
         "Release": "1.0.1.el8_9",
         "Architecture": "x86_64",
         "Size": "19 k",
-        "Source": "dotnet7.0-7.0.114-1.0.1.el8_9.src.rpm",
+        "Source": "dotnet7.0-7.0.115-1.0.1.el8_9.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": ".NET CLI tools and runtime",
         "URL": "https://github.com/dotnet/",
@@ -96,6 +96,7 @@
         "dotnet.x86_64                            7.0.111-1.0.1.el8_8                                                                   ol8_appstream",
         "dotnet.x86_64                            7.0.112-1.0.1.el8_8                                                                   ol8_appstream",
         "dotnet.x86_64                            7.0.113-1.0.1.el8_8                                                                   ol8_appstream",
-        "dotnet.x86_64                            7.0.114-1.0.1.el8_9                                                                   ol8_appstream"
+        "dotnet.x86_64                            7.0.114-1.0.1.el8_9                                                                   ol8_appstream",
+        "dotnet.x86_64                            7.0.115-1.0.1.el8_9                                                                   ol8_appstream"
     ]
 }

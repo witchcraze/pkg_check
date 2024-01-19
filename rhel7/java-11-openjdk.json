@@ -3,9 +3,9 @@
         "Name": "java-11-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "11.0.21.0.9",
+        "Version": "11.0.22.0.7",
         "Release": "1.el7_9",
-        "Size": "242 k",
+        "Size": "243 k",
         "Repo": "rhel-7-server-rpms/7Server/x86_64",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -72,6 +72,8 @@
         "java-11-openjdk.i686           1:11.0.20.0.8-1.el7_9          rhel-7-server-rpms",
         "java-11-openjdk.x86_64         1:11.0.20.0.8-1.el7_9          rhel-7-server-rpms",
         "java-11-openjdk.i686           1:11.0.21.0.9-1.el7_9          rhel-7-server-rpms",
-        "java-11-openjdk.x86_64         1:11.0.21.0.9-1.el7_9          rhel-7-server-rpms"
+        "java-11-openjdk.x86_64         1:11.0.21.0.9-1.el7_9          rhel-7-server-rpms",
+        "java-11-openjdk.i686           1:11.0.22.0.7-1.el7_9          rhel-7-server-rpms",
+        "java-11-openjdk.x86_64         1:11.0.22.0.7-1.el7_9          rhel-7-server-rpms"
     ]
 }

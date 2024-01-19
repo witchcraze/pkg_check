@@ -3,7 +3,7 @@
         "Name": "java-11-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "11.0.21.0.9",
+        "Version": "11.0.22.0.7",
         "Release": "1.0.1.el7_9",
         "Size": "242 k",
         "Repo": "ol7_latest/x86_64",
@@ -80,6 +80,8 @@
         "java-11-openjdk.i686             1:11.0.20.0.8-1.0.1.el7_9           ol7_latest",
         "java-11-openjdk.x86_64           1:11.0.20.0.8-1.0.1.el7_9           ol7_latest",
         "java-11-openjdk.i686             1:11.0.21.0.9-1.0.1.el7_9           ol7_latest",
-        "java-11-openjdk.x86_64           1:11.0.21.0.9-1.0.1.el7_9           ol7_latest"
+        "java-11-openjdk.x86_64           1:11.0.21.0.9-1.0.1.el7_9           ol7_latest",
+        "java-11-openjdk.i686             1:11.0.22.0.7-1.0.1.el7_9           ol7_latest",
+        "java-11-openjdk.x86_64           1:11.0.22.0.7-1.0.1.el7_9           ol7_latest"
     ]
 }

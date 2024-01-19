@@ -3,7 +3,7 @@
         "Name": "java-17-amazon-corretto",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "17.0.9+8",
+        "Version": "17.0.10+7",
         "Release": "1.amzn2.1",
         "Size": "175 k",
         "Repo": "amzn2-core/2/x86_64",
@@ -24,6 +24,7 @@
         "java-17-amazon-corretto.x86_64         1:17.0.7+7-1.amzn2.1           amzn2-core",
         "java-17-amazon-corretto.x86_64         1:17.0.8+7-1.amzn2.1           amzn2-core",
         "java-17-amazon-corretto.x86_64         1:17.0.8+8-1.amzn2.1           amzn2-core",
-        "java-17-amazon-corretto.x86_64         1:17.0.9+8-1.amzn2.1           amzn2-core"
+        "java-17-amazon-corretto.x86_64         1:17.0.9+8-1.amzn2.1           amzn2-core",
+        "java-17-amazon-corretto.x86_64         1:17.0.10+7-1.amzn2.1          amzn2-core"
     ]
 }
