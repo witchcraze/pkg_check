@@ -14,7 +14,6 @@
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-21-demo, openjdk-21-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
-        "Phased-Update-Percentage": "90",
         "Download-Size": "10.7 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"

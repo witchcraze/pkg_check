@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mysql-server-5.7",
-        "Version": "5.7.43-0ubuntu0.18.04.1+esm1",
+        "Version": "5.7.44-0ubuntu0.18.04.1+esm1",
         "Priority": "optional",
         "Section": "database",
         "Source": "mysql-5.7",
@@ -10,17 +10,18 @@
         "Installed-Size": "47.7 MB",
         "Provides": "virtual-mysql-server",
         "Pre-Depends": "adduser (>= 3.40), debconf, mysql-common (>= 5.5)",
-        "Depends": "bsdutils, lsb-base (>= 3.0-10), mysql-client-5.7 (>= 5.7.43-0ubuntu0.18.04.1+esm1), mysql-common (>= 5.8+1.0.4~), mysql-server-core-5.7 (= 5.7.43-0ubuntu0.18.04.1+esm1), passwd, perl (>= 5.6), psmisc, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.14), libevent-core-2.1-6 (>= 2.1.8-stable), libgcc1 (>= 1:3.0), liblz4-1 (>= 0.0~r127), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2)",
+        "Depends": "bsdutils, lsb-base (>= 3.0-10), mysql-client-5.7 (>= 5.7.44-0ubuntu0.18.04.1+esm1), mysql-common (>= 5.8+1.0.4~), mysql-server-core-5.7 (= 5.7.44-0ubuntu0.18.04.1+esm1), passwd, perl (>= 5.6), psmisc, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.14), libevent-core-2.1-6 (>= 2.1.8-stable), libgcc1 (>= 1:3.0), liblz4-1 (>= 0.0~r127), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2)",
         "Recommends": "libhtml-template-perl",
         "Suggests": "mailx, tinyca",
         "Conflicts": "mysql-client-5.5, mysql-server-5.5, virtual-mysql-server",
         "Breaks": "mysql-server-5.6 (<< 5.7)",
         "Replaces": "mysql-client-5.5, mysql-server-5.5, mysql-server-5.6 (<< 5.7), virtual-mysql-server",
-        "Download-Size": "3013 kB",
+        "Download-Size": "3008 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
     "changelog": [
+        "mysql-5.7 (5.7.44-0ubuntu0.18.04.1+esm1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.43-0ubuntu0.18.04.1+esm1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.42-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.41-0ubuntu0.18.04.1) bionic-security; urgency=medium",
@@ -29,7 +30,6 @@
         "mysql-5.7 (5.7.38-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.37-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.36-0ubuntu0.18.04.1) bionic-security; urgency=medium",
-        "mysql-5.7 (5.7.35-0ubuntu0.18.04.2) bionic; urgency=medium",
-        "mysql-5.7 (5.7.35-0ubuntu0.18.04.1) bionic-security; urgency=medium"
+        "mysql-5.7 (5.7.35-0ubuntu0.18.04.2) bionic; urgency=medium"
     ]
 }

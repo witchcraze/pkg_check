@@ -2,8 +2,8 @@
     "info": {
         "Name": "tomcat8",
         "Arch": "noarch",
-        "Version": "8.5.94",
-        "Release": "1.95.amzn1",
+        "Version": "8.5.96",
+        "Release": "1.96.amzn1",
         "Size": "105 k",
         "Repo": "amzn-updates/latest",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.1/JSP 2.3 API",
@@ -29,6 +29,7 @@
         "tomcat8.noarch                  8.5.87-1.92.amzn1                   amzn-updates",
         "tomcat8.noarch                  8.5.89-1.93.amzn1                   amzn-updates",
         "tomcat8.noarch                  8.5.93-1.94.amzn1                   amzn-updates",
-        "tomcat8.noarch                  8.5.94-1.95.amzn1                   amzn-updates"
+        "tomcat8.noarch                  8.5.94-1.95.amzn1                   amzn-updates",
+        "tomcat8.noarch                  8.5.96-1.96.amzn1                   amzn-updates"
     ]
 }

@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-1.8.0-amazon-corretto",
         "Epoch": "1",
-        "Version": "1.8.0_392.b08",
+        "Version": "1.8.0_402.b06",
         "Release": "1.amzn2023",
         "Architecture": "x86_64",
         "Size": "38 M",
-        "Source": "java-1.8.0-amazon-corretto-1.8.0_392.b08-1.amzn2023.src.rpm",
+        "Source": "java-1.8.0-amazon-corretto-1.8.0_402.b06-1.amzn2023.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Amazon Corretto runtime environment",
         "URL": "https://github.com/corretto/corretto-8",
@@ -17,6 +17,7 @@
         "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_362.b08-1.amzn2023     amazonlinux",
         "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_372.b07-1.amzn2023     amazonlinux",
         "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_382.b05-1.amzn2023     amazonlinux",
-        "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_392.b08-1.amzn2023     amazonlinux"
+        "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_392.b08-1.amzn2023     amazonlinux",
+        "java-1.8.0-amazon-corretto.x86_64     1:1.8.0_402.b06-1.amzn2023     amazonlinux"
     ]
 }

@@ -2,12 +2,12 @@
     "info": {
         "Name": "java-11-openjdk",
         "Epoch": "1",
-        "Version": "11.0.21.0.9",
+        "Version": "11.0.22.0.7",
         "Release": "2.el8",
         "Architecture": "x86_64",
         "Size": "474 k",
-        "Source": "java-11-openjdk-11.0.21.0.9-2.el8.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Source": "java-11-openjdk-11.0.22.0.7-2.el8.src.rpm",
+        "Repository": "appstream",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
         "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
@@ -38,6 +38,7 @@
         "java-11-openjdk.x86_64                       1:11.0.20.0.8-2.el8                           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                       1:11.0.20.0.8-3.el8                           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                       1:11.0.21.0.9-2.el8                           appstream",
-        "java-11-openjdk.x86_64                       1:11.0.21.0.9-2.el8                           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "java-11-openjdk.x86_64                       1:11.0.21.0.9-2.el8                           repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "java-11-openjdk.x86_64                       1:11.0.22.0.7-2.el8                           appstream"
     ]
 }

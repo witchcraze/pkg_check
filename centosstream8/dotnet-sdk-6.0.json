@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.121",
-        "Release": "4.el8",
+        "Version": "6.0.126",
+        "Release": "2.el8",
         "Architecture": "x86_64",
-        "Size": "77 M",
-        "Source": "dotnet6.0-6.0.121-4.el8.src.rpm",
+        "Size": "78 M",
+        "Source": "dotnet6.0-6.0.126-2.el8.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -15,7 +15,8 @@
     "list": [
         "dotnet-sdk-6.0.x86_64 6.0.0-0.6.28be3e9a006d90d8c6e87d4353b77882829df718.el8 appstream",
         "dotnet-sdk-6.0.x86_64 6.0.121-3.el8                                          appstream",
-        "dotnet-sdk-6.0.x86_64 6.0.121-4.el8                                          appstream"
+        "dotnet-sdk-6.0.x86_64 6.0.121-4.el8                                          appstream",
+        "dotnet-sdk-6.0.x86_64 6.0.126-2.el8                                          appstream"
     ],
     "kojiPackages": [
         "dotnet6.0-6.0.126-2.el8",

@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-17-amazon-corretto",
         "Epoch": "1",
-        "Version": "17.0.9+8",
+        "Version": "17.0.10+7",
         "Release": "1.amzn2023.1",
         "Architecture": "x86_64",
-        "Size": "188 k",
-        "Source": "java-17-amazon-corretto-17.0.9+8-1.amzn2023.1.src.rpm",
+        "Size": "187 k",
+        "Source": "java-17-amazon-corretto-17.0.10+7-1.amzn2023.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Amazon Corretto development environment",
         "URL": "https://github.com/corretto/corretto-17",
@@ -18,6 +18,7 @@
         "java-17-amazon-corretto.x86_64       1:17.0.7+7-1.amzn2023.1         amazonlinux",
         "java-17-amazon-corretto.x86_64       1:17.0.8+7-1.amzn2023.1         amazonlinux",
         "java-17-amazon-corretto.x86_64       1:17.0.8+8-1.amzn2023.1         amazonlinux",
-        "java-17-amazon-corretto.x86_64       1:17.0.9+8-1.amzn2023.1         amazonlinux"
+        "java-17-amazon-corretto.x86_64       1:17.0.9+8-1.amzn2023.1         amazonlinux",
+        "java-17-amazon-corretto.x86_64       1:17.0.10+7-1.amzn2023.1        amazonlinux"
     ]
 }

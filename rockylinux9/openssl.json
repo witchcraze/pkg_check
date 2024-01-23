@@ -3,19 +3,20 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "3.0.7",
-        "Release": "24.el9",
+        "Release": "25.el9_3",
         "Architecture": "x86_64",
         "Size": "1.8 M",
-        "Source": "openssl-3.0.7-24.el9.src.rpm",
+        "Source": "openssl-3.0.7-25.el9_3.src.rpm",
         "Repository": "@System",
+        "From repo": "baseos",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "ASL 2.0",
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
-        "openssl.x86_64                      1:3.0.7-24.el9                       @System",
-        "openssl.x86_64                      1:3.0.7-24.el9                       baseos"
+        "openssl.x86_64                     1:3.0.7-25.el9_3                      @baseos",
+        "openssl.x86_64                     1:3.0.7-25.el9_3                      baseos"
     ],
     "kojiPackages": [
         "openssl-3.0.7-24.el9",
