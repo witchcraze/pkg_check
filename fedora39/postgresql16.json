@@ -17,6 +17,7 @@
         "postgresql16.x86_64                     16.1-1.fc39                      updates"
     ],
     "kojiPackages": [
+        "postgresql16-16.1-2.fc39",
         "postgresql16-16.1-1.fc39"
     ]
 }

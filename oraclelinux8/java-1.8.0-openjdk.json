@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.392.b08",
-        "Release": "4.0.1.el8",
+        "Version": "1.8.0.402.b06",
+        "Release": "2.0.1.el8",
         "Architecture": "x86_64",
-        "Size": "547 k",
-        "Source": "java-1.8.0-openjdk-1.8.0.392.b08-4.0.1.el8.src.rpm",
+        "Size": "550 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.402.b06-2.0.1.el8.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -89,6 +89,8 @@
         "java-1.8.0-openjdk.src                                         1:1.8.0.382.b05-2.0.1.el8                                       ol8_appstream",
         "java-1.8.0-openjdk.x86_64                                      1:1.8.0.382.b05-2.0.1.el8                                       ol8_appstream",
         "java-1.8.0-openjdk.src                                         1:1.8.0.392.b08-4.0.1.el8                                       ol8_appstream",
-        "java-1.8.0-openjdk.x86_64                                      1:1.8.0.392.b08-4.0.1.el8                                       ol8_appstream"
+        "java-1.8.0-openjdk.x86_64                                      1:1.8.0.392.b08-4.0.1.el8                                       ol8_appstream",
+        "java-1.8.0-openjdk.src                                         1:1.8.0.402.b06-2.0.1.el8                                       ol8_appstream",
+        "java-1.8.0-openjdk.x86_64                                      1:1.8.0.402.b06-2.0.1.el8                                       ol8_appstream"
     ]
 }
