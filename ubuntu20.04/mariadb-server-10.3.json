@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mariadb-server-10.3",
-        "Version": "1:10.3.38-0ubuntu0.20.04.1",
+        "Version": "1:10.3.39-0ubuntu0.20.04.2",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "mariadb-10.3",
@@ -11,19 +11,20 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "66.8 MB",
         "Provides": "virtual-mysql-server",
-        "Pre-Depends": "adduser (>= 3.40), debconf, mariadb-common (>= 1:10.3.38-0ubuntu0.20.04.1)",
-        "Depends": "galera-3 (>= 25.3), gawk, iproute2, libdbi-perl, lsb-base (>= 3.0-10), lsof, mariadb-client-10.3 (>= 1:10.3.38-0ubuntu0.20.04.1), mariadb-server-core-10.3 (>= 1:10.3.38-0ubuntu0.20.04.1), passwd, perl (>= 5.6), psmisc, rsync, socat, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.29), libgnutls30 (>= 3.6.12), libpam0g (>= 0.99.7.1), libstdc++6 (>= 5.2), zlib1g (>= 1:1.2.0)",
+        "Pre-Depends": "adduser (>= 3.40), debconf, mariadb-common (>= 1:10.3.39-0ubuntu0.20.04.2)",
+        "Depends": "galera-3 (>= 25.3), gawk, iproute2, libdbi-perl, lsb-base (>= 3.0-10), lsof, mariadb-client-10.3 (>= 1:10.3.39-0ubuntu0.20.04.2), mariadb-server-core-10.3 (>= 1:10.3.39-0ubuntu0.20.04.2), passwd, perl (>= 5.6), psmisc, rsync, socat, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.29), libgnutls30 (>= 3.6.12), libpam0g (>= 0.99.7.1), libstdc++6 (>= 5.2), zlib1g (>= 1:1.2.0)",
         "Recommends": "libhtml-template-perl",
         "Suggests": "mailx, mariadb-test, netcat-openbsd, tinyca",
         "Conflicts": "mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-10.1, mariadb-tokudb-engine-5.5, mysql-server-core-5.5, mysql-server-core-5.6, mysql-server-core-5.7, mysql-server-core-8.0, virtual-mysql-server",
         "Breaks": "cqrlog (<< 1.9.0-5~), mariadb-galera-server, mariadb-galera-server-10.0, mariadb-galera-server-5.5, mariadb-server-10.0, mariadb-server-10.1, mariadb-server-10.2, mariadb-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-10.1, mariadb-tokudb-engine-5.5, mysql-client-5.5, mysql-client-5.7, mysql-server-5.5, mysql-server-5.6, mysql-server-5.7, mysql-server-8.0",
         "Replaces": "mariadb-galera-server, mariadb-galera-server-10.0, mariadb-galera-server-5.5, mariadb-server-10.0, mariadb-server-10.1, mariadb-server-10.2, mariadb-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-10.1, mariadb-tokudb-engine-5.5, mysql-client-5.5, mysql-client-5.7, mysql-server-5.5, mysql-server-5.6, mysql-server-5.7, mysql-server-8.0, virtual-mysql-server",
         "Homepage": "https://mariadb.org/",
-        "Download-Size": "4203 kB",
+        "Download-Size": "4202 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
     "changelog": [
+        "mariadb-10.3 (1:10.3.39-0ubuntu0.20.04.2) focal-security; urgency=medium",
         "mariadb-10.3 (1:10.3.38-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "mariadb-10.3 (1:10.3.37-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "mariadb-10.3 (1:10.3.34-0ubuntu0.20.04.1) focal-security; urgency=medium",

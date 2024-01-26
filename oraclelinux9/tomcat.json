@@ -3,7 +3,7 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.62",
-        "Release": "37.el9_3",
+        "Release": "37.el9_3.1",
         "Architecture": "src",
         "Size": "14 M",
         "Source": "None",
@@ -19,6 +19,8 @@
         "tomcat.noarch                 1:9.0.62-11.el9_2.3                  ol9_appstream",
         "tomcat.src                    1:9.0.62-11.el9_2.3                  ol9_appstream",
         "tomcat.noarch                 1:9.0.62-37.el9_3                    ol9_appstream",
-        "tomcat.src                    1:9.0.62-37.el9_3                    ol9_appstream"
+        "tomcat.src                    1:9.0.62-37.el9_3                    ol9_appstream",
+        "tomcat.noarch                 1:9.0.62-37.el9_3.1                  ol9_appstream",
+        "tomcat.src                    1:9.0.62-37.el9_3.1                  ol9_appstream"
     ]
 }

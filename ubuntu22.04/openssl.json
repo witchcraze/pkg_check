@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.2-0ubuntu1.12",
+        "Version": "3.0.2-0ubuntu1.13",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -13,12 +13,14 @@
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
         "Task": "minimal, server-minimal",
-        "Download-Size": "1182 kB",
+        "Phased-Update-Percentage": "20",
+        "Download-Size": "1184 kB",
         "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "changelog": [
+        "openssl (3.0.2-0ubuntu1.13) jammy; urgency=medium",
         "openssl (3.0.2-0ubuntu1.12) jammy-security; urgency=medium",
         "openssl (3.0.2-0ubuntu1.10) jammy-security; urgency=medium",
         "openssl (3.0.2-0ubuntu1.9) jammy-security; urgency=medium",
