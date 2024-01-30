@@ -13,7 +13,6 @@
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
         "Task": "minimal, server-minimal",
-        "Phased-Update-Percentage": "20",
         "Download-Size": "1184 kB",
         "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",

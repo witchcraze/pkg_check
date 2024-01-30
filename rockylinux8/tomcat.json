@@ -3,10 +3,10 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.62",
-        "Release": "27.el8_9.2",
+        "Release": "27.el8_9.3",
         "Architecture": "noarch",
         "Size": "91 k",
-        "Source": "tomcat-9.0.62-27.el8_9.2.src.rpm",
+        "Source": "tomcat-9.0.62-27.el8_9.3.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -16,9 +16,12 @@
     "list": [
         "tomcat.noarch                   1:9.0.62-9.el8                         appstream",
         "tomcat.noarch                   1:9.0.62-27.el8_9                      appstream",
-        "tomcat.noarch                   1:9.0.62-27.el8_9.2                    appstream"
+        "tomcat.noarch                   1:9.0.62-27.el8_9.2                    appstream",
+        "tomcat.noarch                   1:9.0.62-27.el8_9.3                    appstream"
     ],
     "kojiPackages": [
+        "tomcat-9.0.62-30.el8",
+        "tomcat-9.0.62-27.el8_9.3",
         "tomcat-9.0.62-29.el8",
         "tomcat-9.0.62-27.el8_9.2",
         "tomcat-9.0.62-28.el8",

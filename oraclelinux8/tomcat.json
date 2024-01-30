@@ -3,9 +3,9 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.62",
-        "Release": "27.el8_9.2",
+        "Release": "27.el8_9.3",
         "Architecture": "src",
-        "Size": "14 M",
+        "Size": "15 M",
         "Source": "None",
         "Repository": "ol8_appstream",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
@@ -21,6 +21,8 @@
         "tomcat.noarch                                               1:9.0.62-27.el8_9                                                  ol8_appstream",
         "tomcat.src                                                  1:9.0.62-27.el8_9                                                  ol8_appstream",
         "tomcat.noarch                                               1:9.0.62-27.el8_9.2                                                ol8_appstream",
-        "tomcat.src                                                  1:9.0.62-27.el8_9.2                                                ol8_appstream"
+        "tomcat.src                                                  1:9.0.62-27.el8_9.2                                                ol8_appstream",
+        "tomcat.noarch                                               1:9.0.62-27.el8_9.3                                                ol8_appstream",
+        "tomcat.src                                                  1:9.0.62-27.el8_9.3                                                ol8_appstream"
     ]
 }
