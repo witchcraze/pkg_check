@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "bind9.16",
+        "Epoch": "32",
+        "Version": "9.16.23",
+        "Release": "0.14.el8_8.2",
+        "Architecture": "x86_64",
+        "Size": "604 k",
+        "Source": "bind9.16-9.16.23-0.14.el8_8.2.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
+    },
+    "list": [
+        "bind9.16.src                                               32:9.16.23-0.7.el8                                                  ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.7.el8                                                  ol8_appstream",
+        "bind9.16.src                                               32:9.16.23-0.7.el8_6.1                                              ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.7.el8_6.1                                              ol8_appstream",
+        "bind9.16.src                                               32:9.16.23-0.9.el8.1                                                ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.9.el8.1                                                ol8_appstream",
+        "bind9.16.src                                               32:9.16.23-0.14.el8                                                 ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.14.el8                                                 ol8_appstream",
+        "bind9.16.src                                               32:9.16.23-0.14.el8_8.1                                             ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.14.el8_8.1                                             ol8_appstream",
+        "bind9.16.src                                               32:9.16.23-0.14.el8_8.2                                             ol8_appstream",
+        "bind9.16.x86_64                                            32:9.16.23-0.14.el8_8.2                                             ol8_appstream"
+    ]
+}

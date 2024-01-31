@@ -1,0 +1,33 @@
+{
+    "info": {
+        "Name": "bind9.16",
+        "Epoch": "32",
+        "Version": "9.16.23",
+        "Release": "0.12.el8",
+        "Architecture": "x86_64",
+        "Size": "603 k",
+        "Source": "bind9.16-9.16.23-0.12.el8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPLv2.0",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
+    },
+    "list": [
+        "bind9.16.x86_64                  32:9.16.23-0.7.el8                    appstream",
+        "bind9.16.x86_64                  32:9.16.23-0.9.el8                    appstream",
+        "bind9.16.x86_64                  32:9.16.23-0.9.el8.1                  appstream",
+        "bind9.16.x86_64                  32:9.16.23-0.11.el8                   appstream",
+        "bind9.16.x86_64                  32:9.16.23-0.12.el8                   appstream"
+    ],
+    "kojiPackages": [
+        "bind9.16-9.16.23-0.16.el8",
+        "bind9.16-9.16.23-0.15.el8",
+        "bind9.16-9.16.23-0.12.el8",
+        "bind9.16-9.16.23-0.11.el8",
+        "bind9.16-9.16.23-0.7.el8",
+        "bind9.16-9.16.23-0.9.el8.1",
+        "bind9.16-9.16.23-0.9.el8",
+        "bind9.16-9.16.23-0.5.el8"
+    ]
+}
