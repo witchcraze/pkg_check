@@ -301,5 +301,13 @@
         "apache2 (2.0.20-2) unstable; urgency=low",
         "apache2 (2.0.20-1) unstable; urgency=low",
         "apache2 (2.0.18-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.4.56-1~deb11u2",
+        "2.4.54-1~deb11u1",
+        "2.4.53-1~deb11u1",
+        "2.4.51-1~deb11u1",
+        "2.4.48-3.1+deb11u1",
+        "2.4.48-3.1"
     ]
 }

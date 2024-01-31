@@ -42,5 +42,24 @@
         "dotnet6 (6.0.107-0ubuntu1) kinetic; urgency=medium",
         "dotnet6 (6.0.106-0ubuntu2) kinetic; urgency=medium",
         "dotnet6 (6.0.106-0ubuntu1) kinetic; urgency=medium"
+    ],
+    "publishinghistory": [
+        "6.0.126-0ubuntu1~22.04.1",
+        "6.0.125-0ubuntu1~22.04.1",
+        "6.0.124-0ubuntu1~22.04.1",
+        "6.0.123-0ubuntu1~22.04.1",
+        "6.0.122-0ubuntu1~22.04.1",
+        "6.0.121-0ubuntu1~22.04.1",
+        "6.0.120-0ubuntu1~22.04.1",
+        "6.0.119-0ubuntu1~22.04.1",
+        "6.0.118-0ubuntu1~22.04.1",
+        "6.0.116-0ubuntu1~22.04.1",
+        "6.0.114-0ubuntu1~22.04.1",
+        "6.0.113-0ubuntu1~22.04.1",
+        "6.0.111-0ubuntu1~22.04.1",
+        "6.0.110-0ubuntu1~22.04.1",
+        "6.0.109-0ubuntu1~22.04.1",
+        "6.0.108-0ubuntu1~22.04.1",
+        "6.0.107-0ubuntu2~22.04.1"
     ]
 }

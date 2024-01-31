@@ -230,5 +230,19 @@
         "nodejs (0.1.33-2) unstable; urgency=low",
         "nodejs (0.1.33-1) unstable; urgency=low",
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "10.19.0~dfsg-3ubuntu1.3",
+        "10.19.0~dfsg-3ubuntu1.2",
+        "10.19.0~dfsg-3ubuntu1.1",
+        "10.19.0~dfsg-3ubuntu1",
+        "10.17.0~dfsg-2ubuntu6",
+        "10.17.0~dfsg-2ubuntu5",
+        "10.17.0~dfsg-2ubuntu4",
+        "10.17.0~dfsg-2ubuntu3",
+        "10.17.0~dfsg-2ubuntu2",
+        "10.17.0~dfsg-2ubuntu1",
+        "10.17.0~dfsg-2",
+        "10.15.2~dfsg-2ubuntu1"
     ]
 }

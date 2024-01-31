@@ -314,5 +314,9 @@
         "proftpd (0.99.0pl4-1) unstable; urgency=low",
         "proftpd (0.99.0pl3-2) unstable; urgency=low",
         "proftpd (0.99.0pl3-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.3.7a+dfsg-12+deb11u2",
+        "1.3.7a+dfsg-12"
     ]
 }

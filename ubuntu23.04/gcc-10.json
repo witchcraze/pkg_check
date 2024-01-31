@@ -1175,5 +1175,11 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "10.5.0-1ubuntu1~23.04",
+        "10.4.0-7ubuntu1",
+        "10.4.0-6ubuntu1",
+        "10.4.0-5ubuntu2"
     ]
 }

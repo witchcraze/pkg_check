@@ -125,5 +125,14 @@
         "php7.2 (7.2.0~beta2-1) experimental; urgency=medium",
         "php7.2 (7.2.0~beta1-1) experimental; urgency=medium",
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.4.33-1+deb11u4",
+        "7.4.33-1+deb11u3",
+        "7.4.33-1+deb11u1",
+        "7.4.30-1+deb11u1",
+        "7.4.28-1+deb11u1",
+        "7.4.25-1+deb11u1",
+        "7.4.21-1+deb11u1"
     ]
 }

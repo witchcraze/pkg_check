@@ -20,5 +20,11 @@
         "dotnet8 (8.0.100-8.0.0-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet8 (8.0.100-8.0.0~rc2-0ubuntu1) mantic-security; urgency=medium",
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.0.101-8.0.1-0ubuntu1~23.10.1",
+        "8.0.100-8.0.0-0ubuntu1~23.10.1",
+        "8.0.100-8.0.0~rc2-0ubuntu1",
+        "8.0.100-8.0.0~rc1-0ubuntu1"
     ]
 }

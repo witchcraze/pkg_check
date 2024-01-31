@@ -257,5 +257,11 @@
         "redis (1:0.094-1) experimental; urgency=low",
         "redis (1.0~beta8-1) experimental; urgency=low",
         "redis (1.0~beta7-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "5:6.0.16-1ubuntu1",
+        "5:6.0.16-1build1",
+        "5:6.0.16-1",
+        "5:6.0.15-1"
     ]
 }

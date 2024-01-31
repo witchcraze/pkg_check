@@ -477,5 +477,13 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "8u392-ga-1~23.10",
+        "8u382-ga-1ubuntu1",
+        "8u382-ga-1",
+        "8u382~b04-2",
+        "8u372-ga-1ubuntu1",
+        "8u362-ga-0ubuntu2"
     ]
 }

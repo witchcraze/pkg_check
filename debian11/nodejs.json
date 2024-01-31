@@ -264,5 +264,11 @@
         "nodejs (0.1.33-2) unstable; urgency=low",
         "nodejs (0.1.33-1) unstable; urgency=low",
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "12.22.12~dfsg-1~deb11u4",
+        "12.22.12~dfsg-1~deb11u3",
+        "12.22.5~dfsg-2~11u1",
+        "12.21.0~dfsg-5"
     ]
 }

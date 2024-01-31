@@ -551,5 +551,15 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "22~16ea-1",
+        "22~15ea-2",
+        "22~13ea-1",
+        "22~12ea-1",
+        "22~9ea-1",
+        "22~7ea-1",
+        "22~5ea-1",
+        "22~3ea-1"
     ]
 }

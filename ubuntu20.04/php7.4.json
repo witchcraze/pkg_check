@@ -117,5 +117,33 @@
         "php7.2 (7.2.0~beta2-1) experimental; urgency=medium",
         "php7.2 (7.2.0~beta1-1) experimental; urgency=medium",
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.4.3-4ubuntu2.19",
+        "7.4.3-4ubuntu2.18",
+        "7.4.3-4ubuntu2.17",
+        "7.4.3-4ubuntu2.16",
+        "7.4.3-4ubuntu2.15",
+        "7.4.3-4ubuntu2.13",
+        "7.4.3-4ubuntu2.12",
+        "7.4.3-4ubuntu2.11",
+        "7.4.3-4ubuntu2.10",
+        "7.4.3-4ubuntu2.9",
+        "7.4.3-4ubuntu2.8",
+        "7.4.3-4ubuntu2.7",
+        "7.4.3-4ubuntu2.6",
+        "7.4.3-4ubuntu2.5",
+        "7.4.3-4ubuntu2.4",
+        "7.4.3-4ubuntu2.2",
+        "7.4.3-4ubuntu1.1",
+        "7.4.3-4ubuntu1",
+        "7.4.3-4build2",
+        "7.4.3-4build1",
+        "7.4.3-4",
+        "7.4.3-3",
+        "7.4.3-1",
+        "7.4.2-7build1",
+        "7.4.2-7",
+        "7.4.1-1"
     ]
 }

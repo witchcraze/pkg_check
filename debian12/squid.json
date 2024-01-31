@@ -152,5 +152,8 @@
         "squid3 (3.0.PRE4-1) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-2) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.7-2"
     ]
 }

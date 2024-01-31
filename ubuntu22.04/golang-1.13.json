@@ -176,5 +176,10 @@
         "golang (2011.02.15-2) unstable; urgency=low",
         "golang (2011.02.15-1) unstable; urgency=low",
         "golang (2011.02.01.1-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.13.8-1ubuntu2.22.04.2",
+        "1.13.8-1ubuntu2.22.04.1",
+        "1.13.8-1ubuntu2"
     ]
 }

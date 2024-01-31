@@ -258,5 +258,13 @@
         "ssleay (0.6.6-1) unstable; urgency=low",
         "ssleay (0.6.4-2) unstable; urgency=low",
         "ssleay (0.6.4-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.1.1w-0+deb11u1",
+        "1.1.1n-0+deb11u4",
+        "1.1.1n-0+deb11u3",
+        "1.1.1n-0+deb11u1",
+        "1.1.1k-1+deb11u1",
+        "1.1.1k-1"
     ]
 }

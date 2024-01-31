@@ -236,5 +236,26 @@
         "haproxy (1.3.14.1-1) unstable; urgency=low",
         "haproxy (1.3.12.dfsg2-1) unstable; urgency=low",
         "haproxy (1.3.12.dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.4.24-0ubuntu0.22.04.1",
+        "2.4.22-0ubuntu0.22.04.3",
+        "2.4.22-0ubuntu0.22.04.2",
+        "2.4.22-0ubuntu0.22.04.1",
+        "2.4.18-0ubuntu1.3",
+        "2.4.18-0ubuntu1.2",
+        "2.4.18-0ubuntu1.1",
+        "2.4.18-0ubuntu1",
+        "2.4.14-1ubuntu1",
+        "2.4.13-1ubuntu1",
+        "2.4.12-1ubuntu2",
+        "2.4.12-1ubuntu1",
+        "2.4.11-1ubuntu1",
+        "2.4.8-2ubuntu3",
+        "2.4.8-2ubuntu2",
+        "2.4.8-2ubuntu1",
+        "2.4.8-2",
+        "2.4.8-1",
+        "2.2.9-2ubuntu2"
     ]
 }

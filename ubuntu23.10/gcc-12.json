@@ -1252,5 +1252,19 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "12.3.0-9ubuntu2",
+        "12.3.0-9ubuntu1",
+        "12.3.0-8ubuntu1",
+        "12.3.0-7ubuntu2",
+        "12.3.0-7ubuntu1",
+        "12.3.0-6ubuntu1",
+        "12.3.0-5ubuntu1",
+        "12.3.0-3ubuntu1",
+        "12.3.0-2ubuntu1",
+        "12.3.0-1ubuntu1",
+        "12.2.0-18ubuntu1",
+        "12.2.0-17ubuntu1"
     ]
 }

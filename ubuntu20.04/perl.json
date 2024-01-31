@@ -375,5 +375,16 @@
         "perl (5.003.07-3) unstable; urgency=low",
         "perl (5.003.07-2) unstable; urgency=low",
         "perl (5.003.07-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.30.0-9ubuntu0.5",
+        "5.30.0-9ubuntu0.4",
+        "5.30.0-9ubuntu0.3",
+        "5.30.0-9ubuntu0.2",
+        "5.30.0-9build1",
+        "5.30.0-9",
+        "5.30.0-8",
+        "5.30.0-7",
+        "5.28.1-6build1"
     ]
 }

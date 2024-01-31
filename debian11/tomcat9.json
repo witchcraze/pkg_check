@@ -99,5 +99,12 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.43-2~deb11u6",
+        "9.0.43-2~deb11u4",
+        "9.0.43-2~deb11u3",
+        "9.0.43-2~deb11u1",
+        "9.0.43-1"
     ]
 }

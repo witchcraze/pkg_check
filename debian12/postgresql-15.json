@@ -31,5 +31,9 @@
         "postgresql-15 (15~beta3-1) experimental; urgency=medium",
         "postgresql-15 (15~beta2-1) experimental; urgency=medium",
         "postgresql-15 (15~beta1-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "15.5-0+deb12u1",
+        "15.3-0+deb12u1"
     ]
 }

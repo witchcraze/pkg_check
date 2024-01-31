@@ -163,5 +163,28 @@
         "php7.2 (7.2.0~beta2-1) experimental; urgency=medium",
         "php7.2 (7.2.0~beta1-1) experimental; urgency=medium",
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.1.2-1ubuntu2.14",
+        "8.1.2-1ubuntu2.13",
+        "8.1.2-1ubuntu2.11",
+        "8.1.2-1ubuntu2.10",
+        "8.1.2-1ubuntu2.9",
+        "8.1.2-1ubuntu2.8",
+        "8.1.2-1ubuntu2.6",
+        "8.1.2-1ubuntu2.5",
+        "8.1.2-1ubuntu2.4",
+        "8.1.2-1ubuntu2.3",
+        "8.1.2-1ubuntu2.2",
+        "8.1.2-1ubuntu2.1",
+        "8.1.2-1ubuntu2",
+        "8.1.2-1ubuntu1",
+        "8.1.2-1build1",
+        "8.1.2-1",
+        "8.1.1-4",
+        "8.1.1-3",
+        "8.1.0-1",
+        "8.1.0~rc4-1ubuntu2",
+        "8.1.0~rc4-1ubuntu1"
     ]
 }

@@ -31,4 +31,5 @@ zcat /usr/share/doc/{package}//changelog.Debian.gz
 
 #### Web
 
-will add soon
+- https://launchpad.net/ubuntu/+source/{package}/+publishinghistory
+- https://launchpad.net/debian/+source/{package}/+publishinghistory

@@ -162,5 +162,10 @@
         "mariadb-10.0 (10.0.14-2) unstable; urgency=low",
         "mariadb-10.0 (10.0.14-1) experimental; urgency=low",
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "1:10.11.4-1~deb12u1",
+        "1:10.11.3-1",
+        "1:10.11.2-1"
     ]
 }

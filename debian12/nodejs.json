@@ -108,5 +108,8 @@
         "nodejs (12.8.0~dfsg-2) experimental; urgency=medium",
         "nodejs (12.8.0~dfsg-1) experimental; urgency=medium",
         "nodejs (12.7.0~dfsg-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "18.13.0+dfsg1-1"
     ]
 }

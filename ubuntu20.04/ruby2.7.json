@@ -103,5 +103,29 @@
         "ruby2.0 (2.0.0.299-2) unstable; urgency=low",
         "ruby2.0 (2.0.0.299-1) unstable; urgency=low",
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.7.0-5ubuntu1.12",
+        "2.7.0-5ubuntu1.11",
+        "2.7.0-5ubuntu1.10",
+        "2.7.0-5ubuntu1.9",
+        "2.7.0-5ubuntu1.8",
+        "2.7.0-5ubuntu1.7",
+        "2.7.0-5ubuntu1.6",
+        "2.7.0-5ubuntu1.5",
+        "2.7.0-5ubuntu1.4",
+        "2.7.0-5ubuntu1.3",
+        "2.7.0-5ubuntu1.2",
+        "2.7.0-5ubuntu1.1",
+        "2.7.0-5ubuntu1",
+        "2.7.0-4ubuntu1",
+        "2.7.0-4",
+        "2.7.0-3",
+        "2.7.0-2",
+        "2.7.0-1ubuntu3",
+        "2.7.0-1ubuntu2",
+        "2.7.0-1ubuntu1",
+        "2.7.0-1build1",
+        "2.7.0-1"
     ]
 }

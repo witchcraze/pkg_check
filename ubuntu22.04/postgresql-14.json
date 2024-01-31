@@ -40,5 +40,26 @@
         "postgresql-14 (14~beta3-1) experimental; urgency=medium",
         "postgresql-14 (14~beta2-1) experimental; urgency=medium",
         "postgresql-14 (14~beta1-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "14.10-0ubuntu0.22.04.1",
+        "14.9-0ubuntu0.22.04.1",
+        "14.8-0ubuntu0.22.04.1",
+        "14.7-0ubuntu0.22.04.1",
+        "14.6-0ubuntu0.22.04.1",
+        "14.5-0ubuntu0.22.04.1",
+        "14.4-0ubuntu0.22.04.1",
+        "14.3-0ubuntu0.22.04.1",
+        "14.2-1ubuntu1",
+        "14.2-1",
+        "14.1-5build3",
+        "14.1-5build2",
+        "14.1-5build1",
+        "14.1-5",
+        "14.1-4",
+        "14.1-1ubuntu1",
+        "14.1-1build1",
+        "14.1-1",
+        "14.0-1"
     ]
 }

@@ -112,5 +112,11 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "10.1.6-1",
+        "10.1.5-2",
+        "10.1.5-1",
+        "10.0.27-1"
     ]
 }

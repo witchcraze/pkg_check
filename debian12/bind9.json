@@ -384,5 +384,10 @@
         "bind9 (1:9.1.0-3) unstable; urgency=low",
         "bind9 (1:9.1.0-2) unstable; urgency=low",
         "bind9 (1:9.1.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1:9.18.19-1~deb12u1",
+        "1:9.18.16-1~deb12u1",
+        "1:9.18.12-1"
     ]
 }

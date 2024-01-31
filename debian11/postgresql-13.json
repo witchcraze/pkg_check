@@ -39,5 +39,15 @@
         "postgresql-13 (13~beta2-2) experimental; urgency=medium",
         "postgresql-13 (13~beta2-1) experimental; urgency=medium",
         "postgresql-13 (13~beta1-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "13.11-0+deb11u1",
+        "13.10-0+deb11u1",
+        "13.9-0+deb11u1",
+        "13.8-0+deb11u1",
+        "13.7-0+deb11u1",
+        "13.5-0+deb11u1",
+        "13.4-0+deb11u1",
+        "13.3-1"
     ]
 }
