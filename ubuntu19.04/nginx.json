@@ -27,5 +27,17 @@
         "nginx (1.15.5-0ubuntu4) disco; urgency=medium",
         "nginx (1.15.5-0ubuntu3) disco; urgency=medium",
         "nginx (1.15.5-0ubuntu2) cosmic; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.15.9-0ubuntu1.2",
+        "1.15.9-0ubuntu1.1",
+        "1.15.9-0ubuntu1",
+        "1.15.8-0ubuntu1",
+        "1.15.7-0ubuntu1",
+        "1.15.6-0ubuntu2",
+        "1.15.6-0ubuntu1",
+        "1.15.5-0ubuntu4",
+        "1.15.5-0ubuntu3",
+        "1.15.5-0ubuntu1"
     ]
 }

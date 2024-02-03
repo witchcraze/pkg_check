@@ -29,5 +29,13 @@
         "ruby2.5 (2.5.5-2) unstable; urgency=medium",
         "ruby2.5 (2.5.5-1ubuntu1) disco; urgency=low",
         "ruby2.5 (2.5.5-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.5.5-4ubuntu2.1",
+        "2.5.5-4ubuntu2",
+        "2.5.5-4ubuntu1",
+        "2.5.5-3ubuntu1",
+        "2.5.5-2ubuntu1",
+        "2.5.5-1ubuntu1"
     ]
 }

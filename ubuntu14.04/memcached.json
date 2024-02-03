@@ -64,5 +64,16 @@
         "memcached (1.1.11-1) unstable; urgency=low",
         "memcached (1.1.10-1) unstable; urgency=low",
         "memcached (1.1.9-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.4.14-0ubuntu9.3",
+        "1.4.14-0ubuntu9.2",
+        "1.4.14-0ubuntu9.1",
+        "1.4.14-0ubuntu9",
+        "1.4.14-0ubuntu8",
+        "1.4.14-0ubuntu7",
+        "1.4.14-0ubuntu6",
+        "1.4.14-0ubuntu5",
+        "1.4.14-0ubuntu4"
     ]
 }

@@ -27,5 +27,15 @@
         "nginx (1.14.0-0ubuntu2) cosmic; urgency=medium",
         "nginx (1.14.0-0ubuntu1) bionic; urgency=medium",
         "nginx (1.13.12-0ubuntu1) bionic; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.15.5-0ubuntu2.1",
+        "1.15.5-0ubuntu1",
+        "1.15.4-0ubuntu1",
+        "1.15.3-0ubuntu1",
+        "1.15.2-0ubuntu2",
+        "1.15.2-0ubuntu1",
+        "1.14.0-0ubuntu2",
+        "1.14.0-0ubuntu1"
     ]
 }

@@ -48,5 +48,16 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.0.38-2ubuntu2.2",
+        "8.0.38-2ubuntu2",
+        "8.0.38-2ubuntu1",
+        "8.5.9-2",
+        "8.5.9-1",
+        "8.5.8-2",
+        "8.0.39-1",
+        "8.0.38-2",
+        "8.0.37-1"
     ]
 }

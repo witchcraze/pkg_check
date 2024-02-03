@@ -85,5 +85,16 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.5.39-1ubuntu1~18.10",
+        "8.5.39-1ubuntu1~18.04",
+        "8.5.38-2ubuntu1~18.04.1",
+        "8.5.34-1ubuntu1",
+        "8.5.32-1ubuntu2",
+        "8.5.32-1ubuntu1",
+        "8.5.30-1ubuntu3",
+        "8.5.30-1ubuntu2",
+        "8.5.30-1ubuntu1"
     ]
 }

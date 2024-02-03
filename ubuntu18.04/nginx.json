@@ -222,5 +222,23 @@
         "nginx (0.4.13-1) unstable; urgency=low",
         "nginx (0.4.12-1) unstable; urgency=low",
         "nginx (0.4.2-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.14.0-0ubuntu1.11",
+        "1.14.0-0ubuntu1.10",
+        "1.14.0-0ubuntu1.9",
+        "1.14.0-0ubuntu1.7",
+        "1.14.0-0ubuntu1.6",
+        "1.14.0-0ubuntu1.5",
+        "1.14.0-0ubuntu1.4",
+        "1.14.0-0ubuntu1.3",
+        "1.14.0-0ubuntu1.2",
+        "1.14.0-0ubuntu1.1",
+        "1.14.0-0ubuntu1",
+        "1.13.12-0ubuntu1",
+        "1.13.10-1ubuntu1",
+        "1.13.6-2ubuntu2",
+        "1.13.6-2ubuntu1",
+        "1.12.1-0ubuntu2"
     ]
 }

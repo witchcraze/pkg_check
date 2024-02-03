@@ -270,5 +270,13 @@
         "ssleay (0.6.6-1) unstable; urgency=low",
         "ssleay (0.6.4-2) unstable; urgency=low",
         "ssleay (0.6.4-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.0.1f-1ubuntu11.5",
+        "1.0.1f-1ubuntu11.4",
+        "1.0.1f-1ubuntu11.1",
+        "1.0.1f-1ubuntu11",
+        "1.0.1f-1ubuntu10",
+        "1.0.1f-1ubuntu9"
     ]
 }

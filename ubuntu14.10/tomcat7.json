@@ -103,5 +103,13 @@
         "tomcat6 (6.0.18-0ubuntu1) intrepid; urgency=low",
         "tomcat6 (6.0.16-1ubuntu1) intrepid; urgency=low",
         "tomcat6 (6.0.16-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "7.0.55-1ubuntu0.2",
+        "7.0.55-1",
+        "7.0.54-2",
+        "7.0.54-1",
+        "7.0.53-1",
+        "7.0.52-1"
     ]
 }

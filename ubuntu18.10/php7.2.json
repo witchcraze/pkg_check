@@ -28,5 +28,16 @@
         "php7.2 (7.2.5-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "php7.2 (7.2.3-1ubuntu1) bionic; urgency=medium",
         "php7.2 (7.2.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.2.19-0ubuntu0.18.10.1",
+        "7.2.17-0ubuntu0.18.10.1",
+        "7.2.15-0ubuntu0.18.10.2",
+        "7.2.15-0ubuntu0.18.10.1",
+        "7.2.10-0ubuntu1",
+        "7.2.7-0ubuntu2",
+        "7.2.7-0ubuntu1",
+        "7.2.5-0ubuntu0.18.04.1",
+        "7.2.3-1ubuntu1"
     ]
 }

@@ -30,5 +30,17 @@
         "openssl (1.1.1~~pre7-1) experimental; urgency=medium",
         "openssl (1.1.1~~pre6-2) experimental; urgency=medium",
         "openssl (1.1.1~~pre6-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.1.1-1ubuntu2.5",
+        "1.1.1-1ubuntu2.4",
+        "1.1.1-1ubuntu2.3",
+        "1.1.1-1ubuntu2.2",
+        "1.1.1-1ubuntu2.1",
+        "1.1.1-1ubuntu2",
+        "1.1.1-1ubuntu1",
+        "1.1.0h-4ubuntu1",
+        "1.1.0g-2ubuntu5",
+        "1.1.0g-2ubuntu4"
     ]
 }

@@ -132,5 +132,9 @@
         "nodejs (0.1.33-2) unstable; urgency=low",
         "nodejs (0.1.33-1) unstable; urgency=low",
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.2.6~dfsg-1ubuntu5",
+        "4.2.6~dfsg-1ubuntu4"
     ]
 }

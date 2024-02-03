@@ -113,5 +113,12 @@
         "vsftpd (0.9.1-1) unstable; urgency=low",
         "vsftpd (0.0.14-2) unstable; urgency=low",
         "vsftpd (0.0.14-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.0.2-17+deb8u1",
+        "3.0.2-17",
+        "3.0.2-14",
+        "3.0.2-3+deb8u1",
+        "3.0.2-3"
     ]
 }

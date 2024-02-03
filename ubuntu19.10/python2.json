@@ -36,5 +36,9 @@
         "python-defaults (2.7.14-4) unstable; urgency=medium",
         "python-defaults (2.7.14-3) unstable; urgency=medium",
         "python-defaults (2.7.14-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.7.17-1",
+        "2.7.16-1"
     ]
 }

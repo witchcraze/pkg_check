@@ -28,5 +28,11 @@
         "memcached (1.4.31-1) unstable; urgency=medium",
         "memcached (1.4.29-1) unstable; urgency=medium",
         "memcached (1.4.28-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.5.10-0ubuntu1.18.10.1",
+        "1.5.10-0ubuntu1",
+        "1.5.6-1",
+        "1.5.6-0ubuntu1"
     ]
 }

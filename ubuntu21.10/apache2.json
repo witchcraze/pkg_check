@@ -421,5 +421,19 @@
         "apache2 (2.0.20-2) unstable; urgency=low",
         "apache2 (2.0.20-1) unstable; urgency=low",
         "apache2 (2.0.18-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.4.48-3.1ubuntu3.5",
+        "2.4.48-3.1ubuntu3.4",
+        "2.4.48-3.1ubuntu3.3",
+        "2.4.48-3.1ubuntu3.2",
+        "2.4.48-3.1ubuntu3.1",
+        "2.4.48-3.1ubuntu3",
+        "2.4.48-3.1ubuntu2",
+        "2.4.48-3.1ubuntu1",
+        "2.4.48-3ubuntu1",
+        "2.4.46-4ubuntu3",
+        "2.4.46-4ubuntu2",
+        "2.4.46-4ubuntu1"
     ]
 }

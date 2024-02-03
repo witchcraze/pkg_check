@@ -27,5 +27,11 @@
         "openssl (1.0.2n-1ubuntu1) bionic; urgency=medium",
         "openssl1.0 (1.0.2n-1) unstable; urgency=medium",
         "openssl1.0 (1.0.2m-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.0.2n-1ubuntu6.2",
+        "1.0.2n-1ubuntu6.1",
+        "1.0.2n-1ubuntu6",
+        "1.0.2n-1ubuntu5"
     ]
 }

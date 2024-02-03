@@ -27,5 +27,8 @@
         "rabbitmq-server (3.5.4-1) unstable; urgency=medium",
         "rabbitmq-server (3.5.1-2) unstable; urgency=medium",
         "rabbitmq-server (3.5.1-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "3.6.10-1"
     ]
 }

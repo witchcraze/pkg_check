@@ -31,5 +31,10 @@
         "nodejs (10.15.1~dfsg-1) experimental; urgency=medium",
         "nodejs (10.15.0~dfsg-10) unstable; urgency=medium",
         "nodejs (10.15.0~dfsg-9) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "10.15.2~dfsg-2ubuntu1",
+        "10.15.2~dfsg-2",
+        "10.15.2~dfsg-1"
     ]
 }

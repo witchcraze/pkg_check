@@ -759,5 +759,8 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.7.4-3ubuntu12"
     ]
 }

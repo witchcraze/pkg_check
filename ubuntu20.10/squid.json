@@ -165,5 +165,17 @@
         "squid3 (3.0.PRE4-1) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-2) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.13-1ubuntu2.2",
+        "4.13-1ubuntu2.1",
+        "4.13-1ubuntu2",
+        "4.13-1ubuntu1",
+        "4.12-1ubuntu1",
+        "4.11-5ubuntu3",
+        "4.11-5ubuntu2",
+        "4.11-5ubuntu1",
+        "4.10-1ubuntu2",
+        "4.10-1ubuntu1"
     ]
 }

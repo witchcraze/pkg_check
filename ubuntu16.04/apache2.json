@@ -340,5 +340,29 @@
         "apache2 (2.0.20-2) unstable; urgency=low",
         "apache2 (2.0.20-1) unstable; urgency=low",
         "apache2 (2.0.18-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.4.18-2ubuntu3.17",
+        "2.4.18-2ubuntu3.15",
+        "2.4.18-2ubuntu3.14",
+        "2.4.18-2ubuntu3.13",
+        "2.4.18-2ubuntu3.12",
+        "2.4.18-2ubuntu3.10",
+        "2.4.18-2ubuntu3.9",
+        "2.4.18-2ubuntu3.8",
+        "2.4.18-2ubuntu3.7",
+        "2.4.18-2ubuntu3.5",
+        "2.4.18-2ubuntu3.4",
+        "2.4.18-2ubuntu3.3",
+        "2.4.18-2ubuntu3.2",
+        "2.4.18-2ubuntu3.1",
+        "2.4.18-2ubuntu3",
+        "2.4.18-2ubuntu2",
+        "2.4.18-2ubuntu1",
+        "2.4.18-1ubuntu1",
+        "2.4.17-3ubuntu1",
+        "2.4.17-2ubuntu1",
+        "2.4.17-1ubuntu1",
+        "2.4.12-2ubuntu2"
     ]
 }

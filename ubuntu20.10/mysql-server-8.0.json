@@ -486,5 +486,17 @@
         "mysql (3.20.29-1) unstable; urgency=low",
         "mysql (3.20.16beta-2) unstable; urgency=low",
         "mysql (3.20.16beta-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "8.0.25-0ubuntu0.20.10.1",
+        "8.0.23-0ubuntu0.20.10.1",
+        "8.0.22-0ubuntu0.20.10.2",
+        "8.0.21-1",
+        "8.0.21-0ubuntu4",
+        "8.0.21-0ubuntu3",
+        "8.0.21-0ubuntu2",
+        "8.0.21-0ubuntu1",
+        "8.0.20-0ubuntu1",
+        "8.0.19-0ubuntu5"
     ]
 }

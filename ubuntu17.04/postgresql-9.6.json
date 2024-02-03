@@ -37,5 +37,13 @@
         "postgresql-9.6 (9.6~beta1-3) experimental; urgency=medium",
         "postgresql-9.6 (9.6~beta1-2) experimental; urgency=medium",
         "postgresql-9.6 (9.6~beta1-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "9.6.6-0ubuntu0.17.04",
+        "9.6.5-0ubuntu0.17.04",
+        "9.6.4-0ubuntu0.17.04.1",
+        "9.6.3-0ubuntu0.17.04",
+        "9.6.2-1",
+        "9.6.1-2"
     ]
 }

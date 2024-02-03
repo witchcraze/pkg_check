@@ -27,5 +27,14 @@
         "redis (2:2.8.7-2) unstable; urgency=low",
         "redis (2:2.8.7-1) unstable; urgency=low",
         "redis (2:2.8.6-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2:2.8.13-3",
+        "2:2.8.13-2",
+        "2:2.8.13-1",
+        "2:2.8.12-1",
+        "2:2.8.11-1",
+        "2:2.8.8-2",
+        "2:2.8.4-2"
     ]
 }

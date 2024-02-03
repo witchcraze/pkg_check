@@ -61,5 +61,16 @@
         "php7.1 (7.1.0~alpha3-1) experimental; urgency=medium",
         "php7.1 (7.1.0~alpha2-1) experimental; urgency=medium",
         "php7.1 (7.1.0~alpha1-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "7.1.17-0ubuntu0.17.10.1",
+        "7.1.15-0ubuntu0.17.10.1",
+        "7.1.11-0ubuntu0.17.10.1",
+        "7.1.8-1ubuntu1",
+        "7.1.6-2ubuntu1",
+        "7.1.5-1ubuntu1",
+        "7.1.4-2ubuntu1",
+        "7.1.1-1",
+        "7.1.4-2"
     ]
 }

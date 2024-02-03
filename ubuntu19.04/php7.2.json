@@ -28,5 +28,19 @@
         "php7.2 (7.2.15-0ubuntu1) disco; urgency=medium",
         "php7.2 (7.2.11-3build2) disco; urgency=medium",
         "php7.2 (7.2.11-3build1) disco; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.2.24-0ubuntu0.19.04.2",
+        "7.2.24-0ubuntu0.19.04.1",
+        "7.2.19-0ubuntu0.19.04.2",
+        "7.2.19-0ubuntu0.19.04.1",
+        "7.2.17-0ubuntu0.19.04.1",
+        "7.2.15-0ubuntu3",
+        "7.2.15-0ubuntu2",
+        "7.2.15-0ubuntu1",
+        "7.2.11-3build2",
+        "7.2.11-3build1",
+        "7.2.11-3",
+        "7.2.10-0ubuntu1"
     ]
 }

@@ -120,5 +120,14 @@
         "squid3 (3.0.PRE4-1) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-2) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.3.8-1ubuntu14",
+        "3.3.8-1ubuntu13",
+        "3.3.8-1ubuntu12",
+        "3.3.8-1ubuntu11",
+        "3.3.8-1ubuntu10",
+        "3.3.8-1ubuntu9",
+        "3.3.8-1ubuntu8"
     ]
 }

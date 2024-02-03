@@ -31,5 +31,9 @@
         "vsftpd (3.0.2-8) experimental; urgency=low",
         "vsftpd (3.0.2-7) experimental; urgency=low",
         "vsftpd (3.0.2-6) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.0.2-14ubuntu1",
+        "3.0.2-1ubuntu2"
     ]
 }

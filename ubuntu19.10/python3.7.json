@@ -29,5 +29,20 @@
         "python3.7 (3.7.4-3) unstable; urgency=medium",
         "python3.7 (3.7.4-2) unstable; urgency=medium",
         "python3.7 (3.7.4-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "3.7.5-2~19.10ubuntu1",
+        "3.7.5-2~19.10",
+        "3.7.5-1ubuntu1",
+        "3.7.5~rc1-2",
+        "3.7.5~rc1-1",
+        "3.7.4-4",
+        "3.7.4-3",
+        "3.7.4-2ubuntu1",
+        "3.7.4-2",
+        "3.7.4-1",
+        "3.7.4~rc2-1",
+        "3.7.4~rc1-1",
+        "3.7.3-2"
     ]
 }

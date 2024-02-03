@@ -107,5 +107,20 @@
         "nodejs (0.1.33-2) unstable; urgency=low",
         "nodejs (0.1.33-1) unstable; urgency=low",
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "0.10.29~dfsg-2",
+        "0.10.29~dfsg-1.1",
+        "0.10.29~dfsg-1",
+        "0.10.28~dfsg-2",
+        "0.10.26~dfsg1-1",
+        "0.10.25~dfsg2-2",
+        "0.10.24~dfsg1-1",
+        "0.10.23~dfsg1-3",
+        "0.10.22~dfsg1-2",
+        "0.10.21~dfsg1-1",
+        "0.10.20~dfsg1-1",
+        "0.10.18~dfsg1-1",
+        "0.10.15~dfsg1-4"
     ]
 }

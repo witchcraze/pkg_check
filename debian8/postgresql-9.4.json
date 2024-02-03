@@ -48,5 +48,22 @@
         "postgresql-9.4 (9.4~beta2-1) unstable; urgency=low",
         "postgresql-9.4 (9.4~beta1-2) experimental; urgency=medium",
         "postgresql-9.4 (9.4~beta1-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "9.4.18-0+deb8u1",
+        "9.4.15-0+deb8u1",
+        "9.4.12-0+deb8u1",
+        "9.4.11-0+deb8u2",
+        "9.4.10-0+deb8u1",
+        "9.4.9-0+deb8u1",
+        "9.4.8-0+deb8u1",
+        "9.4.5-0+deb8u1",
+        "9.4.4-0+deb8u1",
+        "9.4.3-0+deb8u1",
+        "9.4.1-1",
+        "9.4.0-1",
+        "9.4~rc1-1",
+        "9.4~beta3-3",
+        "9.4~beta2-1"
     ]
 }

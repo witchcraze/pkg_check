@@ -421,5 +421,9 @@
         "gcc-4.9 (4.9.2-7ubuntu1) vivid; urgency=medium",
         "gcc-4.9 (4.9.2-7) unstable; urgency=medium",
         "gcc-4.9 (4.9.2-6ubuntu1) vivid; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.5.0-6ubuntu4",
+        "7.5.0-6ubuntu3"
     ]
 }

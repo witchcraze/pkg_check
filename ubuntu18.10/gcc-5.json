@@ -30,5 +30,15 @@
         "gcc-5 (5.5.0-10ubuntu1) bionic; urgency=medium",
         "gcc-5 (5.5.0-10) unstable; urgency=medium",
         "gcc-5 (5.5.0-9) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.5.0-12ubuntu8",
+        "5.5.0-12ubuntu7",
+        "5.5.0-12ubuntu6",
+        "5.5.0-12ubuntu5",
+        "5.5.0-12ubuntu4",
+        "5.5.0-12ubuntu3",
+        "5.5.0-12ubuntu2",
+        "5.5.0-12ubuntu1"
     ]
 }

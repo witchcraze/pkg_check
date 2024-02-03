@@ -28,5 +28,12 @@
         "ruby2.0 (2.0.0.484-1ubuntu2) trusty; urgency=medium",
         "ruby2.0 (2.0.0.484-1ubuntu1) trusty; urgency=low",
         "ruby2.0 (2.0.0.484-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.0.0.484+really457-3ubuntu1.2",
+        "2.0.0.484+really457-3ubuntu1.1",
+        "2.0.0.484+really457-3ubuntu1",
+        "2.0.0.484-1ubuntu3",
+        "2.0.0.484-1ubuntu2"
     ]
 }

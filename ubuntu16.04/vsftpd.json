@@ -168,5 +168,12 @@
         "vsftpd (0.9.1-1) unstable; urgency=low",
         "vsftpd (0.0.14-2) unstable; urgency=low",
         "vsftpd (0.0.14-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.0.3-3ubuntu2",
+        "3.0.3-3ubuntu1",
+        "3.0.3-2ubuntu1",
+        "3.0.3-1ubuntu1",
+        "3.0.2-20ubuntu1"
     ]
 }

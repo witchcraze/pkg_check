@@ -177,5 +177,9 @@
         "python-defaults (2.3.4-1) unstable; urgency=low",
         "python-defaults (2.3.3-7) unstable; urgency=low",
         "python-defaults (2.3.3-6) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.8.6-0ubuntu1",
+        "3.8.2-0ubuntu2"
     ]
 }

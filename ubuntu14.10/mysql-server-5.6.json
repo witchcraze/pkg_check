@@ -33,5 +33,15 @@
         "mysql-5.5 (5.5.25+dfsg-2) quantal; urgency=low",
         "mysql-5.5 (5.5.25+dfsg-1) experimental; urgency=low",
         "mysql-5.5 (5.5.23-2) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.6.19-1~exp1ubuntu2.1",
+        "5.6.19-1~exp1ubuntu2",
+        "5.6.19-1~exp1ubuntu1",
+        "5.6.19-1~exp1ubuntu1~ppa1",
+        "5.6.19-1~exp1",
+        "5.6.17-1~exp1build1",
+        "5.6.17-1~exp1",
+        "5.6.16-1~exp1"
     ]
 }

@@ -31,5 +31,10 @@
         "vsftpd (3.0.3-4) unstable; urgency=medium",
         "vsftpd (3.0.3-3) unstable; urgency=low",
         "vsftpd (3.0.3-2) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "3.0.3-11",
+        "3.0.3-10",
+        "3.0.3-9build1"
     ]
 }

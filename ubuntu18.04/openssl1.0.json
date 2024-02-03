@@ -334,5 +334,24 @@
         "ssleay (0.6.6-1) unstable; urgency=low",
         "ssleay (0.6.4-2) unstable; urgency=low",
         "ssleay (0.6.4-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.0.2n-1ubuntu5.13",
+        "1.0.2n-1ubuntu5.12",
+        "1.0.2n-1ubuntu5.11",
+        "1.0.2n-1ubuntu5.10",
+        "1.0.2n-1ubuntu5.9",
+        "1.0.2n-1ubuntu5.8",
+        "1.0.2n-1ubuntu5.7",
+        "1.0.2n-1ubuntu5.6",
+        "1.0.2n-1ubuntu5.5",
+        "1.0.2n-1ubuntu5.4",
+        "1.0.2n-1ubuntu5.3",
+        "1.0.2n-1ubuntu5.2",
+        "1.0.2n-1ubuntu5.1",
+        "1.0.2n-1ubuntu5",
+        "1.0.2n-1ubuntu4",
+        "1.0.2n-1ubuntu3",
+        "1.0.2n-1ubuntu2"
     ]
 }

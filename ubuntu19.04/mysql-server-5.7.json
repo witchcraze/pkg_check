@@ -36,5 +36,15 @@
         "mysql-5.7 (5.7.23-2) unstable; urgency=medium",
         "mysql-5.7 (5.7.23-1) unstable; urgency=high (security fixes)",
         "mysql-5.7 (5.7.22-1) unstable; urgency=high (security fixes)"
+    ],
+    "publishinghistory": [
+        "5.7.28-0ubuntu0.19.04.2",
+        "5.7.27-0ubuntu0.19.04.1",
+        "5.7.26-0ubuntu0.19.04.1",
+        "5.7.25-1",
+        "5.7.24-3",
+        "5.7.24-2",
+        "5.7.24-0ubuntu0.18.10.1",
+        "5.7.23-2ubuntu1"
     ]
 }

@@ -31,5 +31,26 @@
         "gcc-7 (7.3.0-30) unstable; urgency=medium",
         "gcc-7 (7.3.0-29) unstable; urgency=medium",
         "gcc-7 (7.3.0-28ubuntu1) cosmic; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.4.0-1ubuntu1~18.10.1",
+        "7.4.0-1ubuntu1~18.10",
+        "7.3.0-29ubuntu1",
+        "7.3.0-28ubuntu1",
+        "7.3.0-27ubuntu1",
+        "7.3.0-26ubuntu1",
+        "7.3.0-25ubuntu1",
+        "7.3.0-24ubuntu1",
+        "7.3.0-23ubuntu2",
+        "7.3.0-23ubuntu1",
+        "7.3.0-22ubuntu1",
+        "7.3.0-21ubuntu1",
+        "7.3.0-20ubuntu1",
+        "7.3.0-19ubuntu2",
+        "7.3.0-19ubuntu1",
+        "7.3.0-18ubuntu2",
+        "7.3.0-18ubuntu1",
+        "7.3.0-17ubuntu1",
+        "7.3.0-16ubuntu3"
     ]
 }

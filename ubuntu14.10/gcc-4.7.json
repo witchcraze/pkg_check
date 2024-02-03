@@ -30,5 +30,12 @@
         "gcc-4.7 (4.7.3-13) unstable; urgency=medium",
         "gcc-4.7 (4.7.3-12ubuntu1) trusty; urgency=medium",
         "gcc-4.7 (4.7.3-12) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "4.7.4-2ubuntu1",
+        "4.7.4-1ubuntu2",
+        "4.7.4-1ubuntu1",
+        "4.7.3-14ubuntu1",
+        "4.7.3-12ubuntu1"
     ]
 }

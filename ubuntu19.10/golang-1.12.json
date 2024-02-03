@@ -27,5 +27,17 @@
         "golang-1.12 (1.12.8-1) unstable; urgency=medium",
         "golang-1.12 (1.12.7-3ubuntu1) eoan; urgency=low",
         "golang-1.12 (1.12.7-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.12.10-1ubuntu1",
+        "1.12.9-2ubuntu1",
+        "1.12.9-1ubuntu1",
+        "1.12.8-1ubuntu1",
+        "1.12.7-3ubuntu1",
+        "1.12.7-2ubuntu1",
+        "1.12.7-1ubuntu1",
+        "1.12.5-1ubuntu1",
+        "1.12.4-1ubuntu1",
+        "1.12-1ubuntu1"
     ]
 }

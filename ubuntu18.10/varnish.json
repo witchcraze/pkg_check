@@ -29,5 +29,10 @@
         "varnish (5.0.0-5) unstable; urgency=medium",
         "varnish (5.0.0-4) unstable; urgency=medium",
         "varnish (5.0.0-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.2.1-1build2",
+        "5.2.1-1build1",
+        "5.2.1-1"
     ]
 }

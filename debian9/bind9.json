@@ -11,6 +11,7 @@
         "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
         "Replaces": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind, bind9utils (<< 1:9.9.3.dfsg.P2-3), dnsutils (<< 1:9.1.0-3)",
         "Download-Size": "550 kB",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
@@ -251,5 +252,28 @@
         "bind9 (1:9.1.0-3) unstable; urgency=low",
         "bind9 (1:9.1.0-2) unstable; urgency=low",
         "bind9 (1:9.1.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1:9.10.3.dfsg.P4-12.3+deb9u6",
+        "1:9.10.3.dfsg.P4-12.3+deb9u5",
+        "1:9.10.3.dfsg.P4-12.3+deb9u4",
+        "1:9.10.3.dfsg.P4-12.3+deb9u3",
+        "1:9.10.3.dfsg.P4-12.3+deb9u1",
+        "1:9.10.3.dfsg.P4-12.3",
+        "1:9.10.3.dfsg.P4-12.2",
+        "1:9.10.3.dfsg.P4-12.1",
+        "1:9.10.3.dfsg.P4-12",
+        "1:9.10.3.dfsg.P4-11.1",
+        "1:9.10.3.dfsg.P4-11",
+        "1:9.10.3.dfsg.P4-10.1",
+        "1:9.10.3.dfsg.P4-10",
+        "1:9.10.3.dfsg.P4-9",
+        "1:9.10.3.dfsg.P4-8",
+        "1:9.10.3.dfsg.P4-7",
+        "1:9.9.5.dfsg-12.1",
+        "1:9.9.5.dfsg-12",
+        "1:9.9.5.dfsg-11",
+        "1:9.9.5.dfsg-10",
+        "1:9.9.5.dfsg-9"
     ]
 }

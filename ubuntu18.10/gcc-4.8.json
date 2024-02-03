@@ -29,5 +29,9 @@
         "gcc-4.8 (4.8.5-4ubuntu1) xenial; urgency=medium",
         "gcc-4.8 (4.8.5-4) unstable; urgency=medium",
         "gcc-4.8 (4.8.5-3ubuntu3) xenial; urgency=medium"
+    ],
+    "publishinghistory": [
+        "4.8.5-4ubuntu9",
+        "4.8.5-4ubuntu8"
     ]
 }

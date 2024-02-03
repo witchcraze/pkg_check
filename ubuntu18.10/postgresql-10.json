@@ -32,5 +32,16 @@
         "postgresql-10 (10.3-2) unstable; urgency=medium",
         "postgresql-10 (10.3-1) unstable; urgency=medium",
         "postgresql-10 (10.2-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "10.9-0ubuntu0.18.10.1",
+        "10.8-0ubuntu0.18.10.1",
+        "10.7-0ubuntu0.18.10.1",
+        "10.6-0ubuntu0.18.10.1",
+        "10.5-1",
+        "10.4-2",
+        "10.4-1",
+        "10.3-2",
+        "10.3-1"
     ]
 }

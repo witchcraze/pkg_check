@@ -467,5 +467,33 @@
         "gcc-4.9 (4.9.2-7ubuntu1) vivid; urgency=medium",
         "gcc-4.9 (4.9.2-7) unstable; urgency=medium",
         "gcc-4.9 (4.9.2-6ubuntu1) vivid; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.4.0-1ubuntu1~18.04",
+        "8.3.0-26ubuntu1~18.04",
+        "8.3.0-6ubuntu1~18.04.1",
+        "8.3.0-6ubuntu1~18.04",
+        "8.3.0-5ubuntu1~18.04",
+        "8.3.0-4ubuntu1~18.04",
+        "8.2.0-1ubuntu2~18.04",
+        "8-20180414-1ubuntu2",
+        "8-20180414-1ubuntu1",
+        "8-20180408-0ubuntu1",
+        "8-20180406-0ubuntu1",
+        "8-20180402-1ubuntu1",
+        "8-20180331-1ubuntu1",
+        "8-20180321-1ubuntu1",
+        "8-20180319-1ubuntu2",
+        "8-20180319-1ubuntu1",
+        "8-20180312-2ubuntu1",
+        "8-20180312-1ubuntu1",
+        "8-20180310-1ubuntu1",
+        "8-20180309-0ubuntu1",
+        "8-20180308-1ubuntu1",
+        "8-20180218-1ubuntu1",
+        "8-20180208-0ubuntu1",
+        "8-20180207-2ubuntu1",
+        "8-20180207-1ubuntu1",
+        "8-20180206-0ubuntu1"
     ]
 }

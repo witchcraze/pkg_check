@@ -31,5 +31,19 @@
         "gcc-7 (7.4.0-5) unstable; urgency=medium",
         "gcc-7 (7.4.0-4ubuntu1) disco; urgency=medium",
         "gcc-7 (7.4.0-4) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.4.0-8ubuntu1",
+        "7.4.0-7ubuntu1",
+        "7.4.0-6ubuntu1",
+        "7.4.0-5ubuntu1",
+        "7.4.0-4ubuntu1",
+        "7.4.0-3ubuntu2",
+        "7.4.0-3ubuntu1",
+        "7.4.0-2ubuntu1",
+        "7.4.0-1ubuntu1",
+        "7.3.0-31ubuntu1",
+        "7.3.0-30ubuntu1",
+        "7.3.0-29ubuntu1"
     ]
 }

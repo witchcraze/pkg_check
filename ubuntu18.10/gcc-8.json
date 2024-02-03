@@ -33,5 +33,33 @@
         "gcc-8 (8.3.0-4) unstable; urgency=medium",
         "gcc-8 (8.3.0-3ubuntu1) disco; urgency=medium",
         "gcc-8 (8.3.0-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.3.0-6ubuntu1~18.10.1",
+        "8.3.0-6ubuntu1~18.10",
+        "8.2.0-7ubuntu1",
+        "8.2.0-6ubuntu1",
+        "8.2.0-5ubuntu2",
+        "8.2.0-5ubuntu1",
+        "8.2.0-4ubuntu1",
+        "8.2.0-3ubuntu1",
+        "8.2.0-2ubuntu1",
+        "8.2.0-1ubuntu2",
+        "8.2.0-1ubuntu1",
+        "8.1.0-12ubuntu1",
+        "8.1.0-11ubuntu1",
+        "8.1.0-10ubuntu1",
+        "8.1.0-9ubuntu1",
+        "8.1.0-8ubuntu1",
+        "8.1.0-6ubuntu1",
+        "8.1.0-5ubuntu1",
+        "8.1.0-4ubuntu1",
+        "8.1.0-3ubuntu2",
+        "8.1.0-3ubuntu1",
+        "8.1.0-2ubuntu1",
+        "8.1.0-1ubuntu3",
+        "8.1.0-1ubuntu2",
+        "8.1.0-1ubuntu1",
+        "8-20180414-1ubuntu2"
     ]
 }

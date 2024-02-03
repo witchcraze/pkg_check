@@ -29,5 +29,18 @@
         "haproxy (1.8.17-1) unstable; urgency=medium",
         "haproxy (1.8.16-2) unstable; urgency=high",
         "haproxy (1.8.16-1) unstable; urgency=high"
+    ],
+    "publishinghistory": [
+        "1.8.19-1ubuntu1.3",
+        "1.8.19-1ubuntu1.2",
+        "1.8.19-1ubuntu1.1",
+        "1.8.19-1ubuntu1",
+        "1.8.17-1ubuntu1",
+        "1.8.17-1",
+        "1.8.16-2",
+        "1.8.16-1",
+        "1.8.15-1",
+        "1.8.14-1",
+        "1.8.13-2build1"
     ]
 }

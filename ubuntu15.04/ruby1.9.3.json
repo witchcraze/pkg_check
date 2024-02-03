@@ -116,5 +116,8 @@
         "ruby1.9 (1.9.0+20050412-2) unstable; urgency=high",
         "ruby1.9 (1.9.0+20050412-1) unstable; urgency=low",
         "ruby1.9 (1.9.0+20050412-0+1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.9.3.484-2ubuntu2"
     ]
 }

@@ -38,5 +38,18 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.0.14-1+deb8u11",
+        "8.0.14-1+deb8u10",
+        "8.0.14-1+deb8u8",
+        "8.0.14-1+deb8u6",
+        "8.0.14-1+deb8u2",
+        "8.0.14-1+deb8u1",
+        "8.0.14-1",
+        "8.0.12-1",
+        "8.0.9-1",
+        "8.0.8-1",
+        "8.0.5-1"
     ]
 }

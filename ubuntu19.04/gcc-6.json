@@ -30,5 +30,9 @@
         "gcc-6 (6.4.0-21) unstable; urgency=medium",
         "gcc-6 (6.4.0-20ubuntu1) cosmic; urgency=medium",
         "gcc-6 (6.4.0-20) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "6.5.0-2ubuntu1",
+        "6.4.0-22ubuntu1"
     ]
 }

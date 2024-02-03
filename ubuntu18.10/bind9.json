@@ -15,6 +15,7 @@
         "Task": "dns-server",
         "Supported": "9m",
         "Download-Size": "410 kB",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
@@ -29,5 +30,18 @@
         "bind9 (1:9.11.4+dfsg-3ubuntu1) cosmic; urgency=medium",
         "bind9 (1:9.11.4+dfsg-3) unstable; urgency=medium",
         "bind9 (1:9.11.4+dfsg-2) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1:9.11.4+dfsg-3ubuntu5.4",
+        "1:9.11.4+dfsg-3ubuntu5.3",
+        "1:9.11.4+dfsg-3ubuntu5.1",
+        "1:9.11.4+dfsg-3ubuntu5",
+        "1:9.11.4+dfsg-3ubuntu4",
+        "1:9.11.4+dfsg-3ubuntu3",
+        "1:9.11.4+dfsg-3ubuntu2",
+        "1:9.11.4+dfsg-3ubuntu1",
+        "1:9.11.3+dfsg-2ubuntu1",
+        "1:9.11.3+dfsg-1ubuntu2",
+        "1:9.11.3+dfsg-1ubuntu1"
     ]
 }

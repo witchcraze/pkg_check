@@ -138,5 +138,14 @@
         "mariadb-10.0 (10.0.14-2) unstable; urgency=low",
         "mariadb-10.0 (10.0.14-1) experimental; urgency=low",
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "1:10.3.29-0ubuntu0.20.10.1",
+        "1:10.3.25-0ubuntu1",
+        "1:10.3.24-2",
+        "1:10.3.24-1",
+        "1:10.3.23-1",
+        "1:10.3.22-1ubuntu2",
+        "1:10.3.22-1ubuntu1"
     ]
 }

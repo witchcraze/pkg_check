@@ -106,5 +106,12 @@
         "varnish (1.0.1-3) unstable; urgency=low",
         "varnish (1.0.1-2) unstable; urgency=low",
         "varnish (1.0.1-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "6.1.1-1+deb10u3",
+        "6.1.1-1+deb10u1",
+        "6.1.1-1",
+        "6.1.0-3",
+        "5.0.0-7"
     ]
 }

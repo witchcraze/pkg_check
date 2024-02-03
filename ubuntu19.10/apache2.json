@@ -35,5 +35,13 @@
         "apache2 (2.4.38-3) unstable; urgency=high",
         "apache2 (2.4.38-2ubuntu3) eoan; urgency=medium",
         "apache2 (2.4.38-2ubuntu2) disco; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.4.41-1ubuntu1",
+        "2.4.39-0ubuntu1",
+        "2.4.38-3ubuntu2",
+        "2.4.38-3ubuntu1",
+        "2.4.38-2ubuntu3",
+        "2.4.38-2ubuntu2"
     ]
 }

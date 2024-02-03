@@ -153,5 +153,25 @@
         "nodejs (0.1.33-2) unstable; urgency=low",
         "nodejs (0.1.33-1) unstable; urgency=low",
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.8.2~dfsg-1",
+        "4.7.2~dfsg-2",
+        "4.7.2~dfsg-1",
+        "4.6.1~dfsg-1",
+        "4.6.0~dfsg-2",
+        "4.3.1~dfsg-3",
+        "4.3.1~dfsg-1",
+        "4.3.0~dfsg-2",
+        "4.2.6~dfsg-1",
+        "4.2.4~dfsg-2",
+        "4.2.4~dfsg-1",
+        "4.2.3~dfsg-2",
+        "4.2.2~dfsg-1",
+        "4.2.1~dfsg-2",
+        "4.1.1~dfsg-3",
+        "4.1.1~dfsg-2",
+        "0.10.38~dfsg-1",
+        "0.10.29~dfsg-2"
     ]
 }

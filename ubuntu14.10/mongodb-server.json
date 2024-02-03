@@ -28,5 +28,15 @@
         "mongodb (1:2.4.10-1) unstable; urgency=low",
         "mongodb (1:2.4.9-1ubuntu3) utopic; urgency=high",
         "mongodb (1:2.4.9-1ubuntu2) trusty; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1:2.6.3-0ubuntu5",
+        "1:2.6.3-0ubuntu4",
+        "1:2.6.3-0ubuntu3",
+        "1:2.6.3-0ubuntu2",
+        "1:2.6.3-0ubuntu1",
+        "1:2.4.10-1ubuntu1",
+        "1:2.4.9-1ubuntu3",
+        "1:2.4.9-1ubuntu2"
     ]
 }

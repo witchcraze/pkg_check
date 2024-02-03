@@ -31,5 +31,20 @@
         "nodejs (10.15.0~dfsg-9) unstable; urgency=medium",
         "nodejs (10.15.0~dfsg-8) unstable; urgency=medium",
         "nodejs (10.15.0~dfsg-7) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "10.15.2~dfsg-1",
+        "10.15.1~dfsg-5build1",
+        "10.15.1~dfsg-5",
+        "10.15.1~dfsg-2",
+        "10.15.0~dfsg-10",
+        "10.15.0~dfsg-9",
+        "10.15.0~dfsg-8",
+        "8.11.4~dfsg-0ubuntu6",
+        "8.11.4~dfsg-0ubuntu5",
+        "8.11.4~dfsg-0ubuntu4",
+        "8.11.4~dfsg-0ubuntu3",
+        "8.11.4~dfsg-0ubuntu2",
+        "8.11.4~dfsg-0ubuntu1"
     ]
 }

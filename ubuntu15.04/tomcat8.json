@@ -26,5 +26,10 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.0.14-1+deb8u1build0.15.04.1",
+        "8.0.14-1",
+        "8.0.9-1"
     ]
 }

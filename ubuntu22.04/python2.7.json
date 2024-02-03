@@ -426,6 +426,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.18-13ubuntu1.2",
         "2.7.18-13ubuntu1.1",
         "2.7.18-13ubuntu1",
         "2.7.18-13",

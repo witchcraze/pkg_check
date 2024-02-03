@@ -471,5 +471,14 @@
         "mysql (3.20.29-1) unstable; urgency=low",
         "mysql (3.20.16beta-2) unstable; urgency=low",
         "mysql (3.20.16beta-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.6.31-0ubuntu0.15.10.1",
+        "5.6.30-0ubuntu0.15.10.1",
+        "5.6.28-0ubuntu0.15.10.1",
+        "5.6.27-0ubuntu1",
+        "5.6.25-0ubuntu1",
+        "5.6.24-0ubuntu3",
+        "5.6.24-0ubuntu2"
     ]
 }

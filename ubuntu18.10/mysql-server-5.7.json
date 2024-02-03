@@ -36,5 +36,16 @@
         "mysql-5.7 (5.7.23-0ubuntu1) cosmic; urgency=medium",
         "mysql-5.7 (5.7.22-1) unstable; urgency=high (security fixes)",
         "mysql-5.7 (5.7.22-0ubuntu18.04.1) bionic-security; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.7.26-0ubuntu0.18.10.1",
+        "5.7.25-0ubuntu0.18.10.2",
+        "5.7.24-0ubuntu0.18.10.1",
+        "5.7.23-2ubuntu1",
+        "5.7.23-1",
+        "5.7.23-0ubuntu2",
+        "5.7.23-0ubuntu1",
+        "5.7.22-0ubuntu18.04.1",
+        "5.7.21-1ubuntu1"
     ]
 }

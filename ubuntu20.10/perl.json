@@ -376,5 +376,14 @@
         "perl (5.003.07-3) unstable; urgency=low",
         "perl (5.003.07-2) unstable; urgency=low",
         "perl (5.003.07-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.30.3-4",
+        "5.30.3-3",
+        "5.30.3-2",
+        "5.30.3-1",
+        "5.30.2-1",
+        "5.30.0-10",
+        "5.30.0-9build1"
     ]
 }

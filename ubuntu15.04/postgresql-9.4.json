@@ -32,5 +32,16 @@
         "postgresql-9.4 (9.4~beta2-1) unstable; urgency=low",
         "postgresql-9.4 (9.4~beta1-2) experimental; urgency=medium",
         "postgresql-9.4 (9.4~beta1-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "9.4.5-0ubuntu0.15.04",
+        "9.4.4-0ubuntu0.15.04",
+        "9.4.3-0ubuntu0.15.04",
+        "9.4.2-0ubuntu0.15.04",
+        "9.4.1-1",
+        "9.4.0-1",
+        "9.4~rc1-1",
+        "9.4~beta3-3",
+        "9.4~beta3-2"
     ]
 }

@@ -193,5 +193,12 @@
         "squid3 (3.0.PRE4-1) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-2) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.6-1ubuntu3",
+        "5.6-1ubuntu2",
+        "5.6-1ubuntu1",
+        "5.2-1ubuntu5",
+        "5.2-1ubuntu4"
     ]
 }

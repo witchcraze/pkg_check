@@ -821,5 +821,27 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.8.4-1ubuntu15",
+        "4.8.4-1ubuntu14",
+        "4.8.4-1ubuntu10",
+        "4.8.4-1ubuntu13",
+        "4.8.4-1ubuntu12",
+        "4.8.4-1ubuntu11",
+        "4.8.4-1ubuntu9",
+        "4.8.4-1ubuntu8",
+        "4.8.4-1ubuntu7",
+        "4.8.4-1ubuntu6",
+        "4.8.4-1ubuntu5",
+        "4.8.4-1ubuntu4",
+        "4.8.4-1ubuntu3",
+        "4.8.4-1ubuntu2",
+        "4.8.4-1ubuntu1",
+        "4.8.3-18ubuntu2",
+        "4.8.3-18ubuntu1",
+        "4.8.3-17ubuntu1",
+        "4.8.3-16ubuntu1",
+        "4.8.3-12ubuntu3"
     ]
 }

@@ -864,5 +864,18 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "4.9.3-13ubuntu2",
+        "4.9.3-13ubuntu1",
+        "4.9.3-12ubuntu1",
+        "4.9.3-11ubuntu2",
+        "4.9.3-11ubuntu1",
+        "4.9.3-9ubuntu1",
+        "4.9.3-8ubuntu2",
+        "4.9.3-8ubuntu1",
+        "4.9.3-6ubuntu2",
+        "4.9.3-6ubuntu1",
+        "4.9.3-5ubuntu1"
     ]
 }

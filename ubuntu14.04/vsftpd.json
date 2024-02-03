@@ -32,5 +32,9 @@
         "vsftpd (3.0.0-1) unstable; urgency=low",
         "vsftpd (2.3.5-3ubuntu1) quantal; urgency=low",
         "vsftpd (2.3.5-3) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "3.0.2-1ubuntu2.14.04.1",
+        "3.0.2-1ubuntu2"
     ]
 }

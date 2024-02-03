@@ -29,5 +29,24 @@
         "python3.6 (3.6.6-4) unstable; urgency=medium",
         "python3.6 (3.6.6-3) unstable; urgency=medium",
         "python3.6 (3.6.6-2) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "3.6.8-1~18.10",
+        "3.6.7-1~18.10",
+        "3.6.7~rc1-1",
+        "3.6.6-4ubuntu1",
+        "3.6.6-4build1",
+        "3.6.6-4",
+        "3.6.6-2",
+        "3.6.6-1",
+        "3.6.6~rc1-4",
+        "3.6.6~rc1-3",
+        "3.6.6~rc1-1",
+        "3.6.5-10",
+        "3.6.5-9ubuntu1",
+        "3.6.5-8",
+        "3.6.5-6ubuntu1",
+        "3.6.5-6",
+        "3.6.5-3"
     ]
 }

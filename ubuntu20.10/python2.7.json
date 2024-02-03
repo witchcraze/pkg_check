@@ -414,5 +414,11 @@
         "python2 (2.0-3) unstable; urgency=low",
         "python2 (2.0-2) unstable; urgency=low",
         "python2 (2.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.7.18-1build2",
+        "2.7.18-1build1",
+        "2.7.18-1",
+        "2.7.18~rc1-2"
     ]
 }

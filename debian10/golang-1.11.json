@@ -146,5 +146,14 @@
         "golang (2011.02.15-2) unstable; urgency=low",
         "golang (2011.02.15-1) unstable; urgency=low",
         "golang (2011.02.01.1-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.11.6-1+deb10u4",
+        "1.11.6-1+deb10u3",
+        "1.11.6-1+deb10u1",
+        "1.11.6-1",
+        "1.11.5-1",
+        "1.11.4-4",
+        "1.11.2-2"
     ]
 }

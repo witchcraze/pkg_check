@@ -477,5 +477,18 @@
         "php4 (4.0b3-3) unstable; urgency=low",
         "php4 (4.0b3-2) unstable; urgency=low",
         "php4 (4.0b3-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.6.4+dfsg-4ubuntu6.4",
+        "5.6.4+dfsg-4ubuntu6.3",
+        "5.6.4+dfsg-4ubuntu6.2",
+        "5.6.4+dfsg-4ubuntu6",
+        "5.6.4+dfsg-4ubuntu5",
+        "5.6.4+dfsg-4ubuntu4",
+        "5.6.4+dfsg-4ubuntu3",
+        "5.6.4+dfsg-4ubuntu2",
+        "5.6.4+dfsg-4ubuntu1",
+        "5.5.12+dfsg-2ubuntu5",
+        "5.5.12+dfsg-2ubuntu4"
     ]
 }

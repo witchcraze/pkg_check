@@ -31,5 +31,17 @@
         "python2.7 (2.7.15-6) unstable; urgency=medium",
         "python2.7 (2.7.15-5) unstable; urgency=medium",
         "python2.7 (2.7.15-4) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.7.16-2~18.10",
+        "2.7.15-4ubuntu4",
+        "2.7.15-4ubuntu3",
+        "2.7.15-4ubuntu2",
+        "2.7.15-4ubuntu1",
+        "2.7.15-4",
+        "2.7.15-3",
+        "2.7.15-2",
+        "2.7.15-1",
+        "2.7.15~rc1-1"
     ]
 }

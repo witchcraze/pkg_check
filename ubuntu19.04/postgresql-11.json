@@ -32,5 +32,14 @@
         "postgresql-11 (11.0-1) unstable; urgency=medium",
         "postgresql-11 (11~rc1-1) unstable; urgency=medium",
         "postgresql-11 (11~beta4-2) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "11.5-0ubuntu0.19.04.1",
+        "11.4-0ubuntu0.19.04.1",
+        "11.3-0ubuntu0.19.04.1",
+        "11.2-1",
+        "11.1-2",
+        "11.1-1build1",
+        "11.1-1"
     ]
 }

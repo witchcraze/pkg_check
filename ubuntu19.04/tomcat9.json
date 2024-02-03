@@ -28,5 +28,14 @@
         "tomcat8 (8.5.35-3) UNRELEASED; urgency=medium",
         "tomcat8 (8.5.35-2) unstable; urgency=medium",
         "tomcat8 (8.5.35-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.16-3ubuntu0.19.04.1",
+        "9.0.16-3",
+        "9.0.16-2",
+        "9.0.16-1",
+        "9.0.14-1",
+        "9.0.13-2",
+        "9.0.13-1"
     ]
 }

@@ -26,5 +26,14 @@
         "golang-1.12 (1.12~beta1-1) unstable; urgency=medium",
         "golang-1.11 (1.11.5-1ubuntu1) disco; urgency=medium",
         "golang-1.11 (1.11.4-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.12-1ubuntu1",
+        "1.12~beta2-2",
+        "1.12~beta2-1",
+        "1.12~beta1-4",
+        "1.12~beta1-3",
+        "1.12~beta1-2",
+        "1.12~beta1-1"
     ]
 }

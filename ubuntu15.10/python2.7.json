@@ -360,5 +360,15 @@
         "python2 (2.0-3) unstable; urgency=low",
         "python2 (2.0-2) unstable; urgency=low",
         "python2 (2.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.7.10-4ubuntu1",
+        "2.7.10-4",
+        "2.7.10-3",
+        "2.7.10-2",
+        "2.7.10-1",
+        "2.7.10~rc1-1",
+        "2.7.9-5",
+        "2.7.9-2ubuntu3"
     ]
 }

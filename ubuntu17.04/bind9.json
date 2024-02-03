@@ -246,5 +246,15 @@
         "bind9 (1:9.1.0-3) unstable; urgency=low",
         "bind9 (1:9.1.0-2) unstable; urgency=low",
         "bind9 (1:9.1.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1:9.10.3.dfsg.P4-10.1ubuntu5.3",
+        "1:9.10.3.dfsg.P4-10.1ubuntu5.2",
+        "1:9.10.3.dfsg.P4-10.1ubuntu5.1",
+        "1:9.10.3.dfsg.P4-10.1ubuntu5",
+        "1:9.10.3.dfsg.P4-10.1ubuntu4",
+        "1:9.10.3.dfsg.P4-10.1ubuntu3",
+        "1:9.10.3.dfsg.P4-10.1ubuntu2",
+        "1:9.10.3.dfsg.P4-10.1ubuntu1"
     ]
 }

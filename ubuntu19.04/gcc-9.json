@@ -31,5 +31,20 @@
         "gcc-9 (9-20190428-1) experimental; urgency=medium",
         "gcc-9 (9-20190426-1ubuntu1) eoan; urgency=medium",
         "gcc-9 (9-20190426-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.1.0-2ubuntu2~19.04",
+        "9-20190402-1ubuntu1",
+        "9-20190321-1ubuntu1",
+        "9-20190319-0ubuntu1",
+        "9-20190311-0ubuntu1",
+        "9-20190227-0ubuntu1",
+        "9-20190220-0ubuntu1",
+        "9-20190216-1ubuntu1",
+        "9-20190216-0ubuntu1",
+        "9-20190215-1ubuntu1",
+        "9-20190207-0ubuntu1",
+        "9-20190206-0ubuntu1",
+        "9-20190202-1ubuntu1"
     ]
 }

@@ -79,5 +79,23 @@
         "php7.2 (7.2.0~beta2-1) experimental; urgency=medium",
         "php7.2 (7.2.0~beta1-1) experimental; urgency=medium",
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.3.31-1~deb10u1",
+        "7.3.29-1~deb10u1",
+        "7.3.27-1~deb10u1",
+        "7.3.19-1~deb10u1",
+        "7.3.11-1~deb10u1",
+        "7.3.4-2",
+        "7.3.3-1",
+        "7.3.2-3",
+        "7.3.1-3",
+        "7.3.1-1",
+        "7.3.0-2",
+        "7.3.0-1",
+        "7.3.0~rc4-1",
+        "7.3.0~rc2-2",
+        "7.3.0~rc2-1",
+        "7.3.0~alpha3-1"
     ]
 }

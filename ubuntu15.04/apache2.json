@@ -305,5 +305,14 @@
         "apache2 (2.0.20-2) unstable; urgency=low",
         "apache2 (2.0.20-1) unstable; urgency=low",
         "apache2 (2.0.18-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.4.10-9ubuntu1.1",
+        "2.4.10-9ubuntu1",
+        "2.4.10-8ubuntu3",
+        "2.4.10-8ubuntu2",
+        "2.4.10-8ubuntu1",
+        "2.4.10-7ubuntu1",
+        "2.4.10-1ubuntu1"
     ]
 }

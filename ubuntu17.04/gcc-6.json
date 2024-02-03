@@ -256,5 +256,33 @@
         "gcc-4.9 (4.9.2-7ubuntu1) vivid; urgency=medium",
         "gcc-4.9 (4.9.2-7) unstable; urgency=medium",
         "gcc-4.9 (4.9.2-6ubuntu1) vivid; urgency=medium"
+    ],
+    "publishinghistory": [
+        "6.3.0-12ubuntu2",
+        "6.3.0-10ubuntu1",
+        "6.3.0-9ubuntu2",
+        "6.3.0-9ubuntu1",
+        "6.3.0-8ubuntu1",
+        "6.3.0-6ubuntu2",
+        "6.3.0-5ubuntu1",
+        "6.3.0-4ubuntu1",
+        "6.3.0-3ubuntu1",
+        "6.3.0-2ubuntu1",
+        "6.3.0-1ubuntu1",
+        "6.2.1-7ubuntu1",
+        "6.2.1-6ubuntu1",
+        "6.2.1-5ubuntu2",
+        "6.2.1-5ubuntu1",
+        "6.2.1-4ubuntu1",
+        "6.2.1-2ubuntu1",
+        "6.2.1-1ubuntu2",
+        "6.2.1-1ubuntu1",
+        "6.2.0-13ubuntu1",
+        "6.2.0-12ubuntu2",
+        "6.2.0-12ubuntu1",
+        "6.2.0-11ubuntu1",
+        "6.2.0-10ubuntu1",
+        "6.2.0-8ubuntu1",
+        "6.2.0-5ubuntu12"
     ]
 }

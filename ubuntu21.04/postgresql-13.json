@@ -36,5 +36,15 @@
         "postgresql-13 (13~beta2-2) experimental; urgency=medium",
         "postgresql-13 (13~beta2-1) experimental; urgency=medium",
         "postgresql-13 (13~beta1-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "13.5-0ubuntu0.21.04.1",
+        "13.4-0ubuntu0.21.04.1",
+        "13.3-0ubuntu0.21.04.1",
+        "13.2-1",
+        "13.1-1build1",
+        "13.1-1",
+        "13.0-6build1",
+        "13.0-6"
     ]
 }

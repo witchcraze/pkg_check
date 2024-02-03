@@ -33,5 +33,12 @@
         "proftpd-dfsg (1.3.6-1) unstable; urgency=medium",
         "proftpd-dfsg (1.3.5e-1) unstable; urgency=medium",
         "proftpd-dfsg (1.3.5d-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.3.6-6build2",
+        "1.3.6-6build1",
+        "1.3.6-6",
+        "1.3.6-5",
+        "1.3.6-4"
     ]
 }

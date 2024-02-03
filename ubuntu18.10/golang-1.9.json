@@ -26,5 +26,8 @@
         "golang-1.9 (1.9.2-2) unstable; urgency=medium",
         "golang-1.9 (1.9.2-1ubuntu1) bionic; urgency=medium",
         "golang-1.9 (1.9.2-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.9.4-1ubuntu1"
     ]
 }

@@ -500,5 +500,12 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "15.0.3+3-1",
+        "15.0.2+7-1",
+        "15.0.1+9-3",
+        "15.0.1+9-0ubuntu1",
+        "15+36-1"
     ]
 }

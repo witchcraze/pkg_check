@@ -526,5 +526,21 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "17.0.3+7-0ubuntu0.21.10.1",
+        "17.0.2+8-1~22.10",
+        "17.0.1+12-1~21.10",
+        "17+35-1",
+        "17~35ea-1ubuntu2",
+        "17~35ea-1ubuntu1",
+        "17~32ea-1ubuntu1",
+        "17~31ea-1ubuntu1",
+        "17~29-1ubuntu1",
+        "17~27-1",
+        "17~24-1ubuntu1",
+        "17~24-1",
+        "17~19-1ubuntu1",
+        "17~17-1"
     ]
 }

@@ -31,5 +31,14 @@
         "nodejs (8.10.0~dfsg-1) experimental; urgency=medium",
         "nodejs (8.9.3~dfsg-12) unstable; urgency=medium",
         "nodejs (8.9.3~dfsg-11) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.11.4~dfsg-0ubuntu1",
+        "8.11.2~dfsg-1ubuntu2",
+        "8.11.2~dfsg-1ubuntu1",
+        "8.11.2~dfsg-1",
+        "8.11.1~dfsg-2build1",
+        "8.11.1~dfsg-2",
+        "8.10.0~dfsg-2"
     ]
 }

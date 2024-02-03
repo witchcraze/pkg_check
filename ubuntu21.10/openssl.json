@@ -286,5 +286,17 @@
         "ssleay (0.6.6-1) unstable; urgency=low",
         "ssleay (0.6.4-2) unstable; urgency=low",
         "ssleay (0.6.4-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.1.1l-1ubuntu1.6",
+        "1.1.1l-1ubuntu1.5",
+        "1.1.1l-1ubuntu1.3",
+        "1.1.1l-1ubuntu1.2",
+        "1.1.1l-1ubuntu1.1",
+        "1.1.1l-1ubuntu1",
+        "1.1.1k-1ubuntu1",
+        "1.1.1j-1ubuntu5",
+        "1.1.1j-1ubuntu4",
+        "1.1.1j-1ubuntu3"
     ]
 }

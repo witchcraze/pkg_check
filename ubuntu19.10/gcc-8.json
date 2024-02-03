@@ -30,5 +30,26 @@
         "gcc-8 (8.3.0-27) unstable; urgency=medium",
         "gcc-8 (8.3.0-26ubuntu1~19.10) eoan-proposed; urgency=medium",
         "gcc-8 (8.3.0-26ubuntu1) focal; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.4.0-1ubuntu1~19.10",
+        "8.3.0-26ubuntu1~19.10",
+        "8.3.0-23ubuntu2",
+        "8.3.0-23ubuntu1",
+        "8.3.0-22ubuntu2",
+        "8.3.0-22ubuntu1",
+        "8.3.0-21ubuntu1",
+        "8.3.0-19ubuntu1",
+        "8.3.0-16ubuntu3",
+        "8.3.0-16ubuntu2",
+        "8.3.0-16ubuntu1",
+        "8.3.0-14ubuntu1",
+        "8.3.0-13ubuntu1",
+        "8.3.0-12ubuntu1",
+        "8.3.0-10ubuntu3",
+        "8.3.0-10ubuntu2",
+        "8.3.0-10ubuntu1",
+        "8.3.0-7ubuntu1",
+        "8.3.0-6ubuntu1"
     ]
 }

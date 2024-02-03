@@ -26,5 +26,8 @@
         "golang-1.8 (1.8.1-1) unstable; urgency=medium",
         "golang-1.8 (1.8-1ubuntu1) zesty; urgency=medium",
         "golang-1.8 (1.8-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.8.3-2ubuntu1"
     ]
 }

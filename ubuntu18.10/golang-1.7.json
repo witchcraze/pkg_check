@@ -26,5 +26,8 @@
         "golang-1.7 (1.7.1-1) unstable; urgency=medium",
         "golang-1.7 (1.7-3) unstable; urgency=medium",
         "golang-1.7 (1.7-2) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.7.6-2"
     ]
 }

@@ -34,5 +34,16 @@
         "mariadb-10.1 (1:10.1.29-2) unstable; urgency=medium",
         "mariadb-10.1 (10.1.29-1) unstable; urgency=medium",
         "mariadb-10.1 (10.1.28-2) unstable; urgency=high"
+    ],
+    "publishinghistory": [
+        "1:10.1.38-0ubuntu0.18.10.2",
+        "1:10.1.38-0ubuntu0.18.10.1",
+        "1:10.1.34-1ubuntu2",
+        "1:10.1.34-1ubuntu1",
+        "1:10.1.34-1",
+        "1:10.1.29-6ubuntu2",
+        "1:10.1.29-6build2",
+        "1:10.1.29-6build1",
+        "1:10.1.29-6"
     ]
 }

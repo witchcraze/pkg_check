@@ -47,5 +47,11 @@
         "ruby2.0 (2.0.0.299-2) unstable; urgency=low",
         "ruby2.0 (2.0.0.299-1) unstable; urgency=low",
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.2.3-1",
+        "2.2.2-3",
+        "2.2.2-2",
+        "2.2.2-1"
     ]
 }

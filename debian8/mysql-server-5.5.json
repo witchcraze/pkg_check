@@ -487,5 +487,26 @@
         "mysql (3.20.29-1) unstable; urgency=low",
         "mysql (3.20.16beta-2) unstable; urgency=low",
         "mysql (3.20.16beta-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "5.5.60-0+deb8u1",
+        "5.5.58-0+deb8u1",
+        "5.5.55-0+deb8u1",
+        "5.5.53-0+deb8u1",
+        "5.5.50-0+deb8u1",
+        "5.5.49-0+deb8u1",
+        "5.5.47-0+deb8u1",
+        "5.5.46-0+deb8u1",
+        "5.5.44-0+deb8u1",
+        "5.5.43-0+deb8u1",
+        "5.5.42-1",
+        "5.5.40-1",
+        "5.5.39-1",
+        "5.5.37-1",
+        "5.5.35+dfsg-2",
+        "5.5.35+dfsg-1",
+        "5.5.33+dfsg-1",
+        "5.5.31+dfsg-1",
+        "5.5.30+dfsg-1.1"
     ]
 }

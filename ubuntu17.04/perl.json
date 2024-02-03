@@ -323,5 +323,14 @@
         "perl (5.003.07-3) unstable; urgency=low",
         "perl (5.003.07-2) unstable; urgency=low",
         "perl (5.003.07-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "5.24.1-2ubuntu1.1",
+        "5.24.1-2ubuntu1",
+        "5.24.1-2",
+        "5.24.1-1",
+        "5.24.1~rc4-1",
+        "5.24.1~rc3-3",
+        "5.22.2-3"
     ]
 }

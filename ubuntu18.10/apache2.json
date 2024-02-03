@@ -35,5 +35,16 @@
         "apache2 (2.4.33-3ubuntu2) cosmic; urgency=medium",
         "apache2 (2.4.33-3ubuntu1) cosmic; urgency=medium",
         "apache2 (2.4.33-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "2.4.34-1ubuntu2.3",
+        "2.4.34-1ubuntu2.2",
+        "2.4.34-1ubuntu2.1",
+        "2.4.34-1ubuntu2",
+        "2.4.34-1ubuntu1",
+        "2.4.33-3ubuntu3",
+        "2.4.33-3ubuntu2",
+        "2.4.29-1ubuntu4.1",
+        "2.4.29-1ubuntu4"
     ]
 }

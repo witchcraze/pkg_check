@@ -261,5 +261,13 @@
         "nginx (0.4.13-1) unstable; urgency=low",
         "nginx (0.4.12-1) unstable; urgency=low",
         "nginx (0.4.2-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "1.18.0-6ubuntu2.2",
+        "1.18.0-6ubuntu2",
+        "1.18.0-6ubuntu1",
+        "1.18.0-3ubuntu2",
+        "1.18.0-3ubuntu1",
+        "1.17.10-0ubuntu1"
     ]
 }

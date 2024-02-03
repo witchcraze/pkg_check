@@ -141,5 +141,15 @@
         "python-defaults (2.3.4-1) unstable; urgency=low",
         "python-defaults (2.3.3-7) unstable; urgency=low",
         "python-defaults (2.3.3-6) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.7.16-1",
+        "2.7.15-4",
+        "2.7.15-3",
+        "2.7.15~rc1-1",
+        "2.7.14-4",
+        "2.7.14-3",
+        "2.7.14-1",
+        "2.7.13-2"
     ]
 }

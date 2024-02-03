@@ -98,5 +98,13 @@
         "redis (1:0.094-1) experimental; urgency=low",
         "redis (1.0~beta8-1) experimental; urgency=low",
         "redis (1.0~beta7-1) experimental; urgency=low"
+    ],
+    "publishinghistory": [
+        "2:2.8.19-3",
+        "2:2.8.19-2",
+        "2:2.8.19-1",
+        "2:2.8.18-1",
+        "2:2.8.17-1",
+        "2:2.8.13-3"
     ]
 }

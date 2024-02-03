@@ -15,6 +15,7 @@
         "Task": "dns-server",
         "Supported": "9m",
         "Download-Size": "419 kB",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
@@ -29,5 +30,17 @@
         "bind9 (1:9.11.5.P4+dfsg-4ubuntu2) eoan; urgency=medium",
         "bind9 (1:9.11.5.P4+dfsg-4ubuntu1) eoan; urgency=medium",
         "bind9 (1:9.11.5.P4+dfsg-4) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1:9.11.5.P4+dfsg-5.1ubuntu2.2",
+        "1:9.11.5.P4+dfsg-5.1ubuntu2.1",
+        "1:9.11.5.P4+dfsg-5.1ubuntu2",
+        "1:9.11.5.P4+dfsg-5.1ubuntu1",
+        "1:9.11.5.P4+dfsg-5ubuntu1",
+        "1:9.11.5.P4+dfsg-4ubuntu2",
+        "1:9.11.5.P4+dfsg-4ubuntu1",
+        "1:9.11.5.P1+dfsg-1ubuntu4",
+        "1:9.11.5.P1+dfsg-1ubuntu3",
+        "1:9.11.5.P1+dfsg-1ubuntu2"
     ]
 }

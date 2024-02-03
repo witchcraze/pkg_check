@@ -39,5 +39,25 @@
         "ruby2.0 (2.0.0.299-2) unstable; urgency=low",
         "ruby2.0 (2.0.0.299-1) unstable; urgency=low",
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.0.0.484-1ubuntu2.13",
+        "2.0.0.484-1ubuntu2.11",
+        "2.0.0.484-1ubuntu2.10",
+        "2.0.0.484-1ubuntu2.9",
+        "2.0.0.484-1ubuntu2.8",
+        "2.0.0.484-1ubuntu2.6",
+        "2.0.0.484-1ubuntu2.5",
+        "2.0.0.484-1ubuntu2.4",
+        "2.0.0.484-1ubuntu2.2",
+        "2.0.0.484-1ubuntu2.1",
+        "2.0.0.484-1ubuntu2",
+        "2.0.0.484-1ubuntu1",
+        "2.0.0.353-1ubuntu1",
+        "2.0.0.353-1build1",
+        "2.0.0.353-1",
+        "2.0.0.343-1ubuntu1",
+        "2.0.0.343-1",
+        "2.0.0.299-2"
     ]
 }

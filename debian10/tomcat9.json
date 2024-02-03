@@ -1,20 +1,21 @@
 {
     "show": {
         "Package": "tomcat9",
-        "Version": "9.0.31-1~deb10u10",
+        "Version": "9.0.31-1~deb10u11",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "313 kB",
-        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1~deb10u10), ucf",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1~deb10u11), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat9-admin (>= 9.0.31-1~deb10u10), tomcat9-docs (>= 9.0.31-1~deb10u10), tomcat9-examples (>= 9.0.31-1~deb10u10), tomcat9-user (>= 9.0.31-1~deb10u10)",
+        "Suggests": "tomcat9-admin (>= 9.0.31-1~deb10u11), tomcat9-docs (>= 9.0.31-1~deb10u11), tomcat9-examples (>= 9.0.31-1~deb10u11), tomcat9-user (>= 9.0.31-1~deb10u11)",
         "Homepage": "http://tomcat.apache.org",
-        "Download-Size": "48.2 kB",
+        "Download-Size": "48.4 kB",
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "changelog": [
+        "tomcat9 (9.0.31-1~deb10u11) buster-security; urgency=high",
         "tomcat9 (9.0.31-1~deb10u10) buster-security; urgency=high",
         "tomcat9 (9.0.31-1~deb10u9) buster-security; urgency=high",
         "tomcat9 (9.0.31-1~deb10u8) buster-security; urgency=high",
@@ -88,5 +89,17 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.31-1~deb10u6",
+        "9.0.31-1~deb10u5",
+        "9.0.31-1~deb10u4",
+        "9.0.31-1~deb10u3",
+        "9.0.31-1~deb10u2",
+        "9.0.16-4",
+        "9.0.16-3",
+        "9.0.16-1",
+        "9.0.14-1",
+        "9.0.13-2"
     ]
 }

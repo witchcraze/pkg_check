@@ -39,5 +39,10 @@
         "ruby2.0 (2.0.0.299-2) unstable; urgency=low",
         "ruby2.0 (2.0.0.299-1) unstable; urgency=low",
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.1.2-2ubuntu3",
+        "2.1.2-2ubuntu2",
+        "2.1.2-2ubuntu1"
     ]
 }

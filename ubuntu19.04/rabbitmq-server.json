@@ -27,5 +27,11 @@
         "rabbitmq-server (3.6.6-1) unstable; urgency=medium",
         "rabbitmq-server (3.6.5-1) unstable; urgency=medium",
         "rabbitmq-server (3.5.7-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "3.7.8-4ubuntu2",
+        "3.7.8-4ubuntu1",
+        "3.7.8-4",
+        "3.6.10-1"
     ]
 }

@@ -30,5 +30,16 @@
         "openssl (1.1.1a-1ubuntu2) disco; urgency=medium",
         "openssl (1.1.1a-1ubuntu1) disco; urgency=medium",
         "openssl (1.1.1a-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "1.1.1b-1ubuntu2.4",
+        "1.1.1b-1ubuntu2.3",
+        "1.1.1b-1ubuntu2.2",
+        "1.1.1b-1ubuntu2.1",
+        "1.1.1b-1ubuntu2",
+        "1.1.1b-1ubuntu1",
+        "1.1.1a-1ubuntu2",
+        "1.1.1a-1ubuntu1",
+        "1.1.1-1ubuntu2"
     ]
 }

@@ -30,5 +30,30 @@
         "gcc-4.8 (4.8.3-10) unstable; urgency=medium",
         "gcc-4.8 (4.8.3-9ubuntu1) utopic; urgency=medium",
         "gcc-4.8 (4.8.3-9) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "4.8.3-12ubuntu3",
+        "4.8.3-12ubuntu2",
+        "4.8.3-12ubuntu1",
+        "4.8.3-11ubuntu1",
+        "4.8.3-10ubuntu1",
+        "4.8.3-9ubuntu1",
+        "4.8.3-8ubuntu1",
+        "4.8.3-7ubuntu1",
+        "4.8.3-6ubuntu1",
+        "4.8.3-5ubuntu2",
+        "4.8.3-5ubuntu1",
+        "4.8.3-4ubuntu2",
+        "4.8.3-4ubuntu1",
+        "4.8.3-3ubuntu3",
+        "4.8.3-3ubuntu2",
+        "4.8.3-3ubuntu1",
+        "4.8.3-2ubuntu1",
+        "4.8.3-1ubuntu4",
+        "4.8.3-1ubuntu3",
+        "4.8.3-1ubuntu2",
+        "4.8.2-23ubuntu1",
+        "4.8.2-21ubuntu1",
+        "4.8.2-19ubuntu1"
     ]
 }

@@ -347,5 +347,26 @@
         "python2 (2.0-3) unstable; urgency=low",
         "python2 (2.0-2) unstable; urgency=low",
         "python2 (2.0-1) unstable; urgency=low"
+    ],
+    "publishinghistory": [
+        "2.7.8-10ubuntu1.1",
+        "2.7.8-10ubuntu1",
+        "2.7.8-10",
+        "2.7.8-9.fakesync",
+        "2.7.8-9ubuntu1",
+        "2.7.8-9",
+        "2.7.8-7",
+        "2.7.8-6ubuntu1",
+        "2.7.8-6",
+        "2.7.8-5",
+        "2.7.8-4",
+        "2.7.8-3",
+        "2.7.8-2",
+        "2.7.8-1",
+        "2.7.7-2",
+        "2.7.7-1",
+        "2.7.7~rc1-1ubuntu1",
+        "2.7.7~rc1-1",
+        "2.7.6-8"
     ]
 }

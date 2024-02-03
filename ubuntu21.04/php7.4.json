@@ -141,5 +141,19 @@
         "php7.2 (7.2.0~beta2-1) experimental; urgency=medium",
         "php7.2 (7.2.0~beta1-1) experimental; urgency=medium",
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
+    ],
+    "publishinghistory": [
+        "7.4.16-1ubuntu2.3",
+        "7.4.16-1ubuntu2.2",
+        "7.4.16-1ubuntu2.1",
+        "7.4.16-1ubuntu2",
+        "7.4.16-1ubuntu1",
+        "7.4.11-1ubuntu5",
+        "7.4.11-1ubuntu4",
+        "7.4.11-1ubuntu3",
+        "7.4.11-1ubuntu2",
+        "7.4.11-1ubuntu1",
+        "7.4.9-1ubuntu1.1",
+        "7.4.9-1ubuntu1"
     ]
 }

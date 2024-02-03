@@ -87,5 +87,14 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.37-3",
+        "9.0.37-2",
+        "9.0.37-1",
+        "9.0.36-1",
+        "9.0.35-1",
+        "9.0.34-1",
+        "9.0.31-1"
     ]
 }

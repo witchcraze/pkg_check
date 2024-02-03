@@ -28,5 +28,11 @@
         "tomcat9 (9.0.13-2) unstable; urgency=medium",
         "tomcat9 (9.0.13-1) unstable; urgency=medium",
         "tomcat8 (8.5.35-3) UNRELEASED; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.24-1",
+        "9.0.22-1",
+        "9.0.16-4",
+        "9.0.16-3"
     ]
 }

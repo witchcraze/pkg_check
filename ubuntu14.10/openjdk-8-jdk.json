@@ -30,5 +30,16 @@
         "openjdk-7 (7u55-2.4.7-2) unstable; urgency=medium",
         "openjdk-7 (7u55-2.4.7-1) unstable; urgency=high",
         "openjdk-7 (7u51-2.4.6-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8u40~b09-1",
+        "8u40~b04-2",
+        "8u40~b04-1ubuntu1",
+        "8u40~b04-1",
+        "8u20-b26-1ubuntu1",
+        "8u20~b26-1ubuntu1",
+        "8u20~b20-1ubuntu3",
+        "8u20~b20-1ubuntu2",
+        "8u20~b20-1ubuntu1"
     ]
 }
