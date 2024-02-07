@@ -18,6 +18,7 @@
         "squid.x86_64          7:4.15-7.module+el8.9.0+1599+7025d9cc.3          appstream"
     ],
     "kojiPackages": [
+        "squid-4.15-9.module+el8.10.0+1683+d1de9bc5",
         "squid-4.15-7.module+el8.9.0+1615+d05c589f.5",
         "squid-4.15-7.module+el8.9.0+1599+7025d9cc.3",
         "squid-4.15-7.module+el8.9.0+1568+6d4fd5d4.1",

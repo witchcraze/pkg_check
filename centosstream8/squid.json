@@ -23,6 +23,8 @@
         "squid.x86_64          7:4.15-7.module_el8+660+c5a9a808                 appstream"
     ],
     "kojiPackages": [
+        "squid-4.15-9.module_el8+880+b94e8375",
+        "squid-4.15-8.module_el8+879+24274bea",
         "squid-4.15-7.module_el8+660+c5a9a808",
         "squid-4.15-7.el8",
         "squid-4.15-6.module_el8.8.0+1236+bbc41960",

@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql16",
         "Version": "16.1",
-        "Release": "1.fc39",
+        "Release": "2.fc39",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql16-16.1-1.fc39.src.rpm",
+        "Source": "postgresql16-16.1-2.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,8 +13,8 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql16.i686                       16.1-1.fc39                      updates",
-        "postgresql16.x86_64                     16.1-1.fc39                      updates"
+        "postgresql16.i686                       16.1-2.fc39                      updates",
+        "postgresql16.x86_64                     16.1-2.fc39                      updates"
     ],
     "kojiPackages": [
         "postgresql16-16.1-2.fc39",

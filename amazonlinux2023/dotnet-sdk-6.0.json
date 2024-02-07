@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.125",
+        "Version": "6.0.126",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "76 M",
-        "Source": "dotnet6.0-6.0.125-1.amzn2023.0.1.src.rpm",
+        "Source": "dotnet6.0-6.0.126-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -20,6 +20,7 @@
         "dotnet-sdk-6.0.x86_64             6.0.121-1.amzn2023.0.2             amazonlinux",
         "dotnet-sdk-6.0.x86_64             6.0.122-1.amzn2023.0.1             amazonlinux",
         "dotnet-sdk-6.0.x86_64             6.0.123-1.amzn2023.0.1             amazonlinux",
-        "dotnet-sdk-6.0.x86_64             6.0.125-1.amzn2023.0.1             amazonlinux"
+        "dotnet-sdk-6.0.x86_64             6.0.125-1.amzn2023.0.1             amazonlinux",
+        "dotnet-sdk-6.0.x86_64             6.0.126-1.amzn2023.0.1             amazonlinux"
     ]
 }

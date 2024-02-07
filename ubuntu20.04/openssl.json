@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1f-1ubuntu2.20",
+        "Version": "1.1.1f-1ubuntu2.21",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1286 kB",
+        "Installed-Size": "1287 kB",
         "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
         "Task": "minimal",
-        "Download-Size": "620 kB",
+        "Download-Size": "621 kB",
         "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "changelog": [
+        "openssl (1.1.1f-1ubuntu2.21) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.20) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.19) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.18) focal-security; urgency=medium",
@@ -280,6 +281,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.1.1f-1ubuntu2.21",
         "1.1.1f-1ubuntu2.20",
         "1.1.1f-1ubuntu2.19",
         "1.1.1f-1ubuntu2.18",

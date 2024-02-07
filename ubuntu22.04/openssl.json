@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.2-0ubuntu1.13",
+        "Version": "3.0.2-0ubuntu1.14",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -19,6 +19,7 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "changelog": [
+        "openssl (3.0.2-0ubuntu1.14) jammy-security; urgency=medium",
         "openssl (3.0.2-0ubuntu1.13) jammy; urgency=medium",
         "openssl (3.0.2-0ubuntu1.12) jammy-security; urgency=medium",
         "openssl (3.0.2-0ubuntu1.10) jammy-security; urgency=medium",
@@ -303,6 +304,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.2-0ubuntu1.14",
         "3.0.2-0ubuntu1.13",
         "3.0.2-0ubuntu1.12",
         "3.0.2-0ubuntu1.10",
