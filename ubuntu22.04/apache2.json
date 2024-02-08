@@ -439,6 +439,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.52-1ubuntu4.8",
         "2.4.52-1ubuntu4.7",
         "2.4.52-1ubuntu4.6",
         "2.4.52-1ubuntu4.5",
