@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/hirsute-updates,hirsute-security 11.0.13+8-0ubuntu1~21.04 amd64",
+        "openjdk-11-jdk/hirsute 11.0.11+8-0ubuntu2 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.13+8-0ubuntu1~21.04) hirsute-security; urgency=medium",
         "openjdk-lts (11.0.13+8-0ubuntu1) jammy; urgency=medium",

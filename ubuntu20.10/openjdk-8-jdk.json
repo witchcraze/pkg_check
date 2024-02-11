@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/groovy-updates,groovy-security 8u292-b10-0ubuntu1~20.10 amd64",
+        "openjdk-8-jdk/groovy 8u272~b09-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u292-b10-0ubuntu1~20.10) groovy-security; urgency=medium",
         "openjdk-8 (8u292-b10-0ubuntu1) hirsute; urgency=medium",

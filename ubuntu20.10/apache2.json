@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/groovy-updates,groovy-security 2.4.46-1ubuntu1.2 amd64",
+        "apache2/groovy 2.4.46-1ubuntu1 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.46-1ubuntu1.2) groovy-security; urgency=medium",
         "apache2 (2.4.46-1ubuntu1) groovy; urgency=medium",

@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/artful-updates,artful-security,now 1.0.2g-1ubuntu13.6 amd64 [installed,automatic]",
+        "openssl/artful 1.0.2g-1ubuntu13 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2g-1ubuntu13.6) artful-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu13.5) artful-security; urgency=medium",

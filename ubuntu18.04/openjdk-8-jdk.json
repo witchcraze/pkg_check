@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/bionic-updates,bionic-security 8u372-ga~us1-0ubuntu1~18.04 amd64",
+        "openjdk-8-jdk/bionic 8u162-b12-1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u372-ga~us1-0ubuntu1~18.04) bionic-security; urgency=medium",
         "openjdk-8 (8u372-ga~us1-0ubuntu1) mantic; urgency=medium",

@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/jammy-updates,jammy-security 8.0.36-0ubuntu0.22.04.1 amd64",
+        "mysql-server-8.0/jammy 8.0.28-0ubuntu4 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.36-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "mysql-8.0 (8.0.35-0ubuntu0.22.04.1) jammy-security; urgency=medium",

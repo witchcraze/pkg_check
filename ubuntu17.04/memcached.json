@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/zesty 1.4.33-1ubuntu2 amd64"
+    ],
     "changelog": [
         "memcached (1.4.33-1ubuntu2) zesty; urgency=medium",
         "memcached (1.4.33-1ubuntu1) zesty; urgency=medium",

@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/hirsute-updates,hirsute-security 3.8.9-2ubuntu0.1 all",
+        "rabbitmq-server/hirsute 3.8.9-2 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.8.9-2ubuntu0.1) hirsute-security; urgency=medium",
         "rabbitmq-server (3.8.9-2) unstable; urgency=medium",

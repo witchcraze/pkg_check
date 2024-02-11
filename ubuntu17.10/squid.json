@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/artful-updates,artful-security 3.5.23-5ubuntu1.1 amd64",
+        "squid/artful 3.5.23-5ubuntu1 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.23-5ubuntu1.1) artful-security; urgency=medium",
         "squid3 (3.5.23-5ubuntu1) artful; urgency=medium",

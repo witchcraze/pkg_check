@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/artful 4:4.0.1-7 amd64"
+    ],
     "changelog": [
         "redis (4:4.0.1-7) unstable; urgency=medium",
         "redis (4:4.0.1-6) unstable; urgency=medium",

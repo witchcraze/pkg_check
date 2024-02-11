@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/kinetic 9.0.65-1ubuntu1 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.65-1ubuntu1) kinetic; urgency=medium",
         "tomcat9 (9.0.65-1) unstable; urgency=medium",

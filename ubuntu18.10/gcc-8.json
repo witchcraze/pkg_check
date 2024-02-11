@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-8/cosmic-updates,cosmic-security 8.3.0-6ubuntu1~18.10.1 amd64",
+        "gcc-8/cosmic 8.2.0-7ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-8 (8.3.0-6ubuntu1~18.10.1) cosmic; urgency=medium",
         "gcc-8 (8.3.0-6ubuntu1~18.10) cosmic-proposed; urgency=medium",

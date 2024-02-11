@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-14-jdk/eoan 14~18-1 amd64"
+    ],
     "changelog": [
         "openjdk-14 (14~18-1) experimental; urgency=medium",
         "openjdk-14 (14~14-2) experimental; urgency=medium",

@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/artful 6.11.4~dfsg-1ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (6.11.4~dfsg-1ubuntu1) artful; urgency=medium",
         "nodejs (6.11.4~dfsg-1) unstable; urgency=medium",

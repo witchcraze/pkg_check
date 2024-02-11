@@ -19,6 +19,9 @@
         "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/oldoldstable 3.0.3-12 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-12) unstable; urgency=low",
         "vsftpd (3.0.3-11) unstable; urgency=low",

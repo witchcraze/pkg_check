@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/hirsute 6.5.1-1 amd64"
+    ],
     "changelog": [
         "varnish (6.5.1-1) unstable; urgency=medium",
         "varnish (6.5.0-1) unstable; urgency=medium",

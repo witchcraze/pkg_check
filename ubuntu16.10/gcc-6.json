@@ -22,6 +22,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-6/yakkety 6.2.0-5ubuntu12 amd64"
+    ],
     "changelog": [
         "gcc-6 (6.2.0-5ubuntu12) yakkety; urgency=medium",
         "gcc-6 (6.2.0-5ubuntu11) yakkety; urgency=medium",

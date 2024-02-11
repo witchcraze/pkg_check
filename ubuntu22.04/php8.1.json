@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php8.1/jammy-updates,jammy-security 8.1.2-1ubuntu2.14 all",
+        "php8.1/jammy 8.1.2-1ubuntu2 all"
+    ],
     "changelog": [
         "php8.1 (8.1.2-1ubuntu2.14) jammy-security; urgency=medium",
         "php8.1 (8.1.2-1ubuntu2.13) jammy-security; urgency=medium",

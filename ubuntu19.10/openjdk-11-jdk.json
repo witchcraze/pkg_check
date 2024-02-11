@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/eoan-updates,eoan-security 11.0.7+10-2ubuntu2~19.10 amd64",
+        "openjdk-11-jdk/eoan 11.0.5+10-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.7+10-2ubuntu2~19.10) eoan-security; urgency=medium",
         "openjdk-lts (11.0.7+10-2ubuntu2) focal; urgency=medium",

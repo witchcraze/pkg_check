@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/focal-updates,focal-security 4.10-1ubuntu1.9 amd64",
+        "squid/focal 4.10-1ubuntu1 amd64"
+    ],
     "changelog": [
         "squid (4.10-1ubuntu1.9) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.8) focal-security; urgency=medium",

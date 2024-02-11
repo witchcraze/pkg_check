@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/vivid-updates,vivid-security 1:9.9.5.dfsg-9ubuntu0.5 amd64",
+        "bind9/vivid 1:9.9.5.dfsg-9 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.9.5.dfsg-9ubuntu0.5) vivid-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-9ubuntu0.4) vivid-security; urgency=medium",

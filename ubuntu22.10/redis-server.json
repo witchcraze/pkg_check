@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/kinetic 5:7.0.4-1 amd64"
+    ],
     "changelog": [
         "redis (5:7.0.4-1) unstable; urgency=high",
         "redis (5:7.0.3-1) unstable; urgency=medium",

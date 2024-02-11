@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/zesty 3.6.6-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.6.6-1) unstable; urgency=medium",
         "rabbitmq-server (3.6.5-1) unstable; urgency=medium",

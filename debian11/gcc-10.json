@@ -16,6 +16,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-10/oldstable 10.2.1-6 amd64"
+    ],
     "changelog": [
         "gcc-10 (10.2.1-6) unstable; urgency=medium",
         "gcc-10 (10.2.1-5) unstable; urgency=medium",

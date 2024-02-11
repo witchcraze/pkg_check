@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
+    "list": [
+        "python3.9/impish-updates,impish-security 3.9.7-2ubuntu0.1 amd64",
+        "python3.9/impish 3.9.7-2build1 amd64"
+    ],
     "changelog": [
         "python3.9 (3.9.7-2ubuntu0.1) impish-security; urgency=medium",
         "python3.9 (3.9.7-2build1) impish; urgency=medium",

@@ -18,6 +18,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/oldstable-security 11.0.22+7-1~deb11u1 amd64",
+        "openjdk-11-jdk/oldstable 11.0.20+8-1~deb11u1 amd64"
+    ],
     "changelog": [
         "openjdk-11 (11.0.22+7-1~deb11u1) bullseye-security; urgency=medium",
         "openjdk-11 (11.0.22+7-1) unstable; urgency=high",

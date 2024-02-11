@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/oldoldstable,now 1:9.11.5.P4+dfsg-5.1+deb10u10 amd64 [installed]",
+        "bind9/oldoldstable 1:9.11.5.P4+dfsg-5.1+deb10u7 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.11.5.P4+dfsg-5.1+deb10u10) buster-security; urgency=high",
         "bind9 (1:9.11.5.P4+dfsg-5.1+deb10u9) buster-security; urgency=high",

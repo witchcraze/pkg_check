@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php8.0/impish-updates,impish-security 8.0.8-1ubuntu0.4 all",
+        "php8.0/impish 8.0.8-1build1 all"
+    ],
     "changelog": [
         "php8.0 (8.0.8-1ubuntu0.4) impish-security; urgency=medium",
         "php8.0 (8.0.8-1ubuntu0.3) impish-security; urgency=medium",

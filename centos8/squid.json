@@ -14,12 +14,12 @@
         "Description": "Squid is a high-performance proxy caching server for Web clients,"
     },
     "list": [
-        "squid.x86_64            7:4.4-5.module_el8.0.0+182+b6dc903f               vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.4-8.module_el8.1.0+197+0c39cdc8               vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.4-8.module_el8.2.0+319+d18e041f.1             vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.4-8.module_el8.3.0+623+2bb85980.2             vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.11-4.module_el8.4.0+629+8f5a8694              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.11-4.module_el8.4.0+787+bd6d340e.2            vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "squid.x86_64            7:4.15-1.module_el8.5.0+860+303ccf92              appstream"
+        "squid.x86_64                      7:4.4-5.module_el8.0.0+182+b6dc903f                         vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.4-8.module_el8.1.0+197+0c39cdc8                         vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.4-8.module_el8.2.0+319+d18e041f.1                       vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.4-8.module_el8.3.0+623+2bb85980.2                       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.11-4.module_el8.4.0+629+8f5a8694                        vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.11-4.module_el8.4.0+787+bd6d340e.2                      vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "squid.x86_64                      7:4.15-1.module_el8.5.0+860+303ccf92                        appstream"
     ]
 }

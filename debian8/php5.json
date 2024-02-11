@@ -12,6 +12,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php5/oldoldstable 5.6.40+dfsg-0+deb8u12 all",
+        "php5/oldstable 5.6.33+dfsg-0+deb8u1 all"
+    ],
     "changelog": [
         "php5 (5.6.40+dfsg-0+deb8u12) jessie-security; urgency=high",
         "php5 (5.6.40+dfsg-0+deb8u11) jessie-security; urgency=high",

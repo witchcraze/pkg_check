@@ -17,6 +17,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/jammy-updates 2.4.24-0ubuntu0.22.04.1 amd64",
+        "haproxy/jammy-security 2.4.22-0ubuntu0.22.04.3 amd64",
+        "haproxy/jammy 2.4.14-1ubuntu1 amd64"
+    ],
     "changelog": [
         "haproxy (2.4.24-0ubuntu0.22.04.1) jammy; urgency=medium",
         "haproxy (2.4.22-0ubuntu0.22.04.2) jammy-security; urgency=medium",

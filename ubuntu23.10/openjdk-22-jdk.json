@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-22-jdk/mantic 22~16ea-1 amd64"
+    ],
     "changelog": [
         "openjdk-22 (22~16ea-1) unstable; urgency=medium",
         "openjdk-22 (22~15ea-2) unstable; urgency=medium",

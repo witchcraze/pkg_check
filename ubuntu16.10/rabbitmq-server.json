@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/yakkety-updates 3.5.7-1ubuntu0.16.10.1 all",
+        "rabbitmq-server/yakkety 3.5.7-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.5.7-1ubuntu0.16.10.1) yakkety; urgency=medium",
         "rabbitmq-server (3.5.7-1) unstable; urgency=medium",

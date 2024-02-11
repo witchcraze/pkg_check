@@ -13,20 +13,20 @@
         "Description": "The .NET Core SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-2.1.x86_64                  2.1.504-1.el8                      vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.507-2.el8_0                    vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.508-1.el8_0                    vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.509-1.el8_0                    vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.509-2.el8                      vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.509-2.el8.0.1                  vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.511-1.el8_1                    vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.513-1.el8_1                    vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.517-1.el8_2                    vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.520-1.el8_3                    vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.522-2.el8                      vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.524-1.el8_4                    vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.525-1.el8_4                    vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "dotnet-sdk-2.1.x86_64                  2.1.526-1.el8_4                    appstream",
-        "dotnet-sdk-2.1.x86_64                  2.1.526-1.el8_4                    vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "dotnet-sdk-2.1.x86_64                            2.1.504-1.el8                                vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.507-2.el8_0                              vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.508-1.el8_0                              vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.509-1.el8_0                              vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.509-2.el8                                vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.509-2.el8.0.1                            vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.511-1.el8_1                              vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.513-1.el8_1                              vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.517-1.el8_2                              vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.520-1.el8_3                              vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.522-2.el8                                vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.524-1.el8_4                              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.525-1.el8_4                              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "dotnet-sdk-2.1.x86_64                            2.1.526-1.el8_4                              appstream",
+        "dotnet-sdk-2.1.x86_64                            2.1.526-1.el8_4                              vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

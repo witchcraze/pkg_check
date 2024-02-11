@@ -15,6 +15,9 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/oldstable 4.8.4-1 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.4-1) unstable; urgency=medium",
         "gcc-4.8 (4.8.3-19) unstable; urgency=medium",

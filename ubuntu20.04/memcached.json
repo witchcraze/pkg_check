@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/focal-updates,focal-security 1.5.22-2ubuntu0.3 amd64",
+        "memcached/focal 1.5.22-2 amd64"
+    ],
     "changelog": [
         "memcached (1.5.22-2ubuntu0.3) focal-security; urgency=medium",
         "memcached (1.5.22-2ubuntu0.2) focal; urgency=medium",

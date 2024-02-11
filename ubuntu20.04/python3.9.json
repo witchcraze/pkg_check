@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
+    "list": [
+        "python3.9/focal-updates,focal-security 3.9.5-3ubuntu0~20.04.1 amd64"
+    ],
     "changelog": [
         "python3.9 (3.9.5-3ubuntu0~20.04.1) focal-security; urgency=medium",
         "python3.9 (3.9.5-3~20.04.1) focal; urgency=medium",

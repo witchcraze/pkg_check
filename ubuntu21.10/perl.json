@@ -24,6 +24,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/impish 5.32.1-3ubuntu3 amd64"
+    ],
     "changelog": [
         "perl (5.32.1-3ubuntu3) impish; urgency=medium",
         "perl (5.32.1-3ubuntu2) hirsute; urgency=medium",

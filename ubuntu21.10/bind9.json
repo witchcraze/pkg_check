@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/impish-updates,impish-security 1:9.16.15-1ubuntu1.2 amd64",
+        "bind9/impish 1:9.16.15-1ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.16.15-1ubuntu1.2) impish-security; urgency=medium",
         "bind9 (1:9.16.15-1ubuntu1.1) impish-security; urgency=medium",

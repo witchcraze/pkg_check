@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.3/yakkety 2.3.1-5build2 amd64"
+    ],
     "changelog": [
         "ruby2.3 (2.3.1-5build2) yakkety; urgency=medium",
         "ruby2.3 (2.3.1-5build1) yakkety; urgency=medium",

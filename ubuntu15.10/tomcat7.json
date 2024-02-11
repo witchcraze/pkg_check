@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/wily-updates,wily-security 7.0.64-1ubuntu0.3 all",
+        "tomcat7/wily 7.0.64-1 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.64-1ubuntu0.3) wily-security; urgency=medium",
         "tomcat7 (7.0.64-1) unstable; urgency=medium",

@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/groovy-updates,groovy-security 8.0.25-0ubuntu0.20.10.1 amd64",
+        "mysql-server-8.0/groovy 8.0.21-1 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.25-0ubuntu0.20.10.1) groovy-security; urgency=medium",
         "mysql-8.0 (8.0.23-0ubuntu0.20.10.1) groovy-security; urgency=medium",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/eoan-updates,eoan-security,now 1.1.1c-1ubuntu4.1 amd64 [installed,automatic]",
+        "openssl/eoan 1.1.1c-1ubuntu4 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1c-1ubuntu4.1) eoan-security; urgency=medium",
         "openssl (1.1.1c-1ubuntu4) eoan; urgency=medium",

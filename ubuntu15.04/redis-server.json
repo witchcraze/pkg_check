@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/vivid 2:2.8.19-3 amd64"
+    ],
     "changelog": [
         "redis (2:2.8.19-3) unstable; urgency=medium",
         "redis (2:2.8.19-2) unstable; urgency=low",

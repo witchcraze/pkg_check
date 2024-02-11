@@ -24,6 +24,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/groovy 5.30.3-4 amd64"
+    ],
     "changelog": [
         "perl (5.30.3-4) unstable; urgency=medium",
         "perl (5.30.3-3) unstable; urgency=medium",

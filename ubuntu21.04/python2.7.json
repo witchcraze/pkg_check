@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/hirsute 2.7.18-6 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.18-6) unstable; urgency=medium",
         "python2.7 (2.7.18-5) unstable; urgency=medium",

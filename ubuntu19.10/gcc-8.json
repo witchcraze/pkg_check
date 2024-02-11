@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-8/eoan-updates,eoan-security 8.4.0-1ubuntu1~19.10 amd64",
+        "gcc-8/eoan 8.3.0-23ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-8 (8.4.0-1ubuntu1~19.10) eoan-proposed; urgency=medium",
         "gcc-8 (8.4.0-1ubuntu1) focal; urgency=medium",

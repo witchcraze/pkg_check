@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/groovy 12.18.2~dfsg-1ubuntu2 amd64"
+    ],
     "changelog": [
         "nodejs (12.18.2~dfsg-1ubuntu2) groovy; urgency=medium",
         "nodejs (12.18.2~dfsg-1ubuntu1) groovy; urgency=medium",

@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.1/artful-updates,artful-security 7.1.17-0ubuntu0.17.10.1 all",
+        "php7.1/artful 7.1.8-1ubuntu1 all"
+    ],
     "changelog": [
         "php7.1 (7.1.17-0ubuntu0.17.10.1) artful-security; urgency=medium",
         "php7.1 (7.1.15-0ubuntu0.17.10.1) artful-security; urgency=medium",

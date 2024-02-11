@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/utopic 4.0.1-1 amd64"
+    ],
     "changelog": [
         "varnish (4.0.1-1) unstable; urgency=medium",
         "varnish (4.0.0-2) unstable; urgency=medium",

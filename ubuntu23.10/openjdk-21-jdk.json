@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-21-jdk/mantic-updates,mantic-security 21.0.1+12-2~23.10 amd64",
+        "openjdk-21-jdk/mantic 21+35-1 amd64"
+    ],
     "changelog": [
         "openjdk-21 (21.0.1+12-2~23.10) mantic-security; urgency=medium",
         "openjdk-21 (21.0.1+12-2) unstable; urgency=medium",

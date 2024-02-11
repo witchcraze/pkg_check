@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.20 amd64 [installed,automatic]",
+        "openssl/xenial 1.0.2g-1ubuntu4 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2g-1ubuntu4.20) xenial-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu4.19) xenial-security; urgency=medium",

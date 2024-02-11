@@ -24,6 +24,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/hirsute-updates,hirsute-security 5.32.1-3ubuntu2.1 amd64",
+        "perl/hirsute 5.32.1-3ubuntu2 amd64"
+    ],
     "changelog": [
         "perl (5.32.1-3ubuntu2.1) hirsute-security; urgency=medium",
         "perl (5.32.1-3ubuntu2) hirsute; urgency=medium",

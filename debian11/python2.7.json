@@ -18,6 +18,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/oldstable 2.7.18-8+deb11u1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.18-8+deb11u1) bullseye; urgency=medium",
         "python2.7 (2.7.18-8) unstable; urgency=medium",

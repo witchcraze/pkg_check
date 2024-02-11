@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby3.0/kinetic-updates,kinetic-security 3.0.4-7ubuntu0.2 amd64",
+        "ruby3.0/kinetic 3.0.4-7 amd64"
+    ],
     "changelog": [
         "ruby3.0 (3.0.4-7ubuntu0.2) kinetic-security; urgency=medium",
         "ruby3.0 (3.0.4-7ubuntu0.1) kinetic-security; urgency=medium",

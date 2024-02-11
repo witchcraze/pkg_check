@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/oldoldstable 5:5.0.14-1+deb10u5 amd64",
+        "redis-server/oldoldstable 5:5.0.14-1+deb10u2 amd64"
+    ],
     "changelog": [
         "redis (5:5.0.14-1+deb10u5) buster-security; urgency=high",
         "redis (5:5.0.14-1+deb10u4) buster-security; urgency=high",

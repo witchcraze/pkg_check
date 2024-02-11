@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/focal-updates,focal-security 11.0.21+9-0ubuntu1~20.04 amd64",
+        "openjdk-11-jdk/focal 11.0.7+10-3ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.21+9-0ubuntu1~20.04) focal-security; urgency=medium",
         "openjdk-lts (11.0.20+8-1ubuntu1) mantic; urgency=high",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/wily-updates,wily-security 1:9.9.5.dfsg-11ubuntu1.3 amd64",
+        "bind9/wily 1:9.9.5.dfsg-11ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.9.5.dfsg-11ubuntu1.3) wily-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-11ubuntu1.2) wily-security; urgency=medium",

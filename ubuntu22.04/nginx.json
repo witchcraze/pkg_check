@@ -16,6 +16,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/jammy-updates 1.18.0-6ubuntu14.4 amd64",
+        "nginx/jammy-security 1.18.0-6ubuntu14.3 amd64",
+        "nginx/jammy 1.18.0-6ubuntu14 amd64"
+    ],
     "changelog": [
         "nginx (1.18.0-6ubuntu14.4) jammy; urgency=medium",
         "nginx (1.18.0-6ubuntu14.3) jammy-security; urgency=medium",

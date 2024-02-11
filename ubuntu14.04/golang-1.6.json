@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.6/trusty-updates,trusty-security 1.6-0ubuntu1~14.04 all"
+    ],
     "changelog": [
         "golang-1.6 (1.6-0ubuntu1~14.04) trusty; urgency=medium",
         "golang-1.6 (1.6-0ubuntu1~14.04~stage1) trusty; urgency=medium",

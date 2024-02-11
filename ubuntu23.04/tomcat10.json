@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat10/lunar 10.1.6-1 all"
+    ],
     "changelog": [
         "tomcat10 (10.1.6-1) unstable; urgency=medium",
         "tomcat10 (10.1.5-2) unstable; urgency=medium",

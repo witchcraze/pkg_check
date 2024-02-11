@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/yakkety-updates,yakkety-security 1.10.1-0ubuntu1.3 all",
+        "nginx/yakkety 1.10.1-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.10.1-0ubuntu1.3) yakkety-security; urgency=medium",
         "nginx (1.10.1-0ubuntu1.2) yakkety-security; urgency=medium",

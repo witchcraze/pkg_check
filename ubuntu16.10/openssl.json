@@ -18,6 +18,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/yakkety-updates,now 1.0.2g-1ubuntu9.3 amd64 [installed,automatic]",
+        "openssl/yakkety-security 1.0.2g-1ubuntu9.1 amd64",
+        "openssl/yakkety 1.0.2g-1ubuntu9 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2g-1ubuntu9.3) yakkety; urgency=medium",
         "openssl (1.0.2g-1ubuntu9.2) yakkety; urgency=medium",

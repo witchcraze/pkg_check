@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/impish-updates,impish-security 9.4.0-3ubuntu1.1 amd64",
+        "gcc-9/impish 9.4.0-3ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.4.0-3ubuntu1.1) impish-proposed; urgency=medium",
         "gcc-9 (9.4.0-3ubuntu1) impish; urgency=medium",

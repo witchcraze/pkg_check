@@ -13,6 +13,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php8.2/stable,stable-security 8.2.7-1~deb12u1 all"
+    ],
     "changelog": [
         "php8.2 (8.2.7-1~deb12u1) bookworm-security; urgency=high",
         "php8.2 (8.2.7-1) unstable; urgency=medium",

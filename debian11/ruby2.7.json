@@ -13,6 +13,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.7/oldstable,oldstable-security 2.7.4-1+deb11u1 amd64"
+    ],
     "changelog": [
         "ruby2.7 (2.7.4-1+deb11u1) bullseye-security; urgency=high",
         "ruby2.7 (2.7.4-1) unstable; urgency=medium",

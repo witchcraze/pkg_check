@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/oldstable 1.5.8-3+deb8u2 amd64",
+        "haproxy/oldoldstable 1.5.8-3+deb8u1 amd64"
+    ],
     "changelog": [
         "haproxy (1.5.8-3+deb8u2) jessie; urgency=medium",
         "haproxy (1.5.8-3+deb8u1) jessie-security; urgency=high",

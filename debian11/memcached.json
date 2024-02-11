@@ -16,6 +16,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/oldstable 1.6.9+dfsg-1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.9+dfsg-1) unstable; urgency=medium",
         "memcached (1.6.8+dfsg-1) unstable; urgency=medium",

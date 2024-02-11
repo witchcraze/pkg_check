@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.10/bionic-updates,bionic-security 1.10.4-2ubuntu1~18.04.2 all",
+        "golang-1.10/bionic 1.10.1-1ubuntu2 all"
+    ],
     "changelog": [
         "golang-1.10 (1.10.4-2ubuntu1~18.04.2) bionic-security; urgency=medium",
         "golang-1.10 (1.10.4-2ubuntu1~18.04.1) bionic; urgency=medium",

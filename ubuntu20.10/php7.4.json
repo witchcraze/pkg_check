@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.4/groovy-updates,groovy-security 7.4.9-1ubuntu1.2 all",
+        "php7.4/groovy 7.4.9-1ubuntu1 all"
+    ],
     "changelog": [
         "php7.4 (7.4.9-1ubuntu1.2) groovy-security; urgency=medium",
         "php7.4 (7.4.9-1ubuntu1.1) groovy-security; urgency=medium",

@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 11 server"
     },
+    "list": [
+        "postgresql-11/disco-updates,disco-security 11.5-0ubuntu0.19.04.1 amd64",
+        "postgresql-11/disco 11.2-1 amd64"
+    ],
     "changelog": [
         "postgresql-11 (11.5-0ubuntu0.19.04.1) disco-security; urgency=medium",
         "postgresql-11 (11.4-0ubuntu0.19.04.1) disco-security; urgency=medium",

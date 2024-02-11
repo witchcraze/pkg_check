@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/artful 4.8.5-4ubuntu6 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.5-4ubuntu6) artful; urgency=medium",
         "gcc-4.8 (4.8.5-4ubuntu4) yakkety; urgency=medium",

@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.17/jammy-updates 1.17.13-3ubuntu1 all",
+        "golang-1.17/jammy 1.17.3-1ubuntu2 all"
+    ],
     "changelog": [
         "golang-1.17 (1.17.13-3ubuntu1) jammy; urgency=medium",
         "golang-1.17 (1.17.13-3) unstable; urgency=medium",

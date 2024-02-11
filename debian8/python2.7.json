@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/oldoldstable 2.7.9-2+deb8u5 amd64",
+        "python2.7/oldstable 2.7.9-2+deb8u1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.9-2+deb8u5) jessie-security; urgency=high",
         "python2.7 (2.7.9-2+deb8u4) jessie-security; urgency=high",

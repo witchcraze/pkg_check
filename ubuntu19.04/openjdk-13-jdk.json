@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-13-jdk/disco 13~13-0ubunt1 amd64"
+    ],
     "changelog": [
         "openjdk-13 (13~13-0ubunt1) disco; urgency=medium",
         "openjdk-13 (13~12-1) experimental; urgency=medium",

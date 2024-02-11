@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-14-jdk/groovy 14.0.2+12-1 amd64"
+    ],
     "changelog": [
         "openjdk-14 (14.0.2+12-1) unstable; urgency=medium",
         "openjdk-14 (14.0.1+7-1) unstable; urgency=medium",

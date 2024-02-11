@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/disco-updates,disco-security 8u232-b09-0ubuntu1~19.04.1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u232-b09-0ubuntu1~19.04.1) disco-security; urgency=medium",
         "openjdk-8 (8u232-b09-0ubuntu1.1) eoan-security; urgency=high",

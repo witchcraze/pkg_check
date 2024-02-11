@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/vivid 3.0.2-18ubuntu1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.2-18ubuntu1) vivid; urgency=low",
         "vsftpd (3.0.2-18) unstable; urgency=high",

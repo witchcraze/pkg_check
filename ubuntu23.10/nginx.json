@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/mantic 1.24.0-1ubuntu1 amd64"
+    ],
     "changelog": [
         "nginx (1.24.0-1ubuntu1) mantic; urgency=low",
         "nginx (1.24.0-1) unstable; urgency=medium",

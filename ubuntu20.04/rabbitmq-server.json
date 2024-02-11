@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/focal-updates,focal-security 3.8.2-0ubuntu1.5 all",
+        "rabbitmq-server/focal 3.8.2-0ubuntu1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.8.2-0ubuntu1.5) focal-security; urgency=medium",
         "rabbitmq-server (3.8.2-0ubuntu1.4) focal; urgency=medium",

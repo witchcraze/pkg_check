@@ -15,6 +15,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.21/focal-updates,focal-security 1.21.1-1~ubuntu20.04.2 all"
+    ],
     "changelog": [
         "golang-1.21 (1.21.1-1~ubuntu20.04.2) focal-security; urgency=medium",
         "golang-1.21 (1.21.1-1~ubuntu20.04.1) focal; urgency=medium",

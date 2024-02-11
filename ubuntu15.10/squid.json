@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/universe amd64 Packages",
         "Description": "dependency package from squid to squid3"
     },
+    "list": [
+        "squid/wily-updates,wily-security 3.3.8-1ubuntu16.3 amd64",
+        "squid/wily 3.3.8-1ubuntu16 amd64"
+    ],
     "changelog": [
         "squid3 (3.3.8-1ubuntu16.3) wily-security; urgency=medium",
         "squid3 (3.3.8-1ubuntu16.2) wily-security; urgency=medium",

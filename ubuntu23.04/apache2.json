@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/lunar-updates,lunar-security 2.4.55-1ubuntu2.1 amd64",
+        "apache2/lunar 2.4.55-1ubuntu2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.55-1ubuntu2.1) lunar-security; urgency=medium",
         "apache2 (2.4.55-1ubuntu2) lunar; urgency=medium",

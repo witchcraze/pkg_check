@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/trusty 1:2.4.9-1ubuntu2 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.4.9-1ubuntu2) trusty; urgency=medium",
         "mongodb (1:2.4.9-1ubuntu1) trusty; urgency=medium",

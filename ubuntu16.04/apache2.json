@@ -23,6 +23,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/xenial-updates,xenial-security 2.4.18-2ubuntu3.17 amd64",
+        "apache2/xenial 2.4.18-2ubuntu3 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.18-2ubuntu3.17) xenial-security; urgency=medium",
         "apache2 (2.4.18-2ubuntu3.16) xenial; urgency=medium",

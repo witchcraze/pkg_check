@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.12)"
     },
+    "list": [
+        "python3.12/mantic 3.12.0-1 amd64"
+    ],
     "changelog": [
         "python3.12 (3.12.0-1) unstable; urgency=medium",
         "python3.12 (3.12.0~rc2-1) unstable; urgency=medium",

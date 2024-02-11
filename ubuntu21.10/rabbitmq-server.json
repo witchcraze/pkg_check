@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/impish 3.8.9-3ubuntu1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.8.9-3ubuntu1) impish; urgency=medium",
         "rabbitmq-server (3.8.9-3) unstable; urgency=medium",

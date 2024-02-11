@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/eoan-updates,eoan-security 8u252-b09-1~19.10 amd64",
+        "openjdk-8-jdk/eoan 8u232-b09-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u252-b09-1~19.10) eoan-security; urgency=medium",
         "openjdk-8 (8u252-b09-1) unstable; urgency=medium",

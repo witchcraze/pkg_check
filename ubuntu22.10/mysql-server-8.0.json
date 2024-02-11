@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/kinetic-updates,kinetic-security 8.0.33-0ubuntu0.22.10.2 amd64",
+        "mysql-server-8.0/kinetic 8.0.31-0ubuntu2 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.33-0ubuntu0.22.10.2) kinetic-security; urgency=medium",
         "mysql-8.0 (8.0.33-0ubuntu0.22.10.1) kinetic-security; urgency=medium",

@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.0/utopic-updates,utopic-security 2.0.0.484+really457-3ubuntu1.2 amd64",
+        "ruby2.0/utopic 2.0.0.484+really457-3ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.0 (2.0.0.484+really457-3ubuntu1.2) utopic-security; urgency=medium",
         "ruby2.0 (2.0.0.484+really457-3ubuntu1.1) utopic-security; urgency=medium",

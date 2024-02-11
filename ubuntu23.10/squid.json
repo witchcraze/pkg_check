@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
+    "list": [
+        "squid/mantic-updates,mantic-security 6.1-2ubuntu1.2 amd64",
+        "squid/mantic 6.1-2ubuntu1 amd64"
+    ],
     "changelog": [
         "squid (6.1-2ubuntu1.2) mantic-security; urgency=medium",
         "squid (6.1-2ubuntu1.1) mantic-security; urgency=medium",

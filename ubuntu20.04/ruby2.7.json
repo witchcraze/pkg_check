@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.12 amd64",
+        "ruby2.7/focal 2.7.0-5ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.7 (2.7.0-5ubuntu1.12) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.11) focal; urgency=medium",

@@ -18,6 +18,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/trusty-backports 1.5.14-1ubuntu0.15.10.1~ubuntu14.04.1 amd64",
+        "haproxy/trusty-updates 1.4.24-2ubuntu0.4 amd64",
+        "haproxy/trusty 1.4.24-2 amd64"
+    ],
     "changelog": [
         "haproxy (1.4.24-2ubuntu0.4) trusty; urgency=medium",
         "haproxy (1.4.24-2ubuntu0.3) trusty; urgency=medium",

@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/kinetic-updates 3.9.13-1ubuntu0.22.10.1 all",
+        "rabbitmq-server/kinetic 3.9.13-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.9.13-1ubuntu0.22.10.1) kinetic; urgency=medium",
         "rabbitmq-server (3.9.13-1) unstable; urgency=medium",

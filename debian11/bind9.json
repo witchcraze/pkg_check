@@ -18,6 +18,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/oldstable,oldstable-security 1:9.16.44-1~deb11u1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.16.44-1~deb11u1) bullseye-security; urgency=high",
         "bind9 (1:9.16.42-1~deb11u1) bullseye-security; urgency=high",

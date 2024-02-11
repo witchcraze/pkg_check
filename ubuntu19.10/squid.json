@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/eoan-updates,eoan-security 4.8-1ubuntu2.3 amd64",
+        "squid/eoan 4.8-1ubuntu2 amd64"
+    ],
     "changelog": [
         "squid (4.8-1ubuntu2.3) eoan-security; urgency=medium",
         "squid (4.8-1ubuntu2.2) eoan-security; urgency=medium",

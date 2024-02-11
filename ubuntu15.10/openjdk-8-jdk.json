@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/wily-updates,wily-security 8u91-b14-3ubuntu1~15.10.1 amd64",
+        "openjdk-8-jdk/wily 8u66-b01-5 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u91-b14-3ubuntu1~15.10.1) wily-security; urgency=medium",
         "openjdk-8 (8u91-b14-3ubuntu1) yakkety; urgency=medium",

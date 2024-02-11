@@ -16,6 +16,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/trusty-infra-security 0.10.25~dfsg2-2ubuntu1.2+esm1 amd64",
+        "nodejs/trusty-updates,trusty-security 0.10.25~dfsg2-2ubuntu1.2 amd64",
+        "nodejs/trusty 0.10.25~dfsg2-2ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (0.10.25~dfsg2-2ubuntu1.2) trusty-security; urgency=medium",
         "nodejs (0.10.25~dfsg2-2ubuntu1) trusty; urgency=medium",

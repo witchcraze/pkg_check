@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/disco-updates,disco-security,now 1:9.11.5.P1+dfsg-1ubuntu2.6 amd64 [installed]",
+        "bind9/disco 1:9.11.5.P1+dfsg-1ubuntu2 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.6) disco-security; urgency=medium",
         "bind9 (1:9.11.5.P1+dfsg-1ubuntu2.5) disco-security; urgency=medium",

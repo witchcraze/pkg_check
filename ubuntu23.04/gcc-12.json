@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-12/lunar-updates,lunar-security 12.3.0-1ubuntu1~23.04 amd64",
+        "gcc-12/lunar 12.2.0-17ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-12 (12.3.0-1ubuntu1~23.04) lunar-proposed; urgency=medium",
         "gcc-12 (12.3.0-1ubuntu1) mantic; urgency=medium",

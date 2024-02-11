@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-6-jdk/vivid-updates,vivid-security 6b38-1.13.10-0ubuntu0.15.04.1 amd64",
+        "openjdk-6-jdk/vivid 6b35-1.13.7-1ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-6 (6b38-1.13.10-0ubuntu0.15.04.1) vivid-security; urgency=high",
         "openjdk-6 (6b38-1.13.10-0ubuntu0.15.10.1) wily-security; urgency=medium",

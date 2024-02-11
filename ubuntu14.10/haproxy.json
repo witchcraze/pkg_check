@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/utopic-updates,utopic-security 1.5.4-1ubuntu2.1 amd64",
+        "haproxy/utopic 1.5.4-1ubuntu1 amd64"
+    ],
     "changelog": [
         "haproxy (1.5.4-1ubuntu2.1) utopic-security; urgency=medium",
         "haproxy (1.5.4-1ubuntu2) utopic; urgency=medium",

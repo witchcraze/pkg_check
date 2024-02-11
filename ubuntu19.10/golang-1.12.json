@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.12/eoan 1.12.10-1ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.12 (1.12.10-1ubuntu1) eoan; urgency=medium",
         "golang-1.12 (1.12.10-1) unstable; urgency=medium",

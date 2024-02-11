@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
+    "list": [
+        "python3.7/eoan-updates,eoan-security 3.7.5-2~19.10ubuntu1 amd64",
+        "python3.7/eoan 3.7.5~rc1-2 amd64"
+    ],
     "changelog": [
         "python3.7 (3.7.5-2~19.10ubuntu1) eoan-security; urgency=medium",
         "python3.7 (3.7.5-2~19.10) eoan-proposed; urgency=medium",

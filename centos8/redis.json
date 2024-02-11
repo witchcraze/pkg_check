@@ -13,12 +13,12 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64             5.0.3-1.module_el8.0.0+6+ab019c03                vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "redis.x86_64             5.0.3-1.module_el8.0.0+6+ab019c03                vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "redis.x86_64             5.0.3-2.module_el8.2.0+318+3d7e67ea              vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "redis.x86_64             5.0.3-2.module_el8.2.0+318+3d7e67ea              vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "redis.x86_64             5.0.3-2.module_el8.2.0+318+3d7e67ea              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "redis.x86_64             5.0.3-5.module_el8.4.0+955+7126e393              appstream",
-        "redis.x86_64             5.0.3-5.module_el8.4.0+955+7126e393              vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "redis.x86_64                       5.0.3-1.module_el8.0.0+6+ab019c03                          vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "redis.x86_64                       5.0.3-1.module_el8.0.0+6+ab019c03                          vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "redis.x86_64                       5.0.3-2.module_el8.2.0+318+3d7e67ea                        vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "redis.x86_64                       5.0.3-2.module_el8.2.0+318+3d7e67ea                        vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "redis.x86_64                       5.0.3-2.module_el8.2.0+318+3d7e67ea                        vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "redis.x86_64                       5.0.3-5.module_el8.4.0+955+7126e393                        appstream",
+        "redis.x86_64                       5.0.3-5.module_el8.4.0+955+7126e393                        vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

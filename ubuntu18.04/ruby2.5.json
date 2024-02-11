@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.5/bionic-updates,bionic-security 2.5.1-1ubuntu1.16 amd64",
+        "ruby2.5/bionic 2.5.1-1ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.5 (2.5.1-1ubuntu1.16) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.15) bionic-security; urgency=medium",

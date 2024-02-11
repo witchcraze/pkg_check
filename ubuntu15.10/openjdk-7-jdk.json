@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-7-jdk/wily-updates,wily-security 7u101-2.6.6-0ubuntu0.15.10.1 amd64",
+        "openjdk-7-jdk/wily 7u85-2.6.1-5 amd64"
+    ],
     "changelog": [
         "openjdk-7 (7u101-2.6.6-0ubuntu0.15.10.1) wily-security; urgency=medium",
         "openjdk-7 (7u95-2.6.4-3) experimental; urgency=medium",

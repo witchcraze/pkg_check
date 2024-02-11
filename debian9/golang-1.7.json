@@ -12,6 +12,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.7/oldoldstable 1.7.4-2+deb9u5 all",
+        "golang-1.7/oldoldstable 1.7.4-2+deb9u1 all"
+    ],
     "changelog": [
         "golang-1.7 (1.7.4-2+deb9u5) stretch-security; urgency=high",
         "golang-1.7 (1.7.4-2+deb9u4) stretch-security; urgency=high",

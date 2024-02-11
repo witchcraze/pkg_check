@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/oldoldstable 8.5.54-0+deb9u8 all",
+        "tomcat8/oldoldstable 8.5.54-0+deb9u1 all"
+    ],
     "changelog": [
         "tomcat8 (8.5.54-0+deb9u8) stretch-security; urgency=high",
         "tomcat8 (8.5.54-0+deb9u7) stretch-security; urgency=high",

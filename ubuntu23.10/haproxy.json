@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/mantic 2.6.15-1ubuntu2 amd64"
+    ],
     "changelog": [
         "haproxy (2.6.15-1ubuntu2) mantic; urgency=medium",
         "haproxy (2.6.15-1ubuntu1) mantic; urgency=medium",

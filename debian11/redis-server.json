@@ -15,6 +15,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/oldstable,oldstable-security 5:6.0.16-1+deb11u2 amd64"
+    ],
     "changelog": [
         "redis (5:6.0.16-1+deb11u2) bullseye-security; urgency=high",
         "redis (5:6.0.16-1+deb11u1) bullseye-security; urgency=high",

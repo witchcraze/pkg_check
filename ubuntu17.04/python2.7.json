@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/zesty-updates,zesty-security 2.7.13-2ubuntu0.1 amd64",
+        "python2.7/zesty 2.7.13-2 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.13-2ubuntu0.1) zesty-security; urgency=medium",
         "python2.7 (2.7.13-2) unstable; urgency=medium",

@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-backports/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.10/artful-backports 1.10-1ubuntu1~17.10.1 all"
+    ],
     "changelog": [
         "golang-1.10 (1.10-1ubuntu1~17.10.1) artful-backports; urgency=medium",
         "golang-1.10 (1.10-1ubuntu1) bionic; urgency=medium",

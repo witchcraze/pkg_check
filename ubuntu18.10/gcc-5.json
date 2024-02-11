@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-5/cosmic 5.5.0-12ubuntu8 amd64"
+    ],
     "changelog": [
         "gcc-5 (5.5.0-12ubuntu8) cosmic; urgency=medium",
         "gcc-5 (5.5.0-12ubuntu7) cosmic; urgency=medium",

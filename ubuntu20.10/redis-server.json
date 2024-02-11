@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/groovy 5:6.0.6-1 amd64"
+    ],
     "changelog": [
         "redis (5:6.0.6-1) unstable; urgency=medium",
         "redis (5:6.0.5-1) unstable; urgency=medium",

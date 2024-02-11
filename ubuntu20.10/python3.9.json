@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
+    "list": [
+        "python3.9/groovy-updates,groovy-security 3.9.5-3~20.10.1 amd64",
+        "python3.9/groovy 3.9.0-5 amd64"
+    ],
     "changelog": [
         "python3.9 (3.9.5-3~20.10.1) groovy; urgency=medium",
         "python3.9 (3.9.5-3) experimental; urgency=medium",

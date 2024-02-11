@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.9/zesty 4.9.4-2ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-4.9 (4.9.4-2ubuntu1) yakkety; urgency=medium",
         "gcc-4.9 (4.9.4-2) unstable; urgency=medium",

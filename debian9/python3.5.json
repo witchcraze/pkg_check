@@ -13,6 +13,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/oldoldstable,now 3.5.3-1+deb9u5 amd64 [installed,automatic]",
+        "python3.5/oldoldstable 3.5.3-1+deb9u1 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.3-1+deb9u5) stretch-security; urgency=high",
         "python3.5 (3.5.3-1+deb9u4) stretch-security; urgency=medium",

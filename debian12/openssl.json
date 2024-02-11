@@ -17,6 +17,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/stable,stable-security,now 3.0.11-1~deb12u2 amd64 [installed,automatic]"
+    ],
     "changelog": [
         "openssl (3.0.11-1~deb12u2) bookworm-security; urgency=medium",
         "openssl (3.0.11-1~deb12u1) bookworm; urgency=medium",

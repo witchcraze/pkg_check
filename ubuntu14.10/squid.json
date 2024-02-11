@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/universe amd64 Packages",
         "Description": "dependency package from squid to squid3"
     },
+    "list": [
+        "squid/utopic-updates,utopic-security 3.3.8-1ubuntu8.1 amd64",
+        "squid/utopic 3.3.8-1ubuntu8 amd64"
+    ],
     "changelog": [
         "squid3 (3.3.8-1ubuntu8.1) utopic-security; urgency=medium",
         "squid3 (3.3.8-1ubuntu8) utopic; urgency=medium",

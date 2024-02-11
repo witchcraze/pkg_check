@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/lunar-updates,lunar-security 8u392-ga-1~23.04 amd64",
+        "openjdk-8-jdk/lunar 8u362-ga-0ubuntu2 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u392-ga-1~23.04) lunar-security; urgency=low",
         "openjdk-8 (8u392-ga-1) unstable; urgency=low",

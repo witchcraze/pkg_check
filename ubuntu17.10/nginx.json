@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/artful 1.12.1-0ubuntu2 all"
+    ],
     "changelog": [
         "nginx (1.12.1-0ubuntu2) artful; urgency=medium",
         "nginx (1.12.1-0ubuntu1) artful; urgency=medium",

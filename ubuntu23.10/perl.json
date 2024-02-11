@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/mantic-updates,mantic-security 5.36.0-9ubuntu1.1 amd64",
+        "perl/mantic 5.36.0-9ubuntu1 amd64"
+    ],
     "changelog": [
         "perl (5.36.0-9ubuntu1.1) mantic-security; urgency=medium",
         "perl (5.36.0-9ubuntu1) mantic; urgency=medium",

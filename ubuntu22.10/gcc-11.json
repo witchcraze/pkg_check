@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-11/kinetic 11.3.0-6ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-11 (11.3.0-6ubuntu1) kinetic; urgency=medium",
         "gcc-11 (11.3.0-6) unstable; urgency=medium",

@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/utopic 1.6.2-1ubuntu1.1 all"
+    ],
     "changelog": [
         "nginx (1.6.2-1ubuntu1.1) utopic; urgency=medium",
         "nginx (1.6.2-1ubuntu1) utopic; urgency=medium",

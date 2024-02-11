@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/jammy-updates,jammy-security,now 3.0.2-0ubuntu1.14 amd64 [installed,automatic]",
+        "openssl/jammy 3.0.2-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openssl (3.0.2-0ubuntu1.14) jammy-security; urgency=medium",
         "openssl (3.0.2-0ubuntu1.13) jammy; urgency=medium",

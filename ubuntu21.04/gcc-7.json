@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-7/hirsute 7.5.0-6ubuntu4 amd64"
+    ],
     "changelog": [
         "gcc-7 (7.5.0-6ubuntu4) hirsute; urgency=medium",
         "gcc-7 (7.5.0-6ubuntu3) groovy; urgency=medium",

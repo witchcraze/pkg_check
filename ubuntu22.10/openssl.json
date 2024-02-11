@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/kinetic-updates,kinetic-security,now 3.0.5-2ubuntu2.3 amd64 [installed,automatic]",
+        "openssl/kinetic 3.0.5-2ubuntu1 amd64"
+    ],
     "changelog": [
         "openssl (3.0.5-2ubuntu2.3) kinetic-security; urgency=medium",
         "openssl (3.0.5-2ubuntu2.2) kinetic-security; urgency=medium",

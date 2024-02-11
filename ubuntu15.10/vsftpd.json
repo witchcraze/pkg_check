@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/wily 3.0.2-20ubuntu1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.2-20ubuntu1) wily; urgency=low",
         "vsftpd (3.0.2-20) unstable; urgency=medium",

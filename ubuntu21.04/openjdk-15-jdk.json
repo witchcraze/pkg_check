@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-15-jdk/hirsute 15.0.3+3-1 amd64"
+    ],
     "changelog": [
         "openjdk-15 (15.0.3+3-1) unstable; urgency=medium",
         "openjdk-15 (15.0.2+7-1) unstable; urgency=medium",

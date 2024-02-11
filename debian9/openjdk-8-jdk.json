@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/oldoldstable 8u332-ga-1~deb9u1 amd64",
+        "openjdk-8-jdk/oldoldstable 8u252-b09-1~deb9u1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u332-ga-1~deb9u1) stretch-security; urgency=high",
         "openjdk-8 (8u332-ga-1) unstable; urgency=medium",

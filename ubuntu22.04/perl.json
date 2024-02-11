@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/jammy-updates,jammy-security 5.34.0-3ubuntu1.3 amd64",
+        "perl/jammy 5.34.0-3ubuntu1 amd64"
+    ],
     "changelog": [
         "perl (5.34.0-3ubuntu1.3) jammy-security; urgency=medium",
         "perl (5.34.0-3ubuntu1.2) jammy-security; urgency=medium",

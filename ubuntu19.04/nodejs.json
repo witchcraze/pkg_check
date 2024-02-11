@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/disco 10.15.2~dfsg-1 amd64"
+    ],
     "changelog": [
         "nodejs (10.15.2~dfsg-1) unstable; urgency=high",
         "nodejs (10.15.1~dfsg-5) unstable; urgency=medium",

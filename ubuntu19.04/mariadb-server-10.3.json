@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.3/disco-updates,disco-security 1:10.3.20-0ubuntu0.19.04.1 amd64",
+        "mariadb-server-10.3/disco 1:10.3.13-2 amd64"
+    ],
     "changelog": [
         "mariadb-10.3 (1:10.3.20-0ubuntu0.19.04.1) disco-security; urgency=high",
         "mariadb-10.3 (1:10.3.17-0ubuntu0.19.04.1) disco-security; urgency=medium",

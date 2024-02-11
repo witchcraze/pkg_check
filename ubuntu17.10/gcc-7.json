@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-7/artful-updates,artful-security 7.2.0-8ubuntu3.2 amd64",
+        "gcc-7/artful 7.2.0-8ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-7 (7.2.0-8ubuntu3.2) artful-security; urgency=medium",
         "gcc-7 (7.2.0-8ubuntu3.1) artful-security; urgency=medium",

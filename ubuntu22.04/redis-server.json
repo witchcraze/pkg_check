@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/jammy 5:6.0.16-1ubuntu1 amd64"
+    ],
     "changelog": [
         "redis (5:6.0.16-1ubuntu1) jammy; urgency=medium",
         "redis (5:6.0.16-1build1) jammy; urgency=medium",

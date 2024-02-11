@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.2/cosmic-updates,cosmic-security 7.2.19-0ubuntu0.18.10.1 all",
+        "php7.2/cosmic 7.2.10-0ubuntu1 all"
+    ],
     "changelog": [
         "php7.2 (7.2.19-0ubuntu0.18.10.1) cosmic-security; urgency=medium",
         "php7.2 (7.2.17-0ubuntu0.18.10.1) cosmic-security; urgency=medium",

@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/oldoldstable 1.7.5-2+deb9u1 amd64",
+        "haproxy/oldoldstable 1.7.5-2 amd64"
+    ],
     "changelog": [
         "haproxy (1.7.5-2+deb9u1) stretch-security; urgency=high",
         "haproxy (1.7.5-2) unstable; urgency=medium",

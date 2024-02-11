@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-6/cosmic-updates 6.5.0-2ubuntu1~18.10 amd64",
+        "gcc-6/cosmic 6.4.0-22ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-6 (6.5.0-2ubuntu1~18.10) cosmic-proposed; urgency=medium",
         "gcc-6 (6.5.0-2ubuntu1) disco; urgency=medium",

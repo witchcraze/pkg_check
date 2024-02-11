@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.10/cosmic 1.10.4-2ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.10 (1.10.4-2ubuntu1) cosmic; urgency=medium",
         "golang-1.10 (1.10.4-2) unstable; urgency=medium",

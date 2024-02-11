@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
+    "list": [
+        "python3.7/bionic-updates,bionic-security 3.7.5-2ubuntu1~18.04.2 amd64",
+        "python3.7/bionic 3.7.0~b3-1 amd64"
+    ],
     "changelog": [
         "python3.7 (3.7.5-2ubuntu1~18.04.2) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2~18.04.4) bionic-security; urgency=medium",

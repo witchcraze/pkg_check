@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/jammy-updates,jammy-security 17.0.9+9-1~22.04 amd64",
+        "openjdk-17-jdk/jammy 17.0.2+8-1 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.9+9-1~22.04) jammy-security; urgency=high",
         "openjdk-17 (17.0.9+9-1) unstable; urgency=high",

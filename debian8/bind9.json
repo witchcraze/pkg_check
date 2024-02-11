@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/oldoldstable,now 1:9.9.5.dfsg-9+deb8u19 amd64 [installed]",
+        "bind9/oldstable 1:9.9.5.dfsg-9+deb8u15 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.9.5.dfsg-9+deb8u19) jessie-security; urgency=high",
         "bind9 (1:9.9.5.dfsg-9+deb8u18) jessie-security; urgency=high",

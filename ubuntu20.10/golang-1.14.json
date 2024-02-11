@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.14/groovy-updates,groovy-security 1.14.7-2ubuntu1.1 all",
+        "golang-1.14/groovy 1.14.7-2ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.14 (1.14.7-2ubuntu1.1) groovy-security; urgency=medium",
         "golang-1.14 (1.14.7-2ubuntu1) groovy; urgency=low",

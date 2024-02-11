@@ -13,6 +13,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/oldoldstable 3:3.2.6-3+deb9u9 amd64",
+        "redis-server/oldoldstable 3:3.2.6-3+deb9u3 amd64"
+    ],
     "changelog": [
         "redis (3:3.2.6-3+deb9u9) stretch-security; urgency=high",
         "redis (3:3.2.6-3+deb9u8) stretch-security; urgency=high",

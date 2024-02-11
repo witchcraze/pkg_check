@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "7",
         "Version": "3.5.20",
-        "Release": "17.amzn2.7.15",
+        "Release": "17.amzn2.7.17",
         "Size": "3.1 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "The Squid proxy caching server",
@@ -30,6 +30,8 @@
         "squid.x86_64                  7:3.5.20-17.amzn2.7.10                  amzn2-core",
         "squid.x86_64                  7:3.5.20-17.amzn2.7.11                  amzn2-core",
         "squid.x86_64                  7:3.5.20-17.amzn2.7.14                  amzn2-core",
-        "squid.x86_64                  7:3.5.20-17.amzn2.7.15                  amzn2-core"
+        "squid.x86_64                  7:3.5.20-17.amzn2.7.15                  amzn2-core",
+        "squid.x86_64                  7:3.5.20-17.amzn2.7.16                  amzn2-core",
+        "squid.x86_64                  7:3.5.20-17.amzn2.7.17                  amzn2-core"
     ]
 }

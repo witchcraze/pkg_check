@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/mantic-updates,mantic-security 1.6.21-1ubuntu0.23.10.1 amd64",
+        "memcached/mantic 1.6.21-1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.21-1ubuntu0.23.10.1) mantic-security; urgency=medium",
         "memcached (1.6.21-1) unstable; urgency=medium",

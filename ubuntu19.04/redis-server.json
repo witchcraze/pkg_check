@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/disco-updates,disco-security 5:5.0.3-4ubuntu0.1 amd64",
+        "redis-server/disco 5:5.0.3-4 amd64"
+    ],
     "changelog": [
         "redis (5:5.0.3-4ubuntu0.1) disco-security; urgency=high",
         "redis (5:5.0.3-4) unstable; urgency=medium",

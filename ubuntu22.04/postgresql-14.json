@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
+    "list": [
+        "postgresql-14/jammy-updates,jammy-security 14.10-0ubuntu0.22.04.1 amd64",
+        "postgresql-14/jammy 14.2-1ubuntu1 amd64"
+    ],
     "changelog": [
         "postgresql-14 (14.10-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "postgresql-14 (14.9-0ubuntu0.22.04.1) jammy-security; urgency=medium",

@@ -20,6 +20,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/jammy-updates 1:9.18.18-0ubuntu0.22.04.1 amd64",
+        "bind9/jammy-security 1:9.18.12-0ubuntu0.22.04.3 amd64",
+        "bind9/jammy 1:9.18.1-1ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.18.18-0ubuntu0.22.04.1) jammy; urgency=medium",
         "bind9 (1:9.18.12-0ubuntu0.22.04.3) jammy-security; urgency=medium",

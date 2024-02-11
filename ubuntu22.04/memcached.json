@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/jammy-updates,jammy-security 1.6.14-1ubuntu0.1 amd64",
+        "memcached/jammy 1.6.14-1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.14-1ubuntu0.1) jammy-security; urgency=medium",
         "memcached (1.6.14-1) unstable; urgency=medium",

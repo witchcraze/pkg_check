@@ -21,6 +21,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/impish 12.22.5~dfsg-5ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (12.22.5~dfsg-5ubuntu1) impish; urgency=low",
         "nodejs (12.22.5~dfsg-5) unstable; urgency=medium",

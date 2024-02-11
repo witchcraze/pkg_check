@@ -12,6 +12,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/oldoldstable 1.14.2-2+deb10u5 all",
+        "nginx/oldoldstable 1.14.2-2+deb10u4 all"
+    ],
     "changelog": [
         "nginx (1.14.2-2+deb10u5) buster-security; urgency=high",
         "nginx (1.14.2-2+deb10u4) buster-security; urgency=medium",

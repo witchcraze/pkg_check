@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/stable-security 5:7.0.15-1~deb12u1 amd64",
+        "redis-server/stable 5:7.0.11-1+deb12u1 amd64"
+    ],
     "changelog": [
         "redis (5:7.0.15-1~deb12u1) bookworm-security; urgency=high",
         "redis (5:7.0.15-1) unstable; urgency=medium",

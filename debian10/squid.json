@@ -17,6 +17,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/oldoldstable 4.6-1+deb10u10 amd64",
+        "squid/oldoldstable 4.6-1+deb10u7 amd64"
+    ],
     "changelog": [
         "squid (4.6-1+deb10u10) buster-security; urgency=high",
         "squid (4.6-1+deb10u9) buster-security; urgency=high",

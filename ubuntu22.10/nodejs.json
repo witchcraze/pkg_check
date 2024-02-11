@@ -21,6 +21,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/kinetic 18.7.0+dfsg-5ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (18.7.0+dfsg-5ubuntu1) kinetic; urgency=low",
         "nodejs (18.7.0+dfsg-5) unstable; urgency=medium",

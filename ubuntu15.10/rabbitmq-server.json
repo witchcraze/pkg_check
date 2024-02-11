@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/wily 3.5.4-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.5.4-1) unstable; urgency=medium",
         "rabbitmq-server (3.5.1-2) unstable; urgency=medium",

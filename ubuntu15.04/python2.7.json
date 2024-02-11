@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/vivid 2.7.9-2ubuntu3 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.9-2ubuntu3) vivid; urgency=medium",
         "python2.7 (2.7.9-2ubuntu2) vivid; urgency=medium",

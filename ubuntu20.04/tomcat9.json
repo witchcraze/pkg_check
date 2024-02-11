@@ -17,6 +17,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/focal-updates 9.0.31-1ubuntu0.4 all",
+        "tomcat9/focal-security 9.0.31-1ubuntu0.2 all",
+        "tomcat9/focal 9.0.31-1 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.31-1ubuntu0.4) focal; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.3) focal; urgency=medium",

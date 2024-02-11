@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/yakkety-updates,yakkety-security 3.5.12-1ubuntu8.1 amd64",
+        "squid/yakkety 3.5.12-1ubuntu8 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.12-1ubuntu8.1) yakkety-security; urgency=medium",
         "squid3 (3.5.12-1ubuntu8) yakkety; urgency=medium",

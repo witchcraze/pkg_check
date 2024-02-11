@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/lunar-updates,lunar-security 8.0.35-0ubuntu0.23.04.1 amd64",
+        "mysql-server-8.0/lunar 8.0.32-0ubuntu4 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.35-0ubuntu0.23.04.1) lunar-security; urgency=medium",
         "mysql-8.0 (8.0.34-0ubuntu0.23.04.1) lunar-security; urgency=medium",

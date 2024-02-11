@@ -17,6 +17,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.0/yakkety-updates 7.0.18-0ubuntu0.16.10.1 all",
+        "php7.0/yakkety-security 7.0.15-0ubuntu0.16.10.4 all",
+        "php7.0/yakkety 7.0.8-3ubuntu3 all"
+    ],
     "changelog": [
         "php7.0 (7.0.18-0ubuntu0.16.10.1) yakkety; urgency=medium",
         "php7.0 (7.0.15-0ubuntu0.16.10.4) yakkety-security; urgency=medium",

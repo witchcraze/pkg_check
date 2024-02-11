@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Versatile, virtual-hosting FTP daemon - binaries"
     },
+    "list": [
+        "proftpd-basic/oldoldstable 1.3.5e+r1.3.5-2+deb8u7 amd64",
+        "proftpd-basic/oldstable 1.3.5-1.1+deb8u2 amd64"
+    ],
     "changelog": [
         "proftpd-dfsg (1.3.5e+r1.3.5-2+deb8u7) jessie-security; urgency=high",
         "proftpd-dfsg (1.3.5e+r1.3.5-2+deb8u6) jessie-security; urgency=high",

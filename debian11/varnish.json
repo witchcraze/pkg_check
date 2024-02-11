@@ -17,6 +17,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/oldstable,oldstable-security 6.5.1-1+deb11u3 amd64"
+    ],
     "changelog": [
         "varnish (6.5.1-1+deb11u3) bullseye-security; urgency=high",
         "varnish (6.5.1-1+deb11u2) bullseye-security; urgency=medium",

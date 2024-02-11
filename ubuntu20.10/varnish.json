@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/groovy 6.4.0-3 amd64"
+    ],
     "changelog": [
         "varnish (6.4.0-3) unstable; urgency=medium",
         "varnish (6.4.0-2) unstable; urgency=medium",

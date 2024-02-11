@@ -16,6 +16,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 11 server"
     },
+    "list": [
+        "postgresql-11/oldoldstable 11.22-0+deb10u1 amd64",
+        "postgresql-11/oldoldstable 11.16-0+deb10u1 amd64"
+    ],
     "changelog": [
         "postgresql-11 (11.22-0+deb10u1) buster-security; urgency=medium",
         "postgresql-11 (11.21-0+deb10u2) buster-security; urgency=medium",

@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/zesty 3.5.23-1ubuntu1 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.23-1ubuntu1) zesty; urgency=medium",
         "squid3 (3.5.23-1) unstable; urgency=high",

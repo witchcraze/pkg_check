@@ -15,6 +15,9 @@
         "APT-Sources": "http://archive.debian.org/debian stretch/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/oldoldstable,oldoldstable 1.4.33-1+deb9u1 amd64"
+    ],
     "changelog": [
         "memcached (1.4.33-1+deb9u1) stretch-security; urgency=high",
         "memcached (1.4.33-1) unstable; urgency=medium",

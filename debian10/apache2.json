@@ -19,6 +19,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/oldoldstable 2.4.38-3+deb10u10 amd64",
+        "apache2/oldoldstable 2.4.38-3+deb10u8 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.38-3+deb10u10) buster-security; urgency=medium",
         "apache2 (2.4.38-3+deb10u9) buster-security; urgency=medium",

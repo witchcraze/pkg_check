@@ -17,6 +17,10 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/oldstable,now 1.1.1w-0+deb11u1 amd64 [installed,automatic]",
+        "openssl/oldstable-security 1.1.1n-0+deb11u5 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1w-0+deb11u1) bullseye; urgency=medium",
         "openssl (1.1.1v-0~deb11u1) bullseye; urgency=medium",

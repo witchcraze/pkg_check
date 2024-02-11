@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat10/mantic 10.1.10-1 all"
+    ],
     "changelog": [
         "tomcat10 (10.1.10-1) unstable; urgency=medium",
         "tomcat10 (10.1.9-1) experimental; urgency=medium",

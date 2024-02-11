@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/eoan-updates,eoan-security 1.16.1-0ubuntu2.1 all",
+        "nginx/eoan 1.16.1-0ubuntu2 all"
+    ],
     "changelog": [
         "nginx (1.16.1-0ubuntu2.1) eoan-security; urgency=medium",
         "nginx (1.16.1-0ubuntu2) eoan; urgency=medium",

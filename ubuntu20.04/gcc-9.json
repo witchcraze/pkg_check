@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/focal-updates,focal-security 9.4.0-1ubuntu1~20.04.2 amd64",
+        "gcc-9/focal 9.3.0-10ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.4.0-1ubuntu1~20.04.2) focal-proposed; urgency=medium",
         "gcc-9 (9.4.0-1ubuntu1~20.04.1) focal-proposed; urgency=medium",

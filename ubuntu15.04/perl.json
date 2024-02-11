@@ -25,6 +25,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/vivid-updates,vivid-security 5.20.2-2ubuntu0.1 amd64",
+        "perl/vivid 5.20.2-2 amd64"
+    ],
     "changelog": [
         "perl (5.20.2-2ubuntu0.1) vivid-security; urgency=medium",
         "perl (5.20.2-2) unstable; urgency=medium",

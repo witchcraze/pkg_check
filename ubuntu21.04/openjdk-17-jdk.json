@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/hirsute-updates,hirsute-security 17.0.1+12-1~21.04 amd64",
+        "openjdk-17-jdk/hirsute 17~17-1 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.1+12-1~21.04) hirsute-security; urgency=medium",
         "openjdk-17 (17.0.1+12-1) unstable; urgency=medium",

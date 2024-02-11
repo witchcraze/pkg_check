@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/oldoldstable 1.8.19-1+deb10u5 amd64",
+        "haproxy/oldoldstable 1.8.19-1+deb10u3 amd64"
+    ],
     "changelog": [
         "haproxy (1.8.19-1+deb10u5) buster-security; urgency=high",
         "haproxy (1.8.19-1+deb10u4) buster-security; urgency=high",

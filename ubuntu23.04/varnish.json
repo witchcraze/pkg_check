@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/lunar 7.1.1-1.1ubuntu1 amd64"
+    ],
     "changelog": [
         "varnish (7.1.1-1.1ubuntu1) lunar; urgency=medium",
         "varnish (7.1.1-1.1) unstable; urgency=medium",

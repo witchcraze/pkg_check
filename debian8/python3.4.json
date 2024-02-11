@@ -12,6 +12,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
+    "list": [
+        "python3.4/oldoldstable 3.4.2-1+deb8u7 amd64",
+        "python3.4/oldstable 3.4.2-1 amd64"
+    ],
     "changelog": [
         "python3.4 (3.4.2-1+deb8u7) jessie-security; urgency=high",
         "python3.4 (3.4.2-1+deb8u6) jessie-security; urgency=high",

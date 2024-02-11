@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-18-jdk/lunar 18.0.2+9-2ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-18 (18.0.2+9-2ubuntu1) lunar; urgency=medium",
         "openjdk-18 (18.0.2+9-2) unstable; urgency=medium",

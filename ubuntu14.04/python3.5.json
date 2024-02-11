@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/trusty-updates,trusty-security 3.5.2-2ubuntu0~16.04.4~14.04.1 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.2-2ubuntu0~16.04.4~14.04.1) trusty; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.4) xenial-security; urgency=medium",

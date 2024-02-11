@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/lunar-updates,lunar-security 5.36.0-7ubuntu0.23.04.2 amd64",
+        "perl/lunar 5.36.0-7 amd64"
+    ],
     "changelog": [
         "perl (5.36.0-7ubuntu0.23.04.2) lunar-security; urgency=medium",
         "perl (5.36.0-7ubuntu0.23.04.1) lunar-security; urgency=medium",

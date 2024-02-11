@@ -12,6 +12,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/oldstable-security 3.8.9-3+deb11u1 all",
+        "rabbitmq-server/oldstable 3.8.9-3 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.8.9-3+deb11u1) bullseye-security; urgency=medium",
         "rabbitmq-server (3.8.9-3) unstable; urgency=medium",

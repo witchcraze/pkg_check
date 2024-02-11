@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/oldoldstable 8.0.14-1+deb8u17 all",
+        "tomcat8/oldstable 8.0.14-1+deb8u11 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.14-1+deb8u17) jessie-security; urgency=high",
         "tomcat8 (8.0.14-1+deb8u16) jessie-security; urgency=medium",

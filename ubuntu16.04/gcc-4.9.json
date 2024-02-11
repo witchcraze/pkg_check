@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.9/xenial 4.9.3-13ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-4.9 (4.9.3-13ubuntu2) xenial; urgency=medium",
         "gcc-4.9 (4.9.3-13ubuntu1) xenial; urgency=medium",

@@ -14,11 +14,11 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            appstream",
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "nginx.x86_64            1:1.14.1-9.module_el8.0.0+184+e34fea82            vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      appstream",
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "nginx.x86_64                      1:1.14.1-9.module_el8.0.0+184+e34fea82                      vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

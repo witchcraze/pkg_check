@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/artful-updates,artful-security 8.5.21-1ubuntu1.1 all",
+        "tomcat8/artful 8.5.21-1ubuntu1 all"
+    ],
     "changelog": [
         "tomcat8 (8.5.21-1ubuntu1.1) artful-security; urgency=medium",
         "tomcat8 (8.5.21-1ubuntu1) artful; urgency=medium",

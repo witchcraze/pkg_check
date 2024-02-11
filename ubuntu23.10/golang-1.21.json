@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.21/mantic-updates,mantic-security 1.21.1-1ubuntu0.23.10.1 all",
+        "golang-1.21/mantic 1.21.1-1 all"
+    ],
     "changelog": [
         "golang-1.21 (1.21.1-1ubuntu0.23.10.1) mantic-security; urgency=medium",
         "golang-1.21 (1.21.1-1) unstable; urgency=medium",

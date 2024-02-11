@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.1/zesty-updates,zesty-security 10.1.25-0ubuntu0.17.04.1 amd64",
+        "mariadb-server-10.1/zesty 10.1.22-3 amd64"
+    ],
     "changelog": [
         "mariadb-10.1 (10.1.25-0ubuntu0.17.04.1) zesty-security; urgency=high",
         "mariadb-10.1 (10.1.22-3) unstable; urgency=medium",

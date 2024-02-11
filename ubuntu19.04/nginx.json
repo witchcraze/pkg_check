@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/disco-updates,disco-security 1.15.9-0ubuntu1.2 all",
+        "nginx/disco 1.15.9-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.15.9-0ubuntu1.2) disco-security; urgency=medium",
         "nginx (1.15.9-0ubuntu1.1) disco-security; urgency=medium",

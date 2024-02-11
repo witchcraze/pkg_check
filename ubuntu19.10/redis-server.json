@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/eoan 5:5.0.5-2build1 amd64"
+    ],
     "changelog": [
         "redis (5:5.0.5-2build1) eoan; urgency=medium",
         "redis (5:5.0.5-2) unstable; urgency=medium",

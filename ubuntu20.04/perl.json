@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/focal-updates,focal-security 5.30.0-9ubuntu0.5 amd64",
+        "perl/focal 5.30.0-9build1 amd64"
+    ],
     "changelog": [
         "perl (5.30.0-9ubuntu0.5) focal-security; urgency=medium",
         "perl (5.30.0-9ubuntu0.4) focal-security; urgency=medium",

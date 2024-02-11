@@ -21,6 +21,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/hirsute 12.21.0~dfsg-3ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (12.21.0~dfsg-3ubuntu1) hirsute; urgency=low",
         "nodejs (12.21.0~dfsg-3) unstable; urgency=medium",

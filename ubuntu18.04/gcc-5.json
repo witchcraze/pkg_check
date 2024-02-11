@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-5/bionic 5.5.0-12ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-5 (5.5.0-12ubuntu1) bionic; urgency=medium",
         "gcc-5 (5.5.0-12) unstable; urgency=medium",

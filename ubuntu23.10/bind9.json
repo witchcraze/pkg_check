@@ -20,6 +20,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/mantic 1:9.18.18-0ubuntu2 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.18.18-0ubuntu2) mantic; urgency=medium",
         "bind9 (1:9.18.18-0ubuntu1) mantic; urgency=medium",

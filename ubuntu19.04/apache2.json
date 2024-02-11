@@ -24,6 +24,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/disco-updates,disco-security 2.4.38-2ubuntu2.3 amd64",
+        "apache2/disco 2.4.38-2ubuntu2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.38-2ubuntu2.3) disco-security; urgency=medium",
         "apache2 (2.4.38-2ubuntu2.2) disco-security; urgency=medium",

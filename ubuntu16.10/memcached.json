@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/yakkety-updates,yakkety-security 1.4.25-2ubuntu2.1 amd64",
+        "memcached/yakkety 1.4.25-2ubuntu2 amd64"
+    ],
     "changelog": [
         "memcached (1.4.25-2ubuntu2.1) yakkety-security; urgency=medium",
         "memcached (1.4.25-2ubuntu2) yakkety; urgency=medium",

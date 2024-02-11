@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/universe amd64 Packages",
         "Description": "Transitional dummy package for ProFTPD"
     },
+    "list": [
+        "proftpd-basic/hirsute 1.3.7a+dfsg-12 all"
+    ],
     "changelog": [
         "proftpd-dfsg (1.3.7a+dfsg-12) unstable; urgency=medium",
         "proftpd-dfsg (1.3.7a+dfsg-11) unstable; urgency=medium",

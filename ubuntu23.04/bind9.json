@@ -20,6 +20,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/lunar-updates 1:9.18.18-0ubuntu0.23.04.1 amd64",
+        "bind9/lunar-security 1:9.18.12-1ubuntu1.2 amd64",
+        "bind9/lunar 1:9.18.12-1ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.18.18-0ubuntu0.23.04.1) lunar; urgency=medium",
         "bind9 (1:9.18.12-1ubuntu1.2) lunar-security; urgency=medium",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-13/lunar-updates,lunar-security 13.1.0-2ubuntu2~23.04 amd64",
+        "gcc-13/lunar 13-20230320-1ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-13 (13.1.0-2ubuntu2~23.04) lunar-proposed; urgency=medium",
         "gcc-13 (13.1.0-2ubuntu2) mantic; urgency=medium",

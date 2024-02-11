@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
+    "list": [
+        "postgresql-15/lunar-updates,lunar-security 15.5-0ubuntu0.23.04.1 amd64",
+        "postgresql-15/lunar 15.2-1 amd64"
+    ],
     "changelog": [
         "postgresql-15 (15.5-0ubuntu0.23.04.1) lunar-security; urgency=medium",
         "postgresql-15 (15.4-0ubuntu0.23.04.1) lunar-security; urgency=medium",

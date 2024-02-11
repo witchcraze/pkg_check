@@ -19,6 +19,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.4 server"
     },
+    "list": [
+        "postgresql-9.4/wily-updates 9.4.8-0ubuntu0.15.10 amd64",
+        "postgresql-9.4/wily-security 9.4.6-0ubuntu0.15.10 amd64",
+        "postgresql-9.4/wily 9.4.5-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.4 (9.4.8-0ubuntu0.15.10) wily-proposed; urgency=medium",
         "postgresql-9.4 (9.4.7-0ubuntu0.15.10) wily-proposed; urgency=medium",

@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-21-jdk/jammy-updates 21.0.1+12-2~22.04 amd64"
+    ],
     "changelog": [
         "openjdk-21 (21.0.1+12-2~22.04) jammy; urgency=medium",
         "openjdk-21 (21.0.1+12-2) unstable; urgency=medium",

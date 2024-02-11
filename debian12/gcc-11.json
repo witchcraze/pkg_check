@@ -16,6 +16,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-11/stable 11.3.0-12 amd64"
+    ],
     "changelog": [
         "gcc-11 (11.3.0-12) unstable; urgency=medium",
         "gcc-11 (11.3.0-11) unstable; urgency=medium",

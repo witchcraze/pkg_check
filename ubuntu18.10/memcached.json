@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/cosmic-updates,cosmic-security 1.5.10-0ubuntu1.18.10.1 amd64",
+        "memcached/cosmic 1.5.10-0ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.5.10-0ubuntu1.18.10.1) cosmic-security; urgency=medium",
         "memcached (1.5.10-0ubuntu1) cosmic; urgency=medium",

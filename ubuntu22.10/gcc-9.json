@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/kinetic 9.5.0-1ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.5.0-1ubuntu3) kinetic; urgency=medium",
         "gcc-9 (9.5.0-1ubuntu2) kinetic; urgency=medium",

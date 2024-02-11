@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/zesty-updates,zesty-security 8u151-b12-0ubuntu0.17.04.2 amd64",
+        "openjdk-8-jdk/zesty 8u121-b13-4 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u151-b12-0ubuntu0.17.04.2) zesty-security; urgency=medium",
         "openjdk-8 (8u151-b12-0ubuntu0.17.10.2) artful-security; urgency=medium",

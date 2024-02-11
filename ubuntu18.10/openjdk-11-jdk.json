@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/cosmic-updates,cosmic-security 11.0.3+7-1ubuntu2~18.10.1 amd64",
+        "openjdk-11-jdk/cosmic 11~28-3ubuntu2 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.3+7-1ubuntu2~18.10.1) cosmic-security; urgency=medium",
         "openjdk-lts (11.0.3+7-1ubuntu2) eoan; urgency=medium",

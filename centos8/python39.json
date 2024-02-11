@@ -13,7 +13,7 @@
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python39.x86_64            3.9.2-1.module_el8.4.0+720+bfbc1bcb            vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "python39.x86_64            3.9.6-2.module_el8.5.0+897+68c4c210            appstream"
+        "python39.x86_64                      3.9.2-1.module_el8.4.0+720+bfbc1bcb                      vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "python39.x86_64                      3.9.6-2.module_el8.5.0+897+68c4c210                      appstream"
     ]
 }

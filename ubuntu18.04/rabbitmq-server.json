@@ -16,6 +16,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/bionic-backports 3.8.2-0ubuntu1~ubuntu18.04.1 all",
+        "rabbitmq-server/bionic-updates,bionic-security 3.6.10-1ubuntu0.5 all",
+        "rabbitmq-server/bionic 3.6.10-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.6.10-1ubuntu0.5) bionic-security; urgency=medium",
         "rabbitmq-server (3.6.10-1ubuntu0.4) bionic; urgency=medium",

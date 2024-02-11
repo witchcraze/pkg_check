@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.7/impish-updates,impish-security 2.7.4-1ubuntu3.2 amd64",
+        "ruby2.7/impish 2.7.4-1ubuntu3 amd64"
+    ],
     "changelog": [
         "ruby2.7 (2.7.4-1ubuntu3.2) impish-security; urgency=medium",
         "ruby2.7 (2.7.4-1ubuntu3.1) impish-security; urgency=medium",

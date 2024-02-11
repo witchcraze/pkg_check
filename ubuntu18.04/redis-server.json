@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/bionic-updates,bionic-security 5:4.0.9-1ubuntu0.2 amd64",
+        "redis-server/bionic 5:4.0.9-1 amd64"
+    ],
     "changelog": [
         "redis (5:4.0.9-1ubuntu0.2) bionic-security; urgency=medium",
         "redis (5:4.0.9-1ubuntu0.1) bionic-security; urgency=medium",

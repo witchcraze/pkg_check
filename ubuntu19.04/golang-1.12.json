@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.12/disco 1.12-1ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.12 (1.12-1ubuntu1) disco; urgency=medium",
         "golang-1.12 (1.12-1) unstable; urgency=medium",

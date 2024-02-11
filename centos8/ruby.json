@@ -13,19 +13,19 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686               2.5.3-104.module_el8.0.0+179+565e49e2             vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.3-104.module_el8.0.0+179+565e49e2             vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "ruby.i686               2.5.5-105.module_el8.1.0+214+9be47fd7             vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "ruby.i686               2.5.5-105.module_el8.1.0+214+9be47fd7             vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.5-105.module_el8.1.0+214+9be47fd7             vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.5-105.module_el8.1.0+214+9be47fd7             vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "ruby.i686               2.5.5-106.module_el8.3.0+571+bab7c6bc             vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "ruby.i686               2.5.5-106.module_el8.3.0+571+bab7c6bc             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.5-106.module_el8.3.0+571+bab7c6bc             vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.5-106.module_el8.3.0+571+bab7c6bc             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "ruby.i686               2.5.9-107.module_el8.4.0+847+ee687b6c             appstream",
-        "ruby.i686               2.5.9-107.module_el8.4.0+847+ee687b6c             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "ruby.x86_64             2.5.9-107.module_el8.4.0+847+ee687b6c             appstream",
-        "ruby.x86_64             2.5.9-107.module_el8.4.0+847+ee687b6c             vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "ruby.i686                         2.5.3-104.module_el8.0.0+179+565e49e2                       vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.3-104.module_el8.0.0+179+565e49e2                       vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "ruby.i686                         2.5.5-105.module_el8.1.0+214+9be47fd7                       vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "ruby.i686                         2.5.5-105.module_el8.1.0+214+9be47fd7                       vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.5-105.module_el8.1.0+214+9be47fd7                       vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.5-105.module_el8.1.0+214+9be47fd7                       vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "ruby.i686                         2.5.5-106.module_el8.3.0+571+bab7c6bc                       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "ruby.i686                         2.5.5-106.module_el8.3.0+571+bab7c6bc                       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.5-106.module_el8.3.0+571+bab7c6bc                       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.5-106.module_el8.3.0+571+bab7c6bc                       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "ruby.i686                         2.5.9-107.module_el8.4.0+847+ee687b6c                       appstream",
+        "ruby.i686                         2.5.9-107.module_el8.4.0+847+ee687b6c                       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "ruby.x86_64                       2.5.9-107.module_el8.4.0+847+ee687b6c                       appstream",
+        "ruby.x86_64                       2.5.9-107.module_el8.4.0+847+ee687b6c                       vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/xenial-updates,xenial-security 1.6.3-1ubuntu0.3 amd64",
+        "haproxy/xenial 1.6.3-1 amd64"
+    ],
     "changelog": [
         "haproxy (1.6.3-1ubuntu0.3) xenial-security; urgency=medium",
         "haproxy (1.6.3-1ubuntu0.2) xenial-security; urgency=medium",

@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
+    "list": [
+        "squid/kinetic 5.6-1ubuntu3 amd64"
+    ],
     "changelog": [
         "squid (5.6-1ubuntu3) kinetic; urgency=medium",
         "squid (5.6-1ubuntu2) kinetic; urgency=medium",

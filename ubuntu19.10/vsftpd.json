@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/eoan 3.0.3-12 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-12) unstable; urgency=low",
         "vsftpd (3.0.3-11) unstable; urgency=low",

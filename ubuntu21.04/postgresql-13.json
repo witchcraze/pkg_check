@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
+    "list": [
+        "postgresql-13/hirsute-updates,hirsute-security 13.5-0ubuntu0.21.04.1 amd64",
+        "postgresql-13/hirsute 13.2-1 amd64"
+    ],
     "changelog": [
         "postgresql-13 (13.5-0ubuntu0.21.04.1) hirsute-security; urgency=medium",
         "postgresql-13 (13.4-0ubuntu0.21.04.1) hirsute-security; urgency=medium",

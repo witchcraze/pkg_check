@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/vivid 8u45-b14-1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u45-b14-1) unstable; urgency=medium",
         "openjdk-8 (8u40-b27-1) unstable; urgency=medium",

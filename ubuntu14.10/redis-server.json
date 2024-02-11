@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/utopic 2:2.8.13-3 amd64"
+    ],
     "changelog": [
         "redis (2:2.8.13-3) unstable; urgency=low",
         "redis (2:2.8.13-2) unstable; urgency=low",

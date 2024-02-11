@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/hirsute-updates,hirsute-security 2.4.46-4ubuntu1.5 amd64",
+        "apache2/hirsute 2.4.46-4ubuntu1 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.46-4ubuntu1.5) hirsute-security; urgency=medium",
         "apache2 (2.4.46-4ubuntu1.4) hirsute; urgency=medium",

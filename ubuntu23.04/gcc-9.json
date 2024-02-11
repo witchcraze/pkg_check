@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/lunar 9.5.0-3ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.5.0-3ubuntu1) lunar; urgency=medium",
         "gcc-9 (9.5.0-3) unstable; urgency=medium",

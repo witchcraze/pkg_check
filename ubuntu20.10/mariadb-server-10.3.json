@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.3/groovy-updates,groovy-security 1:10.3.29-0ubuntu0.20.10.1 amd64",
+        "mariadb-server-10.3/groovy 1:10.3.25-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mariadb-10.3 (1:10.3.29-0ubuntu0.20.10.1) groovy-security; urgency=medium",
         "mariadb-10.3 (1:10.3.25-0ubuntu1) groovy; urgency=medium",

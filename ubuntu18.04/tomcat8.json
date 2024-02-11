@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/bionic-updates,bionic-security 8.5.39-1ubuntu1~18.04.3 all",
+        "tomcat8/bionic 8.5.30-1ubuntu1 all"
+    ],
     "changelog": [
         "tomcat8 (8.5.39-1ubuntu1~18.04.3) bionic-security; urgency=medium",
         "tomcat8 (8.5.39-1ubuntu1~18.04.2) bionic; urgency=medium",

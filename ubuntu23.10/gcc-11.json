@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-11/mantic 11.4.0-4ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-11 (11.4.0-4ubuntu1) mantic; urgency=medium",
         "gcc-11 (11.4.0-4) unstable; urgency=medium",

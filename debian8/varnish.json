@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/oldstable,oldoldstable 4.0.2-1+deb8u1 amd64"
+    ],
     "changelog": [
         "varnish (4.0.2-1+deb8u1) jessie-security; urgency=high",
         "varnish (4.0.2-1) unstable; urgency=medium",

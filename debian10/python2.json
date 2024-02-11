@@ -21,6 +21,9 @@
         "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
         "Description": "interactive high-level object-oriented language (Python2 version)"
     },
+    "list": [
+        "python2/oldoldstable 2.7.16-1 amd64"
+    ],
     "changelog": [
         "python-defaults (2.7.16-1) unstable; urgency=medium",
         "python-defaults (2.7.15-4) unstable; urgency=medium",

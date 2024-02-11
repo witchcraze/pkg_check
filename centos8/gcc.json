@@ -13,12 +13,12 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 8."
     },
     "list": [
-        "gcc.x86_64                        8.2.1-3.5.el8                           vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "gcc.x86_64                        8.3.1-4.5.el8                           vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "gcc.x86_64                        8.3.1-5.el8.0.2                         vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "gcc.x86_64                        8.3.1-5.1.el8                           vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "gcc.x86_64                        8.4.1-1.el8                             vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "gcc.x86_64                        8.5.0-3.el8                             appstream",
-        "gcc.x86_64                        8.5.0-4.el8_5                           appstream"
+        "gcc.x86_64                                  8.2.1-3.5.el8                                     vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "gcc.x86_64                                  8.3.1-4.5.el8                                     vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "gcc.x86_64                                  8.3.1-5.el8.0.2                                   vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "gcc.x86_64                                  8.3.1-5.1.el8                                     vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "gcc.x86_64                                  8.4.1-1.el8                                       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "gcc.x86_64                                  8.5.0-3.el8                                       appstream",
+        "gcc.x86_64                                  8.5.0-4.el8_5                                     appstream"
     ]
 }

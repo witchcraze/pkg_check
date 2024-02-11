@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/cosmic 3.0.3-11 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-11) unstable; urgency=low",
         "vsftpd (3.0.3-10) unstable; urgency=low",

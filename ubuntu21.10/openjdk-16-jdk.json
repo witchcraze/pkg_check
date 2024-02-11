@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-16-jdk/impish 16.0.2+7-2 amd64"
+    ],
     "changelog": [
         "openjdk-16 (16.0.2+7-2) unstable; urgency=medium",
         "openjdk-16 (16.0.2+7-1) unstable; urgency=medium",

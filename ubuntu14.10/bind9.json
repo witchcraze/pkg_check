@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/utopic-updates,utopic-security 1:9.9.5.dfsg-4.3ubuntu0.3 amd64",
+        "bind9/utopic 1:9.9.5.dfsg-4.3 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.9.5.dfsg-4.3ubuntu0.3) utopic-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-4.3ubuntu0.2) utopic-security; urgency=medium",

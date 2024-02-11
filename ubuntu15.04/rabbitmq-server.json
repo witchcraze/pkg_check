@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/vivid 3.4.3-2 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.4.3-2) unstable; urgency=medium",
         "rabbitmq-server (3.4.3-1) unstable; urgency=medium",

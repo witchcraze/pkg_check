@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/disco-updates,disco-security 9.0.16-3ubuntu0.19.04.1 all",
+        "tomcat9/disco 9.0.16-3 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.16-3ubuntu0.19.04.1) disco-security; urgency=medium",
         "tomcat9 (9.0.16-3) unstable; urgency=medium",

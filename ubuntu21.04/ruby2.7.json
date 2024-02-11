@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.7/hirsute-updates,hirsute-security 2.7.2-4ubuntu1.3 amd64",
+        "ruby2.7/hirsute 2.7.2-4ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.7 (2.7.2-4ubuntu1.3) hirsute-security; urgency=medium",
         "ruby2.7 (2.7.2-4ubuntu1.2) hirsute-security; urgency=medium",

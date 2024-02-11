@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/xenial-updates,xenial-security 1.10.3-0ubuntu0.16.04.5 all",
+        "nginx/xenial 1.9.15-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.10.3-0ubuntu0.16.04.5) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.4) xenial-security; urgency=medium",

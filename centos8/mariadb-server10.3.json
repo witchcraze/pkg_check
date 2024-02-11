@@ -14,12 +14,12 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64       3:10.3.11-2.module_el8.0.0+35+6f2527ed        vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "mariadb-server.x86_64       3:10.3.17-1.module_el8.1.0+257+48736ea6       vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "mariadb-server.x86_64       3:10.3.17-1.module_el8.1.0+257+48736ea6       vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "mariadb-server.x86_64       3:10.3.27-3.module_el8.3.0+599+c587b2e7       vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "mariadb-server.x86_64       3:10.3.28-1.module_el8.3.0+757+d382997d       appstream",
-        "mariadb-server.x86_64       3:10.3.28-1.module_el8.3.0+757+d382997d       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "mariadb-server.x86_64       3:10.3.28-1.module_el8.3.0+757+d382997d       vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "mariadb-server.x86_64                 3:10.3.11-2.module_el8.0.0+35+6f2527ed                  vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "mariadb-server.x86_64                 3:10.3.17-1.module_el8.1.0+257+48736ea6                 vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "mariadb-server.x86_64                 3:10.3.17-1.module_el8.1.0+257+48736ea6                 vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "mariadb-server.x86_64                 3:10.3.27-3.module_el8.3.0+599+c587b2e7                 vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "mariadb-server.x86_64                 3:10.3.28-1.module_el8.3.0+757+d382997d                 appstream",
+        "mariadb-server.x86_64                 3:10.3.28-1.module_el8.3.0+757+d382997d                 vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "mariadb-server.x86_64                 3:10.3.28-1.module_el8.3.0+757+d382997d                 vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

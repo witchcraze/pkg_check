@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/wily-updates,wily-security 1.9.3-1ubuntu1.2 all",
+        "nginx/wily 1.9.3-1ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.9.3-1ubuntu1.2) wily-security; urgency=medium",
         "nginx (1.9.3-1ubuntu1.1) wily-security; urgency=medium",

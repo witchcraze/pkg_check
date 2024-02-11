@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php8.1/lunar-updates,lunar-security 8.1.12-1ubuntu4.3 all",
+        "php8.1/lunar 8.1.12-1ubuntu4 all"
+    ],
     "changelog": [
         "php8.1 (8.1.12-1ubuntu4.3) lunar-security; urgency=medium",
         "php8.1 (8.1.12-1ubuntu4.2) lunar-security; urgency=medium",

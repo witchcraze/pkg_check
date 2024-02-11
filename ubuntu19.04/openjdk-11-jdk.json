@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/disco-updates,disco-security 11.0.5+10-0ubuntu1.1~19.04 amd64",
+        "openjdk-11-jdk/disco 11.0.3+5-1ubuntu2 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.5+10-0ubuntu1.1~19.04) disco-security; urgency=medium",
         "openjdk-lts (11.0.5+10-0ubuntu1.1) eoan-security; urgency=high",

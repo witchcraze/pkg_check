@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/wily 4.0.3-1 amd64"
+    ],
     "changelog": [
         "varnish (4.0.3-1) unstable; urgency=medium",
         "varnish (4.0.2-1) unstable; urgency=medium",

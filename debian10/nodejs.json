@@ -16,6 +16,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/oldoldstable 10.24.0~dfsg-1~deb10u3 amd64",
+        "nodejs/oldoldstable 10.24.0~dfsg-1~deb10u1 amd64"
+    ],
     "changelog": [
         "nodejs (10.24.0~dfsg-1~deb10u3) buster-security; urgency=high",
         "nodejs (10.24.0~dfsg-1~deb10u2) buster-security; urgency=high",

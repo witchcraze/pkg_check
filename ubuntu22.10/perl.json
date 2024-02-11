@@ -24,6 +24,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/kinetic-updates,kinetic-security 5.34.0-5ubuntu1.2 amd64",
+        "perl/kinetic 5.34.0-5ubuntu1 amd64"
+    ],
     "changelog": [
         "perl (5.34.0-5ubuntu1.2) kinetic-security; urgency=medium",
         "perl (5.34.0-5ubuntu1.1) kinetic-security; urgency=medium",

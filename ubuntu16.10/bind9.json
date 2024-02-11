@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/yakkety-updates,yakkety-security 1:9.10.3.dfsg.P4-10.1ubuntu1.7 amd64",
+        "bind9/yakkety 1:9.10.3.dfsg.P4-10.1ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.10.3.dfsg.P4-10.1ubuntu1.7) yakkety-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-10.1ubuntu1.6) yakkety-security; urgency=medium",

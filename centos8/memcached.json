@@ -13,11 +13,11 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                       1.5.9-2.el8                        vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "memcached.x86_64                       1.5.9-2.el8                        vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "memcached.x86_64                       1.5.9-3.el8                        vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "memcached.x86_64                       1.5.22-2.el8                       appstream",
-        "memcached.x86_64                       1.5.22-2.el8                       vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "memcached.x86_64                       1.5.22-2.el8                       vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "memcached.x86_64                                 1.5.9-2.el8                                  vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "memcached.x86_64                                 1.5.9-2.el8                                  vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "memcached.x86_64                                 1.5.9-3.el8                                  vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "memcached.x86_64                                 1.5.22-2.el8                                 appstream",
+        "memcached.x86_64                                 1.5.22-2.el8                                 vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "memcached.x86_64                                 1.5.22-2.el8                                 vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

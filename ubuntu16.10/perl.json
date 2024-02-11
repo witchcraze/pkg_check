@@ -24,6 +24,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/yakkety 5.22.2-3 amd64"
+    ],
     "changelog": [
         "perl (5.22.2-3) unstable; urgency=high",
         "perl (5.22.2-2) unstable; urgency=medium",

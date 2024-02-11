@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/eoan 9.0.24-1 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.24-1) unstable; urgency=medium",
         "tomcat9 (9.0.22-1) unstable; urgency=medium",

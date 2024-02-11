@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/groovy 1.6.6-3ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.6-3ubuntu1) groovy; urgency=medium",
         "memcached (1.6.6-3) unstable; urgency=medium",

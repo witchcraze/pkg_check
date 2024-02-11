@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
         "Description": "Secure Sockets Layer toolkit 1.0 - cryptographic utility"
     },
+    "list": [
+        "openssl1.0/cosmic-updates,cosmic-security 1.0.2n-1ubuntu6.2 amd64",
+        "openssl1.0/cosmic 1.0.2n-1ubuntu6 amd64"
+    ],
     "changelog": [
         "openssl1.0 (1.0.2n-1ubuntu6.2) cosmic-security; urgency=medium",
         "openssl1.0 (1.0.2n-1ubuntu6.1) cosmic-security; urgency=medium",

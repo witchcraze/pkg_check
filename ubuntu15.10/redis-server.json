@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/wily 2:3.0.3-3 amd64"
+    ],
     "changelog": [
         "redis (2:3.0.3-3) unstable; urgency=medium",
         "redis (2:3.0.3-2) unstable; urgency=medium",

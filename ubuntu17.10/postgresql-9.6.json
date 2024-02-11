@@ -20,6 +20,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.6 server"
     },
+    "list": [
+        "postgresql-9.6/artful-updates 9.6.9-0ubuntu0.17.10 amd64",
+        "postgresql-9.6/artful-security 9.6.8-0ubuntu0.17.10 amd64",
+        "postgresql-9.6/artful 9.6.5-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.6 (9.6.9-0ubuntu0.17.10) artful; urgency=medium",
         "postgresql-9.6 (9.6.8-0ubuntu0.17.10) artful-security; urgency=medium",

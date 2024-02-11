@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 11 server"
     },
+    "list": [
+        "postgresql-11/eoan-updates,eoan-security 11.7-0ubuntu0.19.10.1 amd64",
+        "postgresql-11/eoan 11.5-1 amd64"
+    ],
     "changelog": [
         "postgresql-11 (11.7-0ubuntu0.19.10.1) eoan-security; urgency=medium",
         "postgresql-11 (11.5-1) unstable; urgency=medium",

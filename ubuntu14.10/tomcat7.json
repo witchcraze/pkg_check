@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/utopic-updates,utopic-security 7.0.55-1ubuntu0.2 all",
+        "tomcat7/utopic 7.0.55-1 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.55-1ubuntu0.2) utopic-security; urgency=medium",
         "tomcat7 (7.0.55-1) unstable; urgency=medium",

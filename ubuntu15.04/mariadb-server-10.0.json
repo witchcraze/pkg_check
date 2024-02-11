@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.0/vivid-updates,vivid-security 10.0.23-0ubuntu0.15.04.1 amd64",
+        "mariadb-server-10.0/vivid 10.0.17-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mariadb-10.0 (10.0.23-0ubuntu0.15.04.1) vivid-security; urgency=low",
         "mariadb-10.0 (10.0.22-0ubuntu0.15.04.1) vivid-security; urgency=low",

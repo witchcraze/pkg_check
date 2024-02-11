@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby1.9.1/vivid 1.9.3.484-2ubuntu2 amd64"
+    ],
     "changelog": [
         "ruby1.9.1 (1.9.3.484-2ubuntu2) utopic; urgency=medium",
         "ruby1.9.1 (1.9.3.484-2ubuntu1) trusty; urgency=medium",

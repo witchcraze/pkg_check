@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
+    "list": [
+        "python3.11/lunar-updates,lunar-security 3.11.4-1~23.04.2 amd64",
+        "python3.11/lunar 3.11.2-6 amd64"
+    ],
     "changelog": [
         "python3.11 (3.11.4-1~23.04.2) lunar-security; urgency=medium",
         "python3.11 (3.11.4-1~23.04.1) lunar-security; urgency=medium",

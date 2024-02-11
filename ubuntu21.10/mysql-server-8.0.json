@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/impish-updates,impish-security 8.0.29-0ubuntu0.21.10.2 amd64",
+        "mysql-server-8.0/impish 8.0.26-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.29-0ubuntu0.21.10.2) impish-security; urgency=medium",
         "mysql-8.0 (8.0.29-0ubuntu0.21.10.1) impish-security; urgency=medium",

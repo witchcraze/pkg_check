@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/vivid-updates,vivid-security 7.0.56-2ubuntu0.1 all",
+        "tomcat7/vivid 7.0.56-2 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.56-2ubuntu0.1) vivid-security; urgency=medium",
         "tomcat7 (7.0.56-2) unstable; urgency=medium",

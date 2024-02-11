@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/groovy-updates,groovy-security 11.0.11+9-0ubuntu2~20.10 amd64",
+        "openjdk-11-jdk/groovy 11.0.9+10-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.11+9-0ubuntu2~20.10) groovy-security; urgency=medium",
         "openjdk-lts (11.0.11+9-0ubuntu2) hirsute; urgency=medium",

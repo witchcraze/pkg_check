@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-9-jdk/xenial 9~b114-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-9 (9~b114-0ubuntu1) xenial; urgency=medium",
         "openjdk-9 (9~b113-1) experimental; urgency=medium",

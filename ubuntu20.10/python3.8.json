@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.8)"
     },
+    "list": [
+        "python3.8/groovy-updates,groovy-security 3.8.10-0ubuntu1~20.10.1 amd64",
+        "python3.8/groovy 3.8.6-1 amd64"
+    ],
     "changelog": [
         "python3.8 (3.8.10-0ubuntu1~20.10.1) groovy-proposed; urgency=medium",
         "python3.8 (3.8.9-1) UNRELEASED; urgency=medium",

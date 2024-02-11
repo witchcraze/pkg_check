@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
+    "list": [
+        "squid/lunar-updates,lunar-security 5.7-1ubuntu3.2 amd64",
+        "squid/lunar 5.7-1ubuntu3 amd64"
+    ],
     "changelog": [
         "squid (5.7-1ubuntu3.2) lunar-security; urgency=medium",
         "squid (5.7-1ubuntu3.1) lunar-security; urgency=medium",

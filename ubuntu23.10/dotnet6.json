@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
+    "list": [
+        "dotnet6/mantic-updates,mantic-security 6.0.126-0ubuntu1~23.10.1 amd64",
+        "dotnet6/mantic 6.0.121-0ubuntu1 amd64"
+    ],
     "changelog": [
         "dotnet6 (6.0.126-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet6 (6.0.125-0ubuntu1~23.10.1) mantic-security; urgency=medium",

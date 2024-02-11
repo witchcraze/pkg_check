@@ -18,6 +18,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/hirsute-updates,now 1.1.1j-1ubuntu3.6 amd64 [installed,automatic]",
+        "openssl/hirsute-security 1.1.1j-1ubuntu3.5 amd64",
+        "openssl/hirsute 1.1.1j-1ubuntu3 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1j-1ubuntu3.6) hirsute; urgency=medium",
         "openssl (1.1.1j-1ubuntu3.5) hirsute-security; urgency=medium",

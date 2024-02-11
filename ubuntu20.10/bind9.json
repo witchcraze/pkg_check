@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/groovy-updates,groovy-security 1:9.16.6-3ubuntu1.2 amd64",
+        "bind9/groovy 1:9.16.6-3ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.16.6-3ubuntu1.2) groovy-security; urgency=medium",
         "bind9 (1:9.16.6-3ubuntu1.1) groovy-security; urgency=medium",

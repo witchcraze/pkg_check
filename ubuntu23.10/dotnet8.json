@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
+    "list": [
+        "dotnet8/mantic-updates,mantic-security 8.0.101-8.0.1-0ubuntu1~23.10.1 amd64",
+        "dotnet8/mantic 8.0.100-8.0.0~rc1-0ubuntu1 amd64"
+    ],
     "changelog": [
         "dotnet8 (8.0.101-8.0.1-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet8 (8.0.100-8.0.0-0ubuntu1~23.10.1) mantic-security; urgency=medium",

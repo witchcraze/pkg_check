@@ -19,6 +19,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.5 server"
     },
+    "list": [
+        "postgresql-9.5/xenial-updates 9.5.25-0ubuntu0.16.04.1 amd64",
+        "postgresql-9.5/xenial-security 9.5.24-0ubuntu0.16.04.1 amd64",
+        "postgresql-9.5/xenial 9.5.2-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1) xenial; urgency=medium",
         "postgresql-9.5 (9.5.24-0ubuntu0.16.04.1) xenial-security; urgency=medium",

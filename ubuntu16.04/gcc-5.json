@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-5/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 amd64",
+        "gcc-5/xenial 5.3.1-14ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-5 (5.4.0-6ubuntu1~16.04.12) xenial; urgency=medium",
         "gcc-5 (5.4.0-6ubuntu1~16.04.11) xenial; urgency=medium",

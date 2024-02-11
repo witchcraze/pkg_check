@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.7/wily 4.7.4-3ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-4.7 (4.7.4-3ubuntu3) wily; urgency=medium",
         "gcc-4.7 (4.7.4-3ubuntu2) vivid; urgency=medium",

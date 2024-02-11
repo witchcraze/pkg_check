@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/wily-updates,wily-security,now 1.0.2d-0ubuntu1.5 amd64 [installed,automatic]",
+        "openssl/wily 1.0.2d-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2d-0ubuntu1.5) wily-security; urgency=medium",
         "openssl (1.0.2d-0ubuntu1.4) wily-security; urgency=medium",

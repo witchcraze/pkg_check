@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/impish 1.6.9+dfsg-1build1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.9+dfsg-1build1) impish; urgency=medium",
         "memcached (1.6.9+dfsg-1) unstable; urgency=medium",

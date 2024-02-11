@@ -13,6 +13,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
+    "list": [
+        "python3.9/oldstable 3.9.2-1 amd64"
+    ],
     "changelog": [
         "python3.9 (3.9.2-1) unstable; urgency=medium",
         "python3.9 (3.9.2~rc1-1) experimental; urgency=medium",

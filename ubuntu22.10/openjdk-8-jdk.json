@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/kinetic-updates,kinetic-security 8u372-ga~us1-0ubuntu1~22.10 amd64",
+        "openjdk-8-jdk/kinetic 8u342-b07-1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u372-ga~us1-0ubuntu1~22.10) kinetic-security; urgency=medium",
         "openjdk-8 (8u372-ga~us1-0ubuntu1) mantic; urgency=medium",

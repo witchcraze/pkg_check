@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/cosmic 5.2.1-1build2 amd64"
+    ],
     "changelog": [
         "varnish (5.2.1-1build2) cosmic; urgency=medium",
         "varnish (5.2.1-1build1) cosmic; urgency=medium",

@@ -25,6 +25,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/eoan 5.28.1-6build1 amd64"
+    ],
     "changelog": [
         "perl (5.28.1-6build1) eoan; urgency=medium",
         "perl (5.28.1-6) unstable; urgency=medium",

@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby3.0/jammy-updates,jammy-security 3.0.2-7ubuntu2.4 amd64",
+        "ruby3.0/jammy 3.0.2-7ubuntu2 amd64"
+    ],
     "changelog": [
         "ruby3.0 (3.0.2-7ubuntu2.4) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.3) jammy-security; urgency=medium",

@@ -25,6 +25,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/disco-updates,disco-security 5.7.28-0ubuntu0.19.04.2 amd64",
+        "mysql-server-5.7/disco 5.7.25-1 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.28-0ubuntu0.19.04.2) disco-security; urgency=medium",
         "mysql-5.7 (5.7.27-0ubuntu0.19.04.1) disco-security; urgency=medium",

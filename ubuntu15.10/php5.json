@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php5/wily-updates,wily-security 5.6.11+dfsg-1ubuntu3.4 all",
+        "php5/wily 5.6.11+dfsg-1ubuntu3 all"
+    ],
     "changelog": [
         "php5 (5.6.11+dfsg-1ubuntu3.4) wily-security; urgency=medium",
         "php5 (5.6.11+dfsg-1ubuntu3.3) wily-security; urgency=medium",

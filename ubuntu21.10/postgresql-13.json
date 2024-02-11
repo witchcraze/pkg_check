@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
+    "list": [
+        "postgresql-13/impish-updates,impish-security 13.7-0ubuntu0.21.10.1 amd64",
+        "postgresql-13/impish 13.4-1 amd64"
+    ],
     "changelog": [
         "postgresql-13 (13.7-0ubuntu0.21.10.1) impish-security; urgency=medium",
         "postgresql-13 (13.6-0ubuntu0.21.10.1) impish; urgency=medium",

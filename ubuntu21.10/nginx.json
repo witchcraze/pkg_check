@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/impish-updates,impish-security 1.18.0-6ubuntu11.1 amd64",
+        "nginx/impish 1.18.0-6ubuntu11 amd64"
+    ],
     "changelog": [
         "nginx (1.18.0-6ubuntu11.1) impish-security; urgency=medium",
         "nginx (1.18.0-6ubuntu11) impish; urgency=medium",

@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.1/cosmic-updates 1:10.1.38-0ubuntu0.18.10.2 amd64",
+        "mariadb-server-10.1/cosmic 1:10.1.29-6ubuntu2 amd64"
+    ],
     "changelog": [
         "mariadb-10.1 (1:10.1.38-0ubuntu0.18.10.2) cosmic; urgency=medium",
         "mariadb-10.1 (1:10.1.38-0ubuntu0.18.04.1) bionic-security; urgency=medium",

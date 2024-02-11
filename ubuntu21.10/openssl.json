@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/impish-updates,impish-security,now 1.1.1l-1ubuntu1.6 amd64 [installed,automatic]",
+        "openssl/impish 1.1.1l-1ubuntu1 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1l-1ubuntu1.6) impish-security; urgency=medium",
         "openssl (1.1.1l-1ubuntu1.5) impish-security; urgency=medium",

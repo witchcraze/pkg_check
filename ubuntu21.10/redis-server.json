@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/impish-updates,impish-security 5:6.0.15-1ubuntu0.1 amd64",
+        "redis-server/impish 5:6.0.15-1 amd64"
+    ],
     "changelog": [
         "redis (5:6.0.15-1ubuntu0.1) impish-security; urgency=medium",
         "redis (5:6.0.15-1) unstable; urgency=medium",

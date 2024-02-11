@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-18-jdk/impish 18~15ea-4 amd64"
+    ],
     "changelog": [
         "openjdk-18 (18~15ea-4) unstable; urgency=medium",
         "openjdk-18 (18~15ea-1) unstable; urgency=medium",

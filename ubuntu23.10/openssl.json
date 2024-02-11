@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/mantic-updates,mantic-security,now 3.0.10-1ubuntu2.2 amd64 [installed,automatic]",
+        "openssl/mantic 3.0.10-1ubuntu2 amd64"
+    ],
     "changelog": [
         "openssl (3.0.10-1ubuntu2.2) mantic-security; urgency=medium",
         "openssl (3.0.10-1ubuntu2.1) mantic-security; urgency=medium",

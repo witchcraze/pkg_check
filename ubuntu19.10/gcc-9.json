@@ -22,6 +22,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/eoan 9.2.1-9ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.2.1-9ubuntu2) eoan; urgency=medium",
         "gcc-9 (9.2.1-9ubuntu1) eoan; urgency=medium",

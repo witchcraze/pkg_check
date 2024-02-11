@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/xenial-updates,xenial-security 2:3.0.6-1ubuntu0.4 amd64",
+        "redis-server/xenial 2:3.0.6-1 amd64"
+    ],
     "changelog": [
         "redis (2:3.0.6-1ubuntu0.4) xenial-security; urgency=medium",
         "redis (2:3.0.6-1ubuntu0.3) xenial-security; urgency=medium",

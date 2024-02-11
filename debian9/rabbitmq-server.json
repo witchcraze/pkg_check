@@ -12,6 +12,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/oldoldstable 3.6.6-1+deb9u2 all",
+        "rabbitmq-server/oldoldstable 3.6.6-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.6.6-1+deb9u2) stretch-security; urgency=medium",
         "rabbitmq-server (3.6.6-1+deb9u1) stretch-security; urgency=medium",

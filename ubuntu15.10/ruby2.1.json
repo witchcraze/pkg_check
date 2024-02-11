@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.1/wily 2.1.5-4ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.1 (2.1.5-4ubuntu1) wily; urgency=medium",
         "ruby2.1 (2.1.5-4) unstable; urgency=medium",

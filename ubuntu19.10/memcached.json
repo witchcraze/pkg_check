@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/eoan-updates 1.5.10-0ubuntu3.1 amd64",
+        "memcached/eoan 1.5.10-0ubuntu3 amd64"
+    ],
     "changelog": [
         "memcached (1.5.10-0ubuntu3.1) eoan; urgency=medium",
         "memcached (1.5.10-0ubuntu3) eoan; urgency=medium",

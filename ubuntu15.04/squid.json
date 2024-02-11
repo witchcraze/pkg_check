@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "dependency package from squid to squid3"
     },
+    "list": [
+        "squid/vivid 3.3.8-1ubuntu14 amd64"
+    ],
     "changelog": [
         "squid3 (3.3.8-1ubuntu14) vivid; urgency=medium",
         "squid3 (3.3.8-1ubuntu13) vivid; urgency=medium",

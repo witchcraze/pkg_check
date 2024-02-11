@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/cosmic-updates,cosmic-security 8.5.39-1ubuntu1~18.10 all",
+        "tomcat8/cosmic 8.5.34-1ubuntu1 all"
+    ],
     "changelog": [
         "tomcat8 (8.5.39-1ubuntu1~18.10) cosmic; urgency=medium",
         "tomcat8 (8.5.39-1ubuntu1) disco; urgency=medium",

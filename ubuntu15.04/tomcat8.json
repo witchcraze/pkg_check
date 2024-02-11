@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/vivid-updates,vivid-security 8.0.14-1+deb8u1build0.15.04.1 all",
+        "tomcat8/vivid 8.0.14-1 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.14-1+deb8u1build0.15.04.1) vivid-security; urgency=medium",
         "tomcat8 (8.0.14-1+deb8u1) jessie-security; urgency=medium",

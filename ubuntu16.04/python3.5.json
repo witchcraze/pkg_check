@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/xenial-updates,xenial-security 3.5.2-2ubuntu0~16.04.13 amd64",
+        "python3.5/xenial 3.5.1-10 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.2-2ubuntu0~16.04.13) xenial-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.12) xenial-security; urgency=medium",

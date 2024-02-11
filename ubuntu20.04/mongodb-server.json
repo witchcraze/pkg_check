@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "object/document-oriented database (managed server package)"
     },
+    "list": [
+        "mongodb-server/focal-updates,focal-security 1:3.6.9+really3.6.8+90~g8e540c0b6d-0ubuntu5.3 all",
+        "mongodb-server/focal 1:3.6.9+really3.6.8+90~g8e540c0b6d-0ubuntu5 all"
+    ],
     "changelog": [
         "mongodb (1:3.6.9+really3.6.8+90~g8e540c0b6d-0ubuntu5.3) focal-security; urgency=medium",
         "mongodb (1:3.6.9+really3.6.8+90~g8e540c0b6d-0ubuntu5.2) focal-security; urgency=medium",

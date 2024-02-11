@@ -18,6 +18,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.0/trusty-infra-security 2.0.0.484-1ubuntu2.13+esm1 amd64",
+        "ruby2.0/trusty-updates,trusty-security 2.0.0.484-1ubuntu2.13 amd64",
+        "ruby2.0/trusty 2.0.0.484-1ubuntu2 amd64"
+    ],
     "changelog": [
         "ruby2.0 (2.0.0.484-1ubuntu2.13) trusty-security; urgency=medium",
         "ruby2.0 (2.0.0.484-1ubuntu2.11) trusty-security; urgency=medium",

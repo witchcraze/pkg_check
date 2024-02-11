@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.6/xenial-updates 1.6.2-0ubuntu5~16.04.4 all",
+        "golang-1.6/xenial 1.6.1-0ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.6 (1.6.2-0ubuntu5~16.04.4) xenial; urgency=medium",
         "golang-1.6 (1.6.2-0ubuntu5~16.04.3) xenial; urgency=medium",

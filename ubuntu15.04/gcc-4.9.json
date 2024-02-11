@@ -22,6 +22,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.9/vivid 4.9.2-10ubuntu13 amd64"
+    ],
     "changelog": [
         "gcc-4.9 (4.9.2-10ubuntu13) vivid; urgency=medium",
         "gcc-4.9 (4.9.2-10ubuntu12) vivid; urgency=medium",

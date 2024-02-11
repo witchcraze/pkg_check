@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/artful 2.7.14-2ubuntu2 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.14-2ubuntu2) artful; urgency=medium",
         "python2.7 (2.7.14-2ubuntu1) artful; urgency=medium",

@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.6/kinetic-updates,kinetic-security 1:10.6.12-0ubuntu0.22.10.1 amd64",
+        "mariadb-server-10.6/kinetic 1:10.6.9-1 amd64"
+    ],
     "changelog": [
         "mariadb-10.6 (1:10.6.12-0ubuntu0.22.10.1) kinetic-security; urgency=medium",
         "mariadb-10.6 (1:10.6.11-0ubuntu0.22.10.1) kinetic-security; urgency=medium",

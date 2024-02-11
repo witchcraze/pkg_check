@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/yakkety-updates,yakkety-security 2.4.18-2ubuntu4.2 amd64",
+        "apache2/yakkety 2.4.18-2ubuntu4 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.18-2ubuntu4.2) yakkety-security; urgency=medium",
         "apache2 (2.4.18-2ubuntu4.1) yakkety-security; urgency=medium",

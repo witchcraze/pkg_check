@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
+    "list": [
+        "postgresql-15/mantic-updates,mantic-security 15.5-0ubuntu0.23.10.1 amd64",
+        "postgresql-15/mantic 15.4-1ubuntu1 amd64"
+    ],
     "changelog": [
         "postgresql-15 (15.5-0ubuntu0.23.10.1) mantic-security; urgency=medium",
         "postgresql-15 (15.4-1ubuntu1) mantic; urgency=medium",

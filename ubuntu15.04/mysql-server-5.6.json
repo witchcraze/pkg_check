@@ -24,6 +24,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.6/vivid-updates,vivid-security 5.6.28-0ubuntu0.15.04.1 amd64",
+        "mysql-server-5.6/vivid 5.6.24-0ubuntu2 amd64"
+    ],
     "changelog": [
         "mysql-5.6 (5.6.28-0ubuntu0.15.04.1) vivid-security; urgency=medium",
         "mysql-5.6 (5.6.27-0ubuntu0.15.04.1) vivid-security; urgency=medium",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-20-jdk/lunar-updates,lunar-security 20.0.2+9+ds1-0ubuntu1~23.04 amd64",
+        "openjdk-20-jdk/lunar 20+36~us1-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-20 (20.0.2+9+ds1-0ubuntu1~23.04) lunar-security; urgency=medium",
         "openjdk-20 (20.0.2+9-1~23.04) lunar-security; urgency=medium",

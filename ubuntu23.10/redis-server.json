@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/mantic 5:7.0.12-1 amd64"
+    ],
     "changelog": [
         "redis (5:7.0.12-1) unstable; urgency=high",
         "redis (5:7.0.11-1) unstable; urgency=high",

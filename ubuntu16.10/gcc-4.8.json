@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/yakkety 4.8.5-4ubuntu4 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.5-4ubuntu4) yakkety; urgency=medium",
         "gcc-4.8 (4.8.5-4ubuntu3) yakkety; urgency=medium",

@@ -20,6 +20,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.5/oldstable 1:10.5.21-0+deb11u1 amd64"
+    ],
     "changelog": [
         "mariadb-10.5 (1:10.5.21-0+deb11u1) bullseye; urgency=medium",
         "mariadb-10.5 (1:10.5.19-0+deb11u2) bullseye; urgency=medium",

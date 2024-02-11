@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/oldoldstable 2.7.13-2+deb9u6 amd64",
+        "python2.7/oldoldstable 2.7.13-2+deb9u3 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.13-2+deb9u6) stretch-security; urgency=medium",
         "python2.7 (2.7.13-2+deb9u5) stretch-security; urgency=medium",

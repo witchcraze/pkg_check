@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/lunar-updates,lunar-security 2.6.9-1ubuntu1.2 amd64",
+        "haproxy/lunar 2.6.9-1ubuntu1 amd64"
+    ],
     "changelog": [
         "haproxy (2.6.9-1ubuntu1.2) lunar-security; urgency=medium",
         "haproxy (2.6.9-1ubuntu1.1) lunar-security; urgency=medium",

@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-19-jdk/lunar 19.0.2+7-0ubuntu4 amd64"
+    ],
     "changelog": [
         "openjdk-19 (19.0.2+7-0ubuntu4) lunar; urgency=medium",
         "openjdk-19 (19.0.2+7-0ubuntu3~22.10) kinetic-security; urgency=medium",

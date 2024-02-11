@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-7-jdk/vivid-updates,vivid-security 7u95-2.6.4-0ubuntu0.15.04.1 amd64",
+        "openjdk-7-jdk/vivid 7u79-2.5.5-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-7 (7u95-2.6.4-0ubuntu0.15.04.1) vivid-security; urgency=medium",
         "openjdk-7 (7u95-2.6.4-0ubuntu0.15.10.1) wily-security; urgency=medium",

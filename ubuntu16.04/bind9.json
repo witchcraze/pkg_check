@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.19 amd64",
+        "bind9/xenial 1:9.10.3.dfsg.P4-8 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.18) xenial-security; urgency=medium",

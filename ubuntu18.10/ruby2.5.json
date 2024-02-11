@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.5/cosmic-updates,cosmic-security 2.5.1-5ubuntu4.3 amd64",
+        "ruby2.5/cosmic 2.5.1-5ubuntu4 amd64"
+    ],
     "changelog": [
         "ruby2.5 (2.5.1-5ubuntu4.3) cosmic-security; urgency=medium",
         "ruby2.5 (2.5.1-5ubuntu4.2) cosmic; urgency=medium",

@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/artful 1:3.4.7-1 amd64"
+    ],
     "changelog": [
         "mongodb (1:3.4.7-1) experimental; urgency=medium",
         "mongodb (1:3.4.1-3) experimental; urgency=medium",

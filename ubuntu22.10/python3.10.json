@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.10)"
     },
+    "list": [
+        "python3.10/kinetic-updates,kinetic-security 3.10.7-1ubuntu0.4 amd64",
+        "python3.10/kinetic 3.10.7-1 amd64"
+    ],
     "changelog": [
         "python3.10 (3.10.7-1ubuntu0.4) kinetic-security; urgency=medium",
         "python3.10 (3.10.7-1ubuntu0.3) kinetic-security; urgency=medium",

@@ -16,6 +16,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/stable-security 17.0.10+7-1~deb12u1 amd64",
+        "openjdk-17-jdk/stable 17.0.9+9-1~deb12u1 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.10+7-1~deb12u1) bookworm-security; urgency=medium",
         "openjdk-17 (17.0.10+7-1) unstable; urgency=high",

@@ -24,6 +24,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/utopic,now 5.20.1-1 amd64 [installed]"
+    ],
     "changelog": [
         "perl (5.20.1-1) unstable; urgency=medium",
         "perl (5.20.1~rc2-1) experimental; urgency=low",

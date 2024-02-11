@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-5.5/utopic-updates,utopic-security 5.5.44-1ubuntu0.14.10.1 amd64",
+        "mariadb-server-5.5/utopic 5.5.39-2 amd64"
+    ],
     "changelog": [
         "mariadb-5.5 (5.5.44-1ubuntu0.14.10.1) utopic-security; urgency=low",
         "mariadb-5.5 (5.5.43-1ubuntu0.14.10.1) utopic-security; urgency=low",

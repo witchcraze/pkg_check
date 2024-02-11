@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.6)"
     },
+    "list": [
+        "python3.6/bionic-updates,bionic-security 3.6.9-1~18.04ubuntu1.12 amd64",
+        "python3.6/bionic 3.6.5-3 amd64"
+    ],
     "changelog": [
         "python3.6 (3.6.9-1~18.04ubuntu1.12) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.10) bionic-security; urgency=medium",

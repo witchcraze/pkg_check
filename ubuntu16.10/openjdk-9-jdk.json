@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-9-jdk/yakkety 9~b134-2ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-9 (9~b134-2ubuntu1) yakkety; urgency=medium",
         "openjdk-9 (9~b134-2) experimental; urgency=medium",

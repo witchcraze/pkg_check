@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
+    "list": [
+        "squid/impish-updates,impish-security 4.13-10ubuntu5.1 amd64",
+        "squid/impish 4.13-10ubuntu5 amd64"
+    ],
     "changelog": [
         "squid (4.13-10ubuntu5.1) impish-security; urgency=medium",
         "squid (4.13-10ubuntu5) impish; urgency=medium",

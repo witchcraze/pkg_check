@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/focal-updates,focal-security 1:9.16.1-0ubuntu2.16 amd64",
+        "bind9/focal 1:9.16.1-0ubuntu2 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.16.1-0ubuntu2.16) focal-security; urgency=medium",
         "bind9 (1:9.16.1-0ubuntu2.15) focal-security; urgency=medium",

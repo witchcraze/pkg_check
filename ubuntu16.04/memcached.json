@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/xenial-updates,xenial-security 1.4.25-2ubuntu1.5 amd64",
+        "memcached/xenial 1.4.25-2ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.4.25-2ubuntu1.5) xenial-security; urgency=medium",
         "memcached (1.4.25-2ubuntu1.4) xenial-security; urgency=medium",

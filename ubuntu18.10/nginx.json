@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/cosmic-updates,cosmic-security 1.15.5-0ubuntu2.1 all",
+        "nginx/cosmic 1.15.5-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.15.5-0ubuntu2.1) cosmic-security; urgency=medium",
         "nginx (1.15.5-0ubuntu2) cosmic; urgency=medium",

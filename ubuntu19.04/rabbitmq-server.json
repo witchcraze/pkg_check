@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/disco 3.7.8-4ubuntu2 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.7.8-4ubuntu2) disco; urgency=medium",
         "rabbitmq-server (3.7.8-4ubuntu1) disco; urgency=medium",

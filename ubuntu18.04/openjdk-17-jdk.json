@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/bionic-updates,bionic-security 17.0.7+7~us1-0ubuntu1~18.04 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.7+7~us1-0ubuntu1~18.04) bionic-security; urgency=medium",
         "openjdk-17 (17.0.7+7~us1-0ubuntu1) mantic; urgency=medium",

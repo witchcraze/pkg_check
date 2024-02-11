@@ -19,6 +19,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/zesty-updates 1:9.10.3.dfsg.P4-10.1ubuntu5.3 amd64",
+        "bind9/zesty-security 1:9.10.3.dfsg.P4-10.1ubuntu5.2 amd64",
+        "bind9/zesty 1:9.10.3.dfsg.P4-10.1ubuntu4 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.10.3.dfsg.P4-10.1ubuntu5.3) zesty; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-10.1ubuntu5.2) zesty-security; urgency=medium",

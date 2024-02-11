@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/oldstable-security 9.0.43-2~deb11u9 all",
+        "tomcat9/oldstable 9.0.43-2~deb11u6 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.43-2~deb11u9) bullseye-security; urgency=high",
         "tomcat9 (9.0.43-2~deb11u8) bullseye-security; urgency=high",

@@ -23,6 +23,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/artful-updates 2.4.27-2ubuntu4.2 amd64",
+        "apache2/artful-security 2.4.27-2ubuntu4.1 amd64",
+        "apache2/artful 2.4.27-2ubuntu3 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.27-2ubuntu4.2) artful; urgency=medium",
         "apache2 (2.4.27-2ubuntu4.1) artful-security; urgency=medium",

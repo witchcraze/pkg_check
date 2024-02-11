@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/jammy-updates,jammy-security 11.0.21+9-0ubuntu1~22.04 amd64",
+        "openjdk-11-jdk/jammy 11.0.14.1+1-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.21+9-0ubuntu1~22.04) jammy-security; urgency=medium",
         "openjdk-lts (11.0.20+8-1ubuntu1) mantic; urgency=high",

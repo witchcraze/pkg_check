@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.5/oldoldstable 5.5.62-0+deb8u1 amd64",
+        "mysql-server-5.5/oldstable 5.5.60-0+deb8u1 amd64"
+    ],
     "changelog": [
         "mysql-5.5 (5.5.62-0+deb8u1) jessie-security; urgency=high",
         "mysql-5.5 (5.5.60-0+deb8u1) jessie-security; urgency=high",

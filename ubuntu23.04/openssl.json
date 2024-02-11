@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/lunar-updates,lunar-security,now 3.0.8-1ubuntu1.4 amd64 [installed,automatic]",
+        "openssl/lunar 3.0.8-1ubuntu1 amd64"
+    ],
     "changelog": [
         "openssl (3.0.8-1ubuntu1.4) lunar-security; urgency=medium",
         "openssl (3.0.8-1ubuntu1.2) lunar-security; urgency=medium",

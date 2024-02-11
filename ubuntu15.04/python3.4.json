@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
+    "list": [
+        "python3.4/vivid 3.4.3-3 amd64"
+    ],
     "changelog": [
         "python3.4 (3.4.3-3) vivid; urgency=medium",
         "python3.4 (3.4.3-2) experimental; urgency=medium",

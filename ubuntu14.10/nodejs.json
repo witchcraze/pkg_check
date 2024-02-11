@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/utopic 0.10.25~dfsg2-2ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (0.10.25~dfsg2-2ubuntu1) trusty; urgency=medium",
         "nodejs (0.10.25~dfsg2-2) unstable; urgency=medium",

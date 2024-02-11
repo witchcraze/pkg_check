@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/oldoldstable,now 1.1.0l-1~deb9u6 amd64 [installed,automatic]",
+        "openssl/oldoldstable 1.1.0l-1~deb9u1 amd64"
+    ],
     "changelog": [
         "openssl (1.1.0l-1~deb9u6) stretch-security; urgency=medium",
         "openssl (1.1.0l-1~deb9u5) stretch-security; urgency=medium",

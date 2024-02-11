@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/jammy-updates,jammy-security 3.9.13-1ubuntu0.22.04.2 all",
+        "rabbitmq-server/jammy 3.9.13-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.9.13-1ubuntu0.22.04.2) jammy-security; urgency=medium",
         "rabbitmq-server (3.9.13-1ubuntu0.22.04.1) jammy; urgency=medium",

@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/kinetic-updates,kinetic-security 1:9.18.12-0ubuntu0.22.10.2 amd64",
+        "bind9/kinetic 1:9.18.4-2ubuntu2 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.18.12-0ubuntu0.22.10.2) kinetic-security; urgency=medium",
         "bind9 (1:9.18.12-0ubuntu0.22.10.1) kinetic; urgency=medium",

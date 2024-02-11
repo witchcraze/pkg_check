@@ -13,6 +13,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.3/oldoldstable 7.3.31-1~deb10u5 all",
+        "php7.3/oldoldstable 7.3.31-1~deb10u1 all"
+    ],
     "changelog": [
         "php7.3 (7.3.31-1~deb10u5) buster-security; urgency=high",
         "php7.3 (7.3.31-1~deb10u4) buster-security; urgency=high",

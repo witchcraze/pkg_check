@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/cosmic 4.8.5-4ubuntu9 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.5-4ubuntu9) cosmic; urgency=medium",
         "gcc-4.8 (4.8.5-4ubuntu8) bionic; urgency=medium",

@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/bionic-updates,bionic-security 3.5.27-1ubuntu1.14 amd64",
+        "squid/bionic 3.5.27-1ubuntu1 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.27-1ubuntu1.14) bionic-security; urgency=medium",
         "squid3 (3.5.27-1ubuntu1.13) bionic-security; urgency=medium",

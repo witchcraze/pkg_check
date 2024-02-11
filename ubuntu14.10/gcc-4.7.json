@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.7/utopic 4.7.4-2ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-4.7 (4.7.4-2ubuntu1) utopic; urgency=medium",
         "gcc-4.7 (4.7.4-2) unstable; urgency=medium",

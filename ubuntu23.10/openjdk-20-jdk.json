@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-20-jdk/mantic 20.0.2+9-1 amd64"
+    ],
     "changelog": [
         "openjdk-20 (20.0.2+9-1) unstable; urgency=medium",
         "openjdk-20 (20.0.1+9-6) unstable; urgency=medium",

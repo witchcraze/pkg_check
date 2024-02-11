@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/utopic 3.3.5-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.3.5-1) unstable; urgency=low",
         "rabbitmq-server (3.3.4-1) unstable; urgency=low",

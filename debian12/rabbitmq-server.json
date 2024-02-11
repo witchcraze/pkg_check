@@ -13,6 +13,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/stable,stable-security 3.10.8-1.1+deb12u1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.10.8-1.1+deb12u1) bookworm-security; urgency=high",
         "rabbitmq-server (3.10.8-1.1) unstable; urgency=medium",

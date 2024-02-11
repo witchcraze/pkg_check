@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-9-jdk/artful 9~b181-4 amd64"
+    ],
     "changelog": [
         "openjdk-9 (9~b181-4) unstable; urgency=medium",
         "openjdk-9 (9~b181-3) unstable; urgency=medium",

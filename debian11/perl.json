@@ -23,6 +23,10 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/oldstable 5.32.1-4+deb11u2 amd64",
+        "perl/oldstable-security 5.32.1-4+deb11u1 amd64"
+    ],
     "changelog": [
         "perl (5.32.1-4+deb11u2) bullseye; urgency=medium",
         "perl (5.32.1-4+deb11u1) bullseye-security; urgency=high",

@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/zesty-updates,zesty-security 5.0.0-7ubuntu0.1 amd64",
+        "varnish/zesty 5.0.0-7 amd64"
+    ],
     "changelog": [
         "varnish (5.0.0-7ubuntu0.1) zesty-security; urgency=medium",
         "varnish (5.0.0-7) unstable; urgency=medium",

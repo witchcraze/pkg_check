@@ -18,6 +18,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat6/trusty-infra-security 6.0.39-1ubuntu0.1+esm1 all",
+        "tomcat6/trusty-updates,trusty-security 6.0.39-1ubuntu0.1 all",
+        "tomcat6/trusty 6.0.39-1 all"
+    ],
     "changelog": [
         "tomcat6 (6.0.39-1ubuntu0.1) trusty-security; urgency=medium",
         "tomcat6 (6.0.39-1) unstable; urgency=medium",

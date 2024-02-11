@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/kinetic 1.6.16-1build1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.16-1build1) kinetic; urgency=medium",
         "memcached (1.6.16-1) unstable; urgency=medium",

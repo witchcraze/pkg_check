@@ -12,6 +12,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.15/oldstable 1.15.15-1~deb11u4 all"
+    ],
     "changelog": [
         "golang-1.15 (1.15.15-1~deb11u4) bullseye; urgency=medium",
         "golang-1.15 (1.15.15-1~deb11u3) bullseye; urgency=medium",

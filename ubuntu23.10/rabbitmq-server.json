@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/mantic-updates,mantic-security 3.12.1-1ubuntu0.1 all",
+        "rabbitmq-server/mantic 3.12.1-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.12.1-1ubuntu0.1) mantic-security; urgency=medium",
         "rabbitmq-server (3.12.1-1) experimental; urgency=medium",

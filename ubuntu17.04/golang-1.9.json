@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-backports/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.9/zesty-backports 1.9.2-3ubuntu1~17.04.1 all"
+    ],
     "changelog": [
         "golang-1.9 (1.9.2-3ubuntu1~17.04.1) zesty-backports; urgency=medium",
         "golang-1.9 (1.9.2-3ubuntu1) bionic; urgency=medium",

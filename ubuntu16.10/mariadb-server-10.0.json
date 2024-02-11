@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.0/yakkety-updates,yakkety-security 10.0.29-0ubuntu0.16.10.1 amd64",
+        "mariadb-server-10.0/yakkety 10.0.25-1 amd64"
+    ],
     "changelog": [
         "mariadb-10.0 (10.0.29-0ubuntu0.16.10.1) yakkety-security; urgency=high",
         "mariadb-10.0 (10.0.28-0ubuntu0.16.10.1) yakkety-security; urgency=high",

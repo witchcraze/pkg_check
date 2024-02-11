@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat6/utopic 6.0.41-1 all"
+    ],
     "changelog": [
         "tomcat6 (6.0.41-1) unstable; urgency=medium",
         "tomcat6 (6.0.39-1) unstable; urgency=medium",

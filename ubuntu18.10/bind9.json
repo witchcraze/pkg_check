@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/cosmic-updates,cosmic-security,now 1:9.11.4+dfsg-3ubuntu5.4 amd64 [installed]",
+        "bind9/cosmic 1:9.11.4+dfsg-3ubuntu5 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.11.4+dfsg-3ubuntu5.4) cosmic-security; urgency=medium",
         "bind9 (1:9.11.4+dfsg-3ubuntu5.3) cosmic-security; urgency=medium",

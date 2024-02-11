@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/lunar 5:7.0.8-4 amd64"
+    ],
     "changelog": [
         "redis (5:7.0.8-4) unstable; urgency=medium",
         "redis (5:7.0.8-3) unstable; urgency=medium",

@@ -18,6 +18,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php5/trusty-infra-security 5.5.9+dfsg-1ubuntu4.29+esm15 all",
+        "php5/trusty-updates,trusty-security 5.5.9+dfsg-1ubuntu4.29 all",
+        "php5/trusty 5.5.9+dfsg-1ubuntu4 all"
+    ],
     "changelog": [
         "php5 (5.5.9+dfsg-1ubuntu4.29) trusty-security; urgency=medium",
         "php5 (5.5.9+dfsg-1ubuntu4.27) trusty-security; urgency=medium",

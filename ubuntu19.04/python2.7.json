@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/disco-updates,disco-security 2.7.16-2ubuntu0.2 amd64",
+        "python2.7/disco 2.7.16-2 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.16-2ubuntu0.2) disco-security; urgency=medium",
         "python2.7 (2.7.16-2ubuntu0.1) disco-security; urgency=medium",

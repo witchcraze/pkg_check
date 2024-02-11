@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-16-jdk/groovy-updates,groovy-security 16.0.1+9-1~20.10 amd64"
+    ],
     "changelog": [
         "openjdk-16 (16.0.1+9-1~20.10) groovy-proposed; urgency=medium",
         "openjdk-16 (16.0.1+9-1) unstable; urgency=medium",

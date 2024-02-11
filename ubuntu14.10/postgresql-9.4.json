@@ -18,6 +18,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.4 server"
     },
+    "list": [
+        "postgresql-9.4/utopic-updates 9.4.4-0ubuntu0.14.10 amd64",
+        "postgresql-9.4/utopic-security 9.4.2-0ubuntu0.14.10 amd64",
+        "postgresql-9.4/utopic 9.4~beta3-2 amd64"
+    ],
     "changelog": [
         "postgresql-9.4 (9.4.4-0ubuntu0.14.10) utopic-proposed; urgency=medium",
         "postgresql-9.4 (9.4.3-0ubuntu0.14.10.1) utopic-proposed; urgency=medium",

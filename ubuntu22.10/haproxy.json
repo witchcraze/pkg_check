@@ -17,6 +17,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/kinetic-updates 2.4.22-0ubuntu0.22.10.1 amd64",
+        "haproxy/kinetic-security 2.4.18-1ubuntu1.3 amd64",
+        "haproxy/kinetic 2.4.18-1ubuntu1 amd64"
+    ],
     "changelog": [
         "haproxy (2.4.22-0ubuntu0.22.10.1) kinetic; urgency=medium",
         "haproxy (2.4.18-1ubuntu1.3) kinetic-security; urgency=medium",

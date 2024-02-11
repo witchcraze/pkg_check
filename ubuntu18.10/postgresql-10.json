@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 10 server"
     },
+    "list": [
+        "postgresql-10/cosmic-updates,cosmic-security 10.9-0ubuntu0.18.10.1 amd64",
+        "postgresql-10/cosmic 10.5-1 amd64"
+    ],
     "changelog": [
         "postgresql-10 (10.9-0ubuntu0.18.10.1) cosmic-security; urgency=medium",
         "postgresql-10 (10.8-0ubuntu0.18.10.1) cosmic-security; urgency=medium",

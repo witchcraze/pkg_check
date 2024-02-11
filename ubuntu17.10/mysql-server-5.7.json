@@ -25,6 +25,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/artful-updates,artful-security 5.7.22-0ubuntu0.17.10.1 amd64",
+        "mysql-server-5.7/artful 5.7.19-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.22-0ubuntu0.17.10.1) artful-security; urgency=medium",
         "mysql-5.7 (5.7.21-0ubuntu0.17.10.1) artful-security; urgency=medium",

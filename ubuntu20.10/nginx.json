@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/groovy-updates,groovy-security 1.18.0-6ubuntu2.2 amd64",
+        "nginx/groovy 1.18.0-6ubuntu2 amd64"
+    ],
     "changelog": [
         "nginx (1.18.0-6ubuntu2.2) groovy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu2) groovy; urgency=medium",

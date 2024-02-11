@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/artful-updates,artful-security 8u171-b11-0ubuntu0.17.10.1 amd64",
+        "openjdk-8-jdk/artful 8u144-b01-2 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u171-b11-0ubuntu0.17.10.1) artful-security; urgency=medium",
         "openjdk-8 (8u162-b12-1) unstable; urgency=high",

@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/artful 3.6.10-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.6.10-1) unstable; urgency=medium",
         "rabbitmq-server (3.6.6-1) unstable; urgency=medium",

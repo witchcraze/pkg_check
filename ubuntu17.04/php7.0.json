@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.0/zesty-updates,zesty-security 7.0.22-0ubuntu0.17.04.1 all",
+        "php7.0/zesty 7.0.15-1ubuntu4 all"
+    ],
     "changelog": [
         "php7.0 (7.0.22-0ubuntu0.17.04.1) zesty-security; urgency=medium",
         "php7.0 (7.0.18-0ubuntu0.17.04.1) zesty; urgency=medium",

@@ -17,6 +17,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/stable 2.4.57-2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.57-2) unstable; urgency=medium",
         "apache2 (2.4.57-1) unstable; urgency=medium",

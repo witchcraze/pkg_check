@@ -23,6 +23,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/bionic-updates,bionic-security 2.4.29-1ubuntu4.27 amd64",
+        "apache2/bionic 2.4.29-1ubuntu4 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.29-1ubuntu4.27) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.26) bionic-security; urgency=medium",

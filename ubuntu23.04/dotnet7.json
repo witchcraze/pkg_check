@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
+    "list": [
+        "dotnet7/lunar-updates,lunar-security 7.0.115-0ubuntu1~23.04.1 amd64",
+        "dotnet7/lunar 7.0.105-0ubuntu2 amd64"
+    ],
     "changelog": [
         "dotnet7 (7.0.115-0ubuntu1~23.04.1) lunar-security; urgency=medium",
         "dotnet7 (7.0.114-0ubuntu1~23.04.1) lunar-security; urgency=medium",

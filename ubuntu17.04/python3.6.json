@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.6)"
     },
+    "list": [
+        "python3.6/zesty-updates 3.6.1-1ubuntu0~17.04.0 amd64",
+        "python3.6/zesty 3.6.1-1 amd64"
+    ],
     "changelog": [
         "python3.6 (3.6.1-1ubuntu0~17.04.0) zesty; urgency=medium",
         "python3.6 (3.6.1-1) unstable; urgency=medium",

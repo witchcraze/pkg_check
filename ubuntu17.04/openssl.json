@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/zesty-updates,zesty-security,now 1.0.2g-1ubuntu11.4 amd64 [installed,automatic]",
+        "openssl/zesty 1.0.2g-1ubuntu11 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2g-1ubuntu11.4) zesty-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu11.3) zesty-security; urgency=medium",

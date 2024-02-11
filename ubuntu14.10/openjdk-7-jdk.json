@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-7-jdk/utopic-updates,utopic-security 7u79-2.5.5-0ubuntu0.14.10.2 amd64",
+        "openjdk-7-jdk/utopic 7u65-2.5.2-4 amd64"
+    ],
     "changelog": [
         "openjdk-7 (7u79-2.5.5-0ubuntu0.14.10.2) utopic-security; urgency=medium",
         "openjdk-7 (7u79-2.5.5-0ubuntu1) vivid; urgency=high",

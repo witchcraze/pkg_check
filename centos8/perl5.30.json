@@ -14,8 +14,8 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64           4:5.30.1-451.module_el8.3.0+406+78614513            vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "perl.x86_64           4:5.30.1-452.module_el8.4.0+646+45e06e4a            appstream",
-        "perl.x86_64           4:5.30.1-452.module_el8.4.0+646+45e06e4a            vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "perl.x86_64                     4:5.30.1-451.module_el8.3.0+406+78614513                      vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "perl.x86_64                     4:5.30.1-452.module_el8.4.0+646+45e06e4a                      appstream",
+        "perl.x86_64                     4:5.30.1-452.module_el8.4.0+646+45e06e4a                      vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

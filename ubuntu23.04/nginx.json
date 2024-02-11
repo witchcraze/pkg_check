@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/lunar 1.22.0-1ubuntu3 amd64"
+    ],
     "changelog": [
         "nginx (1.22.0-1ubuntu3) lunar; urgency=medium",
         "nginx (1.22.0-1ubuntu2) lunar; urgency=medium",

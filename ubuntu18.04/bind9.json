@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.18 amd64",
+        "bind9/bionic 1:9.11.3+dfsg-1ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.11.3+dfsg-1ubuntu1.18) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.17) bionic-security; urgency=medium",

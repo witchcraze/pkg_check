@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/bionic-updates,bionic-security 5.2.1-1ubuntu0.1 amd64",
+        "varnish/bionic 5.2.1-1 amd64"
+    ],
     "changelog": [
         "varnish (5.2.1-1ubuntu0.1) bionic-security; urgency=medium",
         "varnish (5.2.1-1) unstable; urgency=medium",

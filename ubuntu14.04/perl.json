@@ -26,6 +26,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/trusty-infra-security 5.18.2-2ubuntu1.7+esm5 amd64",
+        "perl/trusty-updates,trusty-security,now 5.18.2-2ubuntu1.7 amd64 [installed]",
+        "perl/trusty 5.18.2-2ubuntu1 amd64"
+    ],
     "changelog": [
         "perl (5.18.2-2ubuntu1.7) trusty-security; urgency=medium",
         "perl (5.18.2-2ubuntu1.6) trusty-security; urgency=medium",

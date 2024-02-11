@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-6/disco 6.5.0-2ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-6 (6.5.0-2ubuntu1) disco; urgency=medium",
         "gcc-6 (6.5.0-2) unstable; urgency=medium",

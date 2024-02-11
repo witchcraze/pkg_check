@@ -21,6 +21,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-11/impish 11.2.0-7ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-11 (11.2.0-7ubuntu2) impish; urgency=medium",
         "gcc-11 (11.2.0-7ubuntu1) impish; urgency=medium",

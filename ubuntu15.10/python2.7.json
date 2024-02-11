@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/wily 2.7.10-4ubuntu1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.10-4ubuntu1) wily; urgency=medium",
         "python2.7 (2.7.10-4) unstable; urgency=medium",

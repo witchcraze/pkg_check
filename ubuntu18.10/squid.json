@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/cosmic-updates 4.1-1ubuntu3.1 amd64",
+        "squid/cosmic 4.1-1ubuntu3 amd64"
+    ],
     "changelog": [
         "squid (4.1-1ubuntu3.1) cosmic; urgency=medium",
         "squid (4.1-1ubuntu3) cosmic; urgency=medium",

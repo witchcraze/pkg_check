@@ -17,6 +17,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/trusty-infra-security 2:2.8.4-2ubuntu0.2+esm3 amd64",
+        "redis-server/trusty-updates,trusty-security 2:2.8.4-2ubuntu0.2 amd64",
+        "redis-server/trusty 2:2.8.4-2 amd64"
+    ],
     "changelog": [
         "redis (2:2.8.4-2ubuntu0.2) trusty-security; urgency=medium",
         "redis (2:2.8.4-2) unstable; urgency=low",

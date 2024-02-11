@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.3/eoan-updates,eoan-security 1:10.3.22-0ubuntu0.19.10.1 amd64",
+        "mariadb-server-10.3/eoan 1:10.3.17-1 amd64"
+    ],
     "changelog": [
         "mariadb-10.3 (1:10.3.22-0ubuntu0.19.10.1) eoan-security; urgency=medium",
         "mariadb-10.3 (1:10.3.20-0ubuntu0.19.10.1) eoan-security; urgency=high",

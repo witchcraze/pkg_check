@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.6/vivid 4.6.4-6ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-4.6 (4.6.4-6ubuntu3) vivid; urgency=medium",
         "gcc-4.6 (4.6.4-6ubuntu2) trusty; urgency=low",

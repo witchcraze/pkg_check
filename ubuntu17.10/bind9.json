@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/artful-updates,artful-security 1:9.10.3.dfsg.P4-12.6ubuntu1.1 amd64",
+        "bind9/artful 1:9.10.3.dfsg.P4-12.6ubuntu1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.10.3.dfsg.P4-12.6ubuntu1.1) artful-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-12.6ubuntu1) artful; urgency=medium",

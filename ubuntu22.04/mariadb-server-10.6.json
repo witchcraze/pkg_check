@@ -23,6 +23,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.6/jammy-updates,jammy-security 1:10.6.16-0ubuntu0.22.04.1 amd64",
+        "mariadb-server-10.6/jammy 1:10.6.7-2ubuntu1 amd64"
+    ],
     "changelog": [
         "mariadb-10.6 (1:10.6.16-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "mariadb-10.6 (1:10.6.12-0ubuntu0.22.04.1) jammy-security; urgency=medium",

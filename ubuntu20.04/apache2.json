@@ -23,6 +23,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/focal-updates,focal-security 2.4.41-4ubuntu3.15 amd64",
+        "apache2/focal 2.4.41-4ubuntu3 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.41-4ubuntu3.15) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.14) focal-security; urgency=medium",

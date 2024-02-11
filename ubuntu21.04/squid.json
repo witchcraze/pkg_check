@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/hirsute-updates,hirsute-security 4.13-1ubuntu4.2 amd64",
+        "squid/hirsute 4.13-1ubuntu4 amd64"
+    ],
     "changelog": [
         "squid (4.13-1ubuntu4.2) hirsute-security; urgency=medium",
         "squid (4.13-1ubuntu4.1) hirsute-security; urgency=medium",

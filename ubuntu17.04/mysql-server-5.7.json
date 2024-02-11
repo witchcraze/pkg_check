@@ -25,6 +25,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/zesty-updates,zesty-security 5.7.20-0ubuntu0.17.04.1 amd64",
+        "mysql-server-5.7/zesty 5.7.17-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.20-0ubuntu0.17.04.1) zesty-security; urgency=medium",
         "mysql-5.7 (5.7.19-0ubuntu0.17.04.1) zesty-security; urgency=medium",

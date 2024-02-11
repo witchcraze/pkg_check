@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/zesty-updates,zesty-security 1.10.3-1ubuntu3.1 all",
+        "nginx/zesty 1.10.3-1ubuntu3 all"
+    ],
     "changelog": [
         "nginx (1.10.3-1ubuntu3.1) zesty-security; urgency=medium",
         "nginx (1.10.3-1ubuntu3) zesty; urgency=medium",

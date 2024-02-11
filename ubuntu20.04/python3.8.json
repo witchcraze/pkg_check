@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.8)"
     },
+    "list": [
+        "python3.8/focal-updates,focal-security 3.8.10-0ubuntu1~20.04.9 amd64",
+        "python3.8/focal 3.8.2-1ubuntu1 amd64"
+    ],
     "changelog": [
         "python3.8 (3.8.10-0ubuntu1~20.04.9) focal-security; urgency=medium",
         "python3.8 (3.8.10-0ubuntu1~20.04.8) focal-security; urgency=medium",

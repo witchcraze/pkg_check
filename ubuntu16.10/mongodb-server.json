@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/yakkety 1:2.6.11-1ubuntu1 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.6.11-1ubuntu1) yakkety; urgency=medium",
         "mongodb (1:2.6.11-1) experimental; urgency=medium",

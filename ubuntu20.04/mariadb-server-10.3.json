@@ -23,6 +23,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.3/focal-updates,focal-security 1:10.3.39-0ubuntu0.20.04.2 amd64",
+        "mariadb-server-10.3/focal 1:10.3.22-1ubuntu1 amd64"
+    ],
     "changelog": [
         "mariadb-10.3 (1:10.3.39-0ubuntu0.20.04.2) focal-security; urgency=medium",
         "mariadb-10.3 (1:10.3.38-0ubuntu0.20.04.1) focal-security; urgency=medium",

@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/bionic-updates,bionic-security 1.14.0-0ubuntu1.11 all",
+        "nginx/bionic 1.14.0-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.14.0-0ubuntu1.11) bionic-security; urgency=medium",
         "nginx (1.14.0-0ubuntu1.10) bionic-security; urgency=medium",

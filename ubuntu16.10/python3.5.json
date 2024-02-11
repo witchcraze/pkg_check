@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/yakkety 3.5.2-6 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.2-6) unstable; urgency=medium",
         "python3.5 (3.5.2-5) unstable; urgency=medium",

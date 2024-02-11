@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/cosmic 8.11.4~dfsg-0ubuntu1 amd64"
+    ],
     "changelog": [
         "nodejs (8.11.4~dfsg-0ubuntu1) cosmic; urgency=medium",
         "nodejs (8.11.2~dfsg-1ubuntu2) cosmic; urgency=medium",

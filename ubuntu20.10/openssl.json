@@ -18,6 +18,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/groovy-updates,now 1.1.1f-1ubuntu4.4 amd64 [installed,automatic]",
+        "openssl/groovy-security 1.1.1f-1ubuntu4.3 amd64",
+        "openssl/groovy 1.1.1f-1ubuntu4 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1f-1ubuntu4.4) groovy; urgency=medium",
         "openssl (1.1.1f-1ubuntu4.3) groovy-security; urgency=medium",

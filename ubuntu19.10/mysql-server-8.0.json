@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/eoan-updates,eoan-security 8.0.20-0ubuntu0.19.10.1 amd64",
+        "mysql-server-8.0/eoan 8.0.17-0ubuntu2 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.20-0ubuntu0.19.10.1) eoan-security; urgency=medium",
         "mysql-8.0 (8.0.19-0ubuntu0.19.10.3) eoan-security; urgency=medium",

@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/hirsute-updates,hirsute-security 1.18.0-6ubuntu8.2 amd64",
+        "nginx/hirsute 1.18.0-6ubuntu8 amd64"
+    ],
     "changelog": [
         "nginx (1.18.0-6ubuntu8.2) hirsute-security; urgency=medium",
         "nginx (1.18.0-6ubuntu8) hirsute; urgency=medium",

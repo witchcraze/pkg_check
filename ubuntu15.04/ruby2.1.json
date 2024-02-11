@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.1/vivid 2.1.2-2ubuntu3 amd64"
+    ],
     "changelog": [
         "ruby2.1 (2.1.2-2ubuntu3) vivid; urgency=medium",
         "ruby2.1 (2.1.2-2ubuntu2) vivid; urgency=medium",

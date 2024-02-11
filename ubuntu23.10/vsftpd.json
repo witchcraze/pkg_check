@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/mantic 3.0.5-0ubuntu1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.5-0ubuntu1) jammy; urgency=medium",
         "vsftpd (3.0.3-13build2) jammy; urgency=medium",

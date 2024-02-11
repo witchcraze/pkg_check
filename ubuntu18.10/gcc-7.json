@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-7/cosmic-updates,cosmic-security 7.4.0-1ubuntu1~18.10.1 amd64",
+        "gcc-7/cosmic 7.3.0-29ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-7 (7.4.0-1ubuntu1~18.10.1) cosmic; urgency=medium",
         "gcc-7 (7.4.0-1ubuntu1~18.10) cosmic-proposed; urgency=medium",

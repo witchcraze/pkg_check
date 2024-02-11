@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/utopic 8u40~b09-1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u40~b09-1) unstable; urgency=medium",
         "openjdk-8 (8u40~b04-2) unstable; urgency=medium",

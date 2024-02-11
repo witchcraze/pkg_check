@@ -20,6 +20,10 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/oldstable 2.4.56-1~deb11u2 amd64",
+        "apache2/oldstable-security 2.4.56-1~deb11u1 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.56-1~deb11u2) bullseye; urgency=medium",
         "apache2 (2.4.56-1~deb11u1) bullseye-security; urgency=medium",

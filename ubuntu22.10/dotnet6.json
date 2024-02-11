@@ -14,6 +14,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
+    "list": [
+        "dotnet6/kinetic-updates,kinetic-security 6.0.120-0ubuntu1~22.10.1 amd64",
+        "dotnet6/kinetic 6.0.110-0ubuntu1 amd64"
+    ],
     "changelog": [
         "dotnet6 (6.0.120-0ubuntu1~22.10.1) kinetic-security; urgency=medium",
         "dotnet6 (6.0.119-0ubuntu1~22.10.1) kinetic-security; urgency=medium",

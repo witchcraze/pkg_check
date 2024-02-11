@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/impish-updates,impish-security 2.4.48-3.1ubuntu3.5 amd64",
+        "apache2/impish 2.4.48-3.1ubuntu3 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.48-3.1ubuntu3.5) impish-security; urgency=medium",
         "apache2 (2.4.48-3.1ubuntu3.4) impish; urgency=medium",

@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php5/vivid-updates,vivid-security 5.6.4+dfsg-4ubuntu6.4 all",
+        "php5/vivid 5.6.4+dfsg-4ubuntu6 all"
+    ],
     "changelog": [
         "php5 (5.6.4+dfsg-4ubuntu6.4) vivid-security; urgency=medium",
         "php5 (5.6.4+dfsg-4ubuntu6.3) vivid-security; urgency=medium",

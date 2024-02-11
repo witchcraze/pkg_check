@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/oldoldstable 2.4.25-3+deb9u13 amd64",
+        "apache2/oldoldstable 2.4.25-3+deb9u9 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.25-3+deb9u13) stretch-security; urgency=medium",
         "apache2 (2.4.25-3+deb9u12) stretch-security; urgency=medium",

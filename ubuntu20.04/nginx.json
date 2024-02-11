@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/focal-updates,focal-security 1.18.0-0ubuntu1.4 all",
+        "nginx/focal 1.17.10-0ubuntu1 all"
+    ],
     "changelog": [
         "nginx (1.18.0-0ubuntu1.4) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.3) focal-security; urgency=medium",

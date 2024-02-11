@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-7/groovy 7.5.0-6ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-7 (7.5.0-6ubuntu3) groovy; urgency=medium",
         "gcc-7 (7.5.0-6ubuntu2) focal; urgency=medium",

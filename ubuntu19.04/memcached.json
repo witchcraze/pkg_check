@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/disco-updates,disco-security 1.5.10-0ubuntu1.19.04.2 amd64",
+        "memcached/disco 1.5.10-0ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.5.10-0ubuntu1.19.04.2) disco-security; urgency=medium",
         "memcached (1.5.10-0ubuntu1.19.04.1) disco-security; urgency=medium",

@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/oldoldstable 1.4.21-1.1+deb8u3 amd64",
+        "memcached/oldstable 1.4.21-1.1+deb8u2 amd64"
+    ],
     "changelog": [
         "memcached (1.4.21-1.1+deb8u3) jessie-security; urgency=high",
         "memcached (1.4.21-1.1+deb8u2) jessie-security; urgency=high",

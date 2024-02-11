@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
+    "list": [
+        "python3.7/cosmic-updates 3.7.3-2~18.10 amd64",
+        "python3.7/cosmic 3.7.1~rc2-1 amd64"
+    ],
     "changelog": [
         "python3.7 (3.7.3-2~18.10) cosmic; urgency=medium",
         "python3.7 (3.7.3-2) unstable; urgency=medium",

@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.3/xenial-updates,xenial-security 2.3.1-2~ubuntu16.04.16 amd64",
+        "ruby2.3/xenial 2.3.0-5ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.3 (2.3.1-2~ubuntu16.04.16) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.15) xenial-security; urgency=medium",

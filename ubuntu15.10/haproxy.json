@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/wily-updates 1.5.14-1ubuntu0.15.10.1 amd64",
+        "haproxy/wily 1.5.14-1 amd64"
+    ],
     "changelog": [
         "haproxy (1.5.14-1ubuntu0.15.10.1) wily; urgency=medium",
         "haproxy (1.5.14-1) unstable; urgency=high",

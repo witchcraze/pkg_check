@@ -24,6 +24,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/cosmic-updates 2.4.34-1ubuntu2.3 amd64",
+        "apache2/cosmic-security 2.4.34-1ubuntu2.1 amd64",
+        "apache2/cosmic 2.4.34-1ubuntu2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.34-1ubuntu2.3) cosmic; urgency=medium",
         "apache2 (2.4.34-1ubuntu2.2) cosmic; urgency=medium",

@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/oldoldstable 3.5.23-5+deb9u7 amd64",
+        "squid/oldoldstable 3.5.23-5+deb9u1 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.23-5+deb9u7) stretch-security; urgency=medium",
         "squid3 (3.5.23-5+deb9u6) stretch-security; urgency=high",

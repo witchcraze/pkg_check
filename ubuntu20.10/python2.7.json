@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/groovy 2.7.18-1build2 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.18-1build2) groovy; urgency=medium",
         "python2.7 (2.7.18-1build1) groovy; urgency=medium",

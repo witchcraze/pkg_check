@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/zesty-updates,zesty-security 8.0.38-2ubuntu2.2 all",
+        "tomcat8/zesty 8.0.38-2ubuntu2 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.38-2ubuntu2.2) zesty-security; urgency=medium",
         "tomcat8 (8.0.38-2ubuntu2) zesty; urgency=medium",

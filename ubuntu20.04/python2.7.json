@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/focal-updates,focal-security 2.7.18-1~20.04.3 amd64",
+        "python2.7/focal 2.7.18~rc1-2 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.18-1~20.04.3) focal-security; urgency=medium",
         "python2.7 (2.7.18-1~20.04.1) focal-security; urgency=medium",
@@ -418,6 +422,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.18-1~20.04.4",
         "2.7.18-1~20.04.3",
         "2.7.18-1~20.04.1",
         "2.7.18-1~20.04",

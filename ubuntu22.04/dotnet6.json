@@ -14,6 +14,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
+    "list": [
+        "dotnet6/jammy-updates,jammy-security 6.0.126-0ubuntu1~22.04.1 amd64"
+    ],
     "changelog": [
         "dotnet6 (6.0.126-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.125-0ubuntu1~22.04.1) jammy-security; urgency=medium",

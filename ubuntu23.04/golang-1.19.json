@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.19/lunar-updates,lunar-security 1.19.8-1ubuntu0.1 all",
+        "golang-1.19/lunar 1.19.8-1 all"
+    ],
     "changelog": [
         "golang-1.19 (1.19.8-1ubuntu0.1) lunar-security; urgency=medium",
         "golang-1.19 (1.19.8-1) experimental; urgency=medium",

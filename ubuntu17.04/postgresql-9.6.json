@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.6 server"
     },
+    "list": [
+        "postgresql-9.6/zesty-updates,zesty-security 9.6.6-0ubuntu0.17.04 amd64",
+        "postgresql-9.6/zesty 9.6.2-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.6 (9.6.6-0ubuntu0.17.04) zesty-security; urgency=medium",
         "postgresql-9.6 (9.6.5-0ubuntu0.17.04) zesty; urgency=medium",

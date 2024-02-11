@@ -24,6 +24,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/artful-updates,artful-security 5.26.0-8ubuntu1.2 amd64",
+        "perl/artful 5.26.0-8ubuntu1 amd64"
+    ],
     "changelog": [
         "perl (5.26.0-8ubuntu1.2) artful-security; urgency=medium",
         "perl (5.26.0-8ubuntu1.1) artful-security; urgency=medium",

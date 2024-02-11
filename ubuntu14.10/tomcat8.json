@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/utopic 8.0.9-1 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.9-1) unstable; urgency=medium",
         "tomcat8 (8.0.8-1) unstable; urgency=medium",

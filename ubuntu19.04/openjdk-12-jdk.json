@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu disco-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-12-jdk/disco-updates,disco-security 12.0.2+9-1~19.04 amd64",
+        "openjdk-12-jdk/disco 12.0.1+12-1 amd64"
+    ],
     "changelog": [
         "openjdk-12 (12.0.2+9-1~19.04) disco-security; urgency=medium",
         "openjdk-12 (12.0.2+9-1) unstable; urgency=high",

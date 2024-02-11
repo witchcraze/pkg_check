@@ -15,6 +15,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security stretch/updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/oldoldstable,now 1:9.10.3.dfsg.P4-12.3+deb9u12 amd64 [installed]",
+        "bind9/oldoldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.10.3.dfsg.P4-12.3+deb9u12) stretch-security; urgency=high",
         "bind9 (1:9.10.3.dfsg.P4-12.3+deb9u11) stretch-security; urgency=high",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/cosmic-updates,cosmic-security 8u212-b03-0ubuntu1.18.10.1 amd64",
+        "openjdk-8-jdk/cosmic 8u181-b13-1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u212-b03-0ubuntu1.18.10.1) cosmic-security; urgency=medium",
         "openjdk-8 (8u212-b03-0ubuntu1) eoan; urgency=medium",

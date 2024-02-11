@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.6/yakkety 1.6.3-1ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.6 (1.6.3-1ubuntu1) yakkety; urgency=medium",
         "golang-1.6 (1.6.3-1) unstable; urgency=medium",

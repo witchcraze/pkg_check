@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/wily 3.5.0-3 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.0-3) unstable; urgency=medium",
         "python3.5 (3.5.0-2) unstable; urgency=medium",

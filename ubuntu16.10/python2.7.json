@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/yakkety 2.7.12-3build1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.12-3build1) yakkety; urgency=medium",
         "python2.7 (2.7.12-3) unstable; urgency=medium",

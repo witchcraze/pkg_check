@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.4 server"
     },
+    "list": [
+        "postgresql-9.4/vivid-updates,vivid-security 9.4.5-0ubuntu0.15.04 amd64",
+        "postgresql-9.4/vivid 9.4.1-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.4 (9.4.5-0ubuntu0.15.04) vivid-security; urgency=medium",
         "postgresql-9.4 (9.4.4-0ubuntu0.15.04) vivid-proposed; urgency=medium",

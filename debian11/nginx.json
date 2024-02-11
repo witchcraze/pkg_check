@@ -14,6 +14,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/oldstable,oldstable-security 1.18.0-6.1+deb11u3 all"
+    ],
     "changelog": [
         "nginx (1.18.0-6.1+deb11u3) bullseye-security; urgency=medium",
         "nginx (1.18.0-6.1+deb11u2) bullseye; urgency=medium",

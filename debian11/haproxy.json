@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/oldstable-security 2.2.9-2+deb11u6 amd64",
+        "haproxy/oldstable 2.2.9-2+deb11u5 amd64"
+    ],
     "changelog": [
         "haproxy (2.2.9-2+deb11u6) bullseye-security; urgency=high",
         "haproxy (2.2.9-2+deb11u5) bullseye-security; urgency=high",

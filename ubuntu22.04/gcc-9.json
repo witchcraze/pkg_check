@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-9/jammy-updates,jammy-security 9.5.0-1ubuntu1~22.04 amd64",
+        "gcc-9/jammy 9.4.0-5ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-9 (9.5.0-1ubuntu1~22.04) jammy-proposed; urgency=medium",
         "gcc-9 (9.5.0-1ubuntu1) kinetic; urgency=medium",

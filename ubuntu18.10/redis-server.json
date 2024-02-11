@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/cosmic 5:4.0.11-2 amd64"
+    ],
     "changelog": [
         "redis (5:4.0.11-2) unstable; urgency=medium",
         "redis (5:4.0.11-1) unstable; urgency=medium",

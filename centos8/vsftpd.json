@@ -13,11 +13,11 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                        3.0.3-28.el8                         vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "vsftpd.x86_64                        3.0.3-28.el8                         vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "vsftpd.x86_64                        3.0.3-31.el8                         vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "vsftpd.x86_64                        3.0.3-32.el8                         vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "vsftpd.x86_64                        3.0.3-33.el8                         vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "vsftpd.x86_64                        3.0.3-34.el8                         appstream"
+        "vsftpd.x86_64                                  3.0.3-28.el8                                   vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                  3.0.3-28.el8                                   vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                  3.0.3-31.el8                                   vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                  3.0.3-32.el8                                   vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                  3.0.3-33.el8                                   vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "vsftpd.x86_64                                  3.0.3-34.el8                                   appstream"
     ]
 }

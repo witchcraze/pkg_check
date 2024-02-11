@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/xenial-updates,xenial-security 8u292-b10-0ubuntu1~16.04.1 amd64",
+        "openjdk-8-jdk/xenial 8u77-b03-3ubuntu3 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u292-b10-0ubuntu1~16.04.1) xenial-security; urgency=medium",
         "openjdk-8 (8u292-b10-0ubuntu1) hirsute; urgency=medium",

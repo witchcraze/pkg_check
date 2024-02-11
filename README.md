@@ -22,14 +22,12 @@ yum list -q --showduplicates {package}
 #### CMD
 
 ```
+apt list {package} -a
 apt-get changelog {package}
-```
-
-```
-zcat /usr/share/doc/{package}//changelog.Debian.gz
+zcat /usr/share/doc/{package}/changelog.Debian.gz
 ```
 
 #### Web
 
-- https://launchpad.net/ubuntu/+source/{package}/+publishinghistory
 - https://launchpad.net/debian/+source/{package}/+publishinghistory
+- https://launchpad.net/ubuntu/+source/{package}/+publishinghistory

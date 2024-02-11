@@ -16,6 +16,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.10)"
     },
+    "list": [
+        "python3.10/hirsute-updates,hirsute-security 3.10.0~b1-3~21.04 amd64",
+        "python3.10/hirsute 3.10.0~a7-3 amd64"
+    ],
     "changelog": [
         "python3.10 (3.10.0~b1-3~21.04) hirsute; urgency=medium",
         "python3.10 (3.10.0~b1-3) experimental; urgency=medium",

@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.13/eoan 1.13.1-1ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.13 (1.13.1-1ubuntu1) eoan; urgency=medium",
         "golang-1.13 (1.13.1-1) unstable; urgency=medium",

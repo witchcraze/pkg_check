@@ -13,7 +13,7 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                                 3.0.2-140.module_el8.5.0+991+268c5cd9                                appstream",
-        "ruby.x86_64                               3.0.2-140.module_el8.5.0+991+268c5cd9                                appstream"
+        "ruby.i686                                           3.0.2-140.module_el8.5.0+991+268c5cd9                                          appstream",
+        "ruby.x86_64                                         3.0.2-140.module_el8.5.0+991+268c5cd9                                          appstream"
     ]
 }

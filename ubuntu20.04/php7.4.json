@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.4/focal-updates,focal-security 7.4.3-4ubuntu2.19 all",
+        "php7.4/focal 7.4.3-4ubuntu1 all"
+    ],
     "changelog": [
         "php7.4 (7.4.3-4ubuntu2.19) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.18) focal-security; urgency=medium",

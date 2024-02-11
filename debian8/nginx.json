@@ -12,6 +12,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/oldoldstable 1.6.2-5+deb8u6 all",
+        "nginx/oldstable 1.6.2-5+deb8u5 all"
+    ],
     "changelog": [
         "nginx (1.6.2-5+deb8u6) jessie-security; urgency=high",
         "nginx (1.6.2-5+deb8u5) jessie-security; urgency=high",

@@ -21,6 +21,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-10/groovy-updates,groovy-security 10.3.0-1ubuntu1~20.10 amd64",
+        "gcc-10/groovy 10.2.0-13ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-10 (10.3.0-1ubuntu1~20.10) groovy-proposed; urgency=medium",
         "gcc-10 (10.3.0-1ubuntu1) hirsute; urgency=medium",

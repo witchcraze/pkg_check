@@ -12,8 +12,8 @@
         "Description": "This is the main package for gcc-toolset-10 Software Collection."
     },
     "list": [
-        "gcc-toolset-10.x86_64                     10.0-0.el8                      vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "gcc-toolset-10.x86_64                     10.1-0.el8                      appstream",
-        "gcc-toolset-10.x86_64                     10.1-0.el8                      vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "gcc-toolset-10.x86_64                               10.0-0.el8                                vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64                               10.1-0.el8                                appstream",
+        "gcc-toolset-10.x86_64                               10.1-0.el8                                vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }

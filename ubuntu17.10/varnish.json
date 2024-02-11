@@ -18,6 +18,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/artful 5.0.0-7.1 amd64"
+    ],
     "changelog": [
         "varnish (5.0.0-7.1) unstable; urgency=high",
         "varnish (5.0.0-7) unstable; urgency=medium",

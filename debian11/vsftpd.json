@@ -20,6 +20,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/oldstable 3.0.3-12+b1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-12) unstable; urgency=low",
         "vsftpd (3.0.3-11) unstable; urgency=low",

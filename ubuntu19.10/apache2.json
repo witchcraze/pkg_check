@@ -24,6 +24,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/eoan 2.4.41-1ubuntu1 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.41-1ubuntu1) eoan; urgency=medium",
         "apache2 (2.4.41-1) unstable; urgency=medium",

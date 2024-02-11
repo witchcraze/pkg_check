@@ -19,6 +19,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-19-jdk/jammy-updates,jammy-security 19.0.2+7-0ubuntu3~22.04 amd64"
+    ],
     "changelog": [
         "openjdk-19 (19.0.2+7-0ubuntu3~22.04) jammy-security; urgency=medium",
         "openjdk-19 (19.0.2+7-0ubuntu3) lunar; urgency=medium",

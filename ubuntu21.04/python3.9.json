@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
+    "list": [
+        "python3.9/hirsute-updates,hirsute-security 3.9.5-3ubuntu0~21.04.1 amd64",
+        "python3.9/hirsute 3.9.4-1 amd64"
+    ],
     "changelog": [
         "python3.9 (3.9.5-3ubuntu0~21.04.1) hirsute-security; urgency=medium",
         "python3.9 (3.9.5-3~21.04) hirsute; urgency=medium",

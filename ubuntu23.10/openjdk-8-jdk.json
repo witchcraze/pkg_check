@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/mantic-updates,mantic-security 8u392-ga-1~23.10 amd64",
+        "openjdk-8-jdk/mantic 8u382-ga-1ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u392-ga-1~23.10) mantic-security; urgency=low",
         "openjdk-8 (8u392-ga-1) unstable; urgency=low",

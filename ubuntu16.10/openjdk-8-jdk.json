@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/yakkety-updates,yakkety-security 8u131-b11-0ubuntu1.16.10.2 amd64",
+        "openjdk-8-jdk/yakkety 8u102-b14.1-2 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u131-b11-0ubuntu1.16.10.2) yakkety-security; urgency=medium",
         "openjdk-8 (8u131-b11-0ubuntu1.16.10.1) yakkety-security; urgency=medium",

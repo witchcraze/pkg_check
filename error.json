@@ -1,7 +1,626 @@
 {
     "debian": {
+        "8": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "gcc-4.8": [
+                "apt-get changelog"
+            ],
+            "gcc-4.9": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.0": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "mysql-server-5.5": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "openjdk-7-jdk": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "php5": [
+                "apt-get changelog"
+            ],
+            "postgresql-9.4": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python3.4": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.1": [
+                "apt-get changelog"
+            ],
+            "tomcat7": [
+                "apt-get changelog"
+            ],
+            "tomcat8": [
+                "apt-get changelog"
+            ]
+        },
+        "9": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog"
+            ],
+            "gcc-6": [
+                "apt-get changelog"
+            ],
+            "golang-1.7": [
+                "apt-get changelog"
+            ],
+            "golang-1.8": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.1": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-8-jdk": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "php7.0": [
+                "apt-get changelog"
+            ],
+            "postgresql-9.6": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.3": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat8": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
+                "apt-get changelog"
+            ]
+        },
+        "10": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog"
+            ],
+            "golang-1.11": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.3": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "php7.3": [
+                "apt-get changelog"
+            ],
+            "postgresql-11": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python3.7": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.5": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ]
+        },
         "12": {
             "nodejs": [
+                "apt-get changelog"
+            ]
+        }
+    },
+    "ubuntu": {
+        "14.04": {
+            "gcc-4.6": [
+                "apt-get changelog"
+            ],
+            "gcc-4.7": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
+                "apt-get changelog"
+            ]
+        },
+        "14.10": {
+            "gcc-4.6": [
+                "apt-get changelog"
+            ],
+            "gcc-4.7": [
+                "apt-get changelog"
+            ],
+            "gcc-4.8": [
+                "apt-get changelog"
+            ],
+            "gcc-4.9": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "mysql-server-5.6": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "openjdk-8-jdk": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.0": [
+                "apt-get changelog"
+            ],
+            "ruby2.1": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat8": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
+                "apt-get changelog"
+            ]
+        },
+        "18.10": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "gcc-4.8": [
+                "apt-get changelog"
+            ],
+            "gcc-5": [
+                "apt-get changelog"
+            ],
+            "gcc-6": [
+                "apt-get changelog"
+            ],
+            "gcc-7": [
+                "apt-get changelog"
+            ],
+            "gcc-8": [
+                "apt-get changelog"
+            ],
+            "golang-1.10": [
+                "apt-get changelog"
+            ],
+            "golang-1.7": [
+                "apt-get changelog"
+            ],
+            "golang-1.8": [
+                "apt-get changelog"
+            ],
+            "golang-1.9": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.1": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "mysql-server-5.7": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-8-jdk": [
+                "apt-get changelog"
+            ],
+            "openssl1.0": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "php7.2": [
+                "apt-get changelog"
+            ],
+            "postgresql-10": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python2": [
+                "apt-get changelog"
+            ],
+            "python3.6": [
+                "apt-get changelog"
+            ],
+            "python3.7": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.5": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat8": [
+                "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
+                "apt-get changelog"
+            ]
+        },
+        "19.04": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "gcc-6": [
+                "apt-get changelog"
+            ],
+            "gcc-7": [
+                "apt-get changelog"
+            ],
+            "gcc-8": [
+                "apt-get changelog"
+            ],
+            "gcc-9": [
+                "apt-get changelog"
+            ],
+            "golang-1.10": [
+                "apt-get changelog"
+            ],
+            "golang-1.11": [
+                "apt-get changelog"
+            ],
+            "golang-1.12": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.3": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "mysql-server-5.7": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-12-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-13-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-8-jdk": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "php7.2": [
+                "apt-get changelog"
+            ],
+            "postgresql-11": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python2": [
+                "apt-get changelog"
+            ],
+            "python3.7": [
+                "apt-get changelog"
+            ],
+            "python3.8": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.5": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
+                "apt-get changelog"
+            ]
+        },
+        "19.10": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "gcc-7": [
+                "apt-get changelog"
+            ],
+            "gcc-8": [
+                "apt-get changelog"
+            ],
+            "gcc-9": [
+                "apt-get changelog"
+            ],
+            "golang-1.12": [
+                "apt-get changelog"
+            ],
+            "golang-1.13": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.3": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "mongodb-server": [
+                "apt-get changelog"
+            ],
+            "mysql-server-8.0": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-13-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-14-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-8-jdk": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
+            "php7.3": [
+                "apt-get changelog"
+            ],
+            "postgresql-11": [
+                "apt-get changelog"
+            ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python2": [
+                "apt-get changelog"
+            ],
+            "python3.7": [
+                "apt-get changelog"
+            ],
+            "python3.8": [
+                "apt-get changelog"
+            ],
+            "python3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.5": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ],
+            "vsftpd": [
                 "apt-get changelog"
             ]
         }
@@ -106,6 +725,40 @@
         }
     },
     "fedora": {
+        "36": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        },
+        "37": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        },
         "38": {
             "python3": [
                 "kojiPackages"

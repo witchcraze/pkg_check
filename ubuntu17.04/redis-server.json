@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/zesty 2:3.2.1-1 amd64"
+    ],
     "changelog": [
         "redis (2:3.2.1-1) unstable; urgency=medium",
         "redis (2:3.2.0-3) unstable; urgency=medium",

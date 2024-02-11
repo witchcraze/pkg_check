@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/jammy-updates 9.0.58-1ubuntu0.1 all",
+        "tomcat9/jammy 9.0.58-1 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.58-1ubuntu0.1) jammy; urgency=medium",
         "tomcat9 (9.0.58-1) unstable; urgency=medium",

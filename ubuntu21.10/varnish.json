@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish-updates/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/impish-updates,impish-security 6.5.2-1ubuntu0.2 amd64",
+        "varnish/impish 6.5.2-1 amd64"
+    ],
     "changelog": [
         "varnish (6.5.2-1ubuntu0.2) impish-security; urgency=medium",
         "varnish (6.5.2-1) unstable; urgency=medium",

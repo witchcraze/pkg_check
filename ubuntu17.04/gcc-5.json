@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-5/zesty 5.4.1-8ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-5 (5.4.1-8ubuntu1) zesty; urgency=medium",
         "gcc-5 (5.4.1-8) unstable; urgency=medium",

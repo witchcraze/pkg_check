@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/mantic-updates,mantic-security 2.4.57-2ubuntu2.1 amd64",
+        "apache2/mantic 2.4.57-2ubuntu2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.57-2ubuntu2.1) mantic-security; urgency=medium",
         "apache2 (2.4.57-2ubuntu2) mantic; urgency=medium",

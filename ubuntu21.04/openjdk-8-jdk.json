@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/hirsute-updates,hirsute-security 8u312-b07-0ubuntu1~21.04 amd64",
+        "openjdk-8-jdk/hirsute 8u282-b08-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u312-b07-0ubuntu1~21.04) hirsute-security; urgency=medium",
         "openjdk-8 (8u312-b07-0ubuntu1) jammy; urgency=medium",

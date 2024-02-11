@@ -14,6 +14,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/oldoldstable 7.0.56-3+really7.0.100-1+deb8u1 all",
+        "tomcat7/oldstable 7.0.56-3+deb8u11 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.56-3+really7.0.100-1+deb8u1) jessie-security; urgency=high",
         "tomcat7 (7.0.56-3+really7.0.100-1) jessie-security; urgency=high",

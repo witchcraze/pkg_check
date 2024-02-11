@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/oldstable 0.10.29~dfsg-2 amd64"
+    ],
     "changelog": [
         "nodejs (0.10.29~dfsg-2) unstable; urgency=medium",
         "nodejs (0.10.29~dfsg-1.1) unstable; urgency=medium",

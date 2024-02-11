@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/wily-updates,wily-security 2.4.12-2ubuntu2.1 amd64",
+        "apache2/wily 2.4.12-2ubuntu2 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.12-2ubuntu2.1) wily-security; urgency=medium",
         "apache2 (2.4.12-2ubuntu2) wily; urgency=medium",

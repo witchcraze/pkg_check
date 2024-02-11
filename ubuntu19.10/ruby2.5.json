@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu eoan-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.5/eoan-updates,eoan-security 2.5.5-4ubuntu2.1 amd64",
+        "ruby2.5/eoan 2.5.5-4ubuntu2 amd64"
+    ],
     "changelog": [
         "ruby2.5 (2.5.5-4ubuntu2.1) eoan-security; urgency=medium",
         "ruby2.5 (2.5.5-4ubuntu2) eoan; urgency=medium",

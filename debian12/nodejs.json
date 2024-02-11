@@ -18,6 +18,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/stable-security 18.19.0+dfsg-6~deb12u1 amd64",
+        "nodejs/stable 18.13.0+dfsg1-1 amd64"
+    ],
     "changelog": [
         "nodejs (18.19.0+dfsg-6~deb12u1) bookworm-security; urgency=medium",
         "nodejs (18.19.0+dfsg-6) unstable; urgency=medium",

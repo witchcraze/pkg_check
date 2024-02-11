@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/xenial-updates,xenial-security 5.22.1-9ubuntu0.9 amd64",
+        "perl/xenial 5.22.1-9 amd64"
+    ],
     "changelog": [
         "perl (5.22.1-9ubuntu0.9) xenial-security; urgency=medium",
         "perl (5.22.1-9ubuntu0.6) xenial-security; urgency=medium",

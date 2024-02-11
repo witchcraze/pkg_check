@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.7/groovy-updates,groovy-security 2.7.1-3ubuntu1.4 amd64",
+        "ruby2.7/groovy 2.7.1-3ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.7 (2.7.1-3ubuntu1.4) groovy-security; urgency=medium",
         "ruby2.7 (2.7.1-3ubuntu1.3) groovy-security; urgency=medium",

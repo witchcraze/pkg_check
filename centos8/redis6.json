@@ -13,8 +13,8 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64             6.0.9-2.module_el8.4.0+580+92c8284e              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "redis.x86_64             6.0.9-3.module_el8.4.0+788+86a4d8e8              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "redis.x86_64             6.0.9-5.module_el8.4.0+956+a52e9aa4              appstream"
+        "redis.x86_64                       6.0.9-2.module_el8.4.0+580+92c8284e                        vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "redis.x86_64                       6.0.9-3.module_el8.4.0+788+86a4d8e8                        vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "redis.x86_64                       6.0.9-5.module_el8.4.0+956+a52e9aa4                        appstream"
     ]
 }

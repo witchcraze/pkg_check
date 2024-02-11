@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ wily/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
+    "list": [
+        "python3.4/wily 3.4.3-9ubuntu1 amd64"
+    ],
     "changelog": [
         "python3.4 (3.4.3-9ubuntu1) wily; urgency=medium",
         "python3.4 (3.4.3-9) unstable; urgency=medium",

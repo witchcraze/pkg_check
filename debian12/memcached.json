@@ -16,6 +16,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/stable 1.6.18-1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.18-1) unstable; urgency=medium",
         "memcached (1.6.17-1) unstable; urgency=medium",

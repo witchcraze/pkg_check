@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-7-jdk/oldoldstable 7u261-2.6.22-1~deb8u1 amd64",
+        "openjdk-7-jdk/oldstable 7u181-2.6.14-1~deb8u1 amd64"
+    ],
     "changelog": [
         "openjdk-7 (7u261-2.6.22-1~deb8u1) jessie-security; urgency=medium",
         "openjdk-7 (7u251-2.6.21-1~deb8u1) jessie-security; urgency=medium",

@@ -17,6 +17,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/xenial 1:2.6.10-0ubuntu1 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.6.10-0ubuntu1) wily; urgency=medium",
         "mongodb (1:2.6.3-0ubuntu8) wily; urgency=medium",

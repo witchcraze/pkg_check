@@ -22,6 +22,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-8.0/hirsute-updates,hirsute-security 8.0.27-0ubuntu0.21.04.1 amd64",
+        "mysql-server-8.0/hirsute 8.0.23-3ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-8.0 (8.0.27-0ubuntu0.21.04.1) hirsute-security; urgency=medium",
         "mysql-8.0 (8.0.26-0ubuntu0.21.04.3) hirsute-security; urgency=medium",

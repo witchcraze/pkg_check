@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/universe amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/yakkety 7.0.72-1 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.72-1) unstable; urgency=medium",
         "tomcat7 (7.0.70-3) unstable; urgency=high",

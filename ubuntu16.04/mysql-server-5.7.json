@@ -25,6 +25,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/xenial-updates,xenial-security 5.7.33-0ubuntu0.16.04.1 amd64",
+        "mysql-server-5.7/xenial 5.7.11-0ubuntu6 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.33-0ubuntu0.16.04.1) xenial-security; urgency=medium",
         "mysql-5.7 (5.7.32-0ubuntu0.16.04.1) xenial-security; urgency=medium",

@@ -23,6 +23,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.5/hirsute-updates,hirsute-security 1:10.5.13-0ubuntu0.21.04.1 amd64",
+        "mariadb-server-10.5/hirsute 1:10.5.9-1 amd64"
+    ],
     "changelog": [
         "mariadb-10.5 (1:10.5.13-0ubuntu0.21.04.1) hirsute-security; urgency=medium",
         "mariadb-10.5 (1:10.5.12-0ubuntu0.21.04.1) hirsute-security; urgency=medium",

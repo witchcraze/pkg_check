@@ -15,6 +15,9 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/oldstable 1:2.4.10-5+deb8u1 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.4.10-5+deb8u1) jessie; urgency=medium",
         "mongodb (1:2.4.10-5) unstable; urgency=high",

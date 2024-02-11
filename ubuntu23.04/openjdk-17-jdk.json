@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/lunar-updates,lunar-security 17.0.9+9-1~23.04 amd64",
+        "openjdk-17-jdk/lunar 17.0.6+10-1ubuntu2 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.9+9-1~23.04) lunar-security; urgency=high",
         "openjdk-17 (17.0.9+9-1) unstable; urgency=high",

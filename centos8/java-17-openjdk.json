@@ -14,7 +14,7 @@
         "Description": "The OpenJDK 17 runtime environment."
     },
     "list": [
-        "java-17-openjdk.x86_64                                  1:17.0.0.0.35-4.el8                                    appstream",
-        "java-17-openjdk.x86_64                                  1:17.0.1.0.12-2.el8_5                                  appstream"
+        "java-17-openjdk.x86_64                                            1:17.0.0.0.35-4.el8                                              appstream",
+        "java-17-openjdk.x86_64                                            1:17.0.1.0.12-2.el8_5                                            appstream"
     ]
 }

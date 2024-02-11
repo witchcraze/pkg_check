@@ -16,6 +16,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/xenial-updates 3.5.7-1ubuntu0.16.04.4 all",
+        "rabbitmq-server/xenial-security 3.5.7-1ubuntu0.16.04.2 all",
+        "rabbitmq-server/xenial 3.5.7-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.5.7-1ubuntu0.16.04.4) xenial; urgency=medium",
         "rabbitmq-server (3.5.7-1ubuntu0.16.04.3) xenial; urgency=medium",

@@ -15,6 +15,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.19/kinetic-updates,kinetic-security 1.19.2-1ubuntu1.1 all",
+        "golang-1.19/kinetic 1.19.2-1ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.19 (1.19.2-1ubuntu1.1) kinetic-security; urgency=medium",
         "golang-1.19 (1.19.2-1ubuntu1) kinetic; urgency=medium",

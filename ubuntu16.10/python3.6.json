@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.6)"
     },
+    "list": [
+        "python3.6/yakkety 3.6.0~b2-1 amd64"
+    ],
     "changelog": [
         "python3.6 (3.6.0~b2-1) experimental; urgency=medium",
         "python3.6 (3.6.0~b1-1) experimental; urgency=medium",

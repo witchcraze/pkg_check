@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/utopic 1:2.6.3-0ubuntu5 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.6.3-0ubuntu5) utopic; urgency=medium",
         "mongodb (1:2.6.3-0ubuntu4) utopic; urgency=medium",

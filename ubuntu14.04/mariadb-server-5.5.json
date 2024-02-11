@@ -24,6 +24,11 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-5.5/trusty-infra-security 5.5.68-0ubuntu0.14.04.1+esm1 amd64",
+        "mariadb-server-5.5/trusty-updates,trusty-security 5.5.64-1ubuntu0.14.04.1 amd64",
+        "mariadb-server-5.5/trusty 5.5.36-1 amd64"
+    ],
     "changelog": [
         "mariadb-5.5 (5.5.64-1ubuntu0.14.04.1) trusty-security; urgency=high",
         "mariadb-5.5 (5.5.63-1ubuntu0.14.04.1) trusty-security; urgency=high",

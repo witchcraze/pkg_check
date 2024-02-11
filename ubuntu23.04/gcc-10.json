@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-10/lunar-updates,lunar-security 10.5.0-1ubuntu1~23.04 amd64",
+        "gcc-10/lunar 10.4.0-7ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-10 (10.5.0-1ubuntu1~23.04) lunar-proposed; urgency=medium",
         "gcc-10 (10.5.0-1ubuntu1) mantic; urgency=medium",

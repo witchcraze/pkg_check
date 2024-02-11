@@ -14,6 +14,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat10/stable,stable-security 10.1.6-1+deb12u1 all"
+    ],
     "changelog": [
         "tomcat10 (10.1.6-1+deb12u1) bookworm-security; urgency=high",
         "tomcat10 (10.1.6-1) unstable; urgency=medium",

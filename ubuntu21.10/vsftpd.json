@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/impish 3.0.3-13build1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-13build1) impish; urgency=medium",
         "vsftpd (3.0.3-13) unstable; urgency=medium",

@@ -14,6 +14,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/oldoldstable 9.0.31-1~deb10u11 all",
+        "tomcat9/oldoldstable 9.0.31-1~deb10u6 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.31-1~deb10u11) buster-security; urgency=high",
         "tomcat9 (9.0.31-1~deb10u10) buster-security; urgency=high",

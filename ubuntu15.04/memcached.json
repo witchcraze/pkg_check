@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/main amd64 Packages",
         "Description": "A high-performance memory object caching system"
     },
+    "list": [
+        "memcached/vivid 1.4.14-0ubuntu9 amd64"
+    ],
     "changelog": [
         "memcached (1.4.14-0ubuntu9) trusty; urgency=low",
         "memcached (1.4.14-0ubuntu8) trusty; urgency=low",

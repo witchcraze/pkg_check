@@ -23,6 +23,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/stable 5.36.0-7+deb12u1 amd64"
+    ],
     "changelog": [
         "perl (5.36.0-7+deb12u1) bookworm; urgency=medium",
         "perl (5.36.0-7) unstable; urgency=medium",

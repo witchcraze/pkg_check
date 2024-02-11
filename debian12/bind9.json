@@ -18,6 +18,9 @@
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/stable,stable-security 1:9.18.19-1~deb12u1 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.18.19-1~deb12u1) bookworm-security; urgency=high",
         "bind9 (1:9.18.16-1~deb12u1) bookworm-security; urgency=high",

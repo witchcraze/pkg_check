@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/utopic 3.0.2-14ubuntu1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.2-14ubuntu1) utopic; urgency=medium",
         "vsftpd (3.0.2-14) unstable; urgency=low",

@@ -19,6 +19,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-9-jdk/zesty 9~b161-1 amd64"
+    ],
     "changelog": [
         "openjdk-9 (9~b161-1) unstable; urgency=medium",
         "openjdk-9 (9~b159-1) unstable; urgency=medium",

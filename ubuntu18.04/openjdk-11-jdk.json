@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/bionic-updates,bionic-security 11.0.19+7~us1-0ubuntu1~18.04.1 amd64",
+        "openjdk-11-jdk/bionic 10.0.1+10-3ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.19+7~us1-0ubuntu1~18.04.1) bionic-security; urgency=medium",
         "openjdk-lts (11.0.19+7~us1-0ubuntu1) mantic; urgency=medium",

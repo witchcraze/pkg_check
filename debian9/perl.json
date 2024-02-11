@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.debian.org/debian stretch/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/oldoldstable 5.24.1-3+deb9u7 amd64",
+        "perl/oldoldstable 5.24.1-3+deb9u5 amd64"
+    ],
     "changelog": [
         "perl (5.24.1-3+deb9u7) stretch; urgency=medium",
         "perl (5.24.1-3+deb9u6) stretch; urgency=medium",

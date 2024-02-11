@@ -16,6 +16,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.4/hirsute-updates 7.4.16-1ubuntu2.3 all",
+        "php7.4/hirsute-security 7.4.16-1ubuntu2.2 all",
+        "php7.4/hirsute 7.4.16-1ubuntu2 all"
+    ],
     "changelog": [
         "php7.4 (7.4.16-1ubuntu2.3) hirsute; urgency=medium",
         "php7.4 (7.4.16-1ubuntu2.2) hirsute-security; urgency=medium",

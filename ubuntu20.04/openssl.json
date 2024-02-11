@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.21 amd64 [installed,automatic]",
+        "openssl/focal 1.1.1f-1ubuntu2 amd64"
+    ],
     "changelog": [
         "openssl (1.1.1f-1ubuntu2.21) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.20) focal-security; urgency=medium",

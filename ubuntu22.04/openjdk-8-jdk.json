@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/jammy-updates,jammy-security 8u392-ga-1~22.04 amd64",
+        "openjdk-8-jdk/jammy 8u312-b07-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u392-ga-1~22.04) jammy-security; urgency=low",
         "openjdk-8 (8u392-ga-1) unstable; urgency=low",

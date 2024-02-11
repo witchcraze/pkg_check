@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.3 amd64",
+        "nodejs/jammy 12.22.9~dfsg-1ubuntu3 amd64"
+    ],
     "changelog": [
         "nodejs (12.22.9~dfsg-1ubuntu3.3) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3.2) jammy-security; urgency=medium",

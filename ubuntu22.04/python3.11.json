@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
+    "list": [
+        "python3.11/jammy-updates 3.11.0~rc1-1~22.04 amd64"
+    ],
     "changelog": [
         "python3.11 (3.11.0~rc1-1~22.04) jammy-proposed; urgency=medium",
         "python3.11 (3.11.0~rc1-1) unstable; urgency=medium",

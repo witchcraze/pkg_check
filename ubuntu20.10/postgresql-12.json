@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu groovy-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 12 server"
     },
+    "list": [
+        "postgresql-12/groovy-updates,groovy-security 12.7-0ubuntu0.20.10.1 amd64",
+        "postgresql-12/groovy 12.4-1 amd64"
+    ],
     "changelog": [
         "postgresql-12 (12.7-0ubuntu0.20.10.1) groovy-security; urgency=medium",
         "postgresql-12 (12.6-0ubuntu0.20.10.1) groovy-security; urgency=medium",

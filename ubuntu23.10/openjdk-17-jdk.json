@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/mantic-updates,mantic-security 17.0.9+9-1~23.10 amd64",
+        "openjdk-17-jdk/mantic 17.0.9~6ea-1 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.9+9-1~23.10) mantic-security; urgency=high",
         "openjdk-17 (17.0.9+9-1) unstable; urgency=high",

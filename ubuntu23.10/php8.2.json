@@ -16,6 +16,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php8.2/mantic 8.2.10-2ubuntu1 all"
+    ],
     "changelog": [
         "php8.2 (8.2.10-2ubuntu1) mantic; urgency=low",
         "php8.2 (8.2.10-2) unstable; urgency=medium",

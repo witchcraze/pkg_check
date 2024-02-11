@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/bionic-updates,bionic-security 1.5.6-0ubuntu1.2 amd64",
+        "memcached/bionic 1.5.6-0ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.5.6-0ubuntu1.2) bionic-security; urgency=medium",
         "memcached (1.5.6-0ubuntu1.1) bionic-security; urgency=medium",

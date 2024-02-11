@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
+    "list": [
+        "memcached/lunar-updates,lunar-security 1.6.18-1ubuntu0.1 amd64",
+        "memcached/lunar 1.6.18-1 amd64"
+    ],
     "changelog": [
         "memcached (1.6.18-1ubuntu0.1) lunar-security; urgency=medium",
         "memcached (1.6.18-1) unstable; urgency=medium",

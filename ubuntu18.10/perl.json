@@ -25,6 +25,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu cosmic-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/cosmic-updates,cosmic-security 5.26.2-7ubuntu0.1 amd64",
+        "perl/cosmic 5.26.2-7 amd64"
+    ],
     "changelog": [
         "perl (5.26.2-7ubuntu0.1) cosmic-security; urgency=medium",
         "perl (5.26.2-7) unstable; urgency=medium",

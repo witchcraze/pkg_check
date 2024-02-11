@@ -16,6 +16,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.7/zesty 1.7.4-2ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.7 (1.7.4-2ubuntu1) zesty; urgency=medium",
         "golang-1.7 (1.7.4-2) unstable; urgency=medium",

@@ -13,13 +13,13 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64           2.4.37-12.module_el8.0.0+185+5908b0db              vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-16.module_el8.1.0+256+ae790463              vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-21.module_el8.2.0+494+1df74eae              vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-30.module_el8.3.0+561+97fdbbcc              vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-39.module_el8.4.0+778+c970deab              vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-39.module_el8.4.0+950+0577e6ac.1            vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "httpd.x86_64           2.4.37-41.module_el8.5.0+977+5653bbea              appstream",
-        "httpd.x86_64           2.4.37-43.module_el8.5.0+1022+b541f3b1             appstream"
+        "httpd.x86_64                     2.4.37-12.module_el8.0.0+185+5908b0db                        vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-16.module_el8.1.0+256+ae790463                        vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-21.module_el8.2.0+494+1df74eae                        vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-30.module_el8.3.0+561+97fdbbcc                        vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-39.module_el8.4.0+778+c970deab                        vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-39.module_el8.4.0+950+0577e6ac.1                      vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "httpd.x86_64                     2.4.37-41.module_el8.5.0+977+5653bbea                        appstream",
+        "httpd.x86_64                     2.4.37-43.module_el8.5.0+1022+b541f3b1                       appstream"
     ]
 }

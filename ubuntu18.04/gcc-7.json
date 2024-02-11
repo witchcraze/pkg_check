@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-7/bionic-updates,bionic-security 7.5.0-3ubuntu1~18.04 amd64",
+        "gcc-7/bionic 7.3.0-16ubuntu3 amd64"
+    ],
     "changelog": [
         "gcc-7 (7.5.0-3ubuntu1~18.04) bionic-proposed; urgency=medium",
         "gcc-7 (7.5.0-3ubuntu1) focal; urgency=medium",

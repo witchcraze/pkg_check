@@ -19,6 +19,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu yakkety-updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/yakkety-updates 8.0.37-1ubuntu0.2 all",
+        "tomcat8/yakkety-security 8.0.37-1ubuntu0.1 all",
+        "tomcat8/yakkety 8.0.37-1 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.37-1ubuntu0.2) yakkety; urgency=medium",
         "tomcat8 (8.0.37-1ubuntu0.1) yakkety-security; urgency=medium",

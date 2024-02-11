@@ -19,6 +19,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-20-jdk/kinetic-updates,kinetic-security 20.0.1+9~us1-0ubuntu1~22.10 amd64",
+        "openjdk-20-jdk/kinetic 20~17ea-2 amd64"
+    ],
     "changelog": [
         "openjdk-20 (20.0.1+9~us1-0ubuntu1~22.10) kinetic-security; urgency=medium",
         "openjdk-20 (20.0.1+9~us1-0ubuntu1) mantic; urgency=medium",

@@ -20,6 +20,11 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu kinetic-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/kinetic-updates 2.4.54-2ubuntu1.3 amd64",
+        "apache2/kinetic-security 2.4.54-2ubuntu1.2 amd64",
+        "apache2/kinetic 2.4.54-2ubuntu1 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.54-2ubuntu1.3) kinetic; urgency=medium",
         "apache2 (2.4.54-2ubuntu1.2) kinetic-security; urgency=medium",

@@ -22,6 +22,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/trusty-updates,trusty-security 4.8.4-2ubuntu1~14.04.4 amd64",
+        "gcc-4.8/trusty 4.8.2-19ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.4-2ubuntu1~14.04.4) trusty-security; urgency=medium",
         "gcc-4.8 (4.8.4-2ubuntu1~14.04.3) trusty-security; urgency=medium",

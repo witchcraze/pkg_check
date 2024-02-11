@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
+    "list": [
+        "php7.0/xenial-updates,xenial-security 7.0.33-0ubuntu0.16.04.16 all",
+        "php7.0/xenial 7.0.4-7ubuntu2 all"
+    ],
     "changelog": [
         "php7.0 (7.0.33-0ubuntu0.16.04.16) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.15) xenial-security; urgency=medium",

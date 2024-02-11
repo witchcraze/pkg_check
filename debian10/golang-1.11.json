@@ -12,6 +12,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.11/oldoldstable 1.11.6-1+deb10u7 all",
+        "golang-1.11/oldoldstable 1.11.6-1+deb10u4 all"
+    ],
     "changelog": [
         "golang-1.11 (1.11.6-1+deb10u7) buster-security; urgency=high",
         "golang-1.11 (1.11.6-1+deb10u6) buster-security; urgency=high",

@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/oldoldstable 2.4.10-10+deb8u16 amd64",
+        "apache2/oldstable 2.4.10-10+deb8u12 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.10-10+deb8u16) jessie-security; urgency=high",
         "apache2 (2.4.10-10+deb8u15) jessie-security; urgency=high",

@@ -12,6 +12,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/oldoldstable 3.8.2-1+deb10u2 all",
+        "rabbitmq-server/oldoldstable 3.7.8-4 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.8.2-1+deb10u2) buster-security; urgency=high",
         "rabbitmq-server (3.8.2-1+deb10u1) buster-security; urgency=high",

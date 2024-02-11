@@ -13,6 +13,9 @@
         "APT-Sources": "http://archive.debian.org/debian/ jessie/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/oldstable,oldoldstable 3.3.5-1.1+deb8u1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.3.5-1.1+deb8u1) jessie-security; urgency=medium",
         "rabbitmq-server (3.3.5-1.1) testing-proposed-updates; urgency=medium",

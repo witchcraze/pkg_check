@@ -18,6 +18,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
+    "list": [
+        "python3.4/utopic-updates,utopic-security,now 3.4.2-1ubuntu0.1 amd64 [installed]",
+        "python3.4/utopic 3.4.2-1 amd64"
+    ],
     "changelog": [
         "python3.4 (3.4.2-1ubuntu0.1) utopic-security; urgency=medium",
         "python3.4 (3.4.2-1) unstable; urgency=medium",

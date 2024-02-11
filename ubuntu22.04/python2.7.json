@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.1 amd64",
+        "python2.7/jammy 2.7.18-13ubuntu1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.18-13ubuntu1.1) jammy-security; urgency=medium",
         "python2.7 (2.7.18-13ubuntu1) jammy; urgency=medium",

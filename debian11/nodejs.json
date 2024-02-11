@@ -23,6 +23,9 @@
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
+    "list": [
+        "nodejs/oldstable,oldstable-security 12.22.12~dfsg-1~deb11u4 amd64"
+    ],
     "changelog": [
         "nodejs (12.22.12~dfsg-1~deb11u4) bullseye-security; urgency=high",
         "nodejs (12.22.12~dfsg-1~deb11u3) bullseye-security; urgency=high",

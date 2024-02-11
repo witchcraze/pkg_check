@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ vivid/universe amd64 Packages",
         "Description": "object/document-oriented database (server package)"
     },
+    "list": [
+        "mongodb-server/vivid 1:2.6.3-0ubuntu7 amd64"
+    ],
     "changelog": [
         "mongodb (1:2.6.3-0ubuntu7) vivid; urgency=medium",
         "mongodb (1:2.6.3-0ubuntu6) vivid; urgency=medium",

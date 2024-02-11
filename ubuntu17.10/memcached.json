@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/artful-updates,artful-security 1.4.33-1ubuntu3.3 amd64",
+        "memcached/artful 1.4.33-1ubuntu3 amd64"
+    ],
     "changelog": [
         "memcached (1.4.33-1ubuntu3.3) artful-security; urgency=medium",
         "memcached (1.4.33-1ubuntu3.2) artful-security; urgency=medium",

@@ -20,6 +20,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu zesty/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/zesty 3.0.3-8 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-8) unstable; urgency=low",
         "vsftpd (3.0.3-7) unstable; urgency=low",

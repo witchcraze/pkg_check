@@ -20,6 +20,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-5/artful-updates 5.5.0-1ubuntu2 amd64",
+        "gcc-5/artful 5.5.0-1ubuntu1 amd64"
+    ],
     "changelog": [
         "gcc-5 (5.5.0-1ubuntu2) artful; urgency=medium",
         "gcc-5 (5.5.0-1ubuntu1) artful; urgency=medium",

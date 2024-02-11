@@ -17,6 +17,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu impish/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat9/impish 9.0.43-3 all"
+    ],
     "changelog": [
         "tomcat9 (9.0.43-3) unstable; urgency=medium",
         "tomcat9 (9.0.43-2) unstable; urgency=medium",

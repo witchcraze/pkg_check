@@ -17,6 +17,10 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
+    "list": [
+        "haproxy/hirsute-updates,hirsute-security 2.2.9-1ubuntu0.2 amd64",
+        "haproxy/hirsute 2.2.9-1build1 amd64"
+    ],
     "changelog": [
         "haproxy (2.2.9-1ubuntu0.2) hirsute-security; urgency=medium",
         "haproxy (2.2.9-1ubuntu0.1) hirsute-security; urgency=medium",

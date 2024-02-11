@@ -22,6 +22,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu/ utopic/universe amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.6/utopic 5.6.19-1~exp1ubuntu2 amd64"
+    ],
     "changelog": [
         "mysql-5.6 (5.6.19-1~exp1ubuntu2) utopic; urgency=medium",
         "mysql-5.6 (5.6.19-1~exp1ubuntu1) utopic; urgency=medium",

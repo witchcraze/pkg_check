@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
+    "list": [
+        "mariadb-server-10.5/mantic-updates,mantic-security 1:10.11.6-0ubuntu0.23.10.2 amd64",
+        "mariadb-server-10.5/mantic 1:10.11.4-1 amd64"
+    ],
     "changelog": [
         "mariadb (1:10.11.6-0ubuntu0.23.10.2) mantic-security; urgency=medium",
         "mariadb (1:10.11.4-1) unstable; urgency=medium",

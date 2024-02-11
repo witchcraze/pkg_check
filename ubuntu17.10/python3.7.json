@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu artful/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
+    "list": [
+        "python3.7/artful 3.7.0~a2-1 amd64"
+    ],
     "changelog": [
         "python3.7 (3.7.0~a2-1) experimental; urgency=medium",
         "python3.7 (3.7.0~a1-2) experimental; urgency=medium",

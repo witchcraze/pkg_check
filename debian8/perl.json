@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/oldoldstable 5.20.2-3+deb8u12 amd64",
+        "perl/oldstable 5.20.2-3+deb8u11 amd64"
+    ],
     "changelog": [
         "perl (5.20.2-3+deb8u12) jessie-security; urgency=high",
         "perl (5.20.2-3+deb8u11) jessie-security; urgency=high",

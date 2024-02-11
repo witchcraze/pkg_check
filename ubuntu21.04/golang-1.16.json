@@ -15,6 +15,9 @@
         "APT-Sources": "http://old-releases.ubuntu.com/ubuntu hirsute/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.16/hirsute 1.16.2-0ubuntu1 all"
+    ],
     "changelog": [
         "golang-1.16 (1.16.2-0ubuntu1) hirsute; urgency=medium",
         "golang-1.16 (1.16.1-0ubuntu1) hirsute; urgency=medium",

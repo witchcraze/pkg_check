@@ -15,6 +15,10 @@
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/oldoldstable 6.1.1-1+deb10u4 amd64",
+        "varnish/oldoldstable 6.1.1-1+deb10u3 amd64"
+    ],
     "changelog": [
         "varnish (6.1.1-1+deb10u4) buster-security; urgency=high",
         "varnish (6.1.1-1+deb10u3) buster-security; urgency=medium",

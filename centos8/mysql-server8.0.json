@@ -13,12 +13,12 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql-server.x86_64         8.0.17-3.module_el8.0.0+181+899d6349          vault.centos.org_8.0.1905_AppStream_x86_64_os_",
-        "mysql-server.x86_64         8.0.17-3.module_el8.0.0+181+899d6349          vault.centos.org_8.1.1911_AppStream_x86_64_os_",
-        "mysql-server.x86_64         8.0.21-1.module_el8.2.0+493+63b41e36          vault.centos.org_8.2.2004_AppStream_x86_64_os_",
-        "mysql-server.x86_64         8.0.21-1.module_el8.2.0+493+63b41e36          vault.centos.org_8.3.2011_AppStream_x86_64_os_",
-        "mysql-server.x86_64         8.0.21-1.module_el8.2.0+493+63b41e36          vault.centos.org_8.4.2105_AppStream_x86_64_os_",
-        "mysql-server.x86_64         8.0.26-1.module_el8.4.0+915+de215114          appstream",
-        "mysql-server.x86_64         8.0.26-1.module_el8.4.0+915+de215114          vault.centos.org_8.4.2105_AppStream_x86_64_os_"
+        "mysql-server.x86_64                   8.0.17-3.module_el8.0.0+181+899d6349                    vault.centos.org_8.0.1905_AppStream_x86_64_os_",
+        "mysql-server.x86_64                   8.0.17-3.module_el8.0.0+181+899d6349                    vault.centos.org_8.1.1911_AppStream_x86_64_os_",
+        "mysql-server.x86_64                   8.0.21-1.module_el8.2.0+493+63b41e36                    vault.centos.org_8.2.2004_AppStream_x86_64_os_",
+        "mysql-server.x86_64                   8.0.21-1.module_el8.2.0+493+63b41e36                    vault.centos.org_8.3.2011_AppStream_x86_64_os_",
+        "mysql-server.x86_64                   8.0.21-1.module_el8.2.0+493+63b41e36                    vault.centos.org_8.4.2105_AppStream_x86_64_os_",
+        "mysql-server.x86_64                   8.0.26-1.module_el8.4.0+915+de215114                    appstream",
+        "mysql-server.x86_64                   8.0.26-1.module_el8.4.0+915+de215114                    vault.centos.org_8.4.2105_AppStream_x86_64_os_"
     ]
 }
