@@ -11,12 +11,11 @@
         "Suggests": "tomcat9-admin (>= 9.0.43-2~deb11u9), tomcat9-docs (>= 9.0.43-2~deb11u9), tomcat9-examples (>= 9.0.43-2~deb11u9), tomcat9-user (>= 9.0.43-2~deb11u9)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "48.2 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/oldstable-security 9.0.43-2~deb11u9 all",
-        "tomcat9/oldstable 9.0.43-2~deb11u6 all"
+        "tomcat9/oldstable,oldstable-security 9.0.43-2~deb11u9 all"
     ],
     "changelog": [
         "tomcat9 (9.0.43-2~deb11u9) bullseye-security; urgency=high",
@@ -105,6 +104,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.43-2~deb11u9",
         "9.0.43-2~deb11u6",
         "9.0.43-2~deb11u4",
         "9.0.43-2~deb11u3",

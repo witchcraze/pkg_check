@@ -12,12 +12,11 @@
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "202007201",
         "Download-Size": "15.2 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-13/oldstable-security 13.13-0+deb11u1 amd64",
-        "postgresql-13/oldstable 13.11-0+deb11u1 amd64"
+        "postgresql-13/oldstable,oldstable-security 13.13-0+deb11u1 amd64"
     ],
     "changelog": [
         "postgresql-13 (13.13-0+deb11u1) bullseye-security; urgency=medium",
@@ -45,6 +44,7 @@
         "postgresql-13 (13~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "13.13-0+deb11u1",
         "13.11-0+deb11u1",
         "13.10-0+deb11u1",
         "13.9-0+deb11u1",
