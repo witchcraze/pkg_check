@@ -2,10 +2,10 @@
     "info": {
         "Name": "python2",
         "Version": "2.7.18",
-        "Release": "16.module_el8+739+75e8b99b",
+        "Release": "17.module_el8+770+d35395c9",
         "Architecture": "x86_64",
         "Size": "111 k",
-        "Source": "python2-2.7.18-16.module_el8+739+75e8b99b.src.rpm",
+        "Source": "python2-2.7.18-17.module_el8+770+d35395c9.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreted, interactive, object-oriented programming language",
         "URL": "https://www.python.org/",
@@ -22,7 +22,8 @@
         "python2.x86_64         2.7.18-11.module_el8.7.0+1179+42dadd5f          appstream",
         "python2.x86_64         2.7.18-12.module_el8+299+aa6e9afa               appstream",
         "python2.x86_64         2.7.18-14.module_el8+570+db61b4f9               appstream",
-        "python2.x86_64         2.7.18-16.module_el8+739+75e8b99b               appstream"
+        "python2.x86_64         2.7.18-16.module_el8+739+75e8b99b               appstream",
+        "python2.x86_64         2.7.18-17.module_el8+770+d35395c9               appstream"
     ],
     "kojiPackages": [
         "python2-2.7.18-17.module_el8+770+d35395c9",

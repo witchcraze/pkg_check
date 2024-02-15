@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "bind9",
-        "Version": "1:9.18.18-0ubuntu2",
+        "Version": "1:9.18.18-0ubuntu2.1",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -10,20 +10,22 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "953 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "adduser, bind9-libs (= 1:9.18.18-0ubuntu2), bind9-utils (= 1:9.18.18-0ubuntu2), debconf | debconf-2.0, dns-root-data, iproute2, netbase, libc6 (>= 2.38), libcap2 (>= 1:2.10), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3 (>= 3.0.0), libsystemd0, libuv1 (>= 1.40.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
+        "Depends": "adduser, bind9-libs (= 1:9.18.18-0ubuntu2.1), bind9-utils (= 1:9.18.18-0ubuntu2.1), debconf | debconf-2.0, dns-root-data, iproute2, netbase, libc6 (>= 2.38), libcap2 (>= 1:2.10), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3 (>= 3.0.0), libsystemd0, libuv1 (>= 1.40.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
         "Suggests": "bind-doc, dnsutils, resolvconf, ufw",
         "Breaks": "bind (<< 1:9.13.6~)",
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
         "Download-Size": "255 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
+        "bind9/mantic-updates,mantic-security 1:9.18.18-0ubuntu2.1 amd64",
         "bind9/mantic 1:9.18.18-0ubuntu2 amd64"
     ],
     "changelog": [
+        "bind9 (1:9.18.18-0ubuntu2.1) mantic-security; urgency=medium",
         "bind9 (1:9.18.18-0ubuntu2) mantic; urgency=medium",
         "bind9 (1:9.18.18-0ubuntu1) mantic; urgency=medium",
         "bind9 (1:9.18.16-1ubuntu4) mantic; urgency=medium",
@@ -472,6 +474,7 @@
         "bind9 (1:9.1.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1:9.18.18-0ubuntu2.1",
         "1:9.18.18-0ubuntu2",
         "1:9.18.18-0ubuntu1",
         "1:9.18.16-1ubuntu4",

@@ -17,23 +17,10 @@
         "mariadb.x86_64           3:10.11.6-1.module_el9+853+7b957b9b           appstream"
     ],
     "kojiPackages": [
-        "mariadb-10.5.22-1.el9",
-        "mariadb-10.5.16-2.el9",
-        "mariadb-10.5.16-1.el9",
-        "mariadb-10.5.13-2.el9",
-        "mariadb-10.5.13-1.el9",
-        "mariadb-10.5.12-4.el9",
-        "mariadb-10.5.12-3.el9",
-        "mariadb-10.5.12-2.el9",
-        "mariadb-10.5.10-6.el9",
-        "mariadb-10.5.10-5.el9",
-        "mariadb-10.5.10-4.el9",
-        "mariadb-10.5.10-3.el9",
-        "mariadb-10.5.10-2.el9",
-        "mariadb-10.5.9-7.el9",
-        "mariadb-10.5.9-6.el9",
-        "mariadb-10.5.9-5.el9",
-        "mariadb-10.5.9-1.el9",
-        "mariadb-10.5.8-8.el9"
+        "mariadb-10.11.6-1.module_el9+853+7b957b9b",
+        "mariadb-10.11.6-1.module_el9+850+d0b05a0a",
+        "mariadb-10.11.6-1.module_el9+841+9f010c75",
+        "mariadb-10.11.6-1.module_el9+835+b5fa6c8d",
+        "mariadb-10.11.6-1.module_el9+814+d8b6a13d"
     ]
 }
