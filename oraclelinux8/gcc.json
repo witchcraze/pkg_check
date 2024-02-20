@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "8.5.0",
-        "Release": "20.0.2.el8",
+        "Release": "20.0.3.el8",
         "Architecture": "x86_64",
         "Size": "23 M",
-        "Source": "gcc-8.5.0-20.0.2.el8.src.rpm",
+        "Source": "gcc-8.5.0-20.0.3.el8.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -106,6 +106,9 @@
         "gcc.x86_64                                              8.5.0-20.0.1.el8                                                  ol8_appstream",
         "gcc.src                                                 8.5.0-20.0.2.el8                                                  ol8_baseos_latest",
         "gcc.src                                                 8.5.0-20.0.2.el8                                                  ol8_appstream",
-        "gcc.x86_64                                              8.5.0-20.0.2.el8                                                  ol8_appstream"
+        "gcc.x86_64                                              8.5.0-20.0.2.el8                                                  ol8_appstream",
+        "gcc.src                                                 8.5.0-20.0.3.el8                                                  ol8_baseos_latest",
+        "gcc.src                                                 8.5.0-20.0.3.el8                                                  ol8_appstream",
+        "gcc.x86_64                                              8.5.0-20.0.3.el8                                                  ol8_appstream"
     ]
 }

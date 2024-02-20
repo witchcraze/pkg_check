@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "haproxy",
-        "Version": "2.7.10",
+        "Version": "2.7.11",
         "Release": "1.fc38",
         "Architecture": "x86_64",
         "Size": "2.4 M",
-        "Source": "haproxy-2.7.10-1.fc38.src.rpm",
+        "Source": "haproxy-2.7.11-1.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "haproxy.x86_64                       2.7.5-1.fc38                        fedora",
-        "haproxy.x86_64                       2.7.10-1.fc38                       updates"
+        "haproxy.x86_64                       2.7.11-1.fc38                       updates"
     ],
     "kojiPackages": [
         "haproxy-2.7.11-1.fc38",

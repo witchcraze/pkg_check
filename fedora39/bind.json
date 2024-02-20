@@ -2,11 +2,11 @@
     "info": {
         "Name": "bind",
         "Epoch": "32",
-        "Version": "9.18.21",
-        "Release": "2.fc39",
+        "Version": "9.18.24",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Size": "528 k",
-        "Source": "bind-9.18.21-2.fc39.src.rpm",
+        "Size": "529 k",
+        "Source": "bind-9.18.24-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -15,9 +15,10 @@
     },
     "list": [
         "bind.x86_64                      32:9.18.17-1.fc39                       fedora",
-        "bind.x86_64                      32:9.18.21-2.fc39                       updates"
+        "bind.x86_64                      32:9.18.24-1.fc39                       updates"
     ],
     "kojiPackages": [
+        "bind-9.18.24-1.fc39",
         "bind-9.18.21-2.fc39",
         "bind-9.18.21-1.fc39",
         "bind-9.18.20-1.fc39",

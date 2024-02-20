@@ -23,6 +23,7 @@
         "httpd.x86_64         2.4.37-62.module_el8+657+88b2113f                 appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.37-64.module_el8+965+1ad5c49d",
         "httpd-2.4.37-63.module_el8+961+9fb6043c",
         "httpd-2.4.37-62.module_el8+657+88b2113f",
         "httpd-2.4.37-62.module_el8+597+3986b266",

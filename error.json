@@ -1,18 +1,12 @@
 {
     "debian": {
         "11": {
-            "bind9": [
-                "apt-get changelog"
-            ],
-            "postgresql-13": [
+            "haproxy": [
                 "apt-get changelog"
             ]
         },
         "12": {
             "nodejs": [
-                "apt-get changelog"
-            ],
-            "postgresql-15": [
                 "apt-get changelog"
             ]
         }
