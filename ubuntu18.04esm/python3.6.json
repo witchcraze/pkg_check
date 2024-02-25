@@ -14,6 +14,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.6)"
     },
+    "list": [
+        "python3.6/bionic-infra-security 3.6.9-1~18.04ubuntu1.13+esm1 amd64 [upgradable from: 3.6.9-1~18.04ubuntu1.12]",
+        "python3.6/bionic-updates,bionic-security,now 3.6.9-1~18.04ubuntu1.12 amd64 [installed,upgradable to: 3.6.9-1~18.04ubuntu1.13+esm1]",
+        "python3.6/bionic 3.6.5-3 amd64"
+    ],
     "changelog": [
         "python3.6 (3.6.9-1~18.04ubuntu1.13+esm1) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.13) bionic-security; urgency=medium",
@@ -25,5 +30,6 @@
         "python3.6 (3.6.9-1~18.04ubuntu1.6) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.4) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.3) bionic-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
+    "list": [
+        "memcached/xenial-infra-security 1.4.25-2ubuntu1.5+esm1 amd64",
+        "memcached/xenial-updates,xenial-security 1.4.25-2ubuntu1.5 amd64",
+        "memcached/xenial 1.4.25-2ubuntu1 amd64"
+    ],
     "changelog": [
         "memcached (1.4.25-2ubuntu1.5+esm1) xenial-security; urgency=medium",
         "memcached (1.4.25-2ubuntu1.5) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "memcached (1.4.25-1ubuntu2) xenial; urgency=medium",
         "memcached (1.4.25-1ubuntu1) xenial; urgency=medium",
         "memcached (1.4.25-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

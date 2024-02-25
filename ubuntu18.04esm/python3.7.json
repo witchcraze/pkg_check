@@ -14,6 +14,11 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
+    "list": [
+        "python3.7/bionic-apps-security 3.7.5-2ubuntu1~18.04.2+esm2 amd64",
+        "python3.7/bionic-updates,bionic-security 3.7.5-2ubuntu1~18.04.2 amd64",
+        "python3.7/bionic 3.7.0~b3-1 amd64"
+    ],
     "changelog": [
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm2) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm1) bionic-security; urgency=medium",
@@ -25,5 +30,6 @@
         "python3.7 (3.7.5~rc1-2) unstable; urgency=medium",
         "python3.7 (3.7.5~rc1-1) unstable; urgency=medium",
         "python3.7 (3.7.4-4) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

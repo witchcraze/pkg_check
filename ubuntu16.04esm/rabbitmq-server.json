@@ -12,6 +12,12 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/xenial-infra-security 3.5.7-1ubuntu0.16.04.4+esm2 all",
+        "rabbitmq-server/xenial-updates 3.5.7-1ubuntu0.16.04.4 all",
+        "rabbitmq-server/xenial-security 3.5.7-1ubuntu0.16.04.2 all",
+        "rabbitmq-server/xenial 3.5.7-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.5.7-1ubuntu0.16.04.4+esm2) xenial-security; urgency=medium",
         "rabbitmq-server (3.5.7-1ubuntu0.16.04.4+esm1) xenial-security; urgency=medium",
@@ -23,5 +29,6 @@
         "rabbitmq-server (3.5.4-3.1) unstable; urgency=medium",
         "rabbitmq-server (3.5.4-3) unstable; urgency=medium",
         "rabbitmq-server (3.5.4-2) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

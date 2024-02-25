@@ -16,6 +16,11 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm18 amd64",
+        "python2.7/trusty-updates,trusty-security 2.7.6-8ubuntu0.5 amd64",
+        "python2.7/trusty 2.7.6-8 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.6-8ubuntu0.6+esm18) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm17) trusty-security; urgency=medium",
@@ -27,5 +32,6 @@
         "python2.7 (2.7.6-8ubuntu0.6+esm11) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm10) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm9) trusty-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

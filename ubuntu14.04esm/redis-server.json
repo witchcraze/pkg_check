@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/trusty-infra-security 2:2.8.4-2ubuntu0.2+esm3 amd64",
+        "redis-server/trusty-updates,trusty-security 2:2.8.4-2ubuntu0.2 amd64",
+        "redis-server/trusty 2:2.8.4-2 amd64"
+    ],
     "changelog": [
         "redis (2:2.8.4-2ubuntu0.2+esm3) trusty-security; urgency=medium",
         "redis (2:2.8.4-2ubuntu0.2+esm2) trusty-security; urgency=medium",
@@ -24,5 +29,6 @@
         "redis (2:2.8.0-1) unstable; urgency=low",
         "redis (2:2.6.16-3) unstable; urgency=low",
         "redis (2:2.6.16-2) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

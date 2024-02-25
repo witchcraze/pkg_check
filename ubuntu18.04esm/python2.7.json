@@ -16,6 +16,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
+    "list": [
+        "python2.7/bionic-infra-security 2.7.17-1~18.04ubuntu1.13+esm4 amd64",
+        "python2.7/bionic-updates,bionic-security 2.7.17-1~18.04ubuntu1.11 amd64",
+        "python2.7/bionic 2.7.15~rc1-1 amd64"
+    ],
     "changelog": [
         "python2.7 (2.7.17-1~18.04ubuntu1.13+esm4) bionic-security; urgency=medium",
         "python2.7 (2.7.17-1~18.04ubuntu1.13+esm3) bionic-security; urgency=medium",
@@ -27,5 +32,6 @@
         "python2.7 (2.7.17-1~18.04ubuntu1.8) bionic-security; urgency=medium",
         "python2.7 (2.7.17-1~18.04ubuntu1.7) bionic-security; urgency=medium",
         "python2.7 (2.7.17-1~18.04ubuntu1.6) bionic-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

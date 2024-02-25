@@ -18,6 +18,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-11-jdk/bionic-infra-security 11.0.21+9-0ubuntu1~18.04 amd64",
+        "openjdk-11-jdk/bionic-updates,bionic-security 11.0.19+7~us1-0ubuntu1~18.04.1 amd64",
+        "openjdk-11-jdk/bionic 10.0.1+10-3ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-lts (11.0.21+9-0ubuntu1~18.04) bionic-security; urgency=medium",
         "openjdk-lts (11.0.20+8-1ubuntu1) mantic; urgency=high",
@@ -496,5 +501,6 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

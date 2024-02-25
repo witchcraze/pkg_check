@@ -12,9 +12,15 @@
         "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
         "Download-Size": "288 kB",
         "Original-Maintainer": "LaMont Jones <lamont@debian.org>",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
+    "list": [
+        "bind9/trusty-infra-security,now 1:9.9.5.dfsg-3ubuntu0.19+esm11 amd64 [installed]",
+        "bind9/trusty-updates,trusty-security 1:9.9.5.dfsg-3ubuntu0.19 amd64",
+        "bind9/trusty 1:9.9.5.dfsg-3 amd64"
+    ],
     "changelog": [
         "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm11) trusty-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm10) trusty-security; urgency=medium",
@@ -26,5 +32,6 @@
         "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm3) trusty-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm2) trusty-security; urgency=medium",
         "bind9 (1:9.9.5.dfsg-3ubuntu0.19+esm1) trusty-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

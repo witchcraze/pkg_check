@@ -16,6 +16,12 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
+    "list": [
+        "apache2/trusty-backports 2.4.10-1ubuntu1.1~ubuntu14.04.2 amd64",
+        "apache2/trusty-infra-security 2.4.7-1ubuntu4.22+esm9 amd64",
+        "apache2/trusty-updates,trusty-security 2.4.7-1ubuntu4.22 amd64",
+        "apache2/trusty 2.4.7-1ubuntu4 amd64"
+    ],
     "changelog": [
         "apache2 (2.4.7-1ubuntu4.22+esm9) trusty-security; urgency=medium",
         "apache2 (2.4.7-1ubuntu4.22+esm8) trusty-security; urgency=medium",
@@ -27,5 +33,6 @@
         "apache2 (2.4.7-1ubuntu4.22+esm1) trusty-security; urgency=medium",
         "apache2 (2.4.7-1ubuntu4.22) trusty-security; urgency=medium",
         "apache2 (2.4.7-1ubuntu4.21) trusty; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

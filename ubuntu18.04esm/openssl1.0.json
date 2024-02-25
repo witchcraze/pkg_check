@@ -16,6 +16,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "Secure Sockets Layer toolkit 1.0 - cryptographic utility"
     },
+    "list": [
+        "openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.13 amd64",
+        "openssl1.0/bionic 1.0.2n-1ubuntu5 amd64"
+    ],
     "changelog": [
         "openssl1.0 (1.0.2n-1ubuntu5.13) bionic-security; urgency=medium",
         "openssl1.0 (1.0.2n-1ubuntu5.12) bionic-security; urgency=medium",
@@ -334,5 +338,6 @@
         "ssleay (0.6.6-1) unstable; urgency=low",
         "ssleay (0.6.4-2) unstable; urgency=low",
         "ssleay (0.6.4-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

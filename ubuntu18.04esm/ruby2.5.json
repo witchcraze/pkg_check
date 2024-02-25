@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.5/bionic-infra-security 2.5.1-1ubuntu1.16+esm1 amd64",
+        "ruby2.5/bionic-updates,bionic-security 2.5.1-1ubuntu1.16 amd64",
+        "ruby2.5/bionic 2.5.1-1ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.5 (2.5.1-1ubuntu1.16+esm1) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.16) bionic-security; urgency=medium",
@@ -24,5 +29,6 @@
         "ruby2.5 (2.5.1-1ubuntu1.10) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.9) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.8) bionic-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

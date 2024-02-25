@@ -20,6 +20,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/xenial 3.0.3-3ubuntu2 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-3ubuntu2) xenial; urgency=medium",
         "vsftpd (3.0.3-3ubuntu1) xenial; urgency=low",
@@ -168,5 +171,6 @@
         "vsftpd (0.9.1-1) unstable; urgency=low",
         "vsftpd (0.0.14-2) unstable; urgency=low",
         "vsftpd (0.0.14-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

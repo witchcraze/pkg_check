@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
+    "list": [
+        "ruby2.3/xenial-infra-security 2.3.1-2~ubuntu16.04.16+esm8 amd64",
+        "ruby2.3/xenial-updates,xenial-security 2.3.1-2~ubuntu16.04.16 amd64",
+        "ruby2.3/xenial 2.3.0-5ubuntu1 amd64"
+    ],
     "changelog": [
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm8) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm7) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm1) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.15) xenial-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

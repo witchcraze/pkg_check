@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
+    "list": [
+        "nodejs/xenial-apps-security 4.2.6~dfsg-1ubuntu4.2+esm2 amd64",
+        "nodejs/xenial-updates,xenial-security 4.2.6~dfsg-1ubuntu4.2 amd64",
+        "nodejs/xenial 4.2.6~dfsg-1ubuntu4 amd64"
+    ],
     "changelog": [
         "nodejs (4.2.6~dfsg-1ubuntu4.2+esm2) xenial-security; urgency=medium",
         "nodejs (4.2.6~dfsg-1ubuntu4.2+esm1) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "nodejs (4.2.5~dfsg-1) unstable; urgency=medium",
         "nodejs (4.2.4~dfsg-2) unstable; urgency=medium",
         "nodejs (4.2.4~dfsg-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

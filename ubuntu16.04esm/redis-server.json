@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/xenial-apps-security 2:3.0.6-1ubuntu0.4+esm2 amd64",
+        "redis-server/xenial-updates,xenial-security 2:3.0.6-1ubuntu0.4 amd64",
+        "redis-server/xenial 2:3.0.6-1 amd64"
+    ],
     "changelog": [
         "redis (2:3.0.6-1ubuntu0.4+esm2) xenial-security; urgency=medium",
         "redis (2:3.0.6-1ubuntu0.4+esm1) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "redis (2:3.0.5-3) unstable; urgency=medium",
         "redis (2:3.0.5-2) unstable; urgency=medium",
         "redis (2:3.0.5-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

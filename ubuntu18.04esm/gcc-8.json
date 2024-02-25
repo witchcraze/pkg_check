@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-8/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04 amd64",
+        "gcc-8/bionic 8-20180414-1ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-8 (8.4.0-1ubuntu1~18.04) bionic-proposed; urgency=medium",
         "gcc-8 (8.4.0-1ubuntu1) focal; urgency=medium",
@@ -467,5 +471,6 @@
         "gcc-4.9 (4.9.2-7ubuntu1) vivid; urgency=medium",
         "gcc-4.9 (4.9.2-7) unstable; urgency=medium",
         "gcc-4.9 (4.9.2-6ubuntu1) vivid; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.8/xenial 4.8.5-4ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-4.8 (4.8.5-4ubuntu2) xenial; urgency=medium",
         "gcc-4.8 (4.8.5-4ubuntu1) xenial; urgency=medium",
@@ -836,5 +839,6 @@
         "gcc (2.7.2.1-5) unstable; urgency=low",
         "gcc (2.7.2.1-4) stable unstable; urgency=low",
         "gcc (2.7.2.1-3) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

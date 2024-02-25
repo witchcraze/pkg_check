@@ -20,6 +20,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/xenial-infra-security 5.7.44-0ubuntu0.16.04.1+esm1 amd64",
+        "mysql-server-5.7/xenial-updates,xenial-security 5.7.33-0ubuntu0.16.04.1 amd64",
+        "mysql-server-5.7/xenial 5.7.11-0ubuntu6 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.44-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium",
         "mysql-5.7 (5.7.43-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium",
@@ -31,5 +36,6 @@
         "mysql-5.7 (5.7.37-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium",
         "mysql-5.7 (5.7.36-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium",
         "mysql-5.7 (5.7.35-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

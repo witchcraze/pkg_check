@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/trusty-infra-security 1.0.1f-1ubuntu2.27+esm9 amd64 [upgradable from: 1.0.1f-1ubuntu2.27]",
+        "openssl/trusty-updates,trusty-security,now 1.0.1f-1ubuntu2.27 amd64 [installed,upgradable to: 1.0.1f-1ubuntu2.27+esm9]",
+        "openssl/trusty 1.0.1f-1ubuntu2 amd64"
+    ],
     "changelog": [
         "openssl (1.0.1f-1ubuntu2.27) trusty-security; urgency=medium",
         "openssl (1.0.1f-1ubuntu2.26) trusty-security; urgency=medium",
@@ -24,5 +29,6 @@
         "openssl (1.0.1f-1ubuntu2.20) trusty-security; urgency=medium",
         "openssl (1.0.1f-1ubuntu2.19) trusty-security; urgency=medium",
         "openssl (1.0.1f-1ubuntu2.18) trusty-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

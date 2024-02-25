@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.3 server"
     },
+    "list": [
+        "postgresql-9.3/trusty-updates,trusty-security 9.3.24-0ubuntu0.14.04 amd64",
+        "postgresql-9.3/trusty 9.3.4-1 amd64"
+    ],
     "changelog": [
         "postgresql-9.3 (9.3.24-0ubuntu0.14.04) trusty-security; urgency=medium",
         "postgresql-9.3 (9.3.23-0ubuntu0.14.04) trusty; urgency=medium",
@@ -54,5 +58,6 @@
         "postgresql-9.3 (9.3~beta1-3) experimental; urgency=low",
         "postgresql-9.3 (9.3~beta1-2) experimental; urgency=low",
         "postgresql-9.3 (9.3~beta1-1) experimental; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

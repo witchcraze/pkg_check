@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
+    "list": [
+        "gcc-4.6/trusty 4.6.4-6ubuntu2 amd64"
+    ],
     "changelog": [
         "gcc-4.6 (4.6.4-6ubuntu2) trusty; urgency=low",
         "gcc-4.6 (4.6.4-6ubuntu1) trusty; urgency=low",
@@ -29,5 +32,6 @@
         "gcc-4.6 (4.6.4-2) unstable; urgency=low",
         "gcc-4.6 (4.6.4-1ubuntu1) raring; urgency=low",
         "gcc-4.6 (4.6.4-1) experimental; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

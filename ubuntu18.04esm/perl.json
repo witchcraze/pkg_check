@@ -24,6 +24,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/bionic-updates,bionic-security 5.26.1-6ubuntu0.7 amd64",
+        "perl/bionic 5.26.1-6 amd64"
+    ],
     "changelog": [
         "perl (5.26.1-6ubuntu0.7) bionic-security; urgency=medium",
         "perl (5.26.1-6ubuntu0.6) bionic-security; urgency=medium",
@@ -347,5 +351,6 @@
         "perl (5.003.07-3) unstable; urgency=low",
         "perl (5.003.07-2) unstable; urgency=low",
         "perl (5.003.07-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -14,6 +14,11 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/xenial-apps-security 7.0.68-1ubuntu0.4+esm1 all",
+        "tomcat7/xenial-updates,xenial-security 7.0.68-1ubuntu0.4 all",
+        "tomcat7/xenial 7.0.68-1 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.68-1ubuntu0.4+esm1) xenial-security; urgency=medium",
         "tomcat7 (7.0.68-1ubuntu0.4) xenial-security; urgency=medium",
@@ -25,5 +30,6 @@
         "tomcat7 (7.0.62-1) unstable; urgency=medium",
         "tomcat7 (7.0.61-1) unstable; urgency=medium",
         "tomcat7 (7.0.59-2) experimental; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

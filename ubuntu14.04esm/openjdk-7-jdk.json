@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-7-jdk/trusty-updates,trusty-security 7u211-2.6.17-0ubuntu0.1 amd64",
+        "openjdk-7-jdk/trusty 7u51-2.4.6-1ubuntu4 amd64"
+    ],
     "changelog": [
         "openjdk-7 (7u211-2.6.17-0ubuntu0.1) trusty-security; urgency=medium",
         "openjdk-7 (7u181-2.6.14-0ubuntu0.3) trusty-security; urgency=medium",
@@ -391,5 +395,6 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

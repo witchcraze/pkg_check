@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.20.6",
-        "Release": "2.module_el8+658+f14b2092",
+        "Version": "1.21.7",
+        "Release": "1.module_el8+960+4060efbe",
         "Architecture": "x86_64",
-        "Size": "686 k",
-        "Source": "golang-1.20.6-2.module_el8+658+f14b2092.src.rpm",
+        "Size": "765 k",
+        "Source": "golang-1.21.7-1.module_el8+960+4060efbe.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -33,7 +33,8 @@
         "golang.x86_64          1.20.3-1.module_el8+429+9e1e5a4f                appstream",
         "golang.x86_64          1.20.4-1.module_el8+433+1910a33d                appstream",
         "golang.x86_64          1.20.6-1.module_el8+574+cfd34e57                appstream",
-        "golang.x86_64          1.20.6-2.module_el8+658+f14b2092                appstream"
+        "golang.x86_64          1.20.6-2.module_el8+658+f14b2092                appstream",
+        "golang.x86_64          1.21.7-1.module_el8+960+4060efbe                appstream"
     ],
     "kojiPackages": [
         "golang-1.21.7-1.module_el8+960+4060efbe",

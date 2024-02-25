@@ -18,6 +18,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-9-jdk/xenial 9~b114-0ubuntu1 amd64"
+    ],
     "changelog": [
         "openjdk-9 (9~b114-0ubuntu1) xenial; urgency=medium",
         "openjdk-9 (9~b113-1) experimental; urgency=medium",
@@ -374,5 +377,6 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

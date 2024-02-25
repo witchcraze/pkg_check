@@ -18,6 +18,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
+    "list": [
+        "perl/xenial-infra-security 5.22.1-9ubuntu0.9+esm2 amd64",
+        "perl/xenial-updates,xenial-security 5.22.1-9ubuntu0.9 amd64",
+        "perl/xenial 5.22.1-9 amd64"
+    ],
     "changelog": [
         "perl (5.22.1-9ubuntu0.9+esm2) xenial-security; urgency=medium",
         "perl (5.22.1-9ubuntu0.9+esm1) xenial-security; urgency=medium",
@@ -303,5 +308,6 @@
         "perl (5.003.07-3) unstable; urgency=low",
         "perl (5.003.07-2) unstable; urgency=low",
         "perl (5.003.07-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

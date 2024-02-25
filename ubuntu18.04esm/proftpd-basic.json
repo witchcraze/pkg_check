@@ -22,6 +22,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic/universe amd64 Packages",
         "Description": "Versatile, virtual-hosting FTP daemon - binaries"
     },
+    "list": [
+        "proftpd-basic/bionic 1.3.5e-1build1 amd64"
+    ],
     "changelog": [
         "proftpd-dfsg (1.3.5e-1build1) bionic; urgency=high",
         "proftpd-dfsg (1.3.5e-1) unstable; urgency=medium",
@@ -292,5 +295,6 @@
         "proftpd (0.99.0pl4-1) unstable; urgency=low",
         "proftpd (0.99.0pl3-2) unstable; urgency=low",
         "proftpd (0.99.0pl3-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

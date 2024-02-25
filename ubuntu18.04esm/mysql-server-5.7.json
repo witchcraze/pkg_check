@@ -20,6 +20,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.7/bionic-infra-security 5.7.44-0ubuntu0.18.04.1+esm1 amd64",
+        "mysql-server-5.7/bionic-updates,bionic-security 5.7.42-0ubuntu0.18.04.1 amd64",
+        "mysql-server-5.7/bionic 5.7.21-1ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-5.7 (5.7.44-0ubuntu0.18.04.1+esm1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.43-0ubuntu0.18.04.1+esm1) bionic-security; urgency=medium",
@@ -31,5 +36,6 @@
         "mysql-5.7 (5.7.37-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.36-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "mysql-5.7 (5.7.35-0ubuntu0.18.04.2) bionic; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -25,6 +25,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
+    "list": [
+        "mysql-server-5.5/trusty-updates,trusty-security 5.5.62-0ubuntu0.14.04.1 amd64",
+        "mysql-server-5.5/trusty 5.5.35+dfsg-1ubuntu1 amd64"
+    ],
     "changelog": [
         "mysql-5.5 (5.5.62-0ubuntu0.14.04.1) trusty-security; urgency=medium",
         "mysql-5.5 (5.5.61-0ubuntu0.14.04.1) trusty-security; urgency=medium",
@@ -544,5 +548,6 @@
         "mysql (3.20.29-1) unstable; urgency=low",
         "mysql (3.20.16beta-2) unstable; urgency=low",
         "mysql (3.20.16beta-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

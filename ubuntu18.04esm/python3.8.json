@@ -14,6 +14,10 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.8)"
     },
+    "list": [
+        "python3.8/bionic-apps-security 3.8.0-3ubuntu1~18.04.2+esm1 amd64",
+        "python3.8/bionic-updates,bionic-security 3.8.0-3ubuntu1~18.04.2 amd64"
+    ],
     "changelog": [
         "python3.8 (3.8.0-3ubuntu1~18.04.2+esm1) bionic-security; urgency=medium",
         "python3.8 (3.8.0-3ubuntu1~18.04.2) bionic-security; urgency=medium",
@@ -25,5 +29,6 @@
         "python3.8 (3.8.0~rc1-3) unstable; urgency=medium",
         "python3.8 (3.8.0~rc1-2) unstable; urgency=medium",
         "python3.8 (3.8.0~b4-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

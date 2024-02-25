@@ -20,6 +20,9 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/bionic 3.0.3-9build1 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.3-9build1) bionic; urgency=high",
         "vsftpd (3.0.3-9) unstable; urgency=low",
@@ -126,5 +129,6 @@
         "vsftpd (0.9.1-1) unstable; urgency=low",
         "vsftpd (0.0.14-2) unstable; urgency=low",
         "vsftpd (0.0.14-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

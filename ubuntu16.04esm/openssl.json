@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.0.2g-1ubuntu4.20+esm10",
+        "Version": "1.0.2g-1ubuntu4.20+esm11",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -9,10 +9,15 @@
         "Installed-Size": "957 kB",
         "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.2g)",
         "Suggests": "ca-certificates",
-        "Download-Size": "492 kB",
+        "Download-Size": "493 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
+    "list": [
+        "openssl/xenial-infra-security 1.0.2g-1ubuntu4.20+esm11 amd64 [upgradable from: 1.0.2g-1ubuntu4.20]",
+        "openssl/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.20 amd64 [installed,upgradable to: 1.0.2g-1ubuntu4.20+esm11]",
+        "openssl/xenial 1.0.2g-1ubuntu4 amd64"
+    ],
     "changelog": [
         "openssl (1.0.2g-1ubuntu4.20) xenial-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu4.19) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "openssl (1.0.2g-1ubuntu4.13) xenial-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu4.12) xenial-security; urgency=medium",
         "openssl (1.0.2g-1ubuntu4.11) xenial-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

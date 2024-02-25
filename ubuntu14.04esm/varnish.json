@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
+    "list": [
+        "varnish/trusty-updates,trusty-security 3.0.5-2ubuntu0.1 amd64",
+        "varnish/trusty 3.0.5-2 amd64"
+    ],
     "changelog": [
         "varnish (3.0.5-2ubuntu0.1) trusty-security; urgency=medium",
         "varnish (3.0.5-2) unstable; urgency=medium",
@@ -78,5 +82,6 @@
         "varnish (1.0.1-3) unstable; urgency=low",
         "varnish (1.0.1-2) unstable; urgency=low",
         "varnish (1.0.1-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

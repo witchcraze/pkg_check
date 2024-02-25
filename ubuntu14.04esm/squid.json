@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "dependency package from squid to squid3"
     },
+    "list": [
+        "squid/trusty-updates,trusty-security 3.3.8-1ubuntu6.11 amd64",
+        "squid/trusty 3.3.8-1ubuntu6 amd64"
+    ],
     "changelog": [
         "squid3 (3.3.8-1ubuntu6.11) trusty-security; urgency=medium",
         "squid3 (3.3.8-1ubuntu6.10) trusty; urgency=medium",
@@ -122,5 +126,6 @@
         "squid3 (3.0.PRE4-1) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-2) unstable; urgency=low",
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

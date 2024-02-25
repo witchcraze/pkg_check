@@ -12,6 +12,10 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.16/bionic-apps-security 1.16.2-0ubuntu1~18.04.2+esm1 all",
+        "golang-1.16/bionic-updates 1.16.2-0ubuntu1~18.04.2 all"
+    ],
     "changelog": [
         "golang-1.16 (1.16.2-0ubuntu1~18.04.2+esm1) bionic-security; urgency=medium",
         "golang-1.16 (1.16.2-0ubuntu1~18.04.2) bionic; urgency=medium",
@@ -23,5 +27,6 @@
         "golang-1.16 (1.16~rc1-1) unstable; urgency=medium",
         "golang-1.15 (1.15.8-1) unstable; urgency=medium",
         "golang-1.15 (1.15.7-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -2,20 +2,19 @@
     "info": {
         "Name": "python3",
         "Version": "3.9.18",
-        "Release": "1.el9_3.1",
+        "Release": "1.el9_3",
         "Architecture": "x86_64",
         "Size": "32 k",
-        "Source": "python3.9-3.9.18-1.el9_3.1.src.rpm",
+        "Source": "python3.9-3.9.18-1.el9_3.src.rpm",
         "Repository": "@System",
-        "From repo": "baseos",
         "Summary": "Python 3.9 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python",
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                     3.9.18-1.el9_3.1                      @baseos",
-        "python3.x86_64                     3.9.18-1.el9_3.1                      baseos"
+        "python3.x86_64                      3.9.18-1.el9_3                       @System",
+        "python3.x86_64                      3.9.18-1.el9_3                       baseos"
     ],
     "kojiPackages": [
         "python3.9-3.9.18-1.el9_3.1",

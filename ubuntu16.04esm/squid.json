@@ -17,6 +17,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
+    "list": [
+        "squid/xenial-infra-security 3.5.12-1ubuntu7.16+esm2 amd64",
+        "squid/xenial-updates,xenial-security 3.5.12-1ubuntu7.16 amd64",
+        "squid/xenial 3.5.12-1ubuntu7 amd64"
+    ],
     "changelog": [
         "squid3 (3.5.12-1ubuntu7.16+esm2) xenial-security; urgency=medium",
         "squid3 (3.5.12-1ubuntu7.16+esm1) xenial-security; urgency=medium",
@@ -28,5 +33,6 @@
         "squid3 (3.5.12-1ubuntu7.11) xenial-security; urgency=medium",
         "squid3 (3.5.12-1ubuntu7.10) xenial-security; urgency=medium",
         "squid3 (3.5.12-1ubuntu7.9) xenial-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

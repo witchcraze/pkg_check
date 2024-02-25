@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"
     },
+    "list": [
+        "python3.4/trusty-infra-security 3.4.3-1ubuntu1~14.04.7+esm13 amd64 [upgradable from: 3.4.3-1ubuntu1~14.04.7]",
+        "python3.4/trusty-updates,trusty-security,now 3.4.3-1ubuntu1~14.04.7 amd64 [installed,upgradable to: 3.4.3-1ubuntu1~14.04.7+esm13]",
+        "python3.4/trusty 3.4.0-2ubuntu1 amd64"
+    ],
     "changelog": [
         "python3.4 (3.4.3-1ubuntu1~14.04.7+esm13) trusty-security; urgency=medium",
         "python3.4 (3.4.3-1ubuntu1~14.04.7+esm12) trusty-security; urgency=medium",
@@ -24,5 +29,6 @@
         "python3.4 (3.4.3-1ubuntu1~14.04.7+esm4) trusty-security; urgency=medium",
         "python3.4 (3.4.3-1ubuntu1~14.04.7+esm2) trusty-security; urgency=medium",
         "python3.4 (3.4.3-1ubuntu1~14.04.7) trusty-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

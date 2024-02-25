@@ -15,6 +15,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-8-jdk/xenial-infra-security 8u392-ga-1~16.04 amd64",
+        "openjdk-8-jdk/xenial-updates,xenial-security 8u292-b10-0ubuntu1~16.04.1 amd64",
+        "openjdk-8-jdk/xenial 8u77-b03-3ubuntu3 amd64"
+    ],
     "changelog": [
         "openjdk-8 (8u392-ga-1~16.04) xenial-security; urgency=low",
         "openjdk-8 (8u392-ga-1) unstable; urgency=low",
@@ -474,5 +479,6 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

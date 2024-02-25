@@ -21,6 +21,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
+    "list": [
+        "vsftpd/trusty-updates 3.0.2-1ubuntu2.14.04.1 amd64",
+        "vsftpd/trusty 3.0.2-1ubuntu2 amd64"
+    ],
     "changelog": [
         "vsftpd (3.0.2-1ubuntu2.14.04.1) trusty; urgency=medium",
         "vsftpd (3.0.2-1ubuntu2) saucy; urgency=low",
@@ -32,5 +36,6 @@
         "vsftpd (3.0.0-1) unstable; urgency=low",
         "vsftpd (2.3.5-3ubuntu1) quantal; urgency=low",
         "vsftpd (2.3.5-3) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

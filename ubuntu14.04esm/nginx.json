@@ -12,6 +12,11 @@
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
+    "list": [
+        "nginx/trusty-infra-security 1.4.6-1ubuntu3.9+esm4 all",
+        "nginx/trusty-updates,trusty-security 1.4.6-1ubuntu3.9 all",
+        "nginx/trusty 1.4.6-1ubuntu3 all"
+    ],
     "changelog": [
         "nginx (1.4.6-1ubuntu3.9+esm4) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.9+esm3) trusty-security; urgency=medium",
@@ -23,5 +28,6 @@
         "nginx (1.4.6-1ubuntu3.6) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.5) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.4) trusty-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

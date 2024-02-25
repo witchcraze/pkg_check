@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
+    "list": [
+        "python3.5/xenial-infra-security 3.5.2-2ubuntu0~16.04.13+esm12 amd64 [upgradable from: 3.5.2-2ubuntu0~16.04.13]",
+        "python3.5/xenial-updates,xenial-security,now 3.5.2-2ubuntu0~16.04.13 amd64 [installed,upgradable to: 3.5.2-2ubuntu0~16.04.13+esm12]",
+        "python3.5/xenial 3.5.1-10 amd64"
+    ],
     "changelog": [
         "python3.5 (3.5.2-2ubuntu0~16.04.13+esm12) xenial-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.13+esm11) xenial-security; urgency=medium",
@@ -24,5 +29,6 @@
         "python3.5 (3.5.2-2ubuntu0~16.04.13+esm5) xenial-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.13+esm3) xenial-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.13+esm2) xenial-security; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

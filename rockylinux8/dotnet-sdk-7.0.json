@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.115",
+        "Version": "7.0.116",
         "Release": "1.el8_9",
         "Architecture": "x86_64",
         "Size": "88 M",
-        "Source": "dotnet7.0-7.0.115-1.el8_9.src.rpm",
+        "Source": "dotnet7.0-7.0.116-1.el8_9.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -14,7 +14,8 @@
     },
     "list": [
         "dotnet-sdk-7.0.x86_64                 7.0.114-1.el8_9                  appstream",
-        "dotnet-sdk-7.0.x86_64                 7.0.115-1.el8_9                  appstream"
+        "dotnet-sdk-7.0.x86_64                 7.0.115-1.el8_9                  appstream",
+        "dotnet-sdk-7.0.x86_64                 7.0.116-1.el8_9                  appstream"
     ],
     "kojiPackages": [
         "dotnet7.0-7.0.116-1.el8_9",

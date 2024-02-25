@@ -15,6 +15,10 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
+    "list": [
+        "openjdk-17-jdk/bionic-apps-security 17.0.9+9-1~18.04 amd64",
+        "openjdk-17-jdk/bionic-updates,bionic-security 17.0.7+7~us1-0ubuntu1~18.04 amd64"
+    ],
     "changelog": [
         "openjdk-17 (17.0.9+9-1~18.04) bionic-security; urgency=high",
         "openjdk-17 (17.0.9+9-1) unstable; urgency=high",
@@ -537,5 +541,6 @@
         "icedtea-java7 (7~b17-1.2+20070808-1) gutsy; urgency=low",
         "icedtea (7~b16-20070724-1) UNRELEASED; urgency=low",
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

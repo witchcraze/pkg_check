@@ -20,6 +20,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
+    "list": [
+        "tomcat7/trusty-updates,trusty-security 7.0.52-1ubuntu0.16 all",
+        "tomcat7/trusty 7.0.52-1 all"
+    ],
     "changelog": [
         "tomcat7 (7.0.52-1ubuntu0.16) trusty-security; urgency=medium",
         "tomcat7 (7.0.52-1ubuntu0.15) trusty-security; urgency=medium",
@@ -111,5 +115,6 @@
         "tomcat6 (6.0.18-0ubuntu1) intrepid; urgency=low",
         "tomcat6 (6.0.16-1ubuntu1) intrepid; urgency=low",
         "tomcat6 (6.0.16-1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

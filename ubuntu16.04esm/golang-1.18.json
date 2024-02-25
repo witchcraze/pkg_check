@@ -12,6 +12,9 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
+    "list": [
+        "golang-1.18/xenial-apps-security 1.18.1-1ubuntu1~16.04.6 all"
+    ],
     "changelog": [
         "golang-1.18 (1.18.1-1ubuntu1~16.04.6) xenial; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1~16.04.5) xenial; urgency=medium",
@@ -23,5 +26,6 @@
         "golang-1.18 (1.18.1-1ubuntu1) jammy; urgency=medium",
         "golang-1.18 (1.18.1-1) unstable; urgency=medium",
         "golang-1.18 (1.18-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.9.0",
-        "Release": "1.module+el8.9.0+90087+9cc16933",
+        "Version": "20.11.0",
+        "Release": "1.module+el8.9.0+90150+3599223d",
         "Architecture": "x86_64",
         "Size": "14 M",
-        "Source": "nodejs-20.9.0-1.module+el8.9.0+90087+9cc16933.src.rpm",
+        "Source": "nodejs-20.11.0-1.module+el8.9.0+90150+3599223d.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,8 +14,9 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                                     1:20.5.1-1.module+el8.9.0+90043+164d3de6                                     ol8_appstream",
-        "nodejs.x86_64                                     1:20.8.1-1.module+el8.9.0+90082+b6a613a6                                     ol8_appstream",
-        "nodejs.x86_64                                     1:20.9.0-1.module+el8.9.0+90087+9cc16933                                     ol8_appstream"
+        "nodejs.x86_64                                    1:20.5.1-1.module+el8.9.0+90043+164d3de6                                      ol8_appstream",
+        "nodejs.x86_64                                    1:20.8.1-1.module+el8.9.0+90082+b6a613a6                                      ol8_appstream",
+        "nodejs.x86_64                                    1:20.9.0-1.module+el8.9.0+90087+9cc16933                                      ol8_appstream",
+        "nodejs.x86_64                                    1:20.11.0-1.module+el8.9.0+90150+3599223d                                     ol8_appstream"
     ]
 }

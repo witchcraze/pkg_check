@@ -17,6 +17,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
+    "list": [
+        "rabbitmq-server/trusty-updates,trusty-security 3.2.4-1ubuntu0.1 all",
+        "rabbitmq-server/trusty 3.2.4-1 all"
+    ],
     "changelog": [
         "rabbitmq-server (3.2.4-1ubuntu0.1) trusty-security; urgency=medium",
         "rabbitmq-server (3.2.4-1) unstable; urgency=low",
@@ -71,5 +75,6 @@
         "rabbitmq-server (1.5.0-3) unstable; urgency=low",
         "rabbitmq-server (1.5.0-2) unstable; urgency=low",
         "rabbitmq-server (1.5.0-1) testing; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }

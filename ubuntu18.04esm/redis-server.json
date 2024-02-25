@@ -13,6 +13,11 @@
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
+    "list": [
+        "redis-server/bionic-apps-security 5:4.0.9-1ubuntu0.2+esm4 amd64",
+        "redis-server/bionic-updates,bionic-security 5:4.0.9-1ubuntu0.2 amd64",
+        "redis-server/bionic 5:4.0.9-1 amd64"
+    ],
     "changelog": [
         "redis (5:4.0.9-1ubuntu0.2+esm4) bionic-security; urgency=medium",
         "redis (5:4.0.9-1ubuntu0.2+esm3) bionic-security; urgency=medium",
@@ -24,5 +29,6 @@
         "redis (5:4.0.8-1) unstable; urgency=medium",
         "redis (5:4.0.7-1) unstable; urgency=medium",
         "redis (5:4.0.6-5) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

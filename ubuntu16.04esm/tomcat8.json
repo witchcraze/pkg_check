@@ -19,6 +19,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
+    "list": [
+        "tomcat8/xenial-updates,xenial-security 8.0.32-1ubuntu1.13 all",
+        "tomcat8/xenial 8.0.32-1ubuntu1 all"
+    ],
     "changelog": [
         "tomcat8 (8.0.32-1ubuntu1.13) xenial-security; urgency=medium",
         "tomcat8 (8.0.32-1ubuntu1.11) xenial-security; urgency=medium",
@@ -52,5 +56,6 @@
         "tomcat8 (8.0.8-1) unstable; urgency=medium",
         "tomcat8 (8.0.5-1) unstable; urgency=medium",
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
-    ]
+    ],
+    "publishinghistory": []
 }

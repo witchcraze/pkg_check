@@ -18,6 +18,10 @@
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/universe amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby, version 1.9.3"
     },
+    "list": [
+        "ruby1.9.3/trusty-updates,trusty-security 1.9.3.484-2ubuntu1.14 all",
+        "ruby1.9.3/trusty 1.9.3.484-2ubuntu1 all"
+    ],
     "changelog": [
         "ruby1.9.1 (1.9.3.484-2ubuntu1.14) trusty-security; urgency=medium",
         "ruby1.9.1 (1.9.3.484-2ubuntu1.13) trusty-security; urgency=medium",
@@ -128,5 +132,6 @@
         "ruby1.9 (1.9.0+20050412-2) unstable; urgency=high",
         "ruby1.9 (1.9.0+20050412-1) unstable; urgency=low",
         "ruby1.9 (1.9.0+20050412-0+1) unstable; urgency=low"
-    ]
+    ],
+    "publishinghistory": []
 }
