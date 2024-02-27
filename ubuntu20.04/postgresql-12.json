@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-12",
-        "Version": "12.17-0ubuntu0.20.04.1",
+        "Version": "12.18-0ubuntu0.20.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
@@ -20,10 +20,11 @@
         "Description": "object-relational SQL database, version 12 server"
     },
     "list": [
-        "postgresql-12/focal-updates,focal-security 12.17-0ubuntu0.20.04.1 amd64",
+        "postgresql-12/focal-updates,focal-security 12.18-0ubuntu0.20.04.1 amd64",
         "postgresql-12/focal 12.2-4 amd64"
     ],
     "changelog": [
+        "postgresql-12 (12.18-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "postgresql-12 (12.17-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "postgresql-12 (12.16-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "postgresql-12 (12.15-0ubuntu0.20.04.1) focal-security; urgency=medium",
@@ -53,6 +54,7 @@
         "postgresql-12 (12~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "12.18-0ubuntu0.20.04.1",
         "12.17-0ubuntu0.20.04.1",
         "12.16-0ubuntu0.20.04.1",
         "12.15-0ubuntu0.20.04.1",

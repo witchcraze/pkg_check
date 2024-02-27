@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.20.12",
-        "Release": "2.module+el8.9.0+1725+0ed4fa7f",
+        "Version": "1.20.10",
+        "Release": "1.module+el8.9.0+1569+c86cd0c3",
         "Architecture": "x86_64",
         "Size": "685 k",
-        "Source": "golang-1.20.12-2.module+el8.9.0+1725+0ed4fa7f.src.rpm",
+        "Source": "golang-1.20.10-1.module+el8.9.0+1569+c86cd0c3.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -13,8 +13,7 @@
         "Description": "The Go Programming Language."
     },
     "list": [
-        "golang.x86_64          1.20.10-1.module+el8.9.0+1569+c86cd0c3          appstream",
-        "golang.x86_64          1.20.12-2.module+el8.9.0+1725+0ed4fa7f          appstream"
+        "golang.x86_64          1.20.10-1.module+el8.9.0+1569+c86cd0c3          appstream"
     ],
     "kojiPackages": [
         "golang-1.20.12-2.module+el8.9.0+1725+0ed4fa7f",

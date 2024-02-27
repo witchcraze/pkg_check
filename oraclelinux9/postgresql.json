@@ -1,8 +1,8 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "15.5",
-        "Release": "1.module+el9.3.0+90103+1d024772",
+        "Version": "15.6",
+        "Release": "1.module+el9.3.0+90158+dfcdadd2",
         "Architecture": "src",
         "Size": "50 M",
         "Source": "None",
@@ -29,6 +29,7 @@
         "postgresql.x86_64       13.14-1.0.1.el9_3                          ol9_appstream",
         "postgresql.src          15.2-1.module+el9.2.0+20961+53e4336c       ol9_appstream",
         "postgresql.src          15.3-1.module+el9.2.0+21134+ceb95ed9       ol9_appstream",
-        "postgresql.src          15.5-1.module+el9.3.0+90103+1d024772       ol9_appstream"
+        "postgresql.src          15.5-1.module+el9.3.0+90103+1d024772       ol9_appstream",
+        "postgresql.src          15.6-1.module+el9.3.0+90158+dfcdadd2       ol9_appstream"
     ]
 }

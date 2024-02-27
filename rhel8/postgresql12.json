@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "12.17",
-        "Release": "1.module+el8.9.0+20789+410e66ce",
+        "Version": "12.18",
+        "Release": "1.module+el8.9.0+21289+7c796f9d",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-12.17-1.module+el8.9.0+20789+410e66ce.src.rpm",
+        "Source": "postgresql-12.18-1.module+el8.9.0+21289+7c796f9d.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -22,6 +22,7 @@
         "postgresql.x86_64                           12.11-2.module+el8.6.0+15345+1dd8d6b8                           rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                           12.12-1.module+el8.6.0+16796+0abe6678                           rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                           12.15-1.module+el8.8.0+19427+d1071523                           rhel-8-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                           12.17-1.module+el8.9.0+20789+410e66ce                           rhel-8-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                           12.17-1.module+el8.9.0+20789+410e66ce                           rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                           12.18-1.module+el8.9.0+21289+7c796f9d                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

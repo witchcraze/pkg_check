@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql-server",
         "Version": "10.23",
-        "Release": "3.module+el8.9.0+20831+78489779",
+        "Release": "4.module+el8.9.0+21317+d2c6bf8a",
         "Architecture": "x86_64",
         "Size": "5.1 M",
-        "Source": "postgresql-10.23-3.module+el8.9.0+20831+78489779.src.rpm",
+        "Source": "postgresql-10.23-4.module+el8.9.0+21317+d2c6bf8a.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -22,6 +22,7 @@
         "postgresql-server.x86_64                       10.21-2.module+el8.6.0+15342+53518fac                        rhel-8-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                       10.23-1.module+el8.7.0+17280+3a452e1f                        rhel-8-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                       10.23-2.module+el8.8.0+19493+5804baf6                        rhel-8-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                       10.23-3.module+el8.9.0+20831+78489779                        rhel-8-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64                       10.23-3.module+el8.9.0+20831+78489779                        rhel-8-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       10.23-4.module+el8.9.0+21317+d2c6bf8a                        rhel-8-for-x86_64-appstream-rpms"
     ]
 }
