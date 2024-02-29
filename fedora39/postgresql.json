@@ -17,6 +17,7 @@
         "postgresql.x86_64                       15.4-1.fc39                       fedora"
     ],
     "kojiPackages": [
+        "postgresql-15.6-1.fc39",
         "postgresql-15.4-1.fc39",
         "postgresql-15.3-9.fc39",
         "postgresql-15.3-8.fc39",

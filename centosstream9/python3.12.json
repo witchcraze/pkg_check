@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.1",
-        "Release": "3.el9",
+        "Release": "4.el9",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.12-3.12.1-3.el9.src.rpm",
+        "Source": "python3.12-3.12.1-4.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,7 +13,8 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.12.x86_64                     3.12.1-3.el9                     appstream"
+        "python3.12.x86_64                     3.12.1-3.el9                     appstream",
+        "python3.12.x86_64                     3.12.1-4.el9                     appstream"
     ],
     "kojiPackages": [
         "python3.12-3.12.1-4.el9",

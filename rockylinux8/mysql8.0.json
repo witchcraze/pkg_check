@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.0.32",
-        "Release": "1.module+el8.8.0+1283+4b88a3a8.0.1",
+        "Version": "8.0.36",
+        "Release": "1.module+el8.9.0+1729+481e3b0b.0.1",
         "Architecture": "x86_64",
-        "Size": "15 M",
-        "Source": "mysql-8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1.src.rpm",
+        "Size": "14 M",
+        "Source": "mysql-8.0.36-1.module+el8.9.0+1729+481e3b0b.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -13,7 +13,8 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64         8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1         appstream"
+        "mysql.x86_64         8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1         appstream",
+        "mysql.x86_64         8.0.36-1.module+el8.9.0+1729+481e3b0b.0.1         appstream"
     ],
     "kojiPackages": [
         "mysql-8.0.36-1.module+el8.9.0+1729+481e3b0b.0.1",

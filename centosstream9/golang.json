@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.21.3",
-        "Release": "5.el9",
+        "Version": "1.21.7",
+        "Release": "1.el9",
         "Architecture": "x86_64",
         "Size": "670 k",
-        "Source": "golang-1.21.3-5.el9.src.rpm",
+        "Source": "golang-1.21.7-1.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -13,11 +13,11 @@
         "Description": "The Go Programming Language."
     },
     "list": [
-        "golang.x86_64                       1.20.6-4.el9                       appstream",
         "golang.x86_64                       1.20.6-5.el9                       appstream",
         "golang.x86_64                       1.21.3-3.el9                       appstream",
         "golang.x86_64                       1.21.3-4.el9                       appstream",
-        "golang.x86_64                       1.21.3-5.el9                       appstream"
+        "golang.x86_64                       1.21.3-5.el9                       appstream",
+        "golang.x86_64                       1.21.7-1.el9                       appstream"
     ],
     "kojiPackages": [
         "golang-1.21.7-1.el9",

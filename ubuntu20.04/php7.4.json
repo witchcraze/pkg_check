@@ -1,14 +1,14 @@
 {
     "show": {
         "Package": "php7.4",
-        "Version": "7.4.3-4ubuntu2.19",
+        "Version": "7.4.3-4ubuntu2.20",
         "Priority": "optional",
         "Section": "php",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian PHP Maintainers <team+pkg-php@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "75.8 kB",
+        "Installed-Size": "76.8 kB",
         "Provides": "php",
         "Depends": "libapache2-mod-php7.4 | php7.4-fpm | php7.4-cgi, php7.4-common",
         "Homepage": "http://www.php.net/",
@@ -17,10 +17,11 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.4/focal-updates,focal-security 7.4.3-4ubuntu2.19 all",
+        "php7.4/focal-updates,focal-security 7.4.3-4ubuntu2.20 all",
         "php7.4/focal 7.4.3-4ubuntu1 all"
     ],
     "changelog": [
+        "php7.4 (7.4.3-4ubuntu2.20) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.19) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.18) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.17) focal-security; urgency=medium",

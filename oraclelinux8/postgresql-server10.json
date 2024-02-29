@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql-server",
         "Version": "10.23",
-        "Release": "3.0.1.module+el8.9.0+90108+1bfb5b17",
+        "Release": "4.0.1.module+el8.9.0+90164+87901204",
         "Architecture": "x86_64",
         "Size": "5.1 M",
-        "Source": "postgresql-10.23-3.0.1.module+el8.9.0+90108+1bfb5b17.src.rpm",
+        "Source": "postgresql-10.23-4.0.1.module+el8.9.0+90164+87901204.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -22,6 +22,7 @@
         "postgresql-server.x86_64                               10.21-2.module+el8.6.0+20673+e7bc7ac8                                   ol8_appstream",
         "postgresql-server.x86_64                               10.23-1.module+el8.7.0+20896+16771be9                                   ol8_appstream",
         "postgresql-server.x86_64                               10.23-2.0.1.module+el8.8.0+21144+bb6efc6c                               ol8_appstream",
-        "postgresql-server.x86_64                               10.23-3.0.1.module+el8.9.0+90108+1bfb5b17                               ol8_appstream"
+        "postgresql-server.x86_64                               10.23-3.0.1.module+el8.9.0+90108+1bfb5b17                               ol8_appstream",
+        "postgresql-server.x86_64                               10.23-4.0.1.module+el8.9.0+90164+87901204                               ol8_appstream"
     ]
 }

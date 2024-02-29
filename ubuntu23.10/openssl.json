@@ -15,12 +15,11 @@
         "Task": "minimal, server-minimal, cloud-minimal",
         "Download-Size": "1190 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu mantic-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/mantic-security,now 3.0.10-1ubuntu2.3 amd64 [installed,automatic]",
-        "openssl/mantic-updates 3.0.10-1ubuntu2.2 amd64",
+        "openssl/mantic-updates,mantic-security,now 3.0.10-1ubuntu2.3 amd64 [installed,automatic]",
         "openssl/mantic 3.0.10-1ubuntu2 amd64"
     ],
     "changelog": [
