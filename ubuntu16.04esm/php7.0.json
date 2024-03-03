@@ -1,25 +1,26 @@
 {
     "show": {
         "Package": "php7.0",
-        "Version": "7.0.33-0ubuntu0.16.04.16+esm7",
+        "Version": "7.0.33-0ubuntu0.16.04.16+esm8",
         "Priority": "optional",
         "Section": "php",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>",
         "Installed-Size": "9216 B",
         "Provides": "php",
-        "Depends": "php7.0-fpm | libapache2-mod-php7.0 | php7.0-cgi, php7.0-common (= 7.0.33-0ubuntu0.16.04.16+esm7)",
+        "Depends": "php7.0-fpm | libapache2-mod-php7.0 | php7.0-cgi, php7.0-common (= 7.0.33-0ubuntu0.16.04.16+esm8)",
         "Conflicts": "php5 (<< 5.6.16+dfsg-4~)",
-        "Download-Size": "1292 B",
+        "Download-Size": "1294 B",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.0/xenial-infra-security 7.0.33-0ubuntu0.16.04.16+esm7 all",
+        "php7.0/xenial-infra-security 7.0.33-0ubuntu0.16.04.16+esm8 all",
         "php7.0/xenial-updates,xenial-security 7.0.33-0ubuntu0.16.04.16 all",
         "php7.0/xenial 7.0.4-7ubuntu2 all"
     ],
     "changelog": [
+        "php7.0 (7.0.33-0ubuntu0.16.04.16+esm8) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.16+esm7) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.16+esm6) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.16+esm5) xenial-security; urgency=medium",
@@ -28,8 +29,7 @@
         "php7.0 (7.0.33-0ubuntu0.16.04.16+esm2) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.16+esm1) xenial-security; urgency=medium",
         "php7.0 (7.0.33-0ubuntu0.16.04.16) xenial-security; urgency=medium",
-        "php7.0 (7.0.33-0ubuntu0.16.04.15) xenial-security; urgency=medium",
-        "php7.0 (7.0.33-0ubuntu0.16.04.14) xenial-security; urgency=medium"
+        "php7.0 (7.0.33-0ubuntu0.16.04.15) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }

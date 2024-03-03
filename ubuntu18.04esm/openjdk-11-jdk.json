@@ -1,30 +1,32 @@
 {
     "show": {
         "Package": "openjdk-11-jdk",
-        "Version": "11.0.21+9-0ubuntu1~18.04",
+        "Version": "11.0.22+7-0ubuntu2~18.04.1",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-lts",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "OpenJDK Team <openjdk@lists.launchpad.net>",
-        "Installed-Size": "1388 kB",
+        "Installed-Size": "1397 kB",
         "Provides": "java-compiler, java-sdk (= 11), java10-sdk, java11-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",
-        "Depends": "openjdk-11-jre (= 11.0.21+9-0ubuntu1~18.04), openjdk-11-jdk-headless (= 11.0.21+9-0ubuntu1~18.04), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-11-jre (= 11.0.22+7-0ubuntu2~18.04.1), openjdk-11-jdk-headless (= 11.0.22+7-0ubuntu2~18.04.1), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-11-demo, openjdk-11-source, visualvm",
         "Conflicts": "openjdk-11-jre-headless (<< 11~19-2)",
         "Replaces": "openjdk-11-jre-headless (<< 11~19-2)",
-        "Download-Size": "1330 kB",
+        "Download-Size": "1340 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-11-jdk/bionic-infra-security 11.0.21+9-0ubuntu1~18.04 amd64",
+        "openjdk-11-jdk/bionic-infra-security 11.0.22+7-0ubuntu2~18.04.1 amd64",
         "openjdk-11-jdk/bionic-updates,bionic-security 11.0.19+7~us1-0ubuntu1~18.04.1 amd64",
         "openjdk-11-jdk/bionic 10.0.1+10-3ubuntu1 amd64"
     ],
     "changelog": [
-        "openjdk-lts (11.0.21+9-0ubuntu1~18.04) bionic-security; urgency=medium",
+        "openjdk-lts (11.0.22+7-0ubuntu2~18.04.1) bionic-security; urgency=medium",
+        "openjdk-lts (11.0.22+7-0ubuntu1) noble; urgency=medium",
+        "openjdk-lts (11.0.21+9-0ubuntu1) noble; urgency=medium",
         "openjdk-lts (11.0.20+8-1ubuntu1) mantic; urgency=high",
         "openjdk-lts (11.0.19+7~us1-0ubuntu1) mantic; urgency=medium",
         "openjdk-lts (11.0.18+10-0ubuntu5) lunar; urgency=medium",
