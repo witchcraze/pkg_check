@@ -14,8 +14,6 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64            1:20.5.0-1.module_el9+583+597f83c2            appstream",
-        "nodejs.x86_64            1:20.5.1-1.module_el9+642+c81e94f6            appstream",
         "nodejs.x86_64            1:20.9.0-1.module_el9+743+ad38546c            appstream"
     ],
     "kojiPackages": [

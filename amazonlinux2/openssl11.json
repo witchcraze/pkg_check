@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "1",
         "Version": "1.1.1g",
-        "Release": "12.amzn2.0.19",
+        "Release": "12.amzn2.0.20",
         "Size": "319 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Utilities from the general purpose cryptography library with TLS",
@@ -31,6 +31,7 @@
         "openssl11.x86_64                1:1.1.1g-12.amzn2.0.15                amzn2-core",
         "openssl11.x86_64                1:1.1.1g-12.amzn2.0.16                amzn2-core",
         "openssl11.x86_64                1:1.1.1g-12.amzn2.0.18                amzn2-core",
-        "openssl11.x86_64                1:1.1.1g-12.amzn2.0.19                amzn2-core"
+        "openssl11.x86_64                1:1.1.1g-12.amzn2.0.19                amzn2-core",
+        "openssl11.x86_64                1:1.1.1g-12.amzn2.0.20                amzn2-core"
     ]
 }
