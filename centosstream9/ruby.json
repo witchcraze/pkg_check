@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.2",
-        "Release": "141.module_el9+156+2e0939d1",
+        "Version": "3.0.4",
+        "Release": "161.el9",
         "Architecture": "x86_64",
-        "Size": "41 k",
-        "Source": "ruby-3.1.2-141.module_el9+156+2e0939d1.src.rpm",
+        "Size": "39 k",
+        "Source": "ruby-3.0.4-161.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,15 +13,14 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686               3.0.2-155.el9                                  appstream",
-        "ruby.x86_64             3.0.2-155.el9                                  appstream",
-        "ruby.i686               3.0.3-159.el9                                  appstream",
-        "ruby.x86_64             3.0.3-159.el9                                  appstream",
-        "ruby.i686               3.0.4-160.el9                                  appstream",
-        "ruby.x86_64             3.0.4-160.el9                                  appstream",
-        "ruby.i686               3.0.4-161.el9                                  appstream",
-        "ruby.x86_64             3.0.4-161.el9                                  appstream",
-        "ruby.x86_64             3.1.2-141.module_el9+156+2e0939d1              appstream"
+        "ruby.i686                         3.0.2-155.el9                        appstream",
+        "ruby.x86_64                       3.0.2-155.el9                        appstream",
+        "ruby.i686                         3.0.3-159.el9                        appstream",
+        "ruby.x86_64                       3.0.3-159.el9                        appstream",
+        "ruby.i686                         3.0.4-160.el9                        appstream",
+        "ruby.x86_64                       3.0.4-160.el9                        appstream",
+        "ruby.i686                         3.0.4-161.el9                        appstream",
+        "ruby.x86_64                       3.0.4-161.el9                        appstream"
     ],
     "kojiPackages": [
         "ruby-3.0.4-161.el9",

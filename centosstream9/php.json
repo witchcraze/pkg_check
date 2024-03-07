@@ -1,23 +1,21 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.1.14",
-        "Release": "1.module_el9+260+8424407f",
+        "Version": "8.0.30",
+        "Release": "1.el9",
         "Architecture": "x86_64",
-        "Size": "7.4 k",
-        "Source": "php-8.1.14-1.module_el9+260+8424407f.src.rpm",
+        "Size": "4.7 k",
+        "Source": "php-8.0.30-1.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
-        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and Boost",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64              8.0.20-3.el9                                   appstream",
-        "php.x86_64              8.0.27-1.el9                                   appstream",
-        "php.x86_64              8.0.30-1.el9                                   appstream",
-        "php.x86_64              8.1.8-1.module_el9+158+97f99411                appstream",
-        "php.x86_64              8.1.14-1.module_el9+260+8424407f               appstream"
+        "php.x86_64                        8.0.20-3.el9                         appstream",
+        "php.x86_64                        8.0.27-1.el9                         appstream",
+        "php.x86_64                        8.0.30-1.el9                         appstream"
     ],
     "kojiPackages": [
         "php-8.0.30-1.el9",

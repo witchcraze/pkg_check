@@ -1,18 +1,4 @@
 {
-    "info": {
-        "Name": "postgresql-server",
-        "Version": "15.2",
-        "Release": "1.module_el9+264+92dde3f0",
-        "Architecture": "x86_64",
-        "Size": "6.1 M",
-        "Source": "postgresql-15.2-1.module_el9+264+92dde3f0.src.rpm",
-        "Repository": "appstream",
-        "Summary": "The programs needed to create and run a PostgreSQL server",
-        "URL": "http://www.postgresql.org/",
-        "License": "PostgreSQL",
-        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
-    },
-    "list": [
-        "postgresql-server.x86_64        15.2-1.module_el9+264+92dde3f0         appstream"
-    ]
+    "info": [],
+    "list": []
 }

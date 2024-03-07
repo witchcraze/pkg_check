@@ -51,6 +51,18 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ],
+            "postgresql15": [
+                "info",
+                "list"
+            ],
+            "postgresql-server15": [
+                "info",
+                "list"
+            ],
+            "redis7": [
+                "info",
+                "list"
             ]
         }
     },

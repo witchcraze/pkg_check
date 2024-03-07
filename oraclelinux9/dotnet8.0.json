@@ -2,7 +2,7 @@
     "info": {
         "Name": "dotnet8.0",
         "Version": "8.0.102",
-        "Release": "2.0.1.el9_3",
+        "Release": "2.0.2.el9_3",
         "Architecture": "src",
         "Size": "265 M",
         "Source": "None",
@@ -16,6 +16,7 @@
         "dotnet8.0.src              8.0.100~rc.2-0.1.0.1.el9_3              ol9_appstream",
         "dotnet8.0.src              8.0.100-2.0.1.el9_3                     ol9_appstream",
         "dotnet8.0.src              8.0.101-1.0.1.el9_3                     ol9_appstream",
-        "dotnet8.0.src              8.0.102-2.0.1.el9_3                     ol9_appstream"
+        "dotnet8.0.src              8.0.102-2.0.1.el9_3                     ol9_appstream",
+        "dotnet8.0.src              8.0.102-2.0.2.el9_3                     ol9_appstream"
     ]
 }
