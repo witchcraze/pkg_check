@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.37",
-        "Release": "62.module_el8+657+88b2113f",
+        "Release": "64.module_el8+965+1ad5c49d",
         "Architecture": "x86_64",
-        "Size": "1.4 M",
-        "Source": "httpd-2.4.37-62.module_el8+657+88b2113f.src.rpm",
+        "Size": "1.6 M",
+        "Source": "httpd-2.4.37-64.module_el8+965+1ad5c49d.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -20,7 +20,8 @@
         "httpd.x86_64         2.4.37-47.module_el8.6.0+1111+ce6f4ceb.1          appstream",
         "httpd.x86_64         2.4.37-54.module_el8.8.0+1256+e1598b50            appstream",
         "httpd.x86_64         2.4.37-61.module_el8+563+4ebf229f                 appstream",
-        "httpd.x86_64         2.4.37-62.module_el8+657+88b2113f                 appstream"
+        "httpd.x86_64         2.4.37-62.module_el8+657+88b2113f                 appstream",
+        "httpd.x86_64         2.4.37-64.module_el8+965+1ad5c49d                 appstream"
     ],
     "kojiPackages": [
         "httpd-2.4.37-64.module_el8+965+1ad5c49d",

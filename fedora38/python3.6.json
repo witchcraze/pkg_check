@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.6",
         "Version": "3.6.15",
-        "Release": "22.fc38",
+        "Release": "23.fc38",
         "Architecture": "x86_64",
         "Size": "19 M",
-        "Source": "python3.6-3.6.15-22.fc38.src.rpm",
+        "Source": "python3.6-3.6.15-23.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.6 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,10 +15,11 @@
     "list": [
         "python3.6.i686                       3.6.15-17.fc38                      fedora",
         "python3.6.x86_64                     3.6.15-17.fc38                      fedora",
-        "python3.6.i686                       3.6.15-22.fc38                      updates",
-        "python3.6.x86_64                     3.6.15-22.fc38                      updates"
+        "python3.6.i686                       3.6.15-23.fc38                      updates",
+        "python3.6.x86_64                     3.6.15-23.fc38                      updates"
     ],
     "kojiPackages": [
+        "python3.6-3.6.15-27.fc38",
         "python3.6-3.6.15-23.fc38",
         "python3.6-3.6.15-22.fc38",
         "python3.6-3.6.15-18.fc38",

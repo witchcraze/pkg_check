@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.7",
         "Version": "3.7.17",
-        "Release": "4.fc39",
+        "Release": "5.fc39",
         "Architecture": "x86_64",
         "Size": "16 M",
-        "Source": "python3.7-3.7.17-4.fc39.src.rpm",
+        "Source": "python3.7-3.7.17-5.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.7 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.7.i686                        3.7.17-3.fc39                      fedora",
         "python3.7.x86_64                      3.7.17-3.fc39                      fedora",
-        "python3.7.i686                        3.7.17-4.fc39                      updates",
-        "python3.7.x86_64                      3.7.17-4.fc39                      updates"
+        "python3.7.i686                        3.7.17-5.fc39                      updates",
+        "python3.7.x86_64                      3.7.17-5.fc39                      updates"
     ],
     "kojiPackages": [
         "python3.7-3.7.17-5.fc39",
