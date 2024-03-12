@@ -2,18 +2,19 @@
     "info": {
         "Name": "nodejs20",
         "Epoch": "1",
-        "Version": "20.10.0",
+        "Version": "20.11.1",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "44 k",
-        "Source": "nodejs20-20.10.0-1.amzn2023.0.1.src.rpm",
+        "Size": "45 k",
+        "Source": "nodejs20-20.11.1-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
-        "License": "MIT and ASL 2.0 and ISC and BSD",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs20.x86_64               1:20.10.0-1.amzn2023.0.1               amazonlinux"
+        "nodejs20.x86_64               1:20.10.0-1.amzn2023.0.1               amazonlinux",
+        "nodejs20.x86_64               1:20.11.1-1.amzn2023.0.1               amazonlinux"
     ]
 }
