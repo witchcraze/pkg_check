@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.41-4ubuntu3.15",
+        "Version": "2.4.41-4ubuntu3.16",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,7 +11,7 @@
         "Installed-Size": "544 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.15), apache2-data (= 2.4.41-4ubuntu3.15), apache2-utils (= 2.4.41-4ubuntu3.15), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.16), apache2-data (= 2.4.41-4ubuntu3.16), apache2-utils (= 2.4.41-4ubuntu3.16), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -19,15 +19,18 @@
         "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
-        "Download-Size": "95.6 kB",
+        "Phased-Update-Percentage": "40",
+        "Download-Size": "95.5 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/focal-updates,focal-security 2.4.41-4ubuntu3.15 amd64",
+        "apache2/focal-updates 2.4.41-4ubuntu3.16 amd64",
+        "apache2/focal-security 2.4.41-4ubuntu3.15 amd64",
         "apache2/focal 2.4.41-4ubuntu3 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.41-4ubuntu3.16) focal; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.15) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.14) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.13) focal-security; urgency=medium",
