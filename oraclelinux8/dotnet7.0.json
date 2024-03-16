@@ -1,7 +1,7 @@
 {
     "info": {
         "Name": "dotnet7.0",
-        "Version": "7.0.116",
+        "Version": "7.0.117",
         "Release": "1.0.1.el8_9",
         "Architecture": "src",
         "Size": "489 M",
@@ -32,6 +32,7 @@
         "dotnet7.0.src                                            7.0.113-2.0.1.el8_9                                                   ol8_appstream",
         "dotnet7.0.src                                            7.0.114-1.0.1.el8_9                                                   ol8_appstream",
         "dotnet7.0.src                                            7.0.115-1.0.1.el8_9                                                   ol8_appstream",
-        "dotnet7.0.src                                            7.0.116-1.0.1.el8_9                                                   ol8_appstream"
+        "dotnet7.0.src                                            7.0.116-1.0.1.el8_9                                                   ol8_appstream",
+        "dotnet7.0.src                                            7.0.117-1.0.1.el8_9                                                   ol8_appstream"
     ]
 }

@@ -16,6 +16,7 @@
         "postgresql.x86_64                    13.14-1.el9_3                     appstream"
     ],
     "kojiPackages": [
+        "postgresql-13.14-1.el9_3",
         "postgresql-13.13-1.el9_3",
         "postgresql-13.11-1.el9_2",
         "postgresql-13.10-1.el9_1.0.1",

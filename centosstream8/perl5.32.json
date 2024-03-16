@@ -18,6 +18,7 @@
         "perl.x86_64         4:5.32.1-472.module_el8.8.0+1251+d155cb05          appstream"
     ],
     "kojiPackages": [
+        "perl-5.32.1-473.module_el8+990+844f77ad",
         "perl-5.32.1-473.module_el8+802+b8179d7f",
         "perl-5.32.1-471.module_el8.6.0+1067+91b0b3d4",
         "perl-5.32.1-472.module_el8.8.0+1251+d155cb05",

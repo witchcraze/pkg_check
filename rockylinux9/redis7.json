@@ -16,6 +16,7 @@
         "redis.x86_64          7.0.12-2.module+el9.3.0+18173+60127d38           appstream"
     ],
     "kojiPackages": [
+        "redis-7.0.12-2.module+el9.3.0+18173+60127d38",
         "redis-7.0.12-1.module+el9.3.0+15782+e7b53f1b"
     ]
 }
