@@ -3,7 +3,7 @@
         "Name": "rh-nodejs14-nodejs",
         "Arch": "x86_64",
         "Version": "14.21.3",
-        "Release": "5.el7",
+        "Release": "6.el7",
         "Size": "18 M",
         "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
         "Summary": "JavaScript runtime",
@@ -23,6 +23,7 @@
         "rh-nodejs14-nodejs.x86_64         14.21.1-3.el7         rhel-server-rhscl-7-rpms",
         "rh-nodejs14-nodejs.x86_64         14.21.3-2.el7         rhel-server-rhscl-7-rpms",
         "rh-nodejs14-nodejs.x86_64         14.21.3-4.el7         rhel-server-rhscl-7-rpms",
-        "rh-nodejs14-nodejs.x86_64         14.21.3-5.el7         rhel-server-rhscl-7-rpms"
+        "rh-nodejs14-nodejs.x86_64         14.21.3-5.el7         rhel-server-rhscl-7-rpms",
+        "rh-nodejs14-nodejs.x86_64         14.21.3-6.el7         rhel-server-rhscl-7-rpms"
     ]
 }

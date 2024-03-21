@@ -3,7 +3,7 @@
         "Name": "tomcat",
         "Arch": "noarch",
         "Version": "7.0.76",
-        "Release": "10.amzn2.0.6",
+        "Release": "10.amzn2.0.7",
         "Size": "93 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API",
@@ -21,6 +21,7 @@
         "tomcat.noarch                   7.0.76-10.amzn2.0.3                   amzn2-core",
         "tomcat.noarch                   7.0.76-10.amzn2.0.4                   amzn2-core",
         "tomcat.noarch                   7.0.76-10.amzn2.0.5                   amzn2-core",
-        "tomcat.noarch                   7.0.76-10.amzn2.0.6                   amzn2-core"
+        "tomcat.noarch                   7.0.76-10.amzn2.0.6                   amzn2-core",
+        "tomcat.noarch                   7.0.76-10.amzn2.0.7                   amzn2-core"
     ]
 }

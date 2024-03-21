@@ -15,7 +15,6 @@
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
         "Replaces": "python-profiler (<= 2.7.1-2), python2.7-minimal (<< 2.7.3-7~)",
         "Task": "ubuntustudio-desktop-core, ubuntustudio-desktop",
-        "Phased-Update-Percentage": "50",
         "Download-Size": "248 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"

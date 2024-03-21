@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.11.8",
-        "Release": "1.fc38",
+        "Release": "2.fc38",
         "Architecture": "i686",
         "Size": "28 k",
-        "Source": "python3.11-3.11.8-1.fc38.src.rpm",
+        "Source": "python3.11-3.11.8-2.fc38.src.rpm",
         "Repository": "updates",
         "From repo": "updates",
         "Summary": "Python 3.11 interpreter",
@@ -14,10 +14,10 @@
         "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.11.8-1.fc38                       @updates",
+        "python3.x86_64                      3.11.8-2.fc38                       @updates",
         "python3.i686                        3.11.2-1.fc38                       fedora",
         "python3.x86_64                      3.11.2-1.fc38                       fedora",
-        "python3.i686                        3.11.8-1.fc38                       updates",
-        "python3.x86_64                      3.11.8-1.fc38                       updates"
+        "python3.i686                        3.11.8-2.fc38                       updates",
+        "python3.x86_64                      3.11.8-2.fc38                       updates"
     ]
 }

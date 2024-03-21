@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.0.20",
-        "Release": "2.module_el8.7.0+1194+8fdb2cc9",
+        "Version": "8.0.30",
+        "Release": "1.module_el8+783+92a67490",
         "Architecture": "x86_64",
-        "Size": "1.5 M",
-        "Source": "php-8.0.20-2.module_el8.7.0+1194+8fdb2cc9.src.rpm",
+        "Size": "1.6 M",
+        "Source": "php-8.0.30-1.module_el8+783+92a67490.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -15,7 +15,8 @@
     "list": [
         "php.x86_64            8.0.13-2.module_el8.6.0+1066+63503082            appstream",
         "php.x86_64            8.0.20-1.module_el8.7.0+1191+c110972c            appstream",
-        "php.x86_64            8.0.20-2.module_el8.7.0+1194+8fdb2cc9            appstream"
+        "php.x86_64            8.0.20-2.module_el8.7.0+1194+8fdb2cc9            appstream",
+        "php.x86_64            8.0.30-1.module_el8+783+92a67490                 appstream"
     ],
     "kojiPackages": [
         "php-8.0.30-1.module_el8+783+92a67490",
