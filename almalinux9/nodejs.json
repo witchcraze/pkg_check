@@ -3,11 +3,11 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "16.20.2",
-        "Release": "3.el9_2",
+        "Release": "4.el9_3",
         "Architecture": "x86_64",
         "Size": "111 k",
-        "Source": "nodejs-16.20.2-3.el9_2.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "Source": "nodejs-16.20.2-4.el9_3.src.rpm",
+        "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "MIT and ASL 2.0 and ISC and BSD",
@@ -26,6 +26,7 @@
         "nodejs.x86_64                              1:16.20.1-2.el9_2                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "nodejs.x86_64                              1:16.20.2-1.el9_2                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "nodejs.x86_64                              1:16.20.2-3.el9_2                               appstream",
-        "nodejs.x86_64                              1:16.20.2-3.el9_2                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+        "nodejs.x86_64                              1:16.20.2-3.el9_2                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "nodejs.x86_64                              1:16.20.2-4.el9_3                               appstream"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.2",
-        "Release": "141.module+el8.7.0+1081+f0a69743",
+        "Version": "3.1.4",
+        "Release": "142.module+el8.9.0+1759+ff68ae72",
         "Architecture": "x86_64",
-        "Size": "88 k",
-        "Source": "ruby-3.1.2-141.module+el8.7.0+1081+f0a69743.src.rpm",
+        "Size": "89 k",
+        "Source": "ruby-3.1.4-142.module+el8.9.0+1759+ff68ae72.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -14,7 +14,9 @@
     },
     "list": [
         "ruby.i686             3.1.2-141.module+el8.7.0+1081+f0a69743           appstream",
-        "ruby.x86_64           3.1.2-141.module+el8.7.0+1081+f0a69743           appstream"
+        "ruby.x86_64           3.1.2-141.module+el8.7.0+1081+f0a69743           appstream",
+        "ruby.i686             3.1.4-142.module+el8.9.0+1759+ff68ae72           appstream",
+        "ruby.x86_64           3.1.4-142.module+el8.9.0+1759+ff68ae72           appstream"
     ],
     "kojiPackages": [
         "ruby-3.1.4-142.module+el8.9.0+1759+ff68ae72",

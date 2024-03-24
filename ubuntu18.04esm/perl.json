@@ -21,11 +21,12 @@
         "Task": "ubuntu-desktop, print-server, cloud-image, server, lamp-server, kubuntu-desktop, xubuntu-core, xubuntu-desktop, lubuntu-desktop-share, lubuntu-gtk-desktop, lubuntu-desktop, lubuntu-qt-core, lubuntu-qt-desktop, lubuntu-qt-desktop, ubuntustudio-desktop-core, ubuntustudio-desktop, ubuntukylin-desktop, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-budgie-desktop",
         "Supported": "5y",
         "Download-Size": "201 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/bionic-updates,bionic-security 5.26.1-6ubuntu0.7 amd64",
+        "perl/bionic-updates,bionic-security,now 5.26.1-6ubuntu0.7 amd64 [installed,automatic]",
         "perl/bionic 5.26.1-6 amd64"
     ],
     "changelog": [

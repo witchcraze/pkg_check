@@ -43,6 +43,7 @@
         "dotnet7 (7.0.100-0ubuntu1) lunar; urgency=medium"
     ],
     "publishinghistory": [
+        "7.0.117-0ubuntu1~22.04.2",
         "7.0.117-0ubuntu1~22.04.1",
         "7.0.116-0ubuntu1~22.04.1",
         "7.0.115-0ubuntu1~22.04.1",

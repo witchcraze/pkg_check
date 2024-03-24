@@ -2,10 +2,10 @@
     "info": {
         "Name": "golang",
         "Version": "1.20.12",
-        "Release": "1.el9_3",
+        "Release": "2.el9_3",
         "Architecture": "x86_64",
-        "Size": "600 k",
-        "Source": "golang-1.20.12-1.el9_3.src.rpm",
+        "Size": "599 k",
+        "Source": "golang-1.20.12-2.el9_3.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -23,6 +23,7 @@
         "golang.x86_64                               1.19.10-1.el9_2                                repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "golang.x86_64                               1.19.13-1.el9_2                                repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "golang.x86_64                               1.20.10-1.el9_3                                appstream",
-        "golang.x86_64                               1.20.12-1.el9_3                                appstream"
+        "golang.x86_64                               1.20.12-1.el9_3                                appstream",
+        "golang.x86_64                               1.20.12-2.el9_3                                appstream"
     ]
 }
