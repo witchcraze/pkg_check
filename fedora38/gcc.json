@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "13.2.1",
-        "Release": "4.fc38",
+        "Release": "7.fc38",
         "Architecture": "x86_64",
         "Size": "34 M",
-        "Source": "gcc-13.2.1-4.fc38.src.rpm",
+        "Source": "gcc-13.2.1-7.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -14,7 +14,7 @@
     },
     "list": [
         "gcc.x86_64                       13.0.1-0.12.fc38                        fedora",
-        "gcc.x86_64                       13.2.1-4.fc38                           updates"
+        "gcc.x86_64                       13.2.1-7.fc38                           updates"
     ],
     "kojiPackages": [
         "gcc-13.2.1-7.fc38",

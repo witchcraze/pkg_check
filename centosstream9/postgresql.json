@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "13.11",
+        "Version": "13.14",
         "Release": "1.el9",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql-13.11-1.el9.src.rpm",
+        "Source": "postgresql-13.14-1.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,7 +15,8 @@
     "list": [
         "postgresql.x86_64                     13.7-1.el9                       appstream",
         "postgresql.x86_64                     13.10-1.el9                      appstream",
-        "postgresql.x86_64                     13.11-1.el9                      appstream"
+        "postgresql.x86_64                     13.11-1.el9                      appstream",
+        "postgresql.x86_64                     13.14-1.el9                      appstream"
     ],
     "kojiPackages": [
         "postgresql-13.14-1.el9",
