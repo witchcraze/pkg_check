@@ -19,6 +19,7 @@
         "python3.9.x86_64                      3.9.18-4.fc38                      updates"
     ],
     "kojiPackages": [
+        "python3.9-3.9.19-1.fc38",
         "python3.9-3.9.18-4.fc38",
         "python3.9-3.9.18-3.fc38",
         "python3.9-3.9.18-1.fc38",
