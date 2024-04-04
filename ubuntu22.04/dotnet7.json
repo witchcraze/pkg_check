@@ -1,24 +1,27 @@
 {
     "show": {
         "Package": "dotnet7",
-        "Version": "7.0.117-0ubuntu1~22.04.1",
+        "Version": "7.0.117-0ubuntu1~22.04.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "179 kB",
+        "Installed-Size": "180 kB",
         "Depends": "dotnet-sdk-7.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net/core",
-        "Download-Size": "28.4 kB",
+        "Phased-Update-Percentage": "60",
+        "Download-Size": "28.5 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [
-        "dotnet7/jammy-updates,jammy-security 7.0.117-0ubuntu1~22.04.1 amd64"
+        "dotnet7/jammy-updates 7.0.117-0ubuntu1~22.04.2 amd64",
+        "dotnet7/jammy-security 7.0.117-0ubuntu1~22.04.1 amd64"
     ],
     "changelog": [
+        "dotnet7 (7.0.117-0ubuntu1~22.04.2) jammy; urgency=medium",
         "dotnet7 (7.0.117-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet7 (7.0.116-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet7 (7.0.115-0ubuntu1~22.04.1) jammy-security; urgency=medium",

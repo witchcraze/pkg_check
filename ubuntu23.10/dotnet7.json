@@ -1,25 +1,28 @@
 {
     "show": {
         "Package": "dotnet7",
-        "Version": "7.0.117-0ubuntu1~23.10.1",
+        "Version": "7.0.117-0ubuntu1~23.10.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "60",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "179 kB",
+        "Installed-Size": "180 kB",
         "Depends": "dotnet-sdk-7.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net/core",
-        "Download-Size": "28.4 kB",
+        "Download-Size": "28.6 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [
-        "dotnet7/mantic-updates,mantic-security 7.0.117-0ubuntu1~23.10.1 amd64",
+        "dotnet7/mantic-updates 7.0.117-0ubuntu1~23.10.2 amd64",
+        "dotnet7/mantic-security 7.0.117-0ubuntu1~23.10.1 amd64",
         "dotnet7/mantic 7.0.110-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet7 (7.0.117-0ubuntu1~23.10.2) mantic; urgency=medium",
         "dotnet7 (7.0.117-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet7 (7.0.116-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet7 (7.0.115-0ubuntu1~23.10.1) mantic-security; urgency=medium",

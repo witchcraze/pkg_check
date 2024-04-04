@@ -1,25 +1,28 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.103-8.0.3-0ubuntu1~23.10.1",
+        "Version": "8.0.103-8.0.3-0ubuntu1~23.10.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "60",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "196 kB",
+        "Installed-Size": "197 kB",
         "Depends": "dotnet-sdk-8.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
-        "Download-Size": "28.9 kB",
+        "Download-Size": "29.0 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/mantic-updates,mantic-security 8.0.103-8.0.3-0ubuntu1~23.10.1 amd64",
+        "dotnet8/mantic-updates 8.0.103-8.0.3-0ubuntu1~23.10.2 amd64",
+        "dotnet8/mantic-security 8.0.103-8.0.3-0ubuntu1~23.10.1 amd64",
         "dotnet8/mantic 8.0.100-8.0.0~rc1-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.103-8.0.3-0ubuntu1~23.10.2) mantic; urgency=medium",
         "dotnet8 (8.0.103-8.0.3-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet8 (8.0.102-8.0.2-0ubuntu1~23.10.1) mantic-security; urgency=medium",
         "dotnet8 (8.0.101-8.0.1-0ubuntu1~23.10.1) mantic-security; urgency=medium",

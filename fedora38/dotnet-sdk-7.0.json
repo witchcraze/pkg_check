@@ -17,6 +17,7 @@
         "dotnet-sdk-7.0.x86_64                   7.0.116-1.fc38                   updates"
     ],
     "kojiPackages": [
+        "dotnet7.0-7.0.117-1.fc38",
         "dotnet7.0-7.0.116-1.fc38",
         "dotnet7.0-7.0.115-1.fc38",
         "dotnet7.0-7.0.114-1.fc38",

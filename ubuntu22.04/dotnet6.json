@@ -1,23 +1,27 @@
 {
     "show": {
         "Package": "dotnet6",
-        "Version": "6.0.127-0ubuntu1~22.04.1",
+        "Version": "6.0.128-0ubuntu1~22.04.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "137 kB",
+        "Installed-Size": "138 kB",
         "Depends": "dotnet-sdk-6.0",
         "Homepage": "https://dot.net/core",
-        "Download-Size": "20.6 kB",
+        "Phased-Update-Percentage": "60",
+        "Download-Size": "20.7 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [
-        "dotnet6/jammy-updates,jammy-security 6.0.127-0ubuntu1~22.04.1 amd64"
+        "dotnet6/jammy-updates 6.0.128-0ubuntu1~22.04.2 amd64",
+        "dotnet6/jammy-security 6.0.127-0ubuntu1~22.04.1 amd64"
     ],
     "changelog": [
+        "dotnet6 (6.0.128-0ubuntu1~22.04.2) jammy; urgency=medium",
+        "dotnet6 (6.0.128-0ubuntu1~22.04.1) jammy; urgency=medium",
         "dotnet6 (6.0.127-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.126-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet6 (6.0.125-0ubuntu1~22.04.1) jammy-security; urgency=medium",

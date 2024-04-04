@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.2",
-        "Release": "141.module+el9.1.0+15737+76195479",
+        "Version": "3.1.4",
+        "Release": "143.module+el9.3.0+21558+96b51efd",
         "Architecture": "x86_64",
-        "Size": "44 k",
-        "Source": "ruby-3.1.2-141.module+el9.1.0+15737+76195479.src.rpm",
+        "Size": "42 k",
+        "Source": "ruby-3.1.4-143.module+el9.3.0+21558+96b51efd.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -14,6 +14,8 @@
     },
     "list": [
         "ruby.i686                               3.1.2-141.module+el9.1.0+15737+76195479                             rhel-9-for-x86_64-appstream-rpms",
-        "ruby.x86_64                             3.1.2-141.module+el9.1.0+15737+76195479                             rhel-9-for-x86_64-appstream-rpms"
+        "ruby.x86_64                             3.1.2-141.module+el9.1.0+15737+76195479                             rhel-9-for-x86_64-appstream-rpms",
+        "ruby.i686                               3.1.4-143.module+el9.3.0+21558+96b51efd                             rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64                             3.1.4-143.module+el9.3.0+21558+96b51efd                             rhel-9-for-x86_64-appstream-rpms"
     ]
 }
