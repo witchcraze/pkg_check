@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.8",
-        "Version": "3.8.18",
-        "Release": "4.fc39",
+        "Version": "3.8.19",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "17 M",
-        "Source": "python3.8-3.8.18-4.fc39.src.rpm",
+        "Source": "python3.8-3.8.19-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.8 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.8.i686                        3.8.18-1.fc39                      fedora",
         "python3.8.x86_64                      3.8.18-1.fc39                      fedora",
-        "python3.8.i686                        3.8.18-4.fc39                      updates",
-        "python3.8.x86_64                      3.8.18-4.fc39                      updates"
+        "python3.8.i686                        3.8.19-1.fc39                      updates",
+        "python3.8.x86_64                      3.8.19-1.fc39                      updates"
     ],
     "kojiPackages": [
         "python3.8-3.8.19-1.fc39",

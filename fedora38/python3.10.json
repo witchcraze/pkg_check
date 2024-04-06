@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.10",
-        "Version": "3.10.13",
-        "Release": "3.fc38",
+        "Version": "3.10.14",
+        "Release": "1.fc38",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.10-3.10.13-3.fc38.src.rpm",
+        "Source": "python3.10-3.10.14-1.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.10 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.10.i686                       3.10.10-1.fc38                     fedora",
         "python3.10.x86_64                     3.10.10-1.fc38                     fedora",
-        "python3.10.i686                       3.10.13-3.fc38                     updates",
-        "python3.10.x86_64                     3.10.13-3.fc38                     updates"
+        "python3.10.i686                       3.10.14-1.fc38                     updates",
+        "python3.10.x86_64                     3.10.14-1.fc38                     updates"
     ],
     "kojiPackages": [
         "python3.10-3.10.14-1.fc38",
