@@ -2,8 +2,8 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.11.0",
-        "Release": "1.module+el9.3.0+90166+65065e89",
+        "Version": "20.11.1",
+        "Release": "1.module+el9.3.0+90254+3f4d3ee1",
         "Architecture": "src",
         "Size": "125 M",
         "Source": "None",
@@ -48,6 +48,7 @@
         "nodejs.src         1:18.19.1-1.module+el9.3.0+90193+90aa0dae       ol9_appstream",
         "nodejs.src         1:20.8.1-1.module+el9.3.0+90066+12d4a8d7        ol9_appstream",
         "nodejs.src         1:20.9.0-1.module+el9.3.0+90089+a72215ac        ol9_appstream",
-        "nodejs.src         1:20.11.0-1.module+el9.3.0+90166+65065e89       ol9_appstream"
+        "nodejs.src         1:20.11.0-1.module+el9.3.0+90166+65065e89       ol9_appstream",
+        "nodejs.src         1:20.11.1-1.module+el9.3.0+90254+3f4d3ee1       ol9_appstream"
     ]
 }
