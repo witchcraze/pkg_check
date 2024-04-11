@@ -20,6 +20,7 @@
         "nodejs18.x86_64                     1:18.19.0-1.fc39                     updates"
     ],
     "kojiPackages": [
+        "nodejs18-18.20.2-1.fc39",
         "nodejs18-18.19.0-3.fc39",
         "nodejs18-18.19.0-1.fc39",
         "nodejs18-18.18.2-3.fc39",

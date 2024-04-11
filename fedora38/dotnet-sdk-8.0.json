@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.102",
+        "Version": "8.0.103",
         "Release": "1.fc38",
         "Architecture": "x86_64",
         "Size": "87 M",
-        "Source": "dotnet8.0-8.0.102-1.fc38.src.rpm",
+        "Source": "dotnet8.0-8.0.103-1.fc38.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,7 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-8.0.x86_64                   8.0.102-1.fc38                   updates"
+        "dotnet-sdk-8.0.x86_64                   8.0.103-1.fc38                   updates"
     ],
     "kojiPackages": [
         "dotnet8.0-8.0.103-1.fc38",

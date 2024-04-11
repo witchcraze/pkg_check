@@ -17,6 +17,7 @@
         "php.x86_64                         8.2.17-1.fc39                         updates"
     ],
     "kojiPackages": [
+        "php-8.2.18-1.fc39",
         "php-8.2.17-1.fc39",
         "php-8.2.16-1.fc39",
         "php-8.2.15-1.fc39",
