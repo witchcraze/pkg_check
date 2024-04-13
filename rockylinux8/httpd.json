@@ -13,9 +13,11 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64          2.4.37-62.module+el8.9.0+1436+2b7d5021           appstream"
+        "httpd.x86_64         2.4.37-56.module+el8.9.0+1780+0fd41399.7          appstream",
+        "httpd.x86_64         2.4.37-62.module+el8.9.0+1436+2b7d5021            appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.37-56.module+el8.9.0+1780+0fd41399.7",
         "httpd-2.4.37-64.module+el8.10.0+1717+030a9fed",
         "httpd-2.4.37-56.module+el8.8.0+1456+d0a01c5e.7",
         "httpd-2.4.37-62.module+el8.9.0+1436+2b7d5021",

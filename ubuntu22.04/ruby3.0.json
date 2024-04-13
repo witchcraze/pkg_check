@@ -119,6 +119,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.2-7ubuntu2.5",
         "3.0.2-7ubuntu2.4",
         "3.0.2-7ubuntu2.3",
         "3.0.2-7ubuntu2.2",

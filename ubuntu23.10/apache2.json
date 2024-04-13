@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.57-2ubuntu2.3",
+        "Version": "2.4.57-2ubuntu2.4",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,7 +11,7 @@
         "Installed-Size": "473 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.57-2ubuntu2.3), apache2-data (= 2.4.57-2ubuntu2.3), apache2-utils (= 2.4.57-2ubuntu2.3), lsb-base, media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.57-2ubuntu2.4), apache2-data (= 2.4.57-2ubuntu2.4), apache2-utils (= 2.4.57-2ubuntu2.4), lsb-base, media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
@@ -21,11 +21,11 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/mantic-updates 2.4.57-2ubuntu2.3 amd64",
-        "apache2/mantic-security 2.4.57-2ubuntu2.1 amd64",
+        "apache2/mantic-updates,mantic-security 2.4.57-2ubuntu2.4 amd64",
         "apache2/mantic 2.4.57-2ubuntu2 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.57-2ubuntu2.4) mantic-security; urgency=medium",
         "apache2 (2.4.57-2ubuntu2.3) mantic; urgency=medium",
         "apache2 (2.4.57-2ubuntu2.2) mantic; urgency=medium",
         "apache2 (2.4.57-2ubuntu2.1) mantic-security; urgency=medium",
@@ -460,6 +460,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.57-2ubuntu2.4",
         "2.4.57-2ubuntu2.3",
         "2.4.57-2ubuntu2.2",
         "2.4.57-2ubuntu2.1",

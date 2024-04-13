@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "dotnet7.0",
-        "Version": "7.0.117",
-        "Release": "1.0.1.el9_3",
+        "Version": "7.0.118",
+        "Release": "1.el9_3",
         "Architecture": "src",
-        "Size": "489 M",
+        "Size": "494 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": ".NET Runtime and SDK",
@@ -33,6 +33,7 @@
         "dotnet7.0.src          7.0.114-1.0.1.el9_3                         ol9_appstream",
         "dotnet7.0.src          7.0.115-1.0.1.el9_3                         ol9_appstream",
         "dotnet7.0.src          7.0.116-1.0.1.el9_3                         ol9_appstream",
-        "dotnet7.0.src          7.0.117-1.0.1.el9_3                         ol9_appstream"
+        "dotnet7.0.src          7.0.117-1.0.1.el9_3                         ol9_appstream",
+        "dotnet7.0.src          7.0.118-1.el9_3                             ol9_appstream"
     ]
 }
