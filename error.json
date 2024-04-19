@@ -1,15 +1,24 @@
 {
     "debian": {
         "11": {
+            "apache2": [
+                "apt-get changelog"
+            ],
             "php7.4": [
                 "apt-get changelog"
             ]
         },
         "12": {
+            "apache2": [
+                "apt-get changelog"
+            ],
             "nodejs": [
                 "apt-get changelog"
             ],
             "php8.2": [
+                "apt-get changelog"
+            ],
+            "tomcat10": [
                 "apt-get changelog"
             ]
         }

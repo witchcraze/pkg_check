@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "18.13.0+dfsg1-1ubuntu2.1",
+        "Version": "18.13.0+dfsg1-1ubuntu2.2",
         "Priority": "extra",
         "Section": "universe/web",
         "Origin": "Ubuntu",
@@ -9,8 +9,8 @@
         "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "3797 kB",
-        "Provides": "node-types-node (= 18.11.18~18.13.0+dfsg1-1ubuntu2.1)",
-        "Depends": "libc6 (>= 2.34), libnode108 (= 18.13.0+dfsg1-1ubuntu2.1)",
+        "Provides": "node-types-node (= 18.11.18~18.13.0+dfsg1-1ubuntu2.2)",
+        "Depends": "libc6 (>= 2.34), libnode108 (= 18.13.0+dfsg1-1ubuntu2.2)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Conflicts": "nodejs-legacy",
@@ -22,10 +22,11 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/mantic-updates,mantic-security 18.13.0+dfsg1-1ubuntu2.1 amd64",
+        "nodejs/mantic-updates,mantic-security 18.13.0+dfsg1-1ubuntu2.2 amd64",
         "nodejs/mantic 18.13.0+dfsg1-1ubuntu2 amd64"
     ],
     "changelog": [
+        "nodejs (18.13.0+dfsg1-1ubuntu2.2) mantic-security; urgency=medium",
         "nodejs (18.13.0+dfsg1-1ubuntu2.1) mantic-security; urgency=medium",
         "nodejs (18.13.0+dfsg1-1ubuntu2) lunar; urgency=medium",
         "nodejs (18.13.0+dfsg1-1ubuntu1) lunar; urgency=low",
@@ -374,6 +375,7 @@
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "18.13.0+dfsg1-1ubuntu2.2",
         "18.13.0+dfsg1-1ubuntu2.1",
         "18.13.0+dfsg1-1ubuntu2"
     ]
