@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "python3.8",
+        "Version": "3.8.19",
+        "Release": "2.fc40",
+        "Architecture": "x86_64",
+        "Size": "17 M",
+        "Source": "python3.8-3.8.19-2.fc40.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.8 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.8 package for developers."
+    },
+    "list": [
+        "python3.8.i686                        3.8.18-7.fc40                      fedora",
+        "python3.8.x86_64                      3.8.18-7.fc40                      fedora",
+        "python3.8.i686                        3.8.19-2.fc40                      updates",
+        "python3.8.x86_64                      3.8.19-2.fc40                      updates"
+    ],
+    "kojiPackages": [
+        "python3.8-3.8.19-2.fc40",
+        "python3.8-3.8.19-1.fc40",
+        "python3.8-3.8.18-7.fc40",
+        "python3.8-3.8.18-6.fc40",
+        "python3.8-3.8.18-5.fc40",
+        "python3.8-3.8.18-4.fc40",
+        "python3.8-3.8.18-3.fc40",
+        "python3.8-3.8.18-2.fc40",
+        "python3.8-3.8.18-1.fc40"
+    ]
+}

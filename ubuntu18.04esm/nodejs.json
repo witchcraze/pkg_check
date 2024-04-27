@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "8.10.0~dfsg-2ubuntu0.4+esm4",
+        "Version": "8.10.0~dfsg-2ubuntu0.4+esm5",
         "Priority": "optional",
         "Section": "javascript",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -17,12 +17,13 @@
         "Description": "evented I/O for V8 javascript"
     },
     "list": [
-        "nodejs/bionic-apps-security 8.10.0~dfsg-2ubuntu0.4+esm4 amd64",
+        "nodejs/bionic-apps-security 8.10.0~dfsg-2ubuntu0.4+esm5 amd64",
         "nodejs/bionic-updates 8.10.0~dfsg-2ubuntu0.4 amd64",
         "nodejs/bionic-security 8.10.0~dfsg-2ubuntu0.2 amd64",
         "nodejs/bionic 8.10.0~dfsg-2 amd64"
     ],
     "changelog": [
+        "nodejs (8.10.0~dfsg-2ubuntu0.4+esm5) bionic-security; urgency=medium",
         "nodejs (8.10.0~dfsg-2ubuntu0.4+esm4) bionic-security; urgency=medium",
         "nodejs (8.10.0~dfsg-2ubuntu0.4+esm3) bionic-security; urgency=medium",
         "nodejs (8.10.0~dfsg-2ubuntu0.4+esm2) bionic-security; urgency=medium",
@@ -31,8 +32,7 @@
         "nodejs (8.10.0~dfsg-2ubuntu0.3) bionic; urgency=medium",
         "nodejs (8.10.0~dfsg-2ubuntu0.2) bionic-security; urgency=medium",
         "nodejs (8.10.0~dfsg-2) experimental; urgency=medium",
-        "nodejs (8.10.0~dfsg-1) experimental; urgency=medium",
-        "nodejs (8.9.3~dfsg-12) unstable; urgency=medium"
+        "nodejs (8.10.0~dfsg-1) experimental; urgency=medium"
     ],
     "publishinghistory": []
 }

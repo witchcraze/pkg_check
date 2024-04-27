@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.59",
+        "Release": "2.fc40",
+        "Architecture": "x86_64",
+        "Size": "50 k",
+        "Source": "httpd-2.4.59-2.fc40.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "Apache-2.0 AND (BSD-3-Clause AND metamail AND HPND-sell-variant AND Spencer-94)",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.i686                          2.4.58-7.fc40                        fedora",
+        "httpd.x86_64                        2.4.58-7.fc40                        fedora",
+        "httpd.x86_64                        2.4.59-2.fc40                        updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.59-2.fc40",
+        "httpd-2.4.58-7.fc40",
+        "httpd-2.4.58-6.fc40",
+        "httpd-2.4.58-5.fc40",
+        "httpd-2.4.58-4.fc40",
+        "httpd-2.4.58-3.fc40",
+        "httpd-2.4.58-2.fc40",
+        "httpd-2.4.58-1.fc40"
+    ]
+}

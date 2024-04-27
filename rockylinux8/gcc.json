@@ -16,6 +16,7 @@
         "gcc.x86_64                        8.5.0-20.el8                         appstream"
     ],
     "kojiPackages": [
+        "gcc-8.5.0-22.el8_10",
         "gcc-8.5.0-21.el8",
         "gcc-8.5.0-20.el8",
         "gcc-8.5.0-19.el8",

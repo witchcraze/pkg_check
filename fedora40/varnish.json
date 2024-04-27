@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "7.4.2",
+        "Release": "2.fc40",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "varnish-7.4.2-2.fc40.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD-2-Clause AND (BSD-2-Clause-FreeBSD AND BSD-3-Clause AND LicenseRef-Fedora-Public-Domain AND Zlib)",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.i686                          7.4.2-2.fc40                        fedora",
+        "varnish.x86_64                        7.4.2-2.fc40                        fedora"
+    ],
+    "kojiPackages": [
+        "varnish-7.4.2-2.fc40",
+        "varnish-7.4.2-1.fc40"
+    ]
+}

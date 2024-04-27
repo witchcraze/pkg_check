@@ -18,6 +18,7 @@
         "bind.x86_64                      32:9.18.24-1.fc39                       updates"
     ],
     "kojiPackages": [
+        "bind-9.18.26-1.fc39",
         "bind-9.18.24-1.fc39",
         "bind-9.18.21-2.fc39",
         "bind-9.18.21-1.fc39",

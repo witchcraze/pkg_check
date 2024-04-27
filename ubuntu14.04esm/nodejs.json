@@ -3,21 +3,22 @@
         "Package": "nodejs",
         "Priority": "extra",
         "Section": "web",
-        "Installed-Size": "3120 kB",
+        "Installed-Size": "3121 kB",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Version": "0.10.25~dfsg2-2ubuntu1.2+esm1",
+        "Version": "0.10.25~dfsg2-2ubuntu1.2+esm2",
         "Depends": "libc-ares2 (>= 1.8.0), libc6 (>= 2.14), libssl1.0.0 (>= 1.0.1), libstdc++6 (>= 4.1.1), libv8-3.14.5, zlib1g (>= 1:1.1.4)",
-        "Download-Size": "686 kB",
+        "Download-Size": "687 kB",
         "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "evented I/O for V8 javascript"
     },
     "list": [
-        "nodejs/trusty-infra-security 0.10.25~dfsg2-2ubuntu1.2+esm1 amd64",
+        "nodejs/trusty-infra-security 0.10.25~dfsg2-2ubuntu1.2+esm2 amd64",
         "nodejs/trusty-updates,trusty-security 0.10.25~dfsg2-2ubuntu1.2 amd64",
         "nodejs/trusty 0.10.25~dfsg2-2ubuntu1 amd64"
     ],
     "changelog": [
+        "nodejs (0.10.25~dfsg2-2ubuntu1.2+esm2) trusty-security; urgency=medium",
         "nodejs (0.10.25~dfsg2-2ubuntu1.2+esm1) trusty-security; urgency=medium",
         "nodejs (0.10.25~dfsg2-2ubuntu1.2) trusty-security; urgency=medium",
         "nodejs (0.10.25~dfsg2-2ubuntu1) trusty; urgency=medium",
@@ -26,8 +27,7 @@
         "nodejs (0.10.25~dfsg1-1) unstable; urgency=medium",
         "nodejs (0.10.24~dfsg1-1) unstable; urgency=medium",
         "nodejs (0.10.23~dfsg1-3) unstable; urgency=medium",
-        "nodejs (0.10.23~dfsg1-2) unstable; urgency=medium",
-        "nodejs (0.10.23~dfsg1-1) unstable; urgency=medium"
+        "nodejs (0.10.23~dfsg1-2) unstable; urgency=medium"
     ],
     "publishinghistory": []
 }

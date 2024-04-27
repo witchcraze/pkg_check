@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "dotnet",
+        "Version": "6.0.129",
+        "Release": "1.fc40",
+        "Architecture": "x86_64",
+        "Size": "9.9 k",
+        "Source": "dotnet6.0-6.0.129-1.fc40.src.rpm",
+        "Repository": "updates",
+        "Summary": ".NET CLI tools and runtime",
+        "URL": "https://github.com/dotnet/",
+        "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
+        "Description": ".NET is a fast, lightweight and modular platform for creating"
+    },
+    "list": [
+        "dotnet.x86_64                       6.0.127-2.fc40                       fedora",
+        "dotnet.x86_64                       6.0.129-1.fc40                       updates"
+    ]
+}

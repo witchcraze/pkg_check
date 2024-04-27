@@ -3,7 +3,7 @@
         "Name": "php",
         "Arch": "x86_64",
         "Version": "5.4.16",
-        "Release": "46.amzn2.0.3",
+        "Release": "46.amzn2.0.5",
         "Size": "1.4 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "PHP scripting language for creating dynamic web sites",
@@ -20,6 +20,7 @@
         "php.x86_64                    5.4.16-45.amzn2.0.5                     amzn2-core",
         "php.x86_64                    5.4.16-45.amzn2.0.6                     amzn2-core",
         "php.x86_64                    5.4.16-46.amzn2.0.2                     amzn2-core",
-        "php.x86_64                    5.4.16-46.amzn2.0.3                     amzn2-core"
+        "php.x86_64                    5.4.16-46.amzn2.0.3                     amzn2-core",
+        "php.x86_64                    5.4.16-46.amzn2.0.5                     amzn2-core"
     ]
 }

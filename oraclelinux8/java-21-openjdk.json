@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.2.0.13",
+        "Version": "21.0.3.0.9",
         "Release": "1.0.1.el8",
         "Architecture": "x86_64",
-        "Size": "438 k",
-        "Source": "java-21-openjdk-21.0.2.0.13-1.0.1.el8.src.rpm",
+        "Size": "443 k",
+        "Source": "java-21-openjdk-21.0.3.0.9-1.0.1.el8.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,6 +17,8 @@
         "java-21-openjdk.src                                            1:21.0.1.0.12-2.0.1.el8                                         ol8_appstream",
         "java-21-openjdk.x86_64                                         1:21.0.1.0.12-2.0.1.el8                                         ol8_appstream",
         "java-21-openjdk.src                                            1:21.0.2.0.13-1.0.1.el8                                         ol8_appstream",
-        "java-21-openjdk.x86_64                                         1:21.0.2.0.13-1.0.1.el8                                         ol8_appstream"
+        "java-21-openjdk.x86_64                                         1:21.0.2.0.13-1.0.1.el8                                         ol8_appstream",
+        "java-21-openjdk.src                                            1:21.0.3.0.9-1.0.1.el8                                          ol8_appstream",
+        "java-21-openjdk.x86_64                                         1:21.0.3.0.9-1.0.1.el8                                          ol8_appstream"
     ]
 }

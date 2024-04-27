@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.13",
-        "Version": "3.13.0~a5",
+        "Version": "3.13.0~a6",
         "Release": "2.fc39",
         "Architecture": "x86_64",
         "Size": "25 k",
-        "Source": "python3.13-3.13.0~a5-2.fc39.src.rpm",
+        "Source": "python3.13-3.13.0~a6-2.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.13 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,8 +13,8 @@
         "Description": "Python 3.13 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.13.i686                      3.13.0~a5-2.fc39                    updates",
-        "python3.13.x86_64                    3.13.0~a5-2.fc39                    updates"
+        "python3.13.i686                      3.13.0~a6-2.fc39                    updates",
+        "python3.13.x86_64                    3.13.0~a6-2.fc39                    updates"
     ],
     "kojiPackages": [
         "python3.13-3.13.0~a6-2.fc39",

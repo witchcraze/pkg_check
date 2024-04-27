@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.29-1ubuntu4.27+esm1",
+        "Version": "2.4.29-1ubuntu4.27+esm2",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -9,7 +9,7 @@
         "Installed-Size": "538 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.29-1ubuntu4.27+esm1), apache2-utils (= 2.4.29-1ubuntu4.27+esm1), apache2-data (= 2.4.29-1ubuntu4.27+esm1), perl:any",
+        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.29-1ubuntu4.27+esm2), apache2-utils (= 2.4.29-1ubuntu4.27+esm2), apache2-data (= 2.4.29-1ubuntu4.27+esm2), perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "www-browser, apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -19,11 +19,12 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/bionic-infra-security 2.4.29-1ubuntu4.27+esm1 amd64",
+        "apache2/bionic-infra-security 2.4.29-1ubuntu4.27+esm2 amd64",
         "apache2/bionic-updates,bionic-security 2.4.29-1ubuntu4.27 amd64",
         "apache2/bionic 2.4.29-1ubuntu4 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.29-1ubuntu4.27+esm2) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm1) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.26) bionic-security; urgency=medium",
@@ -32,8 +33,7 @@
         "apache2 (2.4.29-1ubuntu4.23) bionic; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.22) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.21) bionic-security; urgency=medium",
-        "apache2 (2.4.29-1ubuntu4.20) bionic; urgency=medium",
-        "apache2 (2.4.29-1ubuntu4.19) bionic; urgency=medium"
+        "apache2 (2.4.29-1ubuntu4.20) bionic; urgency=medium"
     ],
     "publishinghistory": []
 }

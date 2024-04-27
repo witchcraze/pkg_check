@@ -19,6 +19,7 @@
         "httpd.x86_64                        2.4.58-1.fc38                        updates"
     ],
     "kojiPackages": [
+        "httpd-2.4.59-2.fc38",
         "httpd-2.4.58-1.fc38",
         "httpd-2.4.57-1.fc38",
         "httpd-2.4.56-1.fc38",

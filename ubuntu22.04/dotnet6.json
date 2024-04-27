@@ -3,7 +3,7 @@
         "Package": "dotnet6",
         "Version": "6.0.128-0ubuntu1~22.04.2",
         "Priority": "optional",
-        "Section": "universe/devel",
+        "Section": "devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
@@ -11,7 +11,7 @@
         "Depends": "dotnet-sdk-6.0",
         "Homepage": "https://dot.net/core",
         "Download-Size": "20.7 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [
@@ -51,9 +51,10 @@
         "dotnet6 (6.0.106-0ubuntu1) kinetic; urgency=medium"
     ],
     "publishinghistory": [
+        "6.0.129-0ubuntu1~22.04.1",
+        "6.0.127-0ubuntu1~22.04.1",
         "6.0.128-0ubuntu1~22.04.2",
         "6.0.128-0ubuntu1~22.04.1",
-        "6.0.127-0ubuntu1~22.04.1",
         "6.0.126-0ubuntu1~22.04.1",
         "6.0.125-0ubuntu1~22.04.1",
         "6.0.124-0ubuntu1~22.04.1",

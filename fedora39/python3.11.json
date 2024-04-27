@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.11",
-        "Version": "3.11.8",
+        "Version": "3.11.9",
         "Release": "2.fc39",
         "Architecture": "x86_64",
-        "Size": "28 k",
-        "Source": "python3.11-3.11.8-2.fc39.src.rpm",
+        "Size": "27 k",
+        "Source": "python3.11-3.11.9-2.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,10 +15,11 @@
     "list": [
         "python3.11.i686                       3.11.5-1.fc39                      fedora",
         "python3.11.x86_64                     3.11.5-1.fc39                      fedora",
-        "python3.11.i686                       3.11.8-2.fc39                      updates",
-        "python3.11.x86_64                     3.11.8-2.fc39                      updates"
+        "python3.11.i686                       3.11.9-2.fc39                      updates",
+        "python3.11.x86_64                     3.11.9-2.fc39                      updates"
     ],
     "kojiPackages": [
+        "python3.11-3.11.9-2.fc39",
         "python3.11-3.11.9-1.fc39",
         "python3.11-3.11.8-2.fc39",
         "python3.11-3.11.8-1.fc39",

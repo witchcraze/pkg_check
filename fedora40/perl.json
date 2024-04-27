@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.38.2",
+        "Release": "506.fc40",
+        "Architecture": "x86_64",
+        "Size": "14 k",
+        "Source": "perl-5.38.2-506.fc40.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL-1.0-or-later OR Artistic-1.0-Perl",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
+    },
+    "list": [
+        "perl.x86_64                       4:5.38.2-506.fc40                       fedora"
+    ],
+    "kojiPackages": [
+        "perl-5.38.2-506.fc40app1",
+        "perl-5.38.2-506.fc40",
+        "perl-5.38.2-505.fc40",
+        "perl-5.38.2-504.fc40",
+        "perl-5.38.2-503.fc40",
+        "perl-5.38.0-502.fc40",
+        "perl-5.38.0-501.fc40"
+    ]
+}

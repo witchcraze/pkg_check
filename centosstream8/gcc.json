@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "8.5.0",
-        "Release": "21.el8",
+        "Release": "22.el8",
         "Architecture": "x86_64",
         "Size": "23 M",
-        "Source": "gcc-8.5.0-21.el8.src.rpm",
+        "Source": "gcc-8.5.0-22.el8.src.rpm",
         "Repository": "baseos",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -18,13 +18,14 @@
         "gcc.x86_64                        8.5.0-13.el8                         appstream",
         "gcc.x86_64                        8.5.0-14.el8                         appstream",
         "gcc.x86_64                        8.5.0-15.el8                         appstream",
-        "gcc.x86_64                        8.5.0-17.el8                         baseos",
         "gcc.x86_64                        8.5.0-18.el8                         baseos",
         "gcc.x86_64                        8.5.0-19.el8                         baseos",
         "gcc.x86_64                        8.5.0-20.el8                         baseos",
-        "gcc.x86_64                        8.5.0-21.el8                         baseos"
+        "gcc.x86_64                        8.5.0-21.el8                         baseos",
+        "gcc.x86_64                        8.5.0-22.el8                         baseos"
     ],
     "kojiPackages": [
+        "gcc-8.5.0-22.el8",
         "gcc-8.5.0-21.el8",
         "gcc-8.5.0-20.el8",
         "gcc-8.5.0-19.el8",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.17",
+        "Version": "8.2.18",
         "Release": "1.fc38",
         "Architecture": "x86_64",
         "Size": "12 k",
-        "Source": "php-8.2.17-1.fc38.src.rpm",
+        "Source": "php-8.2.18-1.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "php.x86_64                         8.2.4-1.fc38                          fedora",
-        "php.x86_64                         8.2.17-1.fc38                         updates"
+        "php.x86_64                         8.2.18-1.fc38                         updates"
     ],
     "kojiPackages": [
         "php-8.2.18-1.fc38",

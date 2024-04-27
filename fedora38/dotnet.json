@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet",
-        "Version": "6.0.128",
+        "Version": "6.0.129",
         "Release": "1.fc38",
         "Architecture": "x86_64",
-        "Size": "9.8 k",
-        "Source": "dotnet6.0-6.0.128-1.fc38.src.rpm",
+        "Size": "9.9 k",
+        "Source": "dotnet6.0-6.0.129-1.fc38.src.rpm",
         "Repository": "updates",
         "Summary": ".NET CLI tools and runtime",
         "URL": "https://github.com/dotnet/",
@@ -14,6 +14,6 @@
     },
     "list": [
         "dotnet.x86_64                       6.0.115-1.fc38                       fedora",
-        "dotnet.x86_64                       6.0.128-1.fc38                       updates"
+        "dotnet.x86_64                       6.0.129-1.fc38                       updates"
     ]
 }
