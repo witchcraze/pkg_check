@@ -17,6 +17,7 @@
         "java-1.8.0-openjdk.x86_64             1:1.8.0.402.b06-2.fc40              fedora"
     ],
     "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.412.b06-1.fc40",
         "java-1.8.0-openjdk-1.8.0.402.b06-2.fc40",
         "java-1.8.0-openjdk-1.8.0.402.b06-1.fc40.1",
         "java-1.8.0-openjdk-1.8.0.402.b06-1.fc40",

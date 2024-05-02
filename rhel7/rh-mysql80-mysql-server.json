@@ -2,7 +2,7 @@
     "info": {
         "Name": "rh-mysql80-mysql-server",
         "Arch": "x86_64",
-        "Version": "8.0.32",
+        "Version": "8.0.36",
         "Release": "1.el7",
         "Size": "34 M",
         "Repo": "rhel-server-rhscl-7-rpms/7Server/x86_64",
@@ -17,6 +17,7 @@
         "rh-mysql80-mysql-server.x86_64       8.0.21-1.el7       rhel-server-rhscl-7-rpms",
         "rh-mysql80-mysql-server.x86_64       8.0.26-1.el7       rhel-server-rhscl-7-rpms",
         "rh-mysql80-mysql-server.x86_64       8.0.30-1.el7       rhel-server-rhscl-7-rpms",
-        "rh-mysql80-mysql-server.x86_64       8.0.32-1.el7       rhel-server-rhscl-7-rpms"
+        "rh-mysql80-mysql-server.x86_64       8.0.32-1.el7       rhel-server-rhscl-7-rpms",
+        "rh-mysql80-mysql-server.x86_64       8.0.36-1.el7       rhel-server-rhscl-7-rpms"
     ]
 }

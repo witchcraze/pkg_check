@@ -17,6 +17,7 @@
         "java-11-openjdk.x86_64               1:11.0.22.0.7-2.fc40.1               fedora"
     ],
     "kojiPackages": [
+        "java-11-openjdk-11.0.23.0.9-1.fc40",
         "java-11-openjdk-11.0.22.0.7-2.fc40.1",
         "java-11-openjdk-11.0.22.0.7-2.fc40",
         "java-11-openjdk-11.0.22.0.7-1.fc40.1",

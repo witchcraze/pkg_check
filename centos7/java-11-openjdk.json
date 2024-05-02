@@ -3,8 +3,8 @@
         "Name": "java-11-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "11.0.22.0.7",
-        "Release": "1.el7_9",
+        "Version": "11.0.23.0.9",
+        "Release": "2.el7_9",
         "Size": "243 k",
         "Repo": "updates/7/x86_64",
         "Summary": "OpenJDK 11 Runtime Environment",
@@ -74,6 +74,8 @@
         "java-11-openjdk.i686           1:11.0.21.0.9-1.el7_9           updates",
         "java-11-openjdk.x86_64         1:11.0.21.0.9-1.el7_9           updates",
         "java-11-openjdk.i686           1:11.0.22.0.7-1.el7_9           updates",
-        "java-11-openjdk.x86_64         1:11.0.22.0.7-1.el7_9           updates"
+        "java-11-openjdk.x86_64         1:11.0.22.0.7-1.el7_9           updates",
+        "java-11-openjdk.i686           1:11.0.23.0.9-2.el7_9           updates",
+        "java-11-openjdk.x86_64         1:11.0.23.0.9-2.el7_9           updates"
     ]
 }

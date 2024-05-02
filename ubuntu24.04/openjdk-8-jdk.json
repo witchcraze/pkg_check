@@ -20,7 +20,7 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-8-jdk/noble 8u402-ga-8build1 amd64"
+        "openjdk-8-jdk/noble,noble-updates 8u402-ga-8build1 amd64"
     ],
     "changelog": [
         "openjdk-8 (8u402-ga-8build1) noble; urgency=medium",
