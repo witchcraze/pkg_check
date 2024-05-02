@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "7",
         "Version": "3.5.20",
-        "Release": "17.54.amzn1",
+        "Release": "17.55.amzn1",
         "Size": "3.7 M",
         "Repo": "amzn-updates/latest",
         "Summary": "The Squid proxy caching server",
@@ -29,6 +29,7 @@
         "squid.x86_64                  7:3.5.20-17.51.amzn1                  amzn-updates",
         "squid.x86_64                  7:3.5.20-17.52.amzn1                  amzn-updates",
         "squid.x86_64                  7:3.5.20-17.53.amzn1                  amzn-updates",
-        "squid.x86_64                  7:3.5.20-17.54.amzn1                  amzn-updates"
+        "squid.x86_64                  7:3.5.20-17.54.amzn1                  amzn-updates",
+        "squid.x86_64                  7:3.5.20-17.55.amzn1                  amzn-updates"
     ]
 }

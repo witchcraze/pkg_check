@@ -13,7 +13,6 @@
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
         "Task": "ubuntu-budgie-desktop, ubuntu-budgie-desktop-raspi",
-        "Phased-Update-Percentage": "50",
         "Download-Size": "50.1 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"

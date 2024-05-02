@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "16.1",
+        "Release": "1.module+el9.4.0+21089+0ca8f31a",
+        "Architecture": "x86_64",
+        "Size": "1.9 M",
+        "Source": "postgresql-16.1-1.module+el9.4.0+21089+0ca8f31a.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64                           16.1-1.module+el9.4.0+21089+0ca8f31a                            rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

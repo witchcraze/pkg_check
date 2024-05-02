@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "50",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

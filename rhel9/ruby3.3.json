@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.3.0",
+        "Release": "1.module+el9.4.0+21222+faeeed2f",
+        "Architecture": "x86_64",
+        "Size": "40 k",
+        "Source": "ruby-3.3.0-1.module+el9.4.0+21222+faeeed2f.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby OR BSD-2-Clause) AND BSD-3-Clause AND ISC AND Public Domain AND MIT and CC0 AND zlib AND Unicode-DFS-2015",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686                                3.3.0-1.module+el9.4.0+21222+faeeed2f                              rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64                              3.3.0-1.module+el9.4.0+21222+faeeed2f                              rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

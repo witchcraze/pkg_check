@@ -17,6 +17,7 @@
         "nginx.x86_64                       1:1.24.0-8.fc40                        fedora"
     ],
     "kojiPackages": [
+        "nginx-1.26.0-1.fc40",
         "nginx-1.24.0-8.fc40",
         "nginx-1.24.0-7.fc40"
     ]

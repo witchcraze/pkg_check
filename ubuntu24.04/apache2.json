@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.58-1ubuntu8",
+        "Version": "2.4.58-1ubuntu8.1",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,19 +11,21 @@
         "Installed-Size": "464 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.58-1ubuntu8), apache2-data (= 2.4.58-1ubuntu8), apache2-utils (= 2.4.58-1ubuntu8), media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.58-1ubuntu8.1), apache2-data (= 2.4.58-1ubuntu8.1), apache2-utils (= 2.4.58-1ubuntu8.1), media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "90.2 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
+        "apache2/noble-updates,noble-security 2.4.58-1ubuntu8.1 amd64",
         "apache2/noble 2.4.58-1ubuntu8 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.58-1ubuntu8.1) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8) noble; urgency=medium",
         "apache2 (2.4.58-1ubuntu7) noble; urgency=medium",
         "apache2 (2.4.58-1ubuntu6) noble; urgency=medium",
@@ -466,6 +468,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.58-1ubuntu8.1",
         "2.4.58-1ubuntu8",
         "2.4.58-1ubuntu7",
         "2.4.58-1ubuntu6",
