@@ -13,7 +13,7 @@
         "Download-Size": "3912 kB",
         "SHA512": "0df43ec2e91ec34587d58e147fea0f691e854a721d59e71363924be57ed81e46a0d74209d056a6c447a4c333d0587a765730ab70ecdc10f16244015f9b44ca84",
         "Homepage": "http://www.rabbitmq.com/",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },

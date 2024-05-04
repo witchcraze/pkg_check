@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.2.2",
-        "Release": "180.fc38",
+        "Version": "3.2.4",
+        "Release": "182.fc38",
         "Architecture": "x86_64",
-        "Size": "42 k",
-        "Source": "ruby-3.2.2-180.fc38.src.rpm",
+        "Size": "39 k",
+        "Source": "ruby-3.2.4-182.fc38.src.rpm",
         "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -15,8 +15,8 @@
     "list": [
         "ruby.i686                          3.2.1-179.fc38                        fedora",
         "ruby.x86_64                        3.2.1-179.fc38                        fedora",
-        "ruby.i686                          3.2.2-180.fc38                        updates",
-        "ruby.x86_64                        3.2.2-180.fc38                        updates"
+        "ruby.i686                          3.2.4-182.fc38                        updates",
+        "ruby.x86_64                        3.2.4-182.fc38                        updates"
     ],
     "kojiPackages": [
         "ruby-3.2.4-182.fc38",

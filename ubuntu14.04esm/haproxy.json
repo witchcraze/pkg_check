@@ -14,7 +14,7 @@
         "Download-Size": "417 kB",
         "SHA512": "26ef48b7f24d0f4783e2ee4ef1262d0405b0359be0522bbbc929ee8676d84f59bcfdd56153fce2c07df8764249607230b59704673ed29e436ec4c28b583dfc70",
         "Homepage": "http://haproxy.1wt.eu/",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },

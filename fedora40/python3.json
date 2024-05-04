@@ -1,21 +1,23 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.12.2",
+        "Version": "3.12.3",
         "Release": "2.fc40",
         "Architecture": "i686",
         "Size": "27 k",
-        "Source": "python3.12-3.12.2-2.fc40.src.rpm",
-        "Repository": "fedora",
-        "From repo": "2c98ee0d5281429683938d93eb2a9aa4",
+        "Source": "python3.12-3.12.3-2.fc40.src.rpm",
+        "Repository": "updates",
+        "From repo": "updates",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64          3.12.2-2.fc40          @2c98ee0d5281429683938d93eb2a9aa4",
-        "python3.i686            3.12.2-2.fc40          fedora",
-        "python3.x86_64          3.12.2-2.fc40          fedora"
+        "python3.x86_64                      3.12.3-2.fc40                       @updates",
+        "python3.i686                        3.12.2-2.fc40                       fedora",
+        "python3.x86_64                      3.12.2-2.fc40                       fedora",
+        "python3.i686                        3.12.3-2.fc40                       updates",
+        "python3.x86_64                      3.12.3-2.fc40                       updates"
     ]
 }

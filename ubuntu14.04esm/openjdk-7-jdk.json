@@ -17,7 +17,7 @@
         "Download-Size": "16.0 MB",
         "SHA512": "9b7991debef288e132a464bcc5befa28d1b7b6a813a84dc5902c0501ed1e1d4387d31a011784029df12d4c50269d4db44069fe1dbde44914c1056acf8a5ba572",
         "Homepage": "http://openjdk.java.net/",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
