@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "18.19.1",
-        "Release": "1.module+el9.3.0+21388+22892fb9",
+        "Version": "18.20.2",
+        "Release": "2.module+el9.4.0+21742+692df1ea",
         "Architecture": "x86_64",
         "Size": "13 M",
-        "Source": "nodejs-18.19.1-1.module+el9.3.0+21388+22892fb9.src.rpm",
+        "Source": "nodejs-18.20.2-2.module+el9.4.0+21742+692df1ea.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -23,6 +23,7 @@
         "nodejs.x86_64                          1:18.17.1-1.module+el9.2.0.z+19753+58118bc0                          rhel-9-for-x86_64-appstream-rpms",
         "nodejs.x86_64                          1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5                          rhel-9-for-x86_64-appstream-rpms",
         "nodejs.x86_64                          1:18.19.0-1.module+el9.3.0+21155+b47e208c                            rhel-9-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                          1:18.19.1-1.module+el9.3.0+21388+22892fb9                            rhel-9-for-x86_64-appstream-rpms"
+        "nodejs.x86_64                          1:18.19.1-1.module+el9.3.0+21388+22892fb9                            rhel-9-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                          1:18.20.2-2.module+el9.4.0+21742+692df1ea                            rhel-9-for-x86_64-appstream-rpms"
     ]
 }

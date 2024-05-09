@@ -38,6 +38,7 @@
         "golang.x86_64          1.21.7-2.module_el8+1005+ea39424f               appstream"
     ],
     "kojiPackages": [
+        "golang-1.22.2-1.module_el8+1040+2bd3f270",
         "golang-1.21.7-2.module_el8+1005+ea39424f",
         "golang-1.21.7-1.module_el8+960+4060efbe",
         "golang-1.21.3-4.module_el8+763+faa081a7",

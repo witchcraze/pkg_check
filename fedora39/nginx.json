@@ -2,19 +2,20 @@
     "info": {
         "Name": "nginx",
         "Epoch": "1",
-        "Version": "1.24.0",
-        "Release": "4.fc39",
+        "Version": "1.26.0",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Size": "33 k",
-        "Source": "nginx-1.24.0-4.fc39.src.rpm",
-        "Repository": "fedora",
+        "Size": "32 k",
+        "Source": "nginx-1.26.0-1.fc39.src.rpm",
+        "Repository": "updates",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
-        "License": "BSD",
+        "License": "BSD-2-Clause",
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                       1:1.24.0-4.fc39                        fedora"
+        "nginx.x86_64                       1:1.24.0-4.fc39                       fedora",
+        "nginx.x86_64                       1:1.26.0-1.fc39                       updates"
     ],
     "kojiPackages": [
         "nginx-1.26.0-1.fc39",

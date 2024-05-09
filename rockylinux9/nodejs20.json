@@ -17,6 +17,7 @@
         "nodejs.x86_64        1:20.11.1-1.module+el9.3.0+19150+4fe949ef         appstream"
     ],
     "kojiPackages": [
+        "nodejs-20.11.1-1.module+el9.4.0+19932+a5bb191c",
         "nodejs-20.11.1-1.module+el9.3.0+19150+4fe949ef",
         "nodejs-20.11.0-1.module+el9.3.0+18176+ca32d882",
         "nodejs-20.9.0-1.module+el9.3.0+15899+0a70ceb7",

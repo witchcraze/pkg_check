@@ -17,6 +17,7 @@
         "ruby.x86_64                      3.0.4-160.el9_0                       appstream"
     ],
     "kojiPackages": [
+        "ruby-3.0.4-161.el9",
         "ruby-3.0.4-160.el9_0"
     ]
 }

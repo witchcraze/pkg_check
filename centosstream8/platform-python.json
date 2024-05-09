@@ -2,10 +2,10 @@
     "info": {
         "Name": "platform-python",
         "Version": "3.6.8",
-        "Release": "59.el8",
+        "Release": "62.el8",
         "Architecture": "i686",
-        "Size": "87 k",
-        "Source": "python3-3.6.8-59.el8.src.rpm",
+        "Size": "88 k",
+        "Source": "python3-3.6.8-62.el8.src.rpm",
         "Repository": "appstream",
         "Summary": "Internal interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -13,9 +13,7 @@
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64                  3.6.8-59.el8                   @System",
-        "platform-python.i686                    3.6.8-55.el8                   appstream",
-        "platform-python.x86_64                  3.6.8-55.el8                   baseos",
+        "platform-python.x86_64                  3.6.8-62.el8                   @System",
         "platform-python.i686                    3.6.8-56.el8                   appstream",
         "platform-python.x86_64                  3.6.8-56.el8                   baseos",
         "platform-python.i686                    3.6.8-57.el8                   appstream",
@@ -23,7 +21,9 @@
         "platform-python.i686                    3.6.8-58.el8                   appstream",
         "platform-python.x86_64                  3.6.8-58.el8                   baseos",
         "platform-python.i686                    3.6.8-59.el8                   appstream",
-        "platform-python.x86_64                  3.6.8-59.el8                   baseos"
+        "platform-python.x86_64                  3.6.8-59.el8                   baseos",
+        "platform-python.i686                    3.6.8-62.el8                   appstream",
+        "platform-python.x86_64                  3.6.8-62.el8                   baseos"
     ],
     "kojiPackages": [
         "python3-3.6.8-62.el8",

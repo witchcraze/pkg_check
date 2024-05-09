@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3.12",
+        "Version": "3.12.1",
+        "Release": "4.el9",
+        "Architecture": "x86_64",
+        "Size": "30 k",
+        "Source": "python3.12-3.12.1-4.el9.src.rpm",
+        "Repository": "ol9_appstream",
+        "Summary": "Version 3.12 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.12.src                      3.12.1-4.el9                   ol9_appstream",
+        "python3.12.x86_64                   3.12.1-4.el9                   ol9_appstream"
+    ]
+}

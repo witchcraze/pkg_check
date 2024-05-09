@@ -1,15 +1,15 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.1.27",
-        "Release": "1.module+el9.3.0+90130+7e4e1ce0",
+        "Version": "8.2.13",
+        "Release": "1.module+el9.4.0+90261+af5cc950",
         "Architecture": "src",
         "Size": "12 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
-        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and Boost",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
@@ -25,6 +25,7 @@
         "php.x86_64         8.0.30-1.el9_2                                  ol9_appstream",
         "php.src            8.1.8-1.module+el9.1.0+20776+c1b960c0           ol9_appstream",
         "php.src            8.1.14-1.module+el9.2.0+20960+2088691d          ol9_appstream",
-        "php.src            8.1.27-1.module+el9.3.0+90130+7e4e1ce0          ol9_appstream"
+        "php.src            8.1.27-1.module+el9.3.0+90130+7e4e1ce0          ol9_appstream",
+        "php.src            8.2.13-1.module+el9.4.0+90261+af5cc950          ol9_appstream"
     ]
 }
