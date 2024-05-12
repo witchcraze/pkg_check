@@ -8,14 +8,13 @@
         "Size": "1.3 M",
         "Source": "openssl-3.0.7-27.0.3.el9_fips.src.rpm",
         "Repository": "ol9_u3_security_validation",
-        "From repo": "ol9_baseos_latest",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "ASL 2.0",
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
-        "openssl.x86_64       1:3.0.7-27.0.3.el9               @ol9_baseos_latest",
+        "openssl.x86_64       1:3.0.7-27.0.3.el9               @System",
         "openssl.src          1:3.0.1-20.el9_0                 ol9_baseos_latest",
         "openssl.src          1:3.0.1-20.el9_0                 ol9_appstream",
         "openssl.src          1:3.0.1-20.el9_0                 ol9_u0_baseos_base",

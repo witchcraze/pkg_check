@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "8.2.13",
+        "Release": "1.module_el9.4.0+65+49ff6472",
+        "Architecture": "x86_64",
+        "Size": "8.1 k",
+        "Source": "php-8.2.13-1.module_el9.4.0+65+49ff6472.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64                                           8.2.13-1.module_el9.4.0+65+49ff6472                                           appstream"
+    ]
+}
