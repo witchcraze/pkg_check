@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "429 k",
         "Source": "java-17-openjdk-17.0.11.0.9-2.el9.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
         "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
@@ -26,9 +26,10 @@
         "java-17-openjdk.x86_64                       1:17.0.7.0.7-1.el9_1                          repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "java-17-openjdk.x86_64                       1:17.0.7.0.7-3.el9.alma                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "java-17-openjdk.x86_64                       1:17.0.8.0.7-2.el9                            repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "java-17-openjdk.x86_64                       1:17.0.9.0.9-2.el9                            appstream",
         "java-17-openjdk.x86_64                       1:17.0.9.0.9-2.el9                            repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "java-17-openjdk.x86_64                       1:17.0.10.0.7-2.el9                           appstream",
-        "java-17-openjdk.x86_64                       1:17.0.11.0.9-2.el9                           appstream"
+        "java-17-openjdk.x86_64                       1:17.0.9.0.9-2.el9                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "java-17-openjdk.x86_64                       1:17.0.10.0.7-2.el9                           repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "java-17-openjdk.x86_64                       1:17.0.11.0.9-2.el9                           appstream",
+        "java-17-openjdk.x86_64                       1:17.0.11.0.9-2.el9                           repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
     ]
 }

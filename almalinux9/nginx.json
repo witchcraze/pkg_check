@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "36 k",
         "Source": "nginx-1.20.1-14.el9_2.1.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
         "License": "BSD",
@@ -19,6 +19,7 @@
         "nginx.x86_64                          1:1.20.1-14.el9.alma                                 repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "nginx.x86_64                          1:1.20.1-14.el9.alma.1                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "nginx.x86_64                          1:1.20.1-14.el9_2.1.alma.1                           appstream",
-        "nginx.x86_64                          1:1.20.1-14.el9_2.1.alma.1                           repo.almalinux.org_vault_9.2_AppStream_x86_64_os_"
+        "nginx.x86_64                          1:1.20.1-14.el9_2.1.alma.1                           repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "nginx.x86_64                          1:1.20.1-14.el9_2.1.alma.1                           repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
     ]
 }

@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "1.1 M",
         "Source": "varnish-6.6.2-4.el9_3.1.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
         "License": "BSD",
@@ -21,11 +21,13 @@
         "varnish.x86_64                               6.6.2-2.el9_1.1                               repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
         "varnish.i686                                 6.6.2-3.el9                                   repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "varnish.x86_64                               6.6.2-3.el9                                   repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "varnish.i686                                 6.6.2-3.el9_2.1                               appstream",
         "varnish.i686                                 6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "varnish.x86_64                               6.6.2-3.el9_2.1                               appstream",
+        "varnish.i686                                 6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "varnish.x86_64                               6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "varnish.x86_64                               6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "varnish.i686                                 6.6.2-4.el9_3.1                               appstream",
-        "varnish.x86_64                               6.6.2-4.el9_3.1                               appstream"
+        "varnish.i686                                 6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "varnish.x86_64                               6.6.2-4.el9_3.1                               appstream",
+        "varnish.x86_64                               6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
     ]
 }

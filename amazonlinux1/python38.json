@@ -3,7 +3,7 @@
         "Name": "python38",
         "Arch": "x86_64",
         "Version": "3.8.5",
-        "Release": "1.10.amzn1",
+        "Release": "1.11.amzn1",
         "Size": "28 k",
         "Repo": "amzn-updates/latest",
         "Summary": "Version 3.8 of the Python programming language aka Python 3000",
@@ -16,6 +16,7 @@
         "python38.x86_64                  3.8.5-1.5.amzn1                    amzn-updates",
         "python38.x86_64                  3.8.5-1.6.amzn1                    amzn-updates",
         "python38.x86_64                  3.8.5-1.9.amzn1                    amzn-updates",
-        "python38.x86_64                  3.8.5-1.10.amzn1                   amzn-updates"
+        "python38.x86_64                  3.8.5-1.10.amzn1                   amzn-updates",
+        "python38.x86_64                  3.8.5-1.11.amzn1                   amzn-updates"
     ]
 }

@@ -6,14 +6,15 @@
         "Architecture": "x86_64",
         "Size": "1.5 M",
         "Source": "redis-7.0.12-2.module_el9.3.0+56+d6a17771.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
         "License": "BSD-3-Clause AND BSD-2-Clause AND MIT",
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64                                          7.0.12-1.module_el9.3.0+38+47d78df1                                          appstream",
-        "redis.x86_64                                          7.0.12-2.module_el9.3.0+56+d6a17771                                          appstream"
+        "redis.x86_64                      7.0.12-1.module_el9.3.0+38+47d78df1                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      appstream",
+        "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
     ]
 }

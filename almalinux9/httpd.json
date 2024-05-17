@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.57",
-        "Release": "5.el9",
+        "Release": "8.el9",
         "Architecture": "x86_64",
-        "Size": "46 k",
-        "Source": "httpd-2.4.57-5.el9.src.rpm",
+        "Size": "45 k",
+        "Source": "httpd-2.4.57-8.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -19,6 +19,7 @@
         "httpd.x86_64                               2.4.53-7.el9_1.5                                repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
         "httpd.x86_64                               2.4.53-11.el9_2.4                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "httpd.x86_64                               2.4.53-11.el9_2.5                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "httpd.x86_64                               2.4.57-5.el9                                    appstream"
+        "httpd.x86_64                               2.4.57-5.el9                                    repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "httpd.x86_64                               2.4.57-8.el9                                    appstream"
     ]
 }

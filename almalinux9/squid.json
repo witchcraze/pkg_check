@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "5.5",
-        "Release": "6.el9_3.8",
+        "Release": "12.el9_4",
         "Architecture": "x86_64",
         "Size": "3.4 M",
-        "Source": "squid-5.5-6.el9_3.8.src.rpm",
+        "Source": "squid-5.5-12.el9_4.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -20,9 +20,10 @@
         "squid.x86_64                                7:5.5-3.el9_1                                  repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
         "squid.x86_64                                7:5.5-5.el9                                    repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "squid.x86_64                                7:5.5-5.el9_2.1                                repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "squid.x86_64                                7:5.5-6.el9_3.1                                appstream",
-        "squid.x86_64                                7:5.5-6.el9_3.2                                appstream",
-        "squid.x86_64                                7:5.5-6.el9_3.5                                appstream",
-        "squid.x86_64                                7:5.5-6.el9_3.8                                appstream"
+        "squid.x86_64                                7:5.5-6.el9_3.1                                repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "squid.x86_64                                7:5.5-6.el9_3.2                                repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "squid.x86_64                                7:5.5-6.el9_3.5                                repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "squid.x86_64                                7:5.5-6.el9_3.8                                repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "squid.x86_64                                7:5.5-12.el9_4                                 appstream"
     ]
 }
