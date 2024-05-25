@@ -17,6 +17,7 @@
         "python3.6.x86_64                      3.6.15-29.fc40                      fedora"
     ],
     "kojiPackages": [
+        "python3.6-3.6.15-30.fc40",
         "python3.6-3.6.15-29.fc40",
         "python3.6-3.6.15-27.fc40",
         "python3.6-3.6.15-26.fc40",

@@ -1,27 +1,29 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.13-0ubuntu3",
+        "Version": "3.0.13-0ubuntu3.1",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1929 kB",
+        "Installed-Size": "1930 kB",
         "Depends": "libc6 (>= 2.34), libssl3t64 (>= 3.0.9)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
         "Task": "cloud-minimal, minimal, server-minimal",
-        "Download-Size": "1002 kB",
+        "Download-Size": "1003 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/noble,now 3.0.13-0ubuntu3 amd64 [installed,automatic]"
+        "openssl/noble-updates,noble-security,now 3.0.13-0ubuntu3.1 amd64 [installed,automatic]",
+        "openssl/noble 3.0.13-0ubuntu3 amd64"
     ],
     "changelog": [
+        "openssl (3.0.13-0ubuntu3.1) noble-security; urgency=medium",
         "openssl (3.0.13-0ubuntu3) noble; urgency=medium",
         "openssl (3.0.13-0ubuntu2) noble; urgency=medium",
         "openssl (3.0.13-0ubuntu1) noble; urgency=medium",
@@ -338,6 +340,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.13-0ubuntu3.1",
         "3.0.13-0ubuntu3",
         "3.0.13-0ubuntu2",
         "3.0.13-0ubuntu1",

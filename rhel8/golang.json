@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.20.12",
-        "Release": "8.module+el8.9.0+21735+6a7c8cc8",
+        "Version": "1.21.9",
+        "Release": "1.module+el8.10.0+21671+b35c3b78",
         "Architecture": "x86_64",
-        "Size": "687 k",
-        "Source": "golang-1.20.12-8.module+el8.9.0+21735+6a7c8cc8.src.rpm",
+        "Size": "756 k",
+        "Source": "golang-1.21.9-1.module+el8.10.0+21671+b35c3b78.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -43,6 +43,8 @@
         "golang.x86_64                            1.20.10-1.module+el8.9.0+20382+04f7fe80                            rhel-8-for-x86_64-appstream-rpms",
         "golang.x86_64                            1.20.12-2.module+el8.9.0+21033+5795bdf6                            rhel-8-for-x86_64-appstream-rpms",
         "golang.x86_64                            1.20.12-3.module+el8.9.0+21528+703c3aa2                            rhel-8-for-x86_64-appstream-rpms",
-        "golang.x86_64                            1.20.12-8.module+el8.9.0+21735+6a7c8cc8                            rhel-8-for-x86_64-appstream-rpms"
+        "golang.x86_64                            1.20.12-8.module+el8.9.0+21735+6a7c8cc8                            rhel-8-for-x86_64-appstream-rpms",
+        "golang.x86_64                            1.21.7-2.module+el8.10.0+21638+b01be198                            rhel-8-for-x86_64-appstream-rpms",
+        "golang.x86_64                            1.21.9-1.module+el8.10.0+21671+b35c3b78                            rhel-8-for-x86_64-appstream-rpms"
     ]
 }

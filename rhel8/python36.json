@@ -2,10 +2,10 @@
     "info": {
         "Name": "python36",
         "Version": "3.6.8",
-        "Release": "38.module+el8.9.0+20976+d3c38525",
+        "Release": "39.module+el8.10.0+20784+edafcd43",
         "Architecture": "x86_64",
-        "Size": "19 k",
-        "Source": "python36-3.6.8-38.module+el8.9.0+20976+d3c38525.src.rpm",
+        "Size": "20 k",
+        "Source": "python36-3.6.8-39.module+el8.10.0+20784+edafcd43.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -18,6 +18,7 @@
         "python36.x86_64                           3.6.8-2.module+el8.0.0+2975+e0f02136                              rhel-8-for-x86_64-appstream-rpms",
         "python36.x86_64                           3.6.8-2.module+el8.1.0+3334+5cb623d7                              rhel-8-for-x86_64-appstream-rpms",
         "python36.x86_64                           3.6.8-38.module+el8.5.0+12207+5c5719bc                            rhel-8-for-x86_64-appstream-rpms",
-        "python36.x86_64                           3.6.8-38.module+el8.9.0+20976+d3c38525                            rhel-8-for-x86_64-appstream-rpms"
+        "python36.x86_64                           3.6.8-38.module+el8.9.0+20976+d3c38525                            rhel-8-for-x86_64-appstream-rpms",
+        "python36.x86_64                           3.6.8-39.module+el8.10.0+20784+edafcd43                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

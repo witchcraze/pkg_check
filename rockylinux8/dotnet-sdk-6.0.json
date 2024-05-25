@@ -20,6 +20,7 @@
         "dotnet-sdk-6.0.x86_64                 6.0.129-1.el8_9                  appstream"
     ],
     "kojiPackages": [
+        "dotnet6.0-6.0.130-1.el8_10",
         "dotnet6.0-6.0.129-1.el8_9",
         "dotnet6.0-6.0.128-1.el8_9",
         "dotnet6.0-6.0.127-1.el8_9",

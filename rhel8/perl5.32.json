@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "472.module+el8.8.0+17873+3d1ce0e6",
+        "Release": "473.module+el8.10.0+21354+3ad137bb",
         "Architecture": "x86_64",
         "Size": "95 k",
-        "Source": "perl-5.32.1-472.module+el8.8.0+17873+3d1ce0e6.src.rpm",
+        "Source": "perl-5.32.1-473.module+el8.10.0+21354+3ad137bb.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -15,6 +15,7 @@
     },
     "list": [
         "perl.x86_64                           4:5.32.1-471.module+el8.6.0+13324+628a2397                            rhel-8-for-x86_64-appstream-rpms",
-        "perl.x86_64                           4:5.32.1-472.module+el8.8.0+17873+3d1ce0e6                            rhel-8-for-x86_64-appstream-rpms"
+        "perl.x86_64                           4:5.32.1-472.module+el8.8.0+17873+3d1ce0e6                            rhel-8-for-x86_64-appstream-rpms",
+        "perl.x86_64                           4:5.32.1-473.module+el8.10.0+21354+3ad137bb                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

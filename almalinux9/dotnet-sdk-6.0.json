@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.129",
-        "Release": "2.el9_4",
+        "Version": "6.0.130",
+        "Release": "1.el9_4",
         "Architecture": "x86_64",
-        "Size": "76 M",
-        "Source": "dotnet6.0-6.0.129-2.el9_4.src.rpm",
+        "Size": "77 M",
+        "Source": "dotnet6.0-6.0.130-1.el9_4.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -39,6 +39,7 @@
         "dotnet-sdk-6.0.x86_64                           6.0.127-1.el9_3                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "dotnet-sdk-6.0.x86_64                           6.0.128-2.el9_3                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "dotnet-sdk-6.0.x86_64                           6.0.129-1.el9_3                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "dotnet-sdk-6.0.x86_64                           6.0.129-2.el9_4                            appstream"
+        "dotnet-sdk-6.0.x86_64                           6.0.129-2.el9_4                            appstream",
+        "dotnet-sdk-6.0.x86_64                           6.0.130-1.el9_4                            appstream"
     ]
 }

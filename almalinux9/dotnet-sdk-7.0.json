@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.118",
-        "Release": "1.el9_3",
+        "Version": "7.0.119",
+        "Release": "1.el9_4",
         "Architecture": "x86_64",
         "Size": "85 M",
-        "Source": "dotnet7.0-7.0.118-1.el9_3.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Source": "dotnet7.0-7.0.119-1.el9_4.src.rpm",
+        "Repository": "appstream",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
         "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
@@ -36,6 +36,7 @@
         "dotnet-sdk-7.0.x86_64                    7.0.116-1.el9_3                                   repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "dotnet-sdk-7.0.x86_64                    7.0.117-1.el9_3                                   repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "dotnet-sdk-7.0.x86_64                    7.0.118-1.el9_3                                   appstream",
-        "dotnet-sdk-7.0.x86_64                    7.0.118-1.el9_3                                   repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "dotnet-sdk-7.0.x86_64                    7.0.118-1.el9_3                                   repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                    7.0.119-1.el9_4                                   appstream"
     ]
 }

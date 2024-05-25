@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-11-openjdk",
         "Epoch": "1",
-        "Version": "11.0.18.0.9",
-        "Release": "0.3.ea.el8",
+        "Version": "11.0.20.1.1",
+        "Release": "2.el8",
         "Architecture": "x86_64",
-        "Size": "468 k",
-        "Source": "java-11-openjdk-11.0.18.0.9-0.3.ea.el8.src.rpm",
+        "Size": "473 k",
+        "Source": "java-11-openjdk-11.0.20.1.1-2.el8.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -14,11 +14,11 @@
         "Description": "The OpenJDK 11 runtime environment."
     },
     "list": [
-        "java-11-openjdk.x86_64            1:11.0.14.1.1-6.el8                  appstream",
         "java-11-openjdk.x86_64            1:11.0.15.0.8-0.1.ea.el8             appstream",
         "java-11-openjdk.x86_64            1:11.0.15.0.10-3.el8                 appstream",
         "java-11-openjdk.x86_64            1:11.0.17.0.8-2.el8                  appstream",
-        "java-11-openjdk.x86_64            1:11.0.18.0.9-0.3.ea.el8             appstream"
+        "java-11-openjdk.x86_64            1:11.0.18.0.9-0.3.ea.el8             appstream",
+        "java-11-openjdk.x86_64            1:11.0.20.1.1-2.el8                  appstream"
     ],
     "kojiPackages": [
         "java-11-openjdk-11.0.20.1.1-2.el8",

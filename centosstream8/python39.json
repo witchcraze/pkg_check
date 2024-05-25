@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python39",
-        "Version": "3.9.18",
-        "Release": "3.module_el8+830+f2c150f9",
+        "Version": "3.9.19",
+        "Release": "1.module_el8+1051+5bea6413",
         "Architecture": "x86_64",
         "Size": "34 k",
-        "Source": "python39-3.9.18-3.module_el8+830+f2c150f9.src.rpm",
+        "Source": "python39-3.9.19-1.module_el8+1051+5bea6413.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -23,9 +23,11 @@
         "python39.x86_64         3.9.16-1.module_el8.8.0+1243+5f5a1e61          appstream",
         "python39.x86_64         3.9.17-1.module_el8+547+65817b2b               appstream",
         "python39.x86_64         3.9.17-2.module_el8+639+3fcd10de               appstream",
-        "python39.x86_64         3.9.18-3.module_el8+830+f2c150f9               appstream"
+        "python39.x86_64         3.9.18-3.module_el8+830+f2c150f9               appstream",
+        "python39.x86_64         3.9.19-1.module_el8+1051+5bea6413              appstream"
     ],
     "kojiPackages": [
+        "python39-3.9.19-1.module_el8+1051+5bea6413",
         "python39-3.9.18-3.module_el8+830+f2c150f9",
         "python39-3.9.18-2.module_el8+824+8c59dd11",
         "python39-3.9.17-2.module_el8+639+3fcd10de",

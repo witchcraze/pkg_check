@@ -16,6 +16,7 @@
         "python39.x86_64         3.9.18-1.module+el8.9.0+1581+c29ce980          appstream"
     ],
     "kojiPackages": [
+        "python39-3.9.19-1.module+el8.10.0+1809+41195054",
         "python39-3.9.18-3.module+el8.10.0+1663+e8c8174b",
         "python39-3.9.18-2.module+el8.10.0+1660+b5b6f004",
         "python39-3.9.18-1.module+el8.10.0+1582+bc278001",
