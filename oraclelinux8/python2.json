@@ -2,10 +2,10 @@
     "info": {
         "Name": "python2",
         "Version": "2.7.18",
-        "Release": "15.0.1.module+el8.9.0+90070+24fba521",
+        "Release": "17.0.1.module+el8.10.0+90286+7c291053",
         "Architecture": "x86_64",
         "Size": "110 k",
-        "Source": "python2-2.7.18-15.0.1.module+el8.9.0+90070+24fba521.src.rpm",
+        "Source": "python2-2.7.18-17.0.1.module+el8.10.0+90286+7c291053.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "An interpreted, interactive, object-oriented programming language",
         "URL": "https://www.python.org/",
@@ -28,6 +28,7 @@
         "python2.x86_64                                  2.7.18-12.0.1.module+el8.8.0+20989+692249f4                                    ol8_appstream",
         "python2.x86_64                                  2.7.18-13.0.1.module+el8.8.0+21096+ceeb3972.1                                  ol8_appstream",
         "python2.x86_64                                  2.7.18-13.0.1.module+el8.8.0+90005+95df27dc.2                                  ol8_appstream",
-        "python2.x86_64                                  2.7.18-15.0.1.module+el8.9.0+90070+24fba521                                    ol8_appstream"
+        "python2.x86_64                                  2.7.18-15.0.1.module+el8.9.0+90070+24fba521                                    ol8_appstream",
+        "python2.x86_64                                  2.7.18-17.0.1.module+el8.10.0+90286+7c291053                                   ol8_appstream"
     ]
 }

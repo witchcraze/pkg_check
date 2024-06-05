@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.4",
-        "Release": "142.module+el8.9.0+1759+ff68ae72",
+        "Version": "3.1.5",
+        "Release": "143.module+el8.10.0+1826+b62220b4",
         "Architecture": "x86_64",
         "Size": "89 k",
-        "Source": "ruby-3.1.4-142.module+el8.9.0+1759+ff68ae72.src.rpm",
+        "Source": "ruby-3.1.5-143.module+el8.10.0+1826+b62220b4.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,12 +13,13 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686             3.1.2-141.module+el8.7.0+1081+f0a69743           appstream",
-        "ruby.x86_64           3.1.2-141.module+el8.7.0+1081+f0a69743           appstream",
-        "ruby.i686             3.1.4-142.module+el8.9.0+1759+ff68ae72           appstream",
-        "ruby.x86_64           3.1.4-142.module+el8.9.0+1759+ff68ae72           appstream"
+        "ruby.i686            3.1.4-142.module+el8.10.0+1741+bdb5b6ca           appstream",
+        "ruby.x86_64          3.1.4-142.module+el8.10.0+1741+bdb5b6ca           appstream",
+        "ruby.i686            3.1.5-143.module+el8.10.0+1826+b62220b4           appstream",
+        "ruby.x86_64          3.1.5-143.module+el8.10.0+1826+b62220b4           appstream"
     ],
     "kojiPackages": [
+        "ruby-3.1.5-143.module+el8.10.0+1826+b62220b4",
         "ruby-3.1.4-142.module+el8.9.0+1759+ff68ae72",
         "ruby-3.1.4-142.module+el8.10.0+1741+bdb5b6ca",
         "ruby-3.1.2-141.module+el8.10.0+1661+5707c8d5",

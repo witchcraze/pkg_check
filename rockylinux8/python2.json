@@ -2,10 +2,10 @@
     "info": {
         "Name": "python2",
         "Version": "2.7.18",
-        "Release": "15.module+el8.9.0+1577+4023cfca.rocky.0.2",
+        "Release": "17.module+el8.10.0+1813+4b021305.rocky.0.2",
         "Architecture": "x86_64",
         "Size": "110 k",
-        "Source": "python2-2.7.18-15.module+el8.9.0+1577+4023cfca.rocky.0.2.src.rpm",
+        "Source": "python2-2.7.18-17.module+el8.10.0+1813+4b021305.rocky.0.2.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreted, interactive, object-oriented programming language",
         "URL": "https://www.python.org/",
@@ -13,7 +13,7 @@
         "Description": "Python 2 is an old version of the language that is incompatible with the 3.x"
     },
     "list": [
-        "python2.x86_64    2.7.18-15.module+el8.9.0+1577+4023cfca.rocky.0.2     appstream"
+        "python2.x86_64    2.7.18-17.module+el8.10.0+1813+4b021305.rocky.0.2    appstream"
     ],
     "kojiPackages": [
         "python2-2.7.18-17.module+el8.10.0+1813+4b021305.rocky.0.2",

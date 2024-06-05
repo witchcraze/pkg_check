@@ -1,19 +1,20 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.4",
-        "Release": "3.fc40",
+        "Version": "7.2.5",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "redis-7.2.4-3.fc40.src.rpm",
-        "Repository": "fedora",
+        "Source": "redis-7.2.5-1.fc40.src.rpm",
+        "Repository": "updates",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
         "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64                         7.2.4-3.fc40                         fedora"
+        "redis.x86_64                        7.2.4-3.fc40                         fedora",
+        "redis.x86_64                        7.2.5-1.fc40                         updates"
     ],
     "kojiPackages": [
         "redis-7.2.5-1.fc40",

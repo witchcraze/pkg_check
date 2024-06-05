@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet",
-        "Version": "6.0.127",
+        "Version": "6.0.129",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "12 k",
-        "Source": "dotnet6.0-6.0.127-1.amzn2023.0.1.src.rpm",
+        "Source": "dotnet6.0-6.0.129-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET CLI tools and runtime",
         "URL": "https://github.com/dotnet/",
@@ -22,6 +22,7 @@
         "dotnet.x86_64                 6.0.123-1.amzn2023.0.1                 amazonlinux",
         "dotnet.x86_64                 6.0.125-1.amzn2023.0.1                 amazonlinux",
         "dotnet.x86_64                 6.0.126-1.amzn2023.0.1                 amazonlinux",
-        "dotnet.x86_64                 6.0.127-1.amzn2023.0.1                 amazonlinux"
+        "dotnet.x86_64                 6.0.127-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 6.0.129-1.amzn2023.0.1                 amazonlinux"
     ]
 }

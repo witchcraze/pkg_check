@@ -16,7 +16,6 @@
     },
     "list": [
         "openssl.x86_64                     1:1.1.1k-12.el8_9                     @baseos",
-        "openssl.x86_64                     1:1.1.1k-9.el8_7                      baseos",
         "openssl.x86_64                     1:1.1.1k-12.el8_9                     baseos"
     ],
     "kojiPackages": [

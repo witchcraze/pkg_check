@@ -5,7 +5,7 @@
         "Version": "3.0.2",
         "Release": "29.el7_9",
         "Size": "173 k",
-        "Repo": "updates/7/x86_64",
+        "Repo": "C7.9.2009-updates/x86_64",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
         "License": "GPLv2 with exceptions",
@@ -22,7 +22,9 @@
         "vsftpd.x86_64                  3.0.2-25.el7                    C7.6.1810-base",
         "vsftpd.x86_64                  3.0.2-25.el7                    C7.7.1908-base",
         "vsftpd.x86_64                  3.0.2-27.el7                    C7.8.2003-base",
+        "vsftpd.x86_64                  3.0.2-28.el7                    C7.9.2009-base",
         "vsftpd.x86_64                  3.0.2-28.el7                    base",
+        "vsftpd.x86_64                  3.0.2-29.el7_9                  C7.9.2009-updates",
         "vsftpd.x86_64                  3.0.2-29.el7_9                  updates"
     ]
 }

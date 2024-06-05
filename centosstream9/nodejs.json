@@ -17,6 +17,7 @@
         "nodejs.x86_64                     1:16.20.2-3.el9                      appstream"
     ],
     "kojiPackages": [
+        "nodejs-16.20.2-8.el9",
         "nodejs-16.20.2-3.el9",
         "nodejs-16.20.1-2.el9",
         "nodejs-16.20.1-1.el9",

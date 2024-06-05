@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "18.20.2",
-        "Release": "1.module+el8.9.0+1803+9ac8b495",
+        "Release": "1.module+el8.10.0+1824+532140ee",
         "Architecture": "x86_64",
         "Size": "13 M",
-        "Source": "nodejs-18.20.2-1.module+el8.9.0+1803+9ac8b495.src.rpm",
+        "Source": "nodejs-18.20.2-1.module+el8.10.0+1824+532140ee.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,12 +14,11 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64         1:18.18.2-1.module+el8.8.0+1546+1608db1c         appstream",
-        "nodejs.x86_64         1:18.19.0-1.module+el8.9.0+1727+17e65eb5         appstream",
-        "nodejs.x86_64         1:18.19.1-1.module+el8.9.0+1768+6b454dc0         appstream",
-        "nodejs.x86_64         1:18.20.2-1.module+el8.9.0+1803+9ac8b495         appstream"
+        "nodejs.x86_64        1:18.19.1-1.module+el8.10.0+1747+2869c860         appstream",
+        "nodejs.x86_64        1:18.20.2-1.module+el8.10.0+1824+532140ee         appstream"
     ],
     "kojiPackages": [
+        "nodejs-18.20.2-1.module+el8.10.0+1824+532140ee",
         "nodejs-18.20.2-1.module+el8.9.0+1803+9ac8b495",
         "nodejs-18.19.1-1.module+el8.9.0+1768+6b454dc0",
         "nodejs-18.19.1-1.module+el8.10.0+1747+2869c860",

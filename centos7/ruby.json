@@ -5,7 +5,7 @@
         "Version": "2.0.0.648",
         "Release": "39.el7_9",
         "Size": "73 k",
-        "Repo": "updates/7/x86_64",
+        "Repo": "C7.9.2009-updates/x86_64",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "http://ruby-lang.org/",
         "License": "(Ruby or BSD) and Public Domain",
@@ -26,7 +26,9 @@
         "ruby.x86_64                 2.0.0.648-35.el7_6                 C7.6.1810-updates",
         "ruby.x86_64                 2.0.0.648-36.el7                   C7.7.1908-base",
         "ruby.x86_64                 2.0.0.648-36.el7                   C7.8.2003-base",
+        "ruby.x86_64                 2.0.0.648-36.el7                   C7.9.2009-base",
         "ruby.x86_64                 2.0.0.648-36.el7                   base",
+        "ruby.x86_64                 2.0.0.648-39.el7_9                 C7.9.2009-updates",
         "ruby.x86_64                 2.0.0.648-39.el7_9                 updates"
     ]
 }

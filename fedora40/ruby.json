@@ -19,6 +19,7 @@
         "ruby.x86_64                         3.3.1-7.fc40                         updates"
     ],
     "kojiPackages": [
+        "ruby-3.3.1-7.fc40app2",
         "ruby-3.3.1-7.fc40",
         "ruby-3.3.0-4.fc40",
         "ruby-3.3.0-3.fc40",

@@ -5,7 +5,7 @@
         "Version": "7.0.76",
         "Release": "16.el7_9",
         "Size": "93 k",
-        "Repo": "updates/7/x86_64",
+        "Repo": "C7.9.2009-updates/x86_64",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 3.0/JSP 2.2 API",
         "URL": "http://tomcat.apache.org/",
         "License": "ASL 2.0",
@@ -36,7 +36,9 @@
         "tomcat.noarch                 7.0.76-11.el7_7                  C7.7.1908-updates",
         "tomcat.noarch                 7.0.76-11.el7_7                  C7.8.2003-updates",
         "tomcat.noarch                 7.0.76-12.el7_8                  C7.8.2003-updates",
+        "tomcat.noarch                 7.0.76-15.el7                    C7.9.2009-base",
         "tomcat.noarch                 7.0.76-15.el7                    base",
+        "tomcat.noarch                 7.0.76-16.el7_9                  C7.9.2009-updates",
         "tomcat.noarch                 7.0.76-16.el7_9                  updates"
     ]
 }

@@ -14,9 +14,7 @@
         "Description": "The OpenJDK 8 runtime environment."
     },
     "list": [
-        "java-1.8.0-openjdk.x86_64           1:1.8.0.392.b08-4.el8_8            appstream",
-        "java-1.8.0-openjdk.x86_64           1:1.8.0.402.b06-2.el8              appstream",
-        "java-1.8.0-openjdk.x86_64           1:1.8.0.412.b08-2.el8              appstream"
+        "java-1.8.0-openjdk.x86_64            1:1.8.0.412.b08-2.el8             appstream"
     ],
     "kojiPackages": [
         "java-1.8.0-openjdk-1.8.0.412.b08-2.el8",

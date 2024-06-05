@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "8.5.0",
-        "Release": "20.el8",
+        "Release": "22.el8_10",
         "Architecture": "x86_64",
         "Size": "23 M",
-        "Source": "gcc-8.5.0-20.el8.src.rpm",
+        "Source": "gcc-8.5.0-22.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -13,7 +13,7 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 8."
     },
     "list": [
-        "gcc.x86_64                        8.5.0-20.el8                         appstream"
+        "gcc.x86_64                       8.5.0-22.el8_10                       appstream"
     ],
     "kojiPackages": [
         "gcc-8.5.0-22.el8_10",

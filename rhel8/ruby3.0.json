@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.0.4",
-        "Release": "141.module+el8.6.0+16311+3e5e17e9",
+        "Version": "3.0.7",
+        "Release": "143.module+el8.10.0+21858+d19f3934",
         "Architecture": "x86_64",
-        "Size": "89 k",
-        "Source": "ruby-3.0.4-141.module+el8.6.0+16311+3e5e17e9.src.rpm",
+        "Size": "90 k",
+        "Source": "ruby-3.0.7-143.module+el8.10.0+21858+d19f3934.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,9 +13,11 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                               3.0.2-140.module+el8.5.0+12856+0c654ebc                             rhel-8-for-x86_64-appstream-rpms",
-        "ruby.x86_64                             3.0.2-140.module+el8.5.0+12856+0c654ebc                             rhel-8-for-x86_64-appstream-rpms",
-        "ruby.i686                               3.0.4-141.module+el8.6.0+16311+3e5e17e9                             rhel-8-for-x86_64-appstream-rpms",
-        "ruby.x86_64                             3.0.4-141.module+el8.6.0+16311+3e5e17e9                             rhel-8-for-x86_64-appstream-rpms"
+        "ruby.i686                              3.0.2-140.module+el8.5.0+12856+0c654ebc                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64                            3.0.2-140.module+el8.5.0+12856+0c654ebc                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686                              3.0.4-141.module+el8.6.0+16311+3e5e17e9                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64                            3.0.4-141.module+el8.6.0+16311+3e5e17e9                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686                              3.0.7-143.module+el8.10.0+21858+d19f3934                             rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64                            3.0.7-143.module+el8.10.0+21858+d19f3934                             rhel-8-for-x86_64-appstream-rpms"
     ]
 }

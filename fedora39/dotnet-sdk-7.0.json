@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.118",
+        "Version": "7.0.119",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "85 M",
-        "Source": "dotnet7.0-7.0.118-1.fc39.src.rpm",
+        "Source": "dotnet7.0-7.0.119-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "dotnet-sdk-7.0.x86_64                   7.0.111-1.fc39                   fedora",
-        "dotnet-sdk-7.0.x86_64                   7.0.118-1.fc39                   updates"
+        "dotnet-sdk-7.0.x86_64                   7.0.119-1.fc39                   updates"
     ],
     "kojiPackages": [
         "dotnet7.0-7.0.119-1.fc39",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.4",
+        "Version": "7.2.5",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "redis-7.2.4-1.fc39.src.rpm",
+        "Source": "redis-7.2.5-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -14,7 +14,7 @@
     },
     "list": [
         "redis.x86_64                        7.2.1-2.fc39                         fedora",
-        "redis.x86_64                        7.2.4-1.fc39                         updates"
+        "redis.x86_64                        7.2.5-1.fc39                         updates"
     ],
     "kojiPackages": [
         "redis-7.2.5-1.fc39",

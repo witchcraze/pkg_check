@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "gcc",
-        "Version": "13.2.1",
-        "Release": "7.fc39",
+        "Version": "13.3.1",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "34 M",
-        "Source": "gcc-13.2.1-7.fc39.src.rpm",
+        "Source": "gcc-13.3.1-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -14,7 +14,7 @@
     },
     "list": [
         "gcc.x86_64                         13.2.1-3.fc39                         fedora",
-        "gcc.x86_64                         13.2.1-7.fc39                         updates"
+        "gcc.x86_64                         13.3.1-1.fc39                         updates"
     ],
     "kojiPackages": [
         "gcc-13.3.1-1.fc39",

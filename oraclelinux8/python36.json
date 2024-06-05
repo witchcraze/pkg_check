@@ -2,10 +2,10 @@
     "info": {
         "Name": "python36",
         "Version": "3.6.8",
-        "Release": "38.module+el8.9.0+90104+968a3e84",
+        "Release": "39.module+el8.10.0+90274+07ba55de",
         "Architecture": "x86_64",
         "Size": "18 k",
-        "Source": "python36-3.6.8-38.module+el8.9.0+90104+968a3e84.src.rpm",
+        "Source": "python36-3.6.8-39.module+el8.10.0+90274+07ba55de.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -20,6 +20,7 @@
         "python36.x86_64                                  3.6.8-2.0.1.module+el8.3.0+el8+9688+bb1990d3                                  ol8_appstream",
         "python36.x86_64                                  3.6.8-2.0.1.module+el8.4.0+20103+1849b5f9                                     ol8_appstream",
         "python36.x86_64                                  3.6.8-38.module+el8.5.0+20329+5c5719bc                                        ol8_appstream",
-        "python36.x86_64                                  3.6.8-38.module+el8.9.0+90104+968a3e84                                        ol8_appstream"
+        "python36.x86_64                                  3.6.8-38.module+el8.9.0+90104+968a3e84                                        ol8_appstream",
+        "python36.x86_64                                  3.6.8-39.module+el8.10.0+90274+07ba55de                                       ol8_appstream"
     ]
 }

@@ -14,7 +14,7 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind9.16.x86_64                32:9.16.23-0.14.el8_8.2                 appstream",
+        "bind9.16.x86_64                32:9.16.23-0.16.el8                     appstream",
         "bind9.16.x86_64                32:9.16.23-0.16.el8_9.2                 appstream"
     ],
     "kojiPackages": [

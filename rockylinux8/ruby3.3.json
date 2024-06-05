@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "ruby",
+        "Version": "3.3.0",
+        "Release": "1.module+el8.10.0+1679+61871737",
+        "Architecture": "x86_64",
+        "Size": "87 k",
+        "Source": "ruby-3.3.0-1.module+el8.10.0+1679+61871737.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby OR BSD-2-Clause) AND BSD-3-Clause AND ISC AND Public Domain AND MIT and CC0 AND zlib AND Unicode-DFS-2015",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby.i686             3.3.0-1.module+el8.10.0+1679+61871737            appstream",
+        "ruby.x86_64           3.3.0-1.module+el8.10.0+1679+61871737            appstream"
+    ],
+    "kojiPackages": [
+        "ruby-3.3.0-1.module+el8.10.0+1679+61871737",
+        "ruby-3.3.0-1.module+el8.10.0+1678+9ff8478d",
+        "ruby-3.3.0-1.module+el8.10.0+1677+84214296"
+    ]
+}

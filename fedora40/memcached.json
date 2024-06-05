@@ -16,6 +16,7 @@
         "memcached.x86_64                      1.6.23-2.fc40                       fedora"
     ],
     "kojiPackages": [
+        "memcached-1.6.26-2.fc40",
         "memcached-1.6.23-2.fc40",
         "memcached-1.6.23-1.fc40",
         "memcached-1.6.22-1.fc40"

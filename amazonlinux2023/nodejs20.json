@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs20",
         "Epoch": "1",
-        "Version": "20.11.1",
+        "Version": "20.12.2",
         "Release": "1.amzn2023.0.2",
         "Architecture": "x86_64",
         "Size": "45 k",
-        "Source": "nodejs20-20.11.1-1.amzn2023.0.2.src.rpm",
+        "Source": "nodejs20-20.12.2-1.amzn2023.0.2.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,6 +16,7 @@
     "list": [
         "nodejs20.x86_64               1:20.10.0-1.amzn2023.0.1               amazonlinux",
         "nodejs20.x86_64               1:20.11.1-1.amzn2023.0.1               amazonlinux",
-        "nodejs20.x86_64               1:20.11.1-1.amzn2023.0.2               amazonlinux"
+        "nodejs20.x86_64               1:20.11.1-1.amzn2023.0.2               amazonlinux",
+        "nodejs20.x86_64               1:20.12.2-1.amzn2023.0.2               amazonlinux"
     ]
 }

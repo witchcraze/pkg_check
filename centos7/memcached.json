@@ -23,6 +23,7 @@
         "memcached.x86_64               1.4.15-10.el7_3.1               C7.6.1810-base",
         "memcached.x86_64               1.4.15-10.el7_3.1               C7.7.1908-base",
         "memcached.x86_64               1.4.15-10.el7_3.1               C7.8.2003-base",
+        "memcached.x86_64               1.4.15-10.el7_3.1               C7.9.2009-base",
         "memcached.x86_64               1.4.15-10.el7_3.1               base"
     ]
 }

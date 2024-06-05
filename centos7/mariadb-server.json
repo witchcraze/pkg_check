@@ -6,7 +6,7 @@
         "Version": "5.5.68",
         "Release": "1.el7",
         "Size": "11 M",
-        "Repo": "base/7/x86_64",
+        "Repo": "C7.9.2009-base/x86_64",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
         "License": "GPLv2 with exceptions and LGPLv2 and BSD",
@@ -30,6 +30,7 @@
         "mariadb-server.x86_64          1:5.5.60-1.el7_5                C7.6.1810-base",
         "mariadb-server.x86_64          1:5.5.64-1.el7                  C7.7.1908-base",
         "mariadb-server.x86_64          1:5.5.65-1.el7                  C7.8.2003-base",
+        "mariadb-server.x86_64          1:5.5.68-1.el7                  C7.9.2009-base",
         "mariadb-server.x86_64          1:5.5.68-1.el7                  base"
     ]
 }

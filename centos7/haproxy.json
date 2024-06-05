@@ -5,7 +5,7 @@
         "Version": "1.5.18",
         "Release": "9.el7_9.1",
         "Size": "835 k",
-        "Repo": "updates/7/x86_64",
+        "Repo": "C7.9.2009-updates/x86_64",
         "Summary": "TCP/HTTP proxy and load balancer for high availability",
         "URL": "http://www.haproxy.org/",
         "License": "GPLv2+",
@@ -26,7 +26,9 @@
         "haproxy.x86_64                1.5.18-8.el7                     C7.6.1810-base",
         "haproxy.x86_64                1.5.18-9.el7                     C7.7.1908-base",
         "haproxy.x86_64                1.5.18-9.el7                     C7.8.2003-base",
+        "haproxy.x86_64                1.5.18-9.el7                     C7.9.2009-base",
         "haproxy.x86_64                1.5.18-9.el7                     base",
+        "haproxy.x86_64                1.5.18-9.el7_9.1                 C7.9.2009-updates",
         "haproxy.x86_64                1.5.18-9.el7_9.1                 updates"
     ]
 }

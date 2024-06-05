@@ -2,10 +2,10 @@
     "info": {
         "Name": "platform-python",
         "Version": "3.6.8",
-        "Release": "59.el8",
+        "Release": "62.el8_10",
         "Architecture": "i686",
-        "Size": "87 k",
-        "Source": "python3-3.6.8-59.el8.src.rpm",
+        "Size": "88 k",
+        "Source": "python3-3.6.8-62.el8_10.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Internal interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -13,7 +13,7 @@
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64                                   3.6.8-59.el8                                       @System",
+        "platform-python.x86_64                                   3.6.8-62.el8_10                                    @System",
         "platform-python.i686                                     3.6.8-1.el8                                        rhel-8-for-x86_64-appstream-rpms",
         "platform-python.x86_64                                   3.6.8-1.el8                                        rhel-8-for-x86_64-baseos-rpms",
         "platform-python.i686                                     3.6.8-2.el8_0                                      rhel-8-for-x86_64-appstream-rpms",
@@ -57,6 +57,8 @@
         "platform-python.i686                                     3.6.8-56.el8_9.3                                   rhel-8-for-x86_64-appstream-rpms",
         "platform-python.x86_64                                   3.6.8-56.el8_9.3                                   rhel-8-for-x86_64-baseos-rpms",
         "platform-python.i686                                     3.6.8-59.el8                                       rhel-8-for-x86_64-appstream-rpms",
-        "platform-python.x86_64                                   3.6.8-59.el8                                       rhel-8-for-x86_64-baseos-rpms"
+        "platform-python.x86_64                                   3.6.8-59.el8                                       rhel-8-for-x86_64-baseos-rpms",
+        "platform-python.i686                                     3.6.8-62.el8_10                                    rhel-8-for-x86_64-appstream-rpms",
+        "platform-python.x86_64                                   3.6.8-62.el8_10                                    rhel-8-for-x86_64-baseos-rpms"
     ]
 }

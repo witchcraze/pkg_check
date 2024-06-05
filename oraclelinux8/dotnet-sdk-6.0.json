@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.129",
-        "Release": "1.0.1.el8_9",
+        "Version": "6.0.130",
+        "Release": "1.0.1.el8_10",
         "Architecture": "x86_64",
-        "Size": "78 M",
-        "Source": "dotnet6.0-6.0.129-1.0.1.el8_9.src.rpm",
+        "Size": "79 M",
+        "Source": "dotnet6.0-6.0.130-1.0.1.el8_10.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -46,6 +46,8 @@
         "dotnet-sdk-6.0.x86_64                        6.0.126-1.0.1.el8_9                                                               ol8_appstream",
         "dotnet-sdk-6.0.x86_64                        6.0.127-1.0.1.el8_9                                                               ol8_appstream",
         "dotnet-sdk-6.0.x86_64                        6.0.128-1.0.1.el8_9                                                               ol8_appstream",
-        "dotnet-sdk-6.0.x86_64                        6.0.129-1.0.1.el8_9                                                               ol8_appstream"
+        "dotnet-sdk-6.0.x86_64                        6.0.129-1.0.1.el8_9                                                               ol8_appstream",
+        "dotnet-sdk-6.0.x86_64                        6.0.129-2.0.1.el8_10                                                              ol8_appstream",
+        "dotnet-sdk-6.0.x86_64                        6.0.130-1.0.1.el8_10                                                              ol8_appstream"
     ]
 }
