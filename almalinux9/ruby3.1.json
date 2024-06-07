@@ -1,27 +1,28 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.4",
-        "Release": "143.module_el9.3.0+60+5ebc989a",
+        "Version": "3.1.5",
+        "Release": "144.module_el9.4.0+101+d58a8d95",
         "Architecture": "x86_64",
         "Size": "38 k",
-        "Source": "ruby-3.1.4-143.module_el9.3.0+60+5ebc989a.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Source": "ruby-3.1.5-144.module_el9.4.0+101+d58a8d95.src.rpm",
+        "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
         "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "ruby.i686                        3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
-        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "ruby.x86_64                      3.1.2-141.module_el9.1.0+8+503f6fbd                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "ruby.i686                        3.1.4-143.module_el9.3.0+60+5ebc989a                      appstream",
-        "ruby.i686                        3.1.4-143.module_el9.3.0+60+5ebc989a                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "ruby.x86_64                      3.1.4-143.module_el9.3.0+60+5ebc989a                      appstream",
-        "ruby.x86_64                      3.1.4-143.module_el9.3.0+60+5ebc989a                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "ruby.i686                       3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.i686                       3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "ruby.i686                       3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "ruby.x86_64                     3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.1_AppStream_x86_64_os_",
+        "ruby.x86_64                     3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "ruby.x86_64                     3.1.2-141.module_el9.1.0+8+503f6fbd                        repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "ruby.i686                       3.1.4-143.module_el9.3.0+60+5ebc989a                       appstream",
+        "ruby.i686                       3.1.4-143.module_el9.3.0+60+5ebc989a                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "ruby.x86_64                     3.1.4-143.module_el9.3.0+60+5ebc989a                       appstream",
+        "ruby.x86_64                     3.1.4-143.module_el9.3.0+60+5ebc989a                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "ruby.x86_64                     3.1.5-144.module_el9.4.0+101+d58a8d95                      appstream"
     ]
 }
