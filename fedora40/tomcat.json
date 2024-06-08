@@ -17,6 +17,8 @@
         "tomcat.noarch                       1:9.0.83-3.fc40                       fedora"
     ],
     "kojiPackages": [
+        "tomcat-9.0.89-1.fc40",
+        "tomcat-9.0.89-3.fc40",
         "tomcat-10.1.24-1.fc40",
         "tomcat-9.0.83-3.fc40",
         "tomcat-9.0.83-2.fc40",

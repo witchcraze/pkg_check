@@ -17,6 +17,7 @@
         "ruby.x86_64           3.3.0-1.module+el8.10.0+1679+61871737            appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.1-2.module+el8.10.0+1827+16ecb9d2",
         "ruby-3.3.0-1.module+el8.10.0+1679+61871737",
         "ruby-3.3.0-1.module+el8.10.0+1678+9ff8478d",
         "ruby-3.3.0-1.module+el8.10.0+1677+84214296"

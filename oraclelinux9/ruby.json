@@ -1,15 +1,15 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.0",
-        "Release": "1.module+el9.4.0+90257+8524dee7",
+        "Version": "3.3.1",
+        "Release": "2.module+el9.4.0+90346+4cb4c4f5",
         "Architecture": "src",
         "Size": "16 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
-        "License": "(Ruby OR BSD-2-Clause) AND BSD-3-Clause AND ISC AND Public Domain AND MIT and CC0 AND zlib AND Unicode-DFS-2015",
+        "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn",
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
@@ -24,6 +24,8 @@
         "ruby.x86_64        3.0.4-161.el9                                   ol9_appstream",
         "ruby.src           3.1.2-141.module+el9.1.0+20815+286161bd         ol9_appstream",
         "ruby.src           3.1.4-143.module+el9.3.0+90207+bf8fadcb         ol9_appstream",
-        "ruby.src           3.3.0-1.module+el9.4.0+90257+8524dee7           ol9_appstream"
+        "ruby.src           3.1.5-144.module+el9.4.0+90348+c2ef46bf         ol9_appstream",
+        "ruby.src           3.3.0-1.module+el9.4.0+90257+8524dee7           ol9_appstream",
+        "ruby.src           3.3.1-2.module+el9.4.0+90346+4cb4c4f5           ol9_appstream"
     ]
 }
