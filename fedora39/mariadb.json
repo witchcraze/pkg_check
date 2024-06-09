@@ -18,6 +18,7 @@
         "mariadb.x86_64                     3:10.5.23-1.fc39                      updates"
     ],
     "kojiPackages": [
+        "mariadb-10.5.25-1.fc39",
         "mariadb-10.5.23-1.fc39app4",
         "mariadb-10.5.23-1.fc39",
         "mariadb-10.5.22-1.fc39",

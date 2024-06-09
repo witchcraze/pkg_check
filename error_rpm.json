@@ -1,0 +1,119 @@
+{
+    "centosstream": {
+        "9": {
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        }
+    },
+    "rockylinux": {
+        "8": {
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nginx": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "php": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "redis": [
+                "kojiPackages"
+            ],
+            "ruby": [
+                "kojiPackages"
+            ]
+        },
+        "9": {
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        }
+    },
+    "fedora": {
+        "38": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        },
+        "39": {
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        },
+        "40": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
+        }
+    }
+}
