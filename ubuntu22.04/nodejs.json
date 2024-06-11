@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "12.22.9~dfsg-1ubuntu3.5",
+        "Version": "12.22.9~dfsg-1ubuntu3.6",
         "Priority": "extra",
         "Section": "universe/web",
         "Origin": "Ubuntu",
@@ -9,21 +9,23 @@
         "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "929 kB",
-        "Provides": "node-types-node (= 12.20.42~12.22.9~dfsg-1ubuntu3.5)",
-        "Depends": "libc6 (>= 2.34), libnode72 (= 12.22.9~dfsg-1ubuntu3.5)",
+        "Provides": "node-types-node (= 12.20.42~12.22.9~dfsg-1ubuntu3.6)",
+        "Depends": "libc6 (>= 2.34), libnode72 (= 12.22.9~dfsg-1ubuntu3.6)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Breaks": "node-babel-runtime (<< 7), node-typescript-types (<< 20210110~)",
         "Homepage": "https://nodejs.org/",
         "Download-Size": "122 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.5 amd64",
+        "nodejs/jammy-security 12.22.9~dfsg-1ubuntu3.6 amd64",
+        "nodejs/jammy-updates 12.22.9~dfsg-1ubuntu3.5 amd64",
         "nodejs/jammy 12.22.9~dfsg-1ubuntu3 amd64"
     ],
     "changelog": [
+        "nodejs (12.22.9~dfsg-1ubuntu3.6) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3.5) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3.4) jammy-security; urgency=medium",
         "nodejs (12.22.9~dfsg-1ubuntu3.3) jammy-security; urgency=medium",
@@ -306,6 +308,7 @@
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "12.22.9~dfsg-1ubuntu3.6",
         "12.22.9~dfsg-1ubuntu3.5",
         "12.22.9~dfsg-1ubuntu3.4",
         "12.22.9~dfsg-1ubuntu3.3",

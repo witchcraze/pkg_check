@@ -23,6 +23,7 @@
         "ruby.i686                       3.1.4-143.module_el9.3.0+60+5ebc989a                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "ruby.x86_64                     3.1.4-143.module_el9.3.0+60+5ebc989a                       appstream",
         "ruby.x86_64                     3.1.4-143.module_el9.3.0+60+5ebc989a                       repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "ruby.i686                       3.1.5-144.module_el9.4.0+101+d58a8d95                      appstream",
         "ruby.x86_64                     3.1.5-144.module_el9.4.0+101+d58a8d95                      appstream"
     ]
 }

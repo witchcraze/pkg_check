@@ -19,6 +19,7 @@
         "nginx.x86_64                      1:1.20.1-16.el9                      appstream"
     ],
     "kojiPackages": [
+        "nginx-1.20.1-18.el9",
         "nginx-1.20.1-17.el9",
         "nginx-1.20.1-16.el9",
         "nginx-1.20.1-15.el9",
