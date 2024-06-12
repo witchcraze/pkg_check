@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.0.4",
-        "Release": "161.el9",
+        "Version": "3.0.7",
+        "Release": "162.el9",
         "Architecture": "x86_64",
         "Size": "39 k",
-        "Source": "ruby-3.0.4-161.el9.src.rpm",
+        "Source": "ruby-3.0.7-162.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -20,7 +20,9 @@
         "ruby.i686                         3.0.4-160.el9                        appstream",
         "ruby.x86_64                       3.0.4-160.el9                        appstream",
         "ruby.i686                         3.0.4-161.el9                        appstream",
-        "ruby.x86_64                       3.0.4-161.el9                        appstream"
+        "ruby.x86_64                       3.0.4-161.el9                        appstream",
+        "ruby.i686                         3.0.7-162.el9                        appstream",
+        "ruby.x86_64                       3.0.7-162.el9                        appstream"
     ],
     "kojiPackages": [
         "ruby-3.0.7-162.el9",

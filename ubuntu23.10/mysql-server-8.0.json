@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mysql-server-8.0",
-        "Version": "8.0.36-0ubuntu0.23.10.1",
+        "Version": "8.0.37-0ubuntu0.23.10.2",
         "Priority": "optional",
         "Section": "database",
         "Source": "mysql-8.0",
@@ -12,21 +12,22 @@
         "Installed-Size": "1575 kB",
         "Provides": "virtual-mysql-server",
         "Pre-Depends": "adduser (>= 3.40), debconf, mysql-common (>= 5.5)",
-        "Depends": "lsb-base (>= 3.0-10), mysql-client-8.0 (>= 8.0.36-0ubuntu0.23.10.1), mysql-common (>= 5.8+1.0.4~), mysql-server-core-8.0 (= 8.0.36-0ubuntu0.23.10.1), passwd, perl:any (>= 5.6), psmisc, debconf (>= 0.5) | debconf-2.0",
+        "Depends": "lsb-base (>= 3.0-10), mysql-client-8.0 (>= 8.0.37-0ubuntu0.23.10.2), mysql-common (>= 5.8+1.0.4~), mysql-server-core-8.0 (= 8.0.37-0ubuntu0.23.10.2), passwd, perl:any (>= 5.6), psmisc, debconf (>= 0.5) | debconf-2.0",
         "Recommends": "libhtml-template-perl, mecab-ipadic-utf8",
         "Suggests": "mailx, tinyca",
         "Conflicts": "mariadb-server-10.1, mariadb-server-10.3, mysql-server-5.7, virtual-mysql-server",
         "Homepage": "http://dev.mysql.com/",
         "Task": "lamp-server",
-        "Download-Size": "1426 kB",
+        "Download-Size": "1427 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },
     "list": [
-        "mysql-server-8.0/mantic-updates,mantic-security 8.0.36-0ubuntu0.23.10.1 amd64",
+        "mysql-server-8.0/mantic-updates,mantic-security 8.0.37-0ubuntu0.23.10.2 amd64",
         "mysql-server-8.0/mantic 8.0.34-1ubuntu1 amd64"
     ],
     "changelog": [
+        "mysql-8.0 (8.0.37-0ubuntu0.23.10.2) mantic-security; urgency=medium",
         "mysql-8.0 (8.0.36-0ubuntu0.23.10.1) mantic-security; urgency=medium",
         "mysql-8.0 (8.0.35-0ubuntu0.23.10.1) mantic-security; urgency=medium",
         "mysql-8.0 (8.0.34-1ubuntu1) mantic; urgency=medium",
@@ -504,6 +505,7 @@
         "mysql (3.20.16beta-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "8.0.37-0ubuntu0.23.10.2",
         "8.0.36-0ubuntu0.23.10.1",
         "8.0.35-0ubuntu0.23.10.1",
         "8.0.34-1ubuntu1",

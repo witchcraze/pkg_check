@@ -16,12 +16,11 @@
         "Breaks": "node-babel-runtime (<< 7), node-typescript-types (<< 20210110~)",
         "Homepage": "https://nodejs.org/",
         "Download-Size": "122 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/jammy-security 12.22.9~dfsg-1ubuntu3.6 amd64",
-        "nodejs/jammy-updates 12.22.9~dfsg-1ubuntu3.5 amd64",
+        "nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.6 amd64",
         "nodejs/jammy 12.22.9~dfsg-1ubuntu3 amd64"
     ],
     "changelog": [

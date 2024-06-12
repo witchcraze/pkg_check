@@ -18,12 +18,11 @@
         "Replaces": "libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), nodejs-legacy",
         "Homepage": "https://nodejs.org/",
         "Download-Size": "294 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu mantic-security/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/mantic-security 18.13.0+dfsg1-1ubuntu2.3 amd64",
-        "nodejs/mantic-updates 18.13.0+dfsg1-1ubuntu2.2 amd64",
+        "nodejs/mantic-updates,mantic-security 18.13.0+dfsg1-1ubuntu2.3 amd64",
         "nodejs/mantic 18.13.0+dfsg1-1ubuntu2 amd64"
     ],
     "changelog": [
