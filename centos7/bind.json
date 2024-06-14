@@ -4,9 +4,9 @@
         "Arch": "x86_64",
         "Epoch": "32",
         "Version": "9.11.4",
-        "Release": "26.P2.el7_9.15",
+        "Release": "26.P2.el7_9.16",
         "Size": "2.3 M",
-        "Repo": "C7.9.2009-updates/x86_64",
+        "Repo": "updates/7/x86_64",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
         "URL": "http://www.isc.org/products/BIND/",
         "License": "MPLv2.0",
@@ -70,6 +70,7 @@
         "bind.x86_64             32:9.11.4-26.P2.el7_9.14             C7.9.2009-updates",
         "bind.x86_64             32:9.11.4-26.P2.el7_9.14             updates",
         "bind.x86_64             32:9.11.4-26.P2.el7_9.15             C7.9.2009-updates",
-        "bind.x86_64             32:9.11.4-26.P2.el7_9.15             updates"
+        "bind.x86_64             32:9.11.4-26.P2.el7_9.15             updates",
+        "bind.x86_64             32:9.11.4-26.P2.el7_9.16             updates"
     ]
 }

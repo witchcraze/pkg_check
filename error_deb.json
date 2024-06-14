@@ -3,9 +3,6 @@
         "11": {
             "postgresql-13": [
                 "apt-get changelog"
-            ],
-            "python2": [
-                "apt-get changelog"
             ]
         },
         "12": {
