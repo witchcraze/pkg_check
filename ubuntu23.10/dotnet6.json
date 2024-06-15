@@ -53,6 +53,7 @@
         "dotnet6 (6.0.106-0ubuntu1) kinetic; urgency=medium"
     ],
     "publishinghistory": [
+        "6.0.130-0ubuntu1~23.10.1",
         "6.0.129-0ubuntu1~23.10.1",
         "6.0.127-0ubuntu1~23.10.1",
         "6.0.128-0ubuntu1~23.10.2",
