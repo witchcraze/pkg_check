@@ -1,14 +1,14 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.0-5ubuntu1.12",
+        "Version": "2.7.0-5ubuntu1.13",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "207 kB",
+        "Installed-Size": "208 kB",
         "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.4), libruby2.7 (>= 2.7.0~preview1)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
@@ -18,10 +18,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.12 amd64",
+        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.13 amd64",
         "ruby2.7/focal 2.7.0-5ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.0-5ubuntu1.13) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.12) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.11) focal; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.10) focal-security; urgency=medium",
@@ -109,6 +110,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.0-5ubuntu1.13",
         "2.7.0-5ubuntu1.12",
         "2.7.0-5ubuntu1.11",
         "2.7.0-5ubuntu1.10",

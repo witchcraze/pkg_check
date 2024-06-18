@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "6.1 M",
         "Source": "perl-5.24.4-404.module_el8.1.0+6019+b22674e1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "Practical Extraction and Report Language",
         "URL": "http://www.perl.org/",
         "License": "(GPL+ or Artistic) and (GPLv2+ or Artistic) and BSD and Public Domain and UCD",
@@ -20,6 +20,7 @@
         "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
         "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.24.4-404.module_el8.1.0+6019+b22674e1                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "180 k",
         "Source": "vsftpd-3.0.3-36.el8.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
         "License": "GPLv2 with exceptions",
@@ -19,6 +19,7 @@
         "vsftpd.x86_64                                 3.0.3-35.el8                                 repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "vsftpd.x86_64                                 3.0.3-35.el8                                 repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "vsftpd.x86_64                                 3.0.3-35.el8                                 repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "vsftpd.x86_64                                 3.0.3-36.el8                                 appstream"
+        "vsftpd.x86_64                                 3.0.3-36.el8                                 appstream",
+        "vsftpd.x86_64                                 3.0.3-36.el8                                 repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

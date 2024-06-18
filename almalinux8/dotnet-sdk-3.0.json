@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "40 M",
         "Source": "dotnet3.0-3.0.103-1.el8_1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": ".NET Core 3.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
         "License": "MIT and ASL 2.0 and BSD",
@@ -19,6 +19,7 @@
         "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
         "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "dotnet-sdk-3.0.x86_64                           3.0.103-1.el8_1                            repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

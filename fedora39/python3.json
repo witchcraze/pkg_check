@@ -21,6 +21,7 @@
         "python3.x86_64                      3.12.3-2.fc39                       updates"
     ],
     "kojiPackages": [
+        "python3.12-3.12.4-1.fc39",
         "python3.12-3.12.3-2.fc39",
         "python3.12-3.12.3-1.fc39",
         "python3.12-3.12.2-2.fc39",

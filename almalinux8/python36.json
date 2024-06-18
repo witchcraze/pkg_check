@@ -2,10 +2,10 @@
     "info": {
         "Name": "python36",
         "Version": "3.6.8",
-        "Release": "38.module_el8.9.0+3700+efebe9fd",
+        "Release": "39.module_el8.10.0+3769+3838165b",
         "Architecture": "x86_64",
         "Size": "18 k",
-        "Source": "python36-3.6.8-38.module_el8.9.0+3700+efebe9fd.src.rpm",
+        "Source": "python36-3.6.8-39.module_el8.10.0+3769+3838165b.src.rpm",
         "Repository": "appstream",
         "Summary": "Interpreter of the Python programming language",
         "URL": "https://www.python.org/",
@@ -15,11 +15,12 @@
     "list": [
         "python36.x86_64                   3.6.8-2.module_el8.3.0+6191+6b4b10ec                     repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
         "python36.x86_64                   3.6.8-2.module_el8.3.0+6191+6b4b10ec                     repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    appstream",
         "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
         "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "python36.x86_64                   3.6.8-38.module_el8.9.0+3700+efebe9fd                    appstream"
+        "python36.x86_64                   3.6.8-38.module_el8.5.0+2569+5c5719bc                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "python36.x86_64                   3.6.8-38.module_el8.9.0+3700+efebe9fd                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "python36.x86_64                   3.6.8-39.module_el8.10.0+3769+3838165b                   appstream"
     ]
 }

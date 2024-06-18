@@ -7,17 +7,18 @@
         "Architecture": "x86_64",
         "Size": "14 M",
         "Source": "nodejs-20.12.2-2.module_el8.9.0+3827+11b91f3e.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "MIT and ASL 2.0 and ISC and BSD",
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                                       1:20.8.1-1.module_el8.9.0+3675+0258a6d9                                        appstream",
-        "nodejs.x86_64                                       1:20.9.0-1.module_el8.9.0+3684+11b9e959                                        appstream",
-        "nodejs.x86_64                                       1:20.11.0-1.module_el8.9.0+3731+490e3ce5                                       appstream",
-        "nodejs.x86_64                                       1:20.11.1-1.module_el8.9.0+3775+d8460d35                                       appstream",
-        "nodejs.x86_64                                       1:20.12.2-2.module_el8.9.0+3827+11b91f3e                                       appstream"
+        "nodejs.x86_64                   1:20.8.1-1.module_el8.9.0+3675+0258a6d9                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:20.9.0-1.module_el8.9.0+3684+11b9e959                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:20.11.0-1.module_el8.9.0+3731+490e3ce5                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:20.11.1-1.module_el8.9.0+3775+d8460d35                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:20.12.2-2.module_el8.9.0+3827+11b91f3e                   appstream",
+        "nodejs.x86_64                   1:20.12.2-2.module_el8.9.0+3827+11b91f3e                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

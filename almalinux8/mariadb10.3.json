@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "6.0 M",
         "Source": "mariadb-10.3.39-1.module_el8.8.0+3609+204d4ab0.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
         "License": "GPLv2 with exceptions and LGPLv2 and BSD",
@@ -24,6 +24,7 @@
         "mariadb.x86_64                  3:10.3.35-1.module_el8.6.0+3265+230ed96b                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "mariadb.x86_64                  3:10.3.35-1.module_el8.6.0+3265+230ed96b                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   appstream",
-        "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mariadb.x86_64                  3:10.3.39-1.module_el8.8.0+3609+204d4ab0                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "5.0 M",
         "Source": "postgresql-9.6.22-1.module_el8.4.0+2479+beebcf7e.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -20,6 +20,7 @@
         "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
         "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "postgresql-server.x86_64               9.6.22-1.module_el8.4.0+2479+beebcf7e               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

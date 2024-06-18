@@ -3,11 +3,11 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "472.module_el8.8.0+3492+a62a1135",
+        "Release": "473.module_el8.10.0+3779+d5938d28",
         "Architecture": "x86_64",
         "Size": "94 k",
-        "Source": "perl-5.32.1-472.module_el8.8.0+3492+a62a1135.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Source": "perl-5.32.1-473.module_el8.10.0+3779+d5938d28.src.rpm",
+        "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
         "License": "GPL+ or Artistic",
@@ -16,7 +16,8 @@
     "list": [
         "perl.x86_64                   4:5.32.1-471.module_el8.6.0+2766+8bf0b7ce                    repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "perl.x86_64                   4:5.32.1-471.module_el8.6.0+2766+8bf0b7ce                    repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "perl.x86_64                   4:5.32.1-472.module_el8.8.0+3492+a62a1135                    appstream",
-        "perl.x86_64                   4:5.32.1-472.module_el8.8.0+3492+a62a1135                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "perl.x86_64                   4:5.32.1-472.module_el8.8.0+3492+a62a1135                    repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.32.1-472.module_el8.8.0+3492+a62a1135                    repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "perl.x86_64                   4:5.32.1-473.module_el8.10.0+3779+d5938d28                   appstream"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-7.0",
-        "Version": "7.0.118",
-        "Release": "1.el8_9",
+        "Version": "7.0.119",
+        "Release": "1.el8_10",
         "Architecture": "x86_64",
         "Size": "88 M",
-        "Source": "dotnet7.0-7.0.118-1.el8_9.src.rpm",
+        "Source": "dotnet7.0-7.0.119-1.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 7.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -30,10 +30,11 @@
         "dotnet-sdk-7.0.x86_64                        7.0.111-1.el8_8                               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "dotnet-sdk-7.0.x86_64                        7.0.112-1.el8_8                               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "dotnet-sdk-7.0.x86_64                        7.0.113-1.el8_8                               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "dotnet-sdk-7.0.x86_64                        7.0.114-1.el8_9                               appstream",
-        "dotnet-sdk-7.0.x86_64                        7.0.115-1.el8_9                               appstream",
-        "dotnet-sdk-7.0.x86_64                        7.0.116-1.el8_9                               appstream",
-        "dotnet-sdk-7.0.x86_64                        7.0.117-1.el8_9                               appstream",
-        "dotnet-sdk-7.0.x86_64                        7.0.118-1.el8_9                               appstream"
+        "dotnet-sdk-7.0.x86_64                        7.0.114-1.el8_9                               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                        7.0.115-1.el8_9                               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                        7.0.116-1.el8_9                               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                        7.0.117-1.el8_9                               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                        7.0.118-1.el8_9                               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "dotnet-sdk-7.0.x86_64                        7.0.119-1.el8_10                              appstream"
     ]
 }

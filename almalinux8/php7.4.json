@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "1.5 M",
         "Source": "php-7.4.33-1.module_el8.8.0+3477+f828cbb0.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
         "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA",
@@ -21,6 +21,7 @@
         "php.x86_64                      7.4.19-4.module_el8.6.0+3238+624bf8b8                      repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
         "php.x86_64                      7.4.30-1.module_el8.7.0+3286+227f3cf0                      repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "php.x86_64                      7.4.33-1.module_el8.8.0+3477+f828cbb0                      appstream",
-        "php.x86_64                      7.4.33-1.module_el8.8.0+3477+f828cbb0                      repo.almalinux.org_vault_8.8_AppStream_x86_64_os_"
+        "php.x86_64                      7.4.33-1.module_el8.8.0+3477+f828cbb0                      repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "php.x86_64                      7.4.33-1.module_el8.8.0+3477+f828cbb0                      repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }

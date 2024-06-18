@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "87 k",
         "Source": "ruby-2.5.9-111.module_el8.9.0+3635+c6f99506.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "http://ruby-lang.org/",
         "License": "(Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD",
@@ -34,6 +34,8 @@
         "ruby.x86_64                  2.5.9-110.module_el8.6.0+3074+4b08f9d4                        repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "ruby.x86_64                  2.5.9-110.module_el8.6.0+3074+4b08f9d4                        repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "ruby.i686                    2.5.9-111.module_el8.9.0+3635+c6f99506                        appstream",
-        "ruby.x86_64                  2.5.9-111.module_el8.9.0+3635+c6f99506                        appstream"
+        "ruby.i686                    2.5.9-111.module_el8.9.0+3635+c6f99506                        repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "ruby.x86_64                  2.5.9-111.module_el8.9.0+3635+c6f99506                        appstream",
+        "ruby.x86_64                  2.5.9-111.module_el8.9.0+3635+c6f99506                        repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
     ]
 }
