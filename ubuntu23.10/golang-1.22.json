@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "10",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

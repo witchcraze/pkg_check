@@ -3,10 +3,10 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "3.0.8",
-        "Release": "1.amzn2023.0.11",
+        "Release": "1.amzn2023.0.12",
         "Architecture": "x86_64",
         "Size": "1.2 M",
-        "Source": "openssl-3.0.8-1.amzn2023.0.11.src.rpm",
+        "Source": "openssl-3.0.8-1.amzn2023.0.12.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
@@ -25,6 +25,7 @@
         "openssl.x86_64                1:3.0.8-1.amzn2023.0.8                 amazonlinux",
         "openssl.x86_64                1:3.0.8-1.amzn2023.0.9                 amazonlinux",
         "openssl.x86_64                1:3.0.8-1.amzn2023.0.10                amazonlinux",
-        "openssl.x86_64                1:3.0.8-1.amzn2023.0.11                amazonlinux"
+        "openssl.x86_64                1:3.0.8-1.amzn2023.0.11                amazonlinux",
+        "openssl.x86_64                1:3.0.8-1.amzn2023.0.12                amazonlinux"
     ]
 }

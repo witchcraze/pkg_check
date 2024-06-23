@@ -11,7 +11,6 @@
         "Installed-Size": "45.1 kB",
         "Depends": "golang-1.22-doc (>= 1.22.2-2~22.04), golang-1.22-go (>= 1.22.2-2~22.04), golang-1.22-src (>= 1.22.2-2~22.04)",
         "Homepage": "https://go.dev/",
-        "Phased-Update-Percentage": "10",
         "Download-Size": "5694 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"

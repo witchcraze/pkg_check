@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mariadb-server-10.5",
-        "Version": "1:10.11.6-0ubuntu0.23.10.2",
+        "Version": "1:10.11.8-0ubuntu0.23.10.1",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "mariadb",
@@ -9,7 +9,7 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian MySQL Maintainers <pkg-mysql-maint@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "56.3 kB",
+        "Installed-Size": "57.3 kB",
         "Depends": "mariadb-server (>= 1:10.11)",
         "Homepage": "https://mariadb.org/",
         "Download-Size": "11.6 kB",
@@ -17,10 +17,11 @@
         "Description": "MariaDB database server binaries"
     },
     "list": [
-        "mariadb-server-10.5/mantic-updates,mantic-security 1:10.11.6-0ubuntu0.23.10.2 amd64",
+        "mariadb-server-10.5/mantic-updates,mantic-security 1:10.11.8-0ubuntu0.23.10.1 amd64",
         "mariadb-server-10.5/mantic 1:10.11.4-1 amd64"
     ],
     "changelog": [
+        "mariadb (1:10.11.8-0ubuntu0.23.10.1) mantic-security; urgency=medium",
         "mariadb (1:10.11.6-0ubuntu0.23.10.2) mantic-security; urgency=medium",
         "mariadb (1:10.11.4-1) unstable; urgency=medium",
         "mariadb (1:10.11.3-1) unstable; urgency=medium",
@@ -172,6 +173,7 @@
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "1:10.11.8-0ubuntu0.23.10.1",
         "1:10.11.6-0ubuntu0.23.10.2",
         "1:10.11.4-1",
         "1:10.11.3-1",
