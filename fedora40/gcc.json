@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "14.1.1",
-        "Release": "5.fc40",
+        "Release": "6.fc40",
         "Architecture": "x86_64",
         "Size": "37 M",
-        "Source": "gcc-14.1.1-5.fc40.src.rpm",
+        "Source": "gcc-14.1.1-6.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -14,7 +14,7 @@
     },
     "list": [
         "gcc.x86_64                       14.0.1-0.15.fc40                        fedora",
-        "gcc.x86_64                       14.1.1-5.fc40                           updates"
+        "gcc.x86_64                       14.1.1-6.fc40                           updates"
     ],
     "kojiPackages": [
         "gcc-14.1.1-6.fc40",
