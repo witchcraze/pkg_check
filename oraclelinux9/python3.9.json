@@ -2,11 +2,11 @@
     "info": {
         "Name": "python3.9",
         "Version": "3.9.18",
-        "Release": "3.el9",
+        "Release": "3.el9_4.1",
         "Architecture": "src",
         "Size": "19 M",
         "Source": "None",
-        "Repository": "ol9_u4_baseos_base",
+        "Repository": "ol9_baseos_latest",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
         "License": "Python",
@@ -39,6 +39,8 @@
         "python3.9.src                3.9.18-1.el9_3.1                 ol9_appstream",
         "python3.9.src                3.9.18-3.el9                     ol9_baseos_latest",
         "python3.9.src                3.9.18-3.el9                     ol9_appstream",
-        "python3.9.src                3.9.18-3.el9                     ol9_u4_baseos_base"
+        "python3.9.src                3.9.18-3.el9                     ol9_u4_baseos_base",
+        "python3.9.src                3.9.18-3.el9_4.1                 ol9_baseos_latest",
+        "python3.9.src                3.9.18-3.el9_4.1                 ol9_appstream"
     ]
 }
