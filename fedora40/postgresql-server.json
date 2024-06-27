@@ -1,19 +1,21 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.1",
-        "Release": "6.fc40",
+        "Version": "16.3",
+        "Release": "7.fc40",
         "Architecture": "x86_64",
         "Size": "6.9 M",
-        "Source": "postgresql16-16.1-6.fc40.src.rpm",
-        "Repository": "fedora",
+        "Source": "postgresql16-16.3-7.fc40.src.rpm",
+        "Repository": "updates",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.i686                     16.1-6.fc40                    fedora",
-        "postgresql-server.x86_64                   16.1-6.fc40                    fedora"
+        "postgresql-server.i686                     16.1-6.fc40                   fedora",
+        "postgresql-server.x86_64                   16.1-6.fc40                   fedora",
+        "postgresql-server.i686                     16.3-7.fc40                   updates",
+        "postgresql-server.x86_64                   16.3-7.fc40                   updates"
     ]
 }
