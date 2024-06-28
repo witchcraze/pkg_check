@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "18.18.2",
-        "Release": "1.amzn2023.0.4",
+        "Release": "1.amzn2023.0.5",
         "Architecture": "x86_64",
-        "Size": "1.8 M",
-        "Source": "nodejs-18.18.2-1.amzn2023.0.4.src.rpm",
+        "Size": "14 M",
+        "Source": "nodejs-18.18.2-1.amzn2023.0.5.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -27,6 +27,7 @@
         "nodejs.x86_64               1:18.18.2-1.amzn2023.0.1                 amazonlinux",
         "nodejs.x86_64               1:18.18.2-1.amzn2023.0.2                 amazonlinux",
         "nodejs.x86_64               1:18.18.2-1.amzn2023.0.3                 amazonlinux",
-        "nodejs.x86_64               1:18.18.2-1.amzn2023.0.4                 amazonlinux"
+        "nodejs.x86_64               1:18.18.2-1.amzn2023.0.4                 amazonlinux",
+        "nodejs.x86_64               1:18.18.2-1.amzn2023.0.5                 amazonlinux"
     ]
 }

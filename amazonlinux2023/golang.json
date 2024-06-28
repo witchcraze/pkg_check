@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.22.3",
+        "Version": "1.22.4",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "661 k",
-        "Source": "golang-1.22.3-1.amzn2023.0.1.src.rpm",
+        "Source": "golang-1.22.4-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -24,6 +24,7 @@
         "golang.x86_64                 1.20.10-1.amzn2023.0.1                 amazonlinux",
         "golang.x86_64                 1.20.12-1.amzn2023.0.1                 amazonlinux",
         "golang.x86_64                 1.20.12-1.amzn2023.0.2                 amazonlinux",
-        "golang.x86_64                 1.22.3-1.amzn2023.0.1                  amazonlinux"
+        "golang.x86_64                 1.22.3-1.amzn2023.0.1                  amazonlinux",
+        "golang.x86_64                 1.22.4-1.amzn2023.0.1                  amazonlinux"
     ]
 }

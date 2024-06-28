@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "php8.3",
+        "Version": "8.3.7",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "11 k",
+        "Source": "php8.3-8.3.7-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and Boost",
+        "Description": "PHP 8.3 is an HTML-embedded scripting language. PHP 8.3 attempts to make it"
+    },
+    "list": [
+        "php8.3.x86_64                  8.3.7-1.amzn2023.0.1                  amazonlinux"
+    ]
+}
