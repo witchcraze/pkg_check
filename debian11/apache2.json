@@ -15,13 +15,13 @@
         "Breaks": "libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Homepage": "https://httpd.apache.org/",
+        "Tag": "role::metapackage, suite::apache",
         "Download-Size": "284 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/oldstable-security 2.4.59-1~deb11u1 amd64",
-        "apache2/oldstable 2.4.56-1~deb11u2 amd64"
+        "apache2/oldstable,oldstable-security 2.4.59-1~deb11u1 amd64"
     ],
     "changelog": [
         "apache2 (2.4.59-1~deb11u1) bullseye-security; urgency=medium",
@@ -307,6 +307,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.59-1~deb11u1",
         "2.4.56-1~deb11u2",
         "2.4.54-1~deb11u1",
         "2.4.53-1~deb11u1",

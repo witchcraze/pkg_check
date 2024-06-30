@@ -14,12 +14,11 @@
         "Conflicts": "squid-openssl",
         "Homepage": "http://www.squid-cache.org",
         "Download-Size": "2631 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/oldstable-security 4.13-10+deb11u3 amd64",
-        "squid/oldstable 4.13-10+deb11u2 amd64"
+        "squid/oldstable,oldstable-security 4.13-10+deb11u3 amd64"
     ],
     "changelog": [
         "squid (4.13-10+deb11u3) bullseye-security; urgency=high",
@@ -155,6 +154,7 @@
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "4.13-10+deb11u3",
         "4.13-10+deb11u2",
         "4.13-10+deb11u1",
         "4.13-10"
