@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-12",
-        "Version": "12.18-0ubuntu0.20.04.1",
+        "Version": "12.19-0ubuntu0.20.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
@@ -15,15 +15,18 @@
         "Homepage": "http://www.postgresql.org/",
         "Task": "postgresql-server",
         "Postgresql-Catversion": "201909212",
+        "Phased-Update-Percentage": "40",
         "Download-Size": "13.5 MB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 12 server"
     },
     "list": [
-        "postgresql-12/focal-updates,focal-security 12.18-0ubuntu0.20.04.1 amd64",
+        "postgresql-12/focal-updates 12.19-0ubuntu0.20.04.1 amd64",
+        "postgresql-12/focal-security 12.18-0ubuntu0.20.04.1 amd64",
         "postgresql-12/focal 12.2-4 amd64"
     ],
     "changelog": [
+        "postgresql-12 (12.19-0ubuntu0.20.04.1) focal; urgency=medium",
         "postgresql-12 (12.18-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "postgresql-12 (12.17-0ubuntu0.20.04.1) focal-security; urgency=medium",
         "postgresql-12 (12.16-0ubuntu0.20.04.1) focal-security; urgency=medium",

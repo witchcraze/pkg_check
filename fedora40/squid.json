@@ -17,6 +17,7 @@
         "squid.x86_64                         7:6.6-1.fc40                         fedora"
     ],
     "kojiPackages": [
+        "squid-6.10-1.fc40",
         "squid-6.6-2.fc40",
         "squid-6.6-1.fc40",
         "squid-6.5-1.fc40",
