@@ -1,9 +1,1 @@
-{
-    "debian": {
-        "11": {
-            "nodejs": [
-                "apt-get changelog"
-            ]
-        }
-    }
-}
+[]
