@@ -1,19 +1,21 @@
 {
     "info": {
         "Name": "python3.12",
-        "Version": "3.12.1",
-        "Release": "4.el8",
+        "Version": "3.12.3",
+        "Release": "2.el8_10",
         "Architecture": "x86_64",
-        "Size": "28 k",
-        "Source": "python3.12-3.12.1-4.el8.src.rpm",
+        "Size": "29 k",
+        "Source": "python3.12-3.12.3-2.el8_10.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
-        "License": "Python",
+        "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.12.src                                                    3.12.1-4.el8                                                 ol8_appstream",
-        "python3.12.x86_64                                                 3.12.1-4.el8                                                 ol8_appstream"
+        "python3.12.src                                                  3.12.1-4.el8                                                   ol8_appstream",
+        "python3.12.x86_64                                               3.12.1-4.el8                                                   ol8_appstream",
+        "python3.12.src                                                  3.12.3-2.el8_10                                                ol8_appstream",
+        "python3.12.x86_64                                               3.12.3-2.el8_10                                                ol8_appstream"
     ]
 }

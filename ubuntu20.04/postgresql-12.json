@@ -15,7 +15,6 @@
         "Homepage": "http://www.postgresql.org/",
         "Task": "postgresql-server",
         "Postgresql-Catversion": "201909212",
-        "Phased-Update-Percentage": "70",
         "Download-Size": "13.5 MB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 12 server"
