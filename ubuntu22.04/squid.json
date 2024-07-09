@@ -15,7 +15,6 @@
         "Suggests": "squidclient, squid-cgi, squid-purge, resolvconf (>= 0.40), smbclient, ufw, winbind, apparmor",
         "Conflicts": "squid-openssl",
         "Homepage": "http://www.squid-cache.org",
-        "Phased-Update-Percentage": "40",
         "Download-Size": "2678 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"

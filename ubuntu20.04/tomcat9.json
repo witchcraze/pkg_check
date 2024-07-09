@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "tomcat9",
-        "Version": "9.0.31-1ubuntu0.4",
+        "Version": "9.0.31-1ubuntu0.5",
         "Priority": "optional",
         "Section": "universe/java",
         "Origin": "Ubuntu",
@@ -9,20 +9,20 @@
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "311 kB",
-        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1ubuntu0.4), ucf",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1ubuntu0.5), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat9-admin (>= 9.0.31-1ubuntu0.4), tomcat9-docs (>= 9.0.31-1ubuntu0.4), tomcat9-examples (>= 9.0.31-1ubuntu0.4), tomcat9-user (>= 9.0.31-1ubuntu0.4)",
+        "Suggests": "tomcat9-admin (>= 9.0.31-1ubuntu0.5), tomcat9-docs (>= 9.0.31-1ubuntu0.5), tomcat9-examples (>= 9.0.31-1ubuntu0.5), tomcat9-user (>= 9.0.31-1ubuntu0.5)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "36.5 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/focal-updates 9.0.31-1ubuntu0.4 all",
-        "tomcat9/focal-security 9.0.31-1ubuntu0.2 all",
+        "tomcat9/focal-updates,focal-security 9.0.31-1ubuntu0.5 all",
         "tomcat9/focal 9.0.31-1 all"
     ],
     "changelog": [
+        "tomcat9 (9.0.31-1ubuntu0.5) focal-security; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.4) focal; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.3) focal; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.2) focal-security; urgency=medium",
@@ -92,6 +92,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.31-1ubuntu0.5",
         "9.0.31-1ubuntu0.4",
         "9.0.31-1ubuntu0.3",
         "9.0.31-1ubuntu0.2",
