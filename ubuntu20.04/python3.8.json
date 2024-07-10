@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.8",
-        "Version": "3.8.10-0ubuntu1~20.04.9",
+        "Version": "3.8.10-0ubuntu1~20.04.10",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "522 kB",
-        "Depends": "python3.8-minimal (= 3.8.10-0ubuntu1~20.04.9), libpython3.8-stdlib (= 3.8.10-0ubuntu1~20.04.9), mime-support",
+        "Depends": "python3.8-minimal (= 3.8.10-0ubuntu1~20.04.10), libpython3.8-stdlib (= 3.8.10-0ubuntu1~20.04.10), mime-support",
         "Suggests": "python3.8-venv, python3.8-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Task": "minimal, ubuntu-core",
@@ -18,10 +18,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.8)"
     },
     "list": [
-        "python3.8/focal-updates,focal-security 3.8.10-0ubuntu1~20.04.9 amd64",
+        "python3.8/focal-updates,focal-security 3.8.10-0ubuntu1~20.04.10 amd64",
         "python3.8/focal 3.8.2-1ubuntu1 amd64"
     ],
     "changelog": [
+        "python3.8 (3.8.10-0ubuntu1~20.04.10) focal-security; urgency=medium",
         "python3.8 (3.8.10-0ubuntu1~20.04.9) focal-security; urgency=medium",
         "python3.8 (3.8.10-0ubuntu1~20.04.8) focal-security; urgency=medium",
         "python3.8 (3.8.10-0ubuntu1~20.04.7) focal-security; urgency=medium",
@@ -469,6 +470,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.8.10-0ubuntu1~20.04.10",
         "3.8.10-0ubuntu1~20.04.9",
         "3.8.10-0ubuntu1~20.04.8",
         "3.8.10-0ubuntu1~20.04.7",

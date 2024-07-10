@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet6",
-        "Version": "6.0.128-0ubuntu1~23.10.2",
+        "Version": "6.0.132-0ubuntu1~23.10.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -15,11 +15,13 @@
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [
-        "dotnet6/mantic-updates 6.0.128-0ubuntu1~23.10.2 amd64",
-        "dotnet6/mantic-security 6.0.127-0ubuntu1~23.10.1 amd64",
+        "dotnet6/mantic-updates,mantic-security 6.0.132-0ubuntu1~23.10.1 amd64",
         "dotnet6/mantic 6.0.121-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet6 (6.0.132-0ubuntu1~23.10.1) mantic-security; urgency=medium",
+        "dotnet6 (6.0.130-0ubuntu1~23.10.1) mantic; urgency=medium",
+        "dotnet6 (6.0.129-0ubuntu1~23.10.1) mantic; urgency=medium",
         "dotnet6 (6.0.128-0ubuntu1~23.10.2) mantic; urgency=medium",
         "dotnet6 (6.0.128-0ubuntu1~23.10.1) mantic; urgency=medium",
         "dotnet6 (6.0.127-0ubuntu1~23.10.1) mantic-security; urgency=medium",
@@ -53,6 +55,7 @@
         "dotnet6 (6.0.106-0ubuntu1) kinetic; urgency=medium"
     ],
     "publishinghistory": [
+        "6.0.132-0ubuntu1~23.10.1",
         "6.0.130-0ubuntu1~23.10.1",
         "6.0.129-0ubuntu1~23.10.1",
         "6.0.127-0ubuntu1~23.10.1",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "golang-1.21",
-        "Version": "1.21.9-1",
+        "Version": "1.21.9-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
@@ -9,16 +9,18 @@
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "32.8 kB",
-        "Depends": "golang-1.21-doc (>= 1.21.9-1), golang-1.21-go (>= 1.21.9-1), golang-1.21-src (>= 1.21.9-1)",
+        "Depends": "golang-1.21-doc (>= 1.21.9-1ubuntu0.1), golang-1.21-go (>= 1.21.9-1ubuntu0.1), golang-1.21-src (>= 1.21.9-1ubuntu0.1)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5688 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages",
+        "Download-Size": "5698 B",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
+        "golang-1.21/noble-updates,noble-security 1.21.9-1ubuntu0.1 all",
         "golang-1.21/noble 1.21.9-1 all"
     ],
     "changelog": [
+        "golang-1.21 (1.21.9-1ubuntu0.1) noble-security; urgency=medium",
         "golang-1.21 (1.21.9-1) unstable; urgency=medium",
         "golang-1.21 (1.21.8-1) unstable; urgency=medium",
         "golang-1.21 (1.21.7-2) unstable; urgency=medium",
@@ -250,6 +252,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.21.9-1ubuntu0.1",
         "1.21.9-1",
         "1.21.8-1build1",
         "1.21.8-1",

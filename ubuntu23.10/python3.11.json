@@ -1,27 +1,29 @@
 {
     "show": {
         "Package": "python3.11",
-        "Version": "3.11.6-3",
+        "Version": "3.11.6-3ubuntu0.1",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "679 kB",
-        "Depends": "python3.11-minimal (= 3.11.6-3), libpython3.11-stdlib (= 3.11.6-3), media-types | mime-support",
+        "Depends": "python3.11-minimal (= 3.11.6-3ubuntu0.1), libpython3.11-stdlib (= 3.11.6-3ubuntu0.1), media-types | mime-support",
         "Recommends": "ca-certificates",
         "Suggests": "python3.11-venv, python3.11-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Task": "minimal, server-minimal, cloud-minimal",
         "Download-Size": "579 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
     "list": [
+        "python3.11/mantic-updates,mantic-security 3.11.6-3ubuntu0.1 amd64",
         "python3.11/mantic 3.11.6-3 amd64"
     ],
     "changelog": [
+        "python3.11 (3.11.6-3ubuntu0.1) mantic-security; urgency=medium",
         "python3.11 (3.11.6-3) unstable; urgency=medium",
         "python3.11 (3.11.6-2) unstable; urgency=medium",
         "python3.11 (3.11.6-1) unstable; urgency=medium",
@@ -531,6 +533,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.11.6-3ubuntu0.1",
         "3.11.6-3",
         "3.11.6-2",
         "3.11.6-1",
