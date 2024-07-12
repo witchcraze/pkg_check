@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.20",
+        "Version": "8.2.21",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "12 k",
-        "Source": "php-8.2.20-1.fc39.src.rpm",
+        "Source": "php-8.2.21-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "php.x86_64                         8.2.10-1.fc39                         fedora",
-        "php.x86_64                         8.2.20-1.fc39                         updates"
+        "php.x86_64                         8.2.21-1.fc39                         updates"
     ],
     "kojiPackages": [
         "php-8.2.21-1.fc39",
