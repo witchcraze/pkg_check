@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "2.5.9",
-        "Release": "111.module+el8.9.0+1536+5f79634e",
+        "Release": "112.module+el8.10.0+1839+f1f156ae",
         "Architecture": "x86_64",
         "Size": "87 k",
-        "Source": "ruby-2.5.9-111.module+el8.9.0+1536+5f79634e.src.rpm",
+        "Source": "ruby-2.5.9-112.module+el8.10.0+1839+f1f156ae.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "http://ruby-lang.org/",
@@ -13,7 +13,9 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686             2.5.9-111.module+el8.9.0+1536+5f79634e           appstream",
-        "ruby.x86_64           2.5.9-111.module+el8.9.0+1536+5f79634e           appstream"
+        "ruby.i686            2.5.9-111.module+el8.9.0+1536+5f79634e            appstream",
+        "ruby.x86_64          2.5.9-111.module+el8.9.0+1536+5f79634e            appstream",
+        "ruby.i686            2.5.9-112.module+el8.10.0+1839+f1f156ae           appstream",
+        "ruby.x86_64          2.5.9-112.module+el8.10.0+1839+f1f156ae           appstream"
     ]
 }
