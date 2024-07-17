@@ -11,7 +11,7 @@
         "Installed-Size": "46.1 kB",
         "Depends": "nginx-core (<< 1.18.0-0ubuntu1.5.1~) | nginx-full (<< 1.18.0-0ubuntu1.5.1~) | nginx-light (<< 1.18.0-0ubuntu1.5.1~) | nginx-extras (<< 1.18.0-0ubuntu1.5.1~), nginx-core (>= 1.18.0-0ubuntu1.5) | nginx-full (>= 1.18.0-0ubuntu1.5) | nginx-light (>= 1.18.0-0ubuntu1.5) | nginx-extras (>= 1.18.0-0ubuntu1.5)",
         "Homepage": "http://nginx.net",
-        "Phased-Update-Percentage": "30",
+        "Phased-Update-Percentage": "70",
         "Download-Size": "3612 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
