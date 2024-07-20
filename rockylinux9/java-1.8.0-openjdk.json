@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.412.b08",
+        "Version": "1.8.0.422.b05",
         "Release": "2.el9",
         "Architecture": "x86_64",
-        "Size": "457 k",
-        "Source": "java-1.8.0-openjdk-1.8.0.412.b08-2.el9.src.rpm",
+        "Size": "427 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.422.b05-2.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -14,7 +14,7 @@
         "Description": "The OpenJDK 8 runtime environment."
     },
     "list": [
-        "java-1.8.0-openjdk.x86_64            1:1.8.0.412.b08-2.el9             appstream"
+        "java-1.8.0-openjdk.x86_64            1:1.8.0.422.b05-2.el9             appstream"
     ],
     "kojiPackages": [
         "java-1.8.0-openjdk-1.8.0.412.b08-2.el9",
