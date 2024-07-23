@@ -3,7 +3,7 @@
         "Name": "java-11-amazon-corretto",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "11.0.23+9",
+        "Version": "11.0.24+8",
         "Release": "1.amzn2",
         "Size": "190 k",
         "Repo": "amzn2-core/2/x86_64",
@@ -42,6 +42,7 @@
         "java-11-amazon-corretto.x86_64         1:11.0.20+9-1.amzn2            amzn2-core",
         "java-11-amazon-corretto.x86_64         1:11.0.21+9-1.amzn2            amzn2-core",
         "java-11-amazon-corretto.x86_64         1:11.0.22+7-1.amzn2            amzn2-core",
-        "java-11-amazon-corretto.x86_64         1:11.0.23+9-1.amzn2            amzn2-core"
+        "java-11-amazon-corretto.x86_64         1:11.0.23+9-1.amzn2            amzn2-core",
+        "java-11-amazon-corretto.x86_64         1:11.0.24+8-1.amzn2            amzn2-core"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "httpd",
-        "Version": "2.4.61",
+        "Version": "2.4.62",
         "Release": "1.fc40",
         "Architecture": "x86_64",
-        "Size": "46 k",
-        "Source": "httpd-2.4.61-1.fc40.src.rpm",
+        "Size": "47 k",
+        "Source": "httpd-2.4.62-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -15,7 +15,7 @@
     "list": [
         "httpd.i686                          2.4.58-7.fc40                        fedora",
         "httpd.x86_64                        2.4.58-7.fc40                        fedora",
-        "httpd.x86_64                        2.4.61-1.fc40                        updates"
+        "httpd.x86_64                        2.4.62-1.fc40                        updates"
     ],
     "kojiPackages": [
         "httpd-2.4.62-1.fc40",
