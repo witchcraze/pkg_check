@@ -2,8 +2,8 @@
     "info": {
         "Name": "httpd24",
         "Arch": "x86_64",
-        "Version": "2.4.59",
-        "Release": "1.102.amzn1",
+        "Version": "2.4.61",
+        "Release": "1.103.amzn1",
         "Size": "1.6 M",
         "Repo": "amzn-updates/latest",
         "Summary": "Apache HTTP Server",
@@ -31,6 +31,7 @@
         "httpd24.x86_64                  2.4.54-1.99.amzn1                   amzn-updates",
         "httpd24.x86_64                  2.4.56-1.100.amzn1                  amzn-updates",
         "httpd24.x86_64                  2.4.58-1.101.amzn1                  amzn-updates",
-        "httpd24.x86_64                  2.4.59-1.102.amzn1                  amzn-updates"
+        "httpd24.x86_64                  2.4.59-1.102.amzn1                  amzn-updates",
+        "httpd24.x86_64                  2.4.61-1.103.amzn1                  amzn-updates"
     ]
 }

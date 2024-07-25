@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "1.0.1.module+el9.4.0+90262+d5d126d9",
+        "Release": "1.0.1.module+el9.4.0+90371+10c3b992.1",
         "Architecture": "x86_64",
         "Size": "46 k",
-        "Source": "nginx-1.24.0-1.0.1.module+el9.4.0+90262+d5d126d9.src.rpm",
+        "Source": "nginx-1.24.0-1.0.1.module+el9.4.0+90371+10c3b992.1.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,6 +14,7 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64     1:1.24.0-1.0.1.module+el9.4.0+90262+d5d126d9      ol9_appstream"
+        "nginx.x86_64    1:1.24.0-1.0.1.module+el9.4.0+90262+d5d126d9       ol9_appstream",
+        "nginx.x86_64    1:1.24.0-1.0.1.module+el9.4.0+90371+10c3b992.1     ol9_appstream"
     ]
 }
