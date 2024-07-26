@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "httpd",
-        "Version": "2.4.59",
-        "Release": "2.amzn2023",
+        "Version": "2.4.61",
+        "Release": "1.amzn2023",
         "Architecture": "x86_64",
         "Size": "47 k",
-        "Source": "httpd-2.4.59-2.amzn2023.src.rpm",
+        "Source": "httpd-2.4.61-1.amzn2023.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -17,6 +17,7 @@
         "httpd.x86_64                  2.4.55-1.amzn2023                      amazonlinux",
         "httpd.x86_64                  2.4.56-1.amzn2023                      amazonlinux",
         "httpd.x86_64                  2.4.58-1.amzn2023                      amazonlinux",
-        "httpd.x86_64                  2.4.59-2.amzn2023                      amazonlinux"
+        "httpd.x86_64                  2.4.59-2.amzn2023                      amazonlinux",
+        "httpd.x86_64                  2.4.61-1.amzn2023                      amazonlinux"
     ]
 }
