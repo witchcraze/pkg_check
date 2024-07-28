@@ -1,0 +1,26 @@
+{
+    "info": {
+        "Name": "nodejs22",
+        "Epoch": "1",
+        "Version": "22.4.1",
+        "Release": "1.fc40",
+        "Architecture": "x86_64",
+        "Size": "44 k",
+        "Source": "nodejs22-22.4.1-1.fc40.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
+    },
+    "list": [
+        "nodejs22.i686                       1:22.4.1-1.fc40                      updates",
+        "nodejs22.x86_64                     1:22.4.1-1.fc40                      updates"
+    ],
+    "kojiPackages": [
+        "nodejs22-22.4.1-1.fc40",
+        "nodejs22-22.3.0-1.fc40",
+        "nodejs22-22.2.0-2.fc40",
+        "nodejs22-22.2.0-1.fc40"
+    ]
+}
