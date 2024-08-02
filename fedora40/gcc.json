@@ -17,6 +17,7 @@
         "gcc.x86_64                       14.1.1-7.fc40                           updates"
     ],
     "kojiPackages": [
+        "gcc-14.2.1-1.fc40",
         "gcc-14.1.1-7.fc40",
         "gcc-14.1.1-6.fc40",
         "gcc-14.1.1-5.fc40",

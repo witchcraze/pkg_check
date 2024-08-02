@@ -1,27 +1,29 @@
 {
     "show": {
         "Package": "python3.12",
-        "Version": "3.12.3-1",
+        "Version": "3.12.3-1ubuntu0.1",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "753 kB",
-        "Depends": "python3.12-minimal (= 3.12.3-1), libpython3.12-stdlib (= 3.12.3-1), media-types | mime-support, tzdata",
+        "Depends": "python3.12-minimal (= 3.12.3-1ubuntu0.1), libpython3.12-stdlib (= 3.12.3-1ubuntu0.1), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.12-venv, python3.12-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Task": "cloud-minimal, minimal, server-minimal",
         "Download-Size": "651 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.12)"
     },
     "list": [
+        "python3.12/noble-updates,noble-security 3.12.3-1ubuntu0.1 amd64",
         "python3.12/noble 3.12.3-1 amd64"
     ],
     "changelog": [
+        "python3.12 (3.12.3-1ubuntu0.1) noble-security; urgency=medium",
         "python3.12 (3.12.3-1) unstable; urgency=medium",
         "python3.12 (3.12.2-5) unstable; urgency=medium",
         "python3.12 (3.12.2-4) unstable; urgency=medium",
@@ -545,6 +547,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.12.3-1ubuntu0.1",
         "3.12.3-1",
         "3.12.2-5ubuntu3",
         "3.12.2-4build4",
