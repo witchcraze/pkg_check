@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "bind9",
-        "Version": "1:9.11.3+dfsg-1ubuntu1.19+esm3",
+        "Version": "1:9.11.3+dfsg-1ubuntu1.19+esm4",
         "Priority": "optional",
         "Section": "net",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian DNS Packaging <pkg-dns-devel@lists.alioth.debian.org>",
-        "Installed-Size": "1927 kB",
-        "Depends": "adduser, bind9utils (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), debconf (>= 0.5) | debconf-2.0, libbind9-160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), libdns1100 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), libisc169 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), libisccc160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), libisccfg160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), liblwres160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm3), lsb-base (>= 3.2-14), net-tools, netbase, libc6 (>= 2.4), libcap2 (>= 1:2.10), libgeoip1, libjson-c3 (>= 0.11), libssl1.1 (>= 1.1.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
+        "Installed-Size": "1928 kB",
+        "Depends": "adduser, bind9utils (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), debconf (>= 0.5) | debconf-2.0, libbind9-160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), libdns1100 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), libisc169 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), libisccc160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), libisccfg160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), liblwres160 (= 1:9.11.3+dfsg-1ubuntu1.19+esm4), lsb-base (>= 3.2-14), net-tools, netbase, libc6 (>= 2.4), libcap2 (>= 1:2.10), libgeoip1, libjson-c3 (>= 0.11), libssl1.1 (>= 1.1.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
         "Suggests": "bind9-doc, dnsutils, resolvconf, ufw",
         "Download-Size": "398 kB",
         "APT-Manual-Installed": "yes",
@@ -15,11 +15,12 @@
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/bionic-infra-security,now 1:9.11.3+dfsg-1ubuntu1.19+esm3 amd64 [installed]",
+        "bind9/bionic-infra-security,now 1:9.11.3+dfsg-1ubuntu1.19+esm4 amd64 [installed]",
         "bind9/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.18 amd64",
         "bind9/bionic 1:9.11.3+dfsg-1ubuntu1 amd64"
     ],
     "changelog": [
+        "bind9 (1:9.11.3+dfsg-1ubuntu1.19+esm4) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.19+esm3) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.19+esm2) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.19+esm1) bionic-security; urgency=medium",
@@ -28,8 +29,7 @@
         "bind9 (1:9.11.3+dfsg-1ubuntu1.17) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.16) bionic-security; urgency=medium",
         "bind9 (1:9.11.3+dfsg-1ubuntu1.15) bionic-security; urgency=medium",
-        "bind9 (1:9.11.3+dfsg-1ubuntu1.14) bionic-security; urgency=medium",
-        "bind9 (1:9.11.3+dfsg-1ubuntu1.13) bionic-security; urgency=medium"
+        "bind9 (1:9.11.3+dfsg-1ubuntu1.14) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }

@@ -1,28 +1,29 @@
 {
     "show": {
         "Package": "openjdk-8-jdk",
-        "Version": "8u412-ga-1~18.04.1",
+        "Version": "8u422-b05-1~18.04",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-8",
         "Maintainer": "Java Maintenance <pkg-java-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "4325 kB",
+        "Installed-Size": "4337 kB",
         "Provides": "java-compiler, java-sdk (= 8), java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk",
-        "Depends": "openjdk-8-jre (= 8u412-ga-1~18.04.1), openjdk-8-jdk-headless (= 8u412-ga-1~18.04.1), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-8-jre (= 8u422-b05-1~18.04), openjdk-8-jdk-headless (= 8u422-b05-1~18.04), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-8-demo, openjdk-8-source, visualvm",
-        "Download-Size": "3970 kB",
+        "Download-Size": "4066 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-8-jdk/bionic-apps-security 8u412-ga-1~18.04.1 amd64",
+        "openjdk-8-jdk/bionic-apps-security 8u422-b05-1~18.04 amd64",
         "openjdk-8-jdk/bionic-updates,bionic-security 8u372-ga~us1-0ubuntu1~18.04 amd64",
         "openjdk-8-jdk/bionic 8u162-b12-1 amd64"
     ],
     "changelog": [
-        "openjdk-8 (8u412-ga-1~18.04.1) bionic-security; urgency=medium",
-        "openjdk-8 (8u412-ga-1~18.04) bionic-security; urgency=medium",
+        "openjdk-8 (8u422-b05-1~18.04) bionic-security; urgency=medium",
+        "openjdk-8 (8u422-b05-1) unstable; urgency=medium",
+        "openjdk-8 (8u412-ga-1) unstable; urgency=medium",
         "openjdk-8 (8u402-ga-8) unstable; urgency=low",
         "openjdk-8 (8u402-ga-7) unstable; urgency=low",
         "openjdk-8 (8u402-ga-6) unstable; urgency=low",
