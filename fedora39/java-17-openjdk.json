@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-17-openjdk",
         "Epoch": "1",
-        "Version": "17.0.11.0.9",
-        "Release": "1.fc39",
+        "Version": "17.0.12.0.7",
+        "Release": "2.fc39",
         "Architecture": "x86_64",
-        "Size": "404 k",
-        "Source": "java-17-openjdk-17.0.11.0.9-1.fc39.src.rpm",
+        "Size": "399 k",
+        "Source": "java-17-openjdk-17.0.12.0.7-2.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "java-17-openjdk.x86_64               1:17.0.8.0.7-1.fc39                 fedora",
-        "java-17-openjdk.x86_64               1:17.0.11.0.9-1.fc39                updates"
+        "java-17-openjdk.x86_64               1:17.0.12.0.7-2.fc39                updates"
     ],
     "kojiPackages": [
         "java-17-openjdk-17.0.12.0.7-2.fc39",

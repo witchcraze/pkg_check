@@ -17,6 +17,7 @@
         "python2.7.x86_64                      2.7.18-40.fc40                      fedora"
     ],
     "kojiPackages": [
+        "python2.7-2.7.18-43.fc40",
         "python2.7-2.7.18-40.fc40app1",
         "python2.7-2.7.18-40.fc40",
         "python2.7-2.7.18-39.fc40",
