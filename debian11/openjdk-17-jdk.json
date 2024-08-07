@@ -1,26 +1,30 @@
 {
     "show": {
         "Package": "openjdk-17-jdk",
-        "Version": "17.0.11+9-1~deb11u1",
+        "Version": "17.0.12+7-2~deb11u1",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-17",
         "Maintainer": "OpenJDK Team <openjdk-17@packages.debian.org>",
         "Installed-Size": "55.3 kB",
         "Provides": "java-compiler, java-sdk (= 17), java10-sdk, java11-sdk, java12-sdk, java13-sdk, java14-sdk, java15-sdk, java16-sdk, java17-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",
-        "Depends": "openjdk-17-jre (= 17.0.11+9-1~deb11u1), openjdk-17-jdk-headless (= 17.0.11+9-1~deb11u1), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-17-jre (= 17.0.12+7-2~deb11u1), openjdk-17-jdk-headless (= 17.0.12+7-2~deb11u1), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-17-demo, openjdk-17-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "10.5 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-17-jdk/oldstable,oldstable-security 17.0.11+9-1~deb11u1 amd64"
+        "openjdk-17-jdk/oldstable-security 17.0.12+7-2~deb11u1 amd64",
+        "openjdk-17-jdk/oldstable 17.0.11+9-1~deb11u1 amd64"
     ],
     "changelog": [
-        "openjdk-17 (17.0.11+9-1~deb11u1) bullseye-security; urgency=medium",
+        "openjdk-17 (17.0.12+7-2~deb11u1) bullseye-security; urgency=medium",
+        "openjdk-17 (17.0.12+7-2) unstable; urgency=medium",
+        "openjdk-17 (17.0.12+7-1) unstable; urgency=medium",
+        "openjdk-17 (17.0.12~6ea-1) unstable; urgency=medium",
         "openjdk-17 (17.0.11+9-1) unstable; urgency=high",
         "openjdk-17 (17.0.11~7ea-1) unstable; urgency=medium",
         "openjdk-17 (17.0.11~6ea-1) unstable; urgency=medium",

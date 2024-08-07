@@ -6,11 +6,13 @@
             ],
             "openjdk-11-jdk": [
                 "apt-get changelog"
+            ],
+            "openjdk-17-jdk": [
+                "apt-get changelog"
             ]
         },
         "12": {
-            "bind9": [
-                "apt-get changelog",
+            "openjdk-17-jdk": [
                 "apt-get changelog"
             ]
         }
