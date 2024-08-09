@@ -10,11 +10,6 @@
             "openjdk-17-jdk": [
                 "apt-get changelog"
             ]
-        },
-        "12": {
-            "openjdk-17-jdk": [
-                "apt-get changelog"
-            ]
         }
     }
 }

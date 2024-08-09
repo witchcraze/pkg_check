@@ -221,6 +221,7 @@
         "python-defaults (2.3.3-6) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.12.3-0ubuntu2",
         "3.12.3-0ubuntu1",
         "3.12.2-0ubuntu2",
         "3.12.2-0ubuntu1",
