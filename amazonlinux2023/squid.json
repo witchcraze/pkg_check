@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "6.6",
-        "Release": "1.amzn2023.0.3",
+        "Release": "1.amzn2023.0.4",
         "Architecture": "x86_64",
         "Size": "3.6 M",
-        "Source": "squid-6.6-1.amzn2023.0.3.src.rpm",
+        "Source": "squid-6.6-1.amzn2023.0.4.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -19,6 +19,7 @@
         "squid.x86_64                  7:5.8-1.amzn2023.0.2                   amazonlinux",
         "squid.x86_64                  7:5.8-1.amzn2023.0.3                   amazonlinux",
         "squid.x86_64                  7:5.8-1.amzn2023.0.4                   amazonlinux",
-        "squid.x86_64                  7:6.6-1.amzn2023.0.3                   amazonlinux"
+        "squid.x86_64                  7:6.6-1.amzn2023.0.3                   amazonlinux",
+        "squid.x86_64                  7:6.6-1.amzn2023.0.4                   amazonlinux"
     ]
 }

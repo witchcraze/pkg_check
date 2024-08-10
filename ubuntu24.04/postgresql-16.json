@@ -43,6 +43,7 @@
         "postgresql-16 (16~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "16.3-0ubuntu0.24.04.2",
         "16.3-0ubuntu0.24.04.1",
         "16.2-1ubuntu4",
         "16.2-1ubuntu3",

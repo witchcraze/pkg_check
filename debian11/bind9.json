@@ -13,12 +13,11 @@
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Download-Size": "500 kB",
-        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/oldstable-security,now 1:9.16.50-1~deb11u1 amd64 [installed]",
+        "bind9/oldstable-security 1:9.16.50-1~deb11u1 amd64",
         "bind9/oldstable 1:9.16.48-1 amd64"
     ],
     "changelog": [
