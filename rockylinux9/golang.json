@@ -16,6 +16,8 @@
         "golang.x86_64                     1.21.11-1.el9_4                      appstream"
     ],
     "kojiPackages": [
+        "golang-1.21.11-1.el9_4",
+        "golang-1.21.10-1.el9_4",
         "golang-1.21.9-2.el9_4",
         "golang-1.20.12-4.el9_3",
         "golang-1.20.12-2.el9_3.0.1",

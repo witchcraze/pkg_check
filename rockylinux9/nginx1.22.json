@@ -17,6 +17,7 @@
         "nginx.x86_64        1:1.22.1-5.module+el9.4.0+24242+3789eba2.1         appstream"
     ],
     "kojiPackages": [
+        "nginx-1.22.1-5.module+el9.4.0+24242+3789eba2.1",
         "nginx-1.22.1-5.module+el9.3.0+15865+c068dd99",
         "nginx-1.22.1-3.module+el9.2.0+15280+45c505d6.1",
         "nginx-1.22.1-3.module+el9.2.0+15184+c5fa359b",

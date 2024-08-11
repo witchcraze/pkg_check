@@ -17,6 +17,7 @@
         "java-21-openjdk.x86_64               1:21.0.4.0.7-1.el9                appstream"
     ],
     "kojiPackages": [
+        "java-21-openjdk-21.0.4.0.7-1.el9",
         "java-21-openjdk-21.0.3.0.9-1.el9",
         "java-21-openjdk-21.0.2.0.13-1.el9",
         "java-21-openjdk-21.0.1.0.12-3.el9",
