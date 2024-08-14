@@ -2,7 +2,7 @@
     "info": {
         "Name": "httpd",
         "Arch": "x86_64",
-        "Version": "2.4.61",
+        "Version": "2.4.62",
         "Release": "1.amzn2.0.1",
         "Size": "1.4 M",
         "Repo": "amzn2-core/2/x86_64",
@@ -34,6 +34,7 @@
         "httpd.x86_64                    2.4.57-1.amzn2                        amzn2-core",
         "httpd.x86_64                    2.4.58-1.amzn2                        amzn2-core",
         "httpd.x86_64                    2.4.59-1.amzn2                        amzn2-core",
-        "httpd.x86_64                    2.4.61-1.amzn2.0.1                    amzn2-core"
+        "httpd.x86_64                    2.4.61-1.amzn2.0.1                    amzn2-core",
+        "httpd.x86_64                    2.4.62-1.amzn2.0.1                    amzn2-core"
     ]
 }
