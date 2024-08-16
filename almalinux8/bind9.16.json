@@ -3,11 +3,11 @@
         "Name": "bind9.16",
         "Epoch": "32",
         "Version": "9.16.23",
-        "Release": "0.16.el8_9.2.alma.1",
+        "Release": "0.22.el8_10",
         "Architecture": "x86_64",
-        "Size": "603 k",
-        "Source": "bind9.16-9.16.23-0.16.el8_9.2.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Size": "604 k",
+        "Source": "bind9.16-9.16.23-0.22.el8_10.src.rpm",
+        "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
         "License": "MPLv2.0",
@@ -22,6 +22,8 @@
         "bind9.16.x86_64                       32:9.16.23-0.14.el8_8.2.alma.1                       repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "bind9.16.x86_64                       32:9.16.23-0.14.el8_8.2.alma.1                       repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "bind9.16.x86_64                       32:9.16.23-0.16.el8_9.2.alma.1                       appstream",
-        "bind9.16.x86_64                       32:9.16.23-0.16.el8_9.2.alma.1                       repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "bind9.16.x86_64                       32:9.16.23-0.16.el8_9.2.alma.1                       repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.19.el8_10                               appstream",
+        "bind9.16.x86_64                       32:9.16.23-0.22.el8_10                               appstream"
     ]
 }

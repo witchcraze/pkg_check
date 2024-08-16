@@ -17,6 +17,7 @@
         "community-mysql.x86_64                   8.0.35-1.fc39                   updates"
     ],
     "kojiPackages": [
+        "community-mysql-8.0.39-1.fc39",
         "community-mysql-8.0.35-1.fc39",
         "community-mysql-8.0.34-2.fc39",
         "community-mysql-8.0.33-4.fc39",

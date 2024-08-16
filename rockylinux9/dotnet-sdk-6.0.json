@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-6.0",
-        "Version": "6.0.132",
+        "Version": "6.0.133",
         "Release": "1.el9_4",
         "Architecture": "x86_64",
         "Size": "77 M",
-        "Source": "dotnet6.0-6.0.132-1.el9_4.src.rpm",
+        "Source": "dotnet6.0-6.0.133-1.el9_4.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,7 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-6.0.x86_64                 6.0.132-1.el9_4                  appstream"
+        "dotnet-sdk-6.0.x86_64                 6.0.133-1.el9_4                  appstream"
     ],
     "kojiPackages": [
         "dotnet6.0-6.0.132-1.el9_4",

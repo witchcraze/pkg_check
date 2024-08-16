@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.105",
+        "Version": "8.0.107",
         "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "87 M",
-        "Source": "dotnet8.0-8.0.105-1.fc40.src.rpm",
+        "Source": "dotnet8.0-8.0.107-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -14,9 +14,10 @@
     },
     "list": [
         "dotnet-sdk-8.0.x86_64                   8.0.102-1.fc40                   fedora",
-        "dotnet-sdk-8.0.x86_64                   8.0.105-1.fc40                   updates"
+        "dotnet-sdk-8.0.x86_64                   8.0.107-1.fc40                   updates"
     ],
     "kojiPackages": [
+        "dotnet8.0-8.0.108-1.fc40",
         "dotnet8.0-8.0.107-1.fc40",
         "dotnet8.0-8.0.105-1.fc40",
         "dotnet8.0-8.0.104-1.fc40",
