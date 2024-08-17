@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "bind9",
-        "Version": "1:9.10.3.dfsg.P4-8ubuntu1.19+esm8",
+        "Version": "1:9.10.3.dfsg.P4-8ubuntu1.19+esm9",
         "Priority": "optional",
         "Section": "net",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "LaMont Jones <lamont@debian.org>",
         "Installed-Size": "1674 kB",
-        "Depends": "libbind9-140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), libc6 (>= 2.14), libcap2 (>= 1:2.10), libdns162 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), libgeoip1, libirs141, libisc160 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), libisccc140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), libisccfg140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), liblwres141 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8), net-tools",
+        "Depends": "libbind9-140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), libc6 (>= 2.14), libcap2 (>= 1:2.10), libdns162 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), libgeoip1, libirs141, libisc160 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), libisccc140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), libisccfg140 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), liblwres141 (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9), net-tools",
         "Suggests": "dnsutils, bind9-doc, resolvconf, ufw",
         "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
         "Replaces": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind, bind9utils (<< 1:9.9.3.dfsg.P2-3), dnsutils (<< 1:9.1.0-3)",
@@ -17,11 +17,12 @@
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/xenial-infra-security,now 1:9.10.3.dfsg.P4-8ubuntu1.19+esm8 amd64 [installed]",
+        "bind9/xenial-infra-security,now 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9 amd64 [installed]",
         "bind9/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.19 amd64",
         "bind9/xenial 1:9.10.3.dfsg.P4-8 amd64"
     ],
     "changelog": [
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm9) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm8) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm7) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm6) xenial-security; urgency=medium",
@@ -30,8 +31,7 @@
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm2) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19+esm1) xenial-security; urgency=medium",
         "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.19) xenial-security; urgency=medium",
-        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.18) xenial-security; urgency=medium",
-        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.17) xenial-security; urgency=medium"
+        "bind9 (1:9.10.3.dfsg.P4-8ubuntu1.18) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }
