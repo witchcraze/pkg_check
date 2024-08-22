@@ -11,9 +11,6 @@
         "12": {
             "apache2": [
                 "apt-get changelog"
-            ],
-            "squid": [
-                "apt-get changelog"
             ]
         }
     }
