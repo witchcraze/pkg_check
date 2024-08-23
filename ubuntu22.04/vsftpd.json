@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "vsftpd",
-        "Version": "3.0.5-0ubuntu1",
+        "Version": "3.0.5-0ubuntu1.1",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -15,14 +15,17 @@
         "Conflicts": "ftp-server",
         "Replaces": "ftp-server",
         "Homepage": "http://vsftpd.beasts.org/",
+        "Phased-Update-Percentage": "30",
         "Download-Size": "123 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
     "list": [
+        "vsftpd/jammy-updates 3.0.5-0ubuntu1.1 amd64",
         "vsftpd/jammy 3.0.5-0ubuntu1 amd64"
     ],
     "changelog": [
+        "vsftpd (3.0.5-0ubuntu1.1) jammy; urgency=medium",
         "vsftpd (3.0.5-0ubuntu1) jammy; urgency=medium",
         "vsftpd (3.0.3-13build2) jammy; urgency=medium",
         "vsftpd (3.0.3-13build1) impish; urgency=medium",
