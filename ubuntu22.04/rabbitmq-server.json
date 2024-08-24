@@ -120,6 +120,7 @@
         "rabbitmq-server (1.5.0-1) testing; urgency=low"
     ],
     "publishinghistory": [
+        "3.9.27-0ubuntu0.1",
         "3.9.13-1ubuntu0.22.04.2",
         "3.9.13-1ubuntu0.22.04.1",
         "3.9.13-1",

@@ -5,7 +5,7 @@
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "20",
+        "Phased-Update-Percentage": "30",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

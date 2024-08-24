@@ -6,7 +6,7 @@
         "Section": "database",
         "Source": "mysql-8.0",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "30",
+        "Phased-Update-Percentage": "50",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian MySQL Maintainers <pkg-mysql-maint@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

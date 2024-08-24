@@ -15,7 +15,7 @@
         "Conflicts": "ftp-server",
         "Replaces": "ftp-server",
         "Homepage": "http://vsftpd.beasts.org/",
-        "Phased-Update-Percentage": "20",
+        "Phased-Update-Percentage": "50",
         "Download-Size": "115 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"

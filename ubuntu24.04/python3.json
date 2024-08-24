@@ -6,7 +6,7 @@
         "Section": "python",
         "Source": "python3-defaults",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "20",
+        "Phased-Update-Percentage": "0",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
