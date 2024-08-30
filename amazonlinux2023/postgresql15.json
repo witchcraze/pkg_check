@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql15",
-        "Version": "15.7",
+        "Version": "15.8",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql15-15.7-1.amzn2023.0.1.src.rpm",
+        "Source": "postgresql15-15.8-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -19,6 +19,7 @@
         "postgresql15.x86_64               15.4-1.amzn2023.0.1                amazonlinux",
         "postgresql15.x86_64               15.5-1.amzn2023.0.1                amazonlinux",
         "postgresql15.x86_64               15.6-1.amzn2023.0.1                amazonlinux",
-        "postgresql15.x86_64               15.7-1.amzn2023.0.1                amazonlinux"
+        "postgresql15.x86_64               15.7-1.amzn2023.0.1                amazonlinux",
+        "postgresql15.x86_64               15.8-1.amzn2023.0.1                amazonlinux"
     ]
 }

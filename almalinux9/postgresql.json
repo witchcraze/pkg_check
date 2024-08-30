@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "13.14",
-        "Release": "1.el9_3",
+        "Version": "13.16",
+        "Release": "1.el9_4",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-13.14-1.el9_3.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Source": "postgresql-13.16-1.el9_4.src.rpm",
+        "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -22,6 +22,7 @@
         "postgresql.x86_64                              13.11-1.el9_2                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "postgresql.x86_64                              13.13-1.el9_3                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "postgresql.x86_64                              13.14-1.el9_3                               appstream",
-        "postgresql.x86_64                              13.14-1.el9_3                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "postgresql.x86_64                              13.14-1.el9_3                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "postgresql.x86_64                              13.16-1.el9_4                               appstream"
     ]
 }

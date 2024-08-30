@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "community-mysql-server",
-        "Version": "8.0.35",
+        "Version": "8.0.39",
         "Release": "1.fc39",
         "Architecture": "x86_64",
         "Size": "17 M",
-        "Source": "community-mysql-8.0.35-1.fc39.src.rpm",
+        "Source": "community-mysql-8.0.39-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -14,6 +14,6 @@
     },
     "list": [
         "community-mysql-server.x86_64               8.0.34-2.fc39                fedora",
-        "community-mysql-server.x86_64               8.0.35-1.fc39                updates"
+        "community-mysql-server.x86_64               8.0.39-1.fc39                updates"
     ]
 }

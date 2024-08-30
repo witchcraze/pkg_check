@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "community-mysql",
-        "Version": "8.0.35",
+        "Version": "8.0.39",
         "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Size": "3.1 M",
-        "Source": "community-mysql-8.0.35-1.fc39.src.rpm",
+        "Size": "3.2 M",
+        "Source": "community-mysql-8.0.39-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -14,7 +14,7 @@
     },
     "list": [
         "community-mysql.x86_64                   8.0.34-2.fc39                   fedora",
-        "community-mysql.x86_64                   8.0.35-1.fc39                   updates"
+        "community-mysql.x86_64                   8.0.39-1.fc39                   updates"
     ],
     "kojiPackages": [
         "community-mysql-8.0.39-1.fc39",

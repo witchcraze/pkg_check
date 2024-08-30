@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.1",
-        "Release": "1.module+el9.4.0+21089+0ca8f31a",
+        "Version": "16.4",
+        "Release": "1.module+el9.4.0+22207+8466e31f",
         "Architecture": "x86_64",
         "Size": "7.0 M",
-        "Source": "postgresql-16.1-1.module+el9.4.0+21089+0ca8f31a.src.rpm",
+        "Source": "postgresql-16.4-1.module+el9.4.0+22207+8466e31f.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -13,6 +13,7 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                        16.1-1.module+el9.4.0+21089+0ca8f31a                        rhel-9-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64                        16.1-1.module+el9.4.0+21089+0ca8f31a                        rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                        16.4-1.module+el9.4.0+22207+8466e31f                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

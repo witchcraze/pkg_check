@@ -1,19 +1,19 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.0.37",
-        "Release": "3.fc40",
+        "Version": "8.0.39",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "17 M",
-        "Source": "mysql8.0-8.0.37-3.fc40.src.rpm",
+        "Source": "mysql8.0-8.0.39-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
-        "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND GPL-1.0-or-later OR Artistic-1.0-Perl AND BSD-2-Clause",
+        "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND BSD-2-Clause",
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
         "mysql-server.x86_64                    8.0.36-3.fc40                     fedora",
-        "mysql-server.x86_64                    8.0.37-3.fc40                     updates"
+        "mysql-server.x86_64                    8.0.39-1.fc40                     updates"
     ]
 }

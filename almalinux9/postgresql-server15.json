@@ -1,23 +1,24 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "15.6",
-        "Release": "1.module_el9.3.0+55+d62f4779",
+        "Version": "15.8",
+        "Release": "1.module_el9.4.0+111+667b9e9e",
         "Architecture": "x86_64",
         "Size": "6.2 M",
-        "Source": "postgresql-15.6-1.module_el9.3.0+55+d62f4779.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Source": "postgresql-15.8-1.module_el9.4.0+111+667b9e9e.src.rpm",
+        "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                 15.2-1.module_el9.2.0+22+09653793                 repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                 15.3-1.module_el9.2.0+32+f3c125b5                 repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                 15.3-1.module_el9.2.0+32+f3c125b5                 repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                 15.5-1.module_el9.3.0+52+21733919                 repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                 15.6-1.module_el9.3.0+55+d62f4779                 appstream",
-        "postgresql-server.x86_64                 15.6-1.module_el9.3.0+55+d62f4779                 repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "postgresql-server.x86_64                15.2-1.module_el9.2.0+22+09653793                  repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                15.3-1.module_el9.2.0+32+f3c125b5                  repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                15.3-1.module_el9.2.0+32+f3c125b5                  repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                15.5-1.module_el9.3.0+52+21733919                  repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                15.6-1.module_el9.3.0+55+d62f4779                  appstream",
+        "postgresql-server.x86_64                15.6-1.module_el9.3.0+55+d62f4779                  repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                15.8-1.module_el9.4.0+111+667b9e9e                 appstream"
     ]
 }

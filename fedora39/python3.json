@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.12.4",
+        "Version": "3.12.5",
         "Release": "1.fc39",
         "Architecture": "i686",
-        "Size": "27 k",
-        "Source": "python3.12-3.12.4-1.fc39.src.rpm",
+        "Size": "28 k",
+        "Source": "python3.12-3.12.5-1.fc39.src.rpm",
         "Repository": "updates",
         "From repo": "koji-override-1",
         "Summary": "Python 3.12 interpreter",
@@ -14,13 +14,14 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                  3.12.4-1.fc39                   @koji-override-1",
+        "python3.x86_64                  3.12.5-1.fc39                   @koji-override-1",
         "python3.i686                    3.12.0-1.fc39                   fedora",
         "python3.x86_64                  3.12.0-1.fc39                   fedora",
-        "python3.i686                    3.12.4-1.fc39                   updates",
-        "python3.x86_64                  3.12.4-1.fc39                   updates"
+        "python3.i686                    3.12.5-1.fc39                   updates",
+        "python3.x86_64                  3.12.5-1.fc39                   updates"
     ],
     "kojiPackages": [
+        "python3.12-3.12.5-2.fc39",
         "python3.12-3.12.5-1.fc39",
         "python3.12-3.12.4-1.fc39",
         "python3.12-3.12.3-2.fc39",

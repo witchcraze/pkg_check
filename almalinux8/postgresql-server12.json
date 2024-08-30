@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "12.18",
-        "Release": "1.module_el8.9.0+3740+0e74851f.alma.1",
+        "Version": "12.20",
+        "Release": "1.module_el8.10.0+3889+48cb11fb",
         "Architecture": "x86_64",
         "Size": "5.5 M",
-        "Source": "postgresql-12.18-1.module_el8.9.0+3740+0e74851f.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Source": "postgresql-12.20-1.module_el8.10.0+3889+48cb11fb.src.rpm",
+        "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -28,6 +28,8 @@
         "postgresql-server.x86_64            12.15-1.module_el8.8.0+3669+6916586d.alma.1            repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "postgresql-server.x86_64            12.17-1.module_el8.9.0+3704+f1f917ce                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "postgresql-server.x86_64            12.18-1.module_el8.9.0+3740+0e74851f.alma.1            appstream",
-        "postgresql-server.x86_64            12.18-1.module_el8.9.0+3740+0e74851f.alma.1            repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "postgresql-server.x86_64            12.18-1.module_el8.9.0+3740+0e74851f.alma.1            repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "postgresql-server.x86_64            12.20-1.module_el8.10.0+3886+1dfe41d7                  appstream",
+        "postgresql-server.x86_64            12.20-1.module_el8.10.0+3889+48cb11fb                  appstream"
     ]
 }
