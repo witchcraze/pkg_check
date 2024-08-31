@@ -31,6 +31,7 @@
         "postgresql.src          15.3-1.module+el9.2.0+21134+ceb95ed9       ol9_appstream",
         "postgresql.src          15.5-1.module+el9.3.0+90103+1d024772       ol9_appstream",
         "postgresql.src          15.6-1.module+el9.3.0+90158+dfcdadd2       ol9_appstream",
+        "postgresql.src          15.8-1.module+el9.4.0+90399+63b2ad7b       ol9_appstream",
         "postgresql.src          16.1-1.module+el9.4.0+90259+3ab83788       ol9_appstream",
         "postgresql.src          16.4-1.module+el9.4.0+90394+9e4f3cba       ol9_appstream"
     ]
