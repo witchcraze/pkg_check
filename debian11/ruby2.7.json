@@ -1,22 +1,24 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.4-1+deb11u1",
+        "Version": "2.7.4-1+deb11u2",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "842 kB",
+        "Installed-Size": "843 kB",
         "Depends": "rubygems-integration (>= 1.17.1~), libc6 (>= 2.4), libruby2.7 (>= 2.7.0~preview1)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
-        "Download-Size": "747 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "Download-Size": "748 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/oldstable,oldstable-security 2.7.4-1+deb11u1 amd64"
+        "ruby2.7/oldstable-security 2.7.4-1+deb11u2 amd64",
+        "ruby2.7/oldstable 2.7.4-1+deb11u1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.4-1+deb11u2) bullseye-security; urgency=high",
         "ruby2.7 (2.7.4-1+deb11u1) bullseye-security; urgency=high",
         "ruby2.7 (2.7.4-1) unstable; urgency=medium",
         "ruby2.7 (2.7.3-2) unstable; urgency=medium",

@@ -13,12 +13,11 @@
         "Conflicts": "squid-openssl",
         "Homepage": "http://www.squid-cache.org",
         "Download-Size": "2893 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/stable-security 5.7-2+deb12u2 amd64",
-        "squid/stable 5.7-2+deb12u1 amd64"
+        "squid/stable,stable-security 5.7-2+deb12u2 amd64"
     ],
     "changelog": [
         "squid (5.7-2+deb12u2) bookworm-security; urgency=medium",
@@ -160,6 +159,7 @@
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "5.7-2+deb12u2",
         "5.7-2+deb12u1",
         "5.7-2"
     ]

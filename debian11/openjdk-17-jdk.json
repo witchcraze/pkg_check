@@ -13,12 +13,11 @@
         "Suggests": "openjdk-17-demo, openjdk-17-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "10.5 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-17-jdk/oldstable-security 17.0.12+7-2~deb11u1 amd64",
-        "openjdk-17-jdk/oldstable 17.0.11+9-1~deb11u1 amd64"
+        "openjdk-17-jdk/oldstable,oldstable-security 17.0.12+7-2~deb11u1 amd64"
     ],
     "changelog": [
         "openjdk-17 (17.0.12+7-2~deb11u1) bullseye-security; urgency=medium",
@@ -554,6 +553,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "17.0.12+7-2~deb11u1",
         "17.0.11+9-1~deb11u1",
         "17.0.10+7-1~deb11u1",
         "17.0.7+7-1~deb11u1",

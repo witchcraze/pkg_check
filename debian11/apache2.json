@@ -1,29 +1,31 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.61-1~deb11u1",
+        "Version": "2.4.62-1~deb11u1",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Installed-Size": "650 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14), init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.61-1~deb11u1), apache2-data (= 2.4.61-1~deb11u1), apache2-utils (= 2.4.61-1~deb11u1), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.62-1~deb11u1), apache2-data (= 2.4.62-1~deb11u1), apache2-utils (= 2.4.62-1~deb11u1), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser",
         "Conflicts": "apache2.2-bin, apache2.2-common",
         "Breaks": "libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Homepage": "https://httpd.apache.org/",
-        "Download-Size": "286 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "Tag": "role::metapackage, suite::apache",
+        "Download-Size": "287 kB",
+        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/oldstable-security 2.4.61-1~deb11u1 amd64",
-        "apache2/oldstable 2.4.59-1~deb11u1 amd64"
+        "apache2/oldstable 2.4.62-1~deb11u1 amd64",
+        "apache2/oldstable-security 2.4.61-1~deb11u1 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.62-1~deb11u1) bullseye; urgency=medium",
         "apache2 (2.4.61-1~deb11u1) bullseye-security; urgency=medium",
         "apache2 (2.4.59-1~deb11u1) bullseye-security; urgency=medium",
         "apache2 (2.4.56-1~deb11u2) bullseye; urgency=medium",
@@ -308,6 +310,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.62-1~deb11u1",
         "2.4.59-1~deb11u1",
         "2.4.56-1~deb11u2",
         "2.4.54-1~deb11u1",

@@ -20,12 +20,11 @@
         "implemented-in": "perl, interface::commandline, role::devel-lib,",
         "role": "metapackage, role::program",
         "Download-Size": "239 kB",
-        "APT-Manual-Installed": "no",
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/stable,now 5.36.0-7+deb12u1 amd64 [installed,automatic]"
+        "perl/stable 5.36.0-7+deb12u1 amd64"
     ],
     "changelog": [
         "perl (5.36.0-7+deb12u1) bookworm; urgency=medium",
