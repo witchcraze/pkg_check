@@ -19,6 +19,7 @@
         "ruby.x86_64                        3.2.4-182.fc39                        updates"
     ],
     "kojiPackages": [
+        "ruby-3.2.5-183.fc39",
         "ruby-3.2.4-182.fc39",
         "ruby-3.2.2-181.fc39",
         "ruby-3.2.2-180.fc39",

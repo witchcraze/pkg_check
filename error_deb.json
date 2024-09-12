@@ -1,6 +1,9 @@
 {
     "debian": {
         "11": {
+            "redis-server": [
+                "apt-get changelog"
+            ],
             "ruby2.7": [
                 "apt-get changelog"
             ]
