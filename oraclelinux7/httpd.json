@@ -3,7 +3,7 @@
         "Name": "httpd",
         "Arch": "x86_64",
         "Version": "2.4.6",
-        "Release": "99.0.1.el7_9.1",
+        "Release": "99.0.3.el7_9.1",
         "Size": "1.2 M",
         "Repo": "ol7_latest/x86_64",
         "Summary": "Apache HTTP Server",
@@ -41,6 +41,7 @@
         "httpd.x86_64                  2.4.6-98.0.1.el7_9.6                   ol7_latest",
         "httpd.x86_64                  2.4.6-98.0.3.el7_9.6                   ol7_latest",
         "httpd.x86_64                  2.4.6-98.0.3.el7_9.7                   ol7_latest",
-        "httpd.x86_64                  2.4.6-99.0.1.el7_9.1                   ol7_latest"
+        "httpd.x86_64                  2.4.6-99.0.1.el7_9.1                   ol7_latest",
+        "httpd.x86_64                  2.4.6-99.0.3.el7_9.1                   ol7_latest"
     ]
 }
