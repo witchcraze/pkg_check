@@ -1,6 +1,9 @@
 {
     "debian": {
         "11": {
+            "mariadb-server-10.5": [
+                "apt-get changelog"
+            ],
             "nodejs": [
                 "apt-get changelog"
             ],

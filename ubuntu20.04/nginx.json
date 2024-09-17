@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.18.0-0ubuntu1.5",
+        "Version": "1.18.0-0ubuntu1.6",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -9,18 +9,18 @@
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "46.1 kB",
-        "Depends": "nginx-core (<< 1.18.0-0ubuntu1.5.1~) | nginx-full (<< 1.18.0-0ubuntu1.5.1~) | nginx-light (<< 1.18.0-0ubuntu1.5.1~) | nginx-extras (<< 1.18.0-0ubuntu1.5.1~), nginx-core (>= 1.18.0-0ubuntu1.5) | nginx-full (>= 1.18.0-0ubuntu1.5) | nginx-light (>= 1.18.0-0ubuntu1.5) | nginx-extras (>= 1.18.0-0ubuntu1.5)",
+        "Depends": "nginx-core (<< 1.18.0-0ubuntu1.6.1~) | nginx-full (<< 1.18.0-0ubuntu1.6.1~) | nginx-light (<< 1.18.0-0ubuntu1.6.1~) | nginx-extras (<< 1.18.0-0ubuntu1.6.1~), nginx-core (>= 1.18.0-0ubuntu1.6) | nginx-full (>= 1.18.0-0ubuntu1.6) | nginx-light (>= 1.18.0-0ubuntu1.6) | nginx-extras (>= 1.18.0-0ubuntu1.6)",
         "Homepage": "http://nginx.net",
-        "Download-Size": "3612 B",
+        "Download-Size": "3616 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/focal-updates 1.18.0-0ubuntu1.5 all",
-        "nginx/focal-security 1.18.0-0ubuntu1.4 all",
+        "nginx/focal-updates,focal-security 1.18.0-0ubuntu1.6 all",
         "nginx/focal 1.17.10-0ubuntu1 all"
     ],
     "changelog": [
+        "nginx (1.18.0-0ubuntu1.6) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.5) focal; urgency=medium",
         "nginx (1.18.0-0ubuntu1.4) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.3) focal-security; urgency=medium",
@@ -252,6 +252,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.18.0-0ubuntu1.6",
         "1.18.0-0ubuntu1.5",
         "1.18.0-0ubuntu1.4",
         "1.18.0-0ubuntu1.3",
