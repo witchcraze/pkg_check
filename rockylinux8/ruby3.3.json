@@ -1,24 +1,27 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.1",
-        "Release": "2.module+el8.10.0+1827+16ecb9d2",
+        "Version": "3.3.5",
+        "Release": "3.module+el8.10.0+1867+7989c958",
         "Architecture": "x86_64",
         "Size": "88 k",
-        "Source": "ruby-3.3.1-2.module+el8.10.0+1827+16ecb9d2.src.rpm",
+        "Source": "ruby-3.3.5-3.module+el8.10.0+1867+7989c958.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
-        "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn",
+        "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
         "ruby.i686             3.3.0-1.module+el8.10.0+1679+61871737            appstream",
         "ruby.x86_64           3.3.0-1.module+el8.10.0+1679+61871737            appstream",
         "ruby.i686             3.3.1-2.module+el8.10.0+1827+16ecb9d2            appstream",
-        "ruby.x86_64           3.3.1-2.module+el8.10.0+1827+16ecb9d2            appstream"
+        "ruby.x86_64           3.3.1-2.module+el8.10.0+1827+16ecb9d2            appstream",
+        "ruby.i686             3.3.5-3.module+el8.10.0+1867+7989c958            appstream",
+        "ruby.x86_64           3.3.5-3.module+el8.10.0+1867+7989c958            appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.5-3.module+el8.10.0+1867+7989c958",
         "ruby-3.3.1-2.module+el8.10.0+1827+16ecb9d2",
         "ruby-3.3.0-1.module+el8.10.0+1679+61871737",
         "ruby-3.3.0-1.module+el8.10.0+1678+9ff8478d",

@@ -1,20 +1,22 @@
 {
     "info": {
         "Name": "postgresql15",
-        "Version": "15.5",
-        "Release": "4.fc40",
+        "Version": "15.8",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "1.7 M",
-        "Source": "postgresql15-15.5-4.fc40.src.rpm",
-        "Repository": "fedora",
+        "Source": "postgresql15-15.8-1.fc40.src.rpm",
+        "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql15.i686                        15.5-4.fc40                      fedora",
-        "postgresql15.x86_64                      15.5-4.fc40                      fedora"
+        "postgresql15.i686                       15.5-4.fc40                      fedora",
+        "postgresql15.x86_64                     15.5-4.fc40                      fedora",
+        "postgresql15.i686                       15.8-1.fc40                      updates",
+        "postgresql15.x86_64                     15.8-1.fc40                      updates"
     ],
     "kojiPackages": [
         "postgresql15-15.8-1.fc40",
