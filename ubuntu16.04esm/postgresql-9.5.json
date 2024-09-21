@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-9.5",
-        "Version": "9.5.25-0ubuntu0.16.04.1+esm7",
+        "Version": "9.5.25-0ubuntu0.16.04.1+esm8",
         "Priority": "optional",
         "Section": "database",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -10,17 +10,18 @@
         "Depends": "libc6 (>= 2.16), libgssapi-krb5-2 (>= 1.8+dfsg), libldap-2.4-2 (>= 2.4.7), libpam0g (>= 0.99.7.1), libpq5 (>= 9.2~beta3), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), postgresql-client-9.5, postgresql-common (>= 142~), tzdata, ssl-cert, locales",
         "Recommends": "postgresql-contrib-9.5, sysstat",
         "Suggests": "locales-all",
-        "Download-Size": "3021 kB",
+        "Download-Size": "3024 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.5 server"
     },
     "list": [
-        "postgresql-9.5/xenial-infra-security 9.5.25-0ubuntu0.16.04.1+esm7 amd64",
+        "postgresql-9.5/xenial-infra-security 9.5.25-0ubuntu0.16.04.1+esm8 amd64",
         "postgresql-9.5/xenial-updates 9.5.25-0ubuntu0.16.04.1 amd64",
         "postgresql-9.5/xenial-security 9.5.24-0ubuntu0.16.04.1 amd64",
         "postgresql-9.5/xenial 9.5.2-1 amd64"
     ],
     "changelog": [
+        "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm8) xenial-security; urgency=medium",
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm7) xenial-security; urgency=medium",
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm6) xenial-security; urgency=medium",
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm5) xenial-security; urgency=medium",
@@ -29,8 +30,7 @@
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm2) xenial-security; urgency=medium",
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1+esm1) xenial-security; urgency=medium",
         "postgresql-9.5 (9.5.25-0ubuntu0.16.04.1) xenial; urgency=medium",
-        "postgresql-9.5 (9.5.24-0ubuntu0.16.04.1) xenial-security; urgency=medium",
-        "postgresql-9.5 (9.5.23-0ubuntu0.16.04.1) xenial-security; urgency=medium"
+        "postgresql-9.5 (9.5.24-0ubuntu0.16.04.1) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }
