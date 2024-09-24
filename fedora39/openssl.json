@@ -3,10 +3,10 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "3.1.4",
-        "Release": "3.fc39",
+        "Release": "4.fc39",
         "Architecture": "x86_64",
         "Size": "1.0 M",
-        "Source": "openssl-3.1.4-3.fc39.src.rpm",
+        "Source": "openssl-3.1.4-4.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "openssl.x86_64                      1:3.1.1-4.fc39                       fedora",
-        "openssl.x86_64                      1:3.1.4-3.fc39                       updates"
+        "openssl.x86_64                      1:3.1.4-4.fc39                       updates"
     ],
     "kojiPackages": [
         "openssl-3.1.4-4.fc39",

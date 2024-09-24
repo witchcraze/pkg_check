@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "1.amzn2023.0.3",
+        "Release": "1.amzn2023.0.4",
         "Architecture": "x86_64",
         "Size": "33 k",
-        "Source": "nginx-1.24.0-1.amzn2023.0.3.src.rpm",
+        "Source": "nginx-1.24.0-1.amzn2023.0.4.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -18,6 +18,7 @@
         "nginx.x86_64                 1:1.22.1-1.amzn2023.0.3                 amazonlinux",
         "nginx.x86_64                 1:1.24.0-1.amzn2023.0.1                 amazonlinux",
         "nginx.x86_64                 1:1.24.0-1.amzn2023.0.2                 amazonlinux",
-        "nginx.x86_64                 1:1.24.0-1.amzn2023.0.3                 amazonlinux"
+        "nginx.x86_64                 1:1.24.0-1.amzn2023.0.3                 amazonlinux",
+        "nginx.x86_64                 1:1.24.0-1.amzn2023.0.4                 amazonlinux"
     ]
 }
