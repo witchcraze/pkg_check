@@ -2,20 +2,20 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.11.8",
-        "Release": "3.fc40",
+        "Version": "10.11.9",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
-        "Size": "1.6 M",
-        "Source": "mariadb10.11-10.11.8-3.fc40.src.rpm",
+        "Size": "1.7 M",
+        "Source": "mariadb10.11-10.11.9-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
-        "License": "GPLv2 and LGPLv2",
+        "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
         "mariadb.x86_64                     3:10.11.6-3.fc40                      fedora",
-        "mariadb.x86_64                     3:10.11.8-3.fc40                      updates"
+        "mariadb.x86_64                     3:10.11.9-1.fc40                      updates"
     ],
     "kojiPackages": [
         "mariadb-10.11.6-1.fc40",
