@@ -1,12 +1,6 @@
 {
     "debian": {
         "11": {
-            "bind9": [
-                "apt-get changelog"
-            ],
-            "gcc-10": [
-                "apt-get changelog"
-            ],
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],

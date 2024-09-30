@@ -1,25 +1,26 @@
 {
     "show": {
         "Package": "tomcat8",
-        "Version": "8.5.39-1ubuntu1~18.04.3+esm2",
+        "Version": "8.5.39-1ubuntu1~18.04.3+esm3",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "332 kB",
-        "Depends": "adduser, lsb-base (>= 3.0-6), tomcat8-common (>= 8.5.39-1ubuntu1~18.04.3+esm2), ucf, debconf (>= 0.5) | debconf-2.0",
+        "Depends": "adduser, lsb-base (>= 3.0-6), tomcat8-common (>= 8.5.39-1ubuntu1~18.04.3+esm3), ucf, debconf (>= 0.5) | debconf-2.0",
         "Recommends": "authbind, libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat8-admin (>= 8.5.39-1ubuntu1~18.04.3+esm2), tomcat8-docs (>= 8.5.39-1ubuntu1~18.04.3+esm2), tomcat8-examples (>= 8.5.39-1ubuntu1~18.04.3+esm2), tomcat8-user (>= 8.5.39-1ubuntu1~18.04.3+esm2)",
+        "Suggests": "tomcat8-admin (>= 8.5.39-1ubuntu1~18.04.3+esm3), tomcat8-docs (>= 8.5.39-1ubuntu1~18.04.3+esm3), tomcat8-examples (>= 8.5.39-1ubuntu1~18.04.3+esm3), tomcat8-user (>= 8.5.39-1ubuntu1~18.04.3+esm3)",
         "Download-Size": "46.4 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Apache Tomcat 8 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat8/bionic-apps-security 8.5.39-1ubuntu1~18.04.3+esm2 all",
+        "tomcat8/bionic-apps-security 8.5.39-1ubuntu1~18.04.3+esm3 all",
         "tomcat8/bionic-updates,bionic-security 8.5.39-1ubuntu1~18.04.3 all",
         "tomcat8/bionic 8.5.30-1ubuntu1 all"
     ],
     "changelog": [
+        "tomcat8 (8.5.39-1ubuntu1~18.04.3+esm3) bionic-security; urgency=medium",
         "tomcat8 (8.5.39-1ubuntu1~18.04.3+esm2) bionic-security; urgency=medium",
         "tomcat8 (8.5.39-1ubuntu1~18.04.3+esm1) bionic-security; urgency=medium",
         "tomcat8 (8.5.39-1ubuntu1~18.04.3) bionic-security; urgency=medium",
@@ -28,8 +29,7 @@
         "tomcat8 (8.5.39-1ubuntu1) disco; urgency=medium",
         "tomcat8 (8.5.39-1) experimental; urgency=medium",
         "tomcat8 (8.5.38-2ubuntu1) disco; urgency=medium",
-        "tomcat8 (8.5.38-2) unstable; urgency=high",
-        "tomcat8 (8.5.38-1ubuntu1) disco; urgency=medium"
+        "tomcat8 (8.5.38-2) unstable; urgency=high"
     ],
     "publishinghistory": []
 }
