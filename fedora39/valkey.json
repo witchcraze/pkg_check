@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "valkey",
+        "Version": "7.2.6",
+        "Release": "1.fc39",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "valkey-7.2.6-1.fc39.src.rpm",
+        "Repository": "updates",
+        "Summary": "A persistent key-value database",
+        "URL": "https://valkey.io",
+        "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
+        "Description": "Valkey is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "valkey.x86_64                        7.2.6-1.fc39                        updates"
+    ],
+    "kojiPackages": [
+        "valkey-7.2.6-1.fc39",
+        "valkey-7.2.5-11.fc39",
+        "valkey-7.2.5-9.fc39",
+        "valkey-7.2.5-8.fc39",
+        "valkey-7.2.5-5.fc39",
+        "valkey-7.2.5-4.fc39",
+        "valkey-7.2.5-3.fc39",
+        "valkey-7.2.5-1.fc39",
+        "valkey-7.2.5~rc1-1.fc39",
+        "valkey-7.2.4~rc1-1.fc39"
+    ]
+}

@@ -1,18 +1,1 @@
-{
-    "debian": {
-        "11": {
-            "mariadb-server-10.5": [
-                "apt-get changelog"
-            ],
-            "nodejs": [
-                "apt-get changelog"
-            ],
-            "redis-server": [
-                "apt-get changelog"
-            ],
-            "ruby2.7": [
-                "apt-get changelog"
-            ]
-        }
-    }
-}
+[]
