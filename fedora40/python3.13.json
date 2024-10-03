@@ -19,6 +19,7 @@
         "python3.13.x86_64                   3.13.0~rc2-1.fc40                    updates"
     ],
     "kojiPackages": [
+        "python3.13-3.13.0~rc3-1.fc40",
         "python3.13-3.13.0~rc2-1.fc40",
         "python3.13-3.13.0~rc1-3.fc40",
         "python3.13-3.13.0~rc1-2.fc40",
