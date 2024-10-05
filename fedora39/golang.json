@@ -17,6 +17,7 @@
         "golang.x86_64                       1.22.7-3.fc39                        updates"
     ],
     "kojiPackages": [
+        "golang-1.22.8-1.fc39",
         "golang-1.22.7-3.fc39",
         "golang-1.22.7-2.fc39",
         "golang-1.21.12-1.fc39",

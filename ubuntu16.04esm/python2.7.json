@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "python2.7",
-        "Version": "2.7.12-1ubuntu0~16.04.18+esm10",
+        "Version": "2.7.12-1ubuntu0~16.04.18+esm11",
         "Priority": "standard",
         "Section": "python",
         "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
-        "Installed-Size": "360 kB",
-        "Depends": "python2.7-minimal (= 2.7.12-1ubuntu0~16.04.18+esm10), libpython2.7-stdlib (= 2.7.12-1ubuntu0~16.04.18+esm10), mime-support",
+        "Installed-Size": "361 kB",
+        "Depends": "python2.7-minimal (= 2.7.12-1ubuntu0~16.04.18+esm11), libpython2.7-stdlib (= 2.7.12-1ubuntu0~16.04.18+esm11), mime-support",
         "Suggests": "python2.7-doc, binutils",
         "Conflicts": "python-profiler (<= 2.7.1-2)",
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
@@ -17,11 +17,12 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/xenial-infra-security 2.7.12-1ubuntu0~16.04.18+esm10 amd64",
+        "python2.7/xenial-infra-security 2.7.12-1ubuntu0~16.04.18+esm11 amd64",
         "python2.7/xenial-updates,xenial-security 2.7.12-1ubuntu0~16.04.18 amd64",
         "python2.7/xenial 2.7.11-7ubuntu1 amd64"
     ],
     "changelog": [
+        "python2.7 (2.7.12-1ubuntu0~16.04.18+esm11) xenial-security; urgency=medium",
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm10) xenial-security; urgency=medium",
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm9) xenial-security; urgency=medium",
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm8) xenial-security; urgency=medium",
@@ -30,8 +31,7 @@
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm5) xenial-security; urgency=medium",
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm4) xenial-security; urgency=medium",
         "python2.7 (2.7.12-1ubuntu0~16.04.18+esm3) xenial-security; urgency=medium",
-        "python2.7 (2.7.12-1ubuntu0~16.04.18+esm2) xenial-security; urgency=medium",
-        "python2.7 (2.7.12-1ubuntu0~16.04.18+esm1) xenial-security; urgency=medium"
+        "python2.7 (2.7.12-1ubuntu0~16.04.18+esm2) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }
