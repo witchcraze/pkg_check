@@ -1228,6 +1228,7 @@
         "gcc (2.7.2.1-3) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "11.5.0-1ubuntu1~24.04",
         "11.4.0-9ubuntu1",
         "11.4.0-7ubuntu2",
         "11.4.0-8ubuntu1",

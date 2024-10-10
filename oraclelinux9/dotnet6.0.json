@@ -1,7 +1,7 @@
 {
     "info": {
         "Name": "dotnet6.0",
-        "Version": "6.0.133",
+        "Version": "6.0.135",
         "Release": "1.0.1.el9_4",
         "Architecture": "src",
         "Size": "510 M",
@@ -43,6 +43,7 @@
         "dotnet6.0.src                 6.0.129-2.0.1.el9_4                  ol9_appstream",
         "dotnet6.0.src                 6.0.130-1.0.1.el9_4                  ol9_appstream",
         "dotnet6.0.src                 6.0.132-1.0.1.el9_4                  ol9_appstream",
-        "dotnet6.0.src                 6.0.133-1.0.1.el9_4                  ol9_appstream"
+        "dotnet6.0.src                 6.0.133-1.0.1.el9_4                  ol9_appstream",
+        "dotnet6.0.src                 6.0.135-1.0.1.el9_4                  ol9_appstream"
     ]
 }

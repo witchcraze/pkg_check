@@ -2,10 +2,10 @@
     "info": {
         "Name": "golang",
         "Version": "1.21.13",
-        "Release": "3.el9_4",
+        "Release": "4.el9_4",
         "Architecture": "x86_64",
         "Size": "697 k",
-        "Source": "golang-1.21.13-3.el9_4.src.rpm",
+        "Source": "golang-1.21.13-4.el9_4.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -48,6 +48,8 @@
         "golang.src                    1.21.11-1.el9_4                      ol9_appstream",
         "golang.x86_64                 1.21.11-1.el9_4                      ol9_appstream",
         "golang.src                    1.21.13-3.el9_4                      ol9_appstream",
-        "golang.x86_64                 1.21.13-3.el9_4                      ol9_appstream"
+        "golang.x86_64                 1.21.13-3.el9_4                      ol9_appstream",
+        "golang.src                    1.21.13-4.el9_4                      ol9_appstream",
+        "golang.x86_64                 1.21.13-4.el9_4                      ol9_appstream"
     ]
 }
