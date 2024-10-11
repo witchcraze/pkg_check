@@ -3,17 +3,19 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "1.1.1k",
-        "Release": "12.el8_9",
+        "Release": "14.el8_6",
         "Architecture": "x86_64",
-        "Size": "710 k",
-        "Source": "openssl-1.1.1k-12.el8_9.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_BaseOS_x86_64_os_",
+        "Size": "1.1 M",
+        "Source": "openssl-1.1.1k-14.el8_6.src.rpm",
+        "Repository": "@System",
+        "From repo": "baseos",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "OpenSSL and ASL 2.0",
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
+        "openssl.x86_64                               1:1.1.1k-14.el8_6                                @baseos",
         "openssl.x86_64                               1:1.1.1g-12.el8_3                                repo.almalinux.org_vault_8.3_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:1.1.1g-15.el8_3                                repo.almalinux.org_vault_8.3_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:1.1.1g-15.el8_3                                repo.almalinux.org_vault_8.4_BaseOS_x86_64_os_",
@@ -27,6 +29,7 @@
         "openssl.x86_64                               1:1.1.1k-9.el8_7                                 repo.almalinux.org_vault_8.8_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:1.1.1k-9.el8_7                                 repo.almalinux.org_vault_8.9_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:1.1.1k-12.el8_9                                baseos",
-        "openssl.x86_64                               1:1.1.1k-12.el8_9                                repo.almalinux.org_vault_8.9_BaseOS_x86_64_os_"
+        "openssl.x86_64                               1:1.1.1k-12.el8_9                                repo.almalinux.org_vault_8.9_BaseOS_x86_64_os_",
+        "openssl.x86_64                               1:1.1.1k-14.el8_6                                baseos"
     ]
 }

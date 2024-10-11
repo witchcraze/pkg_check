@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.13",
-        "Version": "3.13.0~rc2",
+        "Version": "3.13.0",
         "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "27 k",
-        "Source": "python3.13-3.13.0~rc2-1.fc40.src.rpm",
+        "Source": "python3.13-3.13.0-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.13 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,10 +13,10 @@
         "Description": "Python 3.13 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.13.i686                     3.13.0~a5-2.fc40                     fedora",
-        "python3.13.x86_64                   3.13.0~a5-2.fc40                     fedora",
-        "python3.13.i686                     3.13.0~rc2-1.fc40                    updates",
-        "python3.13.x86_64                   3.13.0~rc2-1.fc40                    updates"
+        "python3.13.i686                      3.13.0~a5-2.fc40                    fedora",
+        "python3.13.x86_64                    3.13.0~a5-2.fc40                    fedora",
+        "python3.13.i686                      3.13.0-1.fc40                       updates",
+        "python3.13.x86_64                    3.13.0-1.fc40                       updates"
     ],
     "kojiPackages": [
         "python3.13-3.13.0-1.fc40",

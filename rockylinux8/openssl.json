@@ -3,10 +3,10 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "1.1.1k",
-        "Release": "12.el8_9",
+        "Release": "14.el8_10",
         "Architecture": "x86_64",
         "Size": "1.1 M",
-        "Source": "openssl-1.1.1k-12.el8_9.src.rpm",
+        "Source": "openssl-1.1.1k-14.el8_10.src.rpm",
         "Repository": "@System",
         "From repo": "baseos",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
@@ -15,8 +15,9 @@
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
-        "openssl.x86_64                     1:1.1.1k-12.el8_9                     @baseos",
-        "openssl.x86_64                     1:1.1.1k-12.el8_9                     baseos"
+        "openssl.x86_64                    1:1.1.1k-14.el8_10                     @baseos",
+        "openssl.x86_64                    1:1.1.1k-12.el8_9                      baseos",
+        "openssl.x86_64                    1:1.1.1k-14.el8_10                     baseos"
     ],
     "kojiPackages": [
         "openssl-1.1.1k-14.el8_10",
