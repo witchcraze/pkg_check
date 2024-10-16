@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "valkey",
-        "Version": "7.2.6",
+        "Version": "8.0.1",
         "Release": "1.fc40",
         "Architecture": "x86_64",
-        "Size": "1.5 M",
-        "Source": "valkey-7.2.6-1.fc40.src.rpm",
+        "Size": "1.6 M",
+        "Source": "valkey-8.0.1-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
@@ -13,7 +13,7 @@
         "Description": "Valkey is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "valkey.x86_64                        7.2.6-1.fc40                        updates"
+        "valkey.x86_64                        8.0.1-1.fc40                        updates"
     ],
     "kojiPackages": [
         "valkey-8.0.1-1.fc40",

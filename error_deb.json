@@ -7,6 +7,9 @@
             "nodejs": [
                 "apt-get changelog"
             ],
+            "php7.4": [
+                "apt-get changelog"
+            ],
             "redis-server": [
                 "apt-get changelog"
             ],

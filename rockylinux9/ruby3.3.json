@@ -16,6 +16,7 @@
         "ruby.x86_64           3.3.5-3.module+el9.4.0+25730+e54ecc95            appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.5-3.module+el9.4.0+25730+e54ecc95",
         "ruby-3.3.1-2.module+el9.4.0+20787+4c237fd3",
         "ruby-3.3.1-2.module+el9.4.0+20763+4c237fd3",
         "ruby-3.3.1-2.module+el9.4.0+20697+b3471e3d",

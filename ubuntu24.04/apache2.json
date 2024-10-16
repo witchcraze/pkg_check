@@ -471,6 +471,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.58-1ubuntu8.5",
         "2.4.58-1ubuntu8.4",
         "2.4.58-1ubuntu8.3",
         "2.4.58-1ubuntu8.2",
