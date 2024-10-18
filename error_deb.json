@@ -1,6 +1,9 @@
 {
     "debian": {
         "11": {
+            "apache2": [
+                "apt-get changelog"
+            ],
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],

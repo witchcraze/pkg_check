@@ -17,6 +17,7 @@
         "dotnet-sdk-8.0.x86_64                   8.0.108-1.fc40                   updates"
     ],
     "kojiPackages": [
+        "dotnet8.0-8.0.110-1.fc40",
         "dotnet8.0-8.0.108-1.fc40",
         "dotnet8.0-8.0.107-1.fc40",
         "dotnet8.0-8.0.105-1.fc40",
