@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-10",
-        "Version": "10.23-0ubuntu0.18.04.2+esm1",
+        "Version": "10.23-0ubuntu0.18.04.2+esm2",
         "Priority": "optional",
         "Section": "database",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -12,16 +12,17 @@
         "Recommends": "sysstat",
         "Suggests": "locales-all",
         "Postgresql-Catversion": "201707211",
-        "Download-Size": "3777 kB",
+        "Download-Size": "3778 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "object-relational SQL database, version 10 server"
     },
     "list": [
-        "postgresql-10/bionic-infra-security 10.23-0ubuntu0.18.04.2+esm1 amd64",
+        "postgresql-10/bionic-infra-security 10.23-0ubuntu0.18.04.2+esm2 amd64",
         "postgresql-10/bionic-updates,bionic-security 10.23-0ubuntu0.18.04.2 amd64",
         "postgresql-10/bionic 10.3-1 amd64"
     ],
     "changelog": [
+        "postgresql-10 (10.23-0ubuntu0.18.04.2+esm2) bionic-security; urgency=medium",
         "postgresql-10 (10.23-0ubuntu0.18.04.2+esm1) bionic-security; urgency=medium",
         "postgresql-10 (10.23-0ubuntu0.18.04.2) bionic-security; urgency=medium",
         "postgresql-10 (10.23-0ubuntu0.18.04.1) bionic; urgency=medium",
@@ -30,8 +31,7 @@
         "postgresql-10 (10.20-0ubuntu0.18.04.1) bionic; urgency=medium",
         "postgresql-10 (10.19-0ubuntu0.18.04.1) bionic-security; urgency=medium",
         "postgresql-10 (10.18-0ubuntu0.18.04.1) bionic-security; urgency=medium",
-        "postgresql-10 (10.17-0ubuntu0.18.04.1) bionic-security; urgency=medium",
-        "postgresql-10 (10.16-0ubuntu0.18.04.1) bionic; urgency=medium"
+        "postgresql-10 (10.17-0ubuntu0.18.04.1) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }

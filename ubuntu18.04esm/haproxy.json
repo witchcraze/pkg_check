@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "1.8.8-1ubuntu0.13+esm2",
+        "Version": "1.8.8-1ubuntu0.13+esm3",
         "Priority": "optional",
         "Section": "net",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -15,11 +15,12 @@
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
-        "haproxy/bionic-infra-security 1.8.8-1ubuntu0.13+esm2 amd64",
+        "haproxy/bionic-infra-security 1.8.8-1ubuntu0.13+esm3 amd64",
         "haproxy/bionic-updates,bionic-security 1.8.8-1ubuntu0.13 amd64",
         "haproxy/bionic 1.8.8-1 amd64"
     ],
     "changelog": [
+        "haproxy (1.8.8-1ubuntu0.13+esm3) bionic-security; urgency=medium",
         "haproxy (1.8.8-1ubuntu0.13+esm2) bionic-security; urgency=medium",
         "haproxy (1.8.8-1ubuntu0.13) bionic-security; urgency=medium",
         "haproxy (1.8.8-1ubuntu0.11) bionic; urgency=medium",
@@ -28,8 +29,7 @@
         "haproxy (1.8.8-1ubuntu0.8) bionic; urgency=medium",
         "haproxy (1.8.8-1ubuntu0.7) bionic-security; urgency=medium",
         "haproxy (1.8.8-1ubuntu0.6) bionic; urgency=medium",
-        "haproxy (1.8.8-1ubuntu0.5) bionic; urgency=medium",
-        "haproxy (1.8.8-1ubuntu0.4) bionic; urgency=medium"
+        "haproxy (1.8.8-1ubuntu0.5) bionic; urgency=medium"
     ],
     "publishinghistory": []
 }

@@ -5,19 +5,20 @@
         "Section": "httpd",
         "Installed-Size": "96.3 kB",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Version": "1.4.6-1ubuntu3.9+esm4",
-        "Depends": "nginx-core (>= 1.4.6-1ubuntu3.9+esm4) | nginx-full (>= 1.4.6-1ubuntu3.9+esm4) | nginx-light (>= 1.4.6-1ubuntu3.9+esm4) | nginx-extras (>= 1.4.6-1ubuntu3.9+esm4) | nginx-naxsi (>= 1.4.6-1ubuntu3.9+esm4), nginx-core (<< 1.4.6-1ubuntu3.9+esm4.1~) | nginx-full (<< 1.4.6-1ubuntu3.9+esm4.1~) | nginx-light (<< 1.4.6-1ubuntu3.9+esm4.1~) | nginx-extras (<< 1.4.6-1ubuntu3.9+esm4.1~) | nginx-naxsi (<< 1.4.6-1ubuntu3.9+esm4.1~)",
-        "Download-Size": "5226 B",
+        "Version": "1.4.6-1ubuntu3.9+esm5",
+        "Depends": "nginx-core (>= 1.4.6-1ubuntu3.9+esm5) | nginx-full (>= 1.4.6-1ubuntu3.9+esm5) | nginx-light (>= 1.4.6-1ubuntu3.9+esm5) | nginx-extras (>= 1.4.6-1ubuntu3.9+esm5) | nginx-naxsi (>= 1.4.6-1ubuntu3.9+esm5), nginx-core (<< 1.4.6-1ubuntu3.9+esm5.1~) | nginx-full (<< 1.4.6-1ubuntu3.9+esm5.1~) | nginx-light (<< 1.4.6-1ubuntu3.9+esm5.1~) | nginx-extras (<< 1.4.6-1ubuntu3.9+esm5.1~) | nginx-naxsi (<< 1.4.6-1ubuntu3.9+esm5.1~)",
+        "Download-Size": "5104 B",
         "Original-Maintainer": "Kartik Mistry <kartik@debian.org>",
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/trusty-infra-security 1.4.6-1ubuntu3.9+esm4 all",
+        "nginx/trusty-infra-security 1.4.6-1ubuntu3.9+esm5 all",
         "nginx/trusty-updates,trusty-security 1.4.6-1ubuntu3.9 all",
         "nginx/trusty 1.4.6-1ubuntu3 all"
     ],
     "changelog": [
+        "nginx (1.4.6-1ubuntu3.9+esm5) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.9+esm4) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.9+esm3) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.9+esm2) trusty-security; urgency=medium",
@@ -26,8 +27,7 @@
         "nginx (1.4.6-1ubuntu3.8) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.7) trusty-security; urgency=medium",
         "nginx (1.4.6-1ubuntu3.6) trusty-security; urgency=medium",
-        "nginx (1.4.6-1ubuntu3.5) trusty-security; urgency=medium",
-        "nginx (1.4.6-1ubuntu3.4) trusty-security; urgency=medium"
+        "nginx (1.4.6-1ubuntu3.5) trusty-security; urgency=medium"
     ],
     "publishinghistory": []
 }

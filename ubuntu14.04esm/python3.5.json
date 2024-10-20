@@ -5,19 +5,21 @@
         "Section": "python",
         "Installed-Size": "354 kB",
         "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Version": "3.5.2-2ubuntu0~16.04.4~14.04.1+esm1",
+        "Version": "3.5.2-2ubuntu0~16.04.4~14.04.1+esm3",
         "Suggests": "python3.5-venv, python3.5-doc, binutils",
-        "Depends": "python3.5-minimal (= 3.5.2-2ubuntu0~16.04.4~14.04.1+esm1), libpython3.5-stdlib (= 3.5.2-2ubuntu0~16.04.4~14.04.1+esm1), mime-support",
+        "Depends": "python3.5-minimal (= 3.5.2-2ubuntu0~16.04.4~14.04.1+esm3), libpython3.5-stdlib (= 3.5.2-2ubuntu0~16.04.4~14.04.1+esm3), mime-support",
         "Download-Size": "165 kB",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
     "list": [
-        "python3.5/trusty-infra-security 3.5.2-2ubuntu0~16.04.4~14.04.1+esm1 amd64",
+        "python3.5/trusty-infra-security 3.5.2-2ubuntu0~16.04.4~14.04.1+esm3 amd64",
         "python3.5/trusty-updates,trusty-security 3.5.2-2ubuntu0~16.04.4~14.04.1 amd64"
     ],
     "changelog": [
+        "python3.5 (3.5.2-2ubuntu0~16.04.4~14.04.1+esm3) trusty-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.4~14.04.1+esm2) trusty-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.4~14.04.1+esm1) trusty-security; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.4~14.04.1) trusty; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.4) xenial-security; urgency=medium",
@@ -25,9 +27,7 @@
         "python3.5 (3.5.2-2ubuntu0~16.04.2) xenial; urgency=medium",
         "python3.5 (3.5.2-2ubuntu0~16.04.1) xenial-security; urgency=medium",
         "python3.5 (3.5.2-2~16.04) xenial-proposed; urgency=medium",
-        "python3.5 (3.5.2-2~16.01) xenial-proposed; urgency=medium",
-        "python3.5 (3.5.2-2) unstable; urgency=medium",
-        "python3.5 (3.5.2-1) unstable; urgency=medium"
+        "python3.5 (3.5.2-2~16.01) xenial-proposed; urgency=medium"
     ],
     "publishinghistory": []
 }

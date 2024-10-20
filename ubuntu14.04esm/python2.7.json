@@ -3,12 +3,12 @@
         "Package": "python2.7",
         "Priority": "standard",
         "Section": "python",
-        "Installed-Size": "358 kB",
+        "Installed-Size": "359 kB",
         "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Version": "2.7.6-8ubuntu0.6+esm18",
+        "Version": "2.7.6-8ubuntu0.6+esm20",
         "Replaces": "python-profiler (<= 2.7.1-2), python2.7-minimal (<< 2.7.3-7~)",
         "Suggests": "python2.7-doc, binutils",
-        "Depends": "python2.7-minimal (= 2.7.6-8ubuntu0.6+esm18), libpython2.7-stdlib (= 2.7.6-8ubuntu0.6+esm18), mime-support",
+        "Depends": "python2.7-minimal (= 2.7.6-8ubuntu0.6+esm20), libpython2.7-stdlib (= 2.7.6-8ubuntu0.6+esm20), mime-support",
         "Conflicts": "python-profiler (<= 2.7.1-2)",
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
         "Download-Size": "197 kB",
@@ -17,11 +17,13 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm18 amd64",
+        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm20 amd64",
         "python2.7/trusty-updates,trusty-security 2.7.6-8ubuntu0.5 amd64",
         "python2.7/trusty 2.7.6-8 amd64"
     ],
     "changelog": [
+        "python2.7 (2.7.6-8ubuntu0.6+esm20) trusty-security; urgency=medium",
+        "python2.7 (2.7.6-8ubuntu0.6+esm19) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm18) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm17) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm16) trusty-security; urgency=medium",
@@ -29,9 +31,7 @@
         "python2.7 (2.7.6-8ubuntu0.6+esm14) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm13) trusty-security; urgency=medium",
         "python2.7 (2.7.6-8ubuntu0.6+esm12) trusty-security; urgency=medium",
-        "python2.7 (2.7.6-8ubuntu0.6+esm11) trusty-security; urgency=medium",
-        "python2.7 (2.7.6-8ubuntu0.6+esm10) trusty-security; urgency=medium",
-        "python2.7 (2.7.6-8ubuntu0.6+esm9) trusty-security; urgency=medium"
+        "python2.7 (2.7.6-8ubuntu0.6+esm11) trusty-security; urgency=medium"
     ],
     "publishinghistory": []
 }

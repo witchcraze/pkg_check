@@ -1,23 +1,24 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.10.3-0ubuntu0.16.04.5+esm5",
+        "Version": "1.10.3-0ubuntu0.16.04.5+esm6",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Kartik Mistry <kartik@debian.org>",
         "Installed-Size": "38.9 kB",
-        "Depends": "nginx-core (>= 1.10.3-0ubuntu0.16.04.5+esm5) | nginx-full (>= 1.10.3-0ubuntu0.16.04.5+esm5) | nginx-light (>= 1.10.3-0ubuntu0.16.04.5+esm5) | nginx-extras (>= 1.10.3-0ubuntu0.16.04.5+esm5), nginx-core (<< 1.10.3-0ubuntu0.16.04.5+esm5.1~) | nginx-full (<< 1.10.3-0ubuntu0.16.04.5+esm5.1~) | nginx-light (<< 1.10.3-0ubuntu0.16.04.5+esm5.1~) | nginx-extras (<< 1.10.3-0ubuntu0.16.04.5+esm5.1~)",
-        "Download-Size": "3504 B",
+        "Depends": "nginx-core (>= 1.10.3-0ubuntu0.16.04.5+esm6) | nginx-full (>= 1.10.3-0ubuntu0.16.04.5+esm6) | nginx-light (>= 1.10.3-0ubuntu0.16.04.5+esm6) | nginx-extras (>= 1.10.3-0ubuntu0.16.04.5+esm6), nginx-core (<< 1.10.3-0ubuntu0.16.04.5+esm6.1~) | nginx-full (<< 1.10.3-0ubuntu0.16.04.5+esm6.1~) | nginx-light (<< 1.10.3-0ubuntu0.16.04.5+esm6.1~) | nginx-extras (<< 1.10.3-0ubuntu0.16.04.5+esm6.1~)",
+        "Download-Size": "3506 B",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/xenial-infra-security 1.10.3-0ubuntu0.16.04.5+esm5 all",
+        "nginx/xenial-infra-security 1.10.3-0ubuntu0.16.04.5+esm6 all",
         "nginx/xenial-updates,xenial-security 1.10.3-0ubuntu0.16.04.5 all",
         "nginx/xenial 1.9.15-0ubuntu1 all"
     ],
     "changelog": [
+        "nginx (1.10.3-0ubuntu0.16.04.5+esm6) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.5+esm5) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.5+esm4) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.5+esm3) xenial-security; urgency=medium",
@@ -26,8 +27,7 @@
         "nginx (1.10.3-0ubuntu0.16.04.5) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.4) xenial-security; urgency=medium",
         "nginx (1.10.3-0ubuntu0.16.04.3) xenial-security; urgency=medium",
-        "nginx (1.10.3-0ubuntu0.16.04.2) xenial-security; urgency=medium",
-        "nginx (1.10.3-0ubuntu0.16.04.1) xenial; urgency=medium"
+        "nginx (1.10.3-0ubuntu0.16.04.2) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }

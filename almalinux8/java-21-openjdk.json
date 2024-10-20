@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.4.0.7",
-        "Release": "1.el8.alma.1",
+        "Version": "21.0.5.0.10",
+        "Release": "3.el8.alma.1",
         "Architecture": "x86_64",
-        "Size": "445 k",
-        "Source": "java-21-openjdk-21.0.4.0.7-1.el8.alma.1.src.rpm",
+        "Size": "447 k",
+        "Source": "java-21-openjdk-21.0.5.0.10-3.el8.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -19,6 +19,7 @@
         "java-21-openjdk.x86_64                     1:21.0.2.0.13-1.el8.alma.1                      repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "java-21-openjdk.x86_64                     1:21.0.3.0.9-1.el8.alma.1                       appstream",
         "java-21-openjdk.x86_64                     1:21.0.3.0.9-1.el8.alma.1                       repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                     1:21.0.4.0.7-1.el8.alma.1                       appstream"
+        "java-21-openjdk.x86_64                     1:21.0.4.0.7-1.el8.alma.1                       appstream",
+        "java-21-openjdk.x86_64                     1:21.0.5.0.10-3.el8.alma.1                      appstream"
     ]
 }
