@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3.14",
+        "Version": "3.14.0~a1",
+        "Release": "2.fc39",
+        "Architecture": "x86_64",
+        "Size": "23 k",
+        "Source": "python3.14-3.14.0~a1-2.fc39.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.14 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.14.i686                      3.14.0~a1-2.fc39                    updates",
+        "python3.14.x86_64                    3.14.0~a1-2.fc39                    updates"
+    ],
+    "kojiPackages": [
+        "python3.14-3.14.0~a1-2.fc39",
+        "python3.14-3.14.0~a1-1.fc39"
+    ]
+}

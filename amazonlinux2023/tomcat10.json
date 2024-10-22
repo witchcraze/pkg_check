@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "tomcat10",
+        "Epoch": "1",
+        "Version": "10.1.29",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "noarch",
+        "Size": "92 k",
+        "Source": "tomcat10-10.1.29-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 6.0/JSP 3.1 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "Tomcat is the servlet container that is used in the official Reference"
+    },
+    "list": [
+        "tomcat10.noarch               1:10.1.29-1.amzn2023.0.1               amazonlinux"
+    ]
+}

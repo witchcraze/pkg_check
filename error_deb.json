@@ -10,6 +10,15 @@
             "nodejs": [
                 "apt-get changelog"
             ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "openjdk-17-jdk": [
+                "apt-get changelog"
+            ],
+            "perl": [
+                "apt-get changelog"
+            ],
             "php7.4": [
                 "apt-get changelog"
             ],
@@ -21,6 +30,9 @@
             ]
         },
         "12": {
+            "openjdk-17-jdk": [
+                "apt-get changelog"
+            ],
             "python3.11": [
                 "apt-get changelog"
             ]

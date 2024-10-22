@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql16",
+        "Version": "16.4",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.8 M",
+        "Source": "postgresql16-16.4-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql16.x86_64               16.4-1.amzn2023.0.1                amazonlinux"
+    ]
+}

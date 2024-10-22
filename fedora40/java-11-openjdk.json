@@ -18,6 +18,7 @@
         "java-11-openjdk.x86_64              1:11.0.24.0.8-2.fc40                 updates"
     ],
     "kojiPackages": [
+        "java-11-openjdk-11.0.25.0.9-1.fc40",
         "java-11-openjdk-11.0.24.0.8-2.fc40",
         "java-11-openjdk-11.0.23.0.9-1.fc40",
         "java-11-openjdk-11.0.22.0.7-2.fc40.1",
