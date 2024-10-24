@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "golang-1.22",
-        "Version": "1.22.2-2~20.04.1",
+        "Version": "1.22.2-2~20.04.2",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
@@ -9,16 +9,17 @@
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "45.1 kB",
-        "Depends": "golang-1.22-doc (>= 1.22.2-2~20.04.1), golang-1.22-go (>= 1.22.2-2~20.04.1), golang-1.22-src (>= 1.22.2-2~20.04.1)",
+        "Depends": "golang-1.22-doc (>= 1.22.2-2~20.04.2), golang-1.22-go (>= 1.22.2-2~20.04.2), golang-1.22-src (>= 1.22.2-2~20.04.2)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5784 B",
+        "Download-Size": "5792 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.22/focal-updates 1.22.2-2~20.04.1 all"
+        "golang-1.22/focal-updates,focal-security 1.22.2-2~20.04.2 all"
     ],
     "changelog": [
+        "golang-1.22 (1.22.2-2~20.04.2) focal-security; urgency=medium",
         "golang-1.22 (1.22.2-2~20.04.1) focal; urgency=medium",
         "golang-1.22 (1.22.2-2~22.04.1) jammy-security; urgency=medium",
         "golang-1.22 (1.22.2-2~22.04) jammy; urgency=medium",
@@ -256,6 +257,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.22.2-2~20.04.2",
         "1.22.2-2~20.04.1"
     ]
 }

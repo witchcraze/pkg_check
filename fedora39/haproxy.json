@@ -17,6 +17,7 @@
         "haproxy.x86_64                       2.8.5-1.fc39                        updates"
     ],
     "kojiPackages": [
+        "haproxy-2.8.11-1.fc39",
         "haproxy-2.8.5-1.fc39",
         "haproxy-2.8.3-1.fc39",
         "haproxy-2.8.1-1.fc39",

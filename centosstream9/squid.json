@@ -21,6 +21,7 @@
         "squid.x86_64                       7:5.5-15.el9                        appstream"
     ],
     "kojiPackages": [
+        "squid-5.5-16.el9",
         "squid-5.5-15.el9",
         "squid-5.5-14.el9",
         "squid-5.5-13.el9",
