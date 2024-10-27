@@ -2,11 +2,11 @@
     "info": {
         "Name": "tomcat",
         "Epoch": "1",
-        "Version": "9.0.95",
+        "Version": "9.0.96",
         "Release": "1.fc40",
         "Architecture": "noarch",
         "Size": "96 k",
-        "Source": "tomcat-9.0.95-1.fc40.src.rpm",
+        "Source": "tomcat-9.0.96-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "tomcat.noarch                      1:9.0.83-3.fc40                       fedora",
-        "tomcat.noarch                      1:9.0.95-1.fc40                       updates"
+        "tomcat.noarch                      1:9.0.96-1.fc40                       updates"
     ],
     "kojiPackages": [
         "tomcat-9.0.96-1.fc40",
