@@ -1,5 +1,64 @@
 {
     "debian": {
+        "10": {
+            "apache2": [
+                "apt-get changelog"
+            ],
+            "bind9": [
+                "apt-get changelog"
+            ],
+            "golang-1.11": [
+                "apt-get changelog"
+            ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "mariadb-server-10.3": [
+                "apt-get changelog"
+            ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
+            "openjdk-11-jdk": [
+                "apt-get changelog"
+            ],
+            "php7.3": [
+                "apt-get changelog"
+            ],
+            "postgresql-11": [
+                "apt-get changelog"
+            ],
+            "python2.7": [
+                "apt-get changelog"
+            ],
+            "python3.7": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "ruby2.5": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ]
+        },
         "11": {
             "apache2": [
                 "apt-get changelog"

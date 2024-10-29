@@ -1,23 +1,25 @@
 {
     "show": {
         "Package": "php7.3",
-        "Version": "7.3.31-1~deb10u5",
+        "Version": "7.3.31-1~deb10u7",
         "Priority": "optional",
         "Section": "php",
         "Maintainer": "Debian PHP Maintainers <team+pkg-php@tracker.debian.org>",
-        "Installed-Size": "82.9 kB",
+        "Installed-Size": "84.0 kB",
         "Provides": "php",
         "Depends": "libapache2-mod-php7.3 | php7.3-fpm | php7.3-cgi, php7.3-common",
         "Homepage": "http://www.php.net/",
-        "Download-Size": "47.9 kB",
+        "Download-Size": "48.4 kB",
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.3/oldoldstable 7.3.31-1~deb10u5 all",
+        "php7.3/oldoldstable 7.3.31-1~deb10u7 all",
         "php7.3/oldoldstable 7.3.31-1~deb10u1 all"
     ],
     "changelog": [
+        "php7.3 (7.3.31-1~deb10u7) buster-security; urgency=high",
+        "php7.3 (7.3.31-1~deb10u6) buster-security; urgency=high",
         "php7.3 (7.3.31-1~deb10u5) buster-security; urgency=high",
         "php7.3 (7.3.31-1~deb10u4) buster-security; urgency=high",
         "php7.3 (7.3.31-1~deb10u3) buster-security; urgency=high",

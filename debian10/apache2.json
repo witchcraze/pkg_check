@@ -1,29 +1,30 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.38-3+deb10u10",
+        "Version": "2.4.59-1~deb10u1",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
-        "Installed-Size": "614 kB",
+        "Installed-Size": "645 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "apache2-bin (= 2.4.38-3+deb10u10), apache2-data (= 2.4.38-3+deb10u10), apache2-utils (= 2.4.38-3+deb10u10), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.59-1~deb10u1), apache2-data (= 2.4.59-1~deb10u1), apache2-utils (= 2.4.59-1~deb10u1), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser",
         "Conflicts": "apache2.2-bin, apache2.2-common",
         "Breaks": "libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Homepage": "https://httpd.apache.org/",
-        "Download-Size": "252 kB",
+        "Download-Size": "283 kB",
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/oldoldstable 2.4.38-3+deb10u10 amd64",
+        "apache2/oldoldstable 2.4.59-1~deb10u1 amd64",
         "apache2/oldoldstable 2.4.38-3+deb10u8 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.59-1~deb10u1) buster-security; urgency=medium",
         "apache2 (2.4.38-3+deb10u10) buster-security; urgency=medium",
         "apache2 (2.4.38-3+deb10u9) buster-security; urgency=medium",
         "apache2 (2.4.38-3+deb10u8) buster; urgency=medium",

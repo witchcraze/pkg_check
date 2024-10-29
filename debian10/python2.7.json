@@ -1,12 +1,12 @@
 {
     "show": {
         "Package": "python2.7",
-        "Version": "2.7.16-2+deb10u3",
+        "Version": "2.7.16-2+deb10u4",
         "Priority": "standard",
         "Section": "python",
         "Maintainer": "Matthias Klose <doko@debian.org>",
-        "Installed-Size": "387 kB",
-        "Depends": "python2.7-minimal (= 2.7.16-2+deb10u3), libpython2.7-stdlib (= 2.7.16-2+deb10u3), mime-support",
+        "Installed-Size": "388 kB",
+        "Depends": "python2.7-minimal (= 2.7.16-2+deb10u4), libpython2.7-stdlib (= 2.7.16-2+deb10u4), mime-support",
         "Suggests": "python2.7-doc, binutils",
         "Conflicts": "python-profiler (<= 2.7.1-2)",
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
@@ -16,10 +16,11 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/oldoldstable 2.7.16-2+deb10u3 amd64",
+        "python2.7/oldoldstable 2.7.16-2+deb10u4 amd64",
         "python2.7/oldoldstable 2.7.16-2+deb10u1 amd64"
     ],
     "changelog": [
+        "python2.7 (2.7.16-2+deb10u4) buster-security; urgency=medium",
         "python2.7 (2.7.16-2+deb10u3) buster-security; urgency=medium",
         "python2.7 (2.7.16-2+deb10u2) buster-security; urgency=high",
         "python2.7 (2.7.16-2+deb10u1) buster; urgency=medium",

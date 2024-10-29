@@ -2,20 +2,20 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.422.b06",
-        "Release": "2.fc39",
+        "Version": "1.8.0.432.b06",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Size": "426 k",
-        "Source": "java-1.8.0-openjdk-1.8.0.422.b06-2.fc39.src.rpm",
+        "Size": "422 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.432.b06-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
-        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib",
+        "License": "Apache-1.1 AND Apache-2.0 AND LicenseRef-Callaway-BSD AND LicenseRef-Callaway-BSD-with-advertising AND GPL-1.0-or-later AND GPL-2.0-only AND LicenseRef-Callaway-GPLv2-with-exceptions AND IJG AND LicenseRef-Callaway-LGPLv2+ AND LicenseRef-Callaway-MIT AND MPL-2.0 AND LicenseRef-Callaway-Public-Domain AND W3C AND Zlib",
         "Description": "The OpenJDK 8 runtime environment."
     },
     "list": [
         "java-1.8.0-openjdk.x86_64             1:1.8.0.382.b05-2.fc39             fedora",
-        "java-1.8.0-openjdk.x86_64             1:1.8.0.422.b06-2.fc39             updates"
+        "java-1.8.0-openjdk.x86_64             1:1.8.0.432.b06-1.fc39             updates"
     ],
     "kojiPackages": [
         "java-1.8.0-openjdk-1.8.0.432.b06-1.fc39",

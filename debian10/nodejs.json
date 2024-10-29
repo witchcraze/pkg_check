@@ -1,26 +1,27 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "10.24.0~dfsg-1~deb10u3",
+        "Version": "10.24.0~dfsg-1~deb10u4",
         "Priority": "extra",
         "Section": "web",
         "Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
         "Installed-Size": "162 kB",
-        "Depends": "libatomic1 (>= 4.8), libbrotli1 (>= 0.6.0), libc-ares2 (>= 1.7.0), libc6 (>= 2.4), libgcc1 (>= 1:3.0), libicu63 (>= 63.1-1~), libnode64 (= 10.24.0~dfsg-1~deb10u3), libssl1.1 (>= 1.1.0), libstdc++6 (>= 4.1.1), libuv1 (>= 1.20.0~), zlib1g (>= 1:1.1.4)",
+        "Depends": "libatomic1 (>= 4.8), libbrotli1 (>= 0.6.0), libc-ares2 (>= 1.7.0), libc6 (>= 2.4), libgcc1 (>= 1:3.0), libicu63 (>= 63.1-1~), libnode64 (= 10.24.0~dfsg-1~deb10u4), libssl1.1 (>= 1.1.0), libstdc++6 (>= 4.1.1), libuv1 (>= 1.20.0~), zlib1g (>= 1:1.1.4)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Conflicts": "nodejs-legacy",
         "Replaces": "nodejs-legacy",
         "Homepage": "http://nodejs.org/",
-        "Download-Size": "88.0 kB",
+        "Download-Size": "88.4 kB",
         "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/oldoldstable 10.24.0~dfsg-1~deb10u3 amd64",
+        "nodejs/oldoldstable 10.24.0~dfsg-1~deb10u4 amd64",
         "nodejs/oldoldstable 10.24.0~dfsg-1~deb10u1 amd64"
     ],
     "changelog": [
+        "nodejs (10.24.0~dfsg-1~deb10u4) buster-security; urgency=high",
         "nodejs (10.24.0~dfsg-1~deb10u3) buster-security; urgency=high",
         "nodejs (10.24.0~dfsg-1~deb10u2) buster-security; urgency=high",
         "nodejs (10.24.0~dfsg-1~deb10u1) buster-security; urgency=medium",
