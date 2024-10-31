@@ -111,6 +111,32 @@
             "postgresql-server": [
                 "kojiPackages"
             ]
+        },
+        "41": {
+            "mariadb": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nodejs20": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3": [
+                "kojiPackages"
+            ]
         }
     }
 }
