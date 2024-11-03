@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "postgresql-server",
+        "Epoch": "0",
+        "Version": "16.3",
+        "Release": "3.fc41",
+        "Architecture": "x86_64",
+        "Download size": "6.9 MiB",
+        "Installed size": "29.1 MiB",
+        "Source": "postgresql16-16.3-3.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "The programs needed to create and run a PostgreSQL server",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS).",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "postgresql-server.i686   16.3-3.fc41 fedora",
+        "postgresql-server.x86_64 16.3-3.fc41 fedora"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "info": {
+        "Name": "postgresql15",
+        "Epoch": "0",
+        "Version": "15.8",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "1.7 MiB",
+        "Installed size": "6.5 MiB",
+        "Source": "postgresql15-15.8-1.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS).",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "postgresql15.i686   15.8-1.fc41 fedora",
+        "postgresql15.x86_64 15.8-1.fc41 fedora"
+    ],
+    "kojiPackages": [
+        "postgresql15-15.8-1.fc41",
+        "postgresql15-15.5-9.fc41",
+        "postgresql15-15.5-7.fc41",
+        "postgresql15-15.5-6.fc41",
+        "postgresql15-15.5-5.fc41"
+    ]
+}

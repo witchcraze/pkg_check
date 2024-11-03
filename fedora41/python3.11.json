@@ -1,0 +1,33 @@
+{
+    "info": {
+        "Name": "python3.11",
+        "Epoch": "0",
+        "Version": "3.11.10",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "26.1 KiB",
+        "Installed size": "31.5 KiB",
+        "Source": "python3.11-3.11.10-1.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Version 3.11 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "python3.11.i686   3.11.10-1.fc41 fedora",
+        "python3.11.x86_64 3.11.10-1.fc41 fedora"
+    ],
+    "kojiPackages": [
+        "python3.11-3.11.10-1.fc41",
+        "python3.11-3.11.9-6.fc41",
+        "python3.11-3.11.9-5.fc41",
+        "python3.11-3.11.9-4.fc41",
+        "python3.11-3.11.9-3.fc41",
+        "python3.11-3.11.9-2.fc41",
+        "python3.11-3.11.9-1.fc41",
+        "python3.11-3.11.8-2.fc41"
+    ]
+}

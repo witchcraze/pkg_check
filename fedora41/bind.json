@@ -1,0 +1,31 @@
+{
+    "info": {
+        "Name": "bind",
+        "Epoch": "32",
+        "Version": "9.18.30",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "532.8 KiB",
+        "Installed size": "1.6 MiB",
+        "Source": "bind-9.18.30-1.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPL-2.0 AND ISC AND MIT AND BSD-3-Clause AND BSD-2-Clause",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "bind.x86_64 32:9.18.30-1.fc41 fedora"
+    ],
+    "kojiPackages": [
+        "bind-9.18.30-1.fc41",
+        "bind-9.18.28-2.fc41",
+        "bind-9.18.28-1.fc41",
+        "bind-9.18.26-3.fc41",
+        "bind-9.18.26-2.fc41",
+        "bind-9.18.26-1.fc41",
+        "bind-9.18.24-1.fc41"
+    ]
+}

@@ -19,7 +19,7 @@
     },
     "list": [
         "openssl/oldstable,now 1.1.1w-0+deb11u1 amd64 [installed,automatic]",
-        "openssl/oldstable-security 1.1.1n-0+deb11u5 amd64"
+        "openssl/oldstable-security 1.1.1n-0+deb11u6 amd64"
     ],
     "changelog": [
         "openssl (1.1.1w-0+deb11u1) bullseye; urgency=medium",

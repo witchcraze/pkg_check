@@ -18,6 +18,7 @@
         "squid.x86_64                        7:6.11-2.fc39                        updates"
     ],
     "kojiPackages": [
+        "squid-6.12-2.fc39",
         "squid-6.11-2.fc39",
         "squid-6.10-1.fc39",
         "squid-6.9-1.fc39",

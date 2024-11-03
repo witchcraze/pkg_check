@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "6.11",
+        "Release": "2.fc41",
+        "Architecture": "x86_64",
+        "Download size": "3.9 MiB",
+        "Installed size": "11.4 MiB",
+        "Source": "squid-6.11-2.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPL-2.0-or-later AND (LGPL-2.0-or-later AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND LicenseRef-Fedora-Public-Domain AND Beerware)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "squid.x86_64 7:6.10-2.fc41 fedora",
+        "squid.x86_64 7:6.11-2.fc41 updates"
+    ],
+    "kojiPackages": [
+        "squid-6.12-2.fc41",
+        "squid-6.11-2.fc41",
+        "squid-6.10-2.fc41",
+        "squid-6.10-1.fc41",
+        "squid-6.9-1.fc41",
+        "squid-6.8-1.fc41",
+        "squid-6.7-1.fc41"
+    ]
+}

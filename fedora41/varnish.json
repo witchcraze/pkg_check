@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Epoch": "0",
+        "Version": "7.5.0",
+        "Release": "2.fc41",
+        "Architecture": "x86_64",
+        "Download size": "1.1 MiB",
+        "Installed size": "3.3 MiB",
+        "Source": "varnish-7.5.0-2.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD-2-Clause AND (BSD-2-Clause-FreeBSD AND BSD-3-Clause AND LicenseRef-Fedora-Public-Domain AND Zlib)",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator.",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "varnish.i686   7.5.0-2.fc41 fedora",
+        "varnish.x86_64 7.5.0-2.fc41 fedora"
+    ],
+    "kojiPackages": [
+        "varnish-7.5.0-2.fc41",
+        "varnish-7.5.0-1.fc41"
+    ]
+}

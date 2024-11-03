@@ -1,0 +1,33 @@
+{
+    "info": {
+        "Name": "java-21-openjdk",
+        "Epoch": "1",
+        "Version": "21.0.5.0.11",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "420.5 KiB",
+        "Installed size": "1.1 MiB",
+        "Source": "java-21-openjdk-21.0.5.0.11-1.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "OpenJDK 21 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
+        "Description": "The OpenJDK 21 runtime environment.",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "java-21-openjdk.x86_64 1:21.0.4.0.7-2.fc41  fedora",
+        "java-21-openjdk.x86_64 1:21.0.5.0.11-1.fc41 updates"
+    ],
+    "kojiPackages": [
+        "java-21-openjdk-21.0.5.0.11-1.fc41app1",
+        "java-21-openjdk-21.0.5.0.11-1.fc41",
+        "java-21-openjdk-21.0.4.0.7-2.fc41app1",
+        "java-21-openjdk-21.0.4.0.7-2.fc41",
+        "java-21-openjdk-21.0.3.0.9-1.fc41.1",
+        "java-21-openjdk-21.0.3.0.9-1.fc41",
+        "java-21-openjdk-21.0.2.0.13-3.fc41",
+        "java-21-openjdk-21.0.2.0.13-2.fc41"
+    ]
+}

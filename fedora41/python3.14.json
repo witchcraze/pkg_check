@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "python3.14",
+        "Epoch": "0",
+        "Version": "3.14.0~a1",
+        "Release": "2.fc41",
+        "Architecture": "x86_64",
+        "Download size": "23.6 KiB",
+        "Installed size": "31.9 KiB",
+        "Source": "python3.14-3.14.0~a1-2.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.14 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "python3.14.i686   3.14.0~a1-2.fc41 updates",
+        "python3.14.x86_64 3.14.0~a1-2.fc41 updates"
+    ],
+    "kojiPackages": [
+        "python3.14-3.14.0~a1-2.fc41",
+        "python3.14-3.14.0~a1-1.fc41"
+    ]
+}

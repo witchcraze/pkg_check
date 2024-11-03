@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "python3",
+        "Epoch": "0",
+        "Version": "3.13.0",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "27.8 KiB",
+        "Installed size": "31.8 KiB",
+        "Source": "python3.13-3.13.0-1.fc41.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Python 3.13 interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.13 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "python3.i686   3.13.0-1.fc41 fedora",
+        "python3.x86_64 3.13.0-1.fc41 fedora"
+    ]
+}

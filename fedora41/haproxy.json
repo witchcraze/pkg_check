@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "haproxy",
+        "Epoch": "0",
+        "Version": "3.0.5",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "2.6 MiB",
+        "Installed size": "8.0 MiB",
+        "Source": "haproxy-3.0.5-1.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "HAProxy reverse proxy for high availability environments",
+        "URL": "http://www.haproxy.org/",
+        "License": "GPL-2.0-or-later",
+        "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "haproxy.x86_64 3.0.4-1.fc41 fedora",
+        "haproxy.x86_64 3.0.5-1.fc41 updates"
+    ],
+    "kojiPackages": [
+        "haproxy-3.0.5-1.fc41",
+        "haproxy-3.0.4-1.fc41",
+        "haproxy-3.0.3-2.fc41",
+        "haproxy-3.0.3-1.fc41"
+    ]
+}

@@ -17,6 +17,7 @@
         "memcached.x86_64                      1.6.26-2.fc40                      updates"
     ],
     "kojiPackages": [
+        "memcached-1.6.32-1.fc40",
         "memcached-1.6.26-2.fc40",
         "memcached-1.6.23-2.fc40",
         "memcached-1.6.23-1.fc40",

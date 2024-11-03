@@ -1,0 +1,43 @@
+{
+    "info": {
+        "Name": "php",
+        "Epoch": "0",
+        "Version": "8.3.13",
+        "Release": "1.fc41",
+        "Architecture": "x86_64",
+        "Download size": "13.9 KiB",
+        "Installed size": "0.0   B",
+        "Source": "php-8.3.13-1.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "Available packages",
+        "php.x86_64 8.3.12-1.fc41 fedora",
+        "php.x86_64 8.3.13-1.fc41 updates"
+    ],
+    "kojiPackages": [
+        "php-8.3.13-1.fc41",
+        "php-8.3.12-1.fc41",
+        "php-8.3.11-1.fc41",
+        "php-8.3.11~RC2-1.fc41",
+        "php-8.3.10-1.fc41",
+        "php-8.3.10~RC1-2.fc41",
+        "php-8.3.10~RC1-1.fc41",
+        "php-8.3.9-1.fc41",
+        "php-8.3.8-1.fc41",
+        "php-8.3.8~RC1-1.fc41",
+        "php-8.3.7-1.fc41",
+        "php-8.3.7~RC1-1.fc41",
+        "php-8.3.6-1.fc41",
+        "php-8.3.5-1.fc41",
+        "php-8.3.5~RC1-1.fc41",
+        "php-8.3.4-1.fc41",
+        "php-8.3.4~RC1-1.fc41",
+        "php-8.3.3-1.fc41"
+    ]
+}
