@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "nodejs.i686   1:22.4.1-2.fc41 fedora",
         "nodejs.x86_64 1:22.4.1-2.fc41 fedora"
     ],

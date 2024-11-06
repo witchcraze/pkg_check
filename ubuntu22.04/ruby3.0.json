@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby3.0",
-        "Version": "3.0.2-7ubuntu2.7",
+        "Version": "3.0.2-7ubuntu2.8",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
@@ -18,10 +18,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby3.0/jammy-updates,jammy-security 3.0.2-7ubuntu2.7 amd64",
+        "ruby3.0/jammy-updates,jammy-security 3.0.2-7ubuntu2.8 amd64",
         "ruby3.0/jammy 3.0.2-7ubuntu2 amd64"
     ],
     "changelog": [
+        "ruby3.0 (3.0.2-7ubuntu2.8) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.7) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.6) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.5) jammy; urgency=medium",
@@ -122,6 +123,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.2-7ubuntu2.8",
         "3.0.2-7ubuntu2.7",
         "3.0.2-7ubuntu2.6",
         "3.0.2-7ubuntu2.5",

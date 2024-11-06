@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "perl.x86_64 4:5.40.0-511.fc41 fedora",
         "perl.x86_64 4:5.40.0-512.fc41 updates"
     ],

@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "ruby.i686   3.3.5-14.fc41 fedora",
         "ruby.x86_64 3.3.5-14.fc41 fedora"
     ],

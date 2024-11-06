@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "bind.x86_64 32:9.18.30-1.fc41 fedora"
     ],
     "kojiPackages": [

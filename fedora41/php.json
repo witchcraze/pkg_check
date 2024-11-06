@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "php.x86_64 8.3.12-1.fc41 fedora",
         "php.x86_64 8.3.13-1.fc41 updates"
     ],

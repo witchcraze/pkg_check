@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "varnish.i686   7.5.0-2.fc41 fedora",
         "varnish.x86_64 7.5.0-2.fc41 fedora"
     ],

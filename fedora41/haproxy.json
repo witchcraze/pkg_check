@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "haproxy.x86_64 3.0.4-1.fc41 fedora",
         "haproxy.x86_64 3.0.5-1.fc41 updates"
     ],

@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "postgresql.i686   16.3-3.fc41 fedora",
         "postgresql.x86_64 16.3-3.fc41 fedora"
     ]

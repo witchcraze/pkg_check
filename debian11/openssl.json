@@ -1,27 +1,25 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1w-0+deb11u1",
+        "Version": "1.1.1w-0+deb11u2",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
-        "Installed-Size": "1506 kB",
+        "Installed-Size": "1507 kB",
         "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
-        "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
-        "scope": "utility, security::cryptography, security::integrity,",
-        "use": "checking",
         "Download-Size": "859 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable,now 1.1.1w-0+deb11u1 amd64 [installed,automatic]",
-        "openssl/oldstable-security 1.1.1n-0+deb11u6 amd64"
+        "openssl/oldstable-security,now 1.1.1w-0+deb11u2 amd64 [installed,automatic]",
+        "openssl/oldstable 1.1.1w-0+deb11u1 amd64"
     ],
     "changelog": [
+        "openssl (1.1.1w-0+deb11u2) bullseye-security; urgency=high",
         "openssl (1.1.1w-0+deb11u1) bullseye; urgency=medium",
         "openssl (1.1.1v-0~deb11u1) bullseye; urgency=medium",
         "openssl (1.1.1n-0+deb11u5) bullseye-security; urgency=medium",

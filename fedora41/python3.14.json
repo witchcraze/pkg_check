@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "python3.14.i686   3.14.0~a1-2.fc41 updates",
         "python3.14.x86_64 3.14.0~a1-2.fc41 updates"
     ],

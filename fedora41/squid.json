@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "squid.x86_64 7:6.10-2.fc41 fedora",
         "squid.x86_64 7:6.11-2.fc41 updates"
     ],

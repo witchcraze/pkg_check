@@ -16,11 +16,11 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "python3.6.i686   3.6.15-37.fc41 fedora",
         "python3.6.x86_64 3.6.15-37.fc41 fedora"
     ],
     "kojiPackages": [
+        "python3.6-3.6.15-38.fc41",
         "python3.6-3.6.15-37.fc41",
         "python3.6-3.6.15-35.fc41",
         "python3.6-3.6.15-34.fc41",

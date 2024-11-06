@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "vsftpd.x86_64 3.0.5-8.fc41 fedora"
     ],
     "kojiPackages": [

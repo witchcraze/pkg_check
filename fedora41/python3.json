@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "python3.i686   3.13.0-1.fc41 fedora",
         "python3.x86_64 3.13.0-1.fc41 fedora"
     ]

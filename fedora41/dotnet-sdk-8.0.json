@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "dotnet-sdk-8.0.x86_64 8.0.108-1.fc41 fedora",
         "dotnet-sdk-8.0.x86_64 8.0.110-1.fc41 updates"
     ],

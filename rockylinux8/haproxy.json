@@ -16,6 +16,7 @@
         "haproxy.x86_64                      1.8.27-5.el8                       appstream"
     ],
     "kojiPackages": [
+        "haproxy-1.8.27-5.el8_10.1",
         "haproxy-1.8.27-5.el8",
         "haproxy-1.8.27-4.el8",
         "haproxy-1.8.27-2.el8",

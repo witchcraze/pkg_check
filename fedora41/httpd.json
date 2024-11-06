@@ -16,7 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "Available packages",
         "httpd.i686   2.4.62-2.fc41 fedora",
         "httpd.x86_64 2.4.62-2.fc41 fedora"
     ],
