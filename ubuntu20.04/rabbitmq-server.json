@@ -11,7 +11,7 @@
         "Installed-Size": "21.3 MB",
         "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:21.3), erlang-eldap (>= 1:21.3), erlang-inets (>= 1:21.3), erlang-mnesia (>= 1:21.3), erlang-os-mon (>= 1:21.3), erlang-parsetools (>= 1:21.3), erlang-public-key (>= 1:21.3), erlang-runtime-tools (>= 1:21.3), erlang-ssl (>= 1:21.3), erlang-syntax-tools (>= 1:21.3), erlang-tools (>= 1:21.3), erlang-xmerl (>= 1:21.3), locales-all, logrotate, lsb-base, socat, python3:any",
         "Homepage": "https://www.rabbitmq.com/",
-        "Phased-Update-Percentage": "30",
+        "Phased-Update-Percentage": "60",
         "Download-Size": "11.8 MB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
