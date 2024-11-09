@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.12",
-        "Version": "3.12.5",
-        "Release": "2.el8_10",
+        "Version": "3.12.6",
+        "Release": "1.el8_10",
         "Architecture": "x86_64",
         "Size": "29 k",
-        "Source": "python3.12-3.12.5-2.el8_10.src.rpm",
+        "Source": "python3.12-3.12.6-1.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,7 +15,8 @@
     "list": [
         "python3.12.x86_64                   3.12.1-4.el8                       appstream",
         "python3.12.x86_64                   3.12.3-2.el8_10                    appstream",
-        "python3.12.x86_64                   3.12.5-2.el8_10                    appstream"
+        "python3.12.x86_64                   3.12.5-2.el8_10                    appstream",
+        "python3.12.x86_64                   3.12.6-1.el8_10                    appstream"
     ],
     "kojiPackages": [
         "python3.12-3.12.6-1.el8_10",

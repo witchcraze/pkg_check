@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs22",
         "Epoch": "1",
-        "Version": "22.8.0",
+        "Version": "22.11.0",
         "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Size": "45 k",
-        "Source": "nodejs22-22.8.0-1.fc39.src.rpm",
+        "Size": "46 k",
+        "Source": "nodejs22-22.11.0-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,8 +14,8 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs22.i686                       1:22.8.0-1.fc39                      updates",
-        "nodejs22.x86_64                     1:22.8.0-1.fc39                      updates"
+        "nodejs22.i686                       1:22.11.0-1.fc39                     updates",
+        "nodejs22.x86_64                     1:22.11.0-1.fc39                     updates"
     ],
     "kojiPackages": [
         "nodejs22-22.11.0-1.fc39",
