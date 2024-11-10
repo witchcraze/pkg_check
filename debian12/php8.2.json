@@ -10,12 +10,11 @@
         "Depends": "libapache2-mod-php8.2 | php8.2-fpm | php8.2-cgi, php8.2-common",
         "Homepage": "http://www.php.net/",
         "Download-Size": "42.3 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php8.2/stable-security 8.2.24-1~deb12u1 all",
-        "php8.2/stable 8.2.20-1~deb12u1 all"
+        "php8.2/stable,stable-security 8.2.24-1~deb12u1 all"
     ],
     "changelog": [
         "php8.2 (8.2.24-1~deb12u1) bookworm-security; urgency=high",
@@ -185,6 +184,7 @@
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "8.2.24-1~deb12u1",
         "8.2.20-1~deb12u1",
         "8.2.7-1~deb12u1",
         "8.2.5-2"

@@ -13,12 +13,11 @@
         "Suggests": "openjdk-17-demo, openjdk-17-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "2395 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-17-jdk/stable-security 17.0.13+11-2~deb12u1 amd64",
-        "openjdk-17-jdk/stable 17.0.12+7-2~deb12u1 amd64"
+        "openjdk-17-jdk/stable,stable-security 17.0.13+11-2~deb12u1 amd64"
     ],
     "changelog": [
         "openjdk-17 (17.0.13+11-2~deb12u1) bookworm-security; urgency=medium",
@@ -557,6 +556,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "17.0.13+11-2~deb12u1",
         "17.0.12+7-2~deb12u1",
         "17.0.11+9-1~deb12u1",
         "17.0.10+7-1~deb12u1",

@@ -12,13 +12,13 @@
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser",
         "Homepage": "https://httpd.apache.org/",
+        "Tag": "role::metapackage, suite::apache",
         "Download-Size": "223 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/stable-security 2.4.62-1~deb12u2 amd64",
-        "apache2/stable 2.4.62-1~deb12u1 amd64"
+        "apache2/stable,stable-security 2.4.62-1~deb12u2 amd64"
     ],
     "changelog": [
         "apache2 (2.4.62-1~deb12u2) bookworm-security; urgency=medium",
@@ -317,6 +317,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.62-1~deb12u2",
         "2.4.62-1~deb12u1",
         "2.4.59-1~deb12u1",
         "2.4.57-2"

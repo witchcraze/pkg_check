@@ -87,14 +87,6 @@
             "ruby2.7": [
                 "apt-get changelog"
             ]
-        },
-        "12": {
-            "openssl": [
-                "apt-get changelog"
-            ],
-            "python3.11": [
-                "apt-get changelog"
-            ]
         }
     }
 }
