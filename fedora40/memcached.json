@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "memcached",
-        "Version": "1.6.26",
-        "Release": "2.fc40",
+        "Version": "1.6.32",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
-        "Size": "186 k",
-        "Source": "memcached-1.6.26-2.fc40.src.rpm",
+        "Size": "189 k",
+        "Source": "memcached-1.6.32-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
@@ -14,7 +14,7 @@
     },
     "list": [
         "memcached.x86_64                      1.6.23-2.fc40                      fedora",
-        "memcached.x86_64                      1.6.26-2.fc40                      updates"
+        "memcached.x86_64                      1.6.32-1.fc40                      updates"
     ],
     "kojiPackages": [
         "memcached-1.6.32-1.fc40",

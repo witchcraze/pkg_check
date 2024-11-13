@@ -1,0 +1,17 @@
+{
+    "info": {
+        "Name": "gcc-toolset-14",
+        "Version": "14.0",
+        "Release": "1.el9",
+        "Architecture": "x86_64",
+        "Size": "11 k",
+        "Source": "gcc-toolset-14-14.0-1.el9.src.rpm",
+        "Repository": "rhel-9-for-x86_64-appstream-rpms",
+        "Summary": "Package that installs gcc-toolset-14",
+        "License": "GPLv2+",
+        "Description": "This is the main package for gcc-toolset-14 Software Collection."
+    },
+    "list": [
+        "gcc-toolset-14.x86_64                                      14.0-1.el9                                       rhel-9-for-x86_64-appstream-rpms"
+    ]
+}

@@ -2,13 +2,13 @@
     "info": {
         "Name": "memcached",
         "Epoch": "0",
-        "Version": "1.6.29",
+        "Version": "1.6.32",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "187.6 KiB",
-        "Installed size": "471.6 KiB",
-        "Source": "memcached-1.6.29-1.fc41.src.rpm",
-        "Repository": "fedora",
+        "Download size": "188.8 KiB",
+        "Installed size": "476.0 KiB",
+        "Source": "memcached-1.6.32-1.fc41.src.rpm",
+        "Repository": "updates",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
         "License": "BSD-3-clause AND Zlib AND BSD-2-Clause AND LicenseRef-Fedora-Public-Domain",
@@ -16,7 +16,8 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "memcached.x86_64 1.6.29-1.fc41 fedora"
+        "memcached.x86_64 1.6.29-1.fc41 fedora",
+        "memcached.x86_64 1.6.32-1.fc41 updates"
     ],
     "kojiPackages": [
         "memcached-1.6.32-1.fc41",

@@ -2,11 +2,11 @@
     "info": {
         "Name": "squid",
         "Epoch": "7",
-        "Version": "6.11",
+        "Version": "6.12",
         "Release": "2.fc40",
         "Architecture": "x86_64",
-        "Size": "3.9 M",
-        "Source": "squid-6.11-2.fc40.src.rpm",
+        "Size": "3.8 M",
+        "Source": "squid-6.12-2.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -15,7 +15,7 @@
     },
     "list": [
         "squid.x86_64                        7:6.6-1.fc40                         fedora",
-        "squid.x86_64                        7:6.11-2.fc40                        updates"
+        "squid.x86_64                        7:6.12-2.fc40                        updates"
     ],
     "kojiPackages": [
         "squid-6.12-2.fc40",

@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "16.4",
-        "Release": "1.module+el9.4.0+22207+8466e31f",
+        "Release": "2.module+el9.5.0+22226+e8900db7",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql-16.4-1.module+el9.4.0+22207+8466e31f.src.rpm",
+        "Source": "postgresql-16.4-2.module+el9.5.0+22226+e8900db7.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "postgresql.x86_64                           16.1-1.module+el9.4.0+21089+0ca8f31a                            rhel-9-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                           16.4-1.module+el9.4.0+22207+8466e31f                            rhel-9-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                           16.4-1.module+el9.4.0+22207+8466e31f                            rhel-9-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                           16.4-2.module+el9.5.0+22226+e8900db7                            rhel-9-for-x86_64-appstream-rpms"
     ]
 }

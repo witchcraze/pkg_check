@@ -2,7 +2,8 @@
     "debian": {
         "10": {
             "apache2": [
-                "apt-get changelog"
+                "apt-get changelog",
+                "changelog.Debian.gz"
             ],
             "bind9": [
                 "apt-get changelog"
