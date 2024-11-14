@@ -17,6 +17,7 @@
         "golang.x86_64                       1.22.7-1.fc40                        updates"
     ],
     "kojiPackages": [
+        "golang-1.22.9-1.fc40",
         "golang-1.22.7-1.fc40",
         "golang-1.22.6-1.fc40",
         "golang-1.22.5-1.fc40",

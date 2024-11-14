@@ -3,12 +3,12 @@
         "Name": "python3.6",
         "Epoch": "0",
         "Version": "3.6.15",
-        "Release": "37.fc41",
+        "Release": "38.fc41",
         "Architecture": "x86_64",
         "Download size": "18.7 MiB",
         "Installed size": "81.5 MiB",
-        "Source": "python3.6-3.6.15-37.fc41.src.rpm",
-        "Repository": "fedora",
+        "Source": "python3.6-3.6.15-38.fc41.src.rpm",
+        "Repository": "updates",
         "Summary": "Version 3.6 of the Python interpreter",
         "URL": "https://www.python.org/",
         "License": "LicenseRef-Callaway-Python AND LicenseRef-Callaway-MIT AND Apache-2.0 AND LicenseRef-Callaway-BSD AND ISC AND LicenseRef-Callaway-LGPLv2 AND MPL-2.0 AND (Apache-2.0 OR LicenseRef-Callaway-BSD)",
@@ -17,7 +17,9 @@
     },
     "list": [
         "python3.6.i686   3.6.15-37.fc41 fedora",
-        "python3.6.x86_64 3.6.15-37.fc41 fedora"
+        "python3.6.x86_64 3.6.15-37.fc41 fedora",
+        "python3.6.i686   3.6.15-38.fc41 updates",
+        "python3.6.x86_64 3.6.15-38.fc41 updates"
     ],
     "kojiPackages": [
         "python3.6-3.6.15-38.fc41",
