@@ -1,25 +1,26 @@
 {
     "show": {
         "Package": "golang-1.17",
-        "Version": "1.17.13-3ubuntu1.2",
+        "Version": "1.17.13-3ubuntu1.3",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "61.4 kB",
-        "Depends": "golang-1.17-doc (>= 1.17.13-3ubuntu1.2), golang-1.17-go (>= 1.17.13-3ubuntu1.2), golang-1.17-src (>= 1.17.13-3ubuntu1.2)",
+        "Installed-Size": "62.5 kB",
+        "Depends": "golang-1.17-doc (>= 1.17.13-3ubuntu1.3), golang-1.17-go (>= 1.17.13-3ubuntu1.3), golang-1.17-src (>= 1.17.13-3ubuntu1.3)",
         "Homepage": "https://go.dev/",
         "Download-Size": "11.2 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.2 all",
+        "golang-1.17/jammy-updates,jammy-security 1.17.13-3ubuntu1.3 all",
         "golang-1.17/jammy 1.17.3-1ubuntu2 all"
     ],
     "changelog": [
+        "golang-1.17 (1.17.13-3ubuntu1.3) jammy-security; urgency=medium",
         "golang-1.17 (1.17.13-3ubuntu1.2) jammy-security; urgency=medium",
         "golang-1.17 (1.17.13-3ubuntu1) jammy; urgency=medium",
         "golang-1.17 (1.17.13-3) unstable; urgency=medium",
@@ -217,6 +218,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.17.13-3ubuntu1.3",
         "1.17.13-3ubuntu1.2",
         "1.17.13-3ubuntu1",
         "1.17.3-1ubuntu2",

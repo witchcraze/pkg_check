@@ -1,17 +1,18 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.58-1ubuntu8.4",
+        "Version": "2.4.58-1ubuntu8.5",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "10",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "465 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.58-1ubuntu8.4), apache2-data (= 2.4.58-1ubuntu8.4), apache2-utils (= 2.4.58-1ubuntu8.4), media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.58-1ubuntu8.5), apache2-data (= 2.4.58-1ubuntu8.5), apache2-utils (= 2.4.58-1ubuntu8.5), media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
@@ -21,10 +22,12 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/noble-updates,noble-security 2.4.58-1ubuntu8.4 amd64",
+        "apache2/noble-updates 2.4.58-1ubuntu8.5 amd64",
+        "apache2/noble-security 2.4.58-1ubuntu8.4 amd64",
         "apache2/noble 2.4.58-1ubuntu8 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.58-1ubuntu8.5) noble; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.4) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.3) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.2) noble-security; urgency=medium",

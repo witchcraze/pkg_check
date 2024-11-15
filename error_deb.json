@@ -81,6 +81,9 @@
             "php7.4": [
                 "apt-get changelog"
             ],
+            "postgresql-13": [
+                "apt-get changelog"
+            ],
             "redis-server": [
                 "apt-get changelog"
             ],
