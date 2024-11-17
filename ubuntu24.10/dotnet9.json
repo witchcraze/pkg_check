@@ -1,0 +1,36 @@
+{
+    "show": {
+        "Package": "dotnet9",
+        "Version": "9.0.100-9.0.0-0ubuntu1~24.10.1",
+        "Priority": "optional",
+        "Section": "universe/devel",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "211 kB",
+        "Depends": "dotnet-sdk-9.0",
+        "Recommends": "dotnet-sdk-aot-9.0",
+        "Suggests": "dotnet-sdk-dbg-9.0, dotnet-runtime-dbg-9.0, aspnetcore-runtime-dbg-9.0",
+        "Breaks": "dotnet6 (<< 6.0.111~)",
+        "Homepage": "https://dot.net",
+        "Download-Size": "33.5 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
+        "Description": ".NET CLI tools and runtime"
+    },
+    "list": [
+        "dotnet9/oracular-updates,oracular-security 9.0.100-9.0.0-0ubuntu1~24.10.1 amd64",
+        "dotnet9/oracular 9.0.100-9.0.0~rc2-0ubuntu1 amd64"
+    ],
+    "changelog": [
+        "dotnet9 (9.0.100-9.0.0-0ubuntu1~24.10.1) oracular; urgency=medium",
+        "dotnet9 (9.0.100-9.0.0~rc2-0ubuntu1) oracular; urgency=medium",
+        "dotnet9 (9.0.100-9.0.0~rc1-0ubuntu2) oracular; urgency=medium",
+        "dotnet9 (9.0.100-9.0.0~rc1-0ubuntu1) oracular; urgency=medium"
+    ],
+    "publishinghistory": [
+        "9.0.100-9.0.0-0ubuntu1~24.10.1",
+        "9.0.100-9.0.0~rc2-0ubuntu1",
+        "9.0.100-9.0.0~rc1-0ubuntu2",
+        "9.0.100-9.0.0~rc1-0ubuntu1"
+    ]
+}

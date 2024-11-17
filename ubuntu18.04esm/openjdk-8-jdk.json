@@ -1,27 +1,30 @@
 {
     "show": {
         "Package": "openjdk-8-jdk",
-        "Version": "8u422-b05-1~18.04",
+        "Version": "8u432-ga~us1-0ubuntu2~18.04",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-8",
-        "Maintainer": "Java Maintenance <pkg-java-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "4337 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Java Maintenance <pkg-java-maintainers@lists.alioth.debian.org>",
+        "Installed-Size": "4351 kB",
         "Provides": "java-compiler, java-sdk (= 8), java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk",
-        "Depends": "openjdk-8-jre (= 8u422-b05-1~18.04), openjdk-8-jdk-headless (= 8u422-b05-1~18.04), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-8-jre (= 8u432-ga~us1-0ubuntu2~18.04), openjdk-8-jdk-headless (= 8u432-ga~us1-0ubuntu2~18.04), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-8-demo, openjdk-8-source, visualvm",
-        "Download-Size": "4066 kB",
+        "Download-Size": "4007 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-8-jdk/bionic-apps-security 8u422-b05-1~18.04 amd64",
+        "openjdk-8-jdk/bionic-apps-security 8u432-ga~us1-0ubuntu2~18.04 amd64",
         "openjdk-8-jdk/bionic-updates,bionic-security 8u372-ga~us1-0ubuntu1~18.04 amd64",
         "openjdk-8-jdk/bionic 8u162-b12-1 amd64"
     ],
     "changelog": [
-        "openjdk-8 (8u422-b05-1~18.04) bionic-security; urgency=medium",
+        "openjdk-8 (8u432-ga~us1-0ubuntu2~18.04) bionic-security; urgency=medium",
+        "openjdk-8 (8u432-ga~us1-0ubuntu1) plucky; urgency=medium",
+        "openjdk-8 (8u422-b05-1ubuntu1) oracular; urgency=medium",
         "openjdk-8 (8u422-b05-1) unstable; urgency=medium",
         "openjdk-8 (8u412-ga-1) unstable; urgency=medium",
         "openjdk-8 (8u402-ga-8) unstable; urgency=low",

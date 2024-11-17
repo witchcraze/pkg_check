@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "4.15",
-        "Release": "10.module+el8.10.0+1881+7e31fb44.1",
+        "Release": "10.module+el8.10.0+1885+e30b7122.3",
         "Architecture": "x86_64",
-        "Size": "3.5 M",
-        "Source": "squid-4.15-10.module+el8.10.0+1881+7e31fb44.1.src.rpm",
+        "Size": "3.4 M",
+        "Source": "squid-4.15-10.module+el8.10.0+1885+e30b7122.3.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -15,7 +15,8 @@
     },
     "list": [
         "squid.x86_64         7:4.15-10.module+el8.10.0+1758+80ba9f4b           appstream",
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1881+7e31fb44.1         appstream"
+        "squid.x86_64         7:4.15-10.module+el8.10.0+1881+7e31fb44.1         appstream",
+        "squid.x86_64         7:4.15-10.module+el8.10.0+1885+e30b7122.3         appstream"
     ],
     "kojiPackages": [
         "squid-4.15-10.module+el8.10.0+1885+e30b7122.3",

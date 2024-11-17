@@ -1,21 +1,22 @@
 {
     "show": {
         "Package": "golang-1.18",
-        "Version": "1.18.1-1ubuntu1~16.04.6",
+        "Version": "1.18.1-1ubuntu1~16.04.6+esm1",
         "Priority": "optional",
         "Section": "golang",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
-        "Installed-Size": "61.4 kB",
-        "Depends": "golang-1.18-doc (>= 1.18.1-1ubuntu1~16.04.6), golang-1.18-go (>= 1.18.1-1ubuntu1~16.04.6), golang-1.18-src (>= 1.18.1-1ubuntu1~16.04.6)",
+        "Installed-Size": "62.5 kB",
+        "Depends": "golang-1.18-doc (>= 1.18.1-1ubuntu1~16.04.6+esm1), golang-1.18-go (>= 1.18.1-1ubuntu1~16.04.6+esm1), golang-1.18-src (>= 1.18.1-1ubuntu1~16.04.6+esm1)",
         "Download-Size": "11.0 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.18/xenial-apps-security 1.18.1-1ubuntu1~16.04.6 all"
+        "golang-1.18/xenial-apps-security 1.18.1-1ubuntu1~16.04.6+esm1 all"
     ],
     "changelog": [
+        "golang-1.18 (1.18.1-1ubuntu1~16.04.6+esm1) xenial-security; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1~16.04.6) xenial; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1~16.04.5) xenial; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1~16.04.4) xenial; urgency=medium",
@@ -24,8 +25,7 @@
         "golang-1.18 (1.18.1-1ubuntu1~18.04.2) bionic; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1~18.04.1) bionic; urgency=medium",
         "golang-1.18 (1.18.1-1ubuntu1) jammy; urgency=medium",
-        "golang-1.18 (1.18.1-1) unstable; urgency=medium",
-        "golang-1.18 (1.18-1) unstable; urgency=medium"
+        "golang-1.18 (1.18.1-1) unstable; urgency=medium"
     ],
     "publishinghistory": []
 }
