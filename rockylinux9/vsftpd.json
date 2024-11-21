@@ -2,10 +2,10 @@
     "info": {
         "Name": "vsftpd",
         "Version": "3.0.5",
-        "Release": "5.el9",
+        "Release": "6.el9",
         "Architecture": "x86_64",
         "Size": "157 k",
-        "Source": "vsftpd-3.0.5-5.el9.src.rpm",
+        "Source": "vsftpd-3.0.5-6.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
@@ -13,9 +13,10 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                       3.0.5-5.el9                        appstream"
+        "vsftpd.x86_64                       3.0.5-6.el9                        appstream"
     ],
     "kojiPackages": [
+        "vsftpd-3.0.5-6.el9",
         "vsftpd-3.0.5-5.el9",
         "vsftpd-3.0.5-4.el9",
         "vsftpd-3.0.3-49.el9"

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.100~rc.2.24474.1",
-        "Release": "0.13.fc40",
+        "Version": "9.0.100",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "81 M",
-        "Source": "dotnet9.0-9.0.100~rc.2.24474.1-0.13.fc40.src.rpm",
+        "Source": "dotnet9.0-9.0.100-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,7 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-9.0.x86_64           9.0.100~rc.2.24474.1-0.13.fc40           updates"
+        "dotnet-sdk-9.0.x86_64                   9.0.100-1.fc40                   updates"
     ],
     "kojiPackages": [
         "dotnet9.0-9.0.100-1.fc40",

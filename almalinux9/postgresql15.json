@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "15.8",
-        "Release": "1.module_el9.4.0+111+667b9e9e",
+        "Release": "2.module_el9.5.0+119+18833d03",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql-15.8-1.module_el9.4.0+111+667b9e9e.src.rpm",
+        "Source": "postgresql-15.8-2.module_el9.5.0+119+18833d03.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -17,8 +17,9 @@
         "postgresql.x86_64                    15.3-1.module_el9.2.0+32+f3c125b5                     repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "postgresql.x86_64                    15.3-1.module_el9.2.0+32+f3c125b5                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "postgresql.x86_64                    15.5-1.module_el9.3.0+52+21733919                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "postgresql.x86_64                    15.6-1.module_el9.3.0+55+d62f4779                     appstream",
         "postgresql.x86_64                    15.6-1.module_el9.3.0+55+d62f4779                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "postgresql.x86_64                    15.8-1.module_el9.4.0+111+667b9e9e                    appstream"
+        "postgresql.x86_64                    15.6-1.module_el9.3.0+55+d62f4779                     repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                    15.8-1.module_el9.4.0+111+667b9e9e                    repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                    15.8-2.module_el9.5.0+119+18833d03                    appstream"
     ]
 }

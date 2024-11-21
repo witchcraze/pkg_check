@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "17 M",
         "Source": "mysql-8.0.36-1.el9_3.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
         "License": "GPLv2 with exceptions and LGPLv2 and BSD",
@@ -20,6 +20,7 @@
         "mysql-server.x86_64                             8.0.32-1.el9_2                             repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "mysql-server.x86_64                             8.0.32-1.el9_2                             repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "mysql-server.x86_64                             8.0.36-1.el9_3                             appstream",
-        "mysql-server.x86_64                             8.0.36-1.el9_3                             repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "mysql-server.x86_64                             8.0.36-1.el9_3                             repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "mysql-server.x86_64                             8.0.36-1.el9_3                             repo.almalinux.org_vault_9.4_AppStream_x86_64_os_"
     ]
 }

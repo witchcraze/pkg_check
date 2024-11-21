@@ -7,13 +7,14 @@
         "Architecture": "x86_64",
         "Size": "10 M",
         "Source": "mariadb-10.11.6-1.module_el9.4.0+98+2f9e4da4.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
         "License": "GPLv2 and LGPLv2",
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64                                    3:10.11.6-1.module_el9.4.0+98+2f9e4da4                                    appstream"
+        "mariadb-server.x86_64                3:10.11.6-1.module_el9.4.0+98+2f9e4da4                appstream",
+        "mariadb-server.x86_64                3:10.11.6-1.module_el9.4.0+98+2f9e4da4                repo.almalinux.org_vault_9.4_AppStream_x86_64_os_"
     ]
 }

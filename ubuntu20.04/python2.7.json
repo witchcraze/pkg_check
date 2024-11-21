@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python2.7",
-        "Version": "2.7.18-1~20.04.4",
+        "Version": "2.7.18-1~20.04.5",
         "Priority": "optional",
         "Section": "universe/python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "391 kB",
-        "Depends": "python2.7-minimal (= 2.7.18-1~20.04.4), libpython2.7-stdlib (= 2.7.18-1~20.04.4), mime-support",
+        "Depends": "python2.7-minimal (= 2.7.18-1~20.04.5), libpython2.7-stdlib (= 2.7.18-1~20.04.5), mime-support",
         "Suggests": "python2.7-doc, binutils",
         "Conflicts": "python-profiler (<= 2.7.1-2)",
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
@@ -20,11 +20,11 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/focal-updates 2.7.18-1~20.04.4 amd64",
-        "python2.7/focal-security 2.7.18-1~20.04.3 amd64",
+        "python2.7/focal-updates,focal-security 2.7.18-1~20.04.5 amd64",
         "python2.7/focal 2.7.18~rc1-2 amd64"
     ],
     "changelog": [
+        "python2.7 (2.7.18-1~20.04.5) focal-security; urgency=medium",
         "python2.7 (2.7.18-1~20.04.4) focal; urgency=medium",
         "python2.7 (2.7.18-1~20.04.3) focal-security; urgency=medium",
         "python2.7 (2.7.18-1~20.04.1) focal-security; urgency=medium",
@@ -424,6 +424,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.18-1~20.04.5",
         "2.7.18-1~20.04.4",
         "2.7.18-1~20.04.3",
         "2.7.18-1~20.04.1",

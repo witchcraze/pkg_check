@@ -17,6 +17,7 @@
         "dotnet-sdk-6.0.x86_64                   6.0.135-1.fc39                   updates"
     ],
     "kojiPackages": [
+        "dotnet6.0-6.0.136-1.fc39",
         "dotnet6.0-6.0.135-1.fc39",
         "dotnet6.0-6.0.133-1.fc39",
         "dotnet6.0-6.0.132-1.fc39",

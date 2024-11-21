@@ -2,11 +2,11 @@
     "info": {
         "Name": "varnish",
         "Version": "6.6.2",
-        "Release": "4.el9_3.1",
+        "Release": "6.el9",
         "Architecture": "x86_64",
-        "Size": "1.1 M",
-        "Source": "varnish-6.6.2-4.el9_3.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "Size": "1.0 M",
+        "Source": "varnish-6.6.2-6.el9.src.rpm",
+        "Repository": "appstream",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
         "License": "BSD",
@@ -25,9 +25,11 @@
         "varnish.i686                                 6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "varnish.x86_64                               6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "varnish.x86_64                               6.6.2-3.el9_2.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "varnish.i686                                 6.6.2-4.el9_3.1                               appstream",
         "varnish.i686                                 6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "varnish.x86_64                               6.6.2-4.el9_3.1                               appstream",
-        "varnish.x86_64                               6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_"
+        "varnish.i686                                 6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "varnish.x86_64                               6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
+        "varnish.x86_64                               6.6.2-4.el9_3.1                               repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "varnish.i686                                 6.6.2-6.el9                                   appstream",
+        "varnish.x86_64                               6.6.2-6.el9                                   appstream"
     ]
 }

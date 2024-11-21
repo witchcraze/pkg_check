@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "90",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

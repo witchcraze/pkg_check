@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "13 M",
         "Source": "nodejs-18.20.4-1.module_el9.4.0+112+bb28ff81.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "MIT and ASL 2.0 and ISC and BSD",
@@ -25,9 +25,10 @@
         "nodejs.x86_64                   1:18.18.2-2.module_el9.2.0+43+3ebc9e20                     repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:18.18.2-2.module_el9.2.0+43+3ebc9e20                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:18.19.0-1.module_el9.3.0+57+f1c0b81f                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "nodejs.x86_64                   1:18.19.1-1.module_el9.3.0+59+28b95644                     appstream",
         "nodejs.x86_64                   1:18.19.1-1.module_el9.3.0+59+28b95644                     repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "nodejs.x86_64                   1:18.20.2-2.module_el9.4.0+99+a01f7676                     appstream",
-        "nodejs.x86_64                   1:18.20.4-1.module_el9.4.0+112+bb28ff81                    appstream"
+        "nodejs.x86_64                   1:18.19.1-1.module_el9.3.0+59+28b95644                     repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:18.20.2-2.module_el9.4.0+99+a01f7676                     repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:18.20.4-1.module_el9.4.0+112+bb28ff81                    appstream",
+        "nodejs.x86_64                   1:18.20.4-1.module_el9.4.0+112+bb28ff81                    repo.almalinux.org_vault_9.4_AppStream_x86_64_os_"
     ]
 }

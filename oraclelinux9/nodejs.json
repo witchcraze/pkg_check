@@ -2,16 +2,16 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.16.0",
-        "Release": "1.module+el9.4.0+90390+ec2aa9c0",
+        "Version": "22.4.1",
+        "Release": "4.module+el9.5.0+90420+c6d0e71c",
         "Architecture": "src",
-        "Size": "125 M",
+        "Size": "86 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
-        "License": "MIT and ASL 2.0 and ISC and BSD",
-        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
         "nodejs.src         1:16.14.0-4.el9_0                               ol9_appstream",
@@ -56,6 +56,8 @@
         "nodejs.src         1:20.11.1-1.module+el9.3.0+90254+3f4d3ee1       ol9_appstream",
         "nodejs.src         1:20.12.2-2.module+el9.4.0+90322+0b80090c       ol9_appstream",
         "nodejs.src         1:20.14.0-1.module+el9.4.0+90370+db42a689       ol9_appstream",
-        "nodejs.src         1:20.16.0-1.module+el9.4.0+90390+ec2aa9c0       ol9_appstream"
+        "nodejs.src         1:20.16.0-1.module+el9.4.0+90390+ec2aa9c0       ol9_appstream",
+        "nodejs.src         1:20.17.0-1.module+el9.5.0+90443+13059b6a       ol9_appstream",
+        "nodejs.src         1:22.4.1-4.module+el9.5.0+90420+c6d0e71c        ol9_appstream"
     ]
 }

@@ -3,21 +3,21 @@
         "Name": "python3",
         "Version": "3.11.9",
         "Release": "2.fc38",
-        "Architecture": "i686",
+        "Architecture": "x86_64",
         "Size": "28 k",
         "Source": "python3.11-3.11.9-2.fc38.src.rpm",
         "Repository": "updates",
-        "From repo": "updates",
+        "From repo": "koji-override-1",
         "Summary": "Python 3.11 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.11.9-2.fc38                       @updates",
-        "python3.i686                        3.11.2-1.fc38                       fedora",
-        "python3.x86_64                      3.11.2-1.fc38                       fedora",
-        "python3.i686                        3.11.9-2.fc38                       updates",
-        "python3.x86_64                      3.11.9-2.fc38                       updates"
+        "python3.x86_64                  3.11.8-2.fc38                   @koji-override-1",
+        "python3.i686                    3.11.2-1.fc38                   fedora",
+        "python3.x86_64                  3.11.2-1.fc38                   fedora",
+        "python3.i686                    3.11.9-2.fc38                   updates",
+        "python3.x86_64                  3.11.9-2.fc38                   updates"
     ]
 }

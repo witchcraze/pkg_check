@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "1.module_el9.4.0+106+015ce7f8.1.alma.1",
+        "Release": "4.module_el9.5.0+122+220a1c6b.alma.1",
         "Architecture": "x86_64",
-        "Size": "31 k",
-        "Source": "nginx-1.24.0-1.module_el9.4.0+106+015ce7f8.1.alma.1.src.rpm",
+        "Size": "32 k",
+        "Source": "nginx-1.24.0-4.module_el9.5.0+122+220a1c6b.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,7 +14,8 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                                    1:1.24.0-1.module_el9.4.0+64+540c7647.alma.1                                       appstream",
-        "nginx.x86_64                                    1:1.24.0-1.module_el9.4.0+106+015ce7f8.1.alma.1                                    appstream"
+        "nginx.x86_64                1:1.24.0-1.module_el9.4.0+64+540c7647.alma.1                   repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.24.0-1.module_el9.4.0+106+015ce7f8.1.alma.1                repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.24.0-4.module_el9.5.0+122+220a1c6b.alma.1                  appstream"
     ]
 }

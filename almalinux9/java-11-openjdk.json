@@ -3,10 +3,10 @@
         "Name": "java-11-openjdk",
         "Epoch": "1",
         "Version": "11.0.25.0.9",
-        "Release": "2.el9",
+        "Release": "3.el9",
         "Architecture": "x86_64",
-        "Size": "432 k",
-        "Source": "java-11-openjdk-11.0.25.0.9-2.el9.src.rpm",
+        "Size": "431 k",
+        "Source": "java-11-openjdk-11.0.25.0.9-3.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -30,9 +30,10 @@
         "java-11-openjdk.x86_64                      1:11.0.21.0.9-2.el9                            repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                      1:11.0.21.0.9-2.el9                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                      1:11.0.22.0.7-2.el9                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "java-11-openjdk.x86_64                      1:11.0.23.0.9-3.el9                            appstream",
         "java-11-openjdk.x86_64                      1:11.0.23.0.9-3.el9                            repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "java-11-openjdk.x86_64                      1:11.0.24.0.8-2.el9                            appstream",
-        "java-11-openjdk.x86_64                      1:11.0.25.0.9-2.el9                            appstream"
+        "java-11-openjdk.x86_64                      1:11.0.23.0.9-3.el9                            repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "java-11-openjdk.x86_64                      1:11.0.24.0.8-2.el9                            repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "java-11-openjdk.x86_64                      1:11.0.25.0.9-2.el9                            repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "java-11-openjdk.x86_64                      1:11.0.25.0.9-3.el9                            appstream"
     ]
 }
