@@ -2,13 +2,13 @@
     "info": {
         "Name": "ruby",
         "Epoch": "0",
-        "Version": "3.3.5",
-        "Release": "14.fc41",
+        "Version": "3.3.6",
+        "Release": "16.fc41",
         "Architecture": "x86_64",
         "Download size": "39.4 KiB",
         "Installed size": "89.5 KiB",
-        "Source": "ruby-3.3.5-14.fc41.src.rpm",
-        "Repository": "fedora",
+        "Source": "ruby-3.3.6-16.fc41.src.rpm",
+        "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
         "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
@@ -17,9 +17,12 @@
     },
     "list": [
         "ruby.i686   3.3.5-14.fc41 fedora",
-        "ruby.x86_64 3.3.5-14.fc41 fedora"
+        "ruby.x86_64 3.3.5-14.fc41 fedora",
+        "ruby.i686   3.3.6-16.fc41 updates",
+        "ruby.x86_64 3.3.6-16.fc41 updates"
     ],
     "kojiPackages": [
+        "ruby-3.3.6-17.fc41",
         "ruby-3.3.6-16.fc41",
         "ruby-3.3.5-14.fc41",
         "ruby-3.3.4-13.fc41",

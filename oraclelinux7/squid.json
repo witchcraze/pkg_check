@@ -4,8 +4,8 @@
         "Arch": "x86_64",
         "Epoch": "7",
         "Version": "3.5.20",
-        "Release": "17.0.1.el7_9.10",
-        "Size": "3.1 M",
+        "Release": "17.0.3.el7_9.10",
+        "Size": "3.0 M",
         "Repo": "ol7_latest/x86_64",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -34,6 +34,7 @@
         "squid.x86_64                7:3.5.20-17.0.1.el7_9.7                  ol7_latest",
         "squid.x86_64                7:3.5.20-17.0.1.el7_9.8                  ol7_latest",
         "squid.x86_64                7:3.5.20-17.0.1.el7_9.9                  ol7_latest",
-        "squid.x86_64                7:3.5.20-17.0.1.el7_9.10                 ol7_latest"
+        "squid.x86_64                7:3.5.20-17.0.1.el7_9.10                 ol7_latest",
+        "squid.x86_64                7:3.5.20-17.0.3.el7_9.10                 ol7_latest"
     ]
 }

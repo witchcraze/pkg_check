@@ -18,6 +18,7 @@
         "postgresql.x86_64           16.4-2.module_el9+1109+d821d6e7            appstream"
     ],
     "kojiPackages": [
+        "postgresql-16.6-1.module_el9+1137+39dc736e",
         "postgresql-16.4-2.module_el9+1109+d821d6e7",
         "postgresql-16.4-2.module_el9+1105+30b2ff06",
         "postgresql-16.1-1.module_el9+1037+40bad64f",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python2.7",
-        "Version": "2.7.18-13ubuntu1.3",
+        "Version": "2.7.18-13ubuntu1.4",
         "Priority": "optional",
         "Section": "universe/python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "392 kB",
-        "Depends": "python2.7-minimal (= 2.7.18-13ubuntu1.3), libpython2.7-stdlib (= 2.7.18-13ubuntu1.3), media-types | mime-support",
+        "Depends": "python2.7-minimal (= 2.7.18-13ubuntu1.4), libpython2.7-stdlib (= 2.7.18-13ubuntu1.4), media-types | mime-support",
         "Suggests": "python2.7-doc, binutils",
         "Conflicts": "python-profiler (<= 2.7.1-2)",
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
@@ -19,10 +19,11 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.3 amd64",
+        "python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.4 amd64",
         "python2.7/jammy 2.7.18-13ubuntu1 amd64"
     ],
     "changelog": [
+        "python2.7 (2.7.18-13ubuntu1.4) jammy-security; urgency=medium",
         "python2.7 (2.7.18-13ubuntu1.3) jammy-security; urgency=medium",
         "python2.7 (2.7.18-13ubuntu1.2) jammy; urgency=medium",
         "python2.7 (2.7.18-13ubuntu1.1) jammy-security; urgency=medium",
@@ -432,6 +433,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.18-13ubuntu1.4",
         "2.7.18-13ubuntu1.3",
         "2.7.18-13ubuntu1.2",
         "2.7.18-13ubuntu1.1",

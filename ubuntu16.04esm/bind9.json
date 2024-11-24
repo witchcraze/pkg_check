@@ -12,12 +12,11 @@
         "Conflicts": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind",
         "Replaces": "apparmor-profiles (<< 2.1+1075-0ubuntu4), bind, bind9utils (<< 1:9.9.3.dfsg.P2-3), dnsutils (<< 1:9.1.0-3)",
         "Download-Size": "373 kB",
-        "APT-Manual-Installed": "yes",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/xenial-infra-security,now 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9 amd64 [installed]",
+        "bind9/xenial-infra-security 1:9.10.3.dfsg.P4-8ubuntu1.19+esm9 amd64",
         "bind9/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.19 amd64",
         "bind9/xenial 1:9.10.3.dfsg.P4-8 amd64"
     ],

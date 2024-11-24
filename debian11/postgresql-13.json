@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-13",
-        "Version": "13.17-0+deb11u1",
+        "Version": "13.18-0+deb11u1",
         "Priority": "optional",
         "Section": "database",
         "Maintainer": "Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>",
@@ -16,10 +16,11 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-13/oldstable-security 13.17-0+deb11u1 amd64",
+        "postgresql-13/oldstable-security 13.18-0+deb11u1 amd64",
         "postgresql-13/oldstable 13.16-0+deb11u1 amd64"
     ],
     "changelog": [
+        "postgresql-13 (13.18-0+deb11u1) bullseye-security; urgency=medium",
         "postgresql-13 (13.17-0+deb11u1) bullseye-security; urgency=medium",
         "postgresql-13 (13.16-0+deb11u1) bullseye-security; urgency=medium",
         "postgresql-13 (13.15-0+deb11u1) bullseye; urgency=medium",

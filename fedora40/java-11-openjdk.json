@@ -3,10 +3,10 @@
         "Name": "java-11-openjdk",
         "Epoch": "1",
         "Version": "11.0.25.0.9",
-        "Release": "1.fc40",
+        "Release": "3.fc40",
         "Architecture": "x86_64",
-        "Size": "405 k",
-        "Source": "java-11-openjdk-11.0.25.0.9-1.fc40.src.rpm",
+        "Size": "406 k",
+        "Source": "java-11-openjdk-11.0.25.0.9-3.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "java-11-openjdk.x86_64              1:11.0.22.0.7-2.fc40.1               fedora",
-        "java-11-openjdk.x86_64              1:11.0.25.0.9-1.fc40                 updates"
+        "java-11-openjdk.x86_64              1:11.0.25.0.9-3.fc40                 updates"
     ],
     "kojiPackages": [
         "java-11-openjdk-11.0.25.0.9-3.fc40",

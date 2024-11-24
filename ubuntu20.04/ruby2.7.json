@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.0-5ubuntu1.14",
+        "Version": "2.7.0-5ubuntu1.15",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
@@ -13,15 +13,16 @@
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
         "Task": "ubuntu-budgie-desktop",
-        "Download-Size": "95.6 kB",
+        "Download-Size": "109 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.14 amd64",
+        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.15 amd64",
         "ruby2.7/focal 2.7.0-5ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.0-5ubuntu1.15) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.14) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.13) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.12) focal-security; urgency=medium",
@@ -111,6 +112,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.0-5ubuntu1.15",
         "2.7.0-5ubuntu1.14",
         "2.7.0-5ubuntu1.13",
         "2.7.0-5ubuntu1.12",

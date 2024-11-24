@@ -63,6 +63,150 @@
             ]
         }
     },
+    "rhel": {
+        "8": {
+            "nginx1.14": [
+                "info",
+                "list"
+            ],
+            "nginx1.16": [
+                "info",
+                "list"
+            ],
+            "nginx1.18": [
+                "info",
+                "list"
+            ],
+            "nginx1.20": [
+                "info",
+                "list"
+            ],
+            "nginx1.22": [
+                "info",
+                "list"
+            ],
+            "nginx1.24": [
+                "info",
+                "list"
+            ],
+            "nodejs10": [
+                "info",
+                "list"
+            ],
+            "nodejs12": [
+                "info",
+                "list"
+            ],
+            "nodejs14": [
+                "info",
+                "list"
+            ],
+            "nodejs16": [
+                "info",
+                "list"
+            ],
+            "nodejs18": [
+                "info",
+                "list"
+            ],
+            "nodejs20": [
+                "info",
+                "list"
+            ],
+            "perl5.24": [
+                "info",
+                "list"
+            ],
+            "perl5.26": [
+                "info",
+                "list"
+            ],
+            "perl5.30": [
+                "info",
+                "list"
+            ],
+            "perl5.32": [
+                "info",
+                "list"
+            ],
+            "php7.2": [
+                "info",
+                "list"
+            ],
+            "php7.3": [
+                "info",
+                "list"
+            ],
+            "php7.4": [
+                "info",
+                "list"
+            ],
+            "php8.0": [
+                "info",
+                "list"
+            ],
+            "php8.2": [
+                "info",
+                "list"
+            ],
+            "ruby2.5": [
+                "info",
+                "list"
+            ],
+            "ruby2.6": [
+                "info",
+                "list"
+            ],
+            "ruby2.7": [
+                "info",
+                "list"
+            ],
+            "ruby3.0": [
+                "info",
+                "list"
+            ],
+            "ruby3.1": [
+                "info",
+                "list"
+            ],
+            "ruby3.3": [
+                "info",
+                "list"
+            ]
+        },
+        "9": {
+            "nginx1.22": [
+                "info"
+            ],
+            "nginx1.24": [
+                "info"
+            ],
+            "nodejs18": [
+                "info"
+            ],
+            "nodejs20": [
+                "info"
+            ],
+            "nodejs22": [
+                "info"
+            ],
+            "php8.1": [
+                "info"
+            ],
+            "php8.2": [
+                "info"
+            ],
+            "redis7": [
+                "info"
+            ],
+            "ruby3.1": [
+                "info"
+            ],
+            "ruby3.3": [
+                "info"
+            ]
+        }
+    },
     "fedora": {
         "38": {
             "python3": [
