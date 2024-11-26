@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.110",
-        "Release": "1.0.1.el8_10",
+        "Version": "8.0.111",
+        "Release": "1.0.1.el8_10.1",
         "Architecture": "x86_64",
         "Size": "89 M",
-        "Source": "dotnet8.0-8.0.110-1.0.1.el8_10.src.rpm",
+        "Source": "dotnet8.0-8.0.111-1.0.1.el8_10.1.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,15 +13,16 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-8.0.x86_64                                           8.0.101-1.0.1.el8_9                                            ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.102-2.0.1.el8_9                                            ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.102-2.0.2.el8_9                                            ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.103-1.0.1.el8_9                                            ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.104-1.0.1.el8_9                                            ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.104-2.0.1.el8_10                                           ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.105-1.0.1.el8_10                                           ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.107-1.0.1.el8_10                                           ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.108-1.0.1.el8_10                                           ol8_appstream",
-        "dotnet-sdk-8.0.x86_64                                           8.0.110-1.0.1.el8_10                                           ol8_appstream"
+        "dotnet-sdk-8.0.x86_64                                          8.0.101-1.0.1.el8_9                                             ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.102-2.0.1.el8_9                                             ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.102-2.0.2.el8_9                                             ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.103-1.0.1.el8_9                                             ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.104-1.0.1.el8_9                                             ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.104-2.0.1.el8_10                                            ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.105-1.0.1.el8_10                                            ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.107-1.0.1.el8_10                                            ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.108-1.0.1.el8_10                                            ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.110-1.0.1.el8_10                                            ol8_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.111-1.0.1.el8_10.1                                          ol8_appstream"
     ]
 }

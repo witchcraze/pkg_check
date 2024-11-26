@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.11.9",
+        "Version": "10.11.10",
         "Release": "1.fc40",
         "Architecture": "x86_64",
-        "Size": "1.7 M",
-        "Source": "mariadb10.11-10.11.9-1.fc40.src.rpm",
+        "Size": "1.6 M",
+        "Source": "mariadb10.11-10.11.10-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,7 +15,7 @@
     },
     "list": [
         "mariadb.x86_64                     3:10.11.6-3.fc40                      fedora",
-        "mariadb.x86_64                     3:10.11.9-1.fc40                      updates"
+        "mariadb.x86_64                     3:10.11.10-1.fc40                     updates"
     ],
     "kojiPackages": [
         "mariadb-10.11.6-1.fc40",

@@ -2,11 +2,11 @@
     "info": {
         "Name": "openssl",
         "Epoch": "10",
-        "Version": "3.0.7",
-        "Release": "28.0.1.el9_4_fips",
+        "Version": "3.2.2",
+        "Release": "6.0.1.el9_5_fips",
         "Architecture": "x86_64",
-        "Size": "1.3 M",
-        "Source": "openssl-3.0.7-28.0.1.el9_4_fips.src.rpm",
+        "Size": "1.5 M",
+        "Source": "openssl-3.2.2-6.0.1.el9_5_fips.src.rpm",
         "Repository": "ol9_u3_security_validation",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
@@ -76,6 +76,8 @@
         "openssl.src          10:3.0.7-27.0.3.el9_fips         ol9_u3_security_validation",
         "openssl.x86_64       10:3.0.7-27.0.3.el9_fips         ol9_u3_security_validation",
         "openssl.src          10:3.0.7-28.0.1.el9_4_fips       ol9_u3_security_validation",
-        "openssl.x86_64       10:3.0.7-28.0.1.el9_4_fips       ol9_u3_security_validation"
+        "openssl.x86_64       10:3.0.7-28.0.1.el9_4_fips       ol9_u3_security_validation",
+        "openssl.src          10:3.2.2-6.0.1.el9_5_fips        ol9_u3_security_validation",
+        "openssl.x86_64       10:3.2.2-6.0.1.el9_5_fips        ol9_u3_security_validation"
     ]
 }
