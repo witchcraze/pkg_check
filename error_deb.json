@@ -31,6 +31,11 @@
             "ruby2.7": [
                 "apt-get changelog"
             ]
+        },
+        "12": {
+            "php8.2": [
+                "apt-get changelog"
+            ]
         }
     }
 }
