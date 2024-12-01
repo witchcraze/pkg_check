@@ -25,15 +25,16 @@
             "postgresql-13": [
                 "apt-get changelog"
             ],
+            "proftpd-basic": [
+                "apt-get changelog"
+            ],
+            "python3.9": [
+                "apt-get changelog"
+            ],
             "redis-server": [
                 "apt-get changelog"
             ],
             "ruby2.7": [
-                "apt-get changelog"
-            ]
-        },
-        "12": {
-            "php8.2": [
                 "apt-get changelog"
             ]
         }

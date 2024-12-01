@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:6.0.16-1+deb11u3",
+        "Version": "5:6.0.16-1+deb11u4",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "197 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:6.0.16-1+deb11u3)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:6.0.16-1+deb11u4)",
         "Homepage": "https://redis.io/",
-        "Download-Size": "98.8 kB",
+        "Download-Size": "98.9 kB",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/oldstable-security 5:6.0.16-1+deb11u3 amd64",
+        "redis-server/oldstable-security 5:6.0.16-1+deb11u4 amd64",
         "redis-server/oldstable 5:6.0.16-1+deb11u2 amd64"
     ],
     "changelog": [
+        "redis (5:6.0.16-1+deb11u4) bullseye-security; urgency=medium",
         "redis (5:6.0.16-1+deb11u3) bullseye-security; urgency=high",
         "redis (5:6.0.16-1+deb11u2) bullseye-security; urgency=high",
         "redis (5:6.0.16-1+deb11u1) bullseye-security; urgency=high",

@@ -3,9 +3,9 @@
         "Name": "java-1.8.0-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.8.0.412.b08",
+        "Version": "1.8.0.432.b06",
         "Release": "1.0.1.el7_9",
-        "Size": "325 k",
+        "Size": "326 k",
         "Repo": "ol7_latest/x86_64",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -104,6 +104,8 @@
         "java-1.8.0-openjdk.i686          1:1.8.0.412.b08-1.el7_9             ol7_latest",
         "java-1.8.0-openjdk.x86_64        1:1.8.0.412.b08-1.el7_9             ol7_latest",
         "java-1.8.0-openjdk.i686          1:1.8.0.412.b08-1.0.1.el7_9         ol7_latest",
-        "java-1.8.0-openjdk.x86_64        1:1.8.0.412.b08-1.0.1.el7_9         ol7_latest"
+        "java-1.8.0-openjdk.x86_64        1:1.8.0.412.b08-1.0.1.el7_9         ol7_latest",
+        "java-1.8.0-openjdk.i686          1:1.8.0.432.b06-1.0.1.el7_9         ol7_latest",
+        "java-1.8.0-openjdk.x86_64        1:1.8.0.432.b06-1.0.1.el7_9         ol7_latest"
     ]
 }
