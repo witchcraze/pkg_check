@@ -3,11 +3,11 @@
         "Name": "ruby",
         "Epoch": "0",
         "Version": "3.3.6",
-        "Release": "16.fc41",
+        "Release": "17.fc41",
         "Architecture": "x86_64",
-        "Download size": "39.4 KiB",
+        "Download size": "39.5 KiB",
         "Installed size": "89.5 KiB",
-        "Source": "ruby-3.3.6-16.fc41.src.rpm",
+        "Source": "ruby-3.3.6-17.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -18,8 +18,8 @@
     "list": [
         "ruby.i686   3.3.5-14.fc41 fedora",
         "ruby.x86_64 3.3.5-14.fc41 fedora",
-        "ruby.i686   3.3.6-16.fc41 updates",
-        "ruby.x86_64 3.3.6-16.fc41 updates"
+        "ruby.i686   3.3.6-17.fc41 updates",
+        "ruby.x86_64 3.3.6-17.fc41 updates"
     ],
     "kojiPackages": [
         "ruby-3.3.6-17.fc41",

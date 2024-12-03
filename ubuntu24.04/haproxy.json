@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "2.8.5-1ubuntu3.1",
+        "Version": "2.8.5-1ubuntu3.2",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -13,15 +13,16 @@
         "Depends": "libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), liblua5.4-0 (>= 5.4.6), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), libsystemd0, adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
-        "Download-Size": "2038 kB",
+        "Download-Size": "2037 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
-        "haproxy/noble-updates 2.8.5-1ubuntu3.1 amd64",
+        "haproxy/noble-updates,noble-security 2.8.5-1ubuntu3.2 amd64",
         "haproxy/noble 2.8.5-1ubuntu3 amd64"
     ],
     "changelog": [
+        "haproxy (2.8.5-1ubuntu3.2) noble-security; urgency=medium",
         "haproxy (2.8.5-1ubuntu3.1) noble; urgency=medium",
         "haproxy (2.8.5-1ubuntu3) noble; urgency=medium",
         "haproxy (2.8.5-1ubuntu2) noble; urgency=medium",
@@ -287,6 +288,7 @@
         "haproxy (1.3.12.dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.8.5-1ubuntu3.2",
         "2.8.5-1ubuntu3.1",
         "2.8.5-1ubuntu3",
         "2.8.5-1ubuntu2",
