@@ -20,6 +20,7 @@
         "nodejs.x86_64                      1:20.17.0-1.fc40                      updates"
     ],
     "kojiPackages": [
+        "nodejs20-20.18.1-1.fc40",
         "nodejs20-20.18.0-2.fc40",
         "nodejs20-20.18.0-1.fc40",
         "nodejs20-20.17.0-1.fc40",

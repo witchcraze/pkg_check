@@ -17,9 +17,11 @@
                 "apt-get changelog"
             ],
             "perl": [
-                "apt-get changelog"
+                "apt-get changelog",
+                "changelog.Debian.gz"
             ],
             "php7.4": [
+                "show",
                 "apt-get changelog"
             ],
             "postgresql-13": [
@@ -35,11 +37,6 @@
                 "apt-get changelog"
             ],
             "ruby2.7": [
-                "apt-get changelog"
-            ]
-        },
-        "12": {
-            "php8.2": [
                 "apt-get changelog"
             ]
         }

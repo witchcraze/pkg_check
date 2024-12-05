@@ -18,6 +18,7 @@
         "nodejs22.x86_64                     1:22.11.0-1.fc40                     updates"
     ],
     "kojiPackages": [
+        "nodejs22-22.11.0-3.fc40",
         "nodejs22-22.11.0-1.fc40",
         "nodejs22-22.8.0-1.fc40",
         "nodejs22-22.6.0-3.fc40",
