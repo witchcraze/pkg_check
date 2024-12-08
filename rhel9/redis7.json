@@ -1,19 +1,20 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.0.12",
-        "Release": "2.module+el9.3.0+21263+4e58afe8",
+        "Version": "7.2.6",
+        "Release": "1.module+el9.5.0+22422+63e067d8",
         "Architecture": "x86_64",
-        "Size": "1.5 M",
-        "Source": "redis-7.0.12-2.module+el9.3.0+21263+4e58afe8.src.rpm",
+        "Size": "1.6 M",
+        "Source": "redis-7.2.6-1.module+el9.5.0+22422+63e067d8.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
-        "License": "BSD-3-Clause AND BSD-2-Clause AND MIT",
+        "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
         "redis.x86_64                             7.0.12-1.module+el9.3.0+19307+b7a69809                             rhel-9-for-x86_64-appstream-rpms",
-        "redis.x86_64                             7.0.12-2.module+el9.3.0+21263+4e58afe8                             rhel-9-for-x86_64-appstream-rpms"
+        "redis.x86_64                             7.0.12-2.module+el9.3.0+21263+4e58afe8                             rhel-9-for-x86_64-appstream-rpms",
+        "redis.x86_64                             7.2.6-1.module+el9.5.0+22422+63e067d8                              rhel-9-for-x86_64-appstream-rpms"
     ]
 }

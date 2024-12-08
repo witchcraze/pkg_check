@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "2.5.9",
-        "Release": "112.module+el8.10.0+1839+f1f156ae",
+        "Release": "113.module+el8.10.0+1901+b9cac91a",
         "Architecture": "x86_64",
         "Size": "87 k",
-        "Source": "ruby-2.5.9-112.module+el8.10.0+1839+f1f156ae.src.rpm",
+        "Source": "ruby-2.5.9-113.module+el8.10.0+1901+b9cac91a.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "http://ruby-lang.org/",
@@ -16,6 +16,8 @@
         "ruby.i686            2.5.9-111.module+el8.9.0+1536+5f79634e            appstream",
         "ruby.x86_64          2.5.9-111.module+el8.9.0+1536+5f79634e            appstream",
         "ruby.i686            2.5.9-112.module+el8.10.0+1839+f1f156ae           appstream",
-        "ruby.x86_64          2.5.9-112.module+el8.10.0+1839+f1f156ae           appstream"
+        "ruby.x86_64          2.5.9-112.module+el8.10.0+1839+f1f156ae           appstream",
+        "ruby.i686            2.5.9-113.module+el8.10.0+1901+b9cac91a           appstream",
+        "ruby.x86_64          2.5.9-113.module+el8.10.0+1901+b9cac91a           appstream"
     ]
 }

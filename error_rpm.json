@@ -60,6 +60,10 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ],
+            "ruby3.3": [
+                "info",
+                "list"
             ]
         }
     },

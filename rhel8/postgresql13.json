@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "13.16",
-        "Release": "1.module+el8.10.0+22213+5adc94fe",
+        "Version": "13.18",
+        "Release": "1.module+el8.10.0+22549+cf2ec3d9",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-13.16-1.module+el8.10.0+22213+5adc94fe.src.rpm",
+        "Source": "postgresql-13.18-1.module+el8.10.0+22549+cf2ec3d9.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -24,6 +24,7 @@
         "postgresql.x86_64                          13.11-2.module+el8.9.0+19185+b1e56954                            rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          13.13-1.module+el8.9.0+20664+9c30cf7f                            rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          13.14-1.module+el8.9.0+21288+3d364c44                            rhel-8-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                          13.16-1.module+el8.10.0+22213+5adc94fe                           rhel-8-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                          13.16-1.module+el8.10.0+22213+5adc94fe                           rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                          13.18-1.module+el8.10.0+22549+cf2ec3d9                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

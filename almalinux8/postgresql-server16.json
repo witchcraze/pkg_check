@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.4",
-        "Release": "1.module_el8.10.0+3884+a79fbae6",
+        "Version": "16.6",
+        "Release": "1.module_el8.10.0+3930+ecf33554",
         "Architecture": "x86_64",
-        "Size": "6.8 M",
-        "Source": "postgresql-16.4-1.module_el8.10.0+3884+a79fbae6.src.rpm",
+        "Size": "6.9 M",
+        "Source": "postgresql-16.6-1.module_el8.10.0+3930+ecf33554.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "postgresql-server.x86_64                                   16.1-1.module_el8.10.0+3798+606ebb9f                                    appstream",
-        "postgresql-server.x86_64                                   16.4-1.module_el8.10.0+3884+a79fbae6                                    appstream"
+        "postgresql-server.x86_64                                   16.4-1.module_el8.10.0+3884+a79fbae6                                    appstream",
+        "postgresql-server.x86_64                                   16.6-1.module_el8.10.0+3930+ecf33554                                    appstream"
     ]
 }

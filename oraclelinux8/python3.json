@@ -2,7 +2,7 @@
     "info": {
         "Name": "python3",
         "Version": "3.6.8",
-        "Release": "67.0.1.el8_10",
+        "Release": "69.0.1.el8_10",
         "Architecture": "src",
         "Size": "18 M",
         "Source": "None",
@@ -73,6 +73,8 @@
         "python3.src                                             3.6.8-62.0.1.el8_10                                              ol8_baseos_latest",
         "python3.src                                             3.6.8-62.0.1.el8_10                                              ol8_appstream",
         "python3.src                                             3.6.8-67.0.1.el8_10                                              ol8_baseos_latest",
-        "python3.src                                             3.6.8-67.0.1.el8_10                                              ol8_appstream"
+        "python3.src                                             3.6.8-67.0.1.el8_10                                              ol8_appstream",
+        "python3.src                                             3.6.8-69.0.1.el8_10                                              ol8_baseos_latest",
+        "python3.src                                             3.6.8-69.0.1.el8_10                                              ol8_appstream"
     ]
 }

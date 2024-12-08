@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "3.0.7",
-        "Release": "162.el9_4",
+        "Release": "163.el9_5",
         "Architecture": "x86_64",
         "Size": "38 k",
-        "Source": "ruby-3.0.7-162.el9_4.src.rpm",
+        "Source": "ruby-3.0.7-163.el9_5.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,8 +13,8 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                        3.0.7-162.el9_4                       appstream",
-        "ruby.x86_64                      3.0.7-162.el9_4                       appstream"
+        "ruby.i686                        3.0.7-163.el9_5                       appstream",
+        "ruby.x86_64                      3.0.7-163.el9_5                       appstream"
     ],
     "kojiPackages": [
         "ruby-3.0.7-162.el9_4",

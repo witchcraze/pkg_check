@@ -2,10 +2,10 @@
     "info": {
         "Name": "platform-python",
         "Version": "3.6.8",
-        "Release": "67.el8_10.rocky.0",
+        "Release": "69.el8_10.rocky.0",
         "Architecture": "i686",
         "Size": "87 k",
-        "Source": "python3-3.6.8-67.el8_10.rocky.0.src.rpm",
+        "Source": "python3-3.6.8-69.el8_10.rocky.0.src.rpm",
         "Repository": "appstream",
         "From repo": "baseos",
         "Summary": "Internal interpreter of the Python programming language",
@@ -14,11 +14,13 @@
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64             3.6.8-67.el8_10.rocky.0             @baseos",
+        "platform-python.x86_64             3.6.8-69.el8_10.rocky.0             @baseos",
         "platform-python.i686               3.6.8-62.el8_10.rocky.0             appstream",
         "platform-python.x86_64             3.6.8-62.el8_10.rocky.0             baseos",
         "platform-python.i686               3.6.8-67.el8_10.rocky.0             appstream",
-        "platform-python.x86_64             3.6.8-67.el8_10.rocky.0             baseos"
+        "platform-python.x86_64             3.6.8-67.el8_10.rocky.0             baseos",
+        "platform-python.i686               3.6.8-69.el8_10.rocky.0             appstream",
+        "platform-python.x86_64             3.6.8-69.el8_10.rocky.0             baseos"
     ],
     "kojiPackages": [
         "python3-3.6.8-69.el8_10.rocky.0",
