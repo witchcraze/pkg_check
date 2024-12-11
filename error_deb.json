@@ -37,6 +37,11 @@
             "ruby2.7": [
                 "apt-get changelog"
             ]
+        },
+        "12": {
+            "proftpd-basic": [
+                "apt-get changelog"
+            ]
         }
     }
 }
