@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.11",
-        "Version": "3.11.10",
+        "Version": "3.11.11",
         "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.11-3.11.10-1.fc40.src.rpm",
+        "Source": "python3.11-3.11.11-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.11.i686                       3.11.8-2.fc40                      fedora",
         "python3.11.x86_64                     3.11.8-2.fc40                      fedora",
-        "python3.11.i686                       3.11.10-1.fc40                     updates",
-        "python3.11.x86_64                     3.11.10-1.fc40                     updates"
+        "python3.11.i686                       3.11.11-1.fc40                     updates",
+        "python3.11.x86_64                     3.11.11-1.fc40                     updates"
     ],
     "kojiPackages": [
         "python3.11-3.11.11-1.fc40",

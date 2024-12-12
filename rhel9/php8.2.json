@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.13",
-        "Release": "1.module+el9.4.0+20748+b46899d2",
+        "Version": "8.2.25",
+        "Release": "1.module+el9.5.0+22477+5fdac06d",
         "Architecture": "x86_64",
-        "Size": "9.2 k",
-        "Source": "php-8.2.13-1.module+el9.4.0+20748+b46899d2.src.rpm",
+        "Size": "8.7 k",
+        "Source": "php-8.2.25-1.module+el9.5.0+22477+5fdac06d.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,6 +13,7 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64                              8.2.13-1.module+el9.4.0+20748+b46899d2                              rhel-9-for-x86_64-appstream-rpms"
+        "php.x86_64                              8.2.13-1.module+el9.4.0+20748+b46899d2                              rhel-9-for-x86_64-appstream-rpms",
+        "php.x86_64                              8.2.25-1.module+el9.5.0+22477+5fdac06d                              rhel-9-for-x86_64-appstream-rpms"
     ]
 }

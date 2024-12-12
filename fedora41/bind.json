@@ -19,6 +19,7 @@
         "bind.x86_64 32:9.18.30-1.fc41 fedora"
     ],
     "kojiPackages": [
+        "bind-9.18.31-2.fc41",
         "bind-9.18.30-1.fc41",
         "bind-9.18.28-2.fc41",
         "bind-9.18.28-1.fc41",

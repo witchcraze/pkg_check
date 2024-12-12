@@ -26,6 +26,11 @@
                 "apt-get changelog"
             ],
             "proftpd-basic": [
+                "apt-get changelog",
+                "changelog.Debian.gz"
+            ],
+            "python2.7": [
+                "show",
                 "apt-get changelog"
             ],
             "python3.9": [
