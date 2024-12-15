@@ -10,6 +10,32 @@
             "postgresql-server": [
                 "kojiPackages"
             ]
+        },
+        "10": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-8.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-9.0": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ]
         }
     },
     "rockylinux": {

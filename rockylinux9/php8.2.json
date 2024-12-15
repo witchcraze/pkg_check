@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.13",
-        "Release": "1.module+el9.4.0+20013+b017aa8e",
+        "Version": "8.2.25",
+        "Release": "1.module+el9.5.0+29598+58484504",
         "Architecture": "x86_64",
-        "Size": "8.2 k",
-        "Source": "php-8.2.13-1.module+el9.4.0+20013+b017aa8e.src.rpm",
+        "Size": "7.7 k",
+        "Source": "php-8.2.25-1.module+el9.5.0+29598+58484504.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,7 +13,7 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64           8.2.13-1.module+el9.4.0+20013+b017aa8e            appstream"
+        "php.x86_64           8.2.25-1.module+el9.5.0+29598+58484504            appstream"
     ],
     "kojiPackages": [
         "php-8.2.13-1.module+el9.4.0+20013+b017aa8e"

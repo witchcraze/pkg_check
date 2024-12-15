@@ -1,0 +1,46 @@
+{
+    "info": {
+        "Name": "php",
+        "Version": "8.3.12",
+        "Release": "2.el10",
+        "Architecture": "x86_64",
+        "Size": "9.1 k",
+        "Source": "php-8.3.12-2.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php.x86_64                        8.3.10-1.el10                        appstream",
+        "php.x86_64                        8.3.12-1.el10                        appstream",
+        "php.x86_64                        8.3.12-2.el10                        appstream"
+    ],
+    "kojiPackages": [
+        "php-8.3.12-2.el10",
+        "php-8.3.12-1.el10",
+        "php-8.3.10-1.el10",
+        "php-8.3.7-3.el10",
+        "php-8.3.7-2.el10",
+        "php-8.3.7-1.el10",
+        "php-8.3.3~RC1-1.el10",
+        "php-8.3.3~RC1-1.el10+5",
+        "php-8.3.3~RC1-1.el10+4",
+        "php-8.3.3~RC1-1.el10+2",
+        "php-8.3.2-2.el10+2",
+        "php-8.3.2-1.el10+2",
+        "php-8.3.2~RC1-1.el10+2",
+        "php-8.3.1-1.el10+2",
+        "php-8.3.1~RC3-1.el10+2",
+        "php-8.3.0-2.el10+1",
+        "php-8.3.0-1.el10+1",
+        "php-8.3.0~RC6-2.el10+1",
+        "php-8.3.0~RC5-1.el10+1",
+        "php-8.3.0~RC4-1.el10+1",
+        "php-8.3.0~RC3-3.el10+1",
+        "php-8.3.0~RC3-2.el10+1",
+        "php-8.2.11-1.el10+1",
+        "php-8.2.11~RC1-2.el10+1"
+    ]
+}

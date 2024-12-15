@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "16.4",
+        "Release": "3.el10",
+        "Architecture": "x86_64",
+        "Size": "1.9 M",
+        "Source": "postgresql16-16.4-3.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64                     16.1-8.el10                      appstream",
+        "postgresql.x86_64                     16.1-11.el10                     appstream",
+        "postgresql.x86_64                     16.4-1.el10                      appstream",
+        "postgresql.x86_64                     16.4-3.el10                      appstream"
+    ],
+    "kojiPackages": [
+        "postgresql-15.4-2.el10+1"
+    ]
+}

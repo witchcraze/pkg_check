@@ -1,26 +1,27 @@
 {
     "show": {
         "Package": "php8.3",
-        "Version": "8.3.6-0ubuntu0.24.04.2",
+        "Version": "8.3.6-0ubuntu0.24.04.3",
         "Priority": "optional",
         "Section": "php",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian PHP Maintainers <team+pkg-php@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "62.5 kB",
+        "Installed-Size": "63.5 kB",
         "Provides": "php",
         "Depends": "libapache2-mod-php8.3 | php8.3-fpm | php8.3-cgi, php8.3-common",
         "Homepage": "http://www.php.net/",
-        "Download-Size": "9176 B",
+        "Download-Size": "9178 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php8.3/noble-updates,noble-security 8.3.6-0ubuntu0.24.04.2 all",
+        "php8.3/noble-updates,noble-security 8.3.6-0ubuntu0.24.04.3 all",
         "php8.3/noble 8.3.6-0maysync1 all"
     ],
     "changelog": [
+        "php8.3 (8.3.6-0ubuntu0.24.04.3) noble-security; urgency=medium",
         "php8.3 (8.3.6-0ubuntu0.24.04.2) noble-security; urgency=medium",
         "php8.3 (8.3.6-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "php8.3 (8.3.6-0maysync1) noble; urgency=medium",
@@ -204,6 +205,7 @@
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "8.3.6-0ubuntu0.24.04.3",
         "8.3.6-0ubuntu0.24.04.2",
         "8.3.6-0ubuntu0.24.04.1",
         "8.3.6-0maysync1",
