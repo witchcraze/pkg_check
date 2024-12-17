@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "6.10",
-        "Release": "3.el10",
+        "Release": "5.el10",
         "Architecture": "x86_64",
-        "Size": "4.1 M",
-        "Source": "squid-6.10-3.el10.src.rpm",
+        "Size": "4.0 M",
+        "Source": "squid-6.10-5.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -16,7 +16,8 @@
     "list": [
         "squid.x86_64                       7:6.10-1.el10                       appstream",
         "squid.x86_64                       7:6.10-2.el10                       appstream",
-        "squid.x86_64                       7:6.10-3.el10                       appstream"
+        "squid.x86_64                       7:6.10-3.el10                       appstream",
+        "squid.x86_64                       7:6.10-5.el10                       appstream"
     ],
     "kojiPackages": [
         "squid-6.10-5.el10",

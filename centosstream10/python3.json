@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.12.6",
+        "Version": "3.12.8",
         "Release": "2.el10",
         "Architecture": "x86_64",
-        "Size": "32 k",
-        "Source": "python3.12-3.12.6-2.el10.src.rpm",
+        "Size": "31 k",
+        "Source": "python3.12-3.12.8-2.el10.src.rpm",
         "Repository": "@System",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
@@ -13,7 +13,7 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                       3.12.6-2.el10                       @System",
+        "python3.x86_64                       3.12.8-2.el10                       @System",
         "python3.x86_64                       3.12.4-4.el10                       baseos",
         "python3.x86_64                       3.12.5-1.el10                       baseos",
         "python3.x86_64                       3.12.5-2.el10                       baseos",
