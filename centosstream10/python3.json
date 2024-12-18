@@ -14,10 +14,10 @@
     },
     "list": [
         "python3.x86_64                       3.12.8-2.el10                       @System",
-        "python3.x86_64                       3.12.4-4.el10                       baseos",
         "python3.x86_64                       3.12.5-1.el10                       baseos",
         "python3.x86_64                       3.12.5-2.el10                       baseos",
         "python3.x86_64                       3.12.6-1.el10                       baseos",
-        "python3.x86_64                       3.12.6-2.el10                       baseos"
+        "python3.x86_64                       3.12.6-2.el10                       baseos",
+        "python3.x86_64                       3.12.8-2.el10                       baseos"
     ]
 }
