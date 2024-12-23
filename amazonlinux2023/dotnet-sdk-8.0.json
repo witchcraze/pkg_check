@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.107",
+        "Version": "8.0.111",
         "Release": "1.amzn2023",
         "Architecture": "x86_64",
         "Size": "87 M",
-        "Source": "dotnet8.0-8.0.107-1.amzn2023.src.rpm",
+        "Source": "dotnet8.0-8.0.111-1.amzn2023.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "dotnet-sdk-8.0.x86_64               8.0.105-1.amzn2023               amazonlinux",
-        "dotnet-sdk-8.0.x86_64               8.0.107-1.amzn2023               amazonlinux"
+        "dotnet-sdk-8.0.x86_64               8.0.107-1.amzn2023               amazonlinux",
+        "dotnet-sdk-8.0.x86_64               8.0.111-1.amzn2023               amazonlinux"
     ]
 }

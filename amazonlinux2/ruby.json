@@ -3,7 +3,7 @@
         "Name": "ruby",
         "Arch": "x86_64",
         "Version": "2.0.0.648",
-        "Release": "36.amzn2.0.12",
+        "Release": "36.amzn2.0.14",
         "Size": "76 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "An interpreter of object-oriented scripting language",
@@ -28,6 +28,8 @@
         "ruby.x86_64                  2.0.0.648-36.amzn2.0.9                   amzn2-core",
         "ruby.x86_64                  2.0.0.648-36.amzn2.0.10                  amzn2-core",
         "ruby.x86_64                  2.0.0.648-36.amzn2.0.11                  amzn2-core",
-        "ruby.x86_64                  2.0.0.648-36.amzn2.0.12                  amzn2-core"
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.12                  amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.13                  amzn2-core",
+        "ruby.x86_64                  2.0.0.648-36.amzn2.0.14                  amzn2-core"
     ]
 }

@@ -3,9 +3,9 @@
         "Name": "java-1.8.0-openjdk",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.8.0.412.b08",
+        "Version": "1.8.0.432.b06",
         "Release": "1.amzn2.0.1",
-        "Size": "321 k",
+        "Size": "322 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -39,6 +39,7 @@
         "java-1.8.0-openjdk.x86_64         1:1.8.0.382.b05-1.amzn2.0.2         amzn2-core",
         "java-1.8.0-openjdk.x86_64         1:1.8.0.392.b08-2.amzn2.0.1         amzn2-core",
         "java-1.8.0-openjdk.x86_64         1:1.8.0.402.b06-1.amzn2.0.1         amzn2-core",
-        "java-1.8.0-openjdk.x86_64         1:1.8.0.412.b08-1.amzn2.0.1         amzn2-core"
+        "java-1.8.0-openjdk.x86_64         1:1.8.0.412.b08-1.amzn2.0.1         amzn2-core",
+        "java-1.8.0-openjdk.x86_64         1:1.8.0.432.b06-1.amzn2.0.1         amzn2-core"
     ]
 }
