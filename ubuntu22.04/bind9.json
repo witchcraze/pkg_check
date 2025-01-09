@@ -1,30 +1,33 @@
 {
     "show": {
         "Package": "bind9",
-        "Version": "1:9.18.28-0ubuntu0.22.04.1",
+        "Version": "1:9.18.30-0ubuntu0.22.04.1",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian DNS Team <team+dns@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "989 kB",
+        "Installed-Size": "988 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "adduser, bind9-libs (= 1:9.18.28-0ubuntu0.22.04.1), bind9-utils (= 1:9.18.28-0ubuntu0.22.04.1), debconf | debconf-2.0, dns-root-data, iproute2, lsb-base (>= 3.2-14), netbase, libc6 (>= 2.34), libcap2 (>= 1:2.10), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3 (>= 3.0.0~~alpha1), libuv1 (>= 1.4.2), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
+        "Depends": "adduser, bind9-libs (= 1:9.18.30-0ubuntu0.22.04.1), bind9-utils (= 1:9.18.30-0ubuntu0.22.04.1), debconf | debconf-2.0, dns-root-data, iproute2, lsb-base (>= 3.2-14), netbase, libc6 (>= 2.34), libcap2 (>= 1:2.10), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3 (>= 3.0.0~~alpha1), libuv1 (>= 1.4.2), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
         "Suggests": "bind-doc, dnsutils, resolvconf, ufw",
         "Breaks": "bind (<< 1:9.13.6~)",
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
+        "Phased-Update-Percentage": "20",
         "Download-Size": "261 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/jammy-updates,jammy-security 1:9.18.28-0ubuntu0.22.04.1 amd64",
+        "bind9/jammy-updates 1:9.18.30-0ubuntu0.22.04.1 amd64",
+        "bind9/jammy-security 1:9.18.28-0ubuntu0.22.04.1 amd64",
         "bind9/jammy 1:9.18.1-1ubuntu1 amd64"
     ],
     "changelog": [
+        "bind9 (1:9.18.30-0ubuntu0.22.04.1) jammy; urgency=medium",
         "bind9 (1:9.18.28-0ubuntu0.22.04.1) jammy-security; urgency=medium",
         "bind9 (1:9.18.24-0ubuntu0.22.04.1) jammy; urgency=medium",
         "bind9 (1:9.18.18-0ubuntu0.22.04.2) jammy-security; urgency=medium",
