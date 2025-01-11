@@ -16,7 +16,6 @@
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
-        "Phased-Update-Percentage": "20",
         "Download-Size": "261 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"

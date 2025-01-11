@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "32",
         "Version": "9.11.4",
-        "Release": "26.P2.amzn2.13.8",
+        "Release": "26.P2.amzn2.13.9",
         "Size": "2.3 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System)",
@@ -35,6 +35,7 @@
         "bind.x86_64                32:9.11.4-26.P2.amzn2.13.5                 amzn2-core",
         "bind.x86_64                32:9.11.4-26.P2.amzn2.13.6                 amzn2-core",
         "bind.x86_64                32:9.11.4-26.P2.amzn2.13.7                 amzn2-core",
-        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.8                 amzn2-core"
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.8                 amzn2-core",
+        "bind.x86_64                32:9.11.4-26.P2.amzn2.13.9                 amzn2-core"
     ]
 }
