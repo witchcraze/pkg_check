@@ -9,13 +9,14 @@
         "Installed-Size": "463 kB",
         "Depends": "proftpd-core, proftpd-mod-wrap, proftpd-mod-crypto",
         "Homepage": "http://www.proftpd.org/",
+        "Tag": "interface::daemon, network::server, network::service, protocol::ftp,",
+        "protocol": "ip, protocol::ipv6, role::program, uitoolkit::ncurses",
         "Download-Size": "455 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Transitional dummy package for ProFTPD"
     },
     "list": [
-        "proftpd-basic/stable-security 1.3.8+dfsg-4+deb12u4 all",
-        "proftpd-basic/stable 1.3.8+dfsg-4+deb12u3 all"
+        "proftpd-basic/stable,stable-security 1.3.8+dfsg-4+deb12u4 all"
     ],
     "changelog": [
         "proftpd-dfsg (1.3.8+dfsg-4+deb12u4) bookworm-security; urgency=high",
@@ -330,6 +331,7 @@
         "proftpd (0.99.0pl3-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.3.8+dfsg-4+deb12u4",
         "1.3.8+dfsg-4+deb12u3",
         "1.3.8+dfsg-4+deb12u2",
         "1.3.8+dfsg-4+deb12u1",

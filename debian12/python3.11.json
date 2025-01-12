@@ -1,12 +1,12 @@
 {
     "show": {
         "Package": "python3.11",
-        "Version": "3.11.2-6+deb12u4",
+        "Version": "3.11.2-6+deb12u5",
         "Priority": "optional",
         "Section": "python",
         "Maintainer": "Matthias Klose <doko@debian.org>",
         "Installed-Size": "665 kB",
-        "Depends": "python3.11-minimal (= 3.11.2-6+deb12u4), libpython3.11-stdlib (= 3.11.2-6+deb12u4), media-types | mime-support",
+        "Depends": "python3.11-minimal (= 3.11.2-6+deb12u5), libpython3.11-stdlib (= 3.11.2-6+deb12u5), media-types | mime-support",
         "Recommends": "ca-certificates",
         "Suggests": "python3.11-venv, python3.11-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
@@ -15,10 +15,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
     "list": [
-        "python3.11/stable 3.11.2-6+deb12u4 amd64",
+        "python3.11/stable 3.11.2-6+deb12u5 amd64",
         "python3.11/stable-security 3.11.2-6+deb12u3 amd64"
     ],
     "changelog": [
+        "python3.11 (3.11.2-6+deb12u5) bookworm; urgency=medium",
         "python3.11 (3.11.2-6+deb12u4) bookworm; urgency=medium",
         "python3.11 (3.11.2-6+deb12u3) bookworm-security; urgency=medium",
         "python3.11 (3.11.2-6+deb12u2) bookworm; urgency=medium",
@@ -523,6 +524,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.11.2-6+deb12u5",
         "3.11.2-6+deb12u4",
         "3.11.2-6+deb12u2",
         "3.11.2-6"

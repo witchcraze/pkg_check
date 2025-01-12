@@ -13,12 +13,11 @@
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "202209061",
         "Download-Size": "16.8 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-15/stable-security 15.10-0+deb12u1 amd64",
-        "postgresql-15/stable 15.8-0+deb12u1 amd64"
+        "postgresql-15/stable,stable-security 15.10-0+deb12u1 amd64"
     ],
     "changelog": [
         "postgresql-15 (15.10-0+deb12u1) bookworm-security; urgency=medium",
@@ -42,6 +41,7 @@
         "postgresql-15 (15~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "15.10-0+deb12u1",
         "15.8-0+deb12u1",
         "15.7-0+deb12u1",
         "15.5-0+deb12u1",
