@@ -1,26 +1,27 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.111-8.0.11-0ubuntu1~24.04.1",
+        "Version": "8.0.112-8.0.12-0ubuntu1~24.04.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "198 kB",
+        "Installed-Size": "201 kB",
         "Depends": "dotnet-sdk-8.0",
+        "Suggests": "dotnet-runtime-dbg-8.0, aspnetcore-runtime-dbg-8.0, dotnet-sdk-dbg-8.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
-        "Download-Size": "29.0 kB",
+        "Download-Size": "29.2 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/noble-updates 8.0.111-8.0.11-0ubuntu1~24.04.1 amd64",
-        "dotnet8/noble-security 8.0.110-8.0.10-0ubuntu1~24.04.1 amd64",
+        "dotnet8/noble-updates,noble-security 8.0.112-8.0.12-0ubuntu1~24.04.1 amd64",
         "dotnet8/noble 8.0.104-8.0.4-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.112-8.0.12-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet8 (8.0.111-8.0.11-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet8 (8.0.110-8.0.10-0ubuntu1~24.04.1) noble-security; urgency=medium",
         "dotnet8 (8.0.108-8.0.8-0ubuntu1~24.04.2) noble; urgency=medium",
@@ -42,6 +43,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.112-8.0.12-0ubuntu1~24.04.1",
         "8.0.111-8.0.11-0ubuntu1~24.04.1",
         "8.0.110-8.0.10-0ubuntu1~24.04.1",
         "8.0.108-8.0.8-0ubuntu1~24.04.2",

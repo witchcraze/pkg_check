@@ -36,6 +36,9 @@
             ],
             "ruby2.7": [
                 "apt-get changelog"
+            ],
+            "tomcat9": [
+                "apt-get changelog"
             ]
         }
     }

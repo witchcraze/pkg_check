@@ -1,23 +1,25 @@
 {
     "show": {
         "Package": "tomcat9",
-        "Version": "9.0.43-2~deb11u10",
+        "Version": "9.0.43-2~deb11u11",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "313 kB",
-        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.43-2~deb11u10), ucf",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.43-2~deb11u11), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat9-admin (>= 9.0.43-2~deb11u10), tomcat9-docs (>= 9.0.43-2~deb11u10), tomcat9-examples (>= 9.0.43-2~deb11u10), tomcat9-user (>= 9.0.43-2~deb11u10)",
+        "Suggests": "tomcat9-admin (>= 9.0.43-2~deb11u11), tomcat9-docs (>= 9.0.43-2~deb11u11), tomcat9-examples (>= 9.0.43-2~deb11u11), tomcat9-user (>= 9.0.43-2~deb11u11)",
         "Homepage": "http://tomcat.apache.org",
-        "Download-Size": "48.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "Download-Size": "48.8 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/oldstable,oldstable-security 9.0.43-2~deb11u10 all"
+        "tomcat9/oldstable-security 9.0.43-2~deb11u11 all",
+        "tomcat9/oldstable 9.0.43-2~deb11u10 all"
     ],
     "changelog": [
+        "tomcat9 (9.0.43-2~deb11u11) bullseye-security; urgency=high",
         "tomcat9 (9.0.43-2~deb11u10) bullseye-security; urgency=high",
         "tomcat9 (9.0.43-2~deb11u9) bullseye-security; urgency=high",
         "tomcat9 (9.0.43-2~deb11u8) bullseye-security; urgency=high",
