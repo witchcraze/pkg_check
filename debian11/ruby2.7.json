@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.4-1+deb11u2",
+        "Version": "2.7.4-1+deb11u3",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
@@ -14,10 +14,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/oldstable-security 2.7.4-1+deb11u2 amd64",
+        "ruby2.7/oldstable-security 2.7.4-1+deb11u3 amd64",
         "ruby2.7/oldstable 2.7.4-1+deb11u1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.4-1+deb11u3) bullseye-security; urgency=medium",
         "ruby2.7 (2.7.4-1+deb11u2) bullseye-security; urgency=high",
         "ruby2.7 (2.7.4-1+deb11u1) bullseye-security; urgency=high",
         "ruby2.7 (2.7.4-1) unstable; urgency=medium",
