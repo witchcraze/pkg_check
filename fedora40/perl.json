@@ -17,6 +17,7 @@
         "perl.x86_64                       4:5.38.2-506.fc40                       fedora"
     ],
     "kojiPackages": [
+        "perl-5.38.3-507.fc40",
         "perl-5.38.2-506.fc40app1",
         "perl-5.38.2-506.fc40",
         "perl-5.38.2-505.fc40",
