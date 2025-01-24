@@ -18,6 +18,7 @@
         "ruby.x86_64             3.1.5-144.module_el9+1038+5fd22adb             appstream"
     ],
     "kojiPackages": [
+        "ruby-3.1.5-145.module_el9+1185+80ab91c1",
         "ruby-3.1.5-145.module_el9+1149+f0903b79",
         "ruby-3.1.5-145.module_el9+1147+6e26ea96",
         "ruby-3.1.5-144.module_el9+1038+5fd22adb",

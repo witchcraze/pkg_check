@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.52-1ubuntu4.12",
+        "Version": "2.4.52-1ubuntu4.13",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,22 +11,25 @@
         "Installed-Size": "548 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.12), apache2-data (= 2.4.52-1ubuntu4.12), apache2-utils (= 2.4.52-1ubuntu4.12), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.13), apache2-data (= 2.4.52-1ubuntu4.13), apache2-utils (= 2.4.52-1ubuntu4.13), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
         "Replaces": "apache2.2-bin, apache2.2-common",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
+        "Phased-Update-Percentage": "10",
         "Download-Size": "97.9 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.12 amd64",
+        "apache2/jammy-updates 2.4.52-1ubuntu4.13 amd64",
+        "apache2/jammy-security 2.4.52-1ubuntu4.12 amd64",
         "apache2/jammy 2.4.52-1ubuntu4 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.52-1ubuntu4.13) jammy; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.12) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.11) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.10) jammy-security; urgency=medium",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.12",
-        "Release": "2.el10",
+        "Version": "8.3.15",
+        "Release": "1.el10",
         "Architecture": "x86_64",
-        "Size": "9.1 k",
-        "Source": "php-8.3.12-2.el10.src.rpm",
+        "Size": "8.4 k",
+        "Source": "php-8.3.15-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -15,7 +15,8 @@
     "list": [
         "php.x86_64                        8.3.10-1.el10                        appstream",
         "php.x86_64                        8.3.12-1.el10                        appstream",
-        "php.x86_64                        8.3.12-2.el10                        appstream"
+        "php.x86_64                        8.3.12-2.el10                        appstream",
+        "php.x86_64                        8.3.15-1.el10                        appstream"
     ],
     "kojiPackages": [
         "php-8.3.15-1.el10",
