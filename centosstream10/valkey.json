@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "valkey",
-        "Version": "7.2.6",
-        "Release": "2.el10",
+        "Version": "8.0.2",
+        "Release": "1.el10",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "valkey-7.2.6-2.el10.src.rpm",
+        "Source": "valkey-8.0.2-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
@@ -15,7 +15,8 @@
     "list": [
         "valkey.x86_64                       7.2.5-4.el10                       appstream",
         "valkey.x86_64                       7.2.6-1.el10                       appstream",
-        "valkey.x86_64                       7.2.6-2.el10                       appstream"
+        "valkey.x86_64                       7.2.6-2.el10                       appstream",
+        "valkey.x86_64                       8.0.2-1.el10                       appstream"
     ],
     "kojiPackages": [
         "valkey-8.0.2-1.el10",

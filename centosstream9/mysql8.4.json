@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "mysql",
+        "Version": "8.4.3",
+        "Release": "2.module_el9+1169+67ad2a1f",
+        "Architecture": "x86_64",
+        "Size": "2.5 M",
+        "Source": "mysql-8.4.3-2.module_el9+1169+67ad2a1f.src.rpm",
+        "Repository": "appstream",
+        "Summary": "MySQL client programs and shared libraries",
+        "URL": "http://www.mysql.com",
+        "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND BSD-2-Clause",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "mysql.x86_64             8.4.3-2.module_el9+1169+67ad2a1f              appstream"
+    ],
+    "kojiPackages": [
+        "mysql-8.4.4-1.module_el9+1192+f597a618",
+        "mysql-8.4.4-1.module_el9+1190+cf246154",
+        "mysql-8.4.4-1.module_el9+1189+e820ead4",
+        "mysql-8.4.3-2.module_el9+1169+67ad2a1f",
+        "mysql-8.4.3-2.module_el9+1168+22df3cfd"
+    ]
+}

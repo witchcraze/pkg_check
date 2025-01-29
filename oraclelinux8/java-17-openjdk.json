@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-17-openjdk",
         "Epoch": "1",
-        "Version": "17.0.13.0.11",
+        "Version": "17.0.14.0.7",
         "Release": "3.0.1.el8",
         "Architecture": "x86_64",
-        "Size": "493 k",
-        "Source": "java-17-openjdk-17.0.13.0.11-3.0.1.el8.src.rpm",
+        "Size": "494 k",
+        "Source": "java-17-openjdk-17.0.14.0.7-3.0.1.el8.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -53,6 +53,8 @@
         "java-17-openjdk.src                                           1:17.0.12.0.7-2.0.1.el8                                          ol8_appstream",
         "java-17-openjdk.x86_64                                        1:17.0.12.0.7-2.0.1.el8                                          ol8_appstream",
         "java-17-openjdk.src                                           1:17.0.13.0.11-3.0.1.el8                                         ol8_appstream",
-        "java-17-openjdk.x86_64                                        1:17.0.13.0.11-3.0.1.el8                                         ol8_appstream"
+        "java-17-openjdk.x86_64                                        1:17.0.13.0.11-3.0.1.el8                                         ol8_appstream",
+        "java-17-openjdk.src                                           1:17.0.14.0.7-3.0.1.el8                                          ol8_appstream",
+        "java-17-openjdk.x86_64                                        1:17.0.14.0.7-3.0.1.el8                                          ol8_appstream"
     ]
 }

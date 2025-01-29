@@ -1,10 +1,11 @@
 {
     "show": {
         "Package": "vsftpd",
-        "Version": "3.0.5-0ubuntu3",
+        "Version": "3.0.5-0ubuntu3.1",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "30",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Keng-Yu Lin <kengyu@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
@@ -16,13 +17,15 @@
         "Replaces": "ftp-server",
         "Homepage": "http://vsftpd.beasts.org/",
         "Download-Size": "120 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
     "list": [
+        "vsftpd/noble-updates 3.0.5-0ubuntu3.1 amd64",
         "vsftpd/noble 3.0.5-0ubuntu3 amd64"
     ],
     "changelog": [
+        "vsftpd (3.0.5-0ubuntu3.1) noble; urgency=medium",
         "vsftpd (3.0.5-0ubuntu3) noble; urgency=medium",
         "vsftpd (3.0.5-0ubuntu2) noble; urgency=medium",
         "vsftpd (3.0.5-0ubuntu1) jammy; urgency=medium",

@@ -3,7 +3,7 @@
         "Name": "postgresql-server",
         "Arch": "x86_64",
         "Version": "9.2.24",
-        "Release": "8.amzn2.0.3",
+        "Release": "8.amzn2.0.4",
         "Size": "3.8 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "The programs needed to create and run a PostgreSQL server",
@@ -19,6 +19,7 @@
         "postgresql-server.x86_64              9.2.24-8.amzn2                  amzn2-core",
         "postgresql-server.x86_64              9.2.24-8.amzn2.0.1              amzn2-core",
         "postgresql-server.x86_64              9.2.24-8.amzn2.0.2              amzn2-core",
-        "postgresql-server.x86_64              9.2.24-8.amzn2.0.3              amzn2-core"
+        "postgresql-server.x86_64              9.2.24-8.amzn2.0.3              amzn2-core",
+        "postgresql-server.x86_64              9.2.24-8.amzn2.0.4              amzn2-core"
     ]
 }

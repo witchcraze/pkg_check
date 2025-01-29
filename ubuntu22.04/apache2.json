@@ -18,7 +18,6 @@
         "Replaces": "apache2.2-bin, apache2.2-common",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
-        "Phased-Update-Percentage": "10",
         "Download-Size": "97.9 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"

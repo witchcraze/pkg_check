@@ -2,13 +2,13 @@
     "info": {
         "Name": "httpd",
         "Epoch": "0",
-        "Version": "2.4.62",
-        "Release": "2.fc41",
+        "Version": "2.4.63",
+        "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "46.7 KiB",
+        "Download size": "46.4 KiB",
         "Installed size": "64.8 KiB",
-        "Source": "httpd-2.4.62-2.fc41.src.rpm",
-        "Repository": "fedora",
+        "Source": "httpd-2.4.63-1.fc41.src.rpm",
+        "Repository": "updates",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
         "License": "Apache-2.0 AND (BSD-3-Clause AND metamail AND HPND-sell-variant AND Spencer-94)",
@@ -17,9 +17,11 @@
     },
     "list": [
         "httpd.i686   2.4.62-2.fc41 fedora",
-        "httpd.x86_64 2.4.62-2.fc41 fedora"
+        "httpd.x86_64 2.4.62-2.fc41 fedora",
+        "httpd.x86_64 2.4.63-1.fc41 updates"
     ],
     "kojiPackages": [
+        "httpd-2.4.63-1.fc41",
         "httpd-2.4.62-4.fc41",
         "httpd-2.4.62-2.fc41",
         "httpd-2.4.62-1.fc41",

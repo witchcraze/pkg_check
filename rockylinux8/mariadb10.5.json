@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.22",
-        "Release": "1.module+el8.8.0+1490+31c52b1f",
+        "Version": "10.5.27",
+        "Release": "1.module+el8.10.0+1926+d379821b",
         "Architecture": "x86_64",
-        "Size": "6.3 M",
-        "Source": "mariadb-10.5.22-1.module+el8.8.0+1490+31c52b1f.src.rpm",
+        "Size": "6.4 M",
+        "Source": "mariadb-10.5.27-1.module+el8.10.0+1926+d379821b.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -14,9 +14,11 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64        3:10.5.22-1.module+el8.8.0+1490+31c52b1f         appstream"
+        "mariadb.x86_64        3:10.5.22-1.module+el8.8.0+1490+31c52b1f         appstream",
+        "mariadb.x86_64        3:10.5.27-1.module+el8.10.0+1926+d379821b        appstream"
     ],
     "kojiPackages": [
+        "mariadb-10.5.27-1.module+el8.10.0+1926+d379821b",
         "mariadb-10.5.22-1.module+el8.8.0+1490+31c52b1f",
         "mariadb-10.5.16-2.module+el8.6.0+995+5ac2a483",
         "mariadb-10.5.13-1.module+el8.5.0+773+f75e97f7",
