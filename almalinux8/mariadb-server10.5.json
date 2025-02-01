@@ -2,27 +2,28 @@
     "info": {
         "Name": "mariadb-server",
         "Epoch": "3",
-        "Version": "10.5.22",
-        "Release": "1.module_el8.8.0+3620+5d452900",
+        "Version": "10.5.27",
+        "Release": "1.module_el8.10.0+3947+ac422511",
         "Architecture": "x86_64",
         "Size": "19 M",
-        "Source": "mariadb-10.5.22-1.module_el8.8.0+3620+5d452900.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Source": "mariadb-10.5.27-1.module_el8.10.0+3947+ac422511.src.rpm",
+        "Repository": "appstream",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
         "License": "GPLv2 with exceptions and LGPLv2 and BSD",
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64               3:10.5.9-1.module_el8.4.0+2357+88cd7ba1                repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.9-1.module_el8.4.0+2357+88cd7ba1                repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.13-1.module_el8.5.0+2637+d11efe18               repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.13-1.module_el8.6.0+2761+593e5e59               repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.16-2.module_el8.6.0+3072+3c630e87               repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.16-2.module_el8.6.0+3072+3c630e87               repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.16-2.module_el8.6.0+3072+3c630e87               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.22-1.module_el8.8.0+3620+5d452900               appstream",
-        "mariadb-server.x86_64               3:10.5.22-1.module_el8.8.0+3620+5d452900               repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "mariadb-server.x86_64               3:10.5.22-1.module_el8.8.0+3620+5d452900               repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "mariadb-server.x86_64              3:10.5.9-1.module_el8.4.0+2357+88cd7ba1                 repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.9-1.module_el8.4.0+2357+88cd7ba1                 repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.13-1.module_el8.5.0+2637+d11efe18                repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.13-1.module_el8.6.0+2761+593e5e59                repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.16-2.module_el8.6.0+3072+3c630e87                repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.16-2.module_el8.6.0+3072+3c630e87                repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.16-2.module_el8.6.0+3072+3c630e87                repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.22-1.module_el8.8.0+3620+5d452900                appstream",
+        "mariadb-server.x86_64              3:10.5.22-1.module_el8.8.0+3620+5d452900                repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.22-1.module_el8.8.0+3620+5d452900                repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "mariadb-server.x86_64              3:10.5.27-1.module_el8.10.0+3947+ac422511               appstream"
     ]
 }

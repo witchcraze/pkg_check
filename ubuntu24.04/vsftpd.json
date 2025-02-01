@@ -5,7 +5,6 @@
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "30",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Keng-Yu Lin <kengyu@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

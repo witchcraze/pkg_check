@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.22",
-        "Release": "1.module+el8.8.0+21173+e955d7af",
+        "Version": "10.5.27",
+        "Release": "1.module+el8.10.0+90503+4b5f4cdd",
         "Architecture": "x86_64",
-        "Size": "6.3 M",
-        "Source": "mariadb-10.5.22-1.module+el8.8.0+21173+e955d7af.src.rpm",
+        "Size": "6.4 M",
+        "Source": "mariadb-10.5.27-1.module+el8.10.0+90503+4b5f4cdd.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -14,9 +14,10 @@
         "Description": "MariaDB is a community developed branch of MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64                                    3:10.5.9-1.module+el8.4.0+20148+88cd7ba1                                     ol8_appstream",
-        "mariadb.x86_64                                    3:10.5.13-1.module+el8.5.0+20630+d7805586                                    ol8_appstream",
-        "mariadb.x86_64                                    3:10.5.16-2.module+el8.6.0+20717+9b4a4c6e                                    ol8_appstream",
-        "mariadb.x86_64                                    3:10.5.22-1.module+el8.8.0+21173+e955d7af                                    ol8_appstream"
+        "mariadb.x86_64                                   3:10.5.9-1.module+el8.4.0+20148+88cd7ba1                                      ol8_appstream",
+        "mariadb.x86_64                                   3:10.5.13-1.module+el8.5.0+20630+d7805586                                     ol8_appstream",
+        "mariadb.x86_64                                   3:10.5.16-2.module+el8.6.0+20717+9b4a4c6e                                     ol8_appstream",
+        "mariadb.x86_64                                   3:10.5.22-1.module+el8.8.0+21173+e955d7af                                     ol8_appstream",
+        "mariadb.x86_64                                   3:10.5.27-1.module+el8.10.0+90503+4b5f4cdd                                    ol8_appstream"
     ]
 }

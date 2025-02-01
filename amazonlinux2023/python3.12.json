@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.12",
-        "Version": "3.12.6",
-        "Release": "1.amzn2023.0.2",
+        "Version": "3.12.8",
+        "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "28 k",
-        "Source": "python3.12-3.12.6-1.amzn2023.0.2.src.rpm",
+        "Source": "python3.12-3.12.8-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,6 +13,7 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.12.x86_64               3.12.6-1.amzn2023.0.2                amazonlinux"
+        "python3.12.x86_64               3.12.6-1.amzn2023.0.2                amazonlinux",
+        "python3.12.x86_64               3.12.8-1.amzn2023.0.1                amazonlinux"
     ]
 }

@@ -6,7 +6,6 @@
         "Build-Essential": "yes",
         "Section": "perl",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "30",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Niko Tyni <ntyni@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
