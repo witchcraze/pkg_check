@@ -112,6 +112,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.0-5ubuntu1.16",
         "2.7.0-5ubuntu1.15",
         "2.7.0-5ubuntu1.14",
         "2.7.0-5ubuntu1.13",

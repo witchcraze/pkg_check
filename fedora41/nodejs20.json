@@ -2,12 +2,12 @@
     "info": {
         "Name": "nodejs20",
         "Epoch": "1",
-        "Version": "20.18.1",
-        "Release": "1.fc41",
+        "Version": "20.18.2",
+        "Release": "2.fc41",
         "Architecture": "x86_64",
-        "Download size": "50.5 KiB",
-        "Installed size": "148.4 KiB",
-        "Source": "nodejs20-20.18.1-1.fc41.src.rpm",
+        "Download size": "52.1 KiB",
+        "Installed size": "149.6 KiB",
+        "Source": "nodejs20-20.18.2-2.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -18,7 +18,7 @@
     "list": [
         "nodejs20.i686   1:20.17.0-1.fc41 fedora",
         "nodejs20.x86_64 1:20.17.0-1.fc41 fedora",
-        "nodejs20.i686   1:20.18.1-1.fc41 updates",
-        "nodejs20.x86_64 1:20.18.1-1.fc41 updates"
+        "nodejs20.i686   1:20.18.2-2.fc41 updates",
+        "nodejs20.x86_64 1:20.18.2-2.fc41 updates"
     ]
 }

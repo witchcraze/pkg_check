@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "varnish",
-        "Version": "7.6.0",
-        "Release": "3.el10",
+        "Version": "7.6.1",
+        "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "1.1 M",
-        "Source": "varnish-7.6.0-3.el10.src.rpm",
+        "Source": "varnish-7.6.1-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
@@ -15,7 +15,8 @@
     "list": [
         "varnish.x86_64                      7.4.2-4.el10                       appstream",
         "varnish.x86_64                      7.4.2-5.el10                       appstream",
-        "varnish.x86_64                      7.6.0-3.el10                       appstream"
+        "varnish.x86_64                      7.6.0-3.el10                       appstream",
+        "varnish.x86_64                      7.6.1-2.el10                       appstream"
     ],
     "kojiPackages": [
         "varnish-7.6.1-2.el10",

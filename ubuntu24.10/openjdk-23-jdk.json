@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openjdk-23-jdk",
-        "Version": "23.0.1+11-1ubuntu1~24.10.1",
+        "Version": "23.0.2+7-1ubuntu1~24.10",
         "Priority": "optional",
         "Section": "universe/java",
         "Source": "openjdk-23",
@@ -9,22 +9,26 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "OpenJDK Team <openjdk-23@packages.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "5950 kB",
+        "Installed-Size": "1747 kB",
         "Provides": "java-compiler, java-sdk (= 23)",
-        "Depends": "openjdk-23-jre (= 23.0.1+11-1ubuntu1~24.10.1), openjdk-23-jdk-headless (= 23.0.1+11-1ubuntu1~24.10.1), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-23-jre (= 23.0.2+7-1ubuntu1~24.10), openjdk-23-jdk-headless (= 23.0.2+7-1ubuntu1~24.10), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-23-demo, openjdk-23-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
-        "Download-Size": "5622 kB",
+        "Download-Size": "1686 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-23-jdk/oracular-updates,oracular-security 23.0.1+11-1ubuntu1~24.10.1 amd64",
+        "openjdk-23-jdk/oracular-updates,oracular-security 23.0.2+7-1ubuntu1~24.10 amd64",
         "openjdk-23-jdk/oracular 23+37-1 amd64"
     ],
     "changelog": [
-        "openjdk-23 (23.0.1+11-1ubuntu1~24.10.1) oracular-security; urgency=medium",
+        "openjdk-23 (23.0.2+7-1ubuntu1~24.10) oracular-security; urgency=medium",
+        "openjdk-23 (23.0.2+7-1ubuntu1) plucky; urgency=medium",
+        "openjdk-23 (23.0.2+7-1) unstable; urgency=medium",
+        "openjdk-23 (23.0.1+11-3) unstable; urgency=medium",
+        "openjdk-23 (23.0.1+11-2) unstable; urgency=medium",
         "openjdk-23 (23.0.1+11-1) unstable; urgency=high",
         "openjdk-23 (23+37-1) unstable; urgency=medium",
         "openjdk-23 (23~37ea-1) unstable; urgency=medium",
@@ -579,6 +583,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "23.0.2+7-1ubuntu1~24.10",
         "23.0.1+11-1ubuntu1~24.10.1",
         "23+37-1",
         "23~37ea-1",
