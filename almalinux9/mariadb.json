@@ -2,12 +2,12 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.22",
-        "Release": "1.el9_2.alma.1",
+        "Version": "10.5.27",
+        "Release": "1.el9_5",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "mariadb-10.5.22-1.el9_2.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "Source": "mariadb-10.5.27-1.el9_5.src.rpm",
+        "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
         "License": "GPLv2 and LGPLv2",
@@ -21,6 +21,7 @@
         "mariadb.x86_64                          3:10.5.22-1.el9_2.alma.1                           appstream",
         "mariadb.x86_64                          3:10.5.22-1.el9_2.alma.1                           repo.almalinux.org_vault_9.2_AppStream_x86_64_os_",
         "mariadb.x86_64                          3:10.5.22-1.el9_2.alma.1                           repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "mariadb.x86_64                          3:10.5.22-1.el9_2.alma.1                           repo.almalinux.org_vault_9.4_AppStream_x86_64_os_"
+        "mariadb.x86_64                          3:10.5.22-1.el9_2.alma.1                           repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
+        "mariadb.x86_64                          3:10.5.27-1.el9_5                                  appstream"
     ]
 }
