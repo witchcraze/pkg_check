@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.3.1-2ubuntu2",
+        "Version": "3.3.1-2ubuntu2.1",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -15,13 +15,15 @@
         "Task": "cloud-minimal, minimal, server-minimal",
         "Download-Size": "1137 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oracular,now 3.3.1-2ubuntu2 amd64 [installed,automatic]"
+        "openssl/oracular-updates,oracular-security,now 3.3.1-2ubuntu2.1 amd64 [installed,automatic]",
+        "openssl/oracular 3.3.1-2ubuntu2 amd64"
     ],
     "changelog": [
+        "openssl (3.3.1-2ubuntu2.1) oracular-security; urgency=medium",
         "openssl (3.3.1-2ubuntu2) oracular; urgency=medium",
         "openssl (3.3.1-2ubuntu1) oracular; urgency=medium",
         "openssl (3.3.1-2) unstable; urgency=medium",
@@ -361,6 +363,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.3.1-2ubuntu2.1",
         "3.3.1-2ubuntu2",
         "3.3.1-2ubuntu1",
         "3.2.2-1ubuntu3",

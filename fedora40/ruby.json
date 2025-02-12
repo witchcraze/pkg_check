@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.6",
-        "Release": "16.fc40",
+        "Version": "3.3.7",
+        "Release": "17.fc40",
         "Architecture": "x86_64",
-        "Size": "39 k",
-        "Source": "ruby-3.3.6-16.fc40.src.rpm",
+        "Size": "38 k",
+        "Source": "ruby-3.3.7-17.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -15,8 +15,8 @@
     "list": [
         "ruby.i686                          3.3.0-4.fc40                          fedora",
         "ruby.x86_64                        3.3.0-4.fc40                          fedora",
-        "ruby.i686                          3.3.6-16.fc40                         updates",
-        "ruby.x86_64                        3.3.6-16.fc40                         updates"
+        "ruby.i686                          3.3.7-17.fc40                         updates",
+        "ruby.x86_64                        3.3.7-17.fc40                         updates"
     ],
     "kojiPackages": [
         "ruby-3.3.7-17.fc40",

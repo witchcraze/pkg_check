@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-21-amazon-corretto",
         "Epoch": "1",
-        "Version": "21.0.5+11",
+        "Version": "21.0.6+7",
         "Release": "1.amzn2023.1",
         "Architecture": "x86_64",
         "Size": "214 k",
-        "Source": "java-21-amazon-corretto-21.0.5+11-1.amzn2023.1.src.rpm",
+        "Source": "java-21-amazon-corretto-21.0.6+7-1.amzn2023.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Amazon Corretto development environment",
         "URL": "https://github.com/corretto/corretto-21",
@@ -21,6 +21,7 @@
         "java-21-amazon-corretto.x86_64       1:21.0.2+14-1.amzn2023.1        amazonlinux",
         "java-21-amazon-corretto.x86_64       1:21.0.3+9-1.amzn2023.1         amazonlinux",
         "java-21-amazon-corretto.x86_64       1:21.0.4+7-1.amzn2023.1         amazonlinux",
-        "java-21-amazon-corretto.x86_64       1:21.0.5+11-1.amzn2023.1        amazonlinux"
+        "java-21-amazon-corretto.x86_64       1:21.0.5+11-1.amzn2023.1        amazonlinux",
+        "java-21-amazon-corretto.x86_64       1:21.0.6+7-1.amzn2023.1         amazonlinux"
     ]
 }

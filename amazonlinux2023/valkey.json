@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "valkey",
+        "Version": "8.0.1",
+        "Release": "3.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "1.6 M",
+        "Source": "valkey-8.0.1-3.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "A persistent key-value database",
+        "URL": "https://valkey.io",
+        "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
+        "Description": "Valkey is an advanced key-value store. It is often referred to as a data"
+    },
+    "list": [
+        "valkey.x86_64                  8.0.1-3.amzn2023.0.1                  amazonlinux"
+    ]
+}
