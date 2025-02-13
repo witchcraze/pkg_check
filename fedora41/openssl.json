@@ -20,6 +20,7 @@
         "openssl.x86_64 1:3.2.2-11.fc41 updates"
     ],
     "kojiPackages": [
+        "openssl-3.2.4-1.fc41",
         "openssl-3.2.2-11.fc41",
         "openssl-3.2.2-10.fc41",
         "openssl-3.2.2-9.fc41",
