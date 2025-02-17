@@ -20,6 +20,7 @@
         "mysql.x86_64                       8.0.36-1.el9                        appstream"
     ],
     "kojiPackages": [
+        "mysql-8.0.41-2.el9",
         "mysql-8.0.41-1.el9",
         "mysql-8.0.36-1.el9",
         "mysql-8.0.32-1.el9",

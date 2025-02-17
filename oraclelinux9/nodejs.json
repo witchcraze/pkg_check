@@ -50,6 +50,7 @@
         "nodejs.src         1:18.19.1-1.module+el9.3.0+90193+90aa0dae       ol9_appstream",
         "nodejs.src         1:18.20.2-1.module+el9.4.0+90321+c72a88c5       ol9_appstream",
         "nodejs.src         1:18.20.4-1.module+el9.4.0+90400+35c5e203       ol9_appstream",
+        "nodejs.src         1:18.20.6-1.module+el9.5.0+90514+74072e0a       ol9_appstream",
         "nodejs.src         1:20.8.1-1.module+el9.3.0+90066+12d4a8d7        ol9_appstream",
         "nodejs.src         1:20.9.0-1.module+el9.3.0+90089+a72215ac        ol9_appstream",
         "nodejs.src         1:20.11.0-1.module+el9.3.0+90166+65065e89       ol9_appstream",
@@ -58,6 +59,7 @@
         "nodejs.src         1:20.14.0-1.module+el9.4.0+90370+db42a689       ol9_appstream",
         "nodejs.src         1:20.16.0-1.module+el9.4.0+90390+ec2aa9c0       ol9_appstream",
         "nodejs.src         1:20.17.0-1.module+el9.5.0+90443+13059b6a       ol9_appstream",
+        "nodejs.src         1:20.18.2-1.module+el9.5.0+90512+230358da       ol9_appstream",
         "nodejs.src         1:22.4.1-4.module+el9.5.0+90420+c6d0e71c        ol9_appstream",
         "nodejs.src         1:22.11.0-1.module+el9.5.0+90487+94ea5438       ol9_appstream"
     ]

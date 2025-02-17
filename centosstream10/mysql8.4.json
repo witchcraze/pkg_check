@@ -17,6 +17,7 @@
         "mysql8.4.x86_64                      8.4.4-1.el10                      appstream"
     ],
     "kojiPackages": [
+        "mysql8.4-8.4.4-2.el10",
         "mysql8.4-8.4.4-1.el10",
         "mysql8.4-8.4.3-2.el10",
         "mysql8.4-8.4.2-5.el10",

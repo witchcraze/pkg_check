@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "18.20.4",
-        "Release": "1.module+el8.10.0+1865+67d146ca",
+        "Version": "18.20.6",
+        "Release": "1.module+el8.10.0+1934+a521c41f",
         "Architecture": "x86_64",
         "Size": "13 M",
-        "Source": "nodejs-18.20.4-1.module+el8.10.0+1865+67d146ca.src.rpm",
+        "Source": "nodejs-18.20.6-1.module+el8.10.0+1934+a521c41f.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,9 +16,11 @@
     "list": [
         "nodejs.x86_64        1:18.19.1-1.module+el8.10.0+1747+2869c860         appstream",
         "nodejs.x86_64        1:18.20.2-1.module+el8.10.0+1824+532140ee         appstream",
-        "nodejs.x86_64        1:18.20.4-1.module+el8.10.0+1865+67d146ca         appstream"
+        "nodejs.x86_64        1:18.20.4-1.module+el8.10.0+1865+67d146ca         appstream",
+        "nodejs.x86_64        1:18.20.6-1.module+el8.10.0+1934+a521c41f         appstream"
     ],
     "kojiPackages": [
+        "nodejs-18.20.6-1.module+el8.10.0+1934+a521c41f",
         "nodejs-18.20.4-1.module+el8.10.0+1865+67d146ca",
         "nodejs-18.20.2-1.module+el8.10.0+1824+532140ee",
         "nodejs-18.20.2-1.module+el8.9.0+1803+9ac8b495",
