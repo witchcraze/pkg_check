@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.2",
-        "Release": "2.el10",
+        "Release": "4.el10",
         "Architecture": "x86_64",
         "Size": "33 k",
-        "Source": "nginx-1.26.2-2.el10.src.rpm",
+        "Source": "nginx-1.26.2-4.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -17,7 +17,8 @@
         "nginx.x86_64                      2:1.26.1-5.el10                      appstream",
         "nginx.x86_64                      2:1.26.1-6.el10                      appstream",
         "nginx.x86_64                      2:1.26.1-7.el10                      appstream",
-        "nginx.x86_64                      2:1.26.2-2.el10                      appstream"
+        "nginx.x86_64                      2:1.26.2-2.el10                      appstream",
+        "nginx.x86_64                      2:1.26.2-4.el10                      appstream"
     ],
     "kojiPackages": [
         "nginx-1.26.3-1.el10",

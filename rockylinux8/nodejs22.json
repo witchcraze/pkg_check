@@ -17,6 +17,7 @@
         "nodejs.x86_64        1:22.11.0-1.module+el8.10.0+1924+614dc87f         appstream"
     ],
     "kojiPackages": [
+        "nodejs-22.13.1-1.module+el8.10.0+1935+d3cbe60f",
         "nodejs-22.11.0-1.module+el8.10.0+1924+614dc87f"
     ]
 }

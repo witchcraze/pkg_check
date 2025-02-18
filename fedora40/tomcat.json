@@ -18,6 +18,7 @@
         "tomcat.noarch                      1:9.0.98-1.fc40                       updates"
     ],
     "kojiPackages": [
+        "tomcat-9.0.100-1.fc40",
         "tomcat-9.0.99-1.fc40",
         "tomcat-9.0.98-1.fc40",
         "tomcat-9.0.97-1.fc40",
