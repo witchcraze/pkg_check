@@ -22,6 +22,7 @@
         "python3.6.x86_64 3.6.15-39.fc41 updates"
     ],
     "kojiPackages": [
+        "python3.6-3.6.15-43.fc41",
         "python3.6-3.6.15-39.fc41",
         "python3.6-3.6.15-38.fc41",
         "python3.6-3.6.15-37.fc41",
