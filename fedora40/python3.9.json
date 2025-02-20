@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.9",
         "Version": "3.9.21",
-        "Release": "1.fc40",
+        "Release": "4.fc40",
         "Architecture": "x86_64",
         "Size": "19 M",
-        "Source": "python3.9-3.9.21-1.fc40.src.rpm",
+        "Source": "python3.9-3.9.21-4.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.9.i686                        3.9.18-7.fc40                      fedora",
         "python3.9.x86_64                      3.9.18-7.fc40                      fedora",
-        "python3.9.i686                        3.9.21-1.fc40                      updates",
-        "python3.9.x86_64                      3.9.21-1.fc40                      updates"
+        "python3.9.i686                        3.9.21-4.fc40                      updates",
+        "python3.9.x86_64                      3.9.21-4.fc40                      updates"
     ],
     "kojiPackages": [
         "python3.9-3.9.21-4.fc40",

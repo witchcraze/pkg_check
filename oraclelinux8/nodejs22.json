@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.11.0",
-        "Release": "1.module+el8.10.0+90501+a32a7772",
+        "Version": "22.13.1",
+        "Release": "1.module+el8.10.0+90518+cdafa262",
         "Architecture": "x86_64",
-        "Size": "2.2 M",
-        "Source": "nodejs-22.11.0-1.module+el8.10.0+90501+a32a7772.src.rpm",
+        "Size": "2.1 M",
+        "Source": "nodejs-22.13.1-1.module+el8.10.0+90518+cdafa262.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,6 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64                                    1:22.11.0-1.module+el8.10.0+90501+a32a7772                                    ol8_appstream"
+        "nodejs.x86_64                                    1:22.11.0-1.module+el8.10.0+90501+a32a7772                                    ol8_appstream",
+        "nodejs.x86_64                                    1:22.13.1-1.module+el8.10.0+90518+cdafa262                                    ol8_appstream"
     ]
 }

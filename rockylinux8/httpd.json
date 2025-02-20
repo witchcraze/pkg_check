@@ -19,6 +19,7 @@
         "httpd.x86_64         2.4.37-65.module+el8.10.0+1842+4a9649e8.2         appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.37-65.module+el8.10.0+1938+3b7755d4.3",
         "httpd-2.4.37-65.module+el8.10.0+1842+4a9649e8.2",
         "httpd-2.4.37-65.module+el8.10.0+1840+b070a976.1",
         "httpd-2.4.37-65.module+el8.10.0+1830+22f0c9e0",
