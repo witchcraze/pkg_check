@@ -3,11 +3,11 @@
         "Name": "java-17-openjdk",
         "Epoch": "1",
         "Version": "17.0.14.0.7",
-        "Release": "1.fc41",
+        "Release": "6.fc41",
         "Architecture": "x86_64",
-        "Download size": "418.6 KiB",
+        "Download size": "418.5 KiB",
         "Installed size": "1.0 MiB",
-        "Source": "java-17-openjdk-17.0.14.0.7-1.fc41.src.rpm",
+        "Source": "java-17-openjdk-17.0.14.0.7-6.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "java-17-openjdk.x86_64 1:17.0.12.0.7-2.fc41 fedora",
-        "java-17-openjdk.x86_64 1:17.0.14.0.7-1.fc41 updates"
+        "java-17-openjdk.x86_64 1:17.0.14.0.7-6.fc41 updates"
     ],
     "kojiPackages": [
         "java-17-openjdk-17.0.14.0.7-6.fc41",

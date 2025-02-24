@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "15.10",
-        "Release": "1.module_el9.5.0+126+03d48c9f",
+        "Version": "15.12",
+        "Release": "1.module_el9.5.0+140+e3f03d9d",
         "Architecture": "x86_64",
-        "Size": "1.6 M",
-        "Source": "postgresql-15.10-1.module_el9.5.0+126+03d48c9f.src.rpm",
+        "Size": "1.7 M",
+        "Source": "postgresql-15.12-1.module_el9.5.0+140+e3f03d9d.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -21,6 +21,7 @@
         "postgresql.x86_64                   15.6-1.module_el9.3.0+55+d62f4779                      repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "postgresql.x86_64                   15.8-1.module_el9.4.0+111+667b9e9e                     repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "postgresql.x86_64                   15.8-2.module_el9.5.0+119+18833d03                     appstream",
-        "postgresql.x86_64                   15.10-1.module_el9.5.0+126+03d48c9f                    appstream"
+        "postgresql.x86_64                   15.10-1.module_el9.5.0+126+03d48c9f                    appstream",
+        "postgresql.x86_64                   15.12-1.module_el9.5.0+140+e3f03d9d                    appstream"
     ]
 }

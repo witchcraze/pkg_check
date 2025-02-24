@@ -1,29 +1,30 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.0.36",
-        "Release": "1.module_el8.9.0+3735+82bd6c11",
+        "Version": "8.0.41",
+        "Release": "1.module_el8.10.0+3965+b415b607",
         "Architecture": "x86_64",
         "Size": "14 M",
-        "Source": "mysql-8.0.36-1.module_el8.9.0+3735+82bd6c11.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Source": "mysql-8.0.41-1.module_el8.10.0+3965+b415b607.src.rpm",
+        "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
         "License": "GPLv2 with exceptions and LGPLv2 and BSD",
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64                     8.0.21-1.module_el8.3.0+2049+47abd494                     repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.21-1.module_el8.3.0+2049+47abd494                     repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.26-1.module_el8.4.0+2532+b8928c02                     repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.26-1.module_el8.4.0+2532+b8928c02                     repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.26-1.module_el8.4.0+2532+b8928c02                     repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.30-1.module_el8.6.0+3340+d764b636                     repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.30-1.module_el8.6.0+3340+d764b636                     repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.30-1.module_el8.6.0+3340+d764b636                     repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.32-1.module_el8.8.0+3567+56a616e4                     repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.32-1.module_el8.8.0+3567+56a616e4                     repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
-        "mysql.x86_64                     8.0.36-1.module_el8.9.0+3735+82bd6c11                     appstream",
-        "mysql.x86_64                     8.0.36-1.module_el8.9.0+3735+82bd6c11                     repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "mysql.x86_64                    8.0.21-1.module_el8.3.0+2049+47abd494                      repo.almalinux.org_vault_8.3_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.21-1.module_el8.3.0+2049+47abd494                      repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.26-1.module_el8.4.0+2532+b8928c02                      repo.almalinux.org_vault_8.4_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.26-1.module_el8.4.0+2532+b8928c02                      repo.almalinux.org_vault_8.5_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.26-1.module_el8.4.0+2532+b8928c02                      repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.30-1.module_el8.6.0+3340+d764b636                      repo.almalinux.org_vault_8.6_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.30-1.module_el8.6.0+3340+d764b636                      repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.30-1.module_el8.6.0+3340+d764b636                      repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.32-1.module_el8.8.0+3567+56a616e4                      repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.32-1.module_el8.8.0+3567+56a616e4                      repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.36-1.module_el8.9.0+3735+82bd6c11                      appstream",
+        "mysql.x86_64                    8.0.36-1.module_el8.9.0+3735+82bd6c11                      repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "mysql.x86_64                    8.0.41-1.module_el8.10.0+3965+b415b607                     appstream"
     ]
 }

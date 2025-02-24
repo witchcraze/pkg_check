@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "13.18",
+        "Version": "13.20",
         "Release": "1.el9_5",
         "Architecture": "x86_64",
         "Size": "5.7 M",
-        "Source": "postgresql-13.18-1.el9_5.src.rpm",
+        "Source": "postgresql-13.20-1.el9_5.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -25,6 +25,7 @@
         "postgresql-server.x86_64                           13.14-1.el9_3                           repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
         "postgresql-server.x86_64                           13.16-1.el9_4                           appstream",
         "postgresql-server.x86_64                           13.16-1.el9_4                           repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                           13.18-1.el9_5                           appstream"
+        "postgresql-server.x86_64                           13.18-1.el9_5                           appstream",
+        "postgresql-server.x86_64                           13.20-1.el9_5                           appstream"
     ]
 }

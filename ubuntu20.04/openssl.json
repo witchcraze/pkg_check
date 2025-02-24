@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1f-1ubuntu2.23",
+        "Version": "1.1.1f-1ubuntu2.24",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -19,10 +19,11 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.23 amd64 [installed,automatic]",
+        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.24 amd64 [installed,automatic]",
         "openssl/focal 1.1.1f-1ubuntu2 amd64"
     ],
     "changelog": [
+        "openssl (1.1.1f-1ubuntu2.24) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.23) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.22) focal-security; urgency=medium",
         "openssl (1.1.1f-1ubuntu2.21) focal-security; urgency=medium",
@@ -287,6 +288,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.1.1f-1ubuntu2.24",
         "1.1.1f-1ubuntu2.23",
         "1.1.1f-1ubuntu2.22",
         "1.1.1f-1ubuntu2.21",

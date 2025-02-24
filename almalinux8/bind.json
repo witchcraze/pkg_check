@@ -3,10 +3,10 @@
         "Name": "bind",
         "Epoch": "32",
         "Version": "9.11.36",
-        "Release": "16.el8_10.2",
+        "Release": "16.el8_10.4",
         "Architecture": "x86_64",
         "Size": "2.1 M",
-        "Source": "bind-9.11.36-16.el8_10.2.src.rpm",
+        "Source": "bind-9.11.36-16.el8_10.4.src.rpm",
         "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -27,6 +27,7 @@
         "bind.x86_64                             32:9.11.36-11.el8_9                                repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "bind.x86_64                             32:9.11.36-11.el8_9.1                              repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "bind.x86_64                             32:9.11.36-14.el8_10                               appstream",
-        "bind.x86_64                             32:9.11.36-16.el8_10.2                             appstream"
+        "bind.x86_64                             32:9.11.36-16.el8_10.2                             appstream",
+        "bind.x86_64                             32:9.11.36-16.el8_10.4                             appstream"
     ]
 }

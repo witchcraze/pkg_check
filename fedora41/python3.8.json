@@ -3,12 +3,12 @@
         "Name": "python3.8",
         "Epoch": "0",
         "Version": "3.8.20",
-        "Release": "1.fc41",
+        "Release": "2.fc41",
         "Architecture": "x86_64",
         "Download size": "16.5 MiB",
         "Installed size": "106.4 MiB",
-        "Source": "python3.8-3.8.20-1.fc41.src.rpm",
-        "Repository": "fedora",
+        "Source": "python3.8-3.8.20-2.fc41.src.rpm",
+        "Repository": "updates",
         "Summary": "Version 3.8 of the Python interpreter",
         "URL": "https://www.python.org/",
         "License": "Python",
@@ -17,7 +17,9 @@
     },
     "list": [
         "python3.8.i686   3.8.20-1.fc41 fedora",
-        "python3.8.x86_64 3.8.20-1.fc41 fedora"
+        "python3.8.x86_64 3.8.20-1.fc41 fedora",
+        "python3.8.i686   3.8.20-2.fc41 updates",
+        "python3.8.x86_64 3.8.20-2.fc41 updates"
     ],
     "kojiPackages": [
         "python3.8-3.8.20-2.fc41",

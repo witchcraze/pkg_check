@@ -1,25 +1,26 @@
 {
     "show": {
         "Package": "tomcat7",
-        "Version": "7.0.68-1ubuntu0.4+esm2",
+        "Version": "7.0.68-1ubuntu0.4+esm3",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "304 kB",
-        "Depends": "tomcat7-common (>= 7.0.68-1ubuntu0.4+esm2), ucf, adduser, debconf (>= 0.5) | debconf-2.0",
+        "Depends": "tomcat7-common (>= 7.0.68-1ubuntu0.4+esm3), ucf, adduser, debconf (>= 0.5) | debconf-2.0",
         "Recommends": "authbind",
-        "Suggests": "tomcat7-docs (>= 7.0.68-1ubuntu0.4+esm2), tomcat7-admin (>= 7.0.68-1ubuntu0.4+esm2), tomcat7-examples (>= 7.0.68-1ubuntu0.4+esm2), tomcat7-user (>= 7.0.68-1ubuntu0.4+esm2), libtcnative-1 (>= 1.1.32~)",
+        "Suggests": "tomcat7-docs (>= 7.0.68-1ubuntu0.4+esm3), tomcat7-admin (>= 7.0.68-1ubuntu0.4+esm3), tomcat7-examples (>= 7.0.68-1ubuntu0.4+esm3), tomcat7-user (>= 7.0.68-1ubuntu0.4+esm3), libtcnative-1 (>= 1.1.32~)",
         "Download-Size": "37.0 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu xenial-apps-security/main amd64 Packages",
         "Description": "Servlet and JSP engine"
     },
     "list": [
-        "tomcat7/xenial-apps-security 7.0.68-1ubuntu0.4+esm2 all",
+        "tomcat7/xenial-apps-security 7.0.68-1ubuntu0.4+esm3 all",
         "tomcat7/xenial-updates,xenial-security 7.0.68-1ubuntu0.4 all",
         "tomcat7/xenial 7.0.68-1 all"
     ],
     "changelog": [
+        "tomcat7 (7.0.68-1ubuntu0.4+esm3) xenial-security; urgency=medium",
         "tomcat7 (7.0.68-1ubuntu0.4+esm2) xenial-security; urgency=medium",
         "tomcat7 (7.0.68-1ubuntu0.4+esm1) xenial-security; urgency=medium",
         "tomcat7 (7.0.68-1ubuntu0.4) xenial-security; urgency=medium",
@@ -28,8 +29,7 @@
         "tomcat7 (7.0.68-1) unstable; urgency=medium",
         "tomcat7 (7.0.64-1) unstable; urgency=medium",
         "tomcat7 (7.0.63-1) unstable; urgency=medium",
-        "tomcat7 (7.0.62-1) unstable; urgency=medium",
-        "tomcat7 (7.0.61-1) unstable; urgency=medium"
+        "tomcat7 (7.0.62-1) unstable; urgency=medium"
     ],
     "publishinghistory": []
 }
