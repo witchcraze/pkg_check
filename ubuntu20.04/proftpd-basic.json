@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "proftpd-basic",
-        "Version": "1.3.6c-2",
+        "Version": "1.3.6c-2ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/net",
         "Source": "proftpd-dfsg",
@@ -9,23 +9,25 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "ProFTPD Maintainance Team <pkg-proftpd-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "5374 kB",
+        "Installed-Size": "5379 kB",
         "Provides": "ftp-server, proftpd, proftpd-abi-1.3.6c",
-        "Depends": "adduser, debianutils (>= 1.21.0), libpam-runtime (>= 0.76-13.1), netbase (>= 4.13), sed (>= 4.1.5), ucf (>= 0.30), lsb-base (>= 3.0-6), libacl1 (>= 2.2.23), libc6 (>= 2.15), libcap2 (>= 1:2.10), libhiredis0.14 (>= 0.14.0), libmemcached11, libmemcachedutil2, libncursesw6 (>= 6), libpam0g (>= 0.99.7.1), libpcre3, libssl1.1 (>= 1.1.0), libtinfo6 (>= 6), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4)",
+        "Depends": "adduser, debianutils (>= 1.21.0), libpam-runtime (>= 0.76-13.1), netbase (>= 4.13), sed (>= 4.1.5), ucf (>= 0.30), lsb-base (>= 3.0-6), libacl1 (>= 2.2.23), libc6 (>= 2.15), libcap2 (>= 1:2.10), libcrypt1 (>= 1:4.1.0), libhiredis0.14 (>= 0.14.0), libmemcached11, libmemcachedutil2, libncursesw6 (>= 6), libpam0g (>= 0.99.7.1), libpcre3, libssl1.1 (>= 1.1.0), libtinfo6 (>= 6), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4)",
         "Recommends": "proftpd-doc",
         "Suggests": "openbsd-inetd | inet-superserver, openssl, proftpd-mod-ldap, proftpd-mod-mysql, proftpd-mod-odbc, proftpd-mod-pgsql, proftpd-mod-sqlite, proftpd-mod-geoip, proftpd-mod-snmp",
         "Conflicts": "ftp-server",
         "Breaks": "proftpd (<< 1.3.2)",
         "Replaces": "proftpd (<< 1.3.2)",
         "Homepage": "http://www.proftpd.org/",
-        "Download-Size": "2172 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu focal/universe amd64 Packages",
+        "Download-Size": "2173 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Versatile, virtual-hosting FTP daemon - binaries"
     },
     "list": [
+        "proftpd-basic/focal-updates,focal-security 1.3.6c-2ubuntu0.1 amd64",
         "proftpd-basic/focal 1.3.6c-2 amd64"
     ],
     "changelog": [
+        "proftpd-dfsg (1.3.6c-2ubuntu0.1) focal-security; urgency=medium",
         "proftpd-dfsg (1.3.6c-2) unstable; urgency=medium",
         "proftpd-dfsg (1.3.6c-1) unstable; urgency=medium",
         "proftpd-dfsg (1.3.6b-3) unstable; urgency=medium",
@@ -309,6 +311,7 @@
         "proftpd (0.99.0pl3-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.3.6c-2ubuntu0.1",
         "1.3.6c-2",
         "1.3.6c-1",
         "1.3.6b-3",

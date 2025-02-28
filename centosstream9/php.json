@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "8.0.30",
-        "Release": "1.el9",
+        "Release": "2.el9",
         "Architecture": "x86_64",
         "Size": "4.7 k",
-        "Source": "php-8.0.30-1.el9.src.rpm",
+        "Source": "php-8.0.30-2.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -15,7 +15,8 @@
     "list": [
         "php.x86_64                        8.0.20-3.el9                         appstream",
         "php.x86_64                        8.0.27-1.el9                         appstream",
-        "php.x86_64                        8.0.30-1.el9                         appstream"
+        "php.x86_64                        8.0.30-1.el9                         appstream",
+        "php.x86_64                        8.0.30-2.el9                         appstream"
     ],
     "kojiPackages": [
         "php-8.0.30-2.el9",

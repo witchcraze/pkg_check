@@ -3,7 +3,7 @@
         "Name": "python3",
         "Arch": "x86_64",
         "Version": "3.7.16",
-        "Release": "1.amzn2.0.9",
+        "Release": "1.amzn2.0.13",
         "Size": "73 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Interpreter of the Python programming language",
@@ -65,6 +65,12 @@
         "python3.i686                  3.7.16-1.amzn2.0.8                      amzn2-core",
         "python3.x86_64                3.7.16-1.amzn2.0.8                      amzn2-core",
         "python3.i686                  3.7.16-1.amzn2.0.9                      amzn2-core",
-        "python3.x86_64                3.7.16-1.amzn2.0.9                      amzn2-core"
+        "python3.x86_64                3.7.16-1.amzn2.0.9                      amzn2-core",
+        "python3.i686                  3.7.16-1.amzn2.0.11                     amzn2-core",
+        "python3.x86_64                3.7.16-1.amzn2.0.11                     amzn2-core",
+        "python3.i686                  3.7.16-1.amzn2.0.12                     amzn2-core",
+        "python3.x86_64                3.7.16-1.amzn2.0.12                     amzn2-core",
+        "python3.i686                  3.7.16-1.amzn2.0.13                     amzn2-core",
+        "python3.x86_64                3.7.16-1.amzn2.0.13                     amzn2-core"
     ]
 }

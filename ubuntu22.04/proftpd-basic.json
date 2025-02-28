@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "proftpd-basic",
-        "Version": "1.3.7c+dfsg-1build1",
+        "Version": "1.3.7c+dfsg-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/net",
         "Source": "proftpd-dfsg",
@@ -9,17 +9,19 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "ProFTPD Maintainance Team <pkg-proftpd-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "500 kB",
+        "Installed-Size": "501 kB",
         "Depends": "proftpd-core, proftpd-mod-wrap, proftpd-mod-crypto",
         "Homepage": "http://www.proftpd.org/",
-        "Download-Size": "3210 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy/universe amd64 Packages",
+        "Download-Size": "3218 B",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Transitional dummy package for ProFTPD"
     },
     "list": [
+        "proftpd-basic/jammy-updates,jammy-security 1.3.7c+dfsg-1ubuntu0.1 all",
         "proftpd-basic/jammy 1.3.7c+dfsg-1build1 all"
     ],
     "changelog": [
+        "proftpd-dfsg (1.3.7c+dfsg-1ubuntu0.1) jammy-security; urgency=medium",
         "proftpd-dfsg (1.3.7c+dfsg-1build1) jammy; urgency=medium",
         "proftpd-dfsg (1.3.7c+dfsg-1) unstable; urgency=medium",
         "proftpd-dfsg (1.3.7b+dfsg-2) unstable; urgency=medium",
@@ -322,6 +324,7 @@
         "proftpd (0.99.0pl3-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.3.7c+dfsg-1ubuntu0.1",
         "1.3.7c+dfsg-1build1",
         "1.3.7c+dfsg-1",
         "1.3.7b+dfsg-1"

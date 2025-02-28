@@ -3,10 +3,10 @@
         "Name": "java-21-openjdk",
         "Epoch": "1",
         "Version": "21.0.6.0.7",
-        "Release": "1.fc40",
+        "Release": "6.fc40",
         "Architecture": "x86_64",
-        "Size": "415 k",
-        "Source": "java-21-openjdk-21.0.6.0.7-1.fc40.src.rpm",
+        "Size": "416 k",
+        "Source": "java-21-openjdk-21.0.6.0.7-6.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -15,7 +15,7 @@
     },
     "list": [
         "java-21-openjdk.x86_64               1:21.0.2.0.13-3.fc40                fedora",
-        "java-21-openjdk.x86_64               1:21.0.6.0.7-1.fc40                 updates"
+        "java-21-openjdk.x86_64               1:21.0.6.0.7-6.fc40                 updates"
     ],
     "kojiPackages": [
         "java-21-openjdk-21.0.6.0.7-6.fc40",
