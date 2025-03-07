@@ -20,6 +20,7 @@
         "golang.x86_64 1.23.6-1.fc41 updates"
     ],
     "kojiPackages": [
+        "golang-1.23.7-1.fc41",
         "golang-1.23.6-1.fc41",
         "golang-1.23.5-1.fc41",
         "golang-1.23.4-1.fc41",
