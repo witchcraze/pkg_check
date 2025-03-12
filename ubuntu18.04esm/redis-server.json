@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:4.0.9-1ubuntu0.2+esm4",
+        "Version": "5:4.0.9-1ubuntu0.2+esm5",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "173 kB",
-        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:4.0.9-1ubuntu0.2+esm4)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:4.0.9-1ubuntu0.2+esm5)",
         "Download-Size": "35.4 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/bionic-apps-security 5:4.0.9-1ubuntu0.2+esm4 amd64",
+        "redis-server/bionic-apps-security 5:4.0.9-1ubuntu0.2+esm5 amd64",
         "redis-server/bionic-updates,bionic-security 5:4.0.9-1ubuntu0.2 amd64",
         "redis-server/bionic 5:4.0.9-1 amd64"
     ],
     "changelog": [
+        "redis (5:4.0.9-1ubuntu0.2+esm5) bionic-security; urgency=medium",
         "redis (5:4.0.9-1ubuntu0.2+esm4) bionic-security; urgency=medium",
         "redis (5:4.0.9-1ubuntu0.2+esm3) bionic-security; urgency=medium",
         "redis (5:4.0.9-1ubuntu0.2+esm2) bionic-security; urgency=medium",
@@ -27,8 +28,7 @@
         "redis (5:4.0.9-1) unstable; urgency=medium",
         "redis (5:4.0.8-2) unstable; urgency=medium",
         "redis (5:4.0.8-1) unstable; urgency=medium",
-        "redis (5:4.0.7-1) unstable; urgency=medium",
-        "redis (5:4.0.6-5) unstable; urgency=medium"
+        "redis (5:4.0.7-1) unstable; urgency=medium"
     ],
     "publishinghistory": []
 }

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.112-8.0.12-0ubuntu1~24.10.1",
+        "Version": "8.0.114-8.0.14-0ubuntu1~24.10.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -9,18 +9,19 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "201 kB",
         "Depends": "dotnet-sdk-8.0",
-        "Suggests": "dotnet-runtime-dbg-8.0, aspnetcore-runtime-dbg-8.0, dotnet-sdk-dbg-8.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
-        "Download-Size": "29.2 kB",
+        "Download-Size": "29.1 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/main amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/oracular-updates,oracular-security 8.0.112-8.0.12-0ubuntu1~24.10.1 amd64",
+        "dotnet8/oracular-updates,oracular-security 8.0.114-8.0.14-0ubuntu1~24.10.1 amd64",
         "dotnet8/oracular 8.0.110-8.0.10-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.114-8.0.14-0ubuntu1~24.10.1) oracular; urgency=medium",
+        "dotnet8 (8.0.113-8.0.13-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.112-8.0.12-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.111-8.0.11-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.110-8.0.10-0ubuntu1) oracular; urgency=medium",
@@ -45,6 +46,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.114-8.0.14-0ubuntu1~24.10.1",
         "8.0.113-8.0.13-0ubuntu1~24.10.1",
         "8.0.112-8.0.12-0ubuntu1~24.10.1",
         "8.0.111-8.0.11-0ubuntu1~24.10.1",
