@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql16",
-        "Version": "16.5",
+        "Version": "16.8",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "1.8 M",
-        "Source": "postgresql16-16.5-1.amzn2023.0.1.src.rpm",
+        "Size": "1.9 M",
+        "Source": "postgresql16-16.8-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "postgresql16.x86_64               16.4-1.amzn2023.0.1                amazonlinux",
-        "postgresql16.x86_64               16.5-1.amzn2023.0.1                amazonlinux"
+        "postgresql16.x86_64               16.5-1.amzn2023.0.1                amazonlinux",
+        "postgresql16.x86_64               16.8-1.amzn2023.0.1                amazonlinux"
     ]
 }

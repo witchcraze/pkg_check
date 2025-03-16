@@ -1,15 +1,15 @@
 {
     "info": {
         "Name": "python3.11",
-        "Version": "3.11.6",
-        "Release": "1.amzn2023.0.6",
+        "Version": "3.11.11",
+        "Release": "5.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "27 k",
-        "Source": "python3.11-3.11.6-1.amzn2023.0.6.src.rpm",
+        "Size": "29 k",
+        "Source": "python3.11-3.11.11-5.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
-        "License": "Python",
+        "License": "Python-2.0.1",
         "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
@@ -22,6 +22,7 @@
         "python3.11.x86_64               3.11.6-1.amzn2023.0.3                amazonlinux",
         "python3.11.x86_64               3.11.6-1.amzn2023.0.4                amazonlinux",
         "python3.11.x86_64               3.11.6-1.amzn2023.0.5                amazonlinux",
-        "python3.11.x86_64               3.11.6-1.amzn2023.0.6                amazonlinux"
+        "python3.11.x86_64               3.11.6-1.amzn2023.0.6                amazonlinux",
+        "python3.11.x86_64               3.11.11-5.amzn2023.0.1               amazonlinux"
     ]
 }

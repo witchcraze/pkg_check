@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.103",
+        "Version": "9.0.104",
         "Release": "1.el8_10",
         "Architecture": "x86_64",
         "Size": "83 M",
-        "Source": "dotnet9.0-9.0.103-1.el8_10.src.rpm",
+        "Source": "dotnet9.0-9.0.104-1.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -16,9 +16,11 @@
         "dotnet-sdk-9.0.x86_64                 9.0.100-1.el8_10                 appstream",
         "dotnet-sdk-9.0.x86_64                 9.0.101-2.el8_10                 appstream",
         "dotnet-sdk-9.0.x86_64                 9.0.102-1.el8_10                 appstream",
-        "dotnet-sdk-9.0.x86_64                 9.0.103-1.el8_10                 appstream"
+        "dotnet-sdk-9.0.x86_64                 9.0.103-1.el8_10                 appstream",
+        "dotnet-sdk-9.0.x86_64                 9.0.104-1.el8_10                 appstream"
     ],
     "kojiPackages": [
+        "dotnet9.0-9.0.104-1.el8_10",
         "dotnet9.0-9.0.103-1.el8_10",
         "dotnet9.0-9.0.102-1.el8_10",
         "dotnet9.0-9.0.101-2.el8_10",

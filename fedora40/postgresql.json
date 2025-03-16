@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.3",
-        "Release": "7.fc40",
+        "Version": "16.8",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql16-16.3-7.fc40.src.rpm",
+        "Source": "postgresql16-16.8-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,8 +15,8 @@
     "list": [
         "postgresql.i686                        16.1-6.fc40                       fedora",
         "postgresql.x86_64                      16.1-6.fc40                       fedora",
-        "postgresql.i686                        16.3-7.fc40                       updates",
-        "postgresql.x86_64                      16.3-7.fc40                       updates"
+        "postgresql.i686                        16.8-1.fc40                       updates",
+        "postgresql.x86_64                      16.8-1.fc40                       updates"
     ],
     "kojiPackages": [
         "postgresql-15.4-2.fc40",
