@@ -17,6 +17,7 @@
         "nodejs22.x86_64                    1:22.13.1-4.el10                    appstream"
     ],
     "kojiPackages": [
+        "nodejs22-22.13.1-5.el10",
         "nodejs22-22.13.1-4.el10",
         "nodejs22-22.13.1-2.el10",
         "nodejs22-22.13.1-1.el10",

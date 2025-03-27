@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "valkey-server",
-        "Version": "7.2.8+dfsg1-0ubuntu0.24.10.1",
+        "Version": "7.2.8+dfsg1-0ubuntu0.24.10.2",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "valkey",
@@ -12,17 +12,18 @@
         "Installed-Size": "176 kB",
         "Provides": "valkey",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "valkey-tools (= 7.2.8+dfsg1-0ubuntu0.24.10.1)",
+        "Depends": "valkey-tools (= 7.2.8+dfsg1-0ubuntu0.24.10.2)",
         "Homepage": "https://valkey.io",
         "Download-Size": "49.3 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "valkey-server/oracular-updates 7.2.8+dfsg1-0ubuntu0.24.10.1 amd64",
+        "valkey-server/oracular-updates,oracular-security 7.2.8+dfsg1-0ubuntu0.24.10.2 amd64",
         "valkey-server/oracular 7.2.5+dfsg1-2ubuntu4 amd64"
     ],
     "changelog": [
+        "valkey (7.2.8+dfsg1-0ubuntu0.24.10.2) oracular-security; urgency=medium",
         "valkey (7.2.8+dfsg1-0ubuntu0.24.10.1) oracular; urgency=medium",
         "valkey (7.2.7+dfsg1-0ubuntu0.24.10.1) oracular; urgency=medium",
         "valkey (7.2.5+dfsg1-2ubuntu4) oracular; urgency=medium",
@@ -33,6 +34,7 @@
         "valkey (7.2.5+dfsg1-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "7.2.8+dfsg1-0ubuntu0.24.10.2",
         "7.2.8+dfsg1-0ubuntu0.24.10.1",
         "7.2.7+dfsg1-0ubuntu0.24.10.1",
         "7.2.5+dfsg1-2ubuntu4",

@@ -58,6 +58,7 @@
         "postgresql-12 (12~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "12.22-0ubuntu0.20.04.3",
         "12.22-0ubuntu0.20.04.2",
         "12.22-0ubuntu0.20.04.1",
         "12.20-0ubuntu0.20.04.1",

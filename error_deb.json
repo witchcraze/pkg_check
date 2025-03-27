@@ -10,6 +10,9 @@
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],
+            "nginx": [
+                "apt-get changelog"
+            ],
             "nodejs": [
                 "apt-get changelog"
             ],
@@ -44,11 +47,6 @@
                 "apt-get changelog"
             ],
             "tomcat9": [
-                "apt-get changelog"
-            ]
-        },
-        "12": {
-            "php8.2": [
                 "apt-get changelog"
             ]
         }

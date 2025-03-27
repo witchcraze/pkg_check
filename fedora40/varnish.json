@@ -17,6 +17,7 @@
         "varnish.x86_64                        7.4.2-2.fc40                        fedora"
     ],
     "kojiPackages": [
+        "varnish-7.4.2-3.fc40",
         "varnish-7.4.2-2.fc40",
         "varnish-7.4.2-1.fc40"
     ]
