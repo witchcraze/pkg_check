@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "4.0.1.module+el9.5.0+90422+83a5a420",
+        "Release": "4.0.1.module+el9.5.0+90543+4953bb61.1",
         "Architecture": "x86_64",
         "Size": "46 k",
-        "Source": "nginx-1.24.0-4.0.1.module+el9.5.0+90422+83a5a420.src.rpm",
+        "Source": "nginx-1.24.0-4.0.1.module+el9.5.0+90543+4953bb61.1.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -16,6 +16,7 @@
     "list": [
         "nginx.x86_64    1:1.24.0-1.0.1.module+el9.4.0+90262+d5d126d9       ol9_appstream",
         "nginx.x86_64    1:1.24.0-1.0.1.module+el9.4.0+90371+10c3b992.1     ol9_appstream",
-        "nginx.x86_64    1:1.24.0-4.0.1.module+el9.5.0+90422+83a5a420       ol9_appstream"
+        "nginx.x86_64    1:1.24.0-4.0.1.module+el9.5.0+90422+83a5a420       ol9_appstream",
+        "nginx.x86_64    1:1.24.0-4.0.1.module+el9.5.0+90543+4953bb61.1     ol9_appstream"
     ]
 }

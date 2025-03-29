@@ -31,9 +31,11 @@
         "nginx.src       1:1.22.1-5.0.1.module+el9.3.0+90064+5f6be4e1       ol9_appstream",
         "nginx.src       1:1.22.1-5.0.1.module+el9.4.0+90372+ca93bba3.1     ol9_appstream",
         "nginx.src       1:1.22.1-8.0.1.module+el9.5.0+90423+03334daa       ol9_appstream",
+        "nginx.src       1:1.22.1-8.0.1.module+el9.5.0+90542+e87a1bbf.1     ol9_appstream",
         "nginx.src       1:1.24.0-1.0.1.module+el9.4.0+90262+d5d126d9       ol9_appstream",
         "nginx.src       1:1.24.0-1.0.1.module+el9.4.0+90371+10c3b992.1     ol9_appstream",
         "nginx.src       1:1.24.0-4.0.1.module+el9.5.0+90422+83a5a420       ol9_appstream",
+        "nginx.src       1:1.24.0-4.0.1.module+el9.5.0+90543+4953bb61.1     ol9_appstream",
         "nginx.src       2:1.20.1-20.0.1.el9                                ol9_appstream",
         "nginx.x86_64    2:1.20.1-20.0.1.el9                                ol9_appstream"
     ]
