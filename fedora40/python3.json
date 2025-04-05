@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.12.9",
-        "Release": "1.fc40",
+        "Release": "3.fc40",
         "Architecture": "i686",
         "Size": "28 k",
-        "Source": "python3.12-3.12.9-1.fc40.src.rpm",
+        "Source": "python3.12-3.12.9-3.fc40.src.rpm",
         "Repository": "updates",
         "From repo": "updates",
         "Summary": "Python 3.12 interpreter",
@@ -14,13 +14,14 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.12.9-1.fc40                       @updates",
+        "python3.x86_64                      3.12.9-3.fc40                       @updates",
         "python3.i686                        3.12.2-2.fc40                       fedora",
         "python3.x86_64                      3.12.2-2.fc40                       fedora",
-        "python3.i686                        3.12.9-1.fc40                       updates",
-        "python3.x86_64                      3.12.9-1.fc40                       updates"
+        "python3.i686                        3.12.9-3.fc40                       updates",
+        "python3.x86_64                      3.12.9-3.fc40                       updates"
     ],
     "kojiPackages": [
+        "python3.12-3.12.9-3.fc40",
         "python3.12-3.12.9-1.fc40",
         "python3.12-3.12.8-2.fc40",
         "python3.12-3.12.8-1.fc40",

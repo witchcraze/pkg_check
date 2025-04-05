@@ -48,6 +48,9 @@
             ],
             "tomcat9": [
                 "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
             ]
         }
     }

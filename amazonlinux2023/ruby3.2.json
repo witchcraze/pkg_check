@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby3.2",
-        "Version": "3.2.2",
-        "Release": "180.amzn2023.0.5",
+        "Version": "3.2.7",
+        "Release": "183.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "41 k",
-        "Source": "ruby3.2-3.2.2-180.amzn2023.0.5.src.rpm",
+        "Source": "ruby3.2-3.2.7-183.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -19,6 +19,7 @@
         "ruby3.2.x86_64                3.2.2-180.amzn2023.0.2                 amazonlinux",
         "ruby3.2.x86_64                3.2.2-180.amzn2023.0.3                 amazonlinux",
         "ruby3.2.x86_64                3.2.2-180.amzn2023.0.4                 amazonlinux",
-        "ruby3.2.x86_64                3.2.2-180.amzn2023.0.5                 amazonlinux"
+        "ruby3.2.x86_64                3.2.2-180.amzn2023.0.5                 amazonlinux",
+        "ruby3.2.x86_64                3.2.7-183.amzn2023.0.1                 amazonlinux"
     ]
 }

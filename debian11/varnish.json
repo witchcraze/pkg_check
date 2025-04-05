@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "varnish",
-        "Version": "6.5.1-1+deb11u3",
+        "Version": "6.5.1-1+deb11u4",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Varnish Package Maintainers <team+varnish-team@tracker.debian.org>",
@@ -11,16 +11,16 @@
         "Depends": "libc6 (>= 2.29), libedit2 (>= 2.11-20080614-0), libjemalloc2 (>= 2.1.1), libncursesw6 (>= 6), libpcre3, libtinfo6 (>= 6), libvarnishapi2 (>= 6.5.0), adduser, gcc, libc6-dev | libc6.1-dev | libc-dev, lsb-base",
         "Suggests": "varnish-doc",
         "Homepage": "https://www.varnish-cache.org/",
-        "Tag": "implemented-in::c, interface::daemon, network::server, protocol::http,",
-        "role": "program, uitoolkit::ncurses, use::proxying",
-        "Download-Size": "957 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "Download-Size": "958 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
-        "varnish/oldstable,oldstable-security 6.5.1-1+deb11u3 amd64"
+        "varnish/oldstable-security 6.5.1-1+deb11u4 amd64",
+        "varnish/oldstable 6.5.1-1+deb11u3 amd64"
     ],
     "changelog": [
+        "varnish (6.5.1-1+deb11u4) bullseye-security; urgency=medium",
         "varnish (6.5.1-1+deb11u3) bullseye-security; urgency=high",
         "varnish (6.5.1-1+deb11u2) bullseye-security; urgency=medium",
         "varnish (6.5.1-1+deb11u1) bullseye-security; urgency=medium",

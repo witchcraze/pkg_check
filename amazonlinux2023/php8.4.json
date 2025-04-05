@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "php8.4",
+        "Version": "8.4.5",
+        "Release": "1.amzn2023.0.1",
+        "Architecture": "x86_64",
+        "Size": "17 k",
+        "Source": "php8.4-8.4.5-1.amzn2023.0.1.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and Boost",
+        "Description": "PHP 8.4 is an HTML-embedded scripting language. PHP 8.4 attempts to make it"
+    },
+    "list": [
+        "php8.4.x86_64                  8.4.5-1.amzn2023.0.1                  amazonlinux"
+    ]
+}

@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "11.5.0",
-        "Release": "5.amzn2023.0.1",
+        "Release": "5.amzn2023.0.3",
         "Architecture": "x86_64",
         "Size": "33 M",
-        "Source": "gcc-11.5.0-5.amzn2023.0.1.src.rpm",
+        "Source": "gcc-11.5.0-5.amzn2023.0.3.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -16,6 +16,7 @@
         "gcc.x86_64                   11.3.1-4.amzn2023.0.2                   amazonlinux",
         "gcc.x86_64                   11.3.1-4.amzn2023.0.3                   amazonlinux",
         "gcc.x86_64                   11.4.1-2.amzn2023.0.2                   amazonlinux",
-        "gcc.x86_64                   11.5.0-5.amzn2023.0.1                   amazonlinux"
+        "gcc.x86_64                   11.5.0-5.amzn2023.0.1                   amazonlinux",
+        "gcc.x86_64                   11.5.0-5.amzn2023.0.3                   amazonlinux"
     ]
 }
