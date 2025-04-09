@@ -1,14 +1,14 @@
 {
     "show": {
         "Package": "ruby3.0",
-        "Version": "3.0.2-7ubuntu2.8",
+        "Version": "3.0.2-7ubuntu2.10",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "144 kB",
+        "Installed-Size": "145 kB",
         "Depends": "rubygems-integration (>= 1.17.1~), libc6 (>= 2.34), libruby3.0 (>= 3.0.0~preview1)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
@@ -18,10 +18,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby3.0/jammy-updates,jammy-security 3.0.2-7ubuntu2.8 amd64",
+        "ruby3.0/jammy-updates,jammy-security 3.0.2-7ubuntu2.10 amd64",
         "ruby3.0/jammy 3.0.2-7ubuntu2 amd64"
     ],
     "changelog": [
+        "ruby3.0 (3.0.2-7ubuntu2.10) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.8) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.7) jammy-security; urgency=medium",
         "ruby3.0 (3.0.2-7ubuntu2.6) jammy-security; urgency=medium",
@@ -123,6 +124,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.2-7ubuntu2.10",
         "3.0.2-7ubuntu2.8",
         "3.0.2-7ubuntu2.7",
         "3.0.2-7ubuntu2.6",

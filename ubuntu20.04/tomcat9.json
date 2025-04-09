@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "tomcat9",
-        "Version": "9.0.31-1ubuntu0.8",
+        "Version": "9.0.31-1ubuntu0.9",
         "Priority": "optional",
         "Section": "universe/java",
         "Origin": "Ubuntu",
@@ -9,19 +9,20 @@
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "312 kB",
-        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1ubuntu0.8), ucf",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1ubuntu0.9), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat9-admin (>= 9.0.31-1ubuntu0.8), tomcat9-docs (>= 9.0.31-1ubuntu0.8), tomcat9-examples (>= 9.0.31-1ubuntu0.8), tomcat9-user (>= 9.0.31-1ubuntu0.8)",
+        "Suggests": "tomcat9-admin (>= 9.0.31-1ubuntu0.9), tomcat9-docs (>= 9.0.31-1ubuntu0.9), tomcat9-examples (>= 9.0.31-1ubuntu0.9), tomcat9-user (>= 9.0.31-1ubuntu0.9)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "36.5 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/focal-updates,focal-security 9.0.31-1ubuntu0.8 all",
+        "tomcat9/focal-updates,focal-security 9.0.31-1ubuntu0.9 all",
         "tomcat9/focal 9.0.31-1 all"
     ],
     "changelog": [
+        "tomcat9 (9.0.31-1ubuntu0.9) focal-security; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.8) focal-security; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.7) focal-security; urgency=medium",
         "tomcat9 (9.0.31-1ubuntu0.6) focal-security; urgency=medium",
@@ -95,6 +96,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.31-1ubuntu0.9",
         "9.0.31-1ubuntu0.8",
         "9.0.31-1ubuntu0.7",
         "9.0.31-1ubuntu0.6",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.41-4ubuntu3.21",
+        "Version": "2.4.41-4ubuntu3.23",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,7 +11,7 @@
         "Installed-Size": "545 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.21), apache2-data (= 2.4.41-4ubuntu3.21), apache2-utils (= 2.4.41-4ubuntu3.21), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.23), apache2-data (= 2.4.41-4ubuntu3.23), apache2-utils (= 2.4.41-4ubuntu3.23), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -24,10 +24,12 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/focal-updates,focal-security 2.4.41-4ubuntu3.21 amd64",
+        "apache2/focal-updates,focal-security 2.4.41-4ubuntu3.23 amd64",
         "apache2/focal 2.4.41-4ubuntu3 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.41-4ubuntu3.23) focal-security; urgency=medium",
+        "apache2 (2.4.41-4ubuntu3.22) focal; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.21) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.20) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.19) focal-security; urgency=medium",
@@ -416,7 +418,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
-        "2.4.41-4ubuntu3.22",
+        "2.4.41-4ubuntu3.23",
         "2.4.41-4ubuntu3.21",
         "2.4.41-4ubuntu3.20",
         "2.4.41-4ubuntu3.19",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.0-5ubuntu1.17",
+        "Version": "2.7.0-5ubuntu1.18",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
@@ -18,10 +18,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.17 amd64",
+        "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.18 amd64",
         "ruby2.7/focal 2.7.0-5ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.0-5ubuntu1.18) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.17) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.16) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.15) focal-security; urgency=medium",
@@ -114,6 +115,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.7.0-5ubuntu1.18",
         "2.7.0-5ubuntu1.17",
         "2.7.0-5ubuntu1.16",
         "2.7.0-5ubuntu1.15",

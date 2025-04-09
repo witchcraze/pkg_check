@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet9",
-        "Version": "9.0.104-9.0.3-0ubuntu1~24.10.1",
+        "Version": "9.0.105-9.0.4-0ubuntu1~24.10.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
@@ -12,14 +12,16 @@
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
         "Download-Size": "30.6 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu oracular-security/universe amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet9/oracular-updates,oracular-security 9.0.104-9.0.3-0ubuntu1~24.10.1 amd64",
+        "dotnet9/oracular-security 9.0.105-9.0.4-0ubuntu1~24.10.1 amd64",
+        "dotnet9/oracular-updates 9.0.104-9.0.3-0ubuntu1~24.10.1 amd64",
         "dotnet9/oracular 9.0.100-9.0.0~rc2-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet9 (9.0.105-9.0.4-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet9 (9.0.104-9.0.3-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet9 (9.0.103-9.0.2-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet9 (9.0.102-9.0.1-0ubuntu1~24.10.1) oracular; urgency=medium",
@@ -30,6 +32,7 @@
         "dotnet9 (9.0.100-9.0.0~rc1-0ubuntu1) oracular; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.105-9.0.4-0ubuntu1~24.10.1",
         "9.0.104-9.0.3-0ubuntu1~24.10.1",
         "9.0.102-9.0.1-0ubuntu1~24.10.1",
         "9.0.100-9.0.0-0ubuntu1~24.10.1",
