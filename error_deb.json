@@ -11,11 +11,9 @@
                 "apt-get changelog"
             ],
             "nginx": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
+                "apt-get changelog"
             ],
             "nodejs": [
-                "show",
                 "apt-get changelog"
             ],
             "openjdk-11-jdk": [

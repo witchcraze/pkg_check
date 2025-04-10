@@ -12,12 +12,11 @@
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
         "Download-Size": "29.1 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu oracular-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/main amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/oracular-security 8.0.115-8.0.15-0ubuntu1~24.10.1 amd64",
-        "dotnet8/oracular-updates 8.0.114-8.0.14-0ubuntu1~24.10.1 amd64",
+        "dotnet8/oracular-updates,oracular-security 8.0.115-8.0.15-0ubuntu1~24.10.1 amd64",
         "dotnet8/oracular 8.0.110-8.0.10-0ubuntu1 amd64"
     ],
     "changelog": [
