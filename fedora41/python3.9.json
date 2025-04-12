@@ -3,11 +3,11 @@
         "Name": "python3.9",
         "Epoch": "0",
         "Version": "3.9.21",
-        "Release": "4.fc41",
+        "Release": "5.fc41",
         "Architecture": "x86_64",
         "Download size": "19.0 MiB",
         "Installed size": "90.3 MiB",
-        "Source": "python3.9-3.9.21-4.fc41.src.rpm",
+        "Source": "python3.9-3.9.21-5.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,8 +18,8 @@
     "list": [
         "python3.9.i686   3.9.20-1.fc41 fedora",
         "python3.9.x86_64 3.9.20-1.fc41 fedora",
-        "python3.9.i686   3.9.21-4.fc41 updates",
-        "python3.9.x86_64 3.9.21-4.fc41 updates"
+        "python3.9.i686   3.9.21-5.fc41 updates",
+        "python3.9.x86_64 3.9.21-5.fc41 updates"
     ],
     "kojiPackages": [
         "python3.9-3.9.22-1.fc41",

@@ -20,6 +20,7 @@
         "dotnet-sdk-9.0.x86_64 9.0.103-1.fc41                 updates"
     ],
     "kojiPackages": [
+        "dotnet9.0-9.0.105-1.fc41",
         "dotnet9.0-9.0.104-1.fc41",
         "dotnet9.0-9.0.103-1.fc41",
         "dotnet9.0-9.0.102-1.fc41",

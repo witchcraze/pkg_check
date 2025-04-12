@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs18",
         "Epoch": "1",
-        "Version": "18.20.7",
-        "Release": "1.fc40",
+        "Version": "18.20.8",
+        "Release": "2.fc40",
         "Architecture": "x86_64",
         "Size": "46 k",
-        "Source": "nodejs18-18.20.7-1.fc40.src.rpm",
+        "Source": "nodejs18-18.20.8-2.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,8 +16,8 @@
     "list": [
         "nodejs18.i686                       1:18.19.0-3.fc40                     fedora",
         "nodejs18.x86_64                     1:18.19.0-3.fc40                     fedora",
-        "nodejs18.i686                       1:18.20.7-1.fc40                     updates",
-        "nodejs18.x86_64                     1:18.20.7-1.fc40                     updates"
+        "nodejs18.i686                       1:18.20.8-2.fc40                     updates",
+        "nodejs18.x86_64                     1:18.20.8-2.fc40                     updates"
     ],
     "kojiPackages": [
         "nodejs18-18.20.8-2.fc40",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "2.9.10-1ubuntu1",
+        "Version": "2.9.10-1ubuntu1.2",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -14,13 +14,15 @@
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
         "Download-Size": "2135 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
+        "haproxy/oracular-updates,oracular-security 2.9.10-1ubuntu1.2 amd64",
         "haproxy/oracular 2.9.10-1ubuntu1 amd64"
     ],
     "changelog": [
+        "haproxy (2.9.10-1ubuntu1.2) oracular-security; urgency=medium",
         "haproxy (2.9.10-1ubuntu1) oracular; urgency=medium",
         "haproxy (2.9.10-1) unstable; urgency=medium",
         "haproxy (2.9.9-1ubuntu2) oracular; urgency=medium",
@@ -300,6 +302,7 @@
         "haproxy (1.3.12.dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.9.10-1ubuntu1.2",
         "2.9.10-1ubuntu1",
         "2.9.9-1ubuntu2",
         "2.9.9-1ubuntu1",
