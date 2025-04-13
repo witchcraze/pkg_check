@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.10",
-        "Version": "3.10.16",
-        "Release": "5.fc40",
+        "Version": "3.10.17",
+        "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.10-3.10.16-5.fc40.src.rpm",
+        "Source": "python3.10-3.10.17-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.10 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,8 +15,8 @@
     "list": [
         "python3.10.i686                       3.10.13-6.fc40                     fedora",
         "python3.10.x86_64                     3.10.13-6.fc40                     fedora",
-        "python3.10.i686                       3.10.16-5.fc40                     updates",
-        "python3.10.x86_64                     3.10.16-5.fc40                     updates"
+        "python3.10.i686                       3.10.17-1.fc40                     updates",
+        "python3.10.x86_64                     3.10.17-1.fc40                     updates"
     ],
     "kojiPackages": [
         "python3.10-3.10.17-1.fc40",
