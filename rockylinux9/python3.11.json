@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.11",
         "Version": "3.11.9",
-        "Release": "7.el9_5.2",
+        "Release": "7.el9_5.3",
         "Architecture": "x86_64",
-        "Size": "27 k",
-        "Source": "python3.11-3.11.9-7.el9_5.2.src.rpm",
+        "Size": "25 k",
+        "Source": "python3.11-3.11.9-7.el9_5.3.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,7 +13,7 @@
         "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.11.x86_64                   3.11.9-7.el9_5.2                   appstream"
+        "python3.11.x86_64                   3.11.9-7.el9_5.3                   appstream"
     ],
     "kojiPackages": [
         "python3.11-3.11.9-7.el9_5.1",
