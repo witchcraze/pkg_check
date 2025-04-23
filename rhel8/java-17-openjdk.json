@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-17-openjdk",
         "Epoch": "1",
-        "Version": "17.0.14.0.7",
-        "Release": "3.el8",
+        "Version": "17.0.15.0.6",
+        "Release": "2.el8",
         "Architecture": "x86_64",
         "Size": "496 k",
-        "Source": "java-17-openjdk-17.0.14.0.7-3.el8.src.rpm",
+        "Source": "java-17-openjdk-17.0.15.0.6-2.el8.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -34,6 +34,7 @@
         "java-17-openjdk.x86_64                                1:17.0.11.0.9-2.el8                                   rhel-8-for-x86_64-appstream-rpms",
         "java-17-openjdk.x86_64                                1:17.0.12.0.7-2.el8                                   rhel-8-for-x86_64-appstream-rpms",
         "java-17-openjdk.x86_64                                1:17.0.13.0.11-3.el8                                  rhel-8-for-x86_64-appstream-rpms",
-        "java-17-openjdk.x86_64                                1:17.0.14.0.7-3.el8                                   rhel-8-for-x86_64-appstream-rpms"
+        "java-17-openjdk.x86_64                                1:17.0.14.0.7-3.el8                                   rhel-8-for-x86_64-appstream-rpms",
+        "java-17-openjdk.x86_64                                1:17.0.15.0.6-2.el8                                   rhel-8-for-x86_64-appstream-rpms"
     ]
 }

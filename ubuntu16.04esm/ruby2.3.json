@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby2.3",
-        "Version": "2.3.1-2~ubuntu16.04.16+esm9",
+        "Version": "2.3.1-2~ubuntu16.04.16+esm10",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -14,11 +14,12 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.3/xenial-infra-security 2.3.1-2~ubuntu16.04.16+esm9 amd64",
+        "ruby2.3/xenial-infra-security 2.3.1-2~ubuntu16.04.16+esm10 amd64",
         "ruby2.3/xenial-updates,xenial-security 2.3.1-2~ubuntu16.04.16 amd64",
         "ruby2.3/xenial 2.3.0-5ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm10) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm9) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm8) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm7) xenial-security; urgency=medium",
@@ -27,8 +28,7 @@
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm4) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm3) xenial-security; urgency=medium",
         "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm2) xenial-security; urgency=medium",
-        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm1) xenial-security; urgency=medium",
-        "ruby2.3 (2.3.1-2~ubuntu16.04.16) xenial-security; urgency=medium"
+        "ruby2.3 (2.3.1-2~ubuntu16.04.16+esm1) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }

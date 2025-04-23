@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.0.40",
+        "Version": "8.0.41",
         "Release": "1.fc40",
         "Architecture": "x86_64",
         "Size": "2.5 M",
-        "Source": "mysql8.0-8.0.40-1.fc40.src.rpm",
+        "Source": "mysql8.0-8.0.41-1.fc40.src.rpm",
         "Repository": "updates",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -14,6 +14,6 @@
     },
     "list": [
         "mysql.x86_64                        8.0.36-3.fc40                        fedora",
-        "mysql.x86_64                        8.0.40-1.fc40                        updates"
+        "mysql.x86_64                        8.0.41-1.fc40                        updates"
     ]
 }

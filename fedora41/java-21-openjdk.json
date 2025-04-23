@@ -20,6 +20,7 @@
         "java-21-openjdk.x86_64 1:21.0.6.0.7-6.fc41 updates"
     ],
     "kojiPackages": [
+        "java-21-openjdk-21.0.7.0.6-1.fc41",
         "java-21-openjdk-21.0.6.0.7-6.fc41app1",
         "java-21-openjdk-21.0.6.0.7-6.fc41",
         "java-21-openjdk-21.0.6.0.7-1.fc41",

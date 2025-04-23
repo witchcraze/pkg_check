@@ -20,6 +20,7 @@
         "java-1.8.0-openjdk.x86_64 1:1.8.0.442.b06-6.fc41 updates"
     ],
     "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.452.b06-1.fc41",
         "java-1.8.0-openjdk-1.8.0.442.b06-6.fc41",
         "java-1.8.0-openjdk-1.8.0.442.b06-1.fc41",
         "java-1.8.0-openjdk-1.8.0.432.b06-3.fc41",
