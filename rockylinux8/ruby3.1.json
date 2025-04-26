@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.1.5",
-        "Release": "144.module+el8.10.0+1903+95c5d658",
+        "Version": "3.1.7",
+        "Release": "145.module+el8.10.0+1957+16e0d1a2",
         "Architecture": "x86_64",
         "Size": "89 k",
-        "Source": "ruby-3.1.5-144.module+el8.10.0+1903+95c5d658.src.rpm",
+        "Source": "ruby-3.1.7-145.module+el8.10.0+1957+16e0d1a2.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -18,9 +18,12 @@
         "ruby.i686            3.1.5-143.module+el8.10.0+1826+b62220b4           appstream",
         "ruby.x86_64          3.1.5-143.module+el8.10.0+1826+b62220b4           appstream",
         "ruby.i686            3.1.5-144.module+el8.10.0+1903+95c5d658           appstream",
-        "ruby.x86_64          3.1.5-144.module+el8.10.0+1903+95c5d658           appstream"
+        "ruby.x86_64          3.1.5-144.module+el8.10.0+1903+95c5d658           appstream",
+        "ruby.i686            3.1.7-145.module+el8.10.0+1957+16e0d1a2           appstream",
+        "ruby.x86_64          3.1.7-145.module+el8.10.0+1957+16e0d1a2           appstream"
     ],
     "kojiPackages": [
+        "ruby-3.1.7-145.module+el8.10.0+1957+16e0d1a2",
         "ruby-3.1.5-144.module+el8.10.0+1903+95c5d658",
         "ruby-3.1.5-143.module+el8.10.0+1902+8d17030e",
         "ruby-3.1.5-143.module+el8.10.0+1826+b62220b4",

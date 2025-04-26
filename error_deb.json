@@ -7,6 +7,9 @@
             "bind9": [
                 "apt-get changelog"
             ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],

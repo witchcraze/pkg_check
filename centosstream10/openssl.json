@@ -5,22 +5,24 @@
         "Version": "3.2.2",
         "Release": "16.el10",
         "Architecture": "x86_64",
-        "Size": "1.1 M",
+        "Size": "1.7 M",
         "Source": "openssl-3.2.2-16.el10.src.rpm",
-        "Repository": "baseos",
+        "Repository": "@System",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "Apache-2.0",
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
-        "openssl.x86_64                      1:3.2.2-12.el10                       baseos",
-        "openssl.x86_64                      1:3.2.2-13.el10                       baseos",
-        "openssl.x86_64                      1:3.2.2-14.el10                       baseos",
-        "openssl.x86_64                      1:3.2.2-15.el10                       baseos",
-        "openssl.x86_64                      1:3.2.2-16.el10                       baseos"
+        "openssl.x86_64                      1:3.2.2-16.el10                      @System",
+        "openssl.x86_64                      1:3.2.2-12.el10                      baseos",
+        "openssl.x86_64                      1:3.2.2-13.el10                      baseos",
+        "openssl.x86_64                      1:3.2.2-14.el10                      baseos",
+        "openssl.x86_64                      1:3.2.2-15.el10                      baseos",
+        "openssl.x86_64                      1:3.2.2-16.el10                      baseos"
     ],
     "kojiPackages": [
+        "openssl-3.5.0-2.el10",
         "openssl-3.5.0-1.el10",
         "openssl-3.2.2-16.el10",
         "openssl-3.2.2-15.el10",
