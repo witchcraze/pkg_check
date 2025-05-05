@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "12.22.12~dfsg-1~deb11u6",
+        "Version": "12.22.12~dfsg-1~deb11u7",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
         "Installed-Size": "940 kB",
-        "Provides": "node-types-node (= 12.20.55~12.22.12~dfsg-1~deb11u6)",
-        "Depends": "libc6 (>= 2.2.5), libnode72 (= 12.22.12~dfsg-1~deb11u6)",
+        "Provides": "node-types-node (= 12.20.55~12.22.12~dfsg-1~deb11u7)",
+        "Depends": "libc6 (>= 2.2.5), libnode72 (= 12.22.12~dfsg-1~deb11u7)",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Conflicts": "nodejs-legacy",
@@ -19,10 +19,11 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/oldstable-security 12.22.12~dfsg-1~deb11u6 amd64",
+        "nodejs/oldstable-security 12.22.12~dfsg-1~deb11u7 amd64",
         "nodejs/oldstable 12.22.12~dfsg-1~deb11u4 amd64"
     ],
     "changelog": [
+        "nodejs (12.22.12~dfsg-1~deb11u7) bullseye-security; urgency=medium",
         "nodejs (12.22.12~dfsg-1~deb11u6) bullseye-security; urgency=medium",
         "nodejs (12.22.12~dfsg-1~deb11u5) bullseye-security; urgency=medium",
         "nodejs (12.22.12~dfsg-1~deb11u4) bullseye-security; urgency=high",

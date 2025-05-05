@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.1.30",
-        "Release": "1.module+el9.5.0+22481+3e1c6d75",
+        "Version": "8.1.32",
+        "Release": "1.module+el9.5.0+23047+aadb97d2",
         "Architecture": "x86_64",
-        "Size": "8.4 k",
-        "Source": "php-8.1.30-1.module+el9.5.0+22481+3e1c6d75.src.rpm",
+        "Size": "4.4 k",
+        "Source": "php-8.1.32-1.module+el9.5.0+23047+aadb97d2.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -16,6 +16,7 @@
         "php.x86_64                             8.1.8-1.module+el9.1.0+15877+c3862210                                rhel-9-for-x86_64-appstream-rpms",
         "php.x86_64                             8.1.14-1.module+el9.2.0+17911+b059dfc2                               rhel-9-for-x86_64-appstream-rpms",
         "php.x86_64                             8.1.27-1.module+el9.3.0.z+21063+f4ccb976                             rhel-9-for-x86_64-appstream-rpms",
-        "php.x86_64                             8.1.30-1.module+el9.5.0+22481+3e1c6d75                               rhel-9-for-x86_64-appstream-rpms"
+        "php.x86_64                             8.1.30-1.module+el9.5.0+22481+3e1c6d75                               rhel-9-for-x86_64-appstream-rpms",
+        "php.x86_64                             8.1.32-1.module+el9.5.0+23047+aadb97d2                               rhel-9-for-x86_64-appstream-rpms"
     ]
 }

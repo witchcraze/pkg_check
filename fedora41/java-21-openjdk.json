@@ -2,22 +2,22 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.6.0.7",
-        "Release": "6.fc41",
+        "Version": "21.0.7.0.6",
+        "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "416.5 KiB",
+        "Download size": "416.9 KiB",
         "Installed size": "1.0 MiB",
-        "Source": "java-21-openjdk-21.0.6.0.7-6.fc41.src.rpm",
+        "Source": "java-21-openjdk-21.0.7.0.6-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
-        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
+        "License": "Apache-1.1 AND Apache-2.0 AND LicenseRef-Callaway-BSD AND LicenseRef-Callaway-BSD-with-advertising AND GPL-1.0-or-later AND GPL-2.0-only AND LicenseRef-Callaway-GPLv2-with-exceptions AND IJG AND LicenseRef-Callaway-LGPLv2+ AND LicenseRef-Callaway-MIT AND MPL-2.0 AND LicenseRef-Callaway-Public-Domain AND W3C AND Zlib AND ISC AND FTL AND LicenseRef-RSA",
         "Description": "The OpenJDK 21 runtime environment.",
         "Vendor": "Fedora Project"
     },
     "list": [
         "java-21-openjdk.x86_64 1:21.0.4.0.7-2.fc41 fedora",
-        "java-21-openjdk.x86_64 1:21.0.6.0.7-6.fc41 updates"
+        "java-21-openjdk.x86_64 1:21.0.7.0.6-1.fc41 updates"
     ],
     "kojiPackages": [
         "java-21-openjdk-21.0.7.0.6-1.fc41",

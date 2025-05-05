@@ -29,6 +29,7 @@
         "ruby.x86_64                    3.1.5-143.module_el8.10.0+3854+02eaa59a                     appstream",
         "ruby.i686                      3.1.5-144.module_el8.10.0+3933+43481280                     appstream",
         "ruby.x86_64                    3.1.5-144.module_el8.10.0+3933+43481280                     appstream",
+        "ruby.i686                      3.1.7-145.module_el8.10.0+3984+cf55e3df                     appstream",
         "ruby.x86_64                    3.1.7-145.module_el8.10.0+3984+cf55e3df                     appstream"
     ]
 }
