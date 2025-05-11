@@ -1,27 +1,38 @@
 {
     "show": {
         "Package": "openjdk-24-jdk",
-        "Version": "24~16ea-1",
+        "Version": "24.0.1+9~us1-0ubuntu1~24.10",
         "Priority": "optional",
         "Section": "universe/java",
         "Source": "openjdk-24",
         "Origin": "Ubuntu",
-        "Maintainer": "OpenJDK Team <openjdk-24@packages.debian.org>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "OpenJDK Team <openjdk-24@packages.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "5984 kB",
+        "Installed-Size": "4784 kB",
         "Provides": "java-compiler, java-sdk (= 24)",
-        "Depends": "openjdk-24-jre (= 24~16ea-1), openjdk-24-jdk-headless (= 24~16ea-1), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-24-jre (= 24.0.1+9~us1-0ubuntu1~24.10), openjdk-24-jdk-headless (= 24.0.1+9~us1-0ubuntu1~24.10), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-24-demo, openjdk-24-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
-        "Download-Size": "5712 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular/universe amd64 Packages",
+        "Download-Size": "4500 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
+        "openjdk-24-jdk/oracular-updates,oracular-security 24.0.1+9~us1-0ubuntu1~24.10 amd64",
         "openjdk-24-jdk/oracular 24~16ea-1 amd64"
     ],
     "changelog": [
+        "openjdk-24 (24.0.1+9~us1-0ubuntu1~24.10) oracular-security; urgency=medium",
+        "openjdk-24 (24+36-1) unstable; urgency=medium",
+        "openjdk-24 (24~36ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~33ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~30ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~29ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~26ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~22ea-1) unstable; urgency=medium",
+        "openjdk-24 (24~20ea-1) unstable; urgency=medium",
         "openjdk-24 (24~16ea-1) unstable; urgency=medium",
         "openjdk-24 (24~14ea-1) unstable; urgency=medium",
         "openjdk-24 (24~10ea-2) unstable; urgency=medium",
@@ -576,6 +587,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "24.0.1+9~us1-0ubuntu1~24.10",
         "24~16ea-1",
         "24~14ea-1",
         "24~10ea-2",

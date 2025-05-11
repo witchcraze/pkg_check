@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "22.13.1",
-        "Release": "1.module+el9.5.0+30609+557cb4b3",
+        "Release": "2.module+el9.5.0+31786+d18c719d",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "nodejs-22.13.1-1.module+el9.5.0+30609+557cb4b3.src.rpm",
+        "Source": "nodejs-22.13.1-2.module+el9.5.0+31786+d18c719d.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,7 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64        1:22.13.1-1.module+el9.5.0+30609+557cb4b3         appstream"
+        "nodejs.x86_64        1:22.13.1-2.module+el9.5.0+31786+d18c719d         appstream"
     ],
     "kojiPackages": [
         "nodejs-22.4.1-4.module+el9.5.0+28949+c81ff1ff"

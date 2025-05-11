@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "18.20.6",
-        "Release": "1.module+el9.5.0+90514+74072e0a",
+        "Release": "2.module+el9.5.0+90566+16ffaf2c",
         "Architecture": "x86_64",
         "Size": "13 M",
-        "Source": "nodejs-18.20.6-1.module+el9.5.0+90514+74072e0a.src.rpm",
+        "Source": "nodejs-18.20.6-2.module+el9.5.0+90566+16ffaf2c.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -26,6 +26,7 @@
         "nodejs.x86_64      1:18.19.1-1.module+el9.3.0+90193+90aa0dae       ol9_appstream",
         "nodejs.x86_64      1:18.20.2-1.module+el9.4.0+90321+c72a88c5       ol9_appstream",
         "nodejs.x86_64      1:18.20.4-1.module+el9.4.0+90400+35c5e203       ol9_appstream",
-        "nodejs.x86_64      1:18.20.6-1.module+el9.5.0+90514+74072e0a       ol9_appstream"
+        "nodejs.x86_64      1:18.20.6-1.module+el9.5.0+90514+74072e0a       ol9_appstream",
+        "nodejs.x86_64      1:18.20.6-2.module+el9.5.0+90566+16ffaf2c       ol9_appstream"
     ]
 }

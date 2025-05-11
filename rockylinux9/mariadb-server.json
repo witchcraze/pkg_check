@@ -3,10 +3,10 @@
         "Name": "mariadb-server",
         "Epoch": "3",
         "Version": "10.5.27",
-        "Release": "1.el9_5",
+        "Release": "1.el9_5.0.1",
         "Architecture": "x86_64",
         "Size": "9.7 M",
-        "Source": "mariadb-10.5.27-1.el9_5.src.rpm",
+        "Source": "mariadb-10.5.27-1.el9_5.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -14,6 +14,6 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64                3:10.5.27-1.el9_5                 appstream"
+        "mariadb-server.x86_64              3:10.5.27-1.el9_5.0.1               appstream"
     ]
 }

@@ -11,10 +11,6 @@
                 "apt-get changelog"
             ],
             "mariadb-server-10.5": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "memcached": [
                 "apt-get changelog"
             ],
             "nginx": [

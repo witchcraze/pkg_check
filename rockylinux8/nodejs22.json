@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.13.1",
-        "Release": "2.module+el8.10.0+1956+804687b6",
+        "Version": "22.15.0",
+        "Release": "1.module+el8.10.0+1971+0bb08ece",
         "Architecture": "x86_64",
         "Size": "2.1 M",
-        "Source": "nodejs-22.13.1-2.module+el8.10.0+1956+804687b6.src.rpm",
+        "Source": "nodejs-22.15.0-1.module+el8.10.0+1971+0bb08ece.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,9 +16,11 @@
     "list": [
         "nodejs.x86_64        1:22.11.0-1.module+el8.10.0+1924+614dc87f         appstream",
         "nodejs.x86_64        1:22.13.1-1.module+el8.10.0+1935+d3cbe60f         appstream",
-        "nodejs.x86_64        1:22.13.1-2.module+el8.10.0+1956+804687b6         appstream"
+        "nodejs.x86_64        1:22.13.1-2.module+el8.10.0+1956+804687b6         appstream",
+        "nodejs.x86_64        1:22.15.0-1.module+el8.10.0+1971+0bb08ece         appstream"
     ],
     "kojiPackages": [
+        "nodejs-22.15.0-1.module+el8.10.0+1971+0bb08ece",
         "nodejs-22.13.1-2.module+el8.10.0+1956+804687b6",
         "nodejs-22.13.1-1.module+el8.10.0+1935+d3cbe60f",
         "nodejs-22.11.0-1.module+el8.10.0+1924+614dc87f"

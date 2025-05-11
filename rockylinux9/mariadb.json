@@ -3,10 +3,10 @@
         "Name": "mariadb",
         "Epoch": "3",
         "Version": "10.5.27",
-        "Release": "1.el9_5",
+        "Release": "1.el9_5.0.1",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "mariadb-10.5.27-1.el9_5.src.rpm",
+        "Source": "mariadb-10.5.27-1.el9_5.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -14,7 +14,7 @@
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64                    3:10.5.27-1.el9_5                    appstream"
+        "mariadb.x86_64                  3:10.5.27-1.el9_5.0.1                  appstream"
     ],
     "kojiPackages": [
         "mariadb-10.5.22-1.el9_2",

@@ -1,26 +1,28 @@
 {
     "show": {
         "Package": "python3.13",
-        "Version": "3.13.0-1",
+        "Version": "3.13.0-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/python",
         "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "823 kB",
-        "Depends": "python3.13-minimal (= 3.13.0-1), libpython3.13-stdlib (= 3.13.0-1), media-types | mime-support, tzdata",
+        "Depends": "python3.13-minimal (= 3.13.0-1ubuntu0.1), libpython3.13-stdlib (= 3.13.0-1ubuntu0.1), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.13-venv, python3.13-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "719 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.13)"
     },
     "list": [
+        "python3.13/oracular-updates,oracular-security 3.13.0-1ubuntu0.1 amd64",
         "python3.13/oracular 3.13.0-1 amd64"
     ],
     "changelog": [
+        "python3.13 (3.13.0-1ubuntu0.1) oracular-security; urgency=medium",
         "python3.13 (3.13.0-1) unstable; urgency=medium",
         "python3.13 (3.13.0~rc3-1) unstable; urgency=medium",
         "python3.13 (3.13.0~rc2-1) unstable; urgency=medium",
@@ -561,6 +563,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.13.0-1ubuntu0.1",
         "3.13.0-1",
         "3.13.0~rc3-1",
         "3.13.0~rc3-0ubuntu1",

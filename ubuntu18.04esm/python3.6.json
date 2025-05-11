@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "python3.6",
-        "Version": "3.6.9-1~18.04ubuntu1.13+esm2",
+        "Version": "3.6.9-1~18.04ubuntu1.13+esm3",
         "Priority": "optional",
         "Section": "python",
         "Maintainer": "Matthias Klose <doko@debian.org>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Installed-Size": "338 kB",
-        "Depends": "python3.6-minimal (= 3.6.9-1~18.04ubuntu1.13+esm2), libpython3.6-stdlib (= 3.6.9-1~18.04ubuntu1.13+esm2), mime-support",
+        "Depends": "python3.6-minimal (= 3.6.9-1~18.04ubuntu1.13+esm3), libpython3.6-stdlib (= 3.6.9-1~18.04ubuntu1.13+esm3), mime-support",
         "Suggests": "python3.6-venv, python3.6-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "203 kB",
@@ -15,11 +15,12 @@
         "Description": "Interactive high-level object-oriented language (version 3.6)"
     },
     "list": [
-        "python3.6/bionic-infra-security 3.6.9-1~18.04ubuntu1.13+esm2 amd64 [upgradable from: 3.6.9-1~18.04ubuntu1.12]",
-        "python3.6/bionic-updates,bionic-security,now 3.6.9-1~18.04ubuntu1.12 amd64 [installed,upgradable to: 3.6.9-1~18.04ubuntu1.13+esm2]",
+        "python3.6/bionic-infra-security 3.6.9-1~18.04ubuntu1.13+esm3 amd64 [upgradable from: 3.6.9-1~18.04ubuntu1.12]",
+        "python3.6/bionic-updates,bionic-security,now 3.6.9-1~18.04ubuntu1.12 amd64 [installed,upgradable to: 3.6.9-1~18.04ubuntu1.13+esm3]",
         "python3.6/bionic 3.6.5-3 amd64"
     ],
     "changelog": [
+        "python3.6 (3.6.9-1~18.04ubuntu1.13+esm3) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.13+esm2) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.13+esm1) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.13) bionic-security; urgency=medium",
@@ -28,8 +29,7 @@
         "python3.6 (3.6.9-1~18.04ubuntu1.9) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.8) bionic-security; urgency=medium",
         "python3.6 (3.6.9-1~18.04ubuntu1.7) bionic-security; urgency=medium",
-        "python3.6 (3.6.9-1~18.04ubuntu1.6) bionic-security; urgency=medium",
-        "python3.6 (3.6.9-1~18.04ubuntu1.4) bionic-security; urgency=medium"
+        "python3.6 (3.6.9-1~18.04ubuntu1.6) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }
