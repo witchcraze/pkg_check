@@ -21,6 +21,7 @@
         "ruby.x86_64          2.5.9-113.module+el8.10.0+1901+b9cac91a           appstream"
     ],
     "kojiPackages": [
+        "ruby-2.5.9-114.module+el8.10.0+1979+815637df",
         "ruby-2.5.9-113.module+el8.10.0+1901+b9cac91a",
         "ruby-2.5.9-112.module+el8.10.0+1839+f1f156ae",
         "ruby-2.5.9-112.module+el8.10.0+1838+5e13ea12",

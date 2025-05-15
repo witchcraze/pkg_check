@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.115-8.0.15-0ubuntu1~24.10.1",
+        "Version": "8.0.116-8.0.16-0ubuntu1~24.10.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -16,10 +16,11 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/oracular-updates,oracular-security 8.0.115-8.0.15-0ubuntu1~24.10.1 amd64",
+        "dotnet8/oracular-updates,oracular-security 8.0.116-8.0.16-0ubuntu1~24.10.1 amd64",
         "dotnet8/oracular 8.0.110-8.0.10-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.116-8.0.16-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.115-8.0.15-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.114-8.0.14-0ubuntu1~24.10.1) oracular; urgency=medium",
         "dotnet8 (8.0.113-8.0.13-0ubuntu1~24.10.1) oracular; urgency=medium",
@@ -47,6 +48,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.116-8.0.16-0ubuntu1~24.10.1",
         "8.0.115-8.0.15-0ubuntu1~24.10.1",
         "8.0.114-8.0.14-0ubuntu1~24.10.1",
         "8.0.112-8.0.12-0ubuntu1~24.10.1",

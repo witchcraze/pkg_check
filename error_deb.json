@@ -55,6 +55,11 @@
             "varnish": [
                 "apt-get changelog"
             ]
+        },
+        "12": {
+            "varnish": [
+                "apt-get changelog"
+            ]
         }
     }
 }
