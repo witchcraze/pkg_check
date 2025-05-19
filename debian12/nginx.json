@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.22.1-9+deb12u1",
+        "Version": "1.22.1-9+deb12u2",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Installed-Size": "1362 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.22.1-7",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (<< 1.22.1-9+deb12u1.1~), nginx-common (>= 1.22.1-9+deb12u1)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (<< 1.22.1-9+deb12u2.1~), nginx-common (>= 1.22.1-9+deb12u2)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
@@ -18,9 +18,10 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/stable 1.22.1-9+deb12u1 amd64"
+        "nginx/stable 1.22.1-9+deb12u2 amd64"
     ],
     "changelog": [
+        "nginx (1.22.1-9+deb12u2) bookworm; urgency=medium",
         "nginx (1.22.1-9+deb12u1) bookworm; urgency=medium",
         "nginx (1.22.1-9) unstable; urgency=medium",
         "nginx (1.22.1-8) unstable; urgency=medium",
@@ -196,6 +197,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.22.1-9+deb12u2",
         "1.22.1-9+deb12u1",
         "1.22.1-9"
     ]

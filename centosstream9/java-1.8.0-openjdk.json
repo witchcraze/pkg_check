@@ -21,6 +21,7 @@
         "java-1.8.0-openjdk.x86_64          1:1.8.0.362.b09-4.el9               appstream"
     ],
     "kojiPackages": [
+        "java-1.8.0-openjdk-1.8.0.392.b08-4.el9",
         "java-1.8.0-openjdk-1.8.0.362.b09-4.el9",
         "java-1.8.0-openjdk-1.8.0.362.b09-3.el9",
         "java-1.8.0-openjdk-1.8.0.362.b08-3.el9",

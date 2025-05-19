@@ -19,16 +19,16 @@
         "python3.5/xenial 3.5.1-10 amd64"
     ],
     "changelog": [
-        "python3.5 (3.5.2-2ubuntu0~16.04.13) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.12) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.11) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.10) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.9) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.8) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.5) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.4) xenial-security; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.3) xenial; urgency=medium",
-        "python3.5 (3.5.2-2ubuntu0~16.04.2) xenial; urgency=medium"
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm18) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm17) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm16) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm15) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm14) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm13) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm12) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm11) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm10) xenial-security; urgency=medium",
+        "python3.5 (3.5.2-2ubuntu0~16.04.13+esm9) xenial-security; urgency=medium"
     ],
     "publishinghistory": []
 }

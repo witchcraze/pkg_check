@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "gcc-12",
-        "Version": "12.2.0-14",
+        "Version": "12.2.0-14+deb12u1",
         "Priority": "optional",
         "Section": "devel",
         "Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
         "Installed-Size": "69.9 MB",
         "Provides": "c-compiler",
-        "Depends": "cpp-12 (= 12.2.0-14), gcc-12-base (= 12.2.0-14), libcc1-0 (>= 12.2.0-14), binutils (>= 2.39.90.20230104), libgcc-12-dev (= 12.2.0-14), libc6 (>= 2.36), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg1), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.5.2), zlib1g (>= 1:1.1.4)",
+        "Depends": "cpp-12 (= 12.2.0-14+deb12u1), gcc-12-base (= 12.2.0-14+deb12u1), libcc1-0 (>= 12.2.0-14+deb12u1), binutils (>= 2.40), libgcc-12-dev (= 12.2.0-14+deb12u1), libc6 (>= 2.36), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg1), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.5.2), zlib1g (>= 1:1.1.4)",
         "Recommends": "libc6-dev (>= 2.23-1~)",
         "Suggests": "gcc-12-multilib, gcc-12-doc (>= 12), gcc-12-locales (>= 12)",
         "Replaces": "cpp-12 (<< 7.1.1-8)",
@@ -17,9 +17,10 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-12/stable 12.2.0-14 amd64"
+        "gcc-12/stable 12.2.0-14+deb12u1 amd64"
     ],
     "changelog": [
+        "gcc-12 (12.2.0-14+deb12u1) bookworm; urgency=medium",
         "gcc-12 (12.2.0-14) unstable; urgency=medium",
         "gcc-12 (12.2.0-13) unstable; urgency=medium",
         "gcc-12 (12.2.0-12) unstable; urgency=medium",
@@ -1085,6 +1086,7 @@
         "gcc (2.7.2.1-3) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "12.2.0-14+deb12u1",
         "12.2.0-14",
         "12.2.0-13"
     ]

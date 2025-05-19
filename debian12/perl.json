@@ -3,6 +3,7 @@
         "Package": "perl",
         "Version": "5.36.0-7+deb12u2",
         "Priority": "standard",
+        "Build-Essential": "yes",
         "Section": "perl",
         "Maintainer": "Niko Tyni <ntyni@debian.org>",
         "Installed-Size": "686 kB",
@@ -15,13 +16,15 @@
         "Breaks": "apt-show-versions (<< 0.22.10), libdist-inkt-perl (<< 0.024-5), libmarc-charset-perl (<< 1.35-3), libperl-dev (<< 5.24.0~), perl-doc (<< 5.36.0-1), perl-modules-5.22, perl-modules-5.24, perl-modules-5.26 (<< 5.26.2-5)",
         "Replaces": "perl-base (<< 5.36.0-2), perl-modules (<< 5.22.0~)",
         "Homepage": "http://dev.perl.org/perl5/",
+        "Tag": "devel::interpreter, devel::lang:perl, devel::library, implemented-in::c,",
+        "implemented-in": "perl, interface::commandline, role::devel-lib,",
+        "role": "metapackage, role::program",
         "Download-Size": "239 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/stable-security 5.36.0-7+deb12u2 amd64",
-        "perl/stable 5.36.0-7+deb12u1 amd64"
+        "perl/stable,stable-security 5.36.0-7+deb12u2 amd64"
     ],
     "changelog": [
         "perl (5.36.0-7+deb12u2) bookworm-security; urgency=medium",
@@ -404,6 +407,7 @@
         "perl (5.003.07-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "5.36.0-7+deb12u2",
         "5.36.0-7+deb12u1",
         "5.36.0-7"
     ]

@@ -11,12 +11,11 @@
         "Suggests": "tomcat10-admin (>= 10.1.34-0+deb12u2), tomcat10-docs (>= 10.1.34-0+deb12u2), tomcat10-examples (>= 10.1.34-0+deb12u2), tomcat10-user (>= 10.1.34-0+deb12u2)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "42.3 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat10/stable-security 10.1.34-0+deb12u2 all",
-        "tomcat10/stable 10.1.34-0+deb12u1 all"
+        "tomcat10/stable,stable-security 10.1.34-0+deb12u2 all"
     ],
     "changelog": [
         "tomcat10 (10.1.34-0+deb12u2) bookworm-security; urgency=high",
@@ -119,6 +118,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "10.1.34-0+deb12u2",
         "10.1.34-0+deb12u1",
         "10.1.6-1+deb12u2",
         "10.1.6-1+deb12u1",
