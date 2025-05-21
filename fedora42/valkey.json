@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "valkey",
+        "Epoch": "0",
+        "Version": "8.0.3",
+        "Release": "1.fc42",
+        "Architecture": "x86_64",
+        "Download size": "1.6 MiB",
+        "Installed size": "5.5 MiB",
+        "Source": "valkey-8.0.3-1.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "A persistent key-value database",
+        "URL": "https://valkey.io",
+        "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
+        "Description": "Valkey is an advanced key-value store. It is often referred to as a data",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "valkey.x86_64 8.0.2-2.fc42 fedora",
+        "valkey.x86_64 8.0.3-1.fc42 updates"
+    ],
+    "kojiPackages": [
+        "valkey-8.0.3-1.fc42",
+        "valkey-8.0.2-2.fc42",
+        "valkey-8.0.2-1.fc42",
+        "valkey-8.0.1-3.fc42",
+        "valkey-8.0.1-2.fc42",
+        "valkey-8.0.1-1.fc42",
+        "valkey-8.0.0-2.fc42",
+        "valkey-8.0.0-1.fc42"
+    ]
+}

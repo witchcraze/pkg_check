@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Epoch": "0",
+        "Version": "16.8",
+        "Release": "1.fc42",
+        "Architecture": "x86_64",
+        "Download size": "1.9 MiB",
+        "Installed size": "7.8 MiB",
+        "Source": "postgresql16-16.8-1.fc42.src.rpm",
+        "Repository": "fedora",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS).",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "postgresql.i686   16.8-1.fc42 fedora",
+        "postgresql.x86_64 16.8-1.fc42 fedora"
+    ]
+}

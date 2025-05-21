@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nginx",
+        "Epoch": "2",
+        "Version": "1.26.3",
+        "Release": "1.0.1.module+el9.6.0+90537+0ba38d54",
+        "Architecture": "x86_64",
+        "Size": "44 k",
+        "Source": "nginx-1.26.3-1.0.1.module+el9.6.0+90537+0ba38d54.src.rpm",
+        "Repository": "ol9_appstream",
+        "Summary": "A high performance web server and reverse proxy server",
+        "URL": "https://nginx.org",
+        "License": "BSD-2-Clause",
+        "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
+    },
+    "list": [
+        "nginx.x86_64     2:1.26.3-1.0.1.module+el9.6.0+90537+0ba38d54      ol9_appstream"
+    ]
+}

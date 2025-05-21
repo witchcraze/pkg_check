@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.103",
+        "Version": "9.0.105",
         "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "82 M",
-        "Source": "dotnet9.0-9.0.103-2.el10.src.rpm",
+        "Source": "dotnet9.0-9.0.105-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -16,6 +16,24 @@
         "dotnet-sdk-9.0.x86_64        9.0.100~preview.7.24407.1-0.2.el10        appstream",
         "dotnet-sdk-9.0.x86_64        9.0.100~rc.1.24452.1-0.3.el10             appstream",
         "dotnet-sdk-9.0.x86_64        9.0.102-2.el10                            appstream",
-        "dotnet-sdk-9.0.x86_64        9.0.103-2.el10                            appstream"
+        "dotnet-sdk-9.0.x86_64        9.0.103-2.el10                            appstream",
+        "dotnet-sdk-9.0.x86_64        9.0.105-2.el10                            appstream"
+    ],
+    "kojiPackages": [
+        "dotnet9.0-9.0.106-2.el10",
+        "dotnet9.0-9.0.105-2.el10",
+        "dotnet9.0-9.0.104-2.el10",
+        "dotnet9.0-9.0.103-2.el10",
+        "dotnet9.0-9.0.102-2.el10",
+        "dotnet9.0-9.0.102-1.el10~bootstrap",
+        "dotnet9.0-9.0.102-0.9.el10",
+        "dotnet9.0-9.0.100~rc.2.24474.1-0.8.el10",
+        "dotnet9.0-9.0.100~rc.2.24474.1-0.7.el10",
+        "dotnet9.0-9.0.100~rc.2.24474.1-0.6.el10~bootstrap",
+        "dotnet9.0-9.0.100~rc.2.24474.1-0.5.el10",
+        "dotnet9.0-9.0.100~rc.2.24474.1-0.4.el10",
+        "dotnet9.0-9.0.100~rc.1.24452.1-0.3.el10",
+        "dotnet9.0-9.0.100~preview.7.24407.1-0.2.el10",
+        "dotnet9.0-9.0.100~preview.7.24407.1-0.1.el10~bootstrap"
     ]
 }

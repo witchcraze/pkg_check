@@ -1,0 +1,48 @@
+{
+    "info": {
+        "Name": "php",
+        "Epoch": "0",
+        "Version": "8.4.7",
+        "Release": "1.fc42",
+        "Architecture": "x86_64",
+        "Download size": "14.1 KiB",
+        "Installed size": "0.0   B",
+        "Source": "php-8.4.7-1.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "php.x86_64 8.4.5-1.fc42 fedora",
+        "php.x86_64 8.4.7-1.fc42 updates"
+    ],
+    "kojiPackages": [
+        "php-8.4.7-1.fc42",
+        "php-8.4.6-1.fc42",
+        "php-8.4.5-1.fc42",
+        "php-8.4.4-3.fc42",
+        "php-8.4.4~RC2-2.fc42",
+        "php-8.4.4~RC1-2.fc42",
+        "php-8.4.3-2.fc42",
+        "php-8.4.3-1.fc42",
+        "php-8.4.3~RC1-1.fc42",
+        "php-8.4.2-1.fc42",
+        "php-8.4.2~RC1-2.fc42",
+        "php-8.4.2~RC1-1.fc42",
+        "php-8.4.1-1.fc42",
+        "php-8.4.0-1.fc42",
+        "php-8.4.0~RC4-1.fc42",
+        "php-8.4.0~RC3-1.fc42",
+        "php-8.4.0~RC2-2.fc42",
+        "php-8.4.0~RC2-1.fc42",
+        "php-8.3.12-1.fc42",
+        "php-8.3.12~RC1-2.fc42",
+        "php-8.3.12~RC1-1.fc42",
+        "php-8.3.11-1.fc42",
+        "php-8.3.11~RC2-1.fc42",
+        "php-8.3.11~RC1-1.fc42"
+    ]
+}

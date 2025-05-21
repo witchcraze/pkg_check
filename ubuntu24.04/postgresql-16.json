@@ -1,14 +1,14 @@
 {
     "show": {
         "Package": "postgresql-16",
-        "Version": "16.8-0ubuntu0.24.04.1",
+        "Version": "16.9-0ubuntu0.24.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "45.2 MB",
+        "Installed-Size": "45.3 MB",
         "Provides": "postgresql-16-jit-llvm (= 17), postgresql-contrib-16",
         "Depends": "locales | locales-all, postgresql-client-16, postgresql-common (>= 252~), ssl-cert, tzdata, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libgssapi-krb5-2 (>= 1.14+dfsg), libicu74 (>= 74.1-1~), libldap2 (>= 2.6.2), libllvm17t64, liblz4-1 (>= 0.0~r130), libpam0g (>= 0.99.7.1), libpq5 (>= 16~~), libselinux1 (>= 3.1~), libssl3t64 (>= 3.0.0), libstdc++6 (>= 5.2), libsystemd0, libuuid1 (>= 2.16), libxml2 (>= 2.7.4), libxslt1.1 (>= 1.1.25), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.1.4)",
         "Recommends": "sysstat",
@@ -21,10 +21,11 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-16/noble-updates,noble-security 16.8-0ubuntu0.24.04.1 amd64",
+        "postgresql-16/noble-updates,noble-security 16.9-0ubuntu0.24.04.1 amd64",
         "postgresql-16/noble 16.2-1ubuntu4 amd64"
     ],
     "changelog": [
+        "postgresql-16 (16.9-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "postgresql-16 (16.8-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "postgresql-16 (16.6-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "postgresql-16 (16.4-0ubuntu0.24.04.2) noble-proposed; urgency=medium",
@@ -47,6 +48,7 @@
         "postgresql-16 (16~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "16.9-0ubuntu0.24.04.1",
         "16.8-0ubuntu0.24.04.1",
         "16.6-0ubuntu0.24.04.1",
         "16.4-0ubuntu0.24.04.2",

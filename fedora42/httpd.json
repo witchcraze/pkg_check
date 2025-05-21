@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Epoch": "0",
+        "Version": "2.4.63",
+        "Release": "1.fc42",
+        "Architecture": "x86_64",
+        "Download size": "46.2 KiB",
+        "Installed size": "56.6 KiB",
+        "Source": "httpd-2.4.63-1.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "Apache-2.0 AND (BSD-3-Clause AND metamail AND HPND-sell-variant AND Spencer-94)",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "httpd.x86_64 2.4.62-6.fc42 fedora",
+        "httpd.x86_64 2.4.63-1.fc42 updates"
+    ],
+    "kojiPackages": [
+        "httpd-2.4.63-1.fc42",
+        "httpd-2.4.62-6.fc42",
+        "httpd-2.4.62-5.fc42",
+        "httpd-2.4.62-4.fc42"
+    ]
+}

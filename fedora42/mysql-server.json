@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "mysql-server",
+        "Epoch": "0",
+        "Version": "8.0.41",
+        "Release": "2.fc42",
+        "Architecture": "x86_64",
+        "Download size": "16.9 MiB",
+        "Installed size": "108.2 MiB",
+        "Source": "mysql8.0-8.0.41-2.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND BSD-2-Clause",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "mysql-server.x86_64 8.0.40-3.fc42 fedora",
+        "mysql-server.x86_64 8.0.41-2.fc42 updates"
+    ]
+}

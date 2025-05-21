@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "22.15.0",
+        "Release": "1.el10_0",
+        "Architecture": "x86_64",
+        "Size": "48 k",
+        "Source": "nodejs22-22.15.0-1.el10_0.src.rpm",
+        "Repository": "rhel-10-for-x86_64-appstream-rpms",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
+    },
+    "list": [
+        "nodejs.x86_64                                      1:22.13.1-2.el10                                        rhel-10-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                                      1:22.15.0-1.el10_0                                      rhel-10-for-x86_64-appstream-rpms"
+    ]
+}

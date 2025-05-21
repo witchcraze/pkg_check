@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "python3.11",
+        "Epoch": "0",
+        "Version": "3.11.12",
+        "Release": "2.fc42",
+        "Architecture": "x86_64",
+        "Download size": "26.0 KiB",
+        "Installed size": "27.4 KiB",
+        "Source": "python3.11-3.11.12-2.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.11 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3.11.i686   3.11.11-5.fc42 fedora",
+        "python3.11.x86_64 3.11.11-5.fc42 fedora",
+        "python3.11.i686   3.11.12-2.fc42 updates",
+        "python3.11.x86_64 3.11.12-2.fc42 updates"
+    ],
+    "kojiPackages": [
+        "python3.11-3.11.12-3.fc42",
+        "python3.11-3.11.12-2.fc42",
+        "python3.11-3.11.12-1.fc42",
+        "python3.11-3.11.11-5.fc42",
+        "python3.11-3.11.11-4.fc42",
+        "python3.11-3.11.11-3.fc42",
+        "python3.11-3.11.11-2.fc42",
+        "python3.11-3.11.11-1.fc42",
+        "python3.11-3.11.10-1.fc42",
+        "python3.11-3.11.9-6.fc42",
+        "python3.11-3.11.9-5.fc42"
+    ]
+}

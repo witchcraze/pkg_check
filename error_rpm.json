@@ -15,12 +15,6 @@
             "python3": [
                 "kojiPackages"
             ],
-            "dotnet-sdk-8.0": [
-                "kojiPackages"
-            ],
-            "dotnet-sdk-9.0": [
-                "kojiPackages"
-            ],
             "mariadb-server": [
                 "kojiPackages"
             ],
@@ -159,8 +153,28 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ]
+        },
+        "42": {
+            "mariadb": [
+                "kojiPackages"
             ],
-            "python3": [
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql": [
+                "kojiPackages"
+            ],
+            "mysql-server": [
+                "kojiPackages"
+            ],
+            "nodejs20": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
                 "kojiPackages"
             ]
         }

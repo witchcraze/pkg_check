@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.7",
-        "Release": "1.module_el9.5.0+134+2e645600",
+        "Version": "7.2.8",
+        "Release": "1.module_el9.6.0+168+b8d8e900",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "redis-7.2.7-1.module_el9.5.0+134+2e645600.src.rpm",
+        "Source": "redis-7.2.8-1.module_el9.6.0+168+b8d8e900.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -14,10 +14,11 @@
     },
     "list": [
         "redis.x86_64                      7.0.12-1.module_el9.3.0+38+47d78df1                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
-        "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      appstream",
         "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      repo.almalinux.org_vault_9.3_AppStream_x86_64_os_",
         "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
-        "redis.x86_64                      7.2.6-1.module_el9.5.0+130+36ae7635                      appstream",
-        "redis.x86_64                      7.2.7-1.module_el9.5.0+134+2e645600                      appstream"
+        "redis.x86_64                      7.0.12-2.module_el9.3.0+56+d6a17771                      repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                      7.2.6-1.module_el9.5.0+130+36ae7635                      repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                      7.2.7-1.module_el9.5.0+134+2e645600                      repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                      7.2.8-1.module_el9.6.0+168+b8d8e900                      appstream"
     ]
 }

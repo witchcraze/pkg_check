@@ -1,0 +1,36 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "22.15.0",
+        "Release": "2.fc42",
+        "Architecture": "x86_64",
+        "Download size": "45.9 KiB",
+        "Installed size": "156.2 KiB",
+        "Source": "nodejs22-22.15.0-2.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "nodejs.i686   1:22.14.0-2.fc42 fedora",
+        "nodejs.x86_64 1:22.14.0-2.fc42 fedora",
+        "nodejs.i686   1:22.15.0-2.fc42 updates",
+        "nodejs.x86_64 1:22.15.0-2.fc42 updates"
+    ],
+    "kojiPackages": [
+        "nodejs20-20.19.2-1.fc42",
+        "nodejs20-20.19.1-1.fc42",
+        "nodejs20-20.19.0-1.fc42",
+        "nodejs20-20.18.2-2.fc42",
+        "nodejs20-20.18.2-1.fc42",
+        "nodejs20-20.18.1-2.fc42",
+        "nodejs20-20.18.1-1.fc42",
+        "nodejs20-20.18.0-2.fc42",
+        "nodejs20-20.18.0-1.fc42",
+        "nodejs20-20.17.0-1.fc42"
+    ]
+}

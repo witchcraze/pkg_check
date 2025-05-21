@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.23.7",
+        "Release": "1.el10_0",
+        "Architecture": "x86_64",
+        "Size": "672 k",
+        "Source": "golang-1.23.7-1.el10_0.src.rpm",
+        "Repository": "rhel-10-for-x86_64-appstream-rpms",
+        "Summary": "The Go Programming Language",
+        "URL": "https://go.dev",
+        "License": "BSD-3-Clause AND LicenseRef-Fedora-Public-Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.x86_64                                       1.23.1-4.el10                                          rhel-10-for-x86_64-appstream-rpms",
+        "golang.x86_64                                       1.23.7-1.el10_0                                        rhel-10-for-x86_64-appstream-rpms"
+    ]
+}

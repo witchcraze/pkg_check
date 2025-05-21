@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "2.4.22",
-        "Release": "3.el9_5.1",
+        "Release": "4.el9",
         "Architecture": "x86_64",
         "Size": "2.3 M",
-        "Source": "haproxy-2.4.22-3.el9_5.1.src.rpm",
+        "Source": "haproxy-2.4.22-4.el9.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -26,6 +26,8 @@
         "haproxy.src                     2.4.22-3.el9_3                     ol9_appstream",
         "haproxy.x86_64                  2.4.22-3.el9_3                     ol9_appstream",
         "haproxy.src                     2.4.22-3.el9_5.1                   ol9_appstream",
-        "haproxy.x86_64                  2.4.22-3.el9_5.1                   ol9_appstream"
+        "haproxy.x86_64                  2.4.22-3.el9_5.1                   ol9_appstream",
+        "haproxy.src                     2.4.22-4.el9                       ol9_appstream",
+        "haproxy.x86_64                  2.4.22-4.el9                       ol9_appstream"
     ]
 }

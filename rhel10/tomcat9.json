@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "tomcat9",
+        "Epoch": "1",
+        "Version": "9.0.87",
+        "Release": "5.el10_0",
+        "Architecture": "noarch",
+        "Size": "96 k",
+        "Source": "tomcat9-9.0.87-5.el10_0.src.rpm",
+        "Repository": "rhel-10-for-x86_64-appstream-rpms",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "Apache-2.0",
+        "Description": "Tomcat is the servlet container that is used in the official Reference"
+    },
+    "list": [
+        "tomcat9.noarch                                      1:9.0.87-4.el10                                        rhel-10-for-x86_64-appstream-rpms",
+        "tomcat9.noarch                                      1:9.0.87-5.el10_0                                      rhel-10-for-x86_64-appstream-rpms"
+    ]
+}

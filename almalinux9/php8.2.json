@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.25",
-        "Release": "1.module_el9.5.0+132+adb0ae7a",
+        "Version": "8.2.28",
+        "Release": "1.module_el9.6.0+165+cf879a7c",
         "Architecture": "x86_64",
         "Size": "7.6 k",
-        "Source": "php-8.2.25-1.module_el9.5.0+132+adb0ae7a.src.rpm",
+        "Source": "php-8.2.28-1.module_el9.6.0+165+cf879a7c.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,8 +13,9 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64                      8.2.13-1.module_el9.4.0+65+49ff6472                        appstream",
         "php.x86_64                      8.2.13-1.module_el9.4.0+65+49ff6472                        repo.almalinux.org_vault_9.4_AppStream_x86_64_os_",
-        "php.x86_64                      8.2.25-1.module_el9.5.0+132+adb0ae7a                       appstream"
+        "php.x86_64                      8.2.13-1.module_el9.4.0+65+49ff6472                        repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "php.x86_64                      8.2.25-1.module_el9.5.0+132+adb0ae7a                       repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "php.x86_64                      8.2.28-1.module_el9.6.0+165+cf879a7c                       appstream"
     ]
 }

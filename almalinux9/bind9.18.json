@@ -3,10 +3,10 @@
         "Name": "bind9.18",
         "Epoch": "32",
         "Version": "9.18.29",
-        "Release": "1.el9_5.1",
+        "Release": "3.el9_6",
         "Architecture": "x86_64",
-        "Size": "518 k",
-        "Source": "bind9.18-9.18.29-1.el9_5.1.src.rpm",
+        "Size": "516 k",
+        "Source": "bind9.18-9.18.29-3.el9_6.src.rpm",
         "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -14,7 +14,8 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind9.18.x86_64                                                32:9.18.29-1.el9                                                    appstream",
-        "bind9.18.x86_64                                                32:9.18.29-1.el9_5.1                                                appstream"
+        "bind9.18.x86_64                            32:9.18.29-1.el9                                repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "bind9.18.x86_64                            32:9.18.29-1.el9_5.1                            repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "bind9.18.x86_64                            32:9.18.29-3.el9_6                              appstream"
     ]
 }

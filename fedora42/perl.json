@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "perl",
+        "Epoch": "4",
+        "Version": "5.40.2",
+        "Release": "517.fc42",
+        "Architecture": "x86_64",
+        "Download size": "13.9 KiB",
+        "Installed size": "0.0   B",
+        "Source": "perl-5.40.2-517.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "Practical Extraction and Report Language",
+        "URL": "https://www.perl.org/",
+        "License": "GPL-1.0-or-later OR Artistic-1.0-Perl",
+        "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "perl.x86_64 4:5.40.1-515.fc42 fedora",
+        "perl.x86_64 4:5.40.2-517.fc42 updates"
+    ],
+    "kojiPackages": [
+        "perl-5.40.2-517.fc42app2",
+        "perl-5.40.2-517.fc42",
+        "perl-5.40.2-516.fc42",
+        "perl-5.40.1-515.fc42app1",
+        "perl-5.40.1-515.fc42",
+        "perl-5.40.0-514.fc42",
+        "perl-5.40.0-513.fc42",
+        "perl-5.40.0-512.fc42"
+    ]
+}

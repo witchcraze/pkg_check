@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "openssl",
+        "Epoch": "1",
+        "Version": "3.2.2",
+        "Release": "16.el10",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "openssl-3.2.2-16.el10.src.rpm",
+        "Repository": "rhel-10-for-x86_64-baseos-rpms",
+        "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
+        "URL": "http://www.openssl.org/",
+        "License": "Apache-2.0",
+        "Description": "The OpenSSL toolkit provides support for secure communications between"
+    },
+    "list": [
+        "openssl.x86_64                                        1:3.2.2-16.el10                                         rhel-10-for-x86_64-baseos-rpms"
+    ]
+}

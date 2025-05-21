@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Epoch": "0",
+        "Version": "1.6.37",
+        "Release": "2.fc42",
+        "Architecture": "x86_64",
+        "Download size": "190.4 KiB",
+        "Installed size": "475.9 KiB",
+        "Source": "memcached-1.6.37-2.fc42.src.rpm",
+        "Repository": "fedora",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD-3-clause AND Zlib AND BSD-2-Clause AND LicenseRef-Fedora-Public-Domain",
+        "Description": "memcached is a high-performance, distributed memory object caching",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "memcached.x86_64 1.6.37-2.fc42 fedora"
+    ],
+    "kojiPackages": [
+        "memcached-1.6.37-2.fc42",
+        "memcached-1.6.37-1.fc42",
+        "memcached-1.6.32-2.fc42",
+        "memcached-1.6.32-1.fc42"
+    ]
+}

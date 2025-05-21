@@ -3,10 +3,10 @@
         "Name": "nodejs22",
         "Epoch": "1",
         "Version": "22.14.0",
-        "Release": "1.amzn2023.0.1",
+        "Release": "1.amzn2023.0.2",
         "Architecture": "x86_64",
-        "Size": "49 k",
-        "Source": "nodejs22-22.14.0-1.amzn2023.0.1.src.rpm",
+        "Size": "48 k",
+        "Source": "nodejs22-22.14.0-1.amzn2023.0.2.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,6 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs22.x86_64               1:22.14.0-1.amzn2023.0.1               amazonlinux"
+        "nodejs22.x86_64               1:22.14.0-1.amzn2023.0.1               amazonlinux",
+        "nodejs22.x86_64               1:22.14.0-1.amzn2023.0.2               amazonlinux"
     ]
 }
