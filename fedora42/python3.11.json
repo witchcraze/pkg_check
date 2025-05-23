@@ -3,11 +3,11 @@
         "Name": "python3.11",
         "Epoch": "0",
         "Version": "3.11.12",
-        "Release": "2.fc42",
+        "Release": "3.fc42",
         "Architecture": "x86_64",
-        "Download size": "26.0 KiB",
-        "Installed size": "27.4 KiB",
-        "Source": "python3.11-3.11.12-2.fc42.src.rpm",
+        "Download size": "26.2 KiB",
+        "Installed size": "27.3 KiB",
+        "Source": "python3.11-3.11.12-3.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,8 +18,8 @@
     "list": [
         "python3.11.i686   3.11.11-5.fc42 fedora",
         "python3.11.x86_64 3.11.11-5.fc42 fedora",
-        "python3.11.i686   3.11.12-2.fc42 updates",
-        "python3.11.x86_64 3.11.12-2.fc42 updates"
+        "python3.11.i686   3.11.12-3.fc42 updates",
+        "python3.11.x86_64 3.11.12-3.fc42 updates"
     ],
     "kojiPackages": [
         "python3.11-3.11.12-3.fc42",

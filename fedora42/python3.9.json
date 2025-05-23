@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3.9",
         "Epoch": "0",
-        "Version": "3.9.21",
-        "Release": "5.fc42",
+        "Version": "3.9.22",
+        "Release": "2.fc42",
         "Architecture": "x86_64",
         "Download size": "19.1 MiB",
-        "Installed size": "89.0 MiB",
-        "Source": "python3.9-3.9.21-5.fc42.src.rpm",
+        "Installed size": "89.1 MiB",
+        "Source": "python3.9-3.9.22-2.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,8 +18,8 @@
     "list": [
         "python3.9.i686   3.9.21-4.fc42 fedora",
         "python3.9.x86_64 3.9.21-4.fc42 fedora",
-        "python3.9.i686   3.9.21-5.fc42 updates",
-        "python3.9.x86_64 3.9.21-5.fc42 updates"
+        "python3.9.i686   3.9.22-2.fc42 updates",
+        "python3.9.x86_64 3.9.22-2.fc42 updates"
     ],
     "kojiPackages": [
         "python3.9-3.9.22-2.fc42",

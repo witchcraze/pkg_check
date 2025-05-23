@@ -5,6 +5,9 @@
                 "apt-get changelog"
             ],
             "bind9": [
+                "apt-get changelog",
+                "changelog.Debian.gz",
+                "show",
                 "apt-get changelog"
             ],
             "haproxy": [
