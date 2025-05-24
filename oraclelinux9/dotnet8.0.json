@@ -33,6 +33,7 @@
         "dotnet8.0.src              8.0.113-2.0.1.el9_6                     ol9_appstream",
         "dotnet8.0.src              8.0.114-1.0.1.el9_5                     ol9_appstream",
         "dotnet8.0.src              8.0.115-1.0.1.el9_5                     ol9_appstream",
+        "dotnet8.0.src              8.0.115-2.0.1.el9_6                     ol9_appstream",
         "dotnet8.0.src              8.0.116-1.0.1.el9_6                     ol9_appstream"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.15",
-        "Release": "1.module+el9.6.0+90525+5083e899",
+        "Version": "8.3.19",
+        "Release": "1.module+el9.6.0+90584+da8065b7",
         "Architecture": "x86_64",
         "Size": "7.8 k",
-        "Source": "php-8.3.15-1.module+el9.6.0+90525+5083e899.src.rpm",
+        "Source": "php-8.3.19-1.module+el9.6.0+90584+da8065b7.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,6 +13,7 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64         8.3.15-1.module+el9.6.0+90525+5083e899          ol9_appstream"
+        "php.x86_64         8.3.15-1.module+el9.6.0+90525+5083e899          ol9_appstream",
+        "php.x86_64         8.3.19-1.module+el9.6.0+90584+da8065b7          ol9_appstream"
     ]
 }
