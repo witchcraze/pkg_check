@@ -80,6 +80,15 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ],
+            "mysql8.4": [
+                "kojiPackages"
+            ],
+            "nginx1.26": [
+                "kojiPackages"
+            ],
+            "php8.3": [
+                "kojiPackages"
             ]
         }
     },

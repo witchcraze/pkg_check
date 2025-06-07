@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mariadb-server-10.5",
-        "Version": "1:10.11.11-0ubuntu0.24.04.2",
+        "Version": "1:10.11.13-0ubuntu0.24.04.1",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "mariadb",
@@ -17,10 +17,11 @@
         "Description": "MariaDB database server binaries (transitional dummy package)"
     },
     "list": [
-        "mariadb-server-10.5/noble-updates,noble-security 1:10.11.11-0ubuntu0.24.04.2 amd64",
+        "mariadb-server-10.5/noble-updates,noble-security 1:10.11.13-0ubuntu0.24.04.1 amd64",
         "mariadb-server-10.5/noble 1:10.11.7-2ubuntu2 amd64"
     ],
     "changelog": [
+        "mariadb (1:10.11.13-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "mariadb (1:10.11.11-0ubuntu0.24.04.2) noble-security; urgency=medium",
         "mariadb (1:10.11.11-0ubuntu0.24.04.1) noble-security; urgency=medium",
         "mariadb (1:10.11.8-0ubuntu0.24.04.1) noble-security; urgency=medium",
@@ -185,6 +186,7 @@
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "1:10.11.13-0ubuntu0.24.04.1",
         "1:10.11.11-0ubuntu0.24.04.2",
         "1:10.11.8-0ubuntu0.24.04.1",
         "1:10.11.7-2ubuntu2",

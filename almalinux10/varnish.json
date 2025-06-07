@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "varnish",
+        "Version": "7.6.1",
+        "Release": "2.el10",
+        "Architecture": "x86_64",
+        "Size": "1.1 M",
+        "Source": "varnish-7.6.1-2.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "High-performance HTTP accelerator",
+        "URL": "https://www.varnish-cache.org/",
+        "License": "BSD-2-Clause AND (BSD-2-Clause-FreeBSD AND BSD-3-Clause AND LicenseRef-Fedora-Public-Domain AND Zlib)",
+        "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
+    },
+    "list": [
+        "varnish.x86_64                                                    7.6.1-2.el10                                                     appstream"
+    ]
+}

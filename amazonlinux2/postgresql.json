@@ -3,7 +3,7 @@
         "Name": "postgresql",
         "Arch": "x86_64",
         "Version": "9.2.24",
-        "Release": "8.amzn2.0.5",
+        "Release": "8.amzn2.0.6",
         "Size": "3.0 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "PostgreSQL client programs",
@@ -21,6 +21,7 @@
         "postgresql.x86_64                 9.2.24-8.amzn2.0.2                  amzn2-core",
         "postgresql.x86_64                 9.2.24-8.amzn2.0.3                  amzn2-core",
         "postgresql.x86_64                 9.2.24-8.amzn2.0.4                  amzn2-core",
-        "postgresql.x86_64                 9.2.24-8.amzn2.0.5                  amzn2-core"
+        "postgresql.x86_64                 9.2.24-8.amzn2.0.5                  amzn2-core",
+        "postgresql.x86_64                 9.2.24-8.amzn2.0.6                  amzn2-core"
     ]
 }

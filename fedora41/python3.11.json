@@ -22,6 +22,7 @@
         "python3.11.x86_64 3.11.12-3.fc41 updates"
     ],
     "kojiPackages": [
+        "python3.11-3.11.13-1.fc41",
         "python3.11-3.11.12-3.fc41",
         "python3.11-3.11.12-2.fc41",
         "python3.11-3.11.12-1.fc41",

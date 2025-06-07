@@ -2,10 +2,10 @@
     "info": {
         "Name": "varnish",
         "Version": "6.6.2",
-        "Release": "6.el9",
+        "Release": "6.el9_6.1",
         "Architecture": "x86_64",
         "Size": "1.0 M",
-        "Source": "varnish-6.6.2-6.el9.src.rpm",
+        "Source": "varnish-6.6.2-6.el9_6.1.src.rpm",
         "Repository": "appstream",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
@@ -13,8 +13,8 @@
         "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
     },
     "list": [
-        "varnish.i686                         6.6.2-6.el9                       appstream",
-        "varnish.x86_64                       6.6.2-6.el9                       appstream"
+        "varnish.i686                       6.6.2-6.el9_6.1                     appstream",
+        "varnish.x86_64                     6.6.2-6.el9_6.1                     appstream"
     ],
     "kojiPackages": [
         "varnish-6.6.2-6.el9",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.115",
+        "Version": "8.0.116",
         "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "88 M",
-        "Source": "dotnet8.0-8.0.115-2.el10.src.rpm",
+        "Source": "dotnet8.0-8.0.116-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,11 +13,11 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-8.0.x86_64                  8.0.108-2.el10                  appstream",
         "dotnet-sdk-8.0.x86_64                  8.0.110-3.el10                  appstream",
         "dotnet-sdk-8.0.x86_64                  8.0.112-2.el10                  appstream",
         "dotnet-sdk-8.0.x86_64                  8.0.113-2.el10                  appstream",
-        "dotnet-sdk-8.0.x86_64                  8.0.115-2.el10                  appstream"
+        "dotnet-sdk-8.0.x86_64                  8.0.115-2.el10                  appstream",
+        "dotnet-sdk-8.0.x86_64                  8.0.116-2.el10                  appstream"
     ],
     "kojiPackages": [
         "dotnet8.0-8.0.116-2.el10",

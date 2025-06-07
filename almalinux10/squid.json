@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "squid",
+        "Epoch": "7",
+        "Version": "6.10",
+        "Release": "5.el10",
+        "Architecture": "x86_64",
+        "Size": "3.9 M",
+        "Source": "squid-6.10-5.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Squid proxy caching server",
+        "URL": "http://www.squid-cache.org",
+        "License": "GPL-2.0-or-later AND (LGPL-2.0-or-later AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause AND BSD-4-Clause-UC AND LicenseRef-Fedora-Public-Domain AND Beerware)",
+        "Description": "Squid is a high-performance proxy caching server for Web clients,"
+    },
+    "list": [
+        "squid.x86_64                                                     7:6.10-5.el10                                                     appstream"
+    ]
+}

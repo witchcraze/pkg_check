@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "tomcat9",
-        "Version": "9.0.16-3ubuntu0.18.04.2+esm5",
+        "Version": "9.0.16-3ubuntu0.18.04.2+esm6",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "307 kB",
-        "Depends": "lsb-base (>= 3.0-6), systemd (>= 215), tomcat9-common (>= 9.0.16-3ubuntu0.18.04.2+esm5), ucf",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 215), tomcat9-common (>= 9.0.16-3ubuntu0.18.04.2+esm6), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat9-admin (>= 9.0.16-3ubuntu0.18.04.2+esm5), tomcat9-docs (>= 9.0.16-3ubuntu0.18.04.2+esm5), tomcat9-examples (>= 9.0.16-3ubuntu0.18.04.2+esm5), tomcat9-user (>= 9.0.16-3ubuntu0.18.04.2+esm5)",
+        "Suggests": "tomcat9-admin (>= 9.0.16-3ubuntu0.18.04.2+esm6), tomcat9-docs (>= 9.0.16-3ubuntu0.18.04.2+esm6), tomcat9-examples (>= 9.0.16-3ubuntu0.18.04.2+esm6), tomcat9-user (>= 9.0.16-3ubuntu0.18.04.2+esm6)",
         "Download-Size": "35.9 kB",
         "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/bionic-apps-security 9.0.16-3ubuntu0.18.04.2+esm5 all",
+        "tomcat9/bionic-apps-security 9.0.16-3ubuntu0.18.04.2+esm6 all",
         "tomcat9/bionic-updates,bionic-security 9.0.16-3ubuntu0.18.04.2 all"
     ],
     "changelog": [
+        "tomcat9 (9.0.16-3ubuntu0.18.04.2+esm6) bionic-security; urgency=medium",
         "tomcat9 (9.0.16-3ubuntu0.18.04.2+esm5) bionic-security; urgency=medium",
         "tomcat9 (9.0.16-3ubuntu0.18.04.2+esm4) bionic-security; urgency=medium",
         "tomcat9 (9.0.16-3ubuntu0.18.04.2+esm3) bionic-security; urgency=medium",
@@ -27,8 +28,7 @@
         "tomcat9 (9.0.16-3ubuntu0.18.04.2) bionic-security; urgency=medium",
         "tomcat9 (9.0.16-3ubuntu0.18.04.1) bionic-security; urgency=medium",
         "tomcat9 (9.0.16-3~18.04.1) bionic; urgency=medium",
-        "tomcat9 (9.0.16-3~18.04) bionic; urgency=medium",
-        "tomcat9 (9.0.16-3) unstable; urgency=medium"
+        "tomcat9 (9.0.16-3~18.04) bionic; urgency=medium"
     ],
     "publishinghistory": []
 }

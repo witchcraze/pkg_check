@@ -2,12 +2,12 @@
     "info": {
         "Name": "nodejs20",
         "Epoch": "1",
-        "Version": "20.19.1",
+        "Version": "20.19.2",
         "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "50.0 KiB",
-        "Installed size": "149.3 KiB",
-        "Source": "nodejs20-20.19.1-1.fc42.src.rpm",
+        "Download size": "49.4 KiB",
+        "Installed size": "149.4 KiB",
+        "Source": "nodejs20-20.19.2-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -18,7 +18,7 @@
     "list": [
         "nodejs20.i686   1:20.18.2-2.fc42 fedora",
         "nodejs20.x86_64 1:20.18.2-2.fc42 fedora",
-        "nodejs20.i686   1:20.19.1-1.fc42 updates",
-        "nodejs20.x86_64 1:20.19.1-1.fc42 updates"
+        "nodejs20.i686   1:20.19.2-1.fc42 updates",
+        "nodejs20.x86_64 1:20.19.2-1.fc42 updates"
     ]
 }

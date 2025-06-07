@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.37",
-        "Release": "65.module+el8.10.0+22756+938009b1.3",
+        "Release": "65.module+el8.10.0+23042+b3baf0f4.4",
         "Architecture": "x86_64",
         "Size": "1.4 M",
-        "Source": "httpd-2.4.37-65.module+el8.10.0+22756+938009b1.3.src.rpm",
+        "Source": "httpd-2.4.37-65.module+el8.10.0+23042+b3baf0f4.4.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -40,6 +40,7 @@
         "httpd.x86_64                           2.4.37-65.module+el8.10.0+21982+14717793                             rhel-8-for-x86_64-appstream-rpms",
         "httpd.x86_64                           2.4.37-65.module+el8.10.0+22069+b47f5c72.1                           rhel-8-for-x86_64-appstream-rpms",
         "httpd.x86_64                           2.4.37-65.module+el8.10.0+22196+d82931da.2                           rhel-8-for-x86_64-appstream-rpms",
-        "httpd.x86_64                           2.4.37-65.module+el8.10.0+22756+938009b1.3                           rhel-8-for-x86_64-appstream-rpms"
+        "httpd.x86_64                           2.4.37-65.module+el8.10.0+22756+938009b1.3                           rhel-8-for-x86_64-appstream-rpms",
+        "httpd.x86_64                           2.4.37-65.module+el8.10.0+23042+b3baf0f4.4                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

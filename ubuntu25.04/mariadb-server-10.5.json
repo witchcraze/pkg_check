@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "mariadb-server-10.5",
-        "Version": "1:11.4.5-1",
+        "Version": "1:11.4.7-0ubuntu0.25.04.1",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "mariadb",
@@ -9,17 +9,19 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian MySQL Maintainers <pkg-mysql-maint@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "60.4 kB",
+        "Installed-Size": "61.4 kB",
         "Depends": "mariadb-server (>= 1:11.4)",
         "Homepage": "https://mariadb.org/",
         "Download-Size": "11.7 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries (transitional dummy package)"
     },
     "list": [
+        "mariadb-server-10.5/plucky-updates,plucky-security 1:11.4.7-0ubuntu0.25.04.1 amd64",
         "mariadb-server-10.5/plucky 1:11.4.5-1 amd64"
     ],
     "changelog": [
+        "mariadb (1:11.4.7-0ubuntu0.25.04.1) plucky-security; urgency=medium",
         "mariadb (1:11.4.5-1) unstable; urgency=medium",
         "mariadb (1:11.4.4-3) unstable; urgency=medium",
         "mariadb (1:11.4.4-2) unstable; urgency=medium",
@@ -189,6 +191,7 @@
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "1:11.4.7-0ubuntu0.25.04.1",
         "1:11.4.5-1",
         "1:11.4.4-3",
         "1:11.4.4-2",

@@ -1,11 +1,11 @@
 {
     "show": {
         "Package": "varnish",
-        "Version": "6.5.1-1+deb11u4",
+        "Version": "6.5.1-1+deb11u5",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Varnish Package Maintainers <team+varnish-team@tracker.debian.org>",
-        "Installed-Size": "2782 kB",
+        "Installed-Size": "2786 kB",
         "Provides": "varnishabi-12.0, varnishabi-strict-1dae23376bb5ea7a6b8e9e4b9ed95cdc9469fb64",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
         "Depends": "libc6 (>= 2.29), libedit2 (>= 2.11-20080614-0), libjemalloc2 (>= 2.1.1), libncursesw6 (>= 6), libpcre3, libtinfo6 (>= 6), libvarnishapi2 (>= 6.5.0), adduser, gcc, libc6-dev | libc6.1-dev | libc-dev, lsb-base",
@@ -16,10 +16,11 @@
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
-        "varnish/oldstable-security 6.5.1-1+deb11u4 amd64",
+        "varnish/oldstable-security 6.5.1-1+deb11u5 amd64",
         "varnish/oldstable 6.5.1-1+deb11u3 amd64"
     ],
     "changelog": [
+        "varnish (6.5.1-1+deb11u5) bullseye-security; urgency=high",
         "varnish (6.5.1-1+deb11u4) bullseye-security; urgency=medium",
         "varnish (6.5.1-1+deb11u3) bullseye-security; urgency=high",
         "varnish (6.5.1-1+deb11u2) bullseye-security; urgency=medium",

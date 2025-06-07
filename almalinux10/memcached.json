@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "memcached",
+        "Version": "1.6.23",
+        "Release": "7.el10",
+        "Architecture": "x86_64",
+        "Size": "189 k",
+        "Source": "memcached-1.6.23-7.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "High Performance, Distributed Memory Object Cache",
+        "URL": "https://www.memcached.org/",
+        "License": "BSD-3-clause AND Zlib AND BSD-2-Clause AND LicenseRef-Fedora-Public-Domain",
+        "Description": "memcached is a high-performance, distributed memory object caching"
+    },
+    "list": [
+        "memcached.x86_64                                                   1.6.23-7.el10                                                   appstream"
+    ]
+}

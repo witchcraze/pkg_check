@@ -2,11 +2,11 @@
     "info": {
         "Name": "varnish",
         "Version": "6.0.13",
-        "Release": "1.module_el8.9.0+3826+307eaba4.alma.1",
+        "Release": "1.module_el8.10.0+4003+9759c3c1.1",
         "Architecture": "x86_64",
         "Size": "994 k",
-        "Source": "varnish-6.0.13-1.module_el8.9.0+3826+307eaba4.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Source": "varnish-6.0.13-1.module_el8.10.0+4003+9759c3c1.1.src.rpm",
+        "Repository": "appstream",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
         "License": "BSD",
@@ -22,10 +22,12 @@
         "varnish.x86_64                6.0.8-1.module_el8.5.0+2620+03a0c2cc.1                       repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "varnish.x86_64                6.0.8-2.module_el8.7.0+3353+b11d8f2f.1                       repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "varnish.x86_64                6.0.8-2.module_el8.7.0+3353+b11d8f2f.1                       repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
+        "varnish.x86_64                6.0.8-2.module_el8.10.0+4001+06e20beb.1                      appstream",
         "varnish.x86_64                6.0.8-3.module_el8.8.0+3665+0b8dabc5.1.alma.1                repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "varnish.x86_64                6.0.8-3.module_el8.8.0+3665+0b8dabc5.1.alma.1                repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "varnish.x86_64                6.0.13-1.module_el8.9.0+3786+e8a73bbf.alma.1                 repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "varnish.x86_64                6.0.13-1.module_el8.9.0+3826+307eaba4.alma.1                 appstream",
-        "varnish.x86_64                6.0.13-1.module_el8.9.0+3826+307eaba4.alma.1                 repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "varnish.x86_64                6.0.13-1.module_el8.9.0+3826+307eaba4.alma.1                 repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "varnish.x86_64                6.0.13-1.module_el8.10.0+4003+9759c3c1.1                     appstream"
     ]
 }
