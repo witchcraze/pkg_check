@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-8.0",
-        "Version": "8.0.116",
+        "Version": "8.0.117",
         "Release": "1.0.1.el9_6",
         "Architecture": "x86_64",
         "Size": "90 M",
-        "Source": "dotnet8.0-8.0.116-1.0.1.el9_6.src.rpm",
+        "Source": "dotnet8.0-8.0.117-1.0.1.el9_6.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -34,6 +34,7 @@
         "dotnet-sdk-8.0.x86_64          8.0.114-1.0.1.el9_5                 ol9_appstream",
         "dotnet-sdk-8.0.x86_64          8.0.115-1.0.1.el9_5                 ol9_appstream",
         "dotnet-sdk-8.0.x86_64          8.0.115-2.0.1.el9_6                 ol9_appstream",
-        "dotnet-sdk-8.0.x86_64          8.0.116-1.0.1.el9_6                 ol9_appstream"
+        "dotnet-sdk-8.0.x86_64          8.0.116-1.0.1.el9_6                 ol9_appstream",
+        "dotnet-sdk-8.0.x86_64          8.0.117-1.0.1.el9_6                 ol9_appstream"
     ]
 }

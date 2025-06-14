@@ -2,12 +2,12 @@
     "info": {
         "Name": "php",
         "Epoch": "0",
-        "Version": "8.4.7",
+        "Version": "8.4.8",
         "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "14.1 KiB",
+        "Download size": "14.0 KiB",
         "Installed size": "0.0   B",
-        "Source": "php-8.4.7-1.fc42.src.rpm",
+        "Source": "php-8.4.8-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "php.x86_64 8.4.5-1.fc42 fedora",
-        "php.x86_64 8.4.7-1.fc42 updates"
+        "php.x86_64 8.4.8-1.fc42 updates"
     ],
     "kojiPackages": [
         "php-8.4.8-1.fc42",

@@ -12,8 +12,8 @@
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited"
     },
     "list": [
-        "haproxy.x86_64                     1.5.18-6.amzn2                     amzn2-core",
-        "haproxy.x86_64                     1.5.18-7.amzn2                     amzn2-core",
-        "haproxy.x86_64                     1.5.18-9.amzn2                     amzn2-core"
+        "haproxy.x86_64                                                   1.5.18-6.amzn2                                                   amzn2-core",
+        "haproxy.x86_64                                                   1.5.18-7.amzn2                                                   amzn2-core",
+        "haproxy.x86_64                                                   1.5.18-9.amzn2                                                   amzn2-core"
     ]
 }

@@ -2,23 +2,31 @@
     "info": {
         "Name": "mariadb-server",
         "Arch": "x86_64",
-        "Epoch": "1",
-        "Version": "5.5.68",
+        "Epoch": "3",
+        "Version": "10.5.29",
         "Release": "1.amzn2.0.1",
-        "Size": "11 M",
-        "Repo": "amzn2-core/2/x86_64",
+        "Size": "19 M",
+        "Repo": "amzn2extra-mariadb10.5/2/x86_64",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
-        "License": "GPLv2 with exceptions and LGPLv2 and BSD",
+        "License": "GPLv2 and LGPLv2",
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is"
     },
     "list": [
-        "mariadb-server.x86_64              1:5.5.56-2.amzn2                   amzn2-core",
-        "mariadb-server.x86_64              1:5.5.56-2.amzn2.0.2               amzn2-core",
-        "mariadb-server.x86_64              1:5.5.60-1.amzn2                   amzn2-core",
-        "mariadb-server.x86_64              1:5.5.62-1.amzn2.0.1               amzn2-core",
-        "mariadb-server.x86_64              1:5.5.64-1.amzn2                   amzn2-core",
-        "mariadb-server.x86_64              1:5.5.68-1.amzn2                   amzn2-core",
-        "mariadb-server.x86_64              1:5.5.68-1.amzn2.0.1               amzn2-core"
+        "mariadb-server.x86_64                                      1:5.5.56-2.amzn2                                           amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.56-2.amzn2.0.2                                       amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.60-1.amzn2                                           amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.62-1.amzn2.0.1                                       amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.64-1.amzn2                                           amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.68-1.amzn2                                           amzn2-core",
+        "mariadb-server.x86_64                                      1:5.5.68-1.amzn2.0.1                                       amzn2-core",
+        "mariadb-server.x86_64                                      3:10.5.8-1.amzn2.0.2                                       amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.9-1.amzn2.0.1                                       amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.10-2.amzn2.0.1                                      amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.10-2.amzn2.0.2                                      amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.18-1.amzn2                                          amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.23-1.amzn2                                          amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.25-1.amzn2                                          amzn2extra-mariadb10.5",
+        "mariadb-server.x86_64                                      3:10.5.29-1.amzn2.0.1                                      amzn2extra-mariadb10.5"
     ]
 }

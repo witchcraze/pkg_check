@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3.10",
         "Epoch": "0",
-        "Version": "3.10.17",
-        "Release": "3.fc42",
+        "Version": "3.10.18",
+        "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "25.9 KiB",
         "Installed size": "28.4 KiB",
-        "Source": "python3.10-3.10.17-3.fc42.src.rpm",
+        "Source": "python3.10-3.10.18-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.10 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,8 +18,8 @@
     "list": [
         "python3.10.i686   3.10.16-5.fc42 fedora",
         "python3.10.x86_64 3.10.16-5.fc42 fedora",
-        "python3.10.i686   3.10.17-3.fc42 updates",
-        "python3.10.x86_64 3.10.17-3.fc42 updates"
+        "python3.10.i686   3.10.18-1.fc42 updates",
+        "python3.10.x86_64 3.10.18-1.fc42 updates"
     ],
     "kojiPackages": [
         "python3.10-3.10.18-1.fc42",

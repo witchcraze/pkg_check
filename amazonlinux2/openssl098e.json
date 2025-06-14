@@ -12,8 +12,8 @@
         "Description": "The OpenSSL toolkit provides support for secure communications"
     },
     "list": [
-        "openssl098e.x86_64                0.9.8e-29.amzn2.3                   amzn2-core",
-        "openssl098e.i686                  0.9.8e-29.amzn2.3.2                 amzn2-core",
-        "openssl098e.x86_64                0.9.8e-29.amzn2.3.2                 amzn2-core"
+        "openssl098e.x86_64                                              0.9.8e-29.amzn2.3                                                 amzn2-core",
+        "openssl098e.i686                                                0.9.8e-29.amzn2.3.2                                               amzn2-core",
+        "openssl098e.x86_64                                              0.9.8e-29.amzn2.3.2                                               amzn2-core"
     ]
 }

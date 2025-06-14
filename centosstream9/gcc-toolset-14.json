@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc-toolset-14",
         "Version": "14.0",
-        "Release": "1.el9",
+        "Release": "2.el9",
         "Architecture": "x86_64",
         "Size": "10 k",
-        "Source": "gcc-toolset-14-14.0-1.el9.src.rpm",
+        "Source": "gcc-toolset-14-14.0-2.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Package that installs gcc-toolset-14",
         "License": "GPLv2+",
@@ -13,7 +13,8 @@
     },
     "list": [
         "gcc-toolset-14.x86_64                    14.0-0.el9                    appstream",
-        "gcc-toolset-14.x86_64                    14.0-1.el9                    appstream"
+        "gcc-toolset-14.x86_64                    14.0-1.el9                    appstream",
+        "gcc-toolset-14.x86_64                    14.0-2.el9                    appstream"
     ],
     "kojiPackages": [
         "gcc-toolset-14-14.0-2.el9",

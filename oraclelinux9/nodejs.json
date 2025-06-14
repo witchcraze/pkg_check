@@ -52,6 +52,7 @@
         "nodejs.src         1:18.20.4-1.module+el9.4.0+90400+35c5e203       ol9_appstream",
         "nodejs.src         1:18.20.6-1.module+el9.5.0+90514+74072e0a       ol9_appstream",
         "nodejs.src         1:18.20.6-2.module+el9.5.0+90566+16ffaf2c       ol9_appstream",
+        "nodejs.src         1:18.20.8-1.module+el9.6.0+90614+f11b29ab       ol9_appstream",
         "nodejs.src         1:20.8.1-1.module+el9.3.0+90066+12d4a8d7        ol9_appstream",
         "nodejs.src         1:20.9.0-1.module+el9.3.0+90089+a72215ac        ol9_appstream",
         "nodejs.src         1:20.11.0-1.module+el9.3.0+90166+65065e89       ol9_appstream",

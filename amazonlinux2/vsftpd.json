@@ -12,9 +12,9 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                   3.0.2-22.amzn2                        amzn2-core",
-        "vsftpd.x86_64                   3.0.2-22.amzn2.0.1                    amzn2-core",
-        "vsftpd.x86_64                   3.0.2-25.amzn2                        amzn2-core",
-        "vsftpd.x86_64                   3.0.2-25.amzn2.0.1                    amzn2-core"
+        "vsftpd.x86_64                                                 3.0.2-22.amzn2                                                      amzn2-core",
+        "vsftpd.x86_64                                                 3.0.2-22.amzn2.0.1                                                  amzn2-core",
+        "vsftpd.x86_64                                                 3.0.2-25.amzn2                                                      amzn2-core",
+        "vsftpd.x86_64                                                 3.0.2-25.amzn2.0.1                                                  amzn2-core"
     ]
 }
