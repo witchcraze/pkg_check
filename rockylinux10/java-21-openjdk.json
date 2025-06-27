@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "java-21-openjdk",
+        "Epoch": "1",
+        "Version": "21.0.7.0.6",
+        "Release": "2.el10",
+        "Architecture": "x86_64",
+        "Size": "434 k",
+        "Source": "java-21-openjdk-21.0.7.0.6-2.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "OpenJDK 21 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
+        "Description": "The OpenJDK 21 runtime environment."
+    },
+    "list": [
+        "java-21-openjdk.x86_64               1:21.0.7.0.6-2.el10               appstream"
+    ],
+    "kojiPackages": [
+        "java-21-openjdk-21.0.7.0.6-2.el10",
+        "java-21-openjdk-21.0.7.0.6-1.el10",
+        "java-21-openjdk-21.0.6.0.7-3.el10",
+        "java-21-openjdk-21.0.6.0.7-2.el10",
+        "java-21-openjdk-21.0.5.0.11-5.el10",
+        "java-21-openjdk-21.0.6.0.7-1.el10",
+        "java-21-openjdk-21.0.5.0.11-4.el10",
+        "java-21-openjdk-21.0.5.0.11-2.el10",
+        "java-21-openjdk-21.0.4.0.7-1.el10",
+        "java-21-openjdk-21.0.3.0.9-1.el10",
+        "java-21-openjdk-21.0.2.0.13-1.el10"
+    ]
+}

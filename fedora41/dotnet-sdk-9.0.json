@@ -2,12 +2,12 @@
     "info": {
         "Name": "dotnet-sdk-9.0",
         "Epoch": "0",
-        "Version": "9.0.106",
+        "Version": "9.0.107",
         "Release": "1.fc41",
         "Architecture": "x86_64",
         "Download size": "81.5 MiB",
         "Installed size": "279.8 MiB",
-        "Source": "dotnet9.0-9.0.106-1.fc41.src.rpm",
+        "Source": "dotnet9.0-9.0.107-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "dotnet-sdk-9.0.x86_64 9.0.100~rc.1.24452.1-0.11.fc41 fedora",
-        "dotnet-sdk-9.0.x86_64 9.0.106-1.fc41                 updates"
+        "dotnet-sdk-9.0.x86_64 9.0.107-1.fc41                 updates"
     ],
     "kojiPackages": [
         "dotnet9.0-9.0.107-1.fc41",

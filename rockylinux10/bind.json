@@ -1,0 +1,28 @@
+{
+    "info": {
+        "Name": "bind",
+        "Epoch": "32",
+        "Version": "9.18.33",
+        "Release": "3.el10",
+        "Architecture": "x86_64",
+        "Size": "333 k",
+        "Source": "bind-9.18.33-3.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
+        "URL": "https://www.isc.org/downloads/bind/",
+        "License": "MPL-2.0 AND ISC AND MIT AND BSD-3-Clause AND BSD-2-Clause",
+        "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
+    },
+    "list": [
+        "bind.x86_64                     32:9.18.33-3.el10                      appstream"
+    ],
+    "kojiPackages": [
+        "bind-9.18.33-4.el10_0",
+        "bind-9.18.33-3.el10",
+        "bind-9.18.33-2.el10",
+        "bind-9.18.21-7.el10",
+        "bind-9.18.21-6.el10",
+        "bind-9.18.21-5.el10",
+        "bind-9.18.21-4.el10"
+    ]
+}

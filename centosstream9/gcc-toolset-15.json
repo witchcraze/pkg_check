@@ -17,6 +17,7 @@
         "gcc-toolset-15.x86_64                    15.0-4.el9                    appstream"
     ],
     "kojiPackages": [
+        "gcc-toolset-15-15.0-9.el9",
         "gcc-toolset-15-15.0-7.el9",
         "gcc-toolset-15-15.0-4.el9",
         "gcc-toolset-15-15.0-3.el9",

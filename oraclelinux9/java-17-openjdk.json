@@ -3,10 +3,10 @@
         "Name": "java-17-openjdk",
         "Epoch": "1",
         "Version": "17.0.15.0.6",
-        "Release": "2.0.1.el9",
+        "Release": "3.0.1.el9",
         "Architecture": "x86_64",
-        "Size": "438 k",
-        "Source": "java-17-openjdk-17.0.15.0.6-2.0.1.el9.src.rpm",
+        "Size": "436 k",
+        "Source": "java-17-openjdk-17.0.15.0.6-3.0.1.el9.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -51,6 +51,8 @@
         "java-17-openjdk.src             1:17.0.14.0.7-2.0.1.el9            ol9_appstream",
         "java-17-openjdk.x86_64          1:17.0.14.0.7-2.0.1.el9            ol9_appstream",
         "java-17-openjdk.src             1:17.0.15.0.6-2.0.1.el9            ol9_appstream",
-        "java-17-openjdk.x86_64          1:17.0.15.0.6-2.0.1.el9            ol9_appstream"
+        "java-17-openjdk.x86_64          1:17.0.15.0.6-2.0.1.el9            ol9_appstream",
+        "java-17-openjdk.src             1:17.0.15.0.6-3.0.1.el9            ol9_appstream",
+        "java-17-openjdk.x86_64          1:17.0.15.0.6-3.0.1.el9            ol9_appstream"
     ]
 }

@@ -1,22 +1,23 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.18.0-6.1+deb11u4",
+        "Version": "1.18.0-6.1+deb11u5",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
-        "Installed-Size": "104 kB",
-        "Depends": "nginx-core (<< 1.18.0-6.1+deb11u4.1~) | nginx-full (<< 1.18.0-6.1+deb11u4.1~) | nginx-light (<< 1.18.0-6.1+deb11u4.1~) | nginx-extras (<< 1.18.0-6.1+deb11u4.1~), nginx-core (>= 1.18.0-6.1+deb11u4) | nginx-full (>= 1.18.0-6.1+deb11u4) | nginx-light (>= 1.18.0-6.1+deb11u4) | nginx-extras (>= 1.18.0-6.1+deb11u4)",
+        "Installed-Size": "105 kB",
+        "Depends": "nginx-core (<< 1.18.0-6.1+deb11u5.1~) | nginx-full (<< 1.18.0-6.1+deb11u5.1~) | nginx-light (<< 1.18.0-6.1+deb11u5.1~) | nginx-extras (<< 1.18.0-6.1+deb11u5.1~), nginx-core (>= 1.18.0-6.1+deb11u5) | nginx-full (>= 1.18.0-6.1+deb11u5) | nginx-light (>= 1.18.0-6.1+deb11u5) | nginx-extras (>= 1.18.0-6.1+deb11u5)",
         "Homepage": "https://nginx.net",
-        "Download-Size": "93.1 kB",
+        "Download-Size": "93.3 kB",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/oldstable-security 1.18.0-6.1+deb11u4 all",
+        "nginx/oldstable-security 1.18.0-6.1+deb11u5 all",
         "nginx/oldstable 1.18.0-6.1+deb11u3 all"
     ],
     "changelog": [
+        "nginx (1.18.0-6.1+deb11u5) bullseye-security; urgency=high",
         "nginx (1.18.0-6.1+deb11u4) bullseye-security; urgency=high",
         "nginx (1.18.0-6.1+deb11u3) bullseye-security; urgency=medium",
         "nginx (1.18.0-6.1+deb11u2) bullseye; urgency=medium",

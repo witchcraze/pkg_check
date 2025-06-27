@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "golang-1.22",
-        "Version": "1.22.8-1",
+        "Version": "1.22.8-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
@@ -9,16 +9,18 @@
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "33.8 kB",
-        "Depends": "golang-1.22-doc (>= 1.22.8-1), golang-1.22-go (>= 1.22.8-1), golang-1.22-src (>= 1.22.8-1)",
+        "Depends": "golang-1.22-doc (>= 1.22.8-1ubuntu0.1), golang-1.22-go (>= 1.22.8-1ubuntu0.1), golang-1.22-src (>= 1.22.8-1ubuntu0.1)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5690 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular/universe amd64 Packages",
+        "Download-Size": "5704 B",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
+        "golang-1.22/oracular-updates,oracular-security 1.22.8-1ubuntu0.1 all",
         "golang-1.22/oracular 1.22.8-1 all"
     ],
     "changelog": [
+        "golang-1.22 (1.22.8-1ubuntu0.1) oracular-security; urgency=medium",
         "golang-1.22 (1.22.8-1) unstable; urgency=medium",
         "golang-1.22 (1.22.7-1) unstable; urgency=medium",
         "golang-1.22 (1.22.6-1) unstable; urgency=medium",
@@ -259,6 +261,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.22.8-1ubuntu0.1",
         "1.22.8-1",
         "1.22.7-1",
         "1.22.6-1",

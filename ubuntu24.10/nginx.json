@@ -1,28 +1,31 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.26.0-2ubuntu3.2",
+        "Version": "1.26.0-2ubuntu3.3",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "60",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1574 kB",
+        "Installed-Size": "1575 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.26.0-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.26.0-2ubuntu3.2)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.26.0-2ubuntu3.3)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
-        "Download-Size": "599 kB",
+        "Download-Size": "600 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu oracular-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/oracular-updates,oracular-security 1.26.0-2ubuntu3.2 amd64",
+        "nginx/oracular-updates 1.26.0-2ubuntu3.3 amd64",
+        "nginx/oracular-security 1.26.0-2ubuntu3.2 amd64",
         "nginx/oracular 1.26.0-2ubuntu3 amd64"
     ],
     "changelog": [
+        "nginx (1.26.0-2ubuntu3.3) oracular; urgency=medium",
         "nginx (1.26.0-2ubuntu3.2) oracular-security; urgency=medium",
         "nginx (1.26.0-2ubuntu3.1) oracular; urgency=medium",
         "nginx (1.26.0-2ubuntu3) oracular; urgency=medium",

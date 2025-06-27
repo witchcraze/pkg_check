@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.20.1",
-        "Release": "22.el9_6.2",
+        "Release": "22.el9_6.3",
         "Architecture": "x86_64",
         "Size": "36 k",
-        "Source": "nginx-1.20.1-22.el9_6.2.src.rpm",
+        "Source": "nginx-1.20.1-22.el9_6.3.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,7 +14,7 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                    2:1.20.1-22.el9_6.2                    appstream"
+        "nginx.x86_64                    2:1.20.1-22.el9_6.3                    appstream"
     ],
     "kojiPackages": [
         "nginx-1.20.1-20.el9.0.1",

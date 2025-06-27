@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3.14",
         "Epoch": "0",
-        "Version": "3.14.0~b2",
-        "Release": "1.fc42",
+        "Version": "3.14.0~b3",
+        "Release": "2.fc42",
         "Architecture": "x86_64",
-        "Download size": "25.9 KiB",
-        "Installed size": "28.8 KiB",
-        "Source": "python3.14-3.14.0~b2-1.fc42.src.rpm",
+        "Download size": "26.4 KiB",
+        "Installed size": "28.9 KiB",
+        "Source": "python3.14-3.14.0~b3-2.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,10 +18,12 @@
     "list": [
         "python3.14.i686   3.14.0~a6-1.fc42 fedora",
         "python3.14.x86_64 3.14.0~a6-1.fc42 fedora",
-        "python3.14.i686   3.14.0~b2-1.fc42 updates",
-        "python3.14.x86_64 3.14.0~b2-1.fc42 updates"
+        "python3.14.i686   3.14.0~b3-2.fc42 updates",
+        "python3.14.x86_64 3.14.0~b3-2.fc42 updates"
     ],
     "kojiPackages": [
+        "python3.14-3.14.0~b3-2.fc42",
+        "python3.14-3.14.0~b3-1.fc42",
         "python3.14-3.14.0~b2-1.fc42",
         "python3.14-3.14.0~b1-1.fc42",
         "python3.14-3.14.0~a7-3.fc42",

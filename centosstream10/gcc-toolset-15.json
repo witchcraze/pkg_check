@@ -2,20 +2,22 @@
     "info": {
         "Name": "gcc-toolset-15",
         "Version": "15.0",
-        "Release": "4.el10",
+        "Release": "8.el10",
         "Architecture": "x86_64",
-        "Size": "11 k",
-        "Source": "gcc-toolset-15-15.0-4.el10.src.rpm",
+        "Size": "9.6 k",
+        "Source": "gcc-toolset-15-15.0-8.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "Package that installs gcc-toolset-15",
         "License": "GPLv2+",
-        "Description": ""
+        "Description": "This is the main package for GCC Toolset 15."
     },
     "list": [
         "gcc-toolset-15.x86_64                   15.0-3.el10                    appstream",
-        "gcc-toolset-15.x86_64                   15.0-4.el10                    appstream"
+        "gcc-toolset-15.x86_64                   15.0-4.el10                    appstream",
+        "gcc-toolset-15.x86_64                   15.0-8.el10                    appstream"
     ],
     "kojiPackages": [
+        "gcc-toolset-15-15.0-9.el10",
         "gcc-toolset-15-15.0-8.el10",
         "gcc-toolset-15-15.0-7.el10",
         "gcc-toolset-15-15.0-6.el10",

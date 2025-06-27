@@ -20,6 +20,7 @@
         "ruby.x86_64 3.4.2-23.fc42 fedora"
     ],
     "kojiPackages": [
+        "ruby-3.4.4-24.fc42",
         "ruby-3.4.2-23.fc42",
         "ruby-3.4.1-22.fc42",
         "ruby-3.4.1-21.fc42",

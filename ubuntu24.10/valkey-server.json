@@ -34,6 +34,7 @@
         "valkey (7.2.5+dfsg1-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "7.2.8+dfsg1-0ubuntu0.24.10.3",
         "7.2.8+dfsg1-0ubuntu0.24.10.2",
         "7.2.8+dfsg1-0ubuntu0.24.10.1",
         "7.2.7+dfsg1-0ubuntu0.24.10.1",

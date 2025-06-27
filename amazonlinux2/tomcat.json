@@ -2,7 +2,7 @@
     "info": {
         "Name": "tomcat",
         "Arch": "noarch",
-        "Version": "9.0.104",
+        "Version": "9.0.105",
         "Release": "1.amzn2.0.1",
         "Size": "90 k",
         "Repo": "amzn2extra-tomcat9/2/x86_64",
@@ -46,6 +46,7 @@
         "tomcat.noarch                                            9.0.98-1.amzn2.0.1                                               amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.102-1.amzn2.0.1                                              amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.102-1.amzn2.0.2                                              amzn2extra-tomcat9",
-        "tomcat.noarch                                            9.0.104-1.amzn2.0.1                                              amzn2extra-tomcat9"
+        "tomcat.noarch                                            9.0.104-1.amzn2.0.1                                              amzn2extra-tomcat9",
+        "tomcat.noarch                                            9.0.105-1.amzn2.0.1                                              amzn2extra-tomcat9"
     ]
 }
