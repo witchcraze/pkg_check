@@ -2,13 +2,13 @@
     "info": {
         "Name": "ruby",
         "Epoch": "0",
-        "Version": "3.4.2",
-        "Release": "23.fc42",
+        "Version": "3.4.4",
+        "Release": "24.fc42",
         "Architecture": "x86_64",
         "Download size": "39.4 KiB",
         "Installed size": "85.5 KiB",
-        "Source": "ruby-3.4.2-23.fc42.src.rpm",
-        "Repository": "fedora",
+        "Source": "ruby-3.4.4-24.fc42.src.rpm",
+        "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
         "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
@@ -17,7 +17,9 @@
     },
     "list": [
         "ruby.i686   3.4.2-23.fc42 fedora",
-        "ruby.x86_64 3.4.2-23.fc42 fedora"
+        "ruby.x86_64 3.4.2-23.fc42 fedora",
+        "ruby.i686   3.4.4-24.fc42 updates",
+        "ruby.x86_64 3.4.4-24.fc42 updates"
     ],
     "kojiPackages": [
         "ruby-3.4.4-24.fc42",

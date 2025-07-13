@@ -13,7 +13,10 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64           8.2.28-1.module+el9.6.0+32041+66e66fb7            appstream"
+        "php.x86_64 8.2.13-1.module+el9.4.0+20013+b017aa8e dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "php.x86_64 8.2.13-1.module+el9.4.0+20013+b017aa8e dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "php.x86_64 8.2.25-1.module+el9.5.0+29598+58484504 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "php.x86_64 8.2.28-1.module+el9.6.0+32041+66e66fb7 appstream"
     ],
     "kojiPackages": [
         "php-8.2.13-1.module+el9.4.0+20013+b017aa8e"

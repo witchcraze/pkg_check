@@ -13,7 +13,17 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64        8.0.36-1.module+el8.10.0+1676+9b4b6e24             appstream",
-        "mysql.x86_64        8.0.41-1.module+el8.10.0+1937+28fbbc83.0.1         appstream"
+        "mysql.x86_64 8.0.21-1.module+el8.3.0+242+87d3366a       dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.21-1.module+el8.3.0+242+87d3366a       dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.26-1.module+el8.4.0+652+6de068a7       dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.26-1.module+el8.4.0+652+6de068a7       dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.26-1.module+el8.4.0+652+6de068a7       dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.30-1.module+el8.6.0+1057+4d6a1721      dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.30-1.module+el8.6.0+1057+4d6a1721      dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.36-1.module+el8.9.0+1729+481e3b0b.0.1  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "mysql.x86_64 8.0.36-1.module+el8.10.0+1676+9b4b6e24     appstream",
+        "mysql.x86_64 8.0.41-1.module+el8.10.0+1937+28fbbc83.0.1 appstream"
     ]
 }

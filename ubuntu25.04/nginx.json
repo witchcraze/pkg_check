@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "80",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

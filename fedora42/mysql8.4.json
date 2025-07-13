@@ -19,6 +19,7 @@
         "mysql8.4.x86_64 8.4.4-1.fc42 updates"
     ],
     "kojiPackages": [
+        "mysql8.4-8.4.5-2.fc42",
         "mysql8.4-8.4.4-1.fc42"
     ]
 }

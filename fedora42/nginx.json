@@ -19,6 +19,7 @@
         "nginx.x86_64 2:1.26.3-1.fc42 fedora"
     ],
     "kojiPackages": [
+        "nginx-1.28.0-2.fc42",
         "nginx-1.26.3-1.fc42",
         "nginx-1.26.2-3.fc42",
         "nginx-1.26.2-2.fc42",

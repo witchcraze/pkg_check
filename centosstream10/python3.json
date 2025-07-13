@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.12.11",
-        "Release": "1.el10",
+        "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.12-3.12.11-1.el10.src.rpm",
+        "Source": "python3.12-3.12.11-2.el10.src.rpm",
         "Repository": "@System",
         "From repo": "baseos",
         "Summary": "Python 3.12 interpreter",
@@ -14,11 +14,11 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                      3.12.11-1.el10                       @baseos",
-        "python3.x86_64                      3.12.9-1.el10                        baseos",
+        "python3.x86_64                      3.12.11-2.el10                       @baseos",
         "python3.x86_64                      3.12.10-1.el10                       baseos",
         "python3.x86_64                      3.12.10-2.el10                       baseos",
         "python3.x86_64                      3.12.10-3.el10                       baseos",
-        "python3.x86_64                      3.12.11-1.el10                       baseos"
+        "python3.x86_64                      3.12.11-1.el10                       baseos",
+        "python3.x86_64                      3.12.11-2.el10                       baseos"
     ]
 }

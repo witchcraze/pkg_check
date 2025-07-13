@@ -14,13 +14,17 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64        1:20.11.1-1.module+el8.10.0+1748+70b97908         appstream",
-        "nodejs.x86_64        1:20.12.2-2.module+el8.10.0+1823+b5789597         appstream",
-        "nodejs.x86_64        1:20.16.0-1.module+el8.10.0+1856+4cdb8df5         appstream",
-        "nodejs.x86_64        1:20.18.2-1.module+el8.10.0+1932+2f13f218         appstream",
-        "nodejs.x86_64        1:20.18.2-3.module+el8.10.0+1955+1e757d85         appstream",
-        "nodejs.x86_64        1:20.19.1-1.module+el8.10.0+1972+57cf735f         appstream",
-        "nodejs.x86_64        1:20.19.2-1.module+el8.10.0+1988+437f3d23         appstream"
+        "nodejs.x86_64 1:20.9.0-1.module+el8.9.0+1584+0f2e6a8b   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:20.11.0-1.module+el8.9.0+1726+c3474ce2  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:20.11.1-1.module+el8.9.0+1776+addd4aec  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:20.11.1-1.module+el8.10.0+1748+70b97908 appstream",
+        "nodejs.x86_64 1:20.12.2-2.module+el8.9.0+1804+2708cc21  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:20.12.2-2.module+el8.10.0+1823+b5789597 appstream",
+        "nodejs.x86_64 1:20.16.0-1.module+el8.10.0+1856+4cdb8df5 appstream",
+        "nodejs.x86_64 1:20.18.2-1.module+el8.10.0+1932+2f13f218 appstream",
+        "nodejs.x86_64 1:20.18.2-3.module+el8.10.0+1955+1e757d85 appstream",
+        "nodejs.x86_64 1:20.19.1-1.module+el8.10.0+1972+57cf735f appstream",
+        "nodejs.x86_64 1:20.19.2-1.module+el8.10.0+1988+437f3d23 appstream"
     ],
     "kojiPackages": [
         "nodejs-20.19.2-1.module+el8.10.0+1988+437f3d23",

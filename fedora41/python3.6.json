@@ -3,11 +3,11 @@
         "Name": "python3.6",
         "Epoch": "0",
         "Version": "3.6.15",
-        "Release": "46.fc41",
+        "Release": "47.fc41",
         "Architecture": "x86_64",
-        "Download size": "18.7 MiB",
-        "Installed size": "81.5 MiB",
-        "Source": "python3.6-3.6.15-46.fc41.src.rpm",
+        "Download size": "18.8 MiB",
+        "Installed size": "81.6 MiB",
+        "Source": "python3.6-3.6.15-47.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.6 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,10 +18,11 @@
     "list": [
         "python3.6.i686   3.6.15-37.fc41 fedora",
         "python3.6.x86_64 3.6.15-37.fc41 fedora",
-        "python3.6.i686   3.6.15-46.fc41 updates",
-        "python3.6.x86_64 3.6.15-46.fc41 updates"
+        "python3.6.i686   3.6.15-47.fc41 updates",
+        "python3.6.x86_64 3.6.15-47.fc41 updates"
     ],
     "kojiPackages": [
+        "python3.6-3.6.15-47.fc41",
         "python3.6-3.6.15-46.fc41",
         "python3.6-3.6.15-45.fc41",
         "python3.6-3.6.15-44.fc41",

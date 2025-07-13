@@ -19,6 +19,8 @@
         "perl.x86_64                      4:5.32.1-481.el9                      appstream"
     ],
     "kojiPackages": [
+        "perl-5.32.1-483.el9",
+        "perl-5.32.1-482.el9",
         "perl-5.32.1-481.el9",
         "perl-5.32.1-480.el9",
         "perl-5.32.1-479.el9",

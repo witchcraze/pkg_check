@@ -14,11 +14,22 @@
         "Description": "Squid is a high-performance proxy caching server for Web clients,"
     },
     "list": [
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1758+80ba9f4b           appstream",
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1881+7e31fb44.1         appstream",
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1885+e30b7122.3         appstream",
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1928+e8441768.5         appstream",
-        "squid.x86_64         7:4.15-10.module+el8.10.0+1985+eaf982f0.6         appstream"
+        "squid.x86_64 7:4.4-8.module+el8.3.0+180+86811c21.2     dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.11-4.module+el8.4.0+404+316a0dc5.2    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-1.module+el8.5.0+705+218dec94      dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-3.module+el8.6.0+842+aea5c28d      dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-3.module+el8.6.0+991+e278114b.1    dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-3.module+el8.6.0+1044+67ab5d0a.2   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-3.module+el8.6.0+1044+67ab5d0a.2   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-6.module+el8.8.0+1273+55f5b063     dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-6.module+el8.8.0+1559+9bd2bfff.1   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-7.module+el8.9.0+1568+6d4fd5d4.1   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-7.module+el8.9.0+1599+7025d9cc.3   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "squid.x86_64 7:4.15-10.module+el8.10.0+1758+80ba9f4b   appstream",
+        "squid.x86_64 7:4.15-10.module+el8.10.0+1881+7e31fb44.1 appstream",
+        "squid.x86_64 7:4.15-10.module+el8.10.0+1885+e30b7122.3 appstream",
+        "squid.x86_64 7:4.15-10.module+el8.10.0+1928+e8441768.5 appstream",
+        "squid.x86_64 7:4.15-10.module+el8.10.0+1985+eaf982f0.6 appstream"
     ],
     "kojiPackages": [
         "squid-4.15-10.module+el8.10.0+1985+eaf982f0.6",

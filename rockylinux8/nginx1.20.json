@@ -14,7 +14,14 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64         1:1.20.1-2.module+el8.10.0+1541+85258ade          appstream"
+        "nginx.x86_64 1:1.20.0-2.module+el8.5.0+669+b11495b0    dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.5.0+729+3f70613e    dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.6.0+791+48a2bb9d    dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.6.0+791+48a2bb9d    dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.6.0+791+48a2bb9d    dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.8.0+1528+758836b8.1 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-1.module+el8.8.0+1528+758836b8.1 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nginx.x86_64 1:1.20.1-2.module+el8.10.0+1541+85258ade  appstream"
     ],
     "kojiPackages": [
         "nginx-1.20.1-2.module+el8.10.0+1541+85258ade",

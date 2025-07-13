@@ -14,7 +14,11 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64         4:5.32.1-473.module+el8.10.0+1616+0d20cc68         appstream"
+        "perl.x86_64 4:5.32.1-471.module+el8.6.0+879+823e3012   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.32.1-471.module+el8.6.0+879+823e3012   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.32.1-472.module+el8.8.0+1134+a197a740  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.32.1-472.module+el8.8.0+1134+a197a740  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.32.1-473.module+el8.10.0+1616+0d20cc68 appstream"
     ],
     "kojiPackages": [
         "perl-5.32.1-473.module+el8.10.0+1616+0d20cc68",

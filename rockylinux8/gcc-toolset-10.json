@@ -6,13 +6,20 @@
         "Architecture": "x86_64",
         "Size": "9.0 k",
         "Source": "gcc-toolset-10-10.1-0.el8.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "Summary": "Package that installs gcc-toolset-10",
         "License": "GPLv2+",
         "Description": "This is the main package for gcc-toolset-10 Software Collection."
     },
     "list": [
-        "gcc-toolset-10.x86_64                    10.1-0.el8                    appstream"
+        "gcc-toolset-10.x86_64 10.0-0.el8 dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 appstream",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "gcc-toolset-10.x86_64 10.1-0.el8 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
     ],
     "kojiPackages": [
         "gcc-toolset-10-10.1-0.el8",

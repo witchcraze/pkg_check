@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.5",
-        "Release": "3.module+el8.10.0+22271+6a48b0b9",
+        "Version": "3.3.8",
+        "Release": "4.module+el8.10.0+23024+a87ba659",
         "Architecture": "x86_64",
-        "Size": "89 k",
-        "Source": "ruby-3.3.5-3.module+el8.10.0+22271+6a48b0b9.src.rpm",
+        "Size": "90 k",
+        "Source": "ruby-3.3.8-4.module+el8.10.0+23024+a87ba659.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -18,6 +18,8 @@
         "ruby.i686                               3.3.1-2.module+el8.10.0+21860+47fbda2a                              rhel-8-for-x86_64-appstream-rpms",
         "ruby.x86_64                             3.3.1-2.module+el8.10.0+21860+47fbda2a                              rhel-8-for-x86_64-appstream-rpms",
         "ruby.i686                               3.3.5-3.module+el8.10.0+22271+6a48b0b9                              rhel-8-for-x86_64-appstream-rpms",
-        "ruby.x86_64                             3.3.5-3.module+el8.10.0+22271+6a48b0b9                              rhel-8-for-x86_64-appstream-rpms"
+        "ruby.x86_64                             3.3.5-3.module+el8.10.0+22271+6a48b0b9                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.i686                               3.3.8-4.module+el8.10.0+23024+a87ba659                              rhel-8-for-x86_64-appstream-rpms",
+        "ruby.x86_64                             3.3.8-4.module+el8.10.0+23024+a87ba659                              rhel-8-for-x86_64-appstream-rpms"
     ]
 }

@@ -14,7 +14,11 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64        1:22.16.0-1.module+el9.6.0+32144+1d29a396         appstream"
+        "nodejs.x86_64 1:22.4.1-4.module+el9.5.0+28949+c81ff1ff  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:22.11.0-1.module+el9.5.0+29662+3d9e69a6 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:22.13.1-1.module+el9.5.0+30609+557cb4b3 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:22.13.1-2.module+el9.5.0+31786+d18c719d dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64 1:22.16.0-1.module+el9.6.0+32144+1d29a396 appstream"
     ],
     "kojiPackages": [
         "nodejs-22.4.1-4.module+el9.5.0+28949+c81ff1ff"

@@ -7,14 +7,21 @@
         "Architecture": "x86_64",
         "Size": "81 k",
         "Source": "perl-5.30.1-452.module+el8.6.0+878+f93dfff7.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
         "License": "GPL+ or Artistic",
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64          4:5.30.1-452.module+el8.6.0+878+f93dfff7          appstream"
+        "perl.x86_64 4:5.30.1-451.module+el8.3.0+118+dba73529 dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.4.0+456+971dc263 dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.5.0+690+b6cd1280 dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.6.0+878+f93dfff7 appstream",
+        "perl.x86_64 4:5.30.1-452.module+el8.6.0+878+f93dfff7 dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.6.0+878+f93dfff7 dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.6.0+878+f93dfff7 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "perl.x86_64 4:5.30.1-452.module+el8.6.0+878+f93dfff7 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
     ],
     "kojiPackages": [
         "perl-5.30.1-452.module+el8.6.0+878+f93dfff7",

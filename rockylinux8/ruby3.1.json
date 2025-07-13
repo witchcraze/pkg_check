@@ -13,14 +13,22 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686            3.1.4-142.module+el8.10.0+1741+bdb5b6ca           appstream",
-        "ruby.x86_64          3.1.4-142.module+el8.10.0+1741+bdb5b6ca           appstream",
-        "ruby.i686            3.1.5-143.module+el8.10.0+1826+b62220b4           appstream",
-        "ruby.x86_64          3.1.5-143.module+el8.10.0+1826+b62220b4           appstream",
-        "ruby.i686            3.1.5-144.module+el8.10.0+1903+95c5d658           appstream",
-        "ruby.x86_64          3.1.5-144.module+el8.10.0+1903+95c5d658           appstream",
-        "ruby.i686            3.1.7-145.module+el8.10.0+1957+16e0d1a2           appstream",
-        "ruby.x86_64          3.1.7-145.module+el8.10.0+1957+16e0d1a2           appstream"
+        "ruby.i686   3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "ruby.i686   3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "ruby.i686   3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "ruby.x86_64 3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "ruby.x86_64 3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "ruby.x86_64 3.1.2-141.module+el8.7.0+1081+f0a69743  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "ruby.i686   3.1.4-142.module+el8.9.0+1759+ff68ae72  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "ruby.x86_64 3.1.4-142.module+el8.9.0+1759+ff68ae72  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "ruby.i686   3.1.4-142.module+el8.10.0+1741+bdb5b6ca appstream",
+        "ruby.x86_64 3.1.4-142.module+el8.10.0+1741+bdb5b6ca appstream",
+        "ruby.i686   3.1.5-143.module+el8.10.0+1826+b62220b4 appstream",
+        "ruby.x86_64 3.1.5-143.module+el8.10.0+1826+b62220b4 appstream",
+        "ruby.i686   3.1.5-144.module+el8.10.0+1903+95c5d658 appstream",
+        "ruby.x86_64 3.1.5-144.module+el8.10.0+1903+95c5d658 appstream",
+        "ruby.i686   3.1.7-145.module+el8.10.0+1957+16e0d1a2 appstream",
+        "ruby.x86_64 3.1.7-145.module+el8.10.0+1957+16e0d1a2 appstream"
     ],
     "kojiPackages": [
         "ruby-3.1.7-145.module+el8.10.0+1957+16e0d1a2",

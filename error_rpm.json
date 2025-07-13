@@ -18,12 +18,6 @@
             "mariadb-server": [
                 "kojiPackages"
             ],
-            "mysql": [
-                "kojiPackages"
-            ],
-            "mysql-server": [
-                "kojiPackages"
-            ],
             "nodejs": [
                 "kojiPackages"
             ],
@@ -88,6 +82,26 @@
                 "kojiPackages"
             ],
             "php8.3": [
+                "kojiPackages"
+            ]
+        },
+        "10": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
                 "kojiPackages"
             ]
         }

@@ -3,11 +3,11 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.40.2",
-        "Release": "515.fc41",
+        "Release": "516.fc41",
         "Architecture": "x86_64",
-        "Download size": "13.7 KiB",
+        "Download size": "13.6 KiB",
         "Installed size": "0.0   B",
-        "Source": "perl-5.40.2-515.fc41.src.rpm",
+        "Source": "perl-5.40.2-516.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -17,9 +17,10 @@
     },
     "list": [
         "perl.x86_64 4:5.40.0-511.fc41 fedora",
-        "perl.x86_64 4:5.40.2-515.fc41 updates"
+        "perl.x86_64 4:5.40.2-516.fc41 updates"
     ],
     "kojiPackages": [
+        "perl-5.40.2-516.fc41",
         "perl-5.40.2-515.fc41",
         "perl-5.40.1-514.fc41app1",
         "perl-5.40.1-514.fc41",

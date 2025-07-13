@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.11",
-        "Version": "3.11.11",
+        "Version": "3.11.13",
         "Release": "1.el8_10",
         "Architecture": "x86_64",
-        "Size": "30 k",
-        "Source": "python3.11-3.11.11-1.el8_10.src.rpm",
+        "Size": "31 k",
+        "Source": "python3.11-3.11.13-1.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,13 +13,19 @@
         "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.11.x86_64                   3.11.7-1.el8                       appstream",
-        "python3.11.x86_64                   3.11.9-2.el8_10                    appstream",
-        "python3.11.x86_64                   3.11.9-7.el8_10                    appstream",
-        "python3.11.x86_64                   3.11.10-1.el8_10                   appstream",
-        "python3.11.x86_64                   3.11.11-1.el8_10                   appstream"
+        "python3.11.x86_64 3.11.2-2.el8     dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "python3.11.x86_64 3.11.2-2.el8_8.1 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "python3.11.x86_64 3.11.2-2.el8_8.2 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "python3.11.x86_64 3.11.5-1.el8_9   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "python3.11.x86_64 3.11.7-1.el8     appstream",
+        "python3.11.x86_64 3.11.9-2.el8_10  appstream",
+        "python3.11.x86_64 3.11.9-7.el8_10  appstream",
+        "python3.11.x86_64 3.11.10-1.el8_10 appstream",
+        "python3.11.x86_64 3.11.11-1.el8_10 appstream",
+        "python3.11.x86_64 3.11.13-1.el8_10 appstream"
     ],
     "kojiPackages": [
+        "python3.11-3.11.13-1.el8_10",
         "python3.11-3.11.11-1.el8_10",
         "python3.11-3.11.10-1.el8_10",
         "python3.11-3.11.9-7.el8_10",

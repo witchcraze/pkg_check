@@ -2,11 +2,11 @@
     "info": {
         "Name": "tomcat9",
         "Epoch": "1",
-        "Version": "9.0.104",
+        "Version": "9.0.105",
         "Release": "1.amzn2023.0.1",
         "Architecture": "noarch",
-        "Size": "92 k",
-        "Source": "tomcat9-9.0.104-1.amzn2023.0.1.src.rpm",
+        "Size": "93 k",
+        "Source": "tomcat9-9.0.105-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -29,6 +29,7 @@
         "tomcat9.noarch               1:9.0.91-1.amzn2023.0.1                 amazonlinux",
         "tomcat9.noarch               1:9.0.98-1.amzn2023.0.1                 amazonlinux",
         "tomcat9.noarch               1:9.0.102-1.amzn2023.0.1                amazonlinux",
-        "tomcat9.noarch               1:9.0.104-1.amzn2023.0.1                amazonlinux"
+        "tomcat9.noarch               1:9.0.104-1.amzn2023.0.1                amazonlinux",
+        "tomcat9.noarch               1:9.0.105-1.amzn2023.0.1                amazonlinux"
     ]
 }

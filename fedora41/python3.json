@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3",
         "Epoch": "0",
-        "Version": "3.13.3",
-        "Release": "2.fc41",
+        "Version": "3.13.5",
+        "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "29.8 KiB",
-        "Installed size": "32.8 KiB",
-        "Source": "python3.13-3.13.3-2.fc41.src.rpm",
+        "Download size": "30.3 KiB",
+        "Installed size": "32.9 KiB",
+        "Source": "python3.13-3.13.5-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "Python 3.13 interpreter",
         "URL": "https://www.python.org/",
@@ -18,8 +18,8 @@
     "list": [
         "python3.i686   3.13.0-1.fc41 fedora",
         "python3.x86_64 3.13.0-1.fc41 fedora",
-        "python3.i686   3.13.3-2.fc41 updates",
-        "python3.x86_64 3.13.3-2.fc41 updates"
+        "python3.i686   3.13.5-1.fc41 updates",
+        "python3.x86_64 3.13.5-1.fc41 updates"
     ],
     "kojiPackages": [
         "python3.13-3.13.5-1.fc41",

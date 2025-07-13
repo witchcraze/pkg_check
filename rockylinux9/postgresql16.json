@@ -6,14 +6,19 @@
         "Architecture": "x86_64",
         "Size": "1.9 M",
         "Source": "postgresql-16.8-1.module+el9.5.0+30638+72f697e1.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64         16.8-1.module+el9.5.0+30638+72f697e1         appstream"
+        "postgresql.x86_64 16.1-1.module+el9.4.0+20018+a4fc542f dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64 16.4-1.module+el9.4.0+25517+42a2506b dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64 16.4-2.module+el9.5.0+28968+df3c4d45 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64 16.6-1.module+el9.5.0+29404+651352d8 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64 16.8-1.module+el9.5.0+30638+72f697e1 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64 16.8-1.module+el9.5.0+30638+72f697e1 appstream"
     ],
     "kojiPackages": [
         "postgresql-16.4-2.module+el9.5.0+28968+df3c4d45",

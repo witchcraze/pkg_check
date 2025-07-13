@@ -2,19 +2,21 @@
     "info": {
         "Name": "python3",
         "Version": "3.12.9",
-        "Release": "2.el10_0",
+        "Release": "2.el10_0.2",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.12-3.12.9-2.el10_0.src.rpm",
+        "Source": "python3.12-3.12.9-2.el10_0.2.src.rpm",
         "Repository": "@System",
-        "From repo": "a85ad580b19c4a8390ac713a049a465c",
+        "From repo": "baseos",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64         3.12.9-2.el10_0         @a85ad580b19c4a8390ac713a049a465c",
-        "python3.x86_64         3.12.9-2.el10_0         baseos"
+        "python3.x86_64                     3.12.9-2.el10_0.2                     @baseos",
+        "python3.x86_64                     3.12.9-2.el10_0                       baseos",
+        "python3.x86_64                     3.12.9-2.el10_0.1                     baseos",
+        "python3.x86_64                     3.12.9-2.el10_0.2                     baseos"
     ]
 }

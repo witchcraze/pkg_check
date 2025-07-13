@@ -21,6 +21,7 @@
         "httpd.x86_64 2.4.63-1.fc41 updates"
     ],
     "kojiPackages": [
+        "httpd-2.4.64-1.fc41",
         "httpd-2.4.63-1.fc41",
         "httpd-2.4.62-4.fc41",
         "httpd-2.4.62-2.fc41",

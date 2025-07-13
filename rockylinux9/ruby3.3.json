@@ -13,7 +13,14 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.x86_64           3.3.8-4.module+el9.6.0+31867+3a5bf654            appstream"
+        "ruby.x86_64 3.3.0-1.module+el9.4.0+20017+7ef076c7 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.1-2.module+el9.4.0+20697+b3471e3d dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.1-2.module+el9.4.0+20787+4c237fd3 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.5-3.module+el9.4.0+25730+e54ecc95 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.5-3.module+el9.4.0+25730+e54ecc95 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.5-3.module+el9.5.0+29452+9aee9b7c dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.8-4.module+el9.5.0+31850+530eecc9 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "ruby.x86_64 3.3.8-4.module+el9.6.0+31867+3a5bf654 appstream"
     ],
     "kojiPackages": [
         "ruby-3.3.5-3.module+el9.4.0+25730+e54ecc95",
