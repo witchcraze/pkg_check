@@ -13,7 +13,7 @@
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
     },
     "list": [
-        "haproxy.x86_64                      3.0.5-4.el10                       appstream"
+        "haproxy.x86_64                                                    3.0.5-4.el10                                                     appstream"
     ],
     "kojiPackages": [
         "haproxy-3.0.5-4.el10",

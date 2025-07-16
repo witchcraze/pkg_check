@@ -13,7 +13,7 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64                       2.4.63-1.el10                       appstream"
+        "httpd.x86_64                                                     2.4.63-1.el10                                                     appstream"
     ],
     "kojiPackages": [
         "httpd-2.4.63-1.el10",

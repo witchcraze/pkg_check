@@ -13,7 +13,7 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                     1.6.23-7.el10                     appstream"
+        "memcached.x86_64                                                   1.6.23-7.el10                                                   appstream"
     ],
     "kojiPackages": [
         "memcached-1.6.23-7.el10",

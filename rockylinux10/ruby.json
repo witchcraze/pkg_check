@@ -13,7 +13,7 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.x86_64                      3.3.8-10.el10_0                       appstream"
+        "ruby.x86_64                                                    3.3.8-10.el10_0                                                     appstream"
     ],
     "kojiPackages": [
         "ruby-3.3.8-10.el10_0",

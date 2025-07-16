@@ -13,9 +13,9 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-9.0.x86_64                 9.0.106-1.el10_0                 appstream",
-        "dotnet-sdk-9.0.x86_64                 9.0.107-1.el10_0                 appstream",
-        "dotnet-sdk-9.0.x86_64                 9.0.108-1.el10_0                 appstream"
+        "dotnet-sdk-9.0.x86_64                                               9.0.106-1.el10_0                                               appstream",
+        "dotnet-sdk-9.0.x86_64                                               9.0.107-1.el10_0                                               appstream",
+        "dotnet-sdk-9.0.x86_64                                               9.0.108-1.el10_0                                               appstream"
     ],
     "kojiPackages": [
         "dotnet9.0-9.0.108-1.el10_0",

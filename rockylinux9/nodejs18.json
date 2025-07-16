@@ -14,18 +14,18 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64 1:18.12.1-1.module+el9.1.0+13234+90e40c60 dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.18.2-2.module+el9.2.0+15226+de336927 dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.18.2-2.module+el9.3.0+15867+4ff8d002 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.19.0-1.module+el9.3.0+18175+a1f9d2e0 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.19.1-1.module+el9.3.0+18988+db1519cb dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.2-2.module+el9.4.0+20107+1ce219be dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.2-2.module+el9.4.0+20268+ab82f8a5 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.4-1.module+el9.4.0+25542+b1e8296f dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.4-1.module+el9.4.0+25542+b1e8296f dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.6-1.module+el9.5.0+30549+4619f5d3 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.6-2.module+el9.5.0+31770+0da7192d dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64 1:18.20.8-1.module+el9.6.0+32185+bd121a25 appstream"
+        "nodejs.x86_64                1:18.12.1-1.module+el9.1.0+13234+90e40c60                dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.18.2-2.module+el9.2.0+15226+de336927                dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.18.2-2.module+el9.3.0+15867+4ff8d002                dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.19.0-1.module+el9.3.0+18175+a1f9d2e0                dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.19.1-1.module+el9.3.0+18988+db1519cb                dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.2-2.module+el9.4.0+20107+1ce219be                dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.2-2.module+el9.4.0+20268+ab82f8a5                dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.4-1.module+el9.4.0+25542+b1e8296f                dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.4-1.module+el9.4.0+25542+b1e8296f                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.6-1.module+el9.5.0+30549+4619f5d3                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.6-2.module+el9.5.0+31770+0da7192d                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:18.20.8-1.module+el9.6.0+32185+bd121a25                appstream"
     ],
     "kojiPackages": [
         "nodejs-18.20.4-1.module+el9.4.0+25542+b1e8296f",

@@ -14,13 +14,13 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64 4:5.32.1-479.el9 dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-479.el9 dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-480.el9 dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-480.el9 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-481.el9 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-481.el9 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "perl.x86_64 4:5.32.1-481.el9 appstream"
+        "perl.x86_64                             4:5.32.1-479.el9                              dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-479.el9                              dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-480.el9                              dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-480.el9                              dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-481.el9                              dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-481.el9                              dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "perl.x86_64                             4:5.32.1-481.el9                              appstream"
     ],
     "kojiPackages": [
         "perl-5.32.1-481.el9",

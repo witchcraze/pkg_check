@@ -14,6 +14,6 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64                    1:22.16.0-1.el10_0                    appstream"
+        "nodejs.x86_64                                                  1:22.16.0-1.el10_0                                                  appstream"
     ]
 }

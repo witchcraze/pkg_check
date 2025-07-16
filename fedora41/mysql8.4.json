@@ -1,13 +1,13 @@
 {
     "info": {
-        "Name": "mysql",
+        "Name": "mysql8.4",
         "Epoch": "0",
-        "Version": "8.0.42",
-        "Release": "2.fc42",
+        "Version": "8.4.5",
+        "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "2.6 MiB",
-        "Installed size": "58.3 MiB",
-        "Source": "mysql8.0-8.0.42-2.fc42.src.rpm",
+        "Download size": "2.3 MiB",
+        "Installed size": "51.8 MiB",
+        "Source": "mysql8.4-8.4.5-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -16,7 +16,9 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "mysql.x86_64 8.0.40-3.fc42 fedora",
-        "mysql.x86_64 8.0.42-2.fc42 updates"
+        "mysql8.4.x86_64 8.4.5-1.fc41 updates"
+    ],
+    "kojiPackages": [
+        "mysql8.4-8.4.5-1.fc41"
     ]
 }

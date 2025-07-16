@@ -14,10 +14,10 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64 1:1.22.1-1.module+el8.8.0+1272+5c2d9d1f   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "nginx.x86_64 1:1.22.1-1.module+el8.8.0+1527+cfa98cd4.1 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "nginx.x86_64 1:1.22.1-1.module+el8.8.0+1527+cfa98cd4.1 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "nginx.x86_64 1:1.22.1-2.module+el8.10.0+1540+8eca54a7  appstream"
+        "nginx.x86_64                1:1.22.1-1.module+el8.8.0+1272+5c2d9d1f                   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.22.1-1.module+el8.8.0+1527+cfa98cd4.1                 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.22.1-1.module+el8.8.0+1527+cfa98cd4.1                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.22.1-2.module+el8.10.0+1540+8eca54a7                  appstream"
     ],
     "kojiPackages": [
         "nginx-1.22.1-2.module+el8.10.0+1540+8eca54a7",

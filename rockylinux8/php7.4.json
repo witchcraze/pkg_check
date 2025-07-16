@@ -13,18 +13,18 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64 7.4.6-4.module+el8.3.0+202+dc8a8639    dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
-        "php.x86_64 7.4.6-4.module+el8.4.0+415+e936cba3    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "php.x86_64 7.4.19-1.module+el8.5.0+696+61e7c9ba   dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
-        "php.x86_64 7.4.19-2.module+el8.6.0+789+2130c178   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "php.x86_64 7.4.19-3.module+el8.6.0+990+389ef54a   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "php.x86_64 7.4.19-4.module+el8.6.0+999+0f706a37   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "php.x86_64 7.4.19-4.module+el8.6.0+1006+0d5a469f  dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "php.x86_64 7.4.30-1.module+el8.7.0+1067+0a7071cc  dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "php.x86_64 7.4.33-1.module+el8.8.0+1150+ac720675  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "php.x86_64 7.4.33-1.module+el8.8.0+1150+ac720675  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "php.x86_64 7.4.33-1.module+el8.10.0+1604+6558efc7 appstream",
-        "php.x86_64 7.4.33-2.module+el8.10.0+1912+72767185 appstream"
+        "php.x86_64                   7.4.6-4.module+el8.3.0+202+dc8a8639                      dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.6-4.module+el8.4.0+415+e936cba3                      dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.19-1.module+el8.5.0+696+61e7c9ba                     dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.19-2.module+el8.6.0+789+2130c178                     dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.19-3.module+el8.6.0+990+389ef54a                     dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.19-4.module+el8.6.0+999+0f706a37                     dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.19-4.module+el8.6.0+1006+0d5a469f                    dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.30-1.module+el8.7.0+1067+0a7071cc                    dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.33-1.module+el8.8.0+1150+ac720675                    dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.33-1.module+el8.8.0+1150+ac720675                    dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "php.x86_64                   7.4.33-1.module+el8.10.0+1604+6558efc7                   appstream",
+        "php.x86_64                   7.4.33-2.module+el8.10.0+1912+72767185                   appstream"
     ],
     "kojiPackages": [
         "php-7.4.33-2.module+el8.10.0+1912+72767185",

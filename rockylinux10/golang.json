@@ -13,9 +13,9 @@
         "Description": "The Go Programming Language."
     },
     "list": [
-        "golang.x86_64                     1.23.7-1.el10_0                      appstream",
-        "golang.x86_64                     1.23.9-1.el10_0                      appstream",
-        "golang.x86_64                     1.24.4-1.el10_0                      appstream"
+        "golang.x86_64                                                   1.23.7-1.el10_0                                                    appstream",
+        "golang.x86_64                                                   1.23.9-1.el10_0                                                    appstream",
+        "golang.x86_64                                                   1.24.4-1.el10_0                                                    appstream"
     ],
     "kojiPackages": [
         "golang-1.24.4-1.el10_0",

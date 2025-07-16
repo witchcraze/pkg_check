@@ -14,16 +14,16 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat.noarch 1:9.0.62-5.el8      dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-5.el8_8.2  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-9.el8      dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-27.el8_9   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-27.el8_9.2 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-27.el8_9.3 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "tomcat.noarch 1:9.0.62-30.el8     appstream",
-        "tomcat.noarch 1:9.0.87-1.el8_10.1 appstream",
-        "tomcat.noarch 1:9.0.87-1.el8_10.2 appstream",
-        "tomcat.noarch 1:9.0.87-1.el8_10.3 appstream"
+        "tomcat.noarch                           1:9.0.62-5.el8                                dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-5.el8_8.2                            dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-9.el8                                dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-27.el8_9                             dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-27.el8_9.2                           dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-27.el8_9.3                           dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "tomcat.noarch                           1:9.0.62-30.el8                               appstream",
+        "tomcat.noarch                           1:9.0.87-1.el8_10.1                           appstream",
+        "tomcat.noarch                           1:9.0.87-1.el8_10.2                           appstream",
+        "tomcat.noarch                           1:9.0.87-1.el8_10.3                           appstream"
     ],
     "kojiPackages": [
         "tomcat-9.0.87-1.el8_10.3",

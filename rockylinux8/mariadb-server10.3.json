@@ -14,16 +14,16 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64 3:10.3.28-1.module+el8.3.0+126+a7f7b5c5  dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.28-1.module+el8.4.0+427+adf35707  dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.28-1.module+el8.4.0+427+adf35707  dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.32-2.module+el8.5.0+777+18007c86  dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.32-2.module+el8.5.0+777+18007c86  dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.35-1.module+el8.6.0+1005+cdf19c22 dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.35-1.module+el8.6.0+1005+cdf19c22 dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.35-1.module+el8.6.0+1005+cdf19c22 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.39-1.module+el8.8.0+1452+2a7eab68 appstream",
-        "mariadb-server.x86_64 3:10.3.39-1.module+el8.8.0+1452+2a7eab68 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "mariadb-server.x86_64 3:10.3.39-1.module+el8.8.0+1452+2a7eab68 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
+        "mariadb-server.x86_64            3:10.3.28-1.module+el8.3.0+126+a7f7b5c5              dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.28-1.module+el8.4.0+427+adf35707              dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.28-1.module+el8.4.0+427+adf35707              dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.32-2.module+el8.5.0+777+18007c86              dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.32-2.module+el8.5.0+777+18007c86              dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.35-1.module+el8.6.0+1005+cdf19c22             dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.35-1.module+el8.6.0+1005+cdf19c22             dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.35-1.module+el8.6.0+1005+cdf19c22             dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.39-1.module+el8.8.0+1452+2a7eab68             appstream",
+        "mariadb-server.x86_64            3:10.3.39-1.module+el8.8.0+1452+2a7eab68             dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "mariadb-server.x86_64            3:10.3.39-1.module+el8.8.0+1452+2a7eab68             dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
     ]
 }

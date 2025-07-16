@@ -13,17 +13,17 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64 6.0.9-3.module+el8.4.0+395+8d498eeb    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "redis.x86_64 6.0.9-5.module+el8.4.0+660+a8447b97    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "redis.x86_64 6.0.9-5.module+el8.5.0+658+72172854    dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
-        "redis.x86_64 6.0.9-5.module+el8.5.0+658+72172854    dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "redis.x86_64 6.0.9-5.module+el8.5.0+658+72172854    dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.module+el8.7.0+1105+8815ce78   appstream",
-        "redis.x86_64 6.2.7-1.module+el8.7.0+1105+8815ce78   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.module+el8.7.0+1105+8815ce78   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.module+el8.7.0+1105+8815ce78   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.17-1.module+el8.10.0+1923+5b85c6a7 appstream",
-        "redis.x86_64 6.2.18-1.module+el8.10.0+1980+8f0924a4 appstream"
+        "redis.x86_64                  6.0.9-3.module+el8.4.0+395+8d498eeb                     dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "redis.x86_64                  6.0.9-5.module+el8.4.0+660+a8447b97                     dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "redis.x86_64                  6.0.9-5.module+el8.5.0+658+72172854                     dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "redis.x86_64                  6.0.9-5.module+el8.5.0+658+72172854                     dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "redis.x86_64                  6.0.9-5.module+el8.5.0+658+72172854                     dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "redis.x86_64                  6.2.7-1.module+el8.7.0+1105+8815ce78                    appstream",
+        "redis.x86_64                  6.2.7-1.module+el8.7.0+1105+8815ce78                    dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "redis.x86_64                  6.2.7-1.module+el8.7.0+1105+8815ce78                    dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "redis.x86_64                  6.2.7-1.module+el8.7.0+1105+8815ce78                    dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "redis.x86_64                  6.2.17-1.module+el8.10.0+1923+5b85c6a7                  appstream",
+        "redis.x86_64                  6.2.18-1.module+el8.10.0+1980+8f0924a4                  appstream"
     ],
     "kojiPackages": [
         "redis-6.2.18-1.module+el8.10.0+1980+8f0924a4",

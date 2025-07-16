@@ -14,18 +14,18 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind9.16.x86_64 32:9.16.23-0.7.el8       dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.7.el8_6.1   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.9.el8.1     dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.14.el8      dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.14.el8_8.1  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.14.el8_8.2  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.14.el8_8.2  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.16.el8      appstream",
-        "bind9.16.x86_64 32:9.16.23-0.16.el8_9.2  appstream",
-        "bind9.16.x86_64 32:9.16.23-0.16.el8_9.2  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "bind9.16.x86_64 32:9.16.23-0.22.el8_10   appstream",
-        "bind9.16.x86_64 32:9.16.23-0.22.el8_10.2 appstream"
+        "bind9.16.x86_64                       32:9.16.23-0.7.el8                              dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.7.el8_6.1                          dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.9.el8.1                            dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.14.el8                             dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.14.el8_8.1                         dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.14.el8_8.2                         dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.14.el8_8.2                         dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.16.el8                             appstream",
+        "bind9.16.x86_64                       32:9.16.23-0.16.el8_9.2                         appstream",
+        "bind9.16.x86_64                       32:9.16.23-0.16.el8_9.2                         dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "bind9.16.x86_64                       32:9.16.23-0.22.el8_10                          appstream",
+        "bind9.16.x86_64                       32:9.16.23-0.22.el8_10.2                        appstream"
     ],
     "kojiPackages": [
         "bind9.16-9.16.23-0.22.el8_10.2",

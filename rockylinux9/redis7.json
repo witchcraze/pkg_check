@@ -13,13 +13,13 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64 7.0.12-1.module+el9.3.0+15782+e7b53f1b dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "redis.x86_64 7.0.12-2.module+el9.3.0+18173+60127d38 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "redis.x86_64 7.0.12-2.module+el9.3.0+18173+60127d38 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "redis.x86_64 7.0.12-2.module+el9.3.0+18173+60127d38 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64 7.2.6-1.module+el9.5.0+29429+015fd2d3  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64 7.2.7-1.module+el9.5.0+30204+5d6debe1  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64 7.2.8-1.module+el9.6.0+32036+eb8f79e6  appstream"
+        "redis.x86_64                  7.0.12-1.module+el9.3.0+15782+e7b53f1b                  dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "redis.x86_64                  7.0.12-2.module+el9.3.0+18173+60127d38                  dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "redis.x86_64                  7.0.12-2.module+el9.3.0+18173+60127d38                  dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "redis.x86_64                  7.0.12-2.module+el9.3.0+18173+60127d38                  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.6-1.module+el9.5.0+29429+015fd2d3                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.7-1.module+el9.5.0+30204+5d6debe1                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.8-1.module+el9.6.0+32036+eb8f79e6                   appstream"
     ],
     "kojiPackages": [
         "redis-7.0.12-2.module+el9.3.0+18173+60127d38",

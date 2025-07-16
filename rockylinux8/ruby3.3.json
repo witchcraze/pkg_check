@@ -13,14 +13,14 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686             3.3.0-1.module+el8.10.0+1679+61871737            appstream",
-        "ruby.x86_64           3.3.0-1.module+el8.10.0+1679+61871737            appstream",
-        "ruby.i686             3.3.1-2.module+el8.10.0+1827+16ecb9d2            appstream",
-        "ruby.x86_64           3.3.1-2.module+el8.10.0+1827+16ecb9d2            appstream",
-        "ruby.i686             3.3.5-3.module+el8.10.0+1867+7989c958            appstream",
-        "ruby.x86_64           3.3.5-3.module+el8.10.0+1867+7989c958            appstream",
-        "ruby.i686             3.3.8-4.module+el8.10.0+2004+fd6e8d72            appstream",
-        "ruby.x86_64           3.3.8-4.module+el8.10.0+2004+fd6e8d72            appstream"
+        "ruby.i686                                           3.3.0-1.module+el8.10.0+1679+61871737                                          appstream",
+        "ruby.x86_64                                         3.3.0-1.module+el8.10.0+1679+61871737                                          appstream",
+        "ruby.i686                                           3.3.1-2.module+el8.10.0+1827+16ecb9d2                                          appstream",
+        "ruby.x86_64                                         3.3.1-2.module+el8.10.0+1827+16ecb9d2                                          appstream",
+        "ruby.i686                                           3.3.5-3.module+el8.10.0+1867+7989c958                                          appstream",
+        "ruby.x86_64                                         3.3.5-3.module+el8.10.0+1867+7989c958                                          appstream",
+        "ruby.i686                                           3.3.8-4.module+el8.10.0+2004+fd6e8d72                                          appstream",
+        "ruby.x86_64                                         3.3.8-4.module+el8.10.0+2004+fd6e8d72                                          appstream"
     ],
     "kojiPackages": [
         "ruby-3.3.8-4.module+el8.10.0+2004+fd6e8d72",

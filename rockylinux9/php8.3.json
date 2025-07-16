@@ -13,6 +13,6 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64           8.3.19-1.module+el9.6.0+32042+808943ae            appstream"
+        "php.x86_64                                         8.3.19-1.module+el9.6.0+32042+808943ae                                          appstream"
     ]
 }

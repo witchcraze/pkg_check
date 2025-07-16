@@ -2,12 +2,12 @@
     "info": {
         "Name": "mysql",
         "Epoch": "0",
-        "Version": "8.0.41",
-        "Release": "1.fc41",
+        "Version": "8.0.42",
+        "Release": "2.fc41",
         "Architecture": "x86_64",
-        "Download size": "2.5 MiB",
+        "Download size": "2.4 MiB",
         "Installed size": "58.3 MiB",
-        "Source": "mysql8.0-8.0.41-1.fc41.src.rpm",
+        "Source": "mysql8.0-8.0.42-2.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -17,6 +17,6 @@
     },
     "list": [
         "mysql.x86_64 8.0.39-1.fc41 fedora",
-        "mysql.x86_64 8.0.41-1.fc41 updates"
+        "mysql.x86_64 8.0.42-2.fc41 updates"
     ]
 }

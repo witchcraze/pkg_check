@@ -13,18 +13,18 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64 13.7-1.el9_0  dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.10-1.el9_1 dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.11-1.el9_2 dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.11-1.el9_2 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.13-1.el9_3 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.14-1.el9_3 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.14-1.el9_3 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.16-1.el9_4 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.16-1.el9_4 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.18-1.el9_5 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.20-1.el9_5 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "postgresql.x86_64 13.20-1.el9_5 appstream"
+        "postgresql.x86_64                            13.7-1.el9_0                             dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.10-1.el9_1                            dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.11-1.el9_2                            dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.11-1.el9_2                            dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.13-1.el9_3                            dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.14-1.el9_3                            dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.14-1.el9_3                            dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.16-1.el9_4                            dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.16-1.el9_4                            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.18-1.el9_5                            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.20-1.el9_5                            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "postgresql.x86_64                            13.20-1.el9_5                            appstream"
     ],
     "kojiPackages": [
         "postgresql-13.16-1.el9_4",

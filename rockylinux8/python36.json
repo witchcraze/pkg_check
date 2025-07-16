@@ -13,16 +13,16 @@
         "Description": "Python is an accessible, high-level, dynamically typed, interpreted programming"
     },
     "list": [
-        "python36.x86_64 3.6.8-2.module+el8.3.0+120+426d8baf    dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-2.module+el8.3.0+120+426d8baf    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-2.module+el8.4.0+597+ddf0ddea    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-38.module+el8.5.0+671+195e4563   dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-38.module+el8.5.0+671+195e4563   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-38.module+el8.5.0+671+195e4563   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-38.module+el8.5.0+671+195e4563   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-38.module+el8.5.0+671+195e4563   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "python36.x86_64 3.6.8-39.module+el8.10.0+1592+61442852 appstream",
-        "python36.x86_64 3.6.8-39.module+el8.10.0+1910+234ad790 appstream"
+        "python36.x86_64                3.6.8-2.module+el8.3.0+120+426d8baf                    dl.rockylinux.org_vault_rocky_8.3_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-2.module+el8.3.0+120+426d8baf                    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-2.module+el8.4.0+597+ddf0ddea                    dl.rockylinux.org_vault_rocky_8.4_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-38.module+el8.5.0+671+195e4563                   dl.rockylinux.org_vault_rocky_8.5_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-38.module+el8.5.0+671+195e4563                   dl.rockylinux.org_vault_rocky_8.6_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-38.module+el8.5.0+671+195e4563                   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-38.module+el8.5.0+671+195e4563                   dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-38.module+el8.5.0+671+195e4563                   dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "python36.x86_64                3.6.8-39.module+el8.10.0+1592+61442852                 appstream",
+        "python36.x86_64                3.6.8-39.module+el8.10.0+1910+234ad790                 appstream"
     ],
     "kojiPackages": [
         "python36-3.6.8-39.module+el8.10.0+1910+234ad790",

@@ -14,7 +14,7 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64         1:1.24.0-1.module+el8.10.0+1665+a6c695b5          appstream"
+        "nginx.x86_64                                       1:1.24.0-1.module+el8.10.0+1665+a6c695b5                                        appstream"
     ],
     "kojiPackages": [
         "nginx-1.24.0-1.module+el8.10.0+1665+a6c695b5"

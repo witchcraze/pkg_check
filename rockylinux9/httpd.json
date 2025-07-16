@@ -13,16 +13,16 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64 2.4.51-7.el9_0    dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.53-7.el9_1.5  dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.53-11.el9_2.5 dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.57-5.el9      dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.57-8.el9      dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.57-11.el9_4   dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.57-11.el9_4.1 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.62-1.el9      dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.62-1.el9_5.2  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "httpd.x86_64 2.4.62-4.el9      appstream"
+        "httpd.x86_64                            2.4.51-7.el9_0                                dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.53-7.el9_1.5                              dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.53-11.el9_2.5                             dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.57-5.el9                                  dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.57-8.el9                                  dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.57-11.el9_4                               dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.57-11.el9_4.1                             dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.62-1.el9                                  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.62-1.el9_5.2                              dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "httpd.x86_64                            2.4.62-4.el9                                  appstream"
     ],
     "kojiPackages": [
         "httpd-2.4.62-1.el9",

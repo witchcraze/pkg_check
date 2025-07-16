@@ -13,16 +13,14 @@
         "Description": "Redis is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "redis.x86_64 6.2.6-1.el9  dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.el9  dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.el9  dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.el9  dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.el9  dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.7-1.el9  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.17-1.el9_5",
-        "                          dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64 6.2.18-1.el9_6",
-        "                          appstream"
+        "redis.x86_64                              6.2.6-1.el9                                 dl.rockylinux.org_vault_rocky_9.0_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.7-1.el9                                 dl.rockylinux.org_vault_rocky_9.1_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.7-1.el9                                 dl.rockylinux.org_vault_rocky_9.2_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.7-1.el9                                 dl.rockylinux.org_vault_rocky_9.3_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.7-1.el9                                 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.7-1.el9                                 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.17-1.el9_5                              dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "redis.x86_64                              6.2.18-1.el9_6                              appstream"
     ],
     "kojiPackages": [
         "redis-6.2.7-1.el9",
