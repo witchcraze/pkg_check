@@ -5,7 +5,7 @@
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "10",
+        "Phased-Update-Percentage": "40",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Luigi Gangitano <luigi@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

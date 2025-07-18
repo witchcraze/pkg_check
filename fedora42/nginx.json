@@ -2,13 +2,13 @@
     "info": {
         "Name": "nginx",
         "Epoch": "2",
-        "Version": "1.26.3",
-        "Release": "1.fc42",
+        "Version": "1.28.0",
+        "Release": "2.fc42",
         "Architecture": "x86_64",
-        "Download size": "33.0 KiB",
+        "Download size": "33.1 KiB",
         "Installed size": "119.8 KiB",
-        "Source": "nginx-1.26.3-1.fc42.src.rpm",
-        "Repository": "fedora",
+        "Source": "nginx-1.28.0-2.fc42.src.rpm",
+        "Repository": "updates",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
         "License": "BSD-2-Clause",
@@ -16,7 +16,8 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "nginx.x86_64 2:1.26.3-1.fc42 fedora"
+        "nginx.x86_64 2:1.26.3-1.fc42 fedora",
+        "nginx.x86_64 2:1.28.0-2.fc42 updates"
     ],
     "kojiPackages": [
         "nginx-1.28.0-2.fc42",

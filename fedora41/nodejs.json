@@ -22,6 +22,7 @@
         "nodejs.x86_64 1:22.17.0-1.fc41 updates"
     ],
     "kojiPackages": [
+        "nodejs20-20.19.4-2.fc41",
         "nodejs20-20.19.2-1.fc41",
         "nodejs20-20.19.1-1.fc41",
         "nodejs20-20.19.0-1.fc41",

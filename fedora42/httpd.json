@@ -20,6 +20,7 @@
         "httpd.x86_64 2.4.64-1.fc42 updates"
     ],
     "kojiPackages": [
+        "httpd-2.4.64-2.fc42",
         "httpd-2.4.64-1.fc42",
         "httpd-2.4.63-1.fc42",
         "httpd-2.4.62-6.fc42",
