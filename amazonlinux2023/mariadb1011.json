@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb1011",
         "Epoch": "3",
-        "Version": "10.11.11",
-        "Release": "1.amzn2023.0.2",
+        "Version": "10.11.13",
+        "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "1.6 M",
-        "Source": "mariadb1011-10.11.11-1.amzn2023.0.2.src.rpm",
+        "Size": "1.7 M",
+        "Source": "mariadb1011-10.11.13-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,6 +15,7 @@
     },
     "list": [
         "mariadb1011.x86_64             3:10.11.11-1.amzn2023.0.1             amazonlinux",
-        "mariadb1011.x86_64             3:10.11.11-1.amzn2023.0.2             amazonlinux"
+        "mariadb1011.x86_64             3:10.11.11-1.amzn2023.0.2             amazonlinux",
+        "mariadb1011.x86_64             3:10.11.13-1.amzn2023.0.1             amazonlinux"
     ]
 }
