@@ -22,6 +22,7 @@
         "python3.14.x86_64 3.14.0~b4-1.fc42 updates"
     ],
     "kojiPackages": [
+        "python3.14-3.14.0~rc1-1.fc42",
         "python3.14-3.14.0~b4-1.fc42",
         "python3.14-3.14.0~b3-2.fc42",
         "python3.14-3.14.0~b3-1.fc42",
