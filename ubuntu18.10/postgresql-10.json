@@ -35,7 +35,17 @@
         "postgresql-10 (10.4-1) unstable; urgency=medium",
         "postgresql-10 (10.3-2) unstable; urgency=medium",
         "postgresql-10 (10.3-1) unstable; urgency=medium",
-        "postgresql-10 (10.2-1) unstable; urgency=medium"
+        "postgresql-10 (10.2-1) unstable; urgency=medium",
+        "postgresql-10 (10.1-3) unstable; urgency=medium",
+        "postgresql-10 (10.1-2) unstable; urgency=medium",
+        "postgresql-10 (10.1-1) unstable; urgency=medium",
+        "postgresql-10 (10.0-1) unstable; urgency=medium",
+        "postgresql-10 (10~rc1-1) unstable; urgency=medium",
+        "postgresql-10 (10~beta4-1) experimental; urgency=medium",
+        "postgresql-10 (10~beta3-1) experimental; urgency=medium",
+        "postgresql-10 (10~beta2-1) experimental; urgency=medium",
+        "postgresql-10 (10~beta1-1) experimental; urgency=medium",
+        "postgresql-10 (10~~devel-1) UNRELEASED; urgency=medium"
     ],
     "publishinghistory": [
         "10.9-0ubuntu0.18.10.1",

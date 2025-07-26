@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python2-django",
+        "Version": "1.11.13",
+        "Release": "2.fc27",
+        "Arch": "noarch",
+        "Size": "4.2 M",
+        "Source": "python-django-1.11.13-2.fc27.src.rpm",
+        "Repo": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "http://www.djangoproject.com/",
+        "License": "BSD",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python2-django.noarch                   1.11.4-1.fc27                    fedora",
+        "python2-django.noarch                   1.11.13-2.fc27                   updates"
+    ]
+}

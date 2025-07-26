@@ -16,7 +16,7 @@
         "Replaces": "cpp-9 (<< 7.1.1-8)",
         "Homepage": "http://gcc.gnu.org/",
         "Download-Size": "11.2 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "GNU C compiler"
     },
     "list": [

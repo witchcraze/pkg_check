@@ -12,7 +12,7 @@
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net/core",
         "Download-Size": "28.4 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [

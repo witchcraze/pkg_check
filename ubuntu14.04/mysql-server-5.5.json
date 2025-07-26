@@ -21,7 +21,7 @@
         "SHA512": "2f87151c875241824bcfd461422d0cf86886c870bcddb156f16638579dccc4e320918a098f923a1ba9061a1c4a91b03145e38bca927309d35c748b633b9f9747",
         "Homepage": "http://dev.mysql.com/",
         "Task": "lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "MySQL database server binaries and system database setup"
     },

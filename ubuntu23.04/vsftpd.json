@@ -16,7 +16,7 @@
         "Replaces": "ftp-server",
         "Homepage": "http://vsftpd.beasts.org/",
         "Download-Size": "123 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
     "list": [

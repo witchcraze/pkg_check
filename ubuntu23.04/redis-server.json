@@ -14,7 +14,7 @@
         "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.8-4)",
         "Homepage": "https://redis.io/",
         "Download-Size": "51.7 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [

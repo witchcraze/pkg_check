@@ -15,7 +15,7 @@
         "Suggests": "openjdk-20-demo, openjdk-20-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "3250 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [

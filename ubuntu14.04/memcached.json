@@ -14,7 +14,7 @@
         "Download-Size": "67.3 kB",
         "SHA512": "b79281c2d419be48947fe954071d86192dfe1d6973277bc9a57de72fdf5e7d946580dc1db3a69702942b8f07a938871dd06f231c14c3a8d84a565c1de2a3ad83",
         "Homepage": "http://www.danga.com/memcached/",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "A high-performance memory object caching system"
     },

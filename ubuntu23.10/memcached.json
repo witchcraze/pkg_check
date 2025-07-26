@@ -14,7 +14,7 @@
         "Suggests": "libanyevent-perl, libcache-memcached-perl, libmemcached, libterm-readkey-perl, libyaml-perl",
         "Homepage": "https://memcached.org/",
         "Download-Size": "213 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
     "list": [

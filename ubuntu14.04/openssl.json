@@ -14,13 +14,13 @@
         "Download-Size": "489 kB",
         "SHA512": "7ec3c9e8e958e464a8db1553fbeeed0989d689f7761a0125a4aea7b21ae4ef7b9cb3745192c2cd5ecc5ac8b36a0c663f36dbc3d773c21b33271537b6d1285e0a",
         "Task": "standard, kubuntu-active, kubuntu-active, mythbuntu-frontend, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/trusty-infra-security 1.0.1f-1ubuntu2.27+esm9 amd64",
+        "openssl/trusty-infra-security 1.0.1f-1ubuntu2.27+esm10 amd64",
         "openssl/trusty-updates,trusty-security,now 1.0.1f-1ubuntu2.27 amd64 [installed,automatic]",
         "openssl/trusty 1.0.1f-1ubuntu2 amd64"
     ],

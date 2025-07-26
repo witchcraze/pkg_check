@@ -3,6 +3,7 @@
         "Package": "gcc-4.8",
         "Version": "4.8.4-2ubuntu1~14.04.4",
         "Priority": "optional",
+        "Build-Essential": "yes",
         "Section": "devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -17,8 +18,7 @@
         "SHA512": "4e14f5d7461782f5ad10b725fab1018faf626c65c5528a69b92e268d01c5fbecff8b327b650f8b55c075e1ad9e88753fa3c3a823eda6f3c3a042eff78dc08c96",
         "Homepage": "http://gcc.gnu.org/",
         "Task": "ubuntu-desktop, ubuntu-usb, edubuntu-desktop, edubuntu-usb, xubuntu-desktop, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, ubuntustudio-desktop, ubuntu-gnome-desktop",
-        "Build-Essential": "yes",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "GNU C compiler"
     },

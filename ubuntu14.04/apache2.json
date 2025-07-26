@@ -18,7 +18,7 @@
         "SHA512": "16df7a19c1b37e13f47843e2176059ded59e09f86543d9b4b7f84d2f9a87bb20a4334016c264f8bc97d1d213f0d2fcec6b5a8658129cf22a423142bf762f19da",
         "Homepage": "http://httpd.apache.org/",
         "Task": "lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },

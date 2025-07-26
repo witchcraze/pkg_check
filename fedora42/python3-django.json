@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Epoch": "0",
+        "Version": "5.2.2",
+        "Release": "1.fc42",
+        "Architecture": "noarch",
+        "Download size": "5.8 MiB",
+        "Installed size": "21.3 MiB",
+        "Source": "python-django5-5.2.2-1.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "https://www.djangoproject.com/",
+        "License": "BSD-3-Clause AND PSF-2.0 AND MIT AND OFL-1.1",
+        "Description": "Django is a high-level Python Web framework that encourages rapid",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3-django.noarch 5.1.7-2.fc42 fedora",
+        "python3-django.noarch 5.2.2-1.fc42 updates"
+    ]
+}

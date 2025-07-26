@@ -2,12 +2,12 @@
     "info": {
         "Name": "valkey",
         "Epoch": "0",
-        "Version": "8.0.3",
-        "Release": "3.fc42",
+        "Version": "8.0.4",
+        "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "1.6 MiB",
         "Installed size": "5.5 MiB",
-        "Source": "valkey-8.0.3-3.fc42.src.rpm",
+        "Source": "valkey-8.0.4-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
@@ -17,7 +17,7 @@
     },
     "list": [
         "valkey.x86_64 8.0.2-2.fc42 fedora",
-        "valkey.x86_64 8.0.3-3.fc42 updates"
+        "valkey.x86_64 8.0.4-1.fc42 updates"
     ],
     "kojiPackages": [
         "valkey-8.0.4-1.fc42",

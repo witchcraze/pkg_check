@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Version": "2.0.13",
+        "Release": "1.fc28",
+        "Arch": "noarch",
+        "Size": "4.3 M",
+        "Source": "python-django-2.0.13-1.fc28.src.rpm",
+        "Repo": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "http://www.djangoproject.com/",
+        "License": "BSD",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python3-django.noarch                   2.0.4-1.fc28                     fedora",
+        "python3-django.noarch                   2.0.13-1.fc28                    updates"
+    ]
+}

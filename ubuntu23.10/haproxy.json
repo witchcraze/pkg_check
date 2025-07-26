@@ -14,7 +14,7 @@
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
         "Download-Size": "1750 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Arch": "noarch",
+        "Epoch": "0",
+        "Version": "1.9.13",
+        "Release": "1.fc25",
+        "Size": "4.0 M",
+        "Repo": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "http://www.djangoproject.com/",
+        "License": "BSD",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python3-django.noarch                   1.9.10-1.fc25                    fedora",
+        "python3-django.noarch                   1.9.13-1.fc25                    updates"
+    ]
+}

@@ -10,11 +10,12 @@
         "Suggests": "python3.9-venv, python3.9-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "467 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
     "list": [
-        "python3.9/oldstable-security 3.9.2-1+deb11u3 amd64",
+        "python3.9/oldstable-security,now 3.9.2-1+deb11u3 amd64 [installed,automatic]",
         "python3.9/oldstable 3.9.2-1 amd64"
     ],
     "changelog": [

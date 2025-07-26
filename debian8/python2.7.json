@@ -12,11 +12,12 @@
         "Section": "python",
         "Priority": "standard",
         "Download-Size": "252 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/oldoldstable 2.7.9-2+deb8u5 amd64",
+        "python2.7/oldoldstable,now 2.7.9-2+deb8u5 amd64 [installed,automatic]",
         "python2.7/oldstable 2.7.9-2+deb8u1 amd64"
     ],
     "changelog": [

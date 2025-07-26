@@ -11,7 +11,7 @@
         "Depends": "dotnet-sdk-6.0",
         "Homepage": "https://dot.net/core",
         "Download-Size": "20.7 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "dotNET CLI tools and runtime"
     },
     "list": [

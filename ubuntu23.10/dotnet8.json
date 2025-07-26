@@ -12,7 +12,7 @@
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
         "Download-Size": "29.0 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [

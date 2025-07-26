@@ -18,7 +18,7 @@
         "Replaces": "openjdk-11-jre-headless (<< 11~19-2)",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "1291 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [

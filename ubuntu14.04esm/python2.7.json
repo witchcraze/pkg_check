@@ -13,11 +13,12 @@
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
         "Download-Size": "197 kB",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm22 amd64",
+        "python2.7/trusty-infra-security,now 2.7.6-8ubuntu0.6+esm22 amd64 [installed,automatic]",
         "python2.7/trusty-updates,trusty-security 2.7.6-8ubuntu0.5 amd64",
         "python2.7/trusty 2.7.6-8 amd64"
     ],

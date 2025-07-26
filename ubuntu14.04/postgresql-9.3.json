@@ -15,11 +15,12 @@
         "SHA512": "014c3027afafc5b4bf39533364e1771eac2ea15d202f77de995a9edb4d3b3f1e243ae5ddbc53d652071c8d09d7017eb66a12623268f0e244f4a3e1eb854ac1b2",
         "Homepage": "http://www.postgresql.org/",
         "Task": "postgresql-server",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 9.3 server"
     },
     "list": [
+        "postgresql-9.3/trusty-infra-security 9.3.24-0ubuntu0.14.04+esm1 amd64",
         "postgresql-9.3/trusty-updates,trusty-security 9.3.24-0ubuntu0.14.04 amd64",
         "postgresql-9.3/trusty 9.3.4-1 amd64"
     ],

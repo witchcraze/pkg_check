@@ -9,12 +9,12 @@
         "Section": "utils",
         "Priority": "optional",
         "Download-Size": "666 kB",
-        "APT-Manual-Installed": "no",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://archive.debian.org/debian-security/ jessie/updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldoldstable,now 1.0.1t-1+deb8u12 amd64 [installed,automatic]",
+        "openssl/oldoldstable,now 1.0.1t-1+deb8u12 amd64 [installed]",
         "openssl/oldstable 1.0.1t-1+deb8u8 amd64"
     ],
     "changelog": [

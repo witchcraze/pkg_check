@@ -14,7 +14,7 @@
         "Download-Size": "178 kB",
         "SHA512": "baf2296d837ed5d5c03e1670ff91aaf8e16d516a7271825f20c78c7e1626bde46b14348f1d4c7a74ed90f3e1d1453392e04d94c9cce52913be5e243042896e11",
         "Task": "minimal",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Manual-Installed": "yes",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.4)"

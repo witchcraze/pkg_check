@@ -14,7 +14,7 @@
         "SHA512": "8121049208e6e5ea908f074d1e4e4cdd8a5eb4886e7fae15033a73b9ccdeaeeeb56dabad48999918997b8457b5f23bec318231809ec2dace8b17c18ddf1683aa",
         "Homepage": "http://www.php.net/",
         "Task": "mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },

@@ -107,6 +107,46 @@
         }
     },
     "fedora": {
+        "36": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3-django": [
+                "kojiPackages"
+            ]
+        },
+        "37": {
+            "python3": [
+                "kojiPackages"
+            ],
+            "community-mysql-server": [
+                "kojiPackages"
+            ],
+            "dotnet": [
+                "kojiPackages"
+            ],
+            "mariadb-server": [
+                "kojiPackages"
+            ],
+            "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3-django": [
+                "kojiPackages"
+            ]
+        },
         "38": {
             "python3": [
                 "kojiPackages"
@@ -122,6 +162,9 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ],
+            "python3-django": [
+                "kojiPackages"
             ]
         },
         "39": {
@@ -135,6 +178,9 @@
                 "kojiPackages"
             ],
             "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3-django": [
                 "kojiPackages"
             ]
         },
@@ -152,6 +198,9 @@
                 "kojiPackages"
             ],
             "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3-django": [
                 "kojiPackages"
             ]
         },
@@ -176,6 +225,9 @@
             ],
             "postgresql-server": [
                 "kojiPackages"
+            ],
+            "python3-django": [
+                "kojiPackages"
             ]
         },
         "42": {
@@ -198,6 +250,9 @@
                 "kojiPackages"
             ],
             "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3-django": [
                 "kojiPackages"
             ]
         }

@@ -12,7 +12,7 @@
         "Depends": "golang-1.19-doc (>= 1.19.8-1ubuntu0.1), golang-1.19-go (>= 1.19.8-1ubuntu0.1), golang-1.19-src (>= 1.19.8-1ubuntu0.1)",
         "Homepage": "https://go.dev/",
         "Download-Size": "11.2 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [

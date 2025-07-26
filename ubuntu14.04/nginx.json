@@ -18,7 +18,7 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/trusty-infra-security 1.4.6-1ubuntu3.9+esm4 all",
+        "nginx/trusty-infra-security 1.4.6-1ubuntu3.9+esm5 all",
         "nginx/trusty-updates,trusty-security 1.4.6-1ubuntu3.9 all",
         "nginx/trusty 1.4.6-1ubuntu3 all"
     ],

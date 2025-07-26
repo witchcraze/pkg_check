@@ -17,12 +17,12 @@
         "Download-Size": "197 kB",
         "SHA512": "7d0da03b5d6ced55149a40e6dc4ebcda35c60078079f87b25ee054d70c887ab9e4ab750fe7f49041c9cd44e18f06f5b65dd0a600d7dc48e440dd164ae242a140",
         "Task": "virt-host, ubuntu-desktop, mail-server, ubuntu-usb, print-server, dns-server, samba-server, cloud-image, server, openssh-server, kubuntu-desktop, kubuntu-active, kubuntu-active-desktop, kubuntu-active, edubuntu-desktop, edubuntu-usb, xubuntu-desktop, mythbuntu-frontend, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master, lubuntu-core, ubuntustudio-desktop, ubuntu-gnome-desktop",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm18 amd64",
+        "python2.7/trusty-infra-security 2.7.6-8ubuntu0.6+esm22 amd64",
         "python2.7/trusty-updates,trusty-security 2.7.6-8ubuntu0.5 amd64",
         "python2.7/trusty 2.7.6-8 amd64"
     ],

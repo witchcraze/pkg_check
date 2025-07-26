@@ -1,0 +1,25 @@
+{
+    "info": {
+        "Name": "java-25-openjdk",
+        "Epoch": "1",
+        "Version": "25.0.0.0.32",
+        "Release": "0.1.ea.fc41",
+        "Architecture": "x86_64",
+        "Download size": "366.3 KiB",
+        "Installed size": "963.6 KiB",
+        "Source": "java-25-openjdk-25.0.0.0.32-0.1.ea.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "OpenJDK 25 Runtime Environment",
+        "URL": "http://openjdk.java.net/",
+        "License": "Apache-1.1 AND Apache-2.0 AND LicenseRef-Callaway-BSD AND LicenseRef-Callaway-BSD-with-advertising AND GPL-1.0-or-later AND GPL-2.0-only AND LicenseRef-Callaway-GPLv2-with-exceptions AND IJG AND LicenseRef-Callaway-LGPLv2+ AND LicenseRef-Callaway-MIT AND MPL-2.0 AND LicenseRef-Callaway-Public-Domain AND W3C AND Zlib AND ISC AND FTL AND LicenseRef-RSA",
+        "Description": "The OpenJDK 25 runtime environment.",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "java-25-openjdk.x86_64 1:25.0.0.0.32-0.1.ea.fc41 updates"
+    ],
+    "kojiPackages": [
+        "java-25-openjdk-25.0.0.0.32-0.1.ea.fc41",
+        "java-25-openjdk-25.0.0.0.26-0.3.ea.fc41"
+    ]
+}

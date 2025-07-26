@@ -13,7 +13,7 @@
         "Depends": "mariadb-server (>= 1:10.11)",
         "Homepage": "https://mariadb.org/",
         "Download-Size": "11.6 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
     "list": [

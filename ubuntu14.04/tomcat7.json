@@ -21,6 +21,7 @@
         "Description": "Servlet and JSP engine"
     },
     "list": [
+        "tomcat7/trusty-infra-security 7.0.52-1ubuntu0.16+esm1 all",
         "tomcat7/trusty-updates,trusty-security 7.0.52-1ubuntu0.16 all",
         "tomcat7/trusty 7.0.52-1 all"
     ],

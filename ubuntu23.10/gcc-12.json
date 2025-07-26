@@ -16,7 +16,7 @@
         "Replaces": "cpp-12 (<< 7.1.1-8)",
         "Homepage": "http://gcc.gnu.org/",
         "Download-Size": "21.6 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "list": [

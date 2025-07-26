@@ -21,7 +21,7 @@
         "Homepage": "http://dev.perl.org/perl5/",
         "Task": "server-minimal, print-server, ubuntu-desktop-minimal, lamp-server, ubuntu-desktop, cloud-image, postgresql-server, ubuntu-desktop-raspi, ubuntu-wsl, mail-server, server, ubuntu-server-raspi, kubuntu-desktop, xubuntu-minimal, xubuntu-desktop, lubuntu-desktop, ubuntustudio-desktop-core, ubuntustudio-desktop, ubuntukylin-desktop, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-budgie-desktop, ubuntu-budgie-desktop-raspi, ubuntu-unity-desktop, edubuntu-desktop-minimal, edubuntu-desktop, edubuntu-desktop-raspi, edubuntu-wsl, edubuntu-server-raspi",
         "Download-Size": "235 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [

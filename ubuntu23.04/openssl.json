@@ -15,7 +15,7 @@
         "Task": "minimal, server-minimal",
         "Download-Size": "1180 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [

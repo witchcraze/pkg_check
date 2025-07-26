@@ -18,7 +18,7 @@
         "Homepage": "http://gcc.gnu.org/",
         "Task": "ubuntustudio-audio, ubuntustudio-publishing, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-unity-desktop, edubuntu-desktop-gnome, ubuntucinnamon-desktop, ubuntucinnamon-desktop-raspi",
         "Download-Size": "21.5 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "list": [

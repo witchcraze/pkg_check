@@ -14,7 +14,7 @@
         "Download-Size": "66.5 kB",
         "SHA512": "b424b763f5e3b52573c0663d269617ea53ff9fd61c074b24959d031ebc51a97dc8da676714c4028c58b73fc77c8648765fbd4321a6811125df80cdb1bb5dec7c",
         "Homepage": "http://www.ruby-lang.org/",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },

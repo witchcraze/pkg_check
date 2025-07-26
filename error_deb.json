@@ -37,7 +37,7 @@
             "proftpd-basic": [
                 "apt-get changelog"
             ],
-            "python3.9": [
+            "python3-django": [
                 "apt-get changelog"
             ],
             "redis-server": [

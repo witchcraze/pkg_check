@@ -17,6 +17,7 @@
         "Description": "Interactive high-level object-oriented language (version 3.5)"
     },
     "list": [
+        "python3.5/trusty-infra-security 3.5.2-2ubuntu0~16.04.4~14.04.1+esm3 amd64",
         "python3.5/trusty-updates,trusty-security 3.5.2-2ubuntu0~16.04.4~14.04.1 amd64"
     ],
     "changelog": [

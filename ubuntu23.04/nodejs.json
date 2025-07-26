@@ -18,7 +18,7 @@
         "Replaces": "libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), nodejs-legacy",
         "Homepage": "https://nodejs.org/",
         "Download-Size": "294 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [

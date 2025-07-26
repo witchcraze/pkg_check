@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "python-django",
+        "Priority": "optional",
+        "Section": "python",
+        "Installed-Size": "27.5 MB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "1.6.11-0ubuntu1.3+esm7",
+        "Recommends": "libjs-jquery",
+        "Suggests": "python-psycopg2, python-psycopg, python-mysqldb, python-flup, python-sqlite, python-yaml, geoip-database-contrib, gettext, python-django-doc, ipython, bpython, libgdal1",
+        "Depends": "python (>= 2.7), python (<< 2.8), python:any (>= 2.7.1-0ubuntu2)",
+        "Download-Size": "2207 kB",
+        "Original-Maintainer": "Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>",
+        "APT-Sources": "https://esm.ubuntu.com/ubuntu/ trusty-infra-security/main amd64 Packages",
+        "Description": "High-level Python web development framework"
+    },
+    "list": [
+        "python-django/trusty-infra-security 1.6.11-0ubuntu1.3+esm7 all",
+        "python-django/trusty-updates,trusty-security 1.6.11-0ubuntu1.3 all",
+        "python-django/trusty 1.6.1-2 all"
+    ],
+    "changelog": [
+        "python-django (1.6.11-0ubuntu1.3+esm7) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm6) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm5) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm4) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm3) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm2) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3+esm1) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.3) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.2) trusty-security; urgency=medium",
+        "python-django (1.6.11-0ubuntu1.1) trusty-security; urgency=medium"
+    ],
+    "publishinghistory": []
+}

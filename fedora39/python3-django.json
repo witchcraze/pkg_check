@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Version": "4.2.16",
+        "Release": "1.fc39",
+        "Architecture": "noarch",
+        "Size": "5.6 M",
+        "Source": "python-django-4.2.16-1.fc39.src.rpm",
+        "Repository": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "https://www.djangoproject.com/",
+        "License": "BSD-3-Clause AND PSF-2.0 AND MIT AND OFL-1.1",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python3-django.noarch                   4.2.3-1.fc39                     fedora",
+        "python3-django.noarch                   4.2.16-1.fc39                    updates"
+    ]
+}

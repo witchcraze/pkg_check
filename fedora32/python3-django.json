@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Version": "3.0.13",
+        "Release": "1.fc32",
+        "Architecture": "noarch",
+        "Size": "4.1 M",
+        "Source": "python-django-3.0.13-1.fc32.src.rpm",
+        "Repository": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "https://www.djangoproject.com/",
+        "License": "BSD",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python3-django.noarch                   3.0.2-2.fc32                     fedora",
+        "python3-django.noarch                   3.0.13-1.fc32                    updates"
+    ]
+}

@@ -15,7 +15,7 @@
         "Suggests": "varnish-doc",
         "Homepage": "https://www.varnish-cache.org/",
         "Download-Size": "1042 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [

@@ -14,7 +14,7 @@
         "Suggests": "tomcat9-admin (>= 9.0.70-1ubuntu1), tomcat9-docs (>= 9.0.70-1ubuntu1), tomcat9-examples (>= 9.0.70-1ubuntu1), tomcat9-user (>= 9.0.70-1ubuntu1)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "37.1 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [

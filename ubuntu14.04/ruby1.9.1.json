@@ -18,7 +18,7 @@
         "SHA512": "7f8a4d79166b93c85d8cbe55e34eb28dd17bdc2af04c3ea11cc9b8e8dcc5d58379c717b1e942245a9c437459fd0f7efb075c16a0711816576c52bc926257447d",
         "Homepage": "http://www.ruby-lang.org/",
         "Task": "kubuntu-desktop, kubuntu-full, kubuntu-active, kubuntu-active-desktop, kubuntu-active-full, kubuntu-active, edubuntu-desktop-gnome, ubuntustudio-font-meta",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },

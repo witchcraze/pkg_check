@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Epoch": "0",
+        "Version": "4.2.20",
+        "Release": "1.fc41",
+        "Architecture": "noarch",
+        "Download size": "5.6 MiB",
+        "Installed size": "20.5 MiB",
+        "Source": "python-django-4.2.20-1.fc41.src.rpm",
+        "Repository": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "https://www.djangoproject.com/",
+        "License": "BSD-3-Clause AND PSF-2.0 AND MIT AND OFL-1.1",
+        "Description": "Django is a high-level Python Web framework that encourages rapid",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3-django.noarch 4.2.16-1.fc41 fedora",
+        "python3-django.noarch 4.2.20-1.fc41 updates"
+    ]
+}

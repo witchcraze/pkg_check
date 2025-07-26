@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3-django",
+        "Version": "1.10.8",
+        "Release": "1.fc26",
+        "Arch": "noarch",
+        "Size": "4.1 M",
+        "Source": "python-django-1.10.8-1.fc26.src.rpm",
+        "Repo": "updates",
+        "Summary": "A high-level Python Web framework",
+        "URL": "http://www.djangoproject.com/",
+        "License": "BSD",
+        "Description": "Django is a high-level Python Web framework that encourages rapid"
+    },
+    "list": [
+        "python3-django.noarch                   1.10.7-1.fc26                    fedora",
+        "python3-django.noarch                   1.10.8-1.fc26                    updates"
+    ]
+}

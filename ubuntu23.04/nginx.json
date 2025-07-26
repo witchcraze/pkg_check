@@ -13,7 +13,7 @@
         "Breaks": "libnginx-mod-http-lua (<< 1.18.0-6ubuntu5)",
         "Homepage": "https://nginx.org",
         "Download-Size": "3966 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [

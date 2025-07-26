@@ -14,7 +14,7 @@
         "Suggests": "python3.12-venv, python3.12-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "629 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.12)"
     },
     "list": [

@@ -14,7 +14,7 @@
         "Suggests": "tomcat10-admin (>= 10.1.6-1), tomcat10-docs (>= 10.1.6-1), tomcat10-examples (>= 10.1.6-1), tomcat10-user (>= 10.1.6-1)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "37.0 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu lunar/universe amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu lunar/universe amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
     "list": [

@@ -17,7 +17,7 @@
         "Description": "evented I/O for V8 javascript"
     },
     "list": [
-        "nodejs/trusty-infra-security 0.10.25~dfsg2-2ubuntu1.2+esm1 amd64",
+        "nodejs/trusty-infra-security 0.10.25~dfsg2-2ubuntu1.2+esm2 amd64",
         "nodejs/trusty-updates,trusty-security 0.10.25~dfsg2-2ubuntu1.2 amd64",
         "nodejs/trusty 0.10.25~dfsg2-2ubuntu1 amd64"
     ],

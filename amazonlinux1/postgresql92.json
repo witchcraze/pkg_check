@@ -3,7 +3,7 @@
         "Name": "postgresql92",
         "Arch": "x86_64",
         "Version": "9.2.24",
-        "Release": "3.69.amzn1",
+        "Release": "3.70.amzn1",
         "Size": "4.1 M",
         "Repo": "amzn-updates/latest",
         "Summary": "PostgreSQL client programs",
@@ -16,6 +16,7 @@
         "postgresql92.x86_64                9.2.24-2.66.amzn1                amzn-updates",
         "postgresql92.x86_64                9.2.24-3.67.amzn1                amzn-updates",
         "postgresql92.x86_64                9.2.24-3.68.amzn1                amzn-updates",
-        "postgresql92.x86_64                9.2.24-3.69.amzn1                amzn-updates"
+        "postgresql92.x86_64                9.2.24-3.69.amzn1                amzn-updates",
+        "postgresql92.x86_64                9.2.24-3.70.amzn1                amzn-updates"
     ]
 }

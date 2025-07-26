@@ -12,7 +12,7 @@
         "Depends": "golang-1.21-doc (>= 1.21.1-1ubuntu0.23.10.1), golang-1.21-go (>= 1.21.1-1ubuntu0.23.10.1), golang-1.21-src (>= 1.21.1-1ubuntu0.23.10.1)",
         "Homepage": "https://go.dev/",
         "Download-Size": "5708 B",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [

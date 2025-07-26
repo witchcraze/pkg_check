@@ -3,6 +3,7 @@
         "Package": "perl",
         "Version": "5.18.2-2ubuntu1.7",
         "Priority": "important",
+        "Build-Essential": "yes",
         "Section": "perl",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -20,8 +21,7 @@
         "SHA512": "683c78257b0959b20f301b3cfed2627bf7fcb7a7898fe5cc3ca47bfcacb5c7059e8f2b844371722f05ea2441822f43eca8aa448712b7b06c8f48ba310c0175a8",
         "Homepage": "http://dev.perl.org/perl5/",
         "Task": "minimal",
-        "Build-Essential": "yes",
-        "Supported": "5y",
+        "Supported": "3y",
         "APT-Manual-Installed": "yes",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"

@@ -17,7 +17,7 @@
         "Task": "postgresql-server",
         "Postgresql-Catversion": "202209061",
         "Download-Size": "16.4 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
+        "APT-Sources": "http://old-releases.ubuntu.com/ubuntu mantic-updates/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
