@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "python3-django",
+        "Version": "1:1.11.11-1ubuntu1.21+esm11",
+        "Priority": "optional",
+        "Section": "python",
+        "Source": "python-django",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>",
+        "Installed-Size": "9894 kB",
+        "Pre-Depends": "dpkg (>= 1.17.14)",
+        "Depends": "python-django-common (= 1:1.11.11-1ubuntu1.21+esm11), python3-tz, python3:any (>= 3.3.2-2~)",
+        "Recommends": "libjs-jquery, python3-sqlparse",
+        "Suggests": "bpython3, geoip-database-contrib, gettext, ipython3, libgdal1, python-django-doc, python3-bcrypt, python3-flup, python3-memcache, python3-pil, python3-psycopg2, python3-pymysql, python3-sqlite, python3-yaml",
+        "Download-Size": "904 kB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
+        "Description": "High-level Python web development framework (Python 3 version)"
+    },
+    "list": [
+        "python3-django/bionic-infra-security 1:1.11.11-1ubuntu1.21+esm11 all",
+        "python3-django/bionic-updates,bionic-security 1:1.11.11-1ubuntu1.21 all",
+        "python3-django/bionic 1:1.11.11-1ubuntu1 all"
+    ],
+    "changelog": [
+        "python-django (1:1.11.11-1ubuntu1.21+esm11) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm10) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm9) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm8) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm7) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm6) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm5) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm4) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm3) bionic-security; urgency=medium",
+        "python-django (1:1.11.11-1ubuntu1.21+esm2) bionic-security; urgency=medium"
+    ],
+    "publishinghistory": []
+}

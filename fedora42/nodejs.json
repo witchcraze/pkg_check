@@ -2,12 +2,12 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.17.0",
+        "Version": "22.17.1",
         "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "46.0 KiB",
-        "Installed size": "154.8 KiB",
-        "Source": "nodejs22-22.17.0-1.fc42.src.rpm",
+        "Download size": "46.3 KiB",
+        "Installed size": "154.9 KiB",
+        "Source": "nodejs22-22.17.1-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -18,8 +18,8 @@
     "list": [
         "nodejs.i686   1:22.14.0-2.fc42 fedora",
         "nodejs.x86_64 1:22.14.0-2.fc42 fedora",
-        "nodejs.i686   1:22.17.0-1.fc42 updates",
-        "nodejs.x86_64 1:22.17.0-1.fc42 updates"
+        "nodejs.i686   1:22.17.1-1.fc42 updates",
+        "nodejs.x86_64 1:22.17.1-1.fc42 updates"
     ],
     "kojiPackages": [
         "nodejs20-20.19.4-2.fc42",

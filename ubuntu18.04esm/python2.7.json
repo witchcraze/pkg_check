@@ -13,11 +13,12 @@
         "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
         "Replaces": "python-profiler (<= 2.7.1-2), python2.7-minimal (<< 2.7.3-7~)",
         "Download-Size": "248 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/bionic-infra-security 2.7.17-1~18.04ubuntu1.13+esm11 amd64",
+        "python2.7/bionic-infra-security,now 2.7.17-1~18.04ubuntu1.13+esm11 amd64 [installed,automatic]",
         "python2.7/bionic-updates,bionic-security 2.7.17-1~18.04ubuntu1.11 amd64",
         "python2.7/bionic 2.7.15~rc1-1 amd64"
     ],
