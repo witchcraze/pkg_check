@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "481.el9",
+        "Release": "481.1.el9_6",
         "Architecture": "x86_64",
         "Size": "11 k",
-        "Source": "perl-5.32.1-481.el9.src.rpm",
+        "Source": "perl-5.32.1-481.1.el9_6.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -14,11 +14,13 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.src                       4:5.32.1-479.el9                    ol9_appstream",
-        "perl.x86_64                    4:5.32.1-479.el9                    ol9_appstream",
-        "perl.src                       4:5.32.1-480.el9                    ol9_appstream",
-        "perl.x86_64                    4:5.32.1-480.el9                    ol9_appstream",
-        "perl.src                       4:5.32.1-481.el9                    ol9_appstream",
-        "perl.x86_64                    4:5.32.1-481.el9                    ol9_appstream"
+        "perl.src                     4:5.32.1-479.el9                      ol9_appstream",
+        "perl.x86_64                  4:5.32.1-479.el9                      ol9_appstream",
+        "perl.src                     4:5.32.1-480.el9                      ol9_appstream",
+        "perl.x86_64                  4:5.32.1-480.el9                      ol9_appstream",
+        "perl.src                     4:5.32.1-481.el9                      ol9_appstream",
+        "perl.x86_64                  4:5.32.1-481.el9                      ol9_appstream",
+        "perl.src                     4:5.32.1-481.1.el9_6                  ol9_appstream",
+        "perl.x86_64                  4:5.32.1-481.1.el9_6                  ol9_appstream"
     ]
 }

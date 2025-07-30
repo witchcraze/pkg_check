@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "perl",
-        "Version": "5.40.1-2ubuntu0.1",
+        "Version": "5.40.1-2ubuntu0.2",
         "Priority": "optional",
         "Build-Essential": "yes",
         "Section": "perl",
@@ -11,7 +11,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "859 kB",
         "Provides": "libansicolor-perl (= 5.01), libarchive-tar-perl (= 3.02.001), libattribute-handlers-perl (= 1.03), libautodie-perl (= 2.37), libcompress-raw-bzip2-perl (= 2.212), libcompress-raw-zlib-perl (= 2.212), libcompress-zlib-perl (= 2.212), libcpan-meta-perl (= 2.150010), libcpan-meta-requirements-perl (= 2.143), libcpan-meta-yaml-perl (= 0.018), libdigest-md5-perl (= 2.58.01), libdigest-perl (= 1.20), libdigest-sha-perl (= 6.04), libencode-perl (= 3.21), libexperimental-perl (= 0.032), libextutils-cbuilder-perl (= 0.280240), libextutils-command-perl (= 7.70), libextutils-install-perl (= 2.22), libextutils-parsexs-perl (= 3.510000), libfile-spec-perl (= 3.9100), libhttp-tiny-perl (= 0.088), libi18n-langtags-perl (= 0.45), libio-compress-base-perl (= 2.212), libio-compress-bzip2-perl (= 2.212), libio-compress-perl (= 2.212), libio-compress-zlib-perl (= 2.212), libio-zlib-perl (= 1.15), libjson-pp-perl (= 4.16000), liblocale-maketext-perl (= 1.33), liblocale-maketext-simple-perl (= 0.21.01), libmath-bigint-perl (= 2.003002), libmath-complex-perl (= 1.6200), libmime-base64-perl (= 3.16.01), libmodule-corelist-perl (= 5.20250118.40), libmodule-load-conditional-perl (= 0.74), libmodule-load-perl (= 0.36), libmodule-metadata-perl (= 1.000038), libnet-perl (= 1:3.15), libnet-ping-perl (= 2.76), libparams-check-perl (= 0.38), libparent-perl (= 0.241), libparse-cpan-meta-perl (= 2.150010), libperl-ostype-perl (= 1.010), libpod-escapes-perl (= 1.07), libpod-simple-perl (= 3.45), libstorable-perl (= 3.32), libsys-syslog-perl (= 0.36), libterm-table-perl (= 0.018), libtest-harness-perl (= 3.48), libtest-simple-perl (= 1.302199), libtest-tester-perl (= 1.302199), libtest-use-ok-perl (= 1.302199), libtext-balanced-perl (= 2.06), libthread-queue-perl (= 3.14), libthreads-perl (= 2.40), libthreads-shared-perl (= 1.69), libtime-hires-perl (= 1.9777), libtime-local-perl (= 1.3500), libtime-piece-perl (= 1.3401.01), libunicode-collate-perl (= 1.31), libversion-perl (= 1:0.9930), libversion-requirements-perl, podlators-perl (= 5.01.02)",
-        "Depends": "perl-base (= 5.40.1-2ubuntu0.1), perl-modules-5.40 (>= 5.40.1-2ubuntu0.1), libperl5.40 (= 5.40.1-2ubuntu0.1)",
+        "Depends": "perl-base (= 5.40.1-2ubuntu0.2), perl-modules-5.40 (>= 5.40.1-2ubuntu0.2), libperl5.40 (= 5.40.1-2ubuntu0.2)",
         "Recommends": "netbase",
         "Suggests": "perl-doc, libterm-readline-gnu-perl | libterm-readline-perl-perl, make, libtap-harness-archive-perl",
         "Conflicts": "libjson-pp-perl (<< 2.27200-2)",
@@ -24,10 +24,11 @@
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/plucky-updates,plucky-security 5.40.1-2ubuntu0.1 amd64",
+        "perl/plucky-updates,plucky-security 5.40.1-2ubuntu0.2 amd64",
         "perl/plucky 5.40.1-2 amd64"
     ],
     "changelog": [
+        "perl (5.40.1-2ubuntu0.2) plucky-security; urgency=medium",
         "perl (5.40.1-2ubuntu0.1) plucky-security; urgency=medium",
         "perl (5.40.1-2) unstable; urgency=medium",
         "perl (5.40.1-1) experimental; urgency=medium",
@@ -428,6 +429,7 @@
         "perl (5.003.07-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "5.40.1-2ubuntu0.2",
         "5.40.1-2ubuntu0.1",
         "5.40.1-2",
         "5.40.0-8",

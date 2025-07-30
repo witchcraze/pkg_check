@@ -3,11 +3,11 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.26.3",
-        "Release": "422.el8.0.1",
+        "Release": "423.el8_10",
         "Architecture": "x86_64",
         "Size": "72 k",
-        "Source": "perl-5.26.3-422.el8.0.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "Source": "perl-5.26.3-423.el8_10.src.rpm",
+        "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "http://www.perl.org/",
         "License": "GPL+ or Artistic",
@@ -24,6 +24,7 @@
         "perl.x86_64                              4:5.26.3-422.el8                                  repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "perl.x86_64                              4:5.26.3-422.el8.0.1                              appstream",
         "perl.x86_64                              4:5.26.3-422.el8.0.1                              repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
-        "perl.x86_64                              4:5.26.3-422.el8.0.1                              repo.almalinux.org_vault_8.9_AppStream_x86_64_os_"
+        "perl.x86_64                              4:5.26.3-422.el8.0.1                              repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
+        "perl.x86_64                              4:5.26.3-423.el8_10                               appstream"
     ]
 }

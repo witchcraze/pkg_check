@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "nodejs24",
+        "Epoch": "1",
+        "Version": "24.4.1",
+        "Release": "2.fc42",
+        "Architecture": "x86_64",
+        "Download size": "63.9 KiB",
+        "Installed size": "297.7 KiB",
+        "Source": "nodejs24-24.4.1-2.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "https://nodejs.org",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "nodejs24.x86_64 1:24.4.1-2.fc42 updates"
+    ],
+    "kojiPackages": [
+        "nodejs24-24.4.1-2.fc42"
+    ]
+}

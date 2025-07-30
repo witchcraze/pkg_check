@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3-django",
         "Epoch": "0",
-        "Version": "5.2.2",
+        "Version": "5.2.4",
         "Release": "1.fc42",
         "Architecture": "noarch",
         "Download size": "5.8 MiB",
         "Installed size": "21.3 MiB",
-        "Source": "python-django5-5.2.2-1.fc42.src.rpm",
+        "Source": "python-django5-5.2.4-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "A high-level Python Web framework",
         "URL": "https://www.djangoproject.com/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "python3-django.noarch 5.1.7-2.fc42 fedora",
-        "python3-django.noarch 5.2.2-1.fc42 updates"
+        "python3-django.noarch 5.2.4-1.fc42 updates"
     ]
 }

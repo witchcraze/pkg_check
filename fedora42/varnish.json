@@ -22,6 +22,7 @@
         "varnish.x86_64 7.6.1-5.fc42 updates"
     ],
     "kojiPackages": [
+        "varnish-7.6.1-6.fc42",
         "varnish-7.6.1-5.fc42",
         "varnish-7.6.1-4.fc42",
         "varnish-7.6.1-3.fc42",

@@ -25,6 +25,7 @@
         "perl.x86_64                           4:5.26.3-422.el8                                dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
     ],
     "kojiPackages": [
+        "perl-5.26.3-423.el8_10",
         "perl-5.26.3-422.el8",
         "perl-5.26.3-421.el8",
         "perl-5.26.3-420.el8",
