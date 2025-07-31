@@ -18,12 +18,11 @@
         "Replaces": "openjdk-11-jre-headless (<< 11~19-2)",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "1341 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-11-jdk/noble-security 11.0.28+6-1ubuntu1~24.04.1 amd64",
-        "openjdk-11-jdk/noble-updates 11.0.27+6~us1-0ubuntu1~24.04 amd64",
+        "openjdk-11-jdk/noble-updates,noble-security 11.0.28+6-1ubuntu1~24.04.1 amd64",
         "openjdk-11-jdk/noble 11.0.23+9-1ubuntu1 amd64"
     ],
     "changelog": [
