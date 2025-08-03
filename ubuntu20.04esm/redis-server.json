@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "redis-server",
+        "Version": "5:5.0.7-2ubuntu0.1+esm3",
+        "Priority": "optional",
+        "Section": "database",
+        "Source": "redis",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
+        "Installed-Size": "169 kB",
+        "Pre-Depends": "init-system-helpers (>= 1.54~)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:5.0.7-2ubuntu0.1+esm3)",
+        "Download-Size": "37.4 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu focal-apps-security/main amd64 Packages",
+        "Description": "Persistent key-value database with network interface"
+    },
+    "list": [
+        "redis-server/focal-apps-security 5:5.0.7-2ubuntu0.1+esm3 amd64",
+        "redis-server/focal-updates,focal-security 5:5.0.7-2ubuntu0.1 amd64",
+        "redis-server/focal 5:5.0.7-2 amd64"
+    ],
+    "changelog": [
+        "redis (5:5.0.7-2ubuntu0.1+esm3) focal-security; urgency=medium",
+        "redis (5:5.0.7-2ubuntu0.1+esm2) focal-security; urgency=medium",
+        "redis (5:5.0.7-2ubuntu0.1+esm1) focal-security; urgency=medium",
+        "redis (5:5.0.7-2ubuntu0.1) focal-security; urgency=medium",
+        "redis (5:5.0.7-2) unstable; urgency=medium",
+        "redis (5:5.0.7-1) unstable; urgency=medium",
+        "redis (5:5.0.6-1) unstable; urgency=medium",
+        "redis (5:5.0.5-2) unstable; urgency=medium",
+        "redis (5:5.0.5-1) unstable; urgency=medium",
+        "redis (5:5.0.4-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": []
+}

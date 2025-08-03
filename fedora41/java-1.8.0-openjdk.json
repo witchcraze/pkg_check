@@ -2,12 +2,12 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.452.b06",
-        "Release": "1.fc41",
+        "Version": "1.8.0.462.b06",
+        "Release": "1.fc39",
         "Architecture": "x86_64",
-        "Download size": "421.4 KiB",
+        "Download size": "421.1 KiB",
         "Installed size": "1.1 MiB",
-        "Source": "java-1.8.0-openjdk-1.8.0.452.b06-1.fc41.src.rpm",
+        "Source": "java-1.8.0-openjdk-1.8.0.462.b06-1.fc39.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "java-1.8.0-openjdk.x86_64 1:1.8.0.422.b06-2.fc41 fedora",
-        "java-1.8.0-openjdk.x86_64 1:1.8.0.452.b06-1.fc41 updates"
+        "java-1.8.0-openjdk.x86_64 1:1.8.0.462.b06-1.fc39 updates"
     ],
     "kojiPackages": [
         "java-1.8.0-openjdk-1.8.0.452.b06-1.fc41",

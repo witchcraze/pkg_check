@@ -1,28 +1,28 @@
 {
     "show": {
         "Package": "openjdk-8-jdk",
-        "Version": "8u462-ga~us1-0ubuntu2~16.04.2",
+        "Version": "8u462-ga~us1-0ubuntu2~20.04.2",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-8",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Java Maintenance <pkg-java-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "1632 kB",
+        "Installed-Size": "4384 kB",
         "Provides": "java-compiler, java-sdk (= 8), java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk",
-        "Depends": "openjdk-8-jre (= 8u462-ga~us1-0ubuntu2~16.04.2), openjdk-8-jdk-headless (= 8u462-ga~us1-0ubuntu2~16.04.2), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-8-jre (= 8u462-ga~us1-0ubuntu2~20.04.2), openjdk-8-jdk-headless (= 8u462-ga~us1-0ubuntu2~20.04.2), libc6 (>= 2.2.5), libx11-6, zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-8-demo, openjdk-8-source, visualvm",
-        "Download-Size": "1519 kB",
-        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Download-Size": "4087 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu focal-apps-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-8-jdk/xenial-infra-security 8u462-ga~us1-0ubuntu2~16.04.2 amd64",
-        "openjdk-8-jdk/xenial-updates,xenial-security 8u292-b10-0ubuntu1~16.04.1 amd64",
-        "openjdk-8-jdk/xenial 8u77-b03-3ubuntu3 amd64"
+        "openjdk-8-jdk/focal-apps-security 8u462-ga~us1-0ubuntu2~20.04.2 amd64",
+        "openjdk-8-jdk/focal-updates,focal-security 8u452-ga~us1-0ubuntu1~20.04 amd64",
+        "openjdk-8-jdk/focal 8u252-b09-1ubuntu1 amd64"
     ],
     "changelog": [
-        "openjdk-8 (8u462-ga~us1-0ubuntu2~16.04.2) xenial-security; urgency=medium",
+        "openjdk-8 (8u462-ga~us1-0ubuntu2~20.04.2) focal-security; urgency=medium",
         "openjdk-8 (8u462-ga~us1-0ubuntu2) questing; urgency=medium",
         "openjdk-8 (8u462-ga~us1-0ubuntu1) questing; urgency=medium",
         "openjdk-8 (8u452-ga-1) unstable; urgency=low",

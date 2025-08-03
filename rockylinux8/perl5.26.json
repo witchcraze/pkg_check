@@ -3,11 +3,11 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.26.3",
-        "Release": "422.el8",
+        "Release": "423.el8_10",
         "Architecture": "x86_64",
         "Size": "72 k",
-        "Source": "perl-5.26.3-422.el8.src.rpm",
-        "Repository": "dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "Source": "perl-5.26.3-423.el8_10.src.rpm",
+        "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "http://www.perl.org/",
         "License": "GPL+ or Artistic",
@@ -22,7 +22,8 @@
         "perl.x86_64                           4:5.26.3-421.el8                                dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "perl.x86_64                           4:5.26.3-422.el8                                appstream",
         "perl.x86_64                           4:5.26.3-422.el8                                dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
-        "perl.x86_64                           4:5.26.3-422.el8                                dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
+        "perl.x86_64                           4:5.26.3-422.el8                                dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
+        "perl.x86_64                           4:5.26.3-423.el8_10                             appstream"
     ],
     "kojiPackages": [
         "perl-5.26.2-412.module+el8.4.0+455+63860e7c",

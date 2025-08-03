@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "tomcat9",
+        "Version": "9.0.31-1ubuntu0.9+esm2",
+        "Priority": "optional",
+        "Section": "java",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+        "Installed-Size": "312 kB",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.31-1ubuntu0.9+esm2), ucf",
+        "Recommends": "libtcnative-1 (>= 1.2.18)",
+        "Suggests": "tomcat9-admin (>= 9.0.31-1ubuntu0.9+esm2), tomcat9-docs (>= 9.0.31-1ubuntu0.9+esm2), tomcat9-examples (>= 9.0.31-1ubuntu0.9+esm2), tomcat9-user (>= 9.0.31-1ubuntu0.9+esm2)",
+        "Download-Size": "36.5 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu focal-apps-security/main amd64 Packages",
+        "Description": "Apache Tomcat 9 - Servlet and JSP engine"
+    },
+    "list": [
+        "tomcat9/focal-apps-security 9.0.31-1ubuntu0.9+esm2 all",
+        "tomcat9/focal-updates,focal-security 9.0.31-1ubuntu0.9 all",
+        "tomcat9/focal 9.0.31-1 all"
+    ],
+    "changelog": [
+        "tomcat9 (9.0.31-1ubuntu0.9+esm2) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.9+esm1) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.9) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.8) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.7) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.6) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.5) focal-security; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.4) focal; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.3) focal; urgency=medium",
+        "tomcat9 (9.0.31-1ubuntu0.2) focal-security; urgency=medium"
+    ],
+    "publishinghistory": []
+}

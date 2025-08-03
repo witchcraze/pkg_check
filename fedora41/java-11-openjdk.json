@@ -2,12 +2,12 @@
     "info": {
         "Name": "java-11-openjdk",
         "Epoch": "1",
-        "Version": "11.0.27.0.6",
+        "Version": "11.0.28.0.6",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "408.5 KiB",
+        "Download size": "401.1 KiB",
         "Installed size": "1.0 MiB",
-        "Source": "java-11-openjdk-11.0.27.0.6-1.fc41.src.rpm",
+        "Source": "java-11-openjdk-11.0.28.0.6-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "java-11-openjdk.x86_64 1:11.0.24.0.8-2.fc41 fedora",
-        "java-11-openjdk.x86_64 1:11.0.27.0.6-1.fc41 updates"
+        "java-11-openjdk.x86_64 1:11.0.28.0.6-1.fc41 updates"
     ],
     "kojiPackages": [
         "java-11-openjdk-11.0.28.0.6-1.fc41",

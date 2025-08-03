@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.40.2",
-        "Release": "512.1.el10_0",
+        "Release": "512.2.el10_0",
         "Architecture": "x86_64",
-        "Size": "14 k",
-        "Source": "perl-5.40.2-512.1.el10_0.src.rpm",
+        "Size": "13 k",
+        "Source": "perl-5.40.2-512.2.el10_0.src.rpm",
         "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -14,7 +14,8 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64                                                 4:5.40.2-512.1.el10_0                                                  appstream"
+        "perl.x86_64                                                 4:5.40.2-512.1.el10_0                                                  appstream",
+        "perl.x86_64                                                 4:5.40.2-512.2.el10_0                                                  appstream"
     ],
     "kojiPackages": [
         "perl-5.40.2-512.2.el10_0",

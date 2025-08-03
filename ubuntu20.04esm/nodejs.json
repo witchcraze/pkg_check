@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "nodejs",
+        "Version": "10.19.0~dfsg-3ubuntu1.6+esm2",
+        "Priority": "optional",
+        "Section": "javascript",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>",
+        "Installed-Size": "159 kB",
+        "Depends": "libc6 (>= 2.4), libnode64 (= 10.19.0~dfsg-3ubuntu1.6+esm2)",
+        "Recommends": "ca-certificates, nodejs-doc",
+        "Suggests": "npm",
+        "Conflicts": "nodejs-legacy",
+        "Replaces": "nodejs-legacy",
+        "Download-Size": "61.6 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu focal-apps-security/main amd64 Packages",
+        "Description": "evented I/O for V8 javascript - runtime executable"
+    },
+    "list": [
+        "nodejs/focal-apps-security 10.19.0~dfsg-3ubuntu1.6+esm2 amd64",
+        "nodejs/focal-updates,focal-security 10.19.0~dfsg-3ubuntu1.6 amd64",
+        "nodejs/focal 10.19.0~dfsg-3ubuntu1 amd64"
+    ],
+    "changelog": [
+        "nodejs (10.19.0~dfsg-3ubuntu1.6+esm2) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.6+esm1test1) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.6+esm1) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.6) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.5) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.3) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.2) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1.1) focal-security; urgency=medium",
+        "nodejs (10.19.0~dfsg-3ubuntu1) focal; urgency=medium",
+        "nodejs (10.19.0~dfsg-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": []
+}
