@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "5.5",
-        "Release": "19.el9_6",
+        "Release": "19.el9_6.1",
         "Architecture": "x86_64",
-        "Size": "3.9 M",
-        "Source": "squid-5.5-19.el9_6.src.rpm",
+        "Size": "3.8 M",
+        "Source": "squid-5.5-19.el9_6.1.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -30,6 +30,7 @@
         "squid.x86_64                                        7:5.5-14.el9                                            rhel-9-for-x86_64-appstream-rpms",
         "squid.x86_64                                        7:5.5-14.el9_5.3                                        rhel-9-for-x86_64-appstream-rpms",
         "squid.x86_64                                        7:5.5-18.el9                                            rhel-9-for-x86_64-appstream-rpms",
-        "squid.x86_64                                        7:5.5-19.el9_6                                          rhel-9-for-x86_64-appstream-rpms"
+        "squid.x86_64                                        7:5.5-19.el9_6                                          rhel-9-for-x86_64-appstream-rpms",
+        "squid.x86_64                                        7:5.5-19.el9_6.1                                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

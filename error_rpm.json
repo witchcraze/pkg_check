@@ -18,6 +18,9 @@
             "mariadb-server": [
                 "kojiPackages"
             ],
+            "mysql8.4-server": [
+                "kojiPackages"
+            ],
             "nodejs": [
                 "kojiPackages"
             ],
@@ -93,6 +96,9 @@
                 "kojiPackages"
             ],
             "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mysql8.4-server": [
                 "kojiPackages"
             ],
             "nodejs": [
@@ -177,6 +183,9 @@
             "mysql-server": [
                 "kojiPackages"
             ],
+            "mysql8.4-server": [
+                "kojiPackages"
+            ],
             "nodejs20": [
                 "kojiPackages"
             ],
@@ -201,6 +210,9 @@
                 "kojiPackages"
             ],
             "mysql-server": [
+                "kojiPackages"
+            ],
+            "mysql8.4-server": [
                 "kojiPackages"
             ],
             "nodejs20": [

@@ -2,7 +2,7 @@
     "info": {
         "Name": "php",
         "Arch": "x86_64",
-        "Version": "8.2.28",
+        "Version": "8.2.29",
         "Release": "1.amzn2.0.1",
         "Size": "3.8 M",
         "Repo": "amzn2extra-php8.2/2/x86_64",
@@ -29,6 +29,7 @@
         "php.x86_64                                               8.2.19-1.amzn2                                                    amzn2extra-php8.2",
         "php.x86_64                                               8.2.23-1.amzn2                                                    amzn2extra-php8.2",
         "php.x86_64                                               8.2.27-1.amzn2.0.5                                                amzn2extra-php8.2",
-        "php.x86_64                                               8.2.28-1.amzn2.0.1                                                amzn2extra-php8.2"
+        "php.x86_64                                               8.2.28-1.amzn2.0.1                                                amzn2extra-php8.2",
+        "php.x86_64                                               8.2.29-1.amzn2.0.1                                                amzn2extra-php8.2"
     ]
 }

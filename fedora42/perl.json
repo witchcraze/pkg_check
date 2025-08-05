@@ -20,6 +20,7 @@
         "perl.x86_64 4:5.40.2-518.fc42 updates"
     ],
     "kojiPackages": [
+        "perl-5.40.3-519.fc42",
         "perl-5.40.2-518.fc42app2",
         "perl-5.40.2-518.fc42",
         "perl-5.40.2-517.fc42app2",

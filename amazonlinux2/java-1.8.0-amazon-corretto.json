@@ -3,8 +3,8 @@
         "Name": "java-1.8.0-amazon-corretto",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.8.0_452.b09",
-        "Release": "2.amzn2",
+        "Version": "1.8.0_462.b08",
+        "Release": "1.amzn2",
         "Size": "39 M",
         "Repo": "amzn2extra-corretto8/2/x86_64",
         "Summary": "Amazon Corretto runtime environment",
@@ -48,6 +48,7 @@
         "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_432.b06-1.amzn2                                  amzn2extra-corretto8",
         "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_442.b06-1.amzn2                                  amzn2extra-corretto8",
         "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_452.b09-1.amzn2                                  amzn2extra-corretto8",
-        "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_452.b09-2.amzn2                                  amzn2extra-corretto8"
+        "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_452.b09-2.amzn2                                  amzn2extra-corretto8",
+        "java-1.8.0-amazon-corretto.x86_64                              1:1.8.0_462.b08-1.amzn2                                  amzn2extra-corretto8"
     ]
 }
