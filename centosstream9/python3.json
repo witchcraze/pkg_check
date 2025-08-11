@@ -7,14 +7,13 @@
         "Size": "32 k",
         "Source": "python3.9-3.9.23-1.el9.src.rpm",
         "Repository": "@System",
-        "From repo": "baseos",
         "Summary": "Python 3.9 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python",
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                       3.9.23-1.el9                        @baseos",
+        "python3.x86_64                       3.9.23-1.el9                        @System",
         "python3.x86_64                       3.9.19-8.el9                        baseos",
         "python3.x86_64                       3.9.20-1.el9                        baseos",
         "python3.x86_64                       3.9.21-1.el9                        baseos",

@@ -15,7 +15,7 @@
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat10/stable,stable-security 10.1.34-0+deb12u2 all"
+        "tomcat10/oldstable,oldstable-security 10.1.34-0+deb12u2 all"
     ],
     "changelog": [
         "tomcat10 (10.1.34-0+deb12u2) bookworm-security; urgency=high",

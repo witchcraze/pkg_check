@@ -24,8 +24,8 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/stable 18.19.0+dfsg-6~deb12u2 amd64",
-        "nodejs/stable-security 18.19.0+dfsg-6~deb12u1 amd64"
+        "nodejs/oldstable 18.19.0+dfsg-6~deb12u2 amd64",
+        "nodejs/oldstable-security 18.19.0+dfsg-6~deb12u1 amd64"
     ],
     "changelog": [
         "nodejs (18.19.0+dfsg-6~deb12u2) bookworm; urgency=medium",

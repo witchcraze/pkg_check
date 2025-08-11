@@ -19,7 +19,7 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/oldstable 2.7.18-8+deb11u1 amd64"
+        "python2.7/oldoldstable 2.7.18-8+deb11u1 amd64"
     ],
     "changelog": [
         "python2.7 (2.7.18-8+deb11u1) bullseye; urgency=medium",

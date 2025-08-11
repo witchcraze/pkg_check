@@ -15,8 +15,8 @@
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/oldstable-security 5:6.0.16-1+deb11u7 amd64",
-        "redis-server/oldstable 5:6.0.16-1+deb11u2 amd64"
+        "redis-server/oldoldstable-security 5:6.0.16-1+deb11u7 amd64",
+        "redis-server/oldoldstable 5:6.0.16-1+deb11u2 amd64"
     ],
     "changelog": [
         "redis (5:6.0.16-1+deb11u7) bullseye-security; urgency=high",

@@ -15,8 +15,8 @@
         "Description": "Interactive high-level object-oriented language (version 3.11)"
     },
     "list": [
-        "python3.11/stable 3.11.2-6+deb12u6 amd64",
-        "python3.11/stable-security 3.11.2-6+deb12u3 amd64"
+        "python3.11/oldstable 3.11.2-6+deb12u6 amd64",
+        "python3.11/oldstable-security 3.11.2-6+deb12u3 amd64"
     ],
     "changelog": [
         "python3.11 (3.11.2-6+deb12u6) bookworm; urgency=medium",

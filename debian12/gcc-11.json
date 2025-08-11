@@ -17,7 +17,7 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-11/stable 11.3.0-12 amd64"
+        "gcc-11/oldstable 11.3.0-12 amd64"
     ],
     "changelog": [
         "gcc-11 (11.3.0-12) unstable; urgency=medium",

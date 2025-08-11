@@ -3,11 +3,11 @@
         "Name": "varnish",
         "Epoch": "0",
         "Version": "7.5.0",
-        "Release": "3.fc41",
+        "Release": "4.fc41",
         "Architecture": "x86_64",
         "Download size": "1.1 MiB",
         "Installed size": "3.3 MiB",
-        "Source": "varnish-7.5.0-3.fc41.src.rpm",
+        "Source": "varnish-7.5.0-4.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
@@ -18,8 +18,8 @@
     "list": [
         "varnish.i686   7.5.0-2.fc41 fedora",
         "varnish.x86_64 7.5.0-2.fc41 fedora",
-        "varnish.i686   7.5.0-3.fc41 updates",
-        "varnish.x86_64 7.5.0-3.fc41 updates"
+        "varnish.i686   7.5.0-4.fc41 updates",
+        "varnish.x86_64 7.5.0-4.fc41 updates"
     ],
     "kojiPackages": [
         "varnish-7.5.0-4.fc41",

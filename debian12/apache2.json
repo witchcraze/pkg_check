@@ -18,7 +18,7 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/stable,stable-security 2.4.62-1~deb12u2 amd64"
+        "apache2/oldstable,oldstable-security 2.4.62-1~deb12u2 amd64"
     ],
     "changelog": [
         "apache2 (2.4.62-1~deb12u2) bookworm-security; urgency=medium",

@@ -13,8 +13,8 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/oldstable-security 1.18.0-6.1+deb11u5 all",
-        "nginx/oldstable 1.18.0-6.1+deb11u3 all"
+        "nginx/oldoldstable-security 1.18.0-6.1+deb11u5 all",
+        "nginx/oldoldstable 1.18.0-6.1+deb11u3 all"
     ],
     "changelog": [
         "nginx (1.18.0-6.1+deb11u5) bullseye-security; urgency=high",

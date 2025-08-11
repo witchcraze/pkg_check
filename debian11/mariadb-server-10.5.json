@@ -21,8 +21,8 @@
         "Description": "MariaDB database server binaries"
     },
     "list": [
-        "mariadb-server-10.5/oldstable-security 1:10.5.29-0+deb11u1 amd64",
-        "mariadb-server-10.5/oldstable 1:10.5.23-0+deb11u1 amd64"
+        "mariadb-server-10.5/oldoldstable-security 1:10.5.29-0+deb11u1 amd64",
+        "mariadb-server-10.5/oldoldstable 1:10.5.23-0+deb11u1 amd64"
     ],
     "changelog": [
         "mariadb-10.5 (1:10.5.29-0+deb11u1) bullseye-security; urgency=medium",

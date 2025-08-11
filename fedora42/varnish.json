@@ -3,11 +3,11 @@
         "Name": "varnish",
         "Epoch": "0",
         "Version": "7.6.1",
-        "Release": "5.fc42",
+        "Release": "6.fc42",
         "Architecture": "x86_64",
         "Download size": "1.1 MiB",
         "Installed size": "3.3 MiB",
-        "Source": "varnish-7.6.1-5.fc42.src.rpm",
+        "Source": "varnish-7.6.1-6.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
@@ -18,8 +18,8 @@
     "list": [
         "varnish.i686   7.6.1-1.fc42 fedora",
         "varnish.x86_64 7.6.1-1.fc42 fedora",
-        "varnish.i686   7.6.1-5.fc42 updates",
-        "varnish.x86_64 7.6.1-5.fc42 updates"
+        "varnish.i686   7.6.1-6.fc42 updates",
+        "varnish.x86_64 7.6.1-6.fc42 updates"
     ],
     "kojiPackages": [
         "varnish-7.6.1-6.fc42",

@@ -18,8 +18,8 @@
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/oldstable-security 4.13-10+deb11u4 amd64",
-        "squid/oldstable 4.13-10+deb11u3 amd64"
+        "squid/oldoldstable-security 4.13-10+deb11u4 amd64",
+        "squid/oldoldstable 4.13-10+deb11u3 amd64"
     ],
     "changelog": [
         "squid (4.13-10+deb11u4) bullseye-security; urgency=high",

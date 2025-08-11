@@ -14,8 +14,8 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php8.2/stable-security 8.2.29-1~deb12u1 all",
-        "php8.2/stable 8.2.28-1~deb12u1 all"
+        "php8.2/oldstable-security 8.2.29-1~deb12u1 all",
+        "php8.2/oldstable 8.2.28-1~deb12u1 all"
     ],
     "changelog": [
         "php8.2 (8.2.29-1~deb12u1) bookworm-security; urgency=high",

@@ -16,8 +16,8 @@
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
-        "varnish/stable-security 7.1.1-2+deb12u1 amd64",
-        "varnish/stable 7.1.1-1.1+deb12u1 amd64"
+        "varnish/oldstable-security 7.1.1-2+deb12u1 amd64",
+        "varnish/oldstable 7.1.1-1.1+deb12u1 amd64"
     ],
     "changelog": [
         "varnish (7.1.1-2+deb12u1) bookworm-security; urgency=medium",

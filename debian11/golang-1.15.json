@@ -13,7 +13,7 @@
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.15/oldstable 1.15.15-1~deb11u4 all"
+        "golang-1.15/oldoldstable 1.15.15-1~deb11u4 all"
     ],
     "changelog": [
         "golang-1.15 (1.15.15-1~deb11u4) bullseye; urgency=medium",

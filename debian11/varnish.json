@@ -16,8 +16,8 @@
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
-        "varnish/oldstable-security 6.5.1-1+deb11u5 amd64",
-        "varnish/oldstable 6.5.1-1+deb11u3 amd64"
+        "varnish/oldoldstable-security 6.5.1-1+deb11u5 amd64",
+        "varnish/oldoldstable 6.5.1-1+deb11u3 amd64"
     ],
     "changelog": [
         "varnish (6.5.1-1+deb11u5) bullseye-security; urgency=high",

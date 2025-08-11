@@ -17,7 +17,7 @@
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/stable,stable-security 5.7-2+deb12u2 amd64"
+        "squid/oldstable,oldstable-security 5.7-2+deb12u2 amd64"
     ],
     "changelog": [
         "squid (5.7-2+deb12u2) bookworm-security; urgency=medium",

@@ -17,7 +17,7 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-17-jdk/stable,stable-security 17.0.15+6-1~deb12u1 amd64"
+        "openjdk-17-jdk/oldstable,oldstable-security 17.0.15+6-1~deb12u1 amd64"
     ],
     "changelog": [
         "openjdk-17 (17.0.15+6-1~deb12u1) bookworm-security; urgency=medium",

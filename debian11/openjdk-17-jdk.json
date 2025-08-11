@@ -17,8 +17,8 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-17-jdk/oldstable-security 17.0.15+6-1~deb11u1 amd64",
-        "openjdk-17-jdk/oldstable 17.0.12+7-2~deb11u1 amd64"
+        "openjdk-17-jdk/oldoldstable-security 17.0.15+6-1~deb11u1 amd64",
+        "openjdk-17-jdk/oldoldstable 17.0.12+7-2~deb11u1 amd64"
     ],
     "changelog": [
         "openjdk-17 (17.0.15+6-1~deb11u1) bullseye-security; urgency=medium",

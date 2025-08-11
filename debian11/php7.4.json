@@ -14,8 +14,8 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.4/oldstable-security 7.4.33-1+deb11u9 all",
-        "php7.4/oldstable 7.4.33-1+deb11u5 all"
+        "php7.4/oldoldstable-security 7.4.33-1+deb11u9 all",
+        "php7.4/oldoldstable 7.4.33-1+deb11u5 all"
     ],
     "changelog": [
         "php7.4 (7.4.33-1+deb11u9) bullseye-security; urgency=high",

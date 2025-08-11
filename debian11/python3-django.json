@@ -19,8 +19,8 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/oldstable-security 2:2.2.28-1~deb11u7 all",
-        "python3-django/oldstable 2:2.2.28-1~deb11u2 all"
+        "python3-django/oldoldstable-security 2:2.2.28-1~deb11u7 all",
+        "python3-django/oldoldstable 2:2.2.28-1~deb11u2 all"
     ],
     "changelog": [
         "python-django (2:2.2.28-1~deb11u7) bullseye-security; urgency=high",

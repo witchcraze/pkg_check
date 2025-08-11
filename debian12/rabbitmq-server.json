@@ -14,7 +14,7 @@
         "Description": "AMQP server written in Erlang"
     },
     "list": [
-        "rabbitmq-server/stable,stable-security 3.10.8-1.1+deb12u1 all"
+        "rabbitmq-server/oldstable,oldstable-security 3.10.8-1.1+deb12u1 all"
     ],
     "changelog": [
         "rabbitmq-server (3.10.8-1.1+deb12u1) bookworm-security; urgency=high",

@@ -19,8 +19,8 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-11-jdk/oldstable-security 11.0.28+6-1~deb11u1 amd64",
-        "openjdk-11-jdk/oldstable 11.0.24+8-2~deb11u1 amd64"
+        "openjdk-11-jdk/oldoldstable-security 11.0.28+6-1~deb11u1 amd64",
+        "openjdk-11-jdk/oldoldstable 11.0.24+8-2~deb11u1 amd64"
     ],
     "changelog": [
         "openjdk-11 (11.0.28+6-1~deb11u1) bullseye-security; urgency=medium",

@@ -19,7 +19,7 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/stable,stable-security 3:3.2.19-1+deb12u1 all"
+        "python3-django/oldstable,oldstable-security 3:3.2.19-1+deb12u1 all"
     ],
     "changelog": [
         "python-django (3:3.2.19-1+deb12u1) bookworm-security; urgency=high",

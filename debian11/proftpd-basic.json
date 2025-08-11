@@ -14,8 +14,8 @@
         "Description": "Transitional dummy package for ProFTPD"
     },
     "list": [
-        "proftpd-basic/oldstable-security 1.3.7a+dfsg-12+deb11u5 all",
-        "proftpd-basic/oldstable 1.3.7a+dfsg-12+deb11u2 all"
+        "proftpd-basic/oldoldstable-security 1.3.7a+dfsg-12+deb11u5 all",
+        "proftpd-basic/oldoldstable 1.3.7a+dfsg-12+deb11u2 all"
     ],
     "changelog": [
         "proftpd-dfsg (1.3.7a+dfsg-12+deb11u5) bullseye-security; urgency=high",

@@ -24,7 +24,7 @@
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/stable,stable-security 5.36.0-7+deb12u2 amd64"
+        "perl/oldstable,oldstable-security 5.36.0-7+deb12u2 amd64"
     ],
     "changelog": [
         "perl (5.36.0-7+deb12u2) bookworm-security; urgency=medium",

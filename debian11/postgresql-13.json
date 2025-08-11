@@ -16,8 +16,8 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-13/oldstable-security 13.21-0+deb11u1 amd64",
-        "postgresql-13/oldstable 13.16-0+deb11u1 amd64"
+        "postgresql-13/oldoldstable-security 13.21-0+deb11u1 amd64",
+        "postgresql-13/oldoldstable 13.16-0+deb11u1 amd64"
     ],
     "changelog": [
         "postgresql-13 (13.21-0+deb11u1) bullseye-security; urgency=medium",

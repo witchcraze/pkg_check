@@ -13,7 +13,7 @@
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.19/stable 1.19.8-2 all"
+        "golang-1.19/oldstable 1.19.8-2 all"
     ],
     "changelog": [
         "golang-1.19 (1.19.8-2) unstable; urgency=medium",

@@ -15,8 +15,8 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable-security,now 1.1.1w-0+deb11u3 amd64 [installed,automatic]",
-        "openssl/oldstable 1.1.1w-0+deb11u1 amd64"
+        "openssl/oldoldstable-security,now 1.1.1w-0+deb11u3 amd64 [installed,automatic]",
+        "openssl/oldoldstable 1.1.1w-0+deb11u1 amd64"
     ],
     "changelog": [
         "openssl (1.1.1w-0+deb11u3) bullseye-security; urgency=medium",

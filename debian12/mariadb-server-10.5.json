@@ -14,7 +14,7 @@
         "Description": "MariaDB database server binaries"
     },
     "list": [
-        "mariadb-server-10.5/stable 1:10.11.11-0+deb12u1 amd64"
+        "mariadb-server-10.5/oldstable 1:10.11.11-0+deb12u1 amd64"
     ],
     "changelog": [
         "mariadb (1:10.11.11-0+deb12u1) bookworm; urgency=medium",

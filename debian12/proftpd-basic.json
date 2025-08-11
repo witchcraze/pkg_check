@@ -16,7 +16,7 @@
         "Description": "Transitional dummy package for ProFTPD"
     },
     "list": [
-        "proftpd-basic/stable,stable-security 1.3.8+dfsg-4+deb12u4 all"
+        "proftpd-basic/oldstable,oldstable-security 1.3.8+dfsg-4+deb12u4 all"
     ],
     "changelog": [
         "proftpd-dfsg (1.3.8+dfsg-4+deb12u4) bookworm-security; urgency=high",

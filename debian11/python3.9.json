@@ -15,8 +15,8 @@
         "Description": "Interactive high-level object-oriented language (version 3.9)"
     },
     "list": [
-        "python3.9/oldstable-security,now 3.9.2-1+deb11u3 amd64 [installed,automatic]",
-        "python3.9/oldstable 3.9.2-1 amd64"
+        "python3.9/oldoldstable-security,now 3.9.2-1+deb11u3 amd64 [installed,automatic]",
+        "python3.9/oldoldstable 3.9.2-1 amd64"
     ],
     "changelog": [
         "python3.9 (3.9.2-1+deb11u3) bullseye-security; urgency=high",

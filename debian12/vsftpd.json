@@ -21,7 +21,7 @@
         "Description": "lightweight, efficient FTP server written for security"
     },
     "list": [
-        "vsftpd/stable 3.0.3-13+b2 amd64"
+        "vsftpd/oldstable 3.0.3-13+b2 amd64"
     ],
     "changelog": [
         "vsftpd (3.0.3-13) unstable; urgency=medium",

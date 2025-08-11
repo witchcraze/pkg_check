@@ -17,7 +17,7 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-9/oldstable 9.3.0-22 amd64"
+        "gcc-9/oldoldstable 9.3.0-22 amd64"
     ],
     "changelog": [
         "gcc-9 (9.3.0-22) unstable; urgency=medium",

@@ -15,8 +15,8 @@
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat9/oldstable-security 9.0.107-0+deb11u1 all",
-        "tomcat9/oldstable 9.0.43-2~deb11u10 all"
+        "tomcat9/oldoldstable-security 9.0.107-0+deb11u1 all",
+        "tomcat9/oldoldstable 9.0.43-2~deb11u10 all"
     ],
     "changelog": [
         "tomcat9 (9.0.107-0+deb11u1) bullseye-security; urgency=high",

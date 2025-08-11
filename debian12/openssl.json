@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.17-1~deb12u1",
+        "Version": "3.0.17-1~deb12u2",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
@@ -12,17 +12,18 @@
         "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
         "scope": "utility, security::cryptography, security::integrity,",
         "use": "checking",
-        "Download-Size": "1431 kB",
+        "Download-Size": "1430 kB",
         "APT-Manual-Installed": "no",
         "APT-Sources": "http://deb.debian.org/debian bookworm-updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/stable-updates,now 3.0.17-1~deb12u1 amd64 [installed,automatic]",
-        "openssl/stable 3.0.16-1~deb12u1 amd64",
-        "openssl/stable-security 3.0.14-1~deb12u2 amd64"
+        "openssl/oldstable-updates,now 3.0.17-1~deb12u2 amd64 [installed,automatic]",
+        "openssl/oldstable 3.0.16-1~deb12u1 amd64",
+        "openssl/oldstable-security 3.0.14-1~deb12u2 amd64"
     ],
     "changelog": [
+        "openssl (3.0.17-1~deb12u2) bookworm; urgency=medium",
         "openssl (3.0.17-1~deb12u1) bookworm; urgency=medium",
         "openssl (3.0.16-1~deb12u1) bookworm; urgency=medium",
         "openssl (3.0.15-1~deb12u1) bookworm; urgency=medium",

@@ -18,8 +18,8 @@
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/oldstable-security,now 1:9.16.50-1~deb11u3 amd64 [installed]",
-        "bind9/oldstable 1:9.16.50-1~deb11u2 amd64"
+        "bind9/oldoldstable-security,now 1:9.16.50-1~deb11u3 amd64 [installed]",
+        "bind9/oldoldstable 1:9.16.50-1~deb11u2 amd64"
     ],
     "changelog": [
         "bind9 (1:9.16.50-1~deb11u3) bullseye-security; urgency=medium",

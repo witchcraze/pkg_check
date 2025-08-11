@@ -14,8 +14,8 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/oldstable-security 2.7.4-1+deb11u5 amd64",
-        "ruby2.7/oldstable 2.7.4-1+deb11u1 amd64"
+        "ruby2.7/oldoldstable-security 2.7.4-1+deb11u5 amd64",
+        "ruby2.7/oldoldstable 2.7.4-1+deb11u1 amd64"
     ],
     "changelog": [
         "ruby2.7 (2.7.4-1+deb11u5) bullseye-security; urgency=medium",

@@ -19,7 +19,7 @@
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/stable,stable-security 1:9.18.33-1~deb12u2 amd64"
+        "bind9/oldstable,oldstable-security 1:9.18.33-1~deb12u2 amd64"
     ],
     "changelog": [
         "bind9 (1:9.18.33-1~deb12u2) bookworm-security; urgency=high",

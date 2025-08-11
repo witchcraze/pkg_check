@@ -15,8 +15,8 @@
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/stable-security 5:7.0.15-1~deb12u5 amd64",
-        "redis-server/stable 5:7.0.15-1~deb12u4 amd64"
+        "redis-server/oldstable-security 5:7.0.15-1~deb12u5 amd64",
+        "redis-server/oldstable 5:7.0.15-1~deb12u4 amd64"
     ],
     "changelog": [
         "redis (5:7.0.15-1~deb12u5) bookworm-security; urgency=high",
