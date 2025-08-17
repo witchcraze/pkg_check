@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.108",
+        "Version": "9.0.109",
         "Release": "1.el10_0",
         "Architecture": "x86_64",
         "Size": "82 M",
-        "Source": "dotnet9.0-9.0.108-1.el10_0.src.rpm",
+        "Source": "dotnet9.0-9.0.109-1.el10_0.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -17,6 +17,7 @@
         "dotnet-sdk-9.0.x86_64                                   9.0.105-2.el10_0                                   rhel-10-for-x86_64-appstream-rpms",
         "dotnet-sdk-9.0.x86_64                                   9.0.106-1.el10_0                                   rhel-10-for-x86_64-appstream-rpms",
         "dotnet-sdk-9.0.x86_64                                   9.0.107-1.el10_0                                   rhel-10-for-x86_64-appstream-rpms",
-        "dotnet-sdk-9.0.x86_64                                   9.0.108-1.el10_0                                   rhel-10-for-x86_64-appstream-rpms"
+        "dotnet-sdk-9.0.x86_64                                   9.0.108-1.el10_0                                   rhel-10-for-x86_64-appstream-rpms",
+        "dotnet-sdk-9.0.x86_64                                   9.0.109-1.el10_0                                   rhel-10-for-x86_64-appstream-rpms"
     ]
 }

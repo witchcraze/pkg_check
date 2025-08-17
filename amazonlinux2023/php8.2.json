@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php8.2",
-        "Version": "8.2.28",
+        "Version": "8.2.29",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "10 k",
-        "Source": "php8.2-8.2.28-1.amzn2023.0.1.src.rpm",
+        "Size": "9.7 k",
+        "Source": "php8.2-8.2.29-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -22,6 +22,7 @@
         "php8.2.x86_64                 8.2.21-1.amzn2023.0.1                  amazonlinux",
         "php8.2.x86_64                 8.2.23-1.amzn2023.0.1                  amazonlinux",
         "php8.2.x86_64                 8.2.27-1.amzn2023.0.1                  amazonlinux",
-        "php8.2.x86_64                 8.2.28-1.amzn2023.0.1                  amazonlinux"
+        "php8.2.x86_64                 8.2.28-1.amzn2023.0.1                  amazonlinux",
+        "php8.2.x86_64                 8.2.29-1.amzn2023.0.1                  amazonlinux"
     ]
 }

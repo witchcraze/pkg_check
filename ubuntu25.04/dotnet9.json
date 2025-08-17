@@ -1,10 +1,11 @@
 {
     "show": {
         "Package": "dotnet9",
-        "Version": "9.0.108-9.0.7-0ubuntu1~25.04.1",
+        "Version": "9.0.109-9.0.8-0ubuntu1~25.04.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "80",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "212 kB",
@@ -16,11 +17,12 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet9/plucky-updates 9.0.108-9.0.7-0ubuntu1~25.04.1 amd64",
+        "dotnet9/plucky-updates 9.0.109-9.0.8-0ubuntu1~25.04.1 amd64",
         "dotnet9/plucky-security 9.0.107-9.0.6-0ubuntu1~25.04.1 amd64",
         "dotnet9/plucky 9.0.105-9.0.4-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet9 (9.0.109-9.0.8-0ubuntu1~25.04.1) plucky; urgency=medium",
         "dotnet9 (9.0.108-9.0.7-0ubuntu1~25.04.1) plucky; urgency=medium",
         "dotnet9 (9.0.107-9.0.6-0ubuntu1~25.04.1) plucky; urgency=medium",
         "dotnet9 (9.0.106-9.0.5-0ubuntu1~25.04.1) plucky; urgency=medium",

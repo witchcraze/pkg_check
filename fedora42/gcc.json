@@ -2,12 +2,12 @@
     "info": {
         "Name": "gcc",
         "Epoch": "0",
-        "Version": "15.1.1",
-        "Release": "2.fc42",
+        "Version": "15.2.1",
+        "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "39.4 MiB",
-        "Installed size": "111.1 MiB",
-        "Source": "gcc-15.1.1-2.fc42.src.rpm",
+        "Installed size": "111.2 MiB",
+        "Source": "gcc-15.2.1-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -17,7 +17,7 @@
     },
     "list": [
         "gcc.x86_64 15.0.1-0.11.fc42 fedora",
-        "gcc.x86_64 15.1.1-2.fc42    updates"
+        "gcc.x86_64 15.2.1-1.fc42    updates"
     ],
     "kojiPackages": [
         "gcc-15.2.1-1.fc42",

@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.11",
         "Version": "3.11.13",
-        "Release": "1.amzn2023.0.1",
+        "Release": "1.amzn2023.0.2",
         "Architecture": "x86_64",
         "Size": "29 k",
-        "Source": "python3.11-3.11.13-1.amzn2023.0.1.src.rpm",
+        "Source": "python3.11-3.11.13-1.amzn2023.0.2.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -27,6 +27,7 @@
         "python3.11.x86_64               3.11.11-5.amzn2023.0.2               amazonlinux",
         "python3.11.x86_64               3.11.12-2.amzn2023.0.1               amazonlinux",
         "python3.11.x86_64               3.11.12-2.amzn2023.0.2               amazonlinux",
-        "python3.11.x86_64               3.11.13-1.amzn2023.0.1               amazonlinux"
+        "python3.11.x86_64               3.11.13-1.amzn2023.0.1               amazonlinux",
+        "python3.11.x86_64               3.11.13-1.amzn2023.0.2               amazonlinux"
     ]
 }

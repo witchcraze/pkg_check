@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "mariadb11.8",
+        "Epoch": "3",
+        "Version": "11.8.3",
+        "Release": "1.fc42",
+        "Architecture": "x86_64",
+        "Download size": "1.8 MiB",
+        "Installed size": "23.5 MiB",
+        "Source": "mariadb11.8-11.8.3-1.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
+        "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "mariadb11.8.x86_64 3:11.8.3-1.fc42 updates"
+    ],
+    "kojiPackages": [
+        "mariadb11.8-11.8.3-1.fc42"
+    ]
+}

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "memcached",
-        "Version": "1.6.22",
+        "Version": "1.6.38",
         "Release": "2.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "184 k",
-        "Source": "memcached-1.6.22-2.amzn2023.0.1.src.rpm",
+        "Size": "187 k",
+        "Source": "memcached-1.6.38-2.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "memcached.x86_64                1.6.14-1.amzn2023.0.3                amazonlinux",
-        "memcached.x86_64                1.6.22-2.amzn2023.0.1                amazonlinux"
+        "memcached.x86_64                1.6.22-2.amzn2023.0.1                amazonlinux",
+        "memcached.x86_64                1.6.38-2.amzn2023.0.1                amazonlinux"
     ]
 }
