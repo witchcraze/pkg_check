@@ -45,6 +45,8 @@
         "golang.x86_64                 1.24.4-1.module+el8.10.0+2008+0bb8dc3e                  appstream"
     ],
     "kojiPackages": [
+        "golang-1.24.6-1.module+el8.10.0+2048+bc5b2e29",
+        "golang-1.24.6-1.module+el8.10.0+2047+21868858",
         "golang-1.24.4-1.module+el8.10.0+2009+77c28908",
         "golang-1.24.4-1.module+el8.10.0+2008+0bb8dc3e",
         "golang-1.24.4-1.module+el8.10.0+2007+9107bdb0",

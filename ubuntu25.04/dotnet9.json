@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "80",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "212 kB",
