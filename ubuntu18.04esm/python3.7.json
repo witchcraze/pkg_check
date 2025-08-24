@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "python3.7",
-        "Version": "3.7.5-2ubuntu1~18.04.2+esm6",
+        "Version": "3.7.5-2ubuntu1~18.04.2+esm7",
         "Priority": "optional",
         "Section": "python",
         "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Installed-Size": "437 kB",
-        "Depends": "python3.7-minimal (= 3.7.5-2ubuntu1~18.04.2+esm6), libpython3.7-stdlib (= 3.7.5-2ubuntu1~18.04.2+esm6), mime-support",
+        "Depends": "python3.7-minimal (= 3.7.5-2ubuntu1~18.04.2+esm7), libpython3.7-stdlib (= 3.7.5-2ubuntu1~18.04.2+esm7), mime-support",
         "Suggests": "python3.7-venv, python3.7-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "301 kB",
@@ -15,11 +15,12 @@
         "Description": "Interactive high-level object-oriented language (version 3.7)"
     },
     "list": [
-        "python3.7/bionic-apps-security 3.7.5-2ubuntu1~18.04.2+esm6 amd64",
+        "python3.7/bionic-apps-security 3.7.5-2ubuntu1~18.04.2+esm7 amd64",
         "python3.7/bionic-updates,bionic-security 3.7.5-2ubuntu1~18.04.2 amd64",
         "python3.7/bionic 3.7.0~b3-1 amd64"
     ],
     "changelog": [
+        "python3.7 (3.7.5-2ubuntu1~18.04.2+esm7) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm6) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm5) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm4) bionic-security; urgency=medium",
@@ -28,8 +29,7 @@
         "python3.7 (3.7.5-2ubuntu1~18.04.2+esm1) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2ubuntu1~18.04.2) bionic-security; urgency=medium",
         "python3.7 (3.7.5-2~18.04.4) bionic-security; urgency=medium",
-        "python3.7 (3.7.5-2~18.04) bionic-proposed; urgency=medium",
-        "python3.7 (3.7.5-2) unstable; urgency=medium"
+        "python3.7 (3.7.5-2~18.04) bionic-proposed; urgency=medium"
     ],
     "publishinghistory": []
 }

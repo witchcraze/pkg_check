@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "httpd",
+        "Version": "2.4.63",
+        "Release": "1.0.1.el10",
+        "Architecture": "x86_64",
+        "Size": "97 k",
+        "Source": "httpd-2.4.63-1.0.1.el10.src.rpm",
+        "Repository": "ol10_appstream",
+        "Summary": "Apache HTTP Server",
+        "URL": "https://httpd.apache.org/",
+        "License": "Apache-2.0 AND (BSD-3-Clause AND metamail AND HPND-sell-variant AND Spencer-94)",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd.src                     2.4.63-1.0.1.el10                   ol10_appstream",
+        "httpd.x86_64                  2.4.63-1.0.1.el10                   ol10_appstream"
+    ]
+}

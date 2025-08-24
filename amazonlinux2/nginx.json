@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "1",
         "Version": "1.28.0",
-        "Release": "1.amzn2.0.1",
+        "Release": "1.amzn2.0.2",
         "Size": "51 k",
         "Repo": "amzn2extra-nginx1/2/x86_64",
         "Summary": "A high performance web server and reverse proxy server",
@@ -27,6 +27,7 @@
         "nginx.x86_64                                             1:1.22.1-1.amzn2.0.3                                              amzn2extra-nginx1",
         "nginx.x86_64                                             1:1.22.1-1.amzn2.0.4                                              amzn2extra-nginx1",
         "nginx.x86_64                                             1:1.26.3-1.amzn2.0.1                                              amzn2extra-nginx1",
-        "nginx.x86_64                                             1:1.28.0-1.amzn2.0.1                                              amzn2extra-nginx1"
+        "nginx.x86_64                                             1:1.28.0-1.amzn2.0.1                                              amzn2extra-nginx1",
+        "nginx.x86_64                                             1:1.28.0-1.amzn2.0.2                                              amzn2extra-nginx1"
     ]
 }

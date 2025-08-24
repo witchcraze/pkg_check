@@ -1,0 +1,27 @@
+{
+    "info": {
+        "Name": "golang",
+        "Version": "1.24.6",
+        "Release": "1.el10_0",
+        "Architecture": "x86_64",
+        "Size": "726 k",
+        "Source": "golang-1.24.6-1.el10_0.src.rpm",
+        "Repository": "ol10_appstream",
+        "Summary": "The Go Programming Language",
+        "URL": "https://go.dev",
+        "License": "BSD-3-Clause AND LicenseRef-Fedora-Public-Domain",
+        "Description": "The Go Programming Language."
+    },
+    "list": [
+        "golang.src                      1.23.1-4.el10                     ol10_appstream",
+        "golang.x86_64                   1.23.1-4.el10                     ol10_appstream",
+        "golang.src                      1.23.7-1.el10_0                   ol10_appstream",
+        "golang.x86_64                   1.23.7-1.el10_0                   ol10_appstream",
+        "golang.src                      1.23.9-1.el10_0                   ol10_appstream",
+        "golang.x86_64                   1.23.9-1.el10_0                   ol10_appstream",
+        "golang.src                      1.24.4-1.el10_0                   ol10_appstream",
+        "golang.x86_64                   1.24.4-1.el10_0                   ol10_appstream",
+        "golang.src                      1.24.6-1.el10_0                   ol10_appstream",
+        "golang.x86_64                   1.24.6-1.el10_0                   ol10_appstream"
+    ]
+}

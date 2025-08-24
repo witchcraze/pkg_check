@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.10",
-        "Version": "3.10.12-1~22.04.10",
+        "Version": "3.10.12-1~22.04.11",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "649 kB",
-        "Depends": "python3.10-minimal (= 3.10.12-1~22.04.10), libpython3.10-stdlib (= 3.10.12-1~22.04.10), media-types | mime-support",
+        "Depends": "python3.10-minimal (= 3.10.12-1~22.04.11), libpython3.10-stdlib (= 3.10.12-1~22.04.11), media-types | mime-support",
         "Suggests": "python3.10-venv, python3.10-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Task": "minimal, server-minimal",
@@ -18,10 +18,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.10)"
     },
     "list": [
-        "python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.10 amd64",
+        "python3.10/jammy-updates,jammy-security 3.10.12-1~22.04.11 amd64",
         "python3.10/jammy 3.10.4-3 amd64"
     ],
     "changelog": [
+        "python3.10 (3.10.12-1~22.04.11) jammy-security; urgency=medium",
         "python3.10 (3.10.12-1~22.04.10) jammy-security; urgency=medium",
         "python3.10 (3.10.12-1~22.04.9) jammy-security; urgency=medium",
         "python3.10 (3.10.12-1~22.04.8) jammy-security; urgency=medium",
@@ -526,6 +527,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.10.12-1~22.04.11",
         "3.10.12-1~22.04.10",
         "3.10.12-1~22.04.9",
         "3.10.12-1~22.04.8",

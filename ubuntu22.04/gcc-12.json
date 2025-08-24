@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "gcc-12",
-        "Version": "12.3.0-1ubuntu1~22.04",
+        "Version": "12.3.0-1ubuntu1~22.04.2",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -10,7 +10,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "71.8 MB",
         "Provides": "c-compiler",
-        "Depends": "cpp-12 (= 12.3.0-1ubuntu1~22.04), gcc-12-base (= 12.3.0-1ubuntu1~22.04), libcc1-0 (>= 12.3.0-1ubuntu1~22.04), binutils (>= 2.38), libgcc-12-dev (= 12.3.0-1ubuntu1~22.04), libc6 (>= 2.35), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)",
+        "Depends": "cpp-12 (= 12.3.0-1ubuntu1~22.04.2), gcc-12-base (= 12.3.0-1ubuntu1~22.04.2), libcc1-0 (>= 12.3.0-1ubuntu1~22.04.2), binutils (>= 2.38), libgcc-12-dev (= 12.3.0-1ubuntu1~22.04.2), libc6 (>= 2.35), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)",
         "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
         "Suggests": "gcc-12-multilib, gcc-12-doc (>= 12), gcc-12-locales (>= 12)",
         "Replaces": "cpp-12 (<< 7.1.1-8)",
@@ -20,10 +20,11 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-12/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04 amd64",
+        "gcc-12/jammy-updates,jammy-security 12.3.0-1ubuntu1~22.04.2 amd64",
         "gcc-12/jammy 12-20220319-1ubuntu1 amd64"
     ],
     "changelog": [
+        "gcc-12 (12.3.0-1ubuntu1~22.04.2) jammy-security; urgency=medium",
         "gcc-12 (12.3.0-1ubuntu1~22.04) jammy-proposed; urgency=medium",
         "gcc-12 (12.3.0-1ubuntu1) mantic; urgency=medium",
         "gcc-12 (12.3.0-1) experimental; urgency=medium",
@@ -1243,6 +1244,7 @@
         "gcc (2.7.2.1-3) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "12.3.0-1ubuntu1~22.04.2",
         "12.3.0-1ubuntu1~22.04",
         "12.1.0-2ubuntu1~22.04",
         "12-20220319-1ubuntu1",

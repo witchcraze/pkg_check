@@ -1,0 +1,20 @@
+{
+    "info": {
+        "Name": "nodejs22",
+        "Epoch": "1",
+        "Version": "22.16.0",
+        "Release": "1.el10_0",
+        "Architecture": "src",
+        "Size": "91 M",
+        "Source": "None",
+        "Repository": "ol10_appstream",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
+    },
+    "list": [
+        "nodejs22.src                  1:22.13.1-2.el10                    ol10_appstream",
+        "nodejs22.src                  1:22.16.0-1.el10_0                  ol10_appstream"
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "gcc-11",
-        "Version": "11.4.0-1ubuntu1~22.04",
+        "Version": "11.4.0-1ubuntu1~22.04.2",
         "Priority": "optional",
         "Build-Essential": "yes",
         "Section": "devel",
@@ -11,7 +11,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "54.0 MB",
         "Provides": "c-compiler",
-        "Depends": "cpp-11 (= 11.4.0-1ubuntu1~22.04), gcc-11-base (= 11.4.0-1ubuntu1~22.04), libcc1-0 (>= 11.4.0-1ubuntu1~22.04), binutils (>= 2.38), libgcc-11-dev (= 11.4.0-1ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)",
+        "Depends": "cpp-11 (= 11.4.0-1ubuntu1~22.04.2), gcc-11-base (= 11.4.0-1ubuntu1~22.04.2), libcc1-0 (>= 11.4.0-1ubuntu1~22.04.2), binutils (>= 2.38), libgcc-11-dev (= 11.4.0-1ubuntu1~22.04.2), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)",
         "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
         "Suggests": "gcc-11-multilib, gcc-11-doc (>= 11), gcc-11-locales (>= 11)",
         "Replaces": "cpp-11 (<< 7.1.1-8)",
@@ -22,10 +22,11 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-11/jammy-updates,jammy-security 11.4.0-1ubuntu1~22.04 amd64",
+        "gcc-11/jammy-updates,jammy-security 11.4.0-1ubuntu1~22.04.2 amd64",
         "gcc-11/jammy 11.2.0-19ubuntu1 amd64"
     ],
     "changelog": [
+        "gcc-11 (11.4.0-1ubuntu1~22.04.2) jammy-security; urgency=medium",
         "gcc-11 (11.4.0-1ubuntu1~22.04) jammy-proposed; urgency=medium",
         "gcc-11 (11.4.0-1ubuntu1) mantic; urgency=medium",
         "gcc-11 (11.4.0-1) unstable; urgency=medium",
@@ -1215,6 +1216,7 @@
         "gcc (2.7.2.1-3) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "11.4.0-1ubuntu1~22.04.2",
         "11.4.0-1ubuntu1~22.04",
         "11.3.0-1ubuntu1~22.04.1",
         "11.3.0-1ubuntu1~22.04",
