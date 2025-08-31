@@ -19,6 +19,7 @@
         "java-25-openjdk.x86_64 1:25.0.0.0.32-0.1.ea.fc42 updates"
     ],
     "kojiPackages": [
+        "java-25-openjdk-25.0.0.0.36-0.1.ea.fc42",
         "java-25-openjdk-25.0.0.0.32-0.1.ea.fc42",
         "java-25-openjdk-25.0.0.0.26-0.3.ea.fc42"
     ]

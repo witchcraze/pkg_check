@@ -1,28 +1,30 @@
 {
     "show": {
         "Package": "valkey-server",
-        "Version": "8.0.2+dfsg1-1ubuntu2",
+        "Version": "8.0.4+dfsg1-0ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "valkey",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "70",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Lucas Kanashiro <kanashiro@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "184 kB",
+        "Installed-Size": "185 kB",
         "Provides": "valkey",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "valkey-tools (= 8.0.2+dfsg1-1ubuntu2)",
+        "Depends": "valkey-tools (= 8.0.4+dfsg1-0ubuntu0.1)",
         "Homepage": "https://valkey.io",
         "Download-Size": "48.6 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "valkey-server/plucky-updates 8.0.2+dfsg1-1ubuntu2 amd64",
+        "valkey-server/plucky-updates 8.0.4+dfsg1-0ubuntu0.1 amd64",
         "valkey-server/plucky 8.0.2+dfsg1-1ubuntu1 amd64"
     ],
     "changelog": [
+        "valkey (8.0.4+dfsg1-0ubuntu0.1) plucky; urgency=medium",
         "valkey (8.0.2+dfsg1-1ubuntu2) plucky; urgency=medium",
         "valkey (8.0.2+dfsg1-1ubuntu1) plucky; urgency=medium",
         "valkey (8.0.2+dfsg1-1) unstable; urgency=medium",

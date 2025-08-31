@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.9.23",
-        "Release": "1.amzn2023.0.2",
+        "Release": "1.amzn2023.0.3",
         "Architecture": "x86_64",
         "Size": "32 k",
-        "Source": "python3.9-3.9.23-1.amzn2023.0.2.src.rpm",
+        "Source": "python3.9-3.9.23-1.amzn2023.0.3.src.rpm",
         "Repository": "@System",
         "Summary": "Python 3.9 interpreter",
         "URL": "https://www.python.org/",
@@ -13,7 +13,7 @@
         "Description": "Python 3.9 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                 3.9.23-1.amzn2023.0.2                 @System",
+        "python3.x86_64                 3.9.23-1.amzn2023.0.3                 @System",
         "python3.x86_64                 3.9.16-1.amzn2023.0.2                 amazonlinux",
         "python3.x86_64                 3.9.16-1.amzn2023.0.3                 amazonlinux",
         "python3.x86_64                 3.9.16-1.amzn2023.0.5                 amazonlinux",
@@ -29,6 +29,7 @@
         "python3.x86_64                 3.9.22-1.amzn2023.0.1                 amazonlinux",
         "python3.x86_64                 3.9.22-1.amzn2023.0.2                 amazonlinux",
         "python3.x86_64                 3.9.23-1.amzn2023.0.1                 amazonlinux",
-        "python3.x86_64                 3.9.23-1.amzn2023.0.2                 amazonlinux"
+        "python3.x86_64                 3.9.23-1.amzn2023.0.2                 amazonlinux",
+        "python3.x86_64                 3.9.23-1.amzn2023.0.3                 amazonlinux"
     ]
 }

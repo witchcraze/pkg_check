@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.11",
         "Version": "3.11.13",
-        "Release": "1.el8_10",
+        "Release": "2.el8_10",
         "Architecture": "x86_64",
-        "Size": "30 k",
-        "Source": "python3.11-3.11.13-1.el8_10.src.rpm",
+        "Size": "31 k",
+        "Source": "python3.11-3.11.13-2.el8_10.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -23,6 +23,7 @@
         "python3.11.x86_64                             3.11.9-7.el8_10                              appstream",
         "python3.11.x86_64                             3.11.10-1.el8_10                             appstream",
         "python3.11.x86_64                             3.11.11-1.el8_10                             appstream",
-        "python3.11.x86_64                             3.11.13-1.el8_10                             appstream"
+        "python3.11.x86_64                             3.11.13-1.el8_10                             appstream",
+        "python3.11.x86_64                             3.11.13-2.el8_10                             appstream"
     ]
 }

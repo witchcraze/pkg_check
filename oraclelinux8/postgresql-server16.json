@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.8",
-        "Release": "1.module+el8.10.0+90530+9eb57222",
+        "Version": "16.10",
+        "Release": "1.module+el8.10.0+90646+5acb94ce",
         "Architecture": "x86_64",
         "Size": "6.9 M",
-        "Source": "postgresql-16.8-1.module+el8.10.0+90530+9eb57222.src.rpm",
+        "Source": "postgresql-16.10-1.module+el8.10.0+90646+5acb94ce.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -13,9 +13,10 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                                 16.1-1.module+el8.10.0+90275+c15b12cb                                 ol8_appstream",
-        "postgresql-server.x86_64                                 16.4-1.module+el8.10.0+90393+cf801dc8                                 ol8_appstream",
-        "postgresql-server.x86_64                                 16.6-1.module+el8.10.0+90451+109c7b24                                 ol8_appstream",
-        "postgresql-server.x86_64                                 16.8-1.module+el8.10.0+90530+9eb57222                                 ol8_appstream"
+        "postgresql-server.x86_64                                16.1-1.module+el8.10.0+90275+c15b12cb                                  ol8_appstream",
+        "postgresql-server.x86_64                                16.4-1.module+el8.10.0+90393+cf801dc8                                  ol8_appstream",
+        "postgresql-server.x86_64                                16.6-1.module+el8.10.0+90451+109c7b24                                  ol8_appstream",
+        "postgresql-server.x86_64                                16.8-1.module+el8.10.0+90530+9eb57222                                  ol8_appstream",
+        "postgresql-server.x86_64                                16.10-1.module+el8.10.0+90646+5acb94ce                                 ol8_appstream"
     ]
 }

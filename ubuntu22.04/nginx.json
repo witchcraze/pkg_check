@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.18.0-6ubuntu14.6",
+        "Version": "1.18.0-6ubuntu14.7",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -9,18 +9,19 @@
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "50.2 kB",
-        "Depends": "nginx-core (<< 1.18.0-6ubuntu14.6.1~) | nginx-full (<< 1.18.0-6ubuntu14.6.1~) | nginx-light (<< 1.18.0-6ubuntu14.6.1~) | nginx-extras (<< 1.18.0-6ubuntu14.6.1~), nginx-core (>= 1.18.0-6ubuntu14.6) | nginx-full (>= 1.18.0-6ubuntu14.6) | nginx-light (>= 1.18.0-6ubuntu14.6) | nginx-extras (>= 1.18.0-6ubuntu14.6)",
+        "Depends": "nginx-core (<< 1.18.0-6ubuntu14.7.1~) | nginx-full (<< 1.18.0-6ubuntu14.7.1~) | nginx-light (<< 1.18.0-6ubuntu14.7.1~) | nginx-extras (<< 1.18.0-6ubuntu14.7.1~), nginx-core (>= 1.18.0-6ubuntu14.7) | nginx-full (>= 1.18.0-6ubuntu14.7) | nginx-light (>= 1.18.0-6ubuntu14.7) | nginx-extras (>= 1.18.0-6ubuntu14.7)",
         "Breaks": "libnginx-mod-http-lua (<< 1.18.0-6ubuntu5)",
         "Homepage": "https://nginx.net",
-        "Download-Size": "3882 B",
+        "Download-Size": "3878 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/jammy-updates,jammy-security 1.18.0-6ubuntu14.6 amd64",
+        "nginx/jammy-updates,jammy-security 1.18.0-6ubuntu14.7 amd64",
         "nginx/jammy 1.18.0-6ubuntu14 amd64"
     ],
     "changelog": [
+        "nginx (1.18.0-6ubuntu14.7) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.6) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.5) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.4) jammy; urgency=medium",
@@ -285,6 +286,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.18.0-6ubuntu14.7",
         "1.18.0-6ubuntu14.6",
         "1.18.0-6ubuntu14.5",
         "1.18.0-6ubuntu14.4",

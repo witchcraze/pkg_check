@@ -19,6 +19,7 @@
         "postgresql.x86_64                                       16.8-1.module+el8.10.0+1941+ca32dfe4                                       appstream"
     ],
     "kojiPackages": [
+        "postgresql-16.10-1.module+el8.10.0+2056+3327f2bc",
         "postgresql-16.8-1.module+el8.10.0+1941+ca32dfe4",
         "postgresql-16.6-1.module+el8.10.0+1900+d7340343",
         "postgresql-16.4-1.module+el8.10.0+1858+fcc46a79",

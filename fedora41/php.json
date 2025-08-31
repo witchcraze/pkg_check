@@ -20,6 +20,7 @@
         "php.x86_64 8.3.24-1.fc41 updates"
     ],
     "kojiPackages": [
+        "php-8.3.25-1.fc41",
         "php-8.3.24-1.fc41",
         "php-8.3.23-1.fc41",
         "php-8.3.22-1.fc41",

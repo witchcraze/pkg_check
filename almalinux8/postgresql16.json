@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.8",
-        "Release": "1.module_el8.10.0+3969+2c3c9353",
+        "Version": "16.10",
+        "Release": "1.module_el8.10.0+4038+0fbad93c",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql-16.8-1.module_el8.10.0+3969+2c3c9353.src.rpm",
+        "Source": "postgresql-16.10-1.module_el8.10.0+4038+0fbad93c.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,9 +13,10 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64                                       16.1-1.module_el8.10.0+3798+606ebb9f                                       appstream",
-        "postgresql.x86_64                                       16.4-1.module_el8.10.0+3884+a79fbae6                                       appstream",
-        "postgresql.x86_64                                       16.6-1.module_el8.10.0+3930+ecf33554                                       appstream",
-        "postgresql.x86_64                                       16.8-1.module_el8.10.0+3969+2c3c9353                                       appstream"
+        "postgresql.x86_64                                      16.1-1.module_el8.10.0+3798+606ebb9f                                        appstream",
+        "postgresql.x86_64                                      16.4-1.module_el8.10.0+3884+a79fbae6                                        appstream",
+        "postgresql.x86_64                                      16.6-1.module_el8.10.0+3930+ecf33554                                        appstream",
+        "postgresql.x86_64                                      16.8-1.module_el8.10.0+3969+2c3c9353                                        appstream",
+        "postgresql.x86_64                                      16.10-1.module_el8.10.0+4038+0fbad93c                                       appstream"
     ]
 }

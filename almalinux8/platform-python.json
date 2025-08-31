@@ -2,18 +2,19 @@
     "info": {
         "Name": "platform-python",
         "Version": "3.6.8",
-        "Release": "70.el8_10.alma.1",
+        "Release": "71.el8_10.alma.1",
         "Architecture": "i686",
         "Size": "88 k",
-        "Source": "python3-3.6.8-70.el8_10.alma.1.src.rpm",
+        "Source": "python3-3.6.8-71.el8_10.alma.1.src.rpm",
         "Repository": "appstream",
+        "From repo": "baseos",
         "Summary": "Internal interpreter of the Python programming language",
         "URL": "https://www.python.org/",
         "License": "Python",
         "Description": "This is the internal interpreter of the Python language for the system."
     },
     "list": [
-        "platform-python.x86_64                       3.6.8-70.el8_10.alma.1                        @System",
+        "platform-python.x86_64                       3.6.8-71.el8_10.alma.1                        @baseos",
         "platform-python.i686                         3.6.8-31.el8.alma                             repo.almalinux.org_vault_8.3_BaseOS_x86_64_os_",
         "platform-python.x86_64                       3.6.8-31.el8.alma                             repo.almalinux.org_vault_8.3_BaseOS_x86_64_os_",
         "platform-python.i686                         3.6.8-37.el8.alma                             repo.almalinux.org_vault_8.4_BaseOS_x86_64_os_",
@@ -59,6 +60,8 @@
         "platform-python.i686                         3.6.8-69.el8_10.alma.1                        appstream",
         "platform-python.x86_64                       3.6.8-69.el8_10.alma.1                        baseos",
         "platform-python.i686                         3.6.8-70.el8_10.alma.1                        appstream",
-        "platform-python.x86_64                       3.6.8-70.el8_10.alma.1                        baseos"
+        "platform-python.x86_64                       3.6.8-70.el8_10.alma.1                        baseos",
+        "platform-python.i686                         3.6.8-71.el8_10.alma.1                        appstream",
+        "platform-python.x86_64                       3.6.8-71.el8_10.alma.1                        baseos"
     ]
 }

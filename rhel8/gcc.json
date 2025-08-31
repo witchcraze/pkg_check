@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "8.5.0",
-        "Release": "26.el8_10",
+        "Release": "28.el8_10",
         "Architecture": "x86_64",
         "Size": "23 M",
-        "Source": "gcc-8.5.0-26.el8_10.src.rpm",
+        "Source": "gcc-8.5.0-28.el8_10.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -30,6 +30,7 @@
         "gcc.x86_64                                         8.5.0-22.el8_10                                          rhel-8-for-x86_64-appstream-rpms",
         "gcc.x86_64                                         8.5.0-23.el8_10                                          rhel-8-for-x86_64-appstream-rpms",
         "gcc.x86_64                                         8.5.0-24.el8_10                                          rhel-8-for-x86_64-appstream-rpms",
-        "gcc.x86_64                                         8.5.0-26.el8_10                                          rhel-8-for-x86_64-appstream-rpms"
+        "gcc.x86_64                                         8.5.0-26.el8_10                                          rhel-8-for-x86_64-appstream-rpms",
+        "gcc.x86_64                                         8.5.0-28.el8_10                                          rhel-8-for-x86_64-appstream-rpms"
     ]
 }

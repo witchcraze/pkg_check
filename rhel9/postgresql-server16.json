@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.8",
-        "Release": "1.module+el9.6.0+22880+6b241eec",
+        "Version": "16.10",
+        "Release": "1.module+el9.6.0+23420+848a4539",
         "Architecture": "x86_64",
         "Size": "7.0 M",
-        "Source": "postgresql-16.8-1.module+el9.6.0+22880+6b241eec.src.rpm",
+        "Source": "postgresql-16.10-1.module+el9.6.0+23420+848a4539.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -13,11 +13,12 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                        16.1-1.module+el9.4.0+21089+0ca8f31a                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                        16.4-1.module+el9.4.0+22207+8466e31f                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                        16.4-2.module+el9.5.0+22226+e8900db7                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                        16.6-1.module+el9.5.0+22557+8cb08ba5                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                        16.8-1.module+el9.5.0+22865+f9400010                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                        16.8-1.module+el9.6.0+22880+6b241eec                        rhel-9-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64                       16.1-1.module+el9.4.0+21089+0ca8f31a                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.4-1.module+el9.4.0+22207+8466e31f                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.4-2.module+el9.5.0+22226+e8900db7                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.6-1.module+el9.5.0+22557+8cb08ba5                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.8-1.module+el9.5.0+22865+f9400010                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.8-1.module+el9.6.0+22880+6b241eec                         rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.10-1.module+el9.6.0+23420+848a4539                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

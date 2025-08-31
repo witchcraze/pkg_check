@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.11",
-        "Release": "1.el8_10",
+        "Release": "2.el8_10",
         "Architecture": "x86_64",
-        "Size": "31 k",
-        "Source": "python3.12-3.12.11-1.el8_10.src.rpm",
+        "Size": "30 k",
+        "Source": "python3.12-3.12.11-2.el8_10.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -19,6 +19,7 @@
         "python3.12.x86_64                                     3.12.6-1.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
         "python3.12.x86_64                                     3.12.8-1.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
         "python3.12.x86_64                                     3.12.10-1.el8_10                                      rhel-8-for-x86_64-appstream-rpms",
-        "python3.12.x86_64                                     3.12.11-1.el8_10                                      rhel-8-for-x86_64-appstream-rpms"
+        "python3.12.x86_64                                     3.12.11-1.el8_10                                      rhel-8-for-x86_64-appstream-rpms",
+        "python3.12.x86_64                                     3.12.11-2.el8_10                                      rhel-8-for-x86_64-appstream-rpms"
     ]
 }

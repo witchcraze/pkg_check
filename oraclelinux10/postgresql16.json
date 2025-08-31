@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "postgresql16",
-        "Version": "16.8",
+        "Version": "16.10",
         "Release": "1.0.1.el10_0",
         "Architecture": "src",
-        "Size": "45 M",
+        "Size": "46 M",
         "Source": "None",
         "Repository": "ol10_appstream",
         "Summary": "PostgreSQL client programs",
@@ -13,6 +13,7 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql16.src                16.8-1.0.1.el10_0                 ol10_appstream"
+        "postgresql16.src                16.8-1.0.1.el10_0                 ol10_appstream",
+        "postgresql16.src                16.10-1.0.1.el10_0                ol10_appstream"
     ]
 }

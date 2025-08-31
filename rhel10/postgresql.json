@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.8",
+        "Version": "16.10",
         "Release": "1.el10_0",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql16-16.8-1.el10_0.src.rpm",
+        "Source": "postgresql16-16.10-1.el10_0.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,6 +13,7 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64                                      16.8-1.el10_0                                       rhel-10-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                                      16.8-1.el10_0                                       rhel-10-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                                      16.10-1.el10_0                                      rhel-10-for-x86_64-appstream-rpms"
     ]
 }
