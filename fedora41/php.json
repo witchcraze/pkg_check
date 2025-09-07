@@ -2,12 +2,12 @@
     "info": {
         "Name": "php",
         "Epoch": "0",
-        "Version": "8.3.24",
+        "Version": "8.3.25",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "12.5 KiB",
+        "Download size": "12.4 KiB",
         "Installed size": "0.0   B",
-        "Source": "php-8.3.24-1.fc41.src.rpm",
+        "Source": "php-8.3.25-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -17,7 +17,7 @@
     },
     "list": [
         "php.x86_64 8.3.12-1.fc41 fedora",
-        "php.x86_64 8.3.24-1.fc41 updates"
+        "php.x86_64 8.3.25-1.fc41 updates"
     ],
     "kojiPackages": [
         "php-8.3.25-1.fc41",

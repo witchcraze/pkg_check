@@ -1,6 +1,9 @@
 {
     "centosstream": {
         "9": {
+            "dotnet-sdk-10.0": [
+                "kojiPackages"
+            ],
             "mariadb-server": [
                 "kojiPackages"
             ],

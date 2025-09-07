@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-15",
-        "Version": "15.13-0+deb12u1",
+        "Version": "15.14-0+deb12u1",
         "Priority": "optional",
         "Section": "database",
         "Maintainer": "Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>",
@@ -12,15 +12,16 @@
         "Breaks": "dbconfig-common (<< 2.0.22~)",
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "202209061",
-        "Download-Size": "16.8 MB",
+        "Download-Size": "16.9 MB",
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-15/oldstable 15.13-0+deb12u1 amd64",
+        "postgresql-15/oldstable 15.14-0+deb12u1 amd64",
         "postgresql-15/oldstable-security 15.10-0+deb12u1 amd64"
     ],
     "changelog": [
+        "postgresql-15 (15.14-0+deb12u1) bookworm; urgency=medium",
         "postgresql-15 (15.13-0+deb12u1) bookworm; urgency=medium",
         "postgresql-15 (15.12-0+deb12u2) bookworm; urgency=medium",
         "postgresql-15 (15.12-0+deb12u1) bookworm; urgency=medium",
@@ -46,6 +47,7 @@
         "postgresql-15 (15~beta1-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "15.14-0+deb12u1",
         "15.13-0+deb12u1",
         "15.12-0+deb12u2",
         "15.10-0+deb12u1",

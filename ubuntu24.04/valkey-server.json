@@ -6,7 +6,6 @@
         "Section": "universe/database",
         "Source": "valkey",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "70",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Lucas Kanashiro <kanashiro@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

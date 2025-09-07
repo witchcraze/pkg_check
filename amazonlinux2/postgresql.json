@@ -2,7 +2,7 @@
     "info": {
         "Name": "postgresql",
         "Arch": "x86_64",
-        "Version": "14.18",
+        "Version": "14.19",
         "Release": "1.amzn2.0.1",
         "Size": "1.6 M",
         "Repo": "amzn2extra-postgresql14/2/x86_64",
@@ -48,6 +48,8 @@
         "postgresql.x86_64                                         13.20-1.amzn2.0.1                                          amzn2extra-postgresql13",
         "postgresql.i686                                           13.21-1.amzn2.0.1                                          amzn2extra-postgresql13",
         "postgresql.x86_64                                         13.21-1.amzn2.0.1                                          amzn2extra-postgresql13",
+        "postgresql.i686                                           13.22-1.amzn2.0.1                                          amzn2extra-postgresql13",
+        "postgresql.x86_64                                         13.22-1.amzn2.0.1                                          amzn2extra-postgresql13",
         "postgresql.x86_64                                         14.1-3.amzn2.0.1                                           amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.3-2.amzn2.0.1                                           amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.8-1.amzn2.0.1                                           amzn2extra-postgresql14",
@@ -58,6 +60,7 @@
         "postgresql.x86_64                                         14.13-1.amzn2.0.1                                          amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.14-1.amzn2.0.1                                          amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.17-1.amzn2.0.1                                          amzn2extra-postgresql14",
-        "postgresql.x86_64                                         14.18-1.amzn2.0.1                                          amzn2extra-postgresql14"
+        "postgresql.x86_64                                         14.18-1.amzn2.0.1                                          amzn2extra-postgresql14",
+        "postgresql.x86_64                                         14.19-1.amzn2.0.1                                          amzn2extra-postgresql14"
     ]
 }

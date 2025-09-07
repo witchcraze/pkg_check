@@ -14,13 +14,17 @@
         "Breaks": "libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), node-babel-runtime (<< 7), node-jest (<< 29~), node-typescript-types (<< 20210110~)",
         "Replaces": "libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), nodejs-legacy",
         "Homepage": "https://nodejs.org/",
+        "Tag": "devel::interpreter, devel::lang:ecmascript, devel::runtime, devel::web,",
+        "implemented-in": "c++, implemented-in::ecmascript,",
+        "interface": "commandline, interface::shell, protocol::dns,",
+        "protocol": "http, protocol::tcp, role::program, scope::application,",
+        "works-with-format": "json",
         "Download-Size": "319 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/oldstable-security 18.20.4+dfsg-1~deb12u1 amd64",
-        "nodejs/oldstable 18.19.0+dfsg-6~deb12u2 amd64"
+        "nodejs/oldstable,oldstable-security 18.20.4+dfsg-1~deb12u1 amd64"
     ],
     "changelog": [
         "nodejs (18.20.4+dfsg-1~deb12u1) bookworm-security; urgency=medium",
@@ -313,6 +317,7 @@
         "nodejs (0.1.27+dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "18.20.4+dfsg-1~deb12u1",
         "18.19.0+dfsg-6~deb12u2",
         "18.13.0+dfsg1-1"
     ]

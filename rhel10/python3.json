@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3",
         "Version": "3.12.9",
-        "Release": "2.el10_0.2",
+        "Release": "2.el10_0.3",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.12-3.12.9-2.el10_0.2.src.rpm",
+        "Source": "python3.12-3.12.9-2.el10_0.3.src.rpm",
         "Repository": "@System",
         "From repo": "rhel-10-for-x86_64-baseos-rpms",
         "Summary": "Python 3.12 interpreter",
@@ -14,10 +14,11 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                                       3.12.9-2.el10_0.2                                       @rhel-10-for-x86_64-baseos-rpms",
+        "python3.x86_64                                       3.12.9-2.el10_0.3                                       @rhel-10-for-x86_64-baseos-rpms",
         "python3.x86_64                                       3.12.9-1.el10                                           rhel-10-for-x86_64-baseos-rpms",
         "python3.x86_64                                       3.12.9-2.el10_0                                         rhel-10-for-x86_64-baseos-rpms",
         "python3.x86_64                                       3.12.9-2.el10_0.1                                       rhel-10-for-x86_64-baseos-rpms",
-        "python3.x86_64                                       3.12.9-2.el10_0.2                                       rhel-10-for-x86_64-baseos-rpms"
+        "python3.x86_64                                       3.12.9-2.el10_0.2                                       rhel-10-for-x86_64-baseos-rpms",
+        "python3.x86_64                                       3.12.9-2.el10_0.3                                       rhel-10-for-x86_64-baseos-rpms"
     ]
 }

@@ -14,12 +14,11 @@
         "use": "checking",
         "Download-Size": "1430 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian bookworm-updates/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable-updates,now 3.0.17-1~deb12u2 amd64 [installed,automatic]",
-        "openssl/oldstable 3.0.16-1~deb12u1 amd64",
+        "openssl/oldstable,oldstable-updates,now 3.0.17-1~deb12u2 amd64 [installed,automatic]",
         "openssl/oldstable-security 3.0.14-1~deb12u2 amd64"
     ],
     "changelog": [
@@ -291,6 +290,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.17-1~deb12u2",
         "3.0.16-1~deb12u1",
         "3.0.15-1~deb12u1",
         "3.0.14-1~deb12u1",

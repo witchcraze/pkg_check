@@ -526,6 +526,7 @@
         "mysql (3.20.16beta-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "8.0.43-0ubuntu0.22.04.2",
         "8.0.43-0ubuntu0.22.04.1",
         "8.0.42-0ubuntu0.22.04.2",
         "8.0.42-0ubuntu0.22.04.1",

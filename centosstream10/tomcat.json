@@ -3,10 +3,10 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "10.1.36",
-        "Release": "1.el10",
+        "Release": "3.el10",
         "Architecture": "noarch",
         "Size": "100 k",
-        "Source": "tomcat-10.1.36-1.el10.src.rpm",
+        "Source": "tomcat-10.1.36-3.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 6.0/JSP 3.1 API",
         "URL": "http://tomcat.apache.org/",
@@ -14,11 +14,11 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat.noarch                     1:9.0.83-3.el10                      appstream",
         "tomcat.noarch                     1:9.0.87-2.el10                      appstream",
         "tomcat.noarch                     1:9.0.87-3.el10                      appstream",
         "tomcat.noarch                     1:10.1.8-2.el10                      appstream",
-        "tomcat.noarch                     1:10.1.36-1.el10                     appstream"
+        "tomcat.noarch                     1:10.1.36-1.el10                     appstream",
+        "tomcat.noarch                     1:10.1.36-3.el10                     appstream"
     ],
     "kojiPackages": [
         "tomcat-10.1.36-3.el10",

@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql17",
         "Epoch": "0",
-        "Version": "17.5",
+        "Version": "17.6",
         "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "1.9 MiB",
         "Installed size": "7.9 MiB",
-        "Source": "postgresql17-17.5-1.fc42.src.rpm",
+        "Source": "postgresql17-17.6-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -18,8 +18,8 @@
     "list": [
         "postgresql17.i686   17.2-1.fc42 fedora",
         "postgresql17.x86_64 17.2-1.fc42 fedora",
-        "postgresql17.i686   17.5-1.fc42 updates",
-        "postgresql17.x86_64 17.5-1.fc42 updates"
+        "postgresql17.i686   17.6-1.fc42 updates",
+        "postgresql17.x86_64 17.6-1.fc42 updates"
     ],
     "kojiPackages": [
         "postgresql17-17.6-1.fc42",

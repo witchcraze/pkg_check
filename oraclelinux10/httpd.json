@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.63",
-        "Release": "1.0.1.el10",
+        "Release": "1.0.1.el10_0.2",
         "Architecture": "x86_64",
-        "Size": "97 k",
-        "Source": "httpd-2.4.63-1.0.1.el10.src.rpm",
+        "Size": "63 k",
+        "Source": "httpd-2.4.63-1.0.1.el10_0.2.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -13,7 +13,9 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.src                     2.4.63-1.0.1.el10                   ol10_appstream",
-        "httpd.x86_64                  2.4.63-1.0.1.el10                   ol10_appstream"
+        "httpd.src                   2.4.63-1.0.1.el10                     ol10_appstream",
+        "httpd.x86_64                2.4.63-1.0.1.el10                     ol10_appstream",
+        "httpd.src                   2.4.63-1.0.1.el10_0.2                 ol10_appstream",
+        "httpd.x86_64                2.4.63-1.0.1.el10_0.2                 ol10_appstream"
     ]
 }

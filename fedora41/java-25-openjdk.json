@@ -2,12 +2,12 @@
     "info": {
         "Name": "java-25-openjdk",
         "Epoch": "1",
-        "Version": "25.0.0.0.32",
+        "Version": "25.0.0.0.36",
         "Release": "0.1.ea.fc41",
         "Architecture": "x86_64",
-        "Download size": "366.3 KiB",
-        "Installed size": "963.6 KiB",
-        "Source": "java-25-openjdk-25.0.0.0.32-0.1.ea.fc41.src.rpm",
+        "Download size": "367.0 KiB",
+        "Installed size": "962.2 KiB",
+        "Source": "java-25-openjdk-25.0.0.0.36-0.1.ea.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -16,7 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "java-25-openjdk.x86_64 1:25.0.0.0.32-0.1.ea.fc41 updates"
+        "java-25-openjdk.x86_64 1:25.0.0.0.36-0.1.ea.fc41 updates"
     ],
     "kojiPackages": [
         "java-25-openjdk-25.0.0.0.36-0.1.ea.fc41",

@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "80",
         "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",

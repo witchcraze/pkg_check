@@ -11,13 +11,14 @@
         "Depends": "libc6 (>= 2.34), libedit2 (>= 2.11-20080614-0), libjemalloc2 (>= 2.1.1), libncursesw6 (>= 6), libpcre2-8-0 (>= 10.32), libtinfo6 (>= 6), libvarnishapi3 (>= 7.1.0), adduser, gcc, libc6-dev | libc6.1-dev | libc-dev, lsb-base",
         "Suggests": "varnish-doc",
         "Homepage": "https://www.varnish-cache.org/",
+        "Tag": "implemented-in::c, interface::daemon, network::server, protocol::http,",
+        "role": "program, uitoolkit::ncurses, use::proxying",
         "Download-Size": "1039 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
-        "varnish/oldstable-security 7.1.1-2+deb12u1 amd64",
-        "varnish/oldstable 7.1.1-1.1+deb12u1 amd64"
+        "varnish/oldstable,oldstable-security 7.1.1-2+deb12u1 amd64"
     ],
     "changelog": [
         "varnish (7.1.1-2+deb12u1) bookworm-security; urgency=medium",
@@ -126,6 +127,7 @@
         "varnish (1.0.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "7.1.1-2+deb12u1",
         "7.1.1-1.1+deb12u1",
         "7.1.1-1.1"
     ]

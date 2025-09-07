@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "13.20",
-        "Release": "1.module_el8.10.0+3967+334cd65a",
+        "Version": "13.22",
+        "Release": "1.module_el8.10.0+4042+cb252986",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql-13.20-1.module_el8.10.0+3967+334cd65a.src.rpm",
+        "Source": "postgresql-13.22-1.module_el8.10.0+4042+cb252986.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -30,6 +30,7 @@
         "postgresql.x86_64               13.14-1.module_el8.9.0+3815+0bfda440.alma.1                repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
         "postgresql.x86_64               13.16-1.module_el8.10.0+3887+93e5d125                      appstream",
         "postgresql.x86_64               13.18-1.module_el8.10.0+3928+8233d274                      appstream",
-        "postgresql.x86_64               13.20-1.module_el8.10.0+3967+334cd65a                      appstream"
+        "postgresql.x86_64               13.20-1.module_el8.10.0+3967+334cd65a                      appstream",
+        "postgresql.x86_64               13.22-1.module_el8.10.0+4042+cb252986                      appstream"
     ]
 }

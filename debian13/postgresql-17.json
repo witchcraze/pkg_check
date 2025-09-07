@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-17",
-        "Version": "17.5-1",
+        "Version": "17.6-0+deb13u1",
         "Priority": "optional",
         "Section": "database",
         "Maintainer": "Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>",
@@ -17,9 +17,10 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-17/stable 17.5-1 amd64"
+        "postgresql-17/stable 17.6-0+deb13u1 amd64"
     ],
     "changelog": [
+        "postgresql-17 (17.6-0+deb13u1) trixie; urgency=medium",
         "postgresql-17 (17.5-1) unstable; urgency=medium",
         "postgresql-17 (17.4-2) unstable; urgency=medium",
         "postgresql-17 (17.4-1) unstable; urgency=medium",

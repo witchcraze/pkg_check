@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.8",
-        "Release": "1.module+el8.10.0+1941+ca32dfe4",
+        "Version": "16.10",
+        "Release": "1.module+el8.10.0+2056+3327f2bc",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql-16.8-1.module+el8.10.0+1941+ca32dfe4.src.rpm",
+        "Source": "postgresql-16.10-1.module+el8.10.0+2056+3327f2bc.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,10 +13,11 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64                                       16.1-1.module+el8.10.0+1622+bd25b19c                                       appstream",
-        "postgresql.x86_64                                       16.4-1.module+el8.10.0+1858+fcc46a79                                       appstream",
-        "postgresql.x86_64                                       16.6-1.module+el8.10.0+1900+d7340343                                       appstream",
-        "postgresql.x86_64                                       16.8-1.module+el8.10.0+1941+ca32dfe4                                       appstream"
+        "postgresql.x86_64                                      16.1-1.module+el8.10.0+1622+bd25b19c                                        appstream",
+        "postgresql.x86_64                                      16.4-1.module+el8.10.0+1858+fcc46a79                                        appstream",
+        "postgresql.x86_64                                      16.6-1.module+el8.10.0+1900+d7340343                                        appstream",
+        "postgresql.x86_64                                      16.8-1.module+el8.10.0+1941+ca32dfe4                                        appstream",
+        "postgresql.x86_64                                      16.10-1.module+el8.10.0+2056+3327f2bc                                       appstream"
     ],
     "kojiPackages": [
         "postgresql-16.10-1.module+el8.10.0+2056+3327f2bc",
