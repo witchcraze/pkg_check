@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "haproxy",
-        "Version": "2.8.3",
+        "Version": "3.0.5",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "2.4 M",
-        "Source": "haproxy-2.8.3-1.amzn2023.0.1.src.rpm",
+        "Size": "2.6 M",
+        "Source": "haproxy-3.0.5-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -16,6 +16,7 @@
         "haproxy.x86_64                 2.8.0-1.amzn2023.0.1                  amazonlinux",
         "haproxy.x86_64                 2.8.0-1.amzn2023.0.2                  amazonlinux",
         "haproxy.x86_64                 2.8.3-1.amzn2023                      amazonlinux",
-        "haproxy.x86_64                 2.8.3-1.amzn2023.0.1                  amazonlinux"
+        "haproxy.x86_64                 2.8.3-1.amzn2023.0.1                  amazonlinux",
+        "haproxy.x86_64                 3.0.5-1.amzn2023.0.1                  amazonlinux"
     ]
 }

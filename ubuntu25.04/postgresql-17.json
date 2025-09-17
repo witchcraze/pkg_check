@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "postgresql-17",
-        "Version": "17.5-0ubuntu0.25.04.1",
+        "Version": "17.6-0ubuntu0.25.04.1",
         "Priority": "optional",
         "Section": "database",
         "Origin": "Ubuntu",
@@ -21,10 +21,11 @@
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-17/plucky-updates,plucky-security 17.5-0ubuntu0.25.04.1 amd64",
+        "postgresql-17/plucky-updates,plucky-security 17.6-0ubuntu0.25.04.1 amd64",
         "postgresql-17/plucky 17.4-1 amd64"
     ],
     "changelog": [
+        "postgresql-17 (17.6-0ubuntu0.25.04.1) plucky-security; urgency=medium",
         "postgresql-17 (17.5-0ubuntu0.25.04.1) plucky-security; urgency=medium",
         "postgresql-17 (17.4-1) unstable; urgency=medium",
         "postgresql-17 (17.3-3) unstable; urgency=medium",
@@ -40,6 +41,7 @@
         "postgresql-17 (17~~devel20240509-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "17.6-0ubuntu0.25.04.1",
         "17.5-0ubuntu0.25.04.1",
         "17.4-1",
         "17.3-3build1",

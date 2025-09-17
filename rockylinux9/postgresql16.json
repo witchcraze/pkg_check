@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.8",
-        "Release": "1.module+el9.5.0+30638+72f697e1",
+        "Version": "16.10",
+        "Release": "1.module+el9.6.0+32421+7c015469",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql-16.8-1.module+el9.5.0+30638+72f697e1.src.rpm",
-        "Repository": "dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "Source": "postgresql-16.10-1.module+el9.6.0+32421+7c015469.src.rpm",
+        "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -18,7 +18,7 @@
         "postgresql.x86_64                16.4-2.module+el9.5.0+28968+df3c4d45                 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "postgresql.x86_64                16.6-1.module+el9.5.0+29404+651352d8                 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "postgresql.x86_64                16.8-1.module+el9.5.0+30638+72f697e1                 dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "postgresql.x86_64                16.8-1.module+el9.5.0+30638+72f697e1                 appstream"
+        "postgresql.x86_64                16.10-1.module+el9.6.0+32421+7c015469                appstream"
     ],
     "kojiPackages": [
         "postgresql-16.4-2.module+el9.5.0+28968+df3c4d45",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "13.20",
-        "Release": "1.module+el8.10.0+1939+bc4b0228",
+        "Version": "13.22",
+        "Release": "1.module+el8.10.0+2059+b61e6896",
         "Architecture": "x86_64",
         "Size": "5.6 M",
-        "Source": "postgresql-13.20-1.module+el8.10.0+1939+bc4b0228.src.rpm",
+        "Source": "postgresql-13.22-1.module+el8.10.0+2059+b61e6896.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -28,6 +28,7 @@
         "postgresql-server.x86_64            13.14-1.module+el8.9.0+1736+ef8fa13a              dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "postgresql-server.x86_64            13.16-1.module+el8.10.0+1863+86f282f3             appstream",
         "postgresql-server.x86_64            13.18-1.module+el8.10.0+1898+8409d9ae             appstream",
-        "postgresql-server.x86_64            13.20-1.module+el8.10.0+1939+bc4b0228             appstream"
+        "postgresql-server.x86_64            13.20-1.module+el8.10.0+1939+bc4b0228             appstream",
+        "postgresql-server.x86_64            13.22-1.module+el8.10.0+2059+b61e6896             appstream"
     ]
 }

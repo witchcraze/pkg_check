@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.11",
         "Version": "3.11.11",
-        "Release": "2.el9_6.1",
+        "Release": "2.el9_6.2",
         "Architecture": "x86_64",
         "Size": "25 k",
-        "Source": "python3.11-3.11.11-2.el9_6.1.src.rpm",
+        "Source": "python3.11-3.11.11-2.el9_6.2.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -23,7 +23,7 @@
         "python3.11.x86_64                          3.11.9-7.el9_5.1                           dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "python3.11.x86_64                          3.11.9-7.el9_5.2                           dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "python3.11.x86_64                          3.11.9-7.el9_5.3                           dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "python3.11.x86_64                          3.11.11-2.el9_6.1                          appstream"
+        "python3.11.x86_64                          3.11.11-2.el9_6.2                          appstream"
     ],
     "kojiPackages": [
         "python3.11-3.11.9-7.el9_5.1",

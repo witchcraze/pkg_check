@@ -17,6 +17,7 @@
         "php.x86_64                                         8.2.25-1.module+el8.10.0+1911+f499711e                                          appstream"
     ],
     "kojiPackages": [
+        "php-8.2.28-1.module+el8.10.0+2063+87cdeef4",
         "php-8.2.25-1.module+el8.10.0+1911+f499711e",
         "php-8.2.13-1.module+el8.10.0+1596+477f03f8"
     ]

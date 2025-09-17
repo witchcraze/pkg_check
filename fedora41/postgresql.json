@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql",
         "Epoch": "0",
-        "Version": "16.9",
+        "Version": "16.10",
         "Release": "1.fc41",
         "Architecture": "x86_64",
         "Download size": "1.9 MiB",
         "Installed size": "7.8 MiB",
-        "Source": "postgresql16-16.9-1.fc41.src.rpm",
+        "Source": "postgresql16-16.10-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -16,9 +16,9 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "postgresql.i686   16.3-3.fc41 fedora",
-        "postgresql.x86_64 16.3-3.fc41 fedora",
-        "postgresql.i686   16.9-1.fc41 updates",
-        "postgresql.x86_64 16.9-1.fc41 updates"
+        "postgresql.i686   16.3-3.fc41  fedora",
+        "postgresql.x86_64 16.3-3.fc41  fedora",
+        "postgresql.i686   16.10-1.fc41 updates",
+        "postgresql.x86_64 16.10-1.fc41 updates"
     ]
 }

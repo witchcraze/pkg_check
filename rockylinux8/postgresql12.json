@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "12.22",
-        "Release": "3.module+el8.10.0+1942+05740481",
+        "Release": "5.module+el8.10.0+2058+57631455",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-12.22-3.module+el8.10.0+1942+05740481.src.rpm",
+        "Source": "postgresql-12.22-5.module+el8.10.0+2058+57631455.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -30,7 +30,8 @@
         "postgresql.x86_64                12.18-1.module+el8.9.0+1735+a332307b                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "postgresql.x86_64                12.20-1.module+el8.10.0+1862+29bef648                appstream",
         "postgresql.x86_64                12.22-1.module+el8.10.0+1897+c7883fde                appstream",
-        "postgresql.x86_64                12.22-3.module+el8.10.0+1942+05740481                appstream"
+        "postgresql.x86_64                12.22-3.module+el8.10.0+1942+05740481                appstream",
+        "postgresql.x86_64                12.22-5.module+el8.10.0+2058+57631455                appstream"
     ],
     "kojiPackages": [
         "postgresql-12.22-5.module+el8.10.0+2058+57631455",

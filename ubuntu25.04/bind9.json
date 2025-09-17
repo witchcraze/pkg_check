@@ -1,30 +1,32 @@
 {
     "show": {
         "Package": "bind9",
-        "Version": "1:9.20.4-3ubuntu1.2",
+        "Version": "1:9.20.11-0ubuntu0.1",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian DNS Team <team+dns@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "984 kB",
+        "Installed-Size": "993 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "adduser, bind9-libs (= 1:9.20.4-3ubuntu1.2), bind9-utils (= 1:9.20.4-3ubuntu1.2), debconf | debconf-2.0, dns-root-data, iproute2, netbase, libc6 (>= 2.38), libcap2 (>= 1:2.10), libjemalloc2 (>= 3.5.0), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3t64 (>= 3.0.0), libsystemd0, libuv1t64 (>= 1.18.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
+        "Depends": "adduser, bind9-libs (= 1:9.20.11-0ubuntu0.1), bind9-utils (= 1:9.20.11-0ubuntu0.1), debconf | debconf-2.0, dns-root-data, iproute2, netbase, libc6 (>= 2.38), libcap2 (>= 1:2.10), libjemalloc2 (>= 3.5.0), libjson-c5 (>= 0.15), liblmdb0 (>= 0.9.7), libmaxminddb0 (>= 1.3.0), libnghttp2-14 (>= 1.3.0), libssl3t64 (>= 3.0.0), libuv1t64 (>= 1.18.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)",
         "Suggests": "bind-doc, dnsutils, resolvconf, ufw",
         "Breaks": "bind (<< 1:9.13.6~)",
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
-        "Download-Size": "268 kB",
+        "Download-Size": "272 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/plucky-updates,plucky-security 1:9.20.4-3ubuntu1.2 amd64",
+        "bind9/plucky-updates 1:9.20.11-0ubuntu0.1 amd64",
+        "bind9/plucky-security 1:9.20.4-3ubuntu1.2 amd64",
         "bind9/plucky 1:9.20.4-3ubuntu1 amd64"
     ],
     "changelog": [
+        "bind9 (1:9.20.11-0ubuntu0.1) plucky; urgency=medium",
         "bind9 (1:9.20.4-3ubuntu1.2) plucky-security; urgency=medium",
         "bind9 (1:9.20.4-3ubuntu1.1) plucky-security; urgency=medium",
         "bind9 (1:9.20.4-3ubuntu1) plucky; urgency=medium",

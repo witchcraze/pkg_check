@@ -38,6 +38,7 @@
         "dotnet9 (9.0.100-9.0.0~rc1-0ubuntu1) oracular; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.110-9.0.9-0ubuntu1~25.04.1",
         "9.0.109-9.0.8-0ubuntu1~25.04.1",
         "9.0.108-9.0.7-0ubuntu1~25.04.1",
         "9.0.107-9.0.6-0ubuntu1~25.04.1",
