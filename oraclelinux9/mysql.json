@@ -1,15 +1,15 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.4",
-        "Release": "1.module+el9.6.0+90539+da437dfb",
+        "Version": "8.4.6",
+        "Release": "1.module+el9.6.0+90673+e6b08fe8",
         "Architecture": "src",
-        "Size": "440 M",
+        "Size": "454 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
-        "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND BSD-2-Clause",
+        "License": "GPL-2.0-only AND ( GPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND GPL-2.0-or-later AND ( LGPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND ( GPL-2.0-only OR BSD-2-Clause ) AND BSD-2-Clause AND BSL-1.0 AND Apache-2.0 AND MIT",
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
@@ -23,6 +23,7 @@
         "mysql.x86_64         8.0.36-1.el9_3                                ol9_appstream",
         "mysql.src            8.0.41-2.el9_5                                ol9_appstream",
         "mysql.x86_64         8.0.41-2.el9_5                                ol9_appstream",
-        "mysql.src            8.4.4-1.module+el9.6.0+90539+da437dfb         ol9_appstream"
+        "mysql.src            8.4.4-1.module+el9.6.0+90539+da437dfb         ol9_appstream",
+        "mysql.src            8.4.6-1.module+el9.6.0+90673+e6b08fe8         ol9_appstream"
     ]
 }

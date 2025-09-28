@@ -1,27 +1,28 @@
 {
     "show": {
         "Package": "squid",
-        "Version": "4.13-10+deb11u4",
+        "Version": "4.13-10+deb11u5",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Luigi Gangitano <luigi@debian.org>",
-        "Installed-Size": "8244 kB",
+        "Installed-Size": "8261 kB",
         "Provides": "squid3",
         "Pre-Depends": "init-system-helpers (>= 1.54~), adduser",
-        "Depends": "libc6 (>= 2.29), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libdb5.3, libecap3 (>= 1.0.1), libgcc-s1 (>= 3.0), libgnutls30 (>= 3.7.0), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.6), libnetfilter-conntrack3 (>= 1.0.1), libnettle8, libnsl2 (>= 1.0), libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.27+dfsg), libstdc++6 (>= 9), libsystemd0, netbase, logrotate (>= 3.5.4-1), squid-common (>= 4.13-10+deb11u4), lsb-base, libdbi-perl",
+        "Depends": "libc6 (>= 2.29), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libdb5.3, libecap3 (>= 1.0.1), libgcc-s1 (>= 3.0), libgnutls30 (>= 3.7.0), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.6), libnetfilter-conntrack3 (>= 1.0.1), libnettle8, libnsl2 (>= 1.0), libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.27+dfsg), libstdc++6 (>= 9), libsystemd0, netbase, logrotate (>= 3.5.4-1), squid-common (>= 4.13-10+deb11u5), lsb-base, libdbi-perl",
         "Recommends": "libcap2-bin, ca-certificates",
         "Suggests": "squidclient, squid-cgi, squid-purge, resolvconf (>= 0.40), smbclient, ufw, winbind, apparmor",
         "Conflicts": "squid-openssl",
         "Homepage": "http://www.squid-cache.org",
-        "Download-Size": "2527 kB",
+        "Download-Size": "2531 kB",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/oldoldstable-security 4.13-10+deb11u4 amd64",
+        "squid/oldoldstable-security 4.13-10+deb11u5 amd64",
         "squid/oldoldstable 4.13-10+deb11u3 amd64"
     ],
     "changelog": [
+        "squid (4.13-10+deb11u5) bullseye-security; urgency=medium",
         "squid (4.13-10+deb11u4) bullseye-security; urgency=high",
         "squid (4.13-10+deb11u3) bullseye-security; urgency=high",
         "squid (4.13-10+deb11u2) bullseye-security; urgency=high",
