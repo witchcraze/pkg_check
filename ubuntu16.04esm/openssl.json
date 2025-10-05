@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.0.2g-1ubuntu4.20+esm12",
+        "Version": "1.0.2g-1ubuntu4.20+esm13",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -15,7 +15,7 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/xenial-infra-security,now 1.0.2g-1ubuntu4.20+esm12 amd64 [installed,automatic]",
+        "openssl/xenial-infra-security,now 1.0.2g-1ubuntu4.20+esm13 amd64 [installed,automatic]",
         "openssl/xenial-updates,xenial-security 1.0.2g-1ubuntu4.20 amd64",
         "openssl/xenial 1.0.2g-1ubuntu4 amd64"
     ],

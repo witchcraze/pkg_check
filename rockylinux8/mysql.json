@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.0.41",
-        "Release": "1.module+el8.10.0+1937+28fbbc83.0.1",
+        "Version": "8.0.43",
+        "Release": "1.module+el8.10.0+2065+e68efcea.0.1",
         "Architecture": "x86_64",
-        "Size": "14 M",
-        "Source": "mysql-8.0.41-1.module+el8.10.0+1937+28fbbc83.0.1.src.rpm",
+        "Size": "15 M",
+        "Source": "mysql-8.0.43-1.module+el8.10.0+2065+e68efcea.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -24,6 +24,7 @@
         "mysql.x86_64                8.0.32-1.module+el8.8.0+1283+4b88a3a8.0.1                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "mysql.x86_64                8.0.36-1.module+el8.9.0+1729+481e3b0b.0.1                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "mysql.x86_64                8.0.36-1.module+el8.10.0+1676+9b4b6e24                    appstream",
-        "mysql.x86_64                8.0.41-1.module+el8.10.0+1937+28fbbc83.0.1                appstream"
+        "mysql.x86_64                8.0.41-1.module+el8.10.0+1937+28fbbc83.0.1                appstream",
+        "mysql.x86_64                8.0.43-1.module+el8.10.0+2065+e68efcea.0.1                appstream"
     ]
 }

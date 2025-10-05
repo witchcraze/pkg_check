@@ -55,6 +55,26 @@
             "varnish": [
                 "apt-get changelog"
             ]
+        },
+        "12": {
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog",
+                "apt-get changelog",
+                "apt-get changelog"
+            ]
+        },
+        "13": {
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog",
+                "apt-get changelog",
+                "apt-get changelog"
+            ]
         }
     }
 }

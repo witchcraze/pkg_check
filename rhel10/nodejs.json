@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.16.0",
-        "Release": "1.el10_0",
+        "Version": "22.19.0",
+        "Release": "2.el10_0",
         "Architecture": "x86_64",
-        "Size": "48 k",
-        "Source": "nodejs22-22.16.0-1.el10_0.src.rpm",
+        "Size": "50 k",
+        "Source": "nodejs22-22.19.0-2.el10_0.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -16,6 +16,7 @@
     "list": [
         "nodejs.x86_64                                      1:22.13.1-2.el10                                        rhel-10-for-x86_64-appstream-rpms",
         "nodejs.x86_64                                      1:22.15.0-1.el10_0                                      rhel-10-for-x86_64-appstream-rpms",
-        "nodejs.x86_64                                      1:22.16.0-1.el10_0                                      rhel-10-for-x86_64-appstream-rpms"
+        "nodejs.x86_64                                      1:22.16.0-1.el10_0                                      rhel-10-for-x86_64-appstream-rpms",
+        "nodejs.x86_64                                      1:22.19.0-2.el10_0                                      rhel-10-for-x86_64-appstream-rpms"
     ]
 }

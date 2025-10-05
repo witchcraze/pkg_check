@@ -2,8 +2,8 @@
     "info": {
         "Name": "nodejs22",
         "Epoch": "1",
-        "Version": "22.16.0",
-        "Release": "1.el10_0",
+        "Version": "22.19.0",
+        "Release": "2.el10_0",
         "Architecture": "src",
         "Size": "91 M",
         "Source": "None",
@@ -15,6 +15,7 @@
     },
     "list": [
         "nodejs22.src                  1:22.13.1-2.el10                    ol10_appstream",
-        "nodejs22.src                  1:22.16.0-1.el10_0                  ol10_appstream"
+        "nodejs22.src                  1:22.16.0-1.el10_0                  ol10_appstream",
+        "nodejs22.src                  1:22.19.0-2.el10_0                  ol10_appstream"
     ]
 }

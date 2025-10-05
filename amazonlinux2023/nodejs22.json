@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs22",
         "Epoch": "1",
-        "Version": "22.18.0",
+        "Version": "22.19.0",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
-        "Size": "52 k",
-        "Source": "nodejs22-22.18.0-1.amzn2023.0.1.src.rpm",
+        "Size": "53 k",
+        "Source": "nodejs22-22.19.0-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -17,6 +17,7 @@
         "nodejs22.x86_64               1:22.14.0-1.amzn2023.0.1               amazonlinux",
         "nodejs22.x86_64               1:22.14.0-1.amzn2023.0.2               amazonlinux",
         "nodejs22.x86_64               1:22.16.0-1.amzn2023.0.1               amazonlinux",
-        "nodejs22.x86_64               1:22.18.0-1.amzn2023.0.1               amazonlinux"
+        "nodejs22.x86_64               1:22.18.0-1.amzn2023.0.1               amazonlinux",
+        "nodejs22.x86_64               1:22.19.0-1.amzn2023.0.1               amazonlinux"
     ]
 }

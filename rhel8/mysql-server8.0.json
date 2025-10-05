@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.0.41",
-        "Release": "1.module+el8.10.0+22857+7f331edd",
+        "Version": "8.0.43",
+        "Release": "1.module+el8.10.0+23526+fabc920a",
         "Architecture": "x86_64",
         "Size": "32 M",
-        "Source": "mysql-8.0.41-1.module+el8.10.0+22857+7f331edd.src.rpm",
+        "Source": "mysql-8.0.43-1.module+el8.10.0+23526+fabc920a.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -20,6 +20,7 @@
         "mysql-server.x86_64                         8.0.30-1.module+el8.6.0+16523+5cb0e868                          rhel-8-for-x86_64-appstream-rpms",
         "mysql-server.x86_64                         8.0.32-1.module+el8.8.0+18446+fca6280e                          rhel-8-for-x86_64-appstream-rpms",
         "mysql-server.x86_64                         8.0.36-1.module+el8.9.0+21207+6c20cb3d                          rhel-8-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                         8.0.41-1.module+el8.10.0+22857+7f331edd                         rhel-8-for-x86_64-appstream-rpms"
+        "mysql-server.x86_64                         8.0.41-1.module+el8.10.0+22857+7f331edd                         rhel-8-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.0.43-1.module+el8.10.0+23526+fabc920a                         rhel-8-for-x86_64-appstream-rpms"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1w-0+deb11u3",
+        "Version": "1.1.1w-0+deb11u4",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
@@ -15,10 +15,11 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldoldstable-security,now 1.1.1w-0+deb11u3 amd64 [installed,automatic]",
+        "openssl/oldoldstable-security,now 1.1.1w-0+deb11u4 amd64 [installed,automatic]",
         "openssl/oldoldstable 1.1.1w-0+deb11u1 amd64"
     ],
     "changelog": [
+        "openssl (1.1.1w-0+deb11u4) bullseye-security; urgency=medium",
         "openssl (1.1.1w-0+deb11u3) bullseye-security; urgency=medium",
         "openssl (1.1.1w-0+deb11u2) bullseye-security; urgency=high",
         "openssl (1.1.1w-0+deb11u1) bullseye; urgency=medium",

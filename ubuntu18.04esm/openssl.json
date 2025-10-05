@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1-1ubuntu2.1~18.04.23+esm5",
+        "Version": "1.1.1-1ubuntu2.1~18.04.23+esm6",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -15,7 +15,7 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/bionic-infra-security,now 1.1.1-1ubuntu2.1~18.04.23+esm5 amd64 [installed,automatic]",
+        "openssl/bionic-infra-security,now 1.1.1-1ubuntu2.1~18.04.23+esm6 amd64 [installed,automatic]",
         "openssl/bionic-infra-updates 1.1.1-1ubuntu2.1~18.04.23+esm2 amd64",
         "openssl/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.23 amd64",
         "openssl/bionic 1.1.0g-2ubuntu4 amd64"

@@ -21,6 +21,7 @@
         "perl.x86_64                     4:5.40.2-514.el10                      appstream"
     ],
     "kojiPackages": [
+        "perl-5.40.2-515.el10,draft_85187",
         "perl-5.40.2-514.el10",
         "perl-5.40.2-513.el10",
         "perl-5.40.1-512.el10",
