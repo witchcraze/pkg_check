@@ -64,6 +64,9 @@
                 "apt-get changelog",
                 "apt-get changelog",
                 "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
             ]
         },
         "13": {
@@ -73,6 +76,12 @@
             "openssl": [
                 "apt-get changelog",
                 "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "redis-server": [
+                "apt-get changelog"
+            ],
+            "valkey-server": [
                 "apt-get changelog"
             ]
         }

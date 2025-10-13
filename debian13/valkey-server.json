@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "valkey-server",
-        "Version": "8.1.1+dfsg1-3",
+        "Version": "8.1.1+dfsg1-3+deb13u1",
         "Priority": "optional",
         "Section": "database",
         "Source": "valkey",
@@ -9,16 +9,18 @@
         "Installed-Size": "189 kB",
         "Provides": "valkey",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "valkey-tools (= 8.1.1+dfsg1-3)",
+        "Depends": "valkey-tools (= 8.1.1+dfsg1-3+deb13u1)",
         "Homepage": "https://valkey.io",
-        "Download-Size": "58.1 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "Download-Size": "58.3 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
+        "valkey-server/stable-security 8.1.1+dfsg1-3+deb13u1 amd64",
         "valkey-server/stable 8.1.1+dfsg1-3 amd64"
     ],
     "changelog": [
+        "valkey (8.1.1+dfsg1-3+deb13u1) trixie-security; urgency=medium",
         "valkey (8.1.1+dfsg1-3) unstable; urgency=medium",
         "valkey (8.1.1+dfsg1-2) unstable; urgency=medium",
         "valkey (8.1.1+dfsg1-1.1) unstable; urgency=medium",
