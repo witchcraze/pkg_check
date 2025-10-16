@@ -19,7 +19,7 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/noble-updates 25+36-1~24.04.2 amd64"
+        "openjdk-25-jdk/noble-updates,noble-security 25+36-1~24.04.2 amd64"
     ],
     "changelog": [
         "openjdk-25 (25+36-1~24.04.2) noble; urgency=medium",

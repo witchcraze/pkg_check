@@ -19,7 +19,7 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/jammy-updates 25+36-1~22.04.2 amd64"
+        "openjdk-25-jdk/jammy-updates,jammy-security 25+36-1~22.04.2 amd64"
     ],
     "changelog": [
         "openjdk-25 (25+36-1~22.04.2) jammy; urgency=medium",

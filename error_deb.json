@@ -70,17 +70,6 @@
             ]
         },
         "13": {
-            "haproxy": [
-                "apt-get changelog"
-            ],
-            "openssl": [
-                "apt-get changelog",
-                "apt-get changelog",
-                "apt-get changelog"
-            ],
-            "redis-server": [
-                "apt-get changelog"
-            ],
             "valkey-server": [
                 "apt-get changelog"
             ]

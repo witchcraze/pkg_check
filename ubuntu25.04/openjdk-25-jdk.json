@@ -19,7 +19,7 @@
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/plucky-updates 25+36-1~25.04.2 amd64",
+        "openjdk-25-jdk/plucky-updates,plucky-security 25+36-1~25.04.2 amd64",
         "openjdk-25-jdk/plucky 25~16ea-1 amd64"
     ],
     "changelog": [

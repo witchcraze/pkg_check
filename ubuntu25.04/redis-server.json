@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:7.0.15-3",
+        "Version": "5:7.0.15-3ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/misc",
         "Source": "redis",
@@ -11,16 +11,18 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "186 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "redis-tools (= 5:7.0.15-3), sysvinit-utils",
+        "Depends": "redis-tools (= 5:7.0.15-3ubuntu0.1), sysvinit-utils",
         "Homepage": "https://redis.io/",
         "Download-Size": "51.7 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
+        "redis-server/plucky-updates,plucky-security 5:7.0.15-3ubuntu0.1 amd64",
         "redis-server/plucky 5:7.0.15-3 amd64"
     ],
     "changelog": [
+        "redis (5:7.0.15-3ubuntu0.1) plucky-security; urgency=medium",
         "redis (5:7.0.15-3) unstable; urgency=high",
         "redis (5:7.0.15-2) unstable; urgency=high",
         "redis (5:7.0.15-1) unstable; urgency=medium",
@@ -280,6 +282,7 @@
         "redis (1.0~beta7-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "5:7.0.15-3ubuntu0.1",
         "5:7.0.15-3",
         "5:7.0.15-2",
         "5:7.0.15-1build2"

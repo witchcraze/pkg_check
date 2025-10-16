@@ -2,8 +2,8 @@
     "info": {
         "Name": "redis",
         "Arch": "x86_64",
-        "Version": "6.2.14",
-        "Release": "2.amzn2.0.5",
+        "Version": "6.2.20",
+        "Release": "2.amzn2.0.1",
         "Size": "1.1 M",
         "Repo": "amzn2extra-redis6/2/x86_64",
         "Summary": "A persistent key-value database",
@@ -25,6 +25,7 @@
         "redis.x86_64                                              6.2.14-2.amzn2.0.1                                               amzn2extra-redis6",
         "redis.x86_64                                              6.2.14-2.amzn2.0.2                                               amzn2extra-redis6",
         "redis.x86_64                                              6.2.14-2.amzn2.0.3                                               amzn2extra-redis6",
-        "redis.x86_64                                              6.2.14-2.amzn2.0.5                                               amzn2extra-redis6"
+        "redis.x86_64                                              6.2.14-2.amzn2.0.5                                               amzn2extra-redis6",
+        "redis.x86_64                                              6.2.20-2.amzn2.0.1                                               amzn2extra-redis6"
     ]
 }

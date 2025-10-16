@@ -24,6 +24,7 @@
         "postgresql.x86_64                                         9.2.24-8.amzn2.0.5                                         amzn2-core",
         "postgresql.x86_64                                         9.2.24-8.amzn2.0.6                                         amzn2-core",
         "postgresql.x86_64                                         9.2.24-8.amzn2.0.7                                         amzn2-core",
+        "postgresql.x86_64                                         9.2.24-8.amzn2.0.8                                         amzn2-core",
         "postgresql.i686                                           13.2-2.amzn2.0.1                                           amzn2extra-postgresql13",
         "postgresql.x86_64                                         13.2-2.amzn2.0.1                                           amzn2extra-postgresql13",
         "postgresql.i686                                           13.3-2.amzn2.0.1                                           amzn2extra-postgresql13",
