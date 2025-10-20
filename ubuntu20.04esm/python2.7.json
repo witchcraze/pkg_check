@@ -17,7 +17,7 @@
         "Description": "Interactive high-level object-oriented language (version 2.7)"
     },
     "list": [
-        "python2.7/focal-apps-security 2.7.18-1~20.04.7+esm8 amd64",
+        "python2.7/focal-apps-security,focal-infra-security 2.7.18-1~20.04.7+esm8 amd64",
         "python2.7/focal-updates,focal-security 2.7.18-1~20.04.7 amd64",
         "python2.7/focal 2.7.18~rc1-2 amd64"
     ],
