@@ -700,6 +700,9 @@
             "python3.14": [
                 "kojiPackages"
             ],
+            "python3.15": [
+                "kojiPackages"
+            ],
             "python3.6": [
                 "kojiPackages"
             ],
@@ -832,6 +835,9 @@
                 "kojiPackages"
             ],
             "python3.14": [
+                "kojiPackages"
+            ],
+            "python3.15": [
                 "kojiPackages"
             ],
             "python3.6": [

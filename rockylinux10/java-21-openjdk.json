@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.8.0.9",
+        "Version": "21.0.9.0.10",
         "Release": "1.el10",
         "Architecture": "x86_64",
-        "Size": "433 k",
-        "Source": "java-21-openjdk-21.0.8.0.9-1.el10.src.rpm",
+        "Size": "398 k",
+        "Source": "java-21-openjdk-21.0.9.0.10-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -14,11 +14,13 @@
         "Description": "The OpenJDK 21 runtime environment."
     },
     "list": [
-        "java-21-openjdk.x86_64                                             1:21.0.7.0.6-2.el10                                             appstream",
-        "java-21-openjdk.x86_64                                             1:21.0.7.0.6-3.el10                                             appstream",
-        "java-21-openjdk.x86_64                                             1:21.0.8.0.9-1.el10                                             appstream"
+        "java-21-openjdk.x86_64                                            1:21.0.7.0.6-2.el10                                              appstream",
+        "java-21-openjdk.x86_64                                            1:21.0.7.0.6-3.el10                                              appstream",
+        "java-21-openjdk.x86_64                                            1:21.0.8.0.9-1.el10                                              appstream",
+        "java-21-openjdk.x86_64                                            1:21.0.9.0.10-1.el10                                             appstream"
     ],
     "kojiPackages": [
+        "java-21-openjdk-21.0.9.0.10-1.el10",
         "java-21-openjdk-21.0.8.0.9-1.el10",
         "java-21-openjdk-21.0.7.0.6-3.el10",
         "java-21-openjdk-21.0.7.0.6-2.el10",

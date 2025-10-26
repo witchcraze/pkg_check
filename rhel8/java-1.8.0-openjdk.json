@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.462.b08",
-        "Release": "2.el8",
+        "Version": "1.8.0.472.b08",
+        "Release": "1.el8",
         "Architecture": "x86_64",
-        "Size": "560 k",
-        "Source": "java-1.8.0-openjdk-1.8.0.462.b08-2.el8.src.rpm",
+        "Size": "561 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.472.b08-1.el8.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -58,6 +58,7 @@
         "java-1.8.0-openjdk.x86_64                              1:1.8.0.432.b06-2.el8                                rhel-8-for-x86_64-appstream-rpms",
         "java-1.8.0-openjdk.x86_64                              1:1.8.0.442.b06-2.el8                                rhel-8-for-x86_64-appstream-rpms",
         "java-1.8.0-openjdk.x86_64                              1:1.8.0.452.b09-2.el8                                rhel-8-for-x86_64-appstream-rpms",
-        "java-1.8.0-openjdk.x86_64                              1:1.8.0.462.b08-2.el8                                rhel-8-for-x86_64-appstream-rpms"
+        "java-1.8.0-openjdk.x86_64                              1:1.8.0.462.b08-2.el8                                rhel-8-for-x86_64-appstream-rpms",
+        "java-1.8.0-openjdk.x86_64                              1:1.8.0.472.b08-1.el8                                rhel-8-for-x86_64-appstream-rpms"
     ]
 }

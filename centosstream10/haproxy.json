@@ -17,6 +17,10 @@
         "haproxy.x86_64                      3.0.5-4.el10                       appstream"
     ],
     "kojiPackages": [
+        "haproxy-3.0.5-5.el10",
+        "haproxy-3.0.5-5.el10,draft_86699",
+        "haproxy-3.0.5-5.el10,draft_86645",
+        "haproxy-3.0.5-5.el10,draft_86634",
         "haproxy-3.0.5-5.el10,draft_86474",
         "haproxy-3.0.5-5.el10,draft_82594",
         "haproxy-3.0.5-4.el10",

@@ -41,6 +41,7 @@
         "java-17-openjdk.x86_64                     1:17.0.16.0.8-2.el8                        appstream"
     ],
     "kojiPackages": [
+        "java-17-openjdk-17.0.17.0.10-1.el8",
         "java-17-openjdk-17.0.16.0.8-2.el8",
         "java-17-openjdk-17.0.15.0.6-2.el8",
         "java-17-openjdk-17.0.14.0.7-3.el8",

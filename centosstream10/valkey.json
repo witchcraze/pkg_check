@@ -20,7 +20,7 @@
         "valkey.x86_64                       8.0.4-2.el10                       appstream"
     ],
     "kojiPackages": [
-        "valkey-8.0.6-2.el10,draft_86461",
+        "valkey-8.0.6-2.el10",
         "valkey-8.0.4-4.el10,draft_85164",
         "valkey-8.0.4-3.el10",
         "valkey-8.0.4-2.el10",
