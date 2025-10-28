@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "14.3.1",
-        "Release": "2.1.el10",
+        "Release": "2.3.el10",
         "Architecture": "x86_64",
         "Size": "38 M",
-        "Source": "gcc-14.3.1-2.1.el10.src.rpm",
+        "Source": "gcc-14.3.1-2.3.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -13,11 +13,11 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 14."
     },
     "list": [
-        "gcc.x86_64                       14.2.1-2.el10                         appstream",
         "gcc.x86_64                       14.2.1-6.el10                         appstream",
         "gcc.x86_64                       14.2.1-7.el10                         appstream",
         "gcc.x86_64                       14.2.1-8.el10                         appstream",
-        "gcc.x86_64                       14.3.1-2.1.el10                       appstream"
+        "gcc.x86_64                       14.3.1-2.1.el10                       appstream",
+        "gcc.x86_64                       14.3.1-2.3.el10                       appstream"
     ],
     "kojiPackages": [
         "gcc-14.3.1-2.3.el10",

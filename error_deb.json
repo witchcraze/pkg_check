@@ -66,11 +66,10 @@
             ]
         },
         "13": {
-            "bind9": [
-                "apt-get changelog",
+            "openjdk-21-jdk": [
                 "apt-get changelog"
             ],
-            "openjdk-21-jdk": [
+            "openjdk-25-jdk": [
                 "apt-get changelog"
             ],
             "valkey-server": [

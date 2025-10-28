@@ -3,9 +3,9 @@
         "Name": "java-17-amazon-corretto",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "17.0.16+8",
+        "Version": "17.0.17+10",
         "Release": "1.amzn2.1",
-        "Size": "199 k",
+        "Size": "205 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Amazon Corretto development environment",
         "URL": "https://github.com/corretto/corretto-17",
@@ -32,6 +32,7 @@
         "java-17-amazon-corretto.x86_64                                       1:17.0.13+11-1.amzn2.1                                       amzn2-core",
         "java-17-amazon-corretto.x86_64                                       1:17.0.14+7-1.amzn2.1                                        amzn2-core",
         "java-17-amazon-corretto.x86_64                                       1:17.0.15+6-1.amzn2.1                                        amzn2-core",
-        "java-17-amazon-corretto.x86_64                                       1:17.0.16+8-1.amzn2.1                                        amzn2-core"
+        "java-17-amazon-corretto.x86_64                                       1:17.0.16+8-1.amzn2.1                                        amzn2-core",
+        "java-17-amazon-corretto.x86_64                                       1:17.0.17+10-1.amzn2.1                                       amzn2-core"
     ]
 }
