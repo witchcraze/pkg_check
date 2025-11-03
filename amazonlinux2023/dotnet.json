@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet",
-        "Version": "9.0.107",
+        "Version": "9.0.111",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "12 k",
-        "Source": "dotnet9.0-9.0.107-1.amzn2023.0.1.src.rpm",
+        "Source": "dotnet9.0-9.0.111-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET CLI tools and runtime",
         "URL": "https://github.com/dotnet/",
@@ -33,6 +33,8 @@
         "dotnet.x86_64                 8.0.114-1.amzn2023.0.1                 amazonlinux",
         "dotnet.x86_64                 8.0.116-1.amzn2023.0.1                 amazonlinux",
         "dotnet.x86_64                 8.0.117-1.amzn2023.0.1                 amazonlinux",
-        "dotnet.x86_64                 9.0.107-1.amzn2023.0.1                 amazonlinux"
+        "dotnet.x86_64                 8.0.121-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 9.0.107-1.amzn2023.0.1                 amazonlinux",
+        "dotnet.x86_64                 9.0.111-1.amzn2023.0.1                 amazonlinux"
     ]
 }

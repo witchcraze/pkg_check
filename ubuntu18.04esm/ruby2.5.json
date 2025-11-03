@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby2.5",
-        "Version": "2.5.1-1ubuntu1.16+esm5",
+        "Version": "2.5.1-1ubuntu1.16+esm6",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -14,11 +14,12 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.5/bionic-infra-security 2.5.1-1ubuntu1.16+esm5 amd64",
+        "ruby2.5/bionic-infra-security 2.5.1-1ubuntu1.16+esm6 amd64",
         "ruby2.5/bionic-updates,bionic-security 2.5.1-1ubuntu1.16 amd64",
         "ruby2.5/bionic 2.5.1-1ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.5 (2.5.1-1ubuntu1.16+esm6) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.16+esm5) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.16+esm4) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.16+esm3) bionic-security; urgency=medium",
@@ -27,8 +28,7 @@
         "ruby2.5 (2.5.1-1ubuntu1.15) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.14) bionic-security; urgency=medium",
         "ruby2.5 (2.5.1-1ubuntu1.13) bionic-security; urgency=medium",
-        "ruby2.5 (2.5.1-1ubuntu1.12) bionic-security; urgency=medium",
-        "ruby2.5 (2.5.1-1ubuntu1.11) bionic-security; urgency=medium"
+        "ruby2.5 (2.5.1-1ubuntu1.12) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }

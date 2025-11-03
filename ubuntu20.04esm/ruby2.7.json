@@ -1,12 +1,12 @@
 {
     "show": {
         "Package": "ruby2.7",
-        "Version": "2.7.0-5ubuntu1.18+esm1",
+        "Version": "2.7.0-5ubuntu1.18+esm3",
         "Priority": "optional",
         "Section": "ruby",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Ruby Team <pkg-ruby-extras-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "208 kB",
+        "Installed-Size": "209 kB",
         "Depends": "rubygems-integration (>= 1.8), libc6 (>= 2.4), libruby2.7 (>= 2.7.0~preview1)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Download-Size": "95.6 kB",
@@ -14,11 +14,13 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby2.7/focal-infra-security 2.7.0-5ubuntu1.18+esm1 amd64",
+        "ruby2.7/focal-infra-security 2.7.0-5ubuntu1.18+esm3 amd64",
         "ruby2.7/focal-updates,focal-security 2.7.0-5ubuntu1.18 amd64",
         "ruby2.7/focal 2.7.0-5ubuntu1 amd64"
     ],
     "changelog": [
+        "ruby2.7 (2.7.0-5ubuntu1.18+esm3) focal-security; urgency=medium",
+        "ruby2.7 (2.7.0-5ubuntu1.18+esm2) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.18+esm1) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.18) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.17) focal-security; urgency=medium",
@@ -26,9 +28,7 @@
         "ruby2.7 (2.7.0-5ubuntu1.15) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.14) focal-security; urgency=medium",
         "ruby2.7 (2.7.0-5ubuntu1.13) focal-security; urgency=medium",
-        "ruby2.7 (2.7.0-5ubuntu1.12) focal-security; urgency=medium",
-        "ruby2.7 (2.7.0-5ubuntu1.11) focal; urgency=medium",
-        "ruby2.7 (2.7.0-5ubuntu1.10) focal-security; urgency=medium"
+        "ruby2.7 (2.7.0-5ubuntu1.12) focal-security; urgency=medium"
     ],
     "publishinghistory": []
 }

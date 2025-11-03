@@ -1,0 +1,21 @@
+{
+    "info": {
+        "Name": "tomcat",
+        "Epoch": "1",
+        "Version": "10.1.46",
+        "Release": "1.fc43",
+        "Architecture": "noarch",
+        "Download size": "97.3 KiB",
+        "Installed size": "325.4 KiB",
+        "Source": "tomcat-10.1.46-1.fc43.src.rpm",
+        "Repository": "fedora",
+        "Summary": "Apache Servlet/JSP Engine, RI for Servlet 6.0/JSP 3.1 API",
+        "URL": "http://tomcat.apache.org/",
+        "License": "Apache-2.0",
+        "Description": "Tomcat is the servlet container that is used in the official Reference",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "tomcat.noarch 1:10.1.46-1.fc43 fedora"
+    ]
+}

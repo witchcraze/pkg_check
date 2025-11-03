@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3.11",
+        "Epoch": "0",
+        "Version": "3.11.14",
+        "Release": "1.fc43",
+        "Architecture": "x86_64",
+        "Download size": "25.7 KiB",
+        "Installed size": "27.3 KiB",
+        "Source": "python3.11-3.11.14-1.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.11 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.11 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3.11.i686   3.11.13-2.fc43 fedora",
+        "python3.11.x86_64 3.11.13-2.fc43 fedora",
+        "python3.11.i686   3.11.14-1.fc43 updates",
+        "python3.11.x86_64 3.11.14-1.fc43 updates"
+    ]
+}

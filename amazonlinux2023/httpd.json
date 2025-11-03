@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.65",
-        "Release": "1.amzn2023.0.1",
+        "Release": "1.amzn2023.0.2",
         "Architecture": "x86_64",
         "Size": "47 k",
-        "Source": "httpd-2.4.65-1.amzn2023.0.1.src.rpm",
+        "Source": "httpd-2.4.65-1.amzn2023.0.2.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -21,6 +21,7 @@
         "httpd.x86_64                  2.4.61-1.amzn2023                      amazonlinux",
         "httpd.x86_64                  2.4.62-1.amzn2023                      amazonlinux",
         "httpd.x86_64                  2.4.64-1.amzn2023.0.1                  amazonlinux",
-        "httpd.x86_64                  2.4.65-1.amzn2023.0.1                  amazonlinux"
+        "httpd.x86_64                  2.4.65-1.amzn2023.0.1                  amazonlinux",
+        "httpd.x86_64                  2.4.65-1.amzn2023.0.2                  amazonlinux"
     ]
 }

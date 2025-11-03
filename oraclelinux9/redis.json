@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.10",
-        "Release": "1.0.2.module+el9.6.0+90681+1a77fe5a",
+        "Version": "7.2.11",
+        "Release": "1.0.1.module+el9.6.0+90693+e335695b",
         "Architecture": "src",
-        "Size": "4.4 M",
+        "Size": "4.5 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "A persistent key-value database",
@@ -25,6 +25,8 @@
         "redis.x86_64      6.2.19-1.el9_6                                   ol9_appstream",
         "redis.src         6.2.19-1.0.1.el9_6                               ol9_appstream",
         "redis.x86_64      6.2.19-1.0.1.el9_6                               ol9_appstream",
+        "redis.src         6.2.20-1.el9_6                                   ol9_appstream",
+        "redis.x86_64      6.2.20-1.el9_6                                   ol9_appstream",
         "redis.src         7.0.12-1.module+el9.3.0+90065+4ba01b94           ol9_appstream",
         "redis.src         7.0.12-2.module+el9.3.0+90168+2bbbd1b4           ol9_appstream",
         "redis.src         7.2.6-1.module+el9.5.0+90455+91264f59            ol9_appstream",
@@ -32,6 +34,7 @@
         "redis.src         7.2.8-1.module+el9.6.0+90585+92fe29a9            ol9_appstream",
         "redis.src         7.2.8-1.0.1.module+el9.6.0+90593+d01c6809        ol9_appstream",
         "redis.src         7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1       ol9_appstream",
-        "redis.src         7.2.10-1.0.2.module+el9.6.0+90681+1a77fe5a       ol9_appstream"
+        "redis.src         7.2.10-1.0.2.module+el9.6.0+90681+1a77fe5a       ol9_appstream",
+        "redis.src         7.2.11-1.0.1.module+el9.6.0+90693+e335695b       ol9_appstream"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3.9",
+        "Epoch": "0",
+        "Version": "3.9.24",
+        "Release": "1.fc43",
+        "Architecture": "x86_64",
+        "Download size": "19.2 MiB",
+        "Installed size": "89.3 MiB",
+        "Source": "python3.9-3.9.24-1.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.9 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python",
+        "Description": "Python 3.9 package for developers.",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3.9.i686   3.9.23-2.fc43 fedora",
+        "python3.9.x86_64 3.9.23-2.fc43 fedora",
+        "python3.9.i686   3.9.24-1.fc43 updates",
+        "python3.9.x86_64 3.9.24-1.fc43 updates"
+    ]
+}

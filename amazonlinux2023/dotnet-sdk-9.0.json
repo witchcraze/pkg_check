@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.107",
+        "Version": "9.0.111",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "81 M",
-        "Source": "dotnet9.0-9.0.107-1.amzn2023.0.1.src.rpm",
+        "Source": "dotnet9.0-9.0.111-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,6 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-9.0.x86_64             9.0.107-1.amzn2023.0.1             amazonlinux"
+        "dotnet-sdk-9.0.x86_64             9.0.107-1.amzn2023.0.1             amazonlinux",
+        "dotnet-sdk-9.0.x86_64             9.0.111-1.amzn2023.0.1             amazonlinux"
     ]
 }

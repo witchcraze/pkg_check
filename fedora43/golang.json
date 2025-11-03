@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "golang",
+        "Epoch": "0",
+        "Version": "1.25.3",
+        "Release": "1.fc43",
+        "Architecture": "x86_64",
+        "Download size": "1.2 MiB",
+        "Installed size": "9.6 MiB",
+        "Source": "golang-1.25.3-1.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "The Go Programming Language",
+        "URL": "https://go.dev",
+        "License": "BSD-3-Clause AND LicenseRef-Fedora-Public-Domain",
+        "Description": "The Go Programming Language.",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "golang.x86_64 1.25.1-2.fc43 fedora",
+        "golang.x86_64 1.25.3-1.fc43 updates"
+    ]
+}

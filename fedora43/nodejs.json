@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "22.20.0",
+        "Release": "1.fc43",
+        "Architecture": "x86_64",
+        "Download size": "50.5 KiB",
+        "Installed size": "161.0 KiB",
+        "Source": "nodejs22-22.20.0-1.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "JavaScript runtime",
+        "URL": "http://nodejs.org/",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "nodejs.i686   1:22.19.0-2.fc43 fedora",
+        "nodejs.x86_64 1:22.19.0-2.fc43 fedora",
+        "nodejs.i686   1:22.20.0-1.fc43 updates",
+        "nodejs.x86_64 1:22.20.0-1.fc43 updates"
+    ]
+}

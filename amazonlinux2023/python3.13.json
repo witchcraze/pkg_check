@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.13",
         "Version": "3.13.3",
-        "Release": "3.amzn2023.0.6",
+        "Release": "3.amzn2023.0.7",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.13-3.13.3-3.amzn2023.0.6.src.rpm",
+        "Source": "python3.13-3.13.3-3.amzn2023.0.7.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.13 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "python3.13.x86_64               3.13.3-3.amzn2023.0.4                amazonlinux",
-        "python3.13.x86_64               3.13.3-3.amzn2023.0.6                amazonlinux"
+        "python3.13.x86_64               3.13.3-3.amzn2023.0.6                amazonlinux",
+        "python3.13.x86_64               3.13.3-3.amzn2023.0.7                amazonlinux"
     ]
 }

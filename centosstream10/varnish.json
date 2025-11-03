@@ -20,6 +20,8 @@
         "varnish.x86_64                      7.6.1-4.el10                       appstream"
     ],
     "kojiPackages": [
+        "varnish-7.6.1-5.el10",
+        "varnish-7.6.1-5.el10,draft_87990",
         "varnish-7.6.1-5.el10,draft_85172",
         "varnish-7.6.1-4.el10",
         "varnish-7.6.1-2.el10",

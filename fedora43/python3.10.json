@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "python3.10",
+        "Epoch": "0",
+        "Version": "3.10.19",
+        "Release": "1.fc43",
+        "Architecture": "x86_64",
+        "Download size": "25.6 KiB",
+        "Installed size": "28.4 KiB",
+        "Source": "python3.10-3.10.19-1.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "Version 3.10 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.10 is an accessible, high-level, dynamically typed, interpreted",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "python3.10.i686   3.10.18-2.fc43 fedora",
+        "python3.10.x86_64 3.10.18-2.fc43 fedora",
+        "python3.10.i686   3.10.19-1.fc43 updates",
+        "python3.10.x86_64 3.10.19-1.fc43 updates"
+    ]
+}

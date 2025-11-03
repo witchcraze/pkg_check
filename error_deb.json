@@ -56,23 +56,10 @@
                 "apt-get changelog"
             ]
         },
-        "12": {
-            "bind9": [
-                "apt-get changelog",
-                "apt-get changelog"
-            ],
-            "openjdk-17-jdk": [
-                "apt-get changelog"
-            ]
-        },
         "13": {
-            "openjdk-21-jdk": [
-                "apt-get changelog"
-            ],
-            "openjdk-25-jdk": [
-                "apt-get changelog"
-            ],
-            "valkey-server": [
+            "openssl": [
+                "apt-get changelog",
+                "apt-get changelog",
                 "apt-get changelog"
             ]
         }
