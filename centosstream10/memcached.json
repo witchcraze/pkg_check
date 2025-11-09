@@ -17,6 +17,9 @@
         "memcached.x86_64                     1.6.23-7.el10                     appstream"
     ],
     "kojiPackages": [
+        "memcached-1.6.23-8.el10,draft_88413",
+        "memcached-1.6.23-8.el10,draft_88338",
+        "memcached-1.6.23-8.el10,draft_88320",
         "memcached-1.6.23-7.el10",
         "memcached-1.6.23-6.el10",
         "memcached-1.6.23-5.el10",

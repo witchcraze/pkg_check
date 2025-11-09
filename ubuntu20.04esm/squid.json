@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "squid",
-        "Version": "4.10-1ubuntu1.13+esm1",
+        "Version": "4.10-1ubuntu1.13+esm2",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -9,7 +9,7 @@
         "Installed-Size": "8824 kB",
         "Provides": "squid3",
         "Pre-Depends": "adduser",
-        "Depends": "libc6 (>= 2.29), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libdb5.3, libecap3 (>= 1.0.1), libexpat1 (>= 2.0.1), libgcc-s1 (>= 3.0), libgnutls30 (>= 3.6.12), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.6), libnetfilter-conntrack3 (>= 1.0.7), libnettle7, libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.27+dfsg), libstdc++6 (>= 9), libxml2 (>= 2.7.4), netbase, logrotate (>= 3.5.4-1), squid-common (>= 4.10-1ubuntu1.13+esm1), lsb-base, libdbi-perl, ssl-cert",
+        "Depends": "libc6 (>= 2.29), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libdb5.3, libecap3 (>= 1.0.1), libexpat1 (>= 2.0.1), libgcc-s1 (>= 3.0), libgnutls30 (>= 3.6.12), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.6), libnetfilter-conntrack3 (>= 1.0.7), libnettle7, libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.27+dfsg), libstdc++6 (>= 9), libxml2 (>= 2.7.4), netbase, logrotate (>= 3.5.4-1), squid-common (>= 4.10-1ubuntu1.13+esm2), lsb-base, libdbi-perl, ssl-cert",
         "Recommends": "libcap2-bin, ca-certificates",
         "Suggests": "squidclient, squid-cgi, squid-purge, resolvconf (>= 0.40), smbclient, ufw, winbind, apparmor",
         "Download-Size": "2566 kB",
@@ -17,11 +17,12 @@
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
     "list": [
-        "squid/focal-infra-security 4.10-1ubuntu1.13+esm1 amd64",
+        "squid/focal-infra-security 4.10-1ubuntu1.13+esm2 amd64",
         "squid/focal-updates,focal-security 4.10-1ubuntu1.13 amd64",
         "squid/focal 4.10-1ubuntu1 amd64"
     ],
     "changelog": [
+        "squid (4.10-1ubuntu1.13+esm2) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.13+esm1) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.13) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.12) focal-security; urgency=medium",
@@ -30,8 +31,7 @@
         "squid (4.10-1ubuntu1.9) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.8) focal-security; urgency=medium",
         "squid (4.10-1ubuntu1.7) focal-security; urgency=medium",
-        "squid (4.10-1ubuntu1.6) focal-security; urgency=medium",
-        "squid (4.10-1ubuntu1.5) focal-security; urgency=medium"
+        "squid (4.10-1ubuntu1.6) focal-security; urgency=medium"
     ],
     "publishinghistory": []
 }

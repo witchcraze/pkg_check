@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:4.2.18-1ubuntu1.5",
+        "Version": "3:4.2.18-1ubuntu1.6",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -17,15 +17,16 @@
         "Breaks": "python-django-common, python3-mysqldb (<< 1.3.13)",
         "Replaces": "python-django-common",
         "Homepage": "http://www.djangoproject.com/",
-        "Download-Size": "2919 kB",
+        "Download-Size": "2920 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu plucky-updates/main amd64 Packages",
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/plucky-updates,plucky-security 3:4.2.18-1ubuntu1.5 all",
+        "python3-django/plucky-updates,plucky-security 3:4.2.18-1ubuntu1.6 all",
         "python3-django/plucky 3:4.2.18-1ubuntu1 all"
     ],
     "changelog": [
+        "python-django (3:4.2.18-1ubuntu1.6) plucky-security; urgency=medium",
         "python-django (3:4.2.18-1ubuntu1.5) plucky-security; urgency=medium",
         "python-django (3:4.2.18-1ubuntu1.4) plucky-security; urgency=medium",
         "python-django (3:4.2.18-1ubuntu1.3) plucky-security; urgency=medium",
@@ -310,6 +311,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:4.2.18-1ubuntu1.6",
         "3:4.2.18-1ubuntu1.5",
         "3:4.2.18-1ubuntu1.4",
         "3:4.2.18-1ubuntu1.3",

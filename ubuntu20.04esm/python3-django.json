@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "2:2.2.12-1ubuntu0.29+esm4",
+        "Version": "2:2.2.12-1ubuntu0.29+esm5",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -19,11 +19,12 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/focal-infra-security 2:2.2.12-1ubuntu0.29+esm4 all",
+        "python3-django/focal-infra-security 2:2.2.12-1ubuntu0.29+esm5 all",
         "python3-django/focal-updates,focal-security 2:2.2.12-1ubuntu0.29 all",
         "python3-django/focal 2:2.2.12-1 all"
     ],
     "changelog": [
+        "python-django (2:2.2.12-1ubuntu0.29+esm5) focal-security; urgency=medium",
         "python-django (2:2.2.12-1ubuntu0.29+esm4) focal-security; urgency=medium",
         "python-django (2:2.2.12-1ubuntu0.29+esm3) focal-security; urgency=medium",
         "python-django (2:2.2.12-1ubuntu0.29+esm2) focal-security; urgency=medium",

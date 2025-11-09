@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "nodejs",
+        "Epoch": "1",
+        "Version": "24.4.1",
+        "Release": "1.module+el8.10.0+90695+d2db0c9b",
+        "Architecture": "x86_64",
+        "Size": "64 k",
+        "Source": "nodejs-24.4.1-1.module+el8.10.0+90695+d2db0c9b.src.rpm",
+        "Repository": "ol8_appstream",
+        "Summary": "JavaScript runtime",
+        "URL": "https://nodejs.org",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs.x86_64                                    1:24.4.1-1.module+el8.10.0+90695+d2db0c9b                                     ol8_appstream"
+    ]
+}

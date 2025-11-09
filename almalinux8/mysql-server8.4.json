@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "mysql-server",
+        "Version": "8.4.6",
+        "Release": "1.module_el8.10.0+4060+d4256e26",
+        "Architecture": "x86_64",
+        "Size": "25 M",
+        "Source": "mysql-8.4.6-1.module_el8.10.0+4060+d4256e26.src.rpm",
+        "Repository": "appstream",
+        "Summary": "The MySQL server and related files",
+        "URL": "http://www.mysql.com",
+        "License": "GPL-2.0-only AND ( GPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND GPL-2.0-or-later AND ( LGPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND ( GPL-2.0-only OR BSD-2-Clause ) AND BSD-2-Clause AND BSL-1.0 AND Apache-2.0 AND MIT",
+        "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
+    },
+    "list": [
+        "mysql-server.x86_64                                     8.4.6-1.module_el8.10.0+4060+d4256e26                                      appstream"
+    ]
+}

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "valkey",
-        "Version": "8.0.4",
+        "Version": "8.0.6",
         "Release": "1.0.1.el10_0",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "valkey-8.0.4-1.0.1.el10_0.src.rpm",
+        "Source": "valkey-8.0.6-1.0.1.el10_0.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
@@ -20,6 +20,8 @@
         "valkey.src                    8.0.4-1.el10_0                      ol10_appstream",
         "valkey.x86_64                 8.0.4-1.el10_0                      ol10_appstream",
         "valkey.src                    8.0.4-1.0.1.el10_0                  ol10_appstream",
-        "valkey.x86_64                 8.0.4-1.0.1.el10_0                  ol10_appstream"
+        "valkey.x86_64                 8.0.4-1.0.1.el10_0                  ol10_appstream",
+        "valkey.src                    8.0.6-1.0.1.el10_0                  ol10_appstream",
+        "valkey.x86_64                 8.0.6-1.0.1.el10_0                  ol10_appstream"
     ]
 }

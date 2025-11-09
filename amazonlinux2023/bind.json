@@ -3,10 +3,10 @@
         "Name": "bind",
         "Epoch": "32",
         "Version": "9.18.33",
-        "Release": "1.amzn2023.0.3",
+        "Release": "1.amzn2023.0.4",
         "Architecture": "x86_64",
         "Size": "316 k",
-        "Source": "bind-9.18.33-1.amzn2023.0.3.src.rpm",
+        "Source": "bind-9.18.33-1.amzn2023.0.4.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -25,6 +25,7 @@
         "bind.x86_64                32:9.18.28-1.amzn2023.0.1                 amazonlinux",
         "bind.x86_64                32:9.18.28-1.amzn2023.0.2                 amazonlinux",
         "bind.x86_64                32:9.18.33-1.amzn2023.0.2                 amazonlinux",
-        "bind.x86_64                32:9.18.33-1.amzn2023.0.3                 amazonlinux"
+        "bind.x86_64                32:9.18.33-1.amzn2023.0.3                 amazonlinux",
+        "bind.x86_64                32:9.18.33-1.amzn2023.0.4                 amazonlinux"
     ]
 }
