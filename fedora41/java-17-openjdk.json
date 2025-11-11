@@ -2,12 +2,12 @@
     "info": {
         "Name": "java-17-openjdk",
         "Epoch": "1",
-        "Version": "17.0.16.0.8",
-        "Release": "2.fc41",
+        "Version": "17.0.17.0.10",
+        "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "410.6 KiB",
-        "Installed size": "1.0 MiB",
-        "Source": "java-17-openjdk-17.0.16.0.8-2.fc41.src.rpm",
+        "Download size": "416.7 KiB",
+        "Installed size": "1.1 MiB",
+        "Source": "java-17-openjdk-17.0.17.0.10-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -16,21 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "java-17-openjdk.x86_64 1:17.0.12.0.7-2.fc41 fedora",
-        "java-17-openjdk.x86_64 1:17.0.16.0.8-2.fc41 updates"
-    ],
-    "kojiPackages": [
-        "java-17-openjdk-17.0.16.0.8-2.fc41",
-        "java-17-openjdk-17.0.16.0.8-1.fc41",
-        "java-17-openjdk-17.0.15.0.6-1.fc41",
-        "java-17-openjdk-17.0.14.0.7-6.fc41",
-        "java-17-openjdk-17.0.14.0.7-1.fc41",
-        "java-17-openjdk-17.0.13.0.11-3.fc41",
-        "java-17-openjdk-17.0.13.0.11-1.fc41",
-        "java-17-openjdk-17.0.12.0.7-2.fc41",
-        "java-17-openjdk-17.0.11.0.9-2.fc41.1",
-        "java-17-openjdk-17.0.11.0.9-1.fc41",
-        "java-17-openjdk-17.0.10.0.7-3.fc41",
-        "java-17-openjdk-17.0.10.0.7-2.fc41"
+        "java-17-openjdk.x86_64 1:17.0.12.0.7-2.fc41  fedora",
+        "java-17-openjdk.x86_64 1:17.0.17.0.10-1.fc41 updates"
     ]
 }

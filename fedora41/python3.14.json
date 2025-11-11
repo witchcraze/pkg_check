@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3.14",
         "Epoch": "0",
-        "Version": "3.14.0~rc1",
+        "Version": "3.14.0",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "26.8 KiB",
+        "Download size": "27.2 KiB",
         "Installed size": "33.0 KiB",
-        "Source": "python3.14-3.14.0~rc1-1.fc41.src.rpm",
+        "Source": "python3.14-3.14.0-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -16,28 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "python3.14.i686   3.14.0~rc1-1.fc41 updates",
-        "python3.14.x86_64 3.14.0~rc1-1.fc41 updates"
-    ],
-    "kojiPackages": [
-        "python3.14-3.14.0~rc2-1.fc41",
-        "python3.14-3.14.0~rc1-1.fc41",
-        "python3.14-3.14.0~b4-1.fc41",
-        "python3.14-3.14.0~b3-2.fc41",
-        "python3.14-3.14.0~b3-1.fc41",
-        "python3.14-3.14.0~b2-1.fc41",
-        "python3.14-3.14.0~b1-1.fc41",
-        "python3.14-3.14.0~a7-3.fc41",
-        "python3.14-3.14.0~a7-2.fc41",
-        "python3.14-3.14.0~a7-1.fc41",
-        "python3.14-3.14.0~a6-1.fc41",
-        "python3.14-3.14.0~a5-1.fc41",
-        "python3.14-3.14.0~a4-2.fc41",
-        "python3.14-3.14.0~a4-1.fc41",
-        "python3.14-3.14.0~a3-1.fc41",
-        "python3.14-3.14.0~a2-2.fc41",
-        "python3.14-3.14.0~a2-1.fc41",
-        "python3.14-3.14.0~a1-2.fc41",
-        "python3.14-3.14.0~a1-1.fc41"
+        "python3.14.i686   3.14.0-1.fc41 updates",
+        "python3.14.x86_64 3.14.0-1.fc41 updates"
     ]
 }

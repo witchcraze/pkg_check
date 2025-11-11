@@ -2,12 +2,12 @@
     "info": {
         "Name": "dotnet-sdk-8.0",
         "Epoch": "0",
-        "Version": "8.0.119",
+        "Version": "8.0.121",
         "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "87.2 MiB",
         "Installed size": "293.6 MiB",
-        "Source": "dotnet8.0-8.0.119-1.fc42.src.rpm",
+        "Source": "dotnet8.0-8.0.121-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 8.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -17,20 +17,6 @@
     },
     "list": [
         "dotnet-sdk-8.0.x86_64 8.0.114-1.fc42 fedora",
-        "dotnet-sdk-8.0.x86_64 8.0.119-1.fc42 updates"
-    ],
-    "kojiPackages": [
-        "dotnet8.0-8.0.120-1.fc42",
-        "dotnet8.0-8.0.119-1.fc42",
-        "dotnet8.0-8.0.118-1.fc42",
-        "dotnet8.0-8.0.117-1.fc42",
-        "dotnet8.0-8.0.116-1.fc42",
-        "dotnet8.0-8.0.115-1.fc42",
-        "dotnet8.0-8.0.114-1.fc42",
-        "dotnet8.0-8.0.113-1.fc42",
-        "dotnet8.0-8.0.112-1.fc42",
-        "dotnet8.0-8.0.111-1.fc42",
-        "dotnet8.0-8.0.110-1.fc42",
-        "dotnet8.0-8.0.108-1.fc42"
+        "dotnet-sdk-8.0.x86_64 8.0.121-1.fc42 updates"
     ]
 }

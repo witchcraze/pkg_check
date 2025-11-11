@@ -17,11 +17,5 @@
     },
     "list": [
         "memcached.x86_64 1.6.37-2.fc42 fedora"
-    ],
-    "kojiPackages": [
-        "memcached-1.6.37-2.fc42",
-        "memcached-1.6.37-1.fc42",
-        "memcached-1.6.32-2.fc42",
-        "memcached-1.6.32-1.fc42"
     ]
 }

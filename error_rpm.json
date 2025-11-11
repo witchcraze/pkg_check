@@ -123,6 +123,9 @@
             "bind": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-10.0": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-8.0": [
                 "kojiPackages"
             ],
@@ -266,6 +269,9 @@
             "bind": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-10.0": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-8.0": [
                 "kojiPackages"
             ],
@@ -398,6 +404,9 @@
         },
         "43": {
             "bind": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
             "dotnet-sdk-8.0": [

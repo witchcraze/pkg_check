@@ -17,9 +17,5 @@
     },
     "list": [
         "vsftpd.x86_64 3.0.5-8.fc41 fedora"
-    ],
-    "kojiPackages": [
-        "vsftpd-3.0.5-8.fc41",
-        "vsftpd-3.0.5-7.fc41"
     ]
 }

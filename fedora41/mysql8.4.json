@@ -17,8 +17,5 @@
     },
     "list": [
         "mysql8.4.x86_64 8.4.5-1.fc41 updates"
-    ],
-    "kojiPackages": [
-        "mysql8.4-8.4.5-1.fc41"
     ]
 }

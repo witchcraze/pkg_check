@@ -3,10 +3,10 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "9.0.87",
-        "Release": "3.el9_6.3",
+        "Release": "6.el9",
         "Architecture": "noarch",
         "Size": "98 k",
-        "Source": "tomcat-9.0.87-3.el9_6.3.src.rpm",
+        "Source": "tomcat-9.0.87-6.el9.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -25,6 +25,7 @@
         "tomcat.noarch                                      1:9.0.87-2.el9                                           rhel-9-for-x86_64-appstream-rpms",
         "tomcat.noarch                                      1:9.0.87-2.el9_5.1                                       rhel-9-for-x86_64-appstream-rpms",
         "tomcat.noarch                                      1:9.0.87-3.el9_6.1                                       rhel-9-for-x86_64-appstream-rpms",
-        "tomcat.noarch                                      1:9.0.87-3.el9_6.3                                       rhel-9-for-x86_64-appstream-rpms"
+        "tomcat.noarch                                      1:9.0.87-3.el9_6.3                                       rhel-9-for-x86_64-appstream-rpms",
+        "tomcat.noarch                                      1:9.0.87-6.el9                                           rhel-9-for-x86_64-appstream-rpms"
     ]
 }

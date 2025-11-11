@@ -18,19 +18,5 @@
     "list": [
         "perl.x86_64 4:5.40.1-515.fc42 fedora",
         "perl.x86_64 4:5.40.3-519.fc42 updates"
-    ],
-    "kojiPackages": [
-        "perl-5.40.3-519.fc42app2",
-        "perl-5.40.3-519.fc42",
-        "perl-5.40.2-518.fc42app2",
-        "perl-5.40.2-518.fc42",
-        "perl-5.40.2-517.fc42app2",
-        "perl-5.40.2-517.fc42",
-        "perl-5.40.2-516.fc42",
-        "perl-5.40.1-515.fc42app1",
-        "perl-5.40.1-515.fc42",
-        "perl-5.40.0-514.fc42",
-        "perl-5.40.0-513.fc42",
-        "perl-5.40.0-512.fc42"
     ]
 }

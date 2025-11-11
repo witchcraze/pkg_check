@@ -18,14 +18,5 @@
     "list": [
         "memcached.x86_64 1.6.29-1.fc41 fedora",
         "memcached.x86_64 1.6.32-1.fc41 updates"
-    ],
-    "kojiPackages": [
-        "memcached-1.6.32-1.fc41",
-        "memcached-1.6.29-1.fc41",
-        "memcached-1.6.28-2.fc41",
-        "memcached-1.6.28-1.fc41",
-        "memcached-1.6.26-2.fc41",
-        "memcached-1.6.26-1.fc41",
-        "memcached-1.6.24-1.fc41"
     ]
 }

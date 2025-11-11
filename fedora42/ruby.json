@@ -20,18 +20,5 @@
         "ruby.x86_64 3.4.2-23.fc42 fedora",
         "ruby.i686   3.4.5-25.fc42 updates",
         "ruby.x86_64 3.4.5-25.fc42 updates"
-    ],
-    "kojiPackages": [
-        "ruby-3.4.5-25.fc42",
-        "ruby-3.4.4-24.fc42",
-        "ruby-3.4.2-23.fc42",
-        "ruby-3.4.1-22.fc42",
-        "ruby-3.4.1-21.fc42",
-        "ruby-3.4.1-19.fc42",
-        "ruby-3.3.6-18.fc42",
-        "ruby-3.3.6-17.fc42",
-        "ruby-3.3.6-16.fc42",
-        "ruby-3.3.5-15.fc42",
-        "ruby-3.3.5-14.fc42"
     ]
 }

@@ -2,12 +2,12 @@
     "info": {
         "Name": "golang",
         "Epoch": "0",
-        "Version": "1.24.7",
+        "Version": "1.24.9",
         "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "670.9 KiB",
         "Installed size": "8.9 MiB",
-        "Source": "golang-1.24.7-1.fc42.src.rpm",
+        "Source": "golang-1.24.9-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -17,28 +17,6 @@
     },
     "list": [
         "golang.x86_64 1.24.1-1.fc42 fedora",
-        "golang.x86_64 1.24.7-1.fc42 updates"
-    ],
-    "kojiPackages": [
-        "golang-1.24.7-1.fc42",
-        "golang-1.24.6-1.fc42",
-        "golang-1.24.5-1.fc42",
-        "golang-1.24.4-1.fc42",
-        "golang-1.24.3-2.fc42",
-        "golang-1.24.2-2.fc42",
-        "golang-1.24.2-1.fc42",
-        "golang-1.24.1-1.fc42",
-        "golang-1.24.0-1.fc42",
-        "golang-1.24~rc3-2.fc42",
-        "golang-1.24~rc2-1.fc42",
-        "golang-1.24~rc1-4.fc42",
-        "golang-1.24~rc1-2.fc42",
-        "golang-1.24~rc1-1.fc42",
-        "golang-1.23.4-2.fc42",
-        "golang-1.23.3-2.fc42",
-        "golang-1.23.2-2.fc42",
-        "golang-1.23.1-1.fc42",
-        "golang-1.23.0-2.fc42",
-        "golang-1.23.0-1.fc42"
+        "golang.x86_64 1.24.9-1.fc42 updates"
     ]
 }

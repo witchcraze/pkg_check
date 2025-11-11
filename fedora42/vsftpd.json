@@ -18,11 +18,5 @@
     "list": [
         "vsftpd.x86_64 3.0.5-8.fc42  fedora",
         "vsftpd.x86_64 3.0.5-11.fc42 updates"
-    ],
-    "kojiPackages": [
-        "vsftpd-3.0.5-11.fc42",
-        "vsftpd-3.0.5-10.fc42",
-        "vsftpd-3.0.5-9.fc42",
-        "vsftpd-3.0.5-8.fc42"
     ]
 }

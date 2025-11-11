@@ -20,26 +20,5 @@
         "python3.6.x86_64 3.6.15-37.fc41 fedora",
         "python3.6.i686   3.6.15-49.fc41 updates",
         "python3.6.x86_64 3.6.15-49.fc41 updates"
-    ],
-    "kojiPackages": [
-        "python3.6-3.6.15-49.fc41",
-        "python3.6-3.6.15-47.fc41",
-        "python3.6-3.6.15-46.fc41",
-        "python3.6-3.6.15-45.fc41",
-        "python3.6-3.6.15-44.fc41",
-        "python3.6-3.6.15-43.fc41",
-        "python3.6-3.6.15-39.fc41",
-        "python3.6-3.6.15-38.fc41",
-        "python3.6-3.6.15-37.fc41",
-        "python3.6-3.6.15-35.fc41",
-        "python3.6-3.6.15-34.fc41",
-        "python3.6-3.6.15-33.fc41",
-        "python3.6-3.6.15-32.fc41",
-        "python3.6-3.6.15-31.fc41",
-        "python3.6-3.6.15-30.fc41",
-        "python3.6-3.6.15-29.fc41",
-        "python3.6-3.6.15-28.fc41",
-        "python3.6-3.6.15-27.fc41",
-        "python3.6-3.6.15-26.fc41"
     ]
 }

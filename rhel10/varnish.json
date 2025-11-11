@@ -2,10 +2,10 @@
     "info": {
         "Name": "varnish",
         "Version": "7.6.1",
-        "Release": "2.el10_0.1",
+        "Release": "4.el10",
         "Architecture": "x86_64",
-        "Size": "1.1 M",
-        "Source": "varnish-7.6.1-2.el10_0.1.src.rpm",
+        "Size": "1.4 M",
+        "Source": "varnish-7.6.1-4.el10.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "varnish.x86_64                                      7.6.1-2.el10                                           rhel-10-for-x86_64-appstream-rpms",
-        "varnish.x86_64                                      7.6.1-2.el10_0.1                                       rhel-10-for-x86_64-appstream-rpms"
+        "varnish.x86_64                                      7.6.1-2.el10_0.1                                       rhel-10-for-x86_64-appstream-rpms",
+        "varnish.x86_64                                      7.6.1-4.el10                                           rhel-10-for-x86_64-appstream-rpms"
     ]
 }

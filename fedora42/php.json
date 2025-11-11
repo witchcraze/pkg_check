@@ -2,12 +2,12 @@
     "info": {
         "Name": "php",
         "Epoch": "0",
-        "Version": "8.4.12",
+        "Version": "8.4.14",
         "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "13.3 KiB",
+        "Download size": "12.7 KiB",
         "Installed size": "0.0   B",
-        "Source": "php-8.4.12-1.fc42.src.rpm",
+        "Source": "php-8.4.14-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -17,36 +17,6 @@
     },
     "list": [
         "php.x86_64 8.4.5-1.fc42  fedora",
-        "php.x86_64 8.4.12-1.fc42 updates"
-    ],
-    "kojiPackages": [
-        "php-8.4.12-1.fc42",
-        "php-8.4.11-1.fc42",
-        "php-8.4.10-1.fc42",
-        "php-8.4.8-1.fc42",
-        "php-8.4.7-1.fc42",
-        "php-8.4.6-1.fc42",
-        "php-8.4.5-1.fc42",
-        "php-8.4.4-3.fc42",
-        "php-8.4.4~RC2-2.fc42",
-        "php-8.4.4~RC1-2.fc42",
-        "php-8.4.3-2.fc42",
-        "php-8.4.3-1.fc42",
-        "php-8.4.3~RC1-1.fc42",
-        "php-8.4.2-1.fc42",
-        "php-8.4.2~RC1-2.fc42",
-        "php-8.4.2~RC1-1.fc42",
-        "php-8.4.1-1.fc42",
-        "php-8.4.0-1.fc42",
-        "php-8.4.0~RC4-1.fc42",
-        "php-8.4.0~RC3-1.fc42",
-        "php-8.4.0~RC2-2.fc42",
-        "php-8.4.0~RC2-1.fc42",
-        "php-8.3.12-1.fc42",
-        "php-8.3.12~RC1-2.fc42",
-        "php-8.3.12~RC1-1.fc42",
-        "php-8.3.11-1.fc42",
-        "php-8.3.11~RC2-1.fc42",
-        "php-8.3.11~RC1-1.fc42"
+        "php.x86_64 8.4.14-1.fc42 updates"
     ]
 }

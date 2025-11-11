@@ -2,7 +2,7 @@
     "info": {
         "Name": "tomcat",
         "Arch": "noarch",
-        "Version": "9.0.108",
+        "Version": "9.0.110",
         "Release": "1.amzn2.0.1",
         "Size": "90 k",
         "Repo": "amzn2extra-tomcat9/2/x86_64",
@@ -30,6 +30,7 @@
         "tomcat.noarch                                            7.0.76-10.amzn2.0.12                                             amzn2-core",
         "tomcat.noarch                                            7.0.76-10.amzn2.0.13                                             amzn2-core",
         "tomcat.noarch                                            7.0.76-10.amzn2.0.14                                             amzn2-core",
+        "tomcat.noarch                                            7.0.76-10.amzn2.0.15                                             amzn2-core",
         "tomcat.noarch                                            9.0.41-2.amzn2.0.1                                               amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.50-1.amzn2.0.1                                               amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.54-1.amzn2.0.1                                               amzn2extra-tomcat9",
@@ -53,6 +54,7 @@
         "tomcat.noarch                                            9.0.105-1.amzn2.0.1                                              amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.106-1.amzn2.0.1                                              amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.107-1.amzn2.0.1                                              amzn2extra-tomcat9",
-        "tomcat.noarch                                            9.0.108-1.amzn2.0.1                                              amzn2extra-tomcat9"
+        "tomcat.noarch                                            9.0.108-1.amzn2.0.1                                              amzn2extra-tomcat9",
+        "tomcat.noarch                                            9.0.110-1.amzn2.0.1                                              amzn2extra-tomcat9"
     ]
 }

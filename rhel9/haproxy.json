@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "haproxy",
-        "Version": "2.4.22",
-        "Release": "4.el9",
+        "Version": "2.8.14",
+        "Release": "1.el9",
         "Architecture": "x86_64",
-        "Size": "2.2 M",
-        "Source": "haproxy-2.4.22-4.el9.src.rpm",
+        "Size": "2.5 M",
+        "Source": "haproxy-2.8.14-1.el9.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -20,6 +20,7 @@
         "haproxy.x86_64                                       2.4.22-1.el9                                           rhel-9-for-x86_64-appstream-rpms",
         "haproxy.x86_64                                       2.4.22-3.el9_3                                         rhel-9-for-x86_64-appstream-rpms",
         "haproxy.x86_64                                       2.4.22-3.el9_5.1                                       rhel-9-for-x86_64-appstream-rpms",
-        "haproxy.x86_64                                       2.4.22-4.el9                                           rhel-9-for-x86_64-appstream-rpms"
+        "haproxy.x86_64                                       2.4.22-4.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "haproxy.x86_64                                       2.8.14-1.el9                                           rhel-9-for-x86_64-appstream-rpms"
     ]
 }

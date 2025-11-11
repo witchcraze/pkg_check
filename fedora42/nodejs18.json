@@ -20,12 +20,5 @@
         "nodejs18.x86_64 1:18.20.7-1.fc42 fedora",
         "nodejs18.i686   1:18.20.8-2.fc42 updates",
         "nodejs18.x86_64 1:18.20.8-2.fc42 updates"
-    ],
-    "kojiPackages": [
-        "nodejs18-18.20.8-2.fc42",
-        "nodejs18-18.20.7-1.fc42",
-        "nodejs18-18.20.6-2.fc42",
-        "nodejs18-18.20.6-1.fc42",
-        "nodejs18-18.20.2-3.fc42"
     ]
 }
