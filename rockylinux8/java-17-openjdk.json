@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-17-openjdk",
         "Epoch": "1",
-        "Version": "17.0.16.0.8",
-        "Release": "2.el8",
+        "Version": "17.0.17.0.10",
+        "Release": "1.el8",
         "Architecture": "x86_64",
-        "Size": "492 k",
-        "Source": "java-17-openjdk-17.0.16.0.8-2.el8.src.rpm",
+        "Size": "499 k",
+        "Source": "java-17-openjdk-17.0.17.0.10-1.el8.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 17 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -38,7 +38,8 @@
         "java-17-openjdk.x86_64                     1:17.0.13.0.11-3.el8                       appstream",
         "java-17-openjdk.x86_64                     1:17.0.14.0.7-3.el8                        appstream",
         "java-17-openjdk.x86_64                     1:17.0.15.0.6-2.el8                        appstream",
-        "java-17-openjdk.x86_64                     1:17.0.16.0.8-2.el8                        appstream"
+        "java-17-openjdk.x86_64                     1:17.0.16.0.8-2.el8                        appstream",
+        "java-17-openjdk.x86_64                     1:17.0.17.0.10-1.el8                       appstream"
     ],
     "kojiPackages": [
         "java-17-openjdk-17.0.17.0.10-1.el8",

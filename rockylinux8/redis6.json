@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "6.2.19",
-        "Release": "1.module+el8.10.0+2013+383ef3e1",
+        "Version": "6.2.20",
+        "Release": "1.module+el8.10.0+2081+450a296c",
         "Architecture": "x86_64",
         "Size": "1.2 M",
-        "Source": "redis-6.2.19-1.module+el8.10.0+2013+383ef3e1.src.rpm",
+        "Source": "redis-6.2.20-1.module+el8.10.0+2081+450a296c.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -24,7 +24,8 @@
         "redis.x86_64                  6.2.7-1.module+el8.7.0+1105+8815ce78                    dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "redis.x86_64                  6.2.17-1.module+el8.10.0+1923+5b85c6a7                  appstream",
         "redis.x86_64                  6.2.18-1.module+el8.10.0+1980+8f0924a4                  appstream",
-        "redis.x86_64                  6.2.19-1.module+el8.10.0+2013+383ef3e1                  appstream"
+        "redis.x86_64                  6.2.19-1.module+el8.10.0+2013+383ef3e1                  appstream",
+        "redis.x86_64                  6.2.20-1.module+el8.10.0+2081+450a296c                  appstream"
     ],
     "kojiPackages": [
         "redis-6.2.20-1.module+el8.10.0+2081+450a296c",

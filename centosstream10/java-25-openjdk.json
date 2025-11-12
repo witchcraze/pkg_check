@@ -17,6 +17,7 @@
         "java-25-openjdk.x86_64               1:22.0.2.0.9-1.el10               appstream"
     ],
     "kojiPackages": [
+        "java-25-openjdk-25.0.1.0.8-1.el10",
         "java-25-openjdk-24.0.2.0.12-1.el10",
         "java-25-openjdk-24.0.2.0.12-1.el10,draft_89195",
         "java-25-openjdk-24.0.2.0.12-1.el10,draft_89194",

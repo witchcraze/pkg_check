@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "6.10",
-        "Release": "5.el10",
+        "Release": "6.el10_1.1",
         "Architecture": "x86_64",
         "Size": "4.0 M",
-        "Source": "squid-6.10-5.el10.src.rpm",
+        "Source": "squid-6.10-6.el10_1.1.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -14,6 +14,7 @@
         "Description": "Squid is a high-performance proxy caching server for Web clients,"
     },
     "list": [
-        "squid.x86_64                                         7:6.10-5.el10                                         rhel-10-for-x86_64-appstream-rpms"
+        "squid.x86_64                                       7:6.10-5.el10                                           rhel-10-for-x86_64-appstream-rpms",
+        "squid.x86_64                                       7:6.10-6.el10_1.1                                       rhel-10-for-x86_64-appstream-rpms"
     ]
 }

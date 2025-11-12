@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.27",
-        "Release": "1.module+el8.10.0+1926+d379821b",
+        "Version": "10.5.29",
+        "Release": "2.module+el8.10.0+2082+43759dcc",
         "Architecture": "x86_64",
         "Size": "6.4 M",
-        "Source": "mariadb-10.5.27-1.module+el8.10.0+1926+d379821b.src.rpm",
+        "Source": "mariadb-10.5.29-2.module+el8.10.0+2082+43759dcc.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -24,7 +24,8 @@
         "mariadb.x86_64               3:10.5.22-1.module+el8.8.0+1490+31c52b1f                 appstream",
         "mariadb.x86_64               3:10.5.22-1.module+el8.8.0+1490+31c52b1f                 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "mariadb.x86_64               3:10.5.22-1.module+el8.8.0+1490+31c52b1f                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "mariadb.x86_64               3:10.5.27-1.module+el8.10.0+1926+d379821b                appstream"
+        "mariadb.x86_64               3:10.5.27-1.module+el8.10.0+1926+d379821b                appstream",
+        "mariadb.x86_64               3:10.5.29-2.module+el8.10.0+2082+43759dcc                appstream"
     ],
     "kojiPackages": [
         "mariadb-10.5.29-2.module+el8.10.0+2082+43759dcc",
