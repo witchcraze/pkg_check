@@ -2,11 +2,11 @@
     "info": {
         "Name": "tomcat10",
         "Epoch": "1",
-        "Version": "10.1.44",
+        "Version": "10.1.48",
         "Release": "1.amzn2023.0.1",
         "Architecture": "noarch",
         "Size": "93 k",
-        "Source": "tomcat10-10.1.44-1.amzn2023.0.1.src.rpm",
+        "Source": "tomcat10-10.1.48-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 6.0/JSP 3.1 API",
         "URL": "http://tomcat.apache.org/",
@@ -21,6 +21,7 @@
         "tomcat10.noarch               1:10.1.41-1.amzn2023.0.1               amazonlinux",
         "tomcat10.noarch               1:10.1.42-1.amzn2023.0.1               amazonlinux",
         "tomcat10.noarch               1:10.1.43-1.amzn2023.0.1               amazonlinux",
-        "tomcat10.noarch               1:10.1.44-1.amzn2023.0.1               amazonlinux"
+        "tomcat10.noarch               1:10.1.44-1.amzn2023.0.1               amazonlinux",
+        "tomcat10.noarch               1:10.1.48-1.amzn2023.0.1               amazonlinux"
     ]
 }

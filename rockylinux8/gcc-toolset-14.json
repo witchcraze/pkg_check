@@ -15,6 +15,7 @@
         "gcc-toolset-14.x86_64                                                14.0-0.el8_10                                                 appstream"
     ],
     "kojiPackages": [
+        "gcc-toolset-14-14.0-1.el8_10",
         "gcc-toolset-14-14.0-0.el8_10"
     ]
 }

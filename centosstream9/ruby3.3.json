@@ -19,6 +19,7 @@
         "ruby.x86_64              3.3.8-4.module_el9+1234+fda12214              appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.10-5.module_el9+1286+8ef4fb5d",
         "ruby-3.3.8-4.module_el9+1234+fda12214",
         "ruby-3.3.8-4.module_el9+1219+ff18c3e1",
         "ruby-3.3.5-3.module_el9+1112+c9edd103",

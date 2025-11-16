@@ -12,13 +12,14 @@
         "Breaks": "bind (<< 1:9.13.6~)",
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
+        "Tag": "implemented-in::c, interface::daemon, network::server, network::service,",
+        "protocol": "dns, protocol::ipv6, protocol::ssl, role::program",
         "Download-Size": "254 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/stable-security 1:9.20.15-1~deb13u1 amd64",
-        "bind9/stable 1:9.20.11-4 amd64"
+        "bind9/stable,stable-security 1:9.20.15-1~deb13u1 amd64"
     ],
     "changelog": [
         "bind9 (1:9.20.15-1~deb13u1) trixie-security; urgency=high",

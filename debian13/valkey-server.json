@@ -12,12 +12,11 @@
         "Depends": "valkey-tools (= 8.1.1+dfsg1-3+deb13u1)",
         "Homepage": "https://valkey.io",
         "Download-Size": "58.3 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "valkey-server/stable-security 8.1.1+dfsg1-3+deb13u1 amd64",
-        "valkey-server/stable 8.1.1+dfsg1-3 amd64"
+        "valkey-server/stable,stable-security 8.1.1+dfsg1-3+deb13u1 amd64"
     ],
     "changelog": [
         "valkey (8.1.1+dfsg1-3+deb13u1) trixie-security; urgency=medium",

@@ -12,12 +12,11 @@
         "Suggests": "squidclient, squid-cgi, squid-purge, resolvconf (>= 0.40), smbclient, ufw, winbind, apparmor",
         "Homepage": "http://www.squid-cache.org",
         "Download-Size": "2794 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
-        "squid/stable-security 6.13-2+deb13u1 amd64",
-        "squid/stable 6.13-2 amd64"
+        "squid/stable,stable-security 6.13-2+deb13u1 amd64"
     ],
     "changelog": [
         "squid (6.13-2+deb13u1) trixie-security; urgency=high",

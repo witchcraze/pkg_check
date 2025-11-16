@@ -10,13 +10,13 @@
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
         "Depends": "redis-tools (= 5:8.0.2-3+deb13u1)",
         "Homepage": "https://redis.io/",
+        "Tag": "implemented-in::c, role::program",
         "Download-Size": "66.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/stable-security 5:8.0.2-3+deb13u1 amd64",
-        "redis-server/stable 5:8.0.2-3 amd64"
+        "redis-server/stable,stable-security 5:8.0.2-3+deb13u1 amd64"
     ],
     "changelog": [
         "redis (5:8.0.2-3+deb13u1) trixie-security; urgency=medium",

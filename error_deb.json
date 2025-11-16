@@ -55,13 +55,6 @@
             "varnish": [
                 "apt-get changelog"
             ]
-        },
-        "13": {
-            "openssl": [
-                "apt-get changelog",
-                "apt-get changelog",
-                "apt-get changelog"
-            ]
         }
     }
 }

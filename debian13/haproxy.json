@@ -10,13 +10,16 @@
         "Depends": "libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libjemalloc2 (>= 2.1.1), liblua5.4-0 (>= 5.4.6), libopentracing-c-wrapper0t64 (>= 1.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.2.0), adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
+        "Tag": "implemented-in::c, interface::daemon, network::hiavailability,",
+        "network": "load-balancing, network::server, network::service,",
+        "protocol": "http, protocol::tcp, role::program, use::filtering,",
+        "use": "proxying",
         "Download-Size": "2627 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
-        "haproxy/stable-security 3.0.11-1+deb13u1 amd64",
-        "haproxy/stable 3.0.11-1 amd64"
+        "haproxy/stable,stable-security 3.0.11-1+deb13u1 amd64"
     ],
     "changelog": [
         "haproxy (3.0.11-1+deb13u1) trixie-security; urgency=high",

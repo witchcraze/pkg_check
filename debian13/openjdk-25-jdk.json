@@ -13,12 +13,11 @@
         "Suggests": "openjdk-25-demo, openjdk-25-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
         "Download-Size": "3746 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/stable-security 25.0.1+8-1~deb13u1 amd64",
-        "openjdk-25-jdk/stable 25~32ea-1 amd64"
+        "openjdk-25-jdk/stable,stable-security 25.0.1+8-1~deb13u1 amd64"
     ],
     "changelog": [
         "openjdk-25 (25.0.1+8-1~deb13u1) trixie-security; urgency=medium",

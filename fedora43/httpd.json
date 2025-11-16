@@ -3,11 +3,11 @@
         "Name": "httpd",
         "Epoch": "0",
         "Version": "2.4.65",
-        "Release": "1.fc43",
+        "Release": "3.fc43",
         "Architecture": "x86_64",
-        "Download size": "46.1 KiB",
+        "Download size": "46.4 KiB",
         "Installed size": "56.6 KiB",
-        "Source": "httpd-2.4.65-1.fc43.src.rpm",
+        "Source": "httpd-2.4.65-3.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "httpd.x86_64 2.4.64-3.fc43 fedora",
-        "httpd.x86_64 2.4.65-1.fc43 updates"
+        "httpd.x86_64 2.4.65-3.fc43 updates"
     ]
 }

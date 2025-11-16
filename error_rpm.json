@@ -84,13 +84,52 @@
             "postgresql-server": [
                 "kojiPackages"
             ],
+            "mariadb10.11": [
+                "kojiPackages"
+            ],
             "mysql8.4": [
+                "kojiPackages"
+            ],
+            "nginx1.22": [
+                "kojiPackages"
+            ],
+            "nginx1.24": [
                 "kojiPackages"
             ],
             "nginx1.26": [
                 "kojiPackages"
             ],
+            "nodejs18": [
+                "kojiPackages"
+            ],
+            "nodejs20": [
+                "kojiPackages"
+            ],
+            "nodejs22": [
+                "kojiPackages"
+            ],
+            "php8.1": [
+                "kojiPackages"
+            ],
+            "php8.2": [
+                "kojiPackages"
+            ],
             "php8.3": [
+                "kojiPackages"
+            ],
+            "postgresql15": [
+                "kojiPackages"
+            ],
+            "postgresql16": [
+                "kojiPackages"
+            ],
+            "redis7": [
+                "kojiPackages"
+            ],
+            "ruby3.1": [
+                "kojiPackages"
+            ],
+            "ruby3.3": [
                 "kojiPackages"
             ]
         },
