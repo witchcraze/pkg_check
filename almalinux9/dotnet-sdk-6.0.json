@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "77 M",
         "Source": "dotnet6.0-6.0.136-1.el9_5.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "Summary": ".NET 6.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
         "License": "MIT and ASL 2.0 and BSD and LGPLv2+ and CC-BY and CC0 and MS-PL and EPL-1.0 and GPL+ and GPLv2 and ISC and OFL and zlib",
@@ -47,6 +47,7 @@
         "dotnet-sdk-6.0.x86_64                           6.0.135-1.el9_4                            repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "dotnet-sdk-6.0.x86_64                           6.0.135-2.el9_5                            repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "dotnet-sdk-6.0.x86_64                           6.0.136-1.el9_5                            appstream",
-        "dotnet-sdk-6.0.x86_64                           6.0.136-1.el9_5                            repo.almalinux.org_vault_9.5_AppStream_x86_64_os_"
+        "dotnet-sdk-6.0.x86_64                           6.0.136-1.el9_5                            repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
+        "dotnet-sdk-6.0.x86_64                           6.0.136-1.el9_5                            repo.almalinux.org_vault_9.6_AppStream_x86_64_os_"
     ]
 }

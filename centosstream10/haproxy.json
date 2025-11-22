@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "3.0.5",
-        "Release": "4.el10",
+        "Release": "6.el10",
         "Architecture": "x86_64",
         "Size": "2.6 M",
-        "Source": "haproxy-3.0.5-4.el10.src.rpm",
+        "Source": "haproxy-3.0.5-6.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -14,7 +14,8 @@
     },
     "list": [
         "haproxy.x86_64                      3.0.3-1.el10                       appstream",
-        "haproxy.x86_64                      3.0.5-4.el10                       appstream"
+        "haproxy.x86_64                      3.0.5-4.el10                       appstream",
+        "haproxy.x86_64                      3.0.5-6.el10                       appstream"
     ],
     "kojiPackages": [
         "haproxy-3.0.5-6.el10",

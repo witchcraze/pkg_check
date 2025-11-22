@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "1.9 M",
         "Source": "nodejs-22.19.0-2.module_el9.6.0+177+6963e91b.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
@@ -18,9 +18,10 @@
         "nodejs.x86_64                   1:22.11.0-1.module_el9.5.0+133+189bb514                    repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:22.13.1-1.module_el9.5.0+139+09296491                    repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:22.13.1-2.module_el9.5.0+161+1147bded                    repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64                   1:22.15.0-1.module_el9.6.0+164+2d89b8ed                    appstream",
-        "nodejs.x86_64                   1:22.16.0-1.module_el9.6.0+170+f035de78                    appstream",
-        "nodejs.x86_64                   1:22.16.0-2.module_el9.6.0+172+f0ba00ec                    appstream",
-        "nodejs.x86_64                   1:22.19.0-2.module_el9.6.0+177+6963e91b                    appstream"
+        "nodejs.x86_64                   1:22.15.0-1.module_el9.6.0+164+2d89b8ed                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:22.16.0-1.module_el9.6.0+170+f035de78                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:22.16.0-2.module_el9.6.0+172+f0ba00ec                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:22.19.0-2.module_el9.6.0+177+6963e91b                    appstream",
+        "nodejs.x86_64                   1:22.19.0-2.module_el9.6.0+177+6963e91b                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_"
     ]
 }

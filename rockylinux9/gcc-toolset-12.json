@@ -20,7 +20,6 @@
         "gcc-toolset-12.x86_64                           12.0-6.el9                            appstream"
     ],
     "kojiPackages": [
-        "gcc-toolset-12-12.0-6.el9",
-        "gcc-toolset-12-12.0-5.el9"
+        "gcc-toolset-12-12.0-6.el9"
     ]
 }

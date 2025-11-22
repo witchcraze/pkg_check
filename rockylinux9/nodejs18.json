@@ -28,20 +28,7 @@
         "nodejs.x86_64                1:18.20.8-1.module+el9.6.0+32185+bd121a25                appstream"
     ],
     "kojiPackages": [
-        "nodejs-18.20.4-1.module+el9.4.0+25542+b1e8296f",
-        "nodejs-18.20.2-2.module+el9.4.0+20268+ab82f8a5",
-        "nodejs-18.20.2-2.module+el9.4.0+20107+1ce219be",
-        "nodejs-18.19.1-1.module+el9.3.0+18988+db1519cb",
-        "nodejs-18.19.0-1.module+el9.3.0+18175+a1f9d2e0",
-        "nodejs-18.18.2-2.module+el9.3.0+15867+4ff8d002",
-        "nodejs-18.18.2-2.module+el9.2.0+15226+de336927",
-        "nodejs-18.17.1-1.module+el9.2.0+15172+b1edf08f",
-        "nodejs-18.17.1-1.module+el9.2.0+15122+13461abb",
-        "nodejs-18.16.1-2.module+el9.2.0+15019+f781738f",
-        "nodejs-18.16.1-2.module+el9.2.0+14973+e2eb5914",
-        "nodejs-18.16.1-1.module+el9.2.0+14926+cfc534b3",
-        "nodejs-18.14.2-3.module+el9.2.0+14843+acebbfea",
-        "nodejs-18.14.2-2.module+el9.2.0+14717+9beb5650",
-        "nodejs-18.12.1-1.module+el9.1.0+13234+90e40c60"
+        "nodejs-18.20.8-1.module+el9.7.0+40022+9ecc286c",
+        "nodejs-18.20.8-1.module+el9.7.0+40016+3d86b058"
     ]
 }

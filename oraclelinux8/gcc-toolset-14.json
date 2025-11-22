@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc-toolset-14",
         "Version": "14.0",
-        "Release": "0.el8_10",
+        "Release": "1.el8_10",
         "Architecture": "x86_64",
-        "Size": "9.8 k",
-        "Source": "gcc-toolset-14-14.0-0.el8_10.src.rpm",
+        "Size": "9.9 k",
+        "Source": "gcc-toolset-14-14.0-1.el8_10.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Package that installs gcc-toolset-14",
         "License": "GPLv2+",
@@ -13,6 +13,8 @@
     },
     "list": [
         "gcc-toolset-14.src                                                 14.0-0.el8_10                                               ol8_appstream",
-        "gcc-toolset-14.x86_64                                              14.0-0.el8_10                                               ol8_appstream"
+        "gcc-toolset-14.x86_64                                              14.0-0.el8_10                                               ol8_appstream",
+        "gcc-toolset-14.src                                                 14.0-1.el8_10                                               ol8_appstream",
+        "gcc-toolset-14.x86_64                                              14.0-1.el8_10                                               ol8_appstream"
     ]
 }

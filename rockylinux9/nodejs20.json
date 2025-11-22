@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.19.2",
-        "Release": "1.module+el9.6.0+32143+ae966e5b",
+        "Version": "20.19.5",
+        "Release": "1.module+el9.6.0+32939+231f4541",
         "Architecture": "x86_64",
         "Size": "14 M",
-        "Source": "nodejs-20.19.2-1.module+el9.6.0+32143+ae966e5b.src.rpm",
+        "Source": "nodejs-20.19.5-1.module+el9.6.0+32939+231f4541.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -26,18 +26,9 @@
         "nodejs.x86_64                1:20.17.0-1.module+el9.5.0+29018+840bbf8d                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                1:20.18.2-1.module+el9.5.0+30551+46aff9bc                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                1:20.18.2-2.module+el9.5.0+31785+5534beb0                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64                1:20.19.2-1.module+el9.6.0+32143+ae966e5b                appstream"
+        "nodejs.x86_64                1:20.19.5-1.module+el9.6.0+32939+231f4541                appstream"
     ],
     "kojiPackages": [
-        "nodejs-20.17.0-1.module+el9.5.0+29018+840bbf8d",
-        "nodejs-20.16.0-1.module+el9.4.0+25495+f51dca35",
-        "nodejs-20.14.0-1.module+el9.4.0+24245+5150bc6f",
-        "nodejs-20.12.2-2.module+el9.4.0+20208+2c07b30c",
-        "nodejs-20.12.2-2.module+el9.4.0+20281+a6090b05",
-        "nodejs-20.11.1-1.module+el9.4.0+19932+a5bb191c",
-        "nodejs-20.11.1-1.module+el9.3.0+19150+4fe949ef",
-        "nodejs-20.11.0-1.module+el9.3.0+18176+ca32d882",
-        "nodejs-20.9.0-1.module+el9.3.0+15899+0a70ceb7",
-        "nodejs-20.8.1-1.module+el9.3.0+15868+b2fc7726"
+        "nodejs-20.19.5-1.module+el9.7.0+40017+f0db1785"
     ]
 }

@@ -2,12 +2,12 @@
     "info": {
         "Name": "golang",
         "Epoch": "0",
-        "Version": "1.24.9",
+        "Version": "1.24.10",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "670.1 KiB",
+        "Download size": "669.8 KiB",
         "Installed size": "8.9 MiB",
-        "Source": "golang-1.24.9-1.fc41.src.rpm",
+        "Source": "golang-1.24.10-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -16,7 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "golang.x86_64 1.23.2-2.fc41 fedora",
-        "golang.x86_64 1.24.9-1.fc41 updates"
+        "golang.x86_64 1.23.2-2.fc41  fedora",
+        "golang.x86_64 1.24.10-1.fc41 updates"
     ]
 }

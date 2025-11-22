@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "1.6 M",
         "Source": "redis-7.2.11-1.module_el9.6.0+188+92104ce8.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
         "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
@@ -19,8 +19,9 @@
         "redis.x86_64                     7.0.12-2.module_el9.3.0+56+d6a17771                       repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "redis.x86_64                     7.2.6-1.module_el9.5.0+130+36ae7635                       repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "redis.x86_64                     7.2.7-1.module_el9.5.0+134+2e645600                       repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
-        "redis.x86_64                     7.2.8-1.module_el9.6.0+168+b8d8e900                       appstream",
-        "redis.x86_64                     7.2.10-1.module_el9.6.0+173+efaf9205                      appstream",
-        "redis.x86_64                     7.2.11-1.module_el9.6.0+188+92104ce8                      appstream"
+        "redis.x86_64                     7.2.8-1.module_el9.6.0+168+b8d8e900                       repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "redis.x86_64                     7.2.10-1.module_el9.6.0+173+efaf9205                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "redis.x86_64                     7.2.11-1.module_el9.6.0+188+92104ce8                      appstream",
+        "redis.x86_64                     7.2.11-1.module_el9.6.0+188+92104ce8                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_"
     ]
 }

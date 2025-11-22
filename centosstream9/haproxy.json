@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "2.8.14",
-        "Release": "1.el9",
+        "Release": "3.el9",
         "Architecture": "x86_64",
         "Size": "2.5 M",
-        "Source": "haproxy-2.8.14-1.el9.src.rpm",
+        "Source": "haproxy-2.8.14-3.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -13,11 +13,11 @@
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
     },
     "list": [
-        "haproxy.x86_64                      2.4.17-6.el9                       appstream",
         "haproxy.x86_64                      2.4.22-1.el9                       appstream",
         "haproxy.x86_64                      2.4.22-3.el9                       appstream",
         "haproxy.x86_64                      2.4.22-4.el9                       appstream",
-        "haproxy.x86_64                      2.8.14-1.el9                       appstream"
+        "haproxy.x86_64                      2.8.14-1.el9                       appstream",
+        "haproxy.x86_64                      2.8.14-3.el9                       appstream"
     ],
     "kojiPackages": [
         "haproxy-2.8.14-3.el9",
