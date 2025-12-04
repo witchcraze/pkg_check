@@ -2,10 +2,10 @@
     "info": {
         "Name": "redis",
         "Version": "7.2.11",
-        "Release": "1.module+el9.6.0+32613+cddc9cef",
+        "Release": "1.module+el9.7.0+40013+17379f63",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "redis-7.2.11-1.module+el9.6.0+32613+cddc9cef.src.rpm",
+        "Source": "redis-7.2.11-1.module+el9.7.0+40013+17379f63.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -19,7 +19,10 @@
         "redis.x86_64                  7.0.12-2.module+el9.3.0+18173+60127d38                  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "redis.x86_64                  7.2.6-1.module+el9.5.0+29429+015fd2d3                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "redis.x86_64                  7.2.7-1.module+el9.5.0+30204+5d6debe1                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "redis.x86_64                  7.2.11-1.module+el9.6.0+32613+cddc9cef                  appstream"
+        "redis.x86_64                  7.2.8-1.module+el9.6.0+32036+eb8f79e6                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.10-1.module+el9.6.0+32323+e27e860a                  dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.11-1.module+el9.6.0+32613+cddc9cef                  dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "redis.x86_64                  7.2.11-1.module+el9.7.0+40013+17379f63                  appstream"
     ],
     "kojiPackages": [
         "redis-7.2.11-1.module+el9.7.0+40013+17379f63"

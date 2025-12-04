@@ -6,14 +6,15 @@
         "Architecture": "x86_64",
         "Size": "7.0 M",
         "Source": "postgresql16-16.10-1.el10_0.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                                              16.8-1.el10_0                                                appstream",
-        "postgresql-server.x86_64                                              16.10-1.el10_0                                               appstream"
+        "postgresql-server.x86_64                       16.8-1.el10_0                         dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                       16.10-1.el10_0                        dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "postgresql-server.x86_64                       16.10-1.el10_0                        appstream"
     ]
 }

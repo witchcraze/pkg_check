@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.13",
-        "Version": "3.13.3-1ubuntu0.3",
+        "Version": "3.13.3-1ubuntu0.4",
         "Priority": "optional",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "845 kB",
-        "Depends": "python3.13-minimal (= 3.13.3-1ubuntu0.3), libpython3.13-stdlib (= 3.13.3-1ubuntu0.3), media-types | mime-support, tzdata",
+        "Depends": "python3.13-minimal (= 3.13.3-1ubuntu0.4), libpython3.13-stdlib (= 3.13.3-1ubuntu0.4), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.13-venv, python3.13-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
@@ -19,10 +19,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.13)"
     },
     "list": [
-        "python3.13/plucky-updates,plucky-security 3.13.3-1ubuntu0.3 amd64",
+        "python3.13/plucky-updates,plucky-security 3.13.3-1ubuntu0.4 amd64",
         "python3.13/plucky 3.13.3-1 amd64"
     ],
     "changelog": [
+        "python3.13 (3.13.3-1ubuntu0.4) plucky-security; urgency=medium",
         "python3.13 (3.13.3-1ubuntu0.3) plucky-security; urgency=medium",
         "python3.13 (3.13.3-1ubuntu0.2) plucky-security; urgency=medium",
         "python3.13 (3.13.3-1ubuntu0.1) plucky-security; urgency=medium",
@@ -574,6 +575,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.13.3-1ubuntu0.4",
         "3.13.3-1ubuntu0.3",
         "3.13.3-1ubuntu0.2",
         "3.13.3-1ubuntu0.1",

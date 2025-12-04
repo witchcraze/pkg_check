@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "3.3.8",
-        "Release": "4.module+el9.6.0+31867+3a5bf654",
+        "Release": "4.module+el9.7.0+40032+36e56d0d",
         "Architecture": "x86_64",
         "Size": "38 k",
-        "Source": "ruby-3.3.8-4.module+el9.6.0+31867+3a5bf654.src.rpm",
+        "Source": "ruby-3.3.8-4.module+el9.7.0+40032+36e56d0d.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -20,7 +20,9 @@
         "ruby.x86_64                   3.3.5-3.module+el9.4.0+25730+e54ecc95                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "ruby.x86_64                   3.3.5-3.module+el9.5.0+29452+9aee9b7c                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "ruby.x86_64                   3.3.8-4.module+el9.5.0+31850+530eecc9                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "ruby.x86_64                   3.3.8-4.module+el9.6.0+31867+3a5bf654                   appstream"
+        "ruby.x86_64                   3.3.8-4.module+el9.6.0+31867+3a5bf654                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "ruby.i686                     3.3.8-4.module+el9.7.0+40032+36e56d0d                   appstream",
+        "ruby.x86_64                   3.3.8-4.module+el9.7.0+40032+36e56d0d                   appstream"
     ],
     "kojiPackages": [
         "ruby-3.3.8-4.module+el9.7.0+40032+36e56d0d",

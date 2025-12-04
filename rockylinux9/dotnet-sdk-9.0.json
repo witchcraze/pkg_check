@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.111",
-        "Release": "1.el9_6",
+        "Version": "9.0.112",
+        "Release": "1.el9_7",
         "Architecture": "x86_64",
         "Size": "81 M",
-        "Source": "dotnet9.0-9.0.111-1.el9_6.src.rpm",
+        "Source": "dotnet9.0-9.0.112-1.el9_7.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -19,7 +19,13 @@
         "dotnet-sdk-9.0.x86_64                         9.0.103-1.el9_5                         dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "dotnet-sdk-9.0.x86_64                         9.0.104-1.el9_5                         dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "dotnet-sdk-9.0.x86_64                         9.0.105-1.el9_5                         dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "dotnet-sdk-9.0.x86_64                         9.0.111-1.el9_6                         appstream"
+        "dotnet-sdk-9.0.x86_64                         9.0.106-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.107-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.108-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.109-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.110-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.111-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "dotnet-sdk-9.0.x86_64                         9.0.112-1.el9_7                         appstream"
     ],
     "kojiPackages": [
         "dotnet9.0-9.0.112-1.el9_7"

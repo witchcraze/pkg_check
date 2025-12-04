@@ -1,0 +1,23 @@
+{
+    "info": {
+        "Name": "php8.4",
+        "Version": "8.4.14",
+        "Release": "4.el10",
+        "Architecture": "x86_64",
+        "Size": "10 k",
+        "Source": "php8.4-8.4.14-4.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PHP scripting language for creating dynamic web sites",
+        "URL": "http://www.php.net/",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
+        "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
+    },
+    "list": [
+        "php8.4.x86_64                      8.4.14-4.el10                       appstream"
+    ],
+    "kojiPackages": [
+        "php8.4-8.4.14-5.el10,draft_89526",
+        "php8.4-8.4.14-4.el10",
+        "php8.4-8.4.14-3.el10"
+    ]
+}

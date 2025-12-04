@@ -2,10 +2,10 @@
     "info": {
         "Name": "redis",
         "Version": "7.2.11",
-        "Release": "1.0.1.module+el9.6.0+90693+e335695b",
+        "Release": "1.0.1.module+el9.7.0+90709+dc2ec98a",
         "Architecture": "x86_64",
         "Size": "1.7 M",
-        "Source": "redis-7.2.11-1.0.1.module+el9.6.0+90693+e335695b.src.rpm",
+        "Source": "redis-7.2.11-1.0.1.module+el9.7.0+90709+dc2ec98a.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -21,6 +21,7 @@
         "redis.x86_64      7.2.8-1.0.1.module+el9.6.0+90593+d01c6809        ol9_appstream",
         "redis.x86_64      7.2.10-1.0.1.module+el9.6.0+90637+3ecf02e1       ol9_appstream",
         "redis.x86_64      7.2.10-1.0.2.module+el9.6.0+90681+1a77fe5a       ol9_appstream",
-        "redis.x86_64      7.2.11-1.0.1.module+el9.6.0+90693+e335695b       ol9_appstream"
+        "redis.x86_64      7.2.11-1.0.1.module+el9.6.0+90693+e335695b       ol9_appstream",
+        "redis.x86_64      7.2.11-1.0.1.module+el9.7.0+90709+dc2ec98a       ol9_appstream"
     ]
 }

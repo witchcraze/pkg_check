@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "4.module+el9.6.0+31999+10edc144.1",
+        "Release": "4.module+el9.7.0+40009+dbda04b5.1",
         "Architecture": "x86_64",
         "Size": "32 k",
-        "Source": "nginx-1.24.0-4.module+el9.6.0+31999+10edc144.1.src.rpm",
+        "Source": "nginx-1.24.0-4.module+el9.7.0+40009+dbda04b5.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -19,7 +19,8 @@
         "nginx.x86_64                1:1.24.0-1.module+el9.4.0+25561+0d8abb60.1                dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "nginx.x86_64                1:1.24.0-4.module+el9.5.0+28944+dc2d84bb                  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nginx.x86_64                1:1.24.0-4.module+el9.5.0+30937+6c6b58de.1                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nginx.x86_64                1:1.24.0-4.module+el9.6.0+31999+10edc144.1                appstream"
+        "nginx.x86_64                1:1.24.0-4.module+el9.6.0+31999+10edc144.1                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.24.0-4.module+el9.7.0+40009+dbda04b5.1                appstream"
     ],
     "kojiPackages": [
         "nginx-1.24.0-4.module+el9.7.0+40009+dbda04b5.1"

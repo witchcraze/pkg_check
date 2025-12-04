@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "403 k",
         "Source": "java-11-openjdk-11.0.25.0.9-7.el9.src.rpm",
-        "Repository": "dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "Repository": "dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "Summary": "OpenJDK 11 Runtime Environment",
         "URL": "http://openjdk.java.net/",
         "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
@@ -25,6 +25,7 @@
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-2.el9                        dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-3.el9                        dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
+        "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        appstream"
     ],
     "kojiPackages": [

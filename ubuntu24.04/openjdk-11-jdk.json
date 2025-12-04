@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openjdk-11-jdk",
-        "Version": "11.0.28+6-1ubuntu1~24.04.1",
+        "Version": "11.0.29+7-1ubuntu1~24.04",
         "Priority": "optional",
         "Section": "universe/java",
         "Source": "openjdk-lts",
@@ -9,24 +9,25 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "OpenJDK Team <openjdk@lists.launchpad.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1402 kB",
+        "Installed-Size": "3170 kB",
         "Provides": "java-compiler, java-sdk (= 11), java10-sdk, java11-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",
-        "Depends": "openjdk-11-jre (= 11.0.28+6-1ubuntu1~24.04.1), openjdk-11-jdk-headless (= 11.0.28+6-1ubuntu1~24.04.1), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-11-jre (= 11.0.29+7-1ubuntu1~24.04), openjdk-11-jdk-headless (= 11.0.29+7-1ubuntu1~24.04), libc6 (>= 2.34), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-11-demo, openjdk-11-source, visualvm",
         "Conflicts": "openjdk-11-jre-headless (<< 11~19-2)",
         "Replaces": "openjdk-11-jre-headless (<< 11~19-2)",
         "Homepage": "https://openjdk.java.net/",
-        "Download-Size": "1341 kB",
+        "Download-Size": "2994 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-11-jdk/noble-updates,noble-security 11.0.28+6-1ubuntu1~24.04.1 amd64",
+        "openjdk-11-jdk/noble-updates,noble-security 11.0.29+7-1ubuntu1~24.04 amd64",
         "openjdk-11-jdk/noble 11.0.23+9-1ubuntu1 amd64"
     ],
     "changelog": [
-        "openjdk-lts (11.0.28+6-1ubuntu1~24.04.1) noble-security; urgency=medium",
+        "openjdk-lts (11.0.29+7-1ubuntu1~24.04) noble-security; urgency=medium",
+        "openjdk-lts (11.0.29+7-1ubuntu1) resolute; urgency=medium",
         "openjdk-lts (11.0.28+6-1ubuntu1) questing; urgency=medium",
         "openjdk-lts (11.0.28~5ea-1ubuntu2) questing; urgency=medium",
         "openjdk-lts (11.0.28~5ea-1ubuntu1) questing; urgency=medium",
@@ -528,6 +529,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "11.0.29+7-1ubuntu1~24.04",
         "11.0.28+6-1ubuntu1~24.04.1",
         "11.0.27+6~us1-0ubuntu1~24.04",
         "11.0.26+4-1ubuntu1~24.04",

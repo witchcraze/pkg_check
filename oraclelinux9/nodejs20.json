@@ -26,6 +26,7 @@
         "nodejs.x86_64      1:20.18.2-2.module+el9.5.0+90567+0da4fe16       ol9_appstream",
         "nodejs.x86_64      1:20.19.1-1.module+el9.6.0+90590+fd42b52a       ol9_appstream",
         "nodejs.x86_64      1:20.19.2-1.module+el9.6.0+90603+e4b3d4d2       ol9_appstream",
+        "nodejs.x86_64      1:20.19.5-1.module+el9.6.0+90688+3c7852a3       ol9_appstream",
         "nodejs.x86_64      1:20.19.5-1.module+el9.6.0+90698+ddd6dd09       ol9_appstream"
     ]
 }

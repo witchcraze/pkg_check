@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "valkey-server",
-        "Version": "7.2.11+dfsg1-0ubuntu0.1",
+        "Version": "7.2.11+dfsg1-0ubuntu0.2",
         "Priority": "optional",
         "Section": "universe/database",
         "Source": "valkey",
@@ -12,17 +12,17 @@
         "Installed-Size": "178 kB",
         "Provides": "valkey",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "valkey-tools (= 7.2.11+dfsg1-0ubuntu0.1)",
+        "Depends": "valkey-tools (= 7.2.11+dfsg1-0ubuntu0.2)",
         "Homepage": "https://valkey.io",
         "Download-Size": "49.3 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "valkey-server/noble-updates 7.2.11+dfsg1-0ubuntu0.1 amd64",
-        "valkey-server/noble-security 7.2.8+dfsg1-0ubuntu0.24.04.2 amd64"
+        "valkey-server/noble-updates,noble-security 7.2.11+dfsg1-0ubuntu0.2 amd64"
     ],
     "changelog": [
+        "valkey (7.2.11+dfsg1-0ubuntu0.2) noble-security; urgency=medium",
         "valkey (7.2.11+dfsg1-0ubuntu0.1) noble; urgency=medium",
         "valkey (7.2.10+dfsg1-0ubuntu0.1) noble; urgency=medium",
         "valkey (7.2.8+dfsg1-0ubuntu0.24.04.3) noble; urgency=medium",
@@ -38,6 +38,7 @@
         "valkey (7.2.5+dfsg1-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "7.2.11+dfsg1-0ubuntu0.2",
         "7.2.11+dfsg1-0ubuntu0.1",
         "7.2.10+dfsg1-0ubuntu0.1",
         "7.2.8+dfsg1-0ubuntu0.24.04.3",

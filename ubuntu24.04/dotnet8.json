@@ -51,6 +51,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.122-8.0.22-0ubuntu1~24.04.1",
         "8.0.121-8.0.21-0ubuntu1~24.04.1",
         "8.0.120-8.0.20-0ubuntu1~24.04.1",
         "8.0.119-8.0.19-0ubuntu1~24.04.1",

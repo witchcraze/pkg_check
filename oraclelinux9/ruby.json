@@ -2,7 +2,7 @@
     "info": {
         "Name": "ruby",
         "Version": "3.3.8",
-        "Release": "4.module+el9.5.0+90562+4bc8f111",
+        "Release": "4.module+el9.7.0+90671+941b9d05",
         "Architecture": "src",
         "Size": "16 M",
         "Source": "None",
@@ -39,6 +39,7 @@
         "ruby.src           3.3.0-1.module+el9.4.0+90257+8524dee7           ol9_appstream",
         "ruby.src           3.3.1-2.module+el9.4.0+90346+4cb4c4f5           ol9_appstream",
         "ruby.src           3.3.5-3.module+el9.4.0+90406+79f381be           ol9_appstream",
-        "ruby.src           3.3.8-4.module+el9.5.0+90562+4bc8f111           ol9_appstream"
+        "ruby.src           3.3.8-4.module+el9.5.0+90562+4bc8f111           ol9_appstream",
+        "ruby.src           3.3.8-4.module+el9.7.0+90671+941b9d05           ol9_appstream"
     ]
 }

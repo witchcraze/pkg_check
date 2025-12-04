@@ -2,9 +2,9 @@
     "info": {
         "Name": "postgresql16",
         "Version": "16.10",
-        "Release": "1.0.1.el10_0",
+        "Release": "1.0.1.el10_1",
         "Architecture": "src",
-        "Size": "46 M",
+        "Size": "45 M",
         "Source": "None",
         "Repository": "ol10_appstream",
         "Summary": "PostgreSQL client programs",
@@ -14,6 +14,7 @@
     },
     "list": [
         "postgresql16.src                16.8-1.0.1.el10_0                 ol10_appstream",
-        "postgresql16.src                16.10-1.0.1.el10_0                ol10_appstream"
+        "postgresql16.src                16.10-1.0.1.el10_0                ol10_appstream",
+        "postgresql16.src                16.10-1.0.1.el10_1                ol10_appstream"
     ]
 }

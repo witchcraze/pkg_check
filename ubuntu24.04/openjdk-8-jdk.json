@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openjdk-8-jdk",
-        "Version": "8u462-ga~us1-0ubuntu2~24.04.2",
+        "Version": "8u472-ga-1~24.04",
         "Priority": "optional",
         "Section": "universe/java",
         "Source": "openjdk-8",
@@ -9,24 +9,24 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Java Maintenance <pkg-java-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "4385 kB",
+        "Installed-Size": "4372 kB",
         "Provides": "java-compiler, java-sdk (= 8), java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk",
-        "Depends": "openjdk-8-jre (= 8u462-ga~us1-0ubuntu2~24.04.2), openjdk-8-jdk-headless (= 8u462-ga~us1-0ubuntu2~24.04.2), libc6 (>= 2.34), libx11-6, zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-8-jre (= 8u472-ga-1~24.04), openjdk-8-jdk-headless (= 8u472-ga-1~24.04), libc6 (>= 2.34), libx11-6, zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-8-demo, openjdk-8-source, visualvm",
         "Homepage": "https://openjdk.org/projects/jdk8u/",
-        "Download-Size": "4052 kB",
+        "Download-Size": "4099 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-8-jdk/noble-updates,noble-security 8u462-ga~us1-0ubuntu2~24.04.2 amd64",
+        "openjdk-8-jdk/noble-updates,noble-security 8u472-ga-1~24.04 amd64",
         "openjdk-8-jdk/noble 8u402-ga-8build1 amd64"
     ],
     "changelog": [
-        "openjdk-8 (8u462-ga~us1-0ubuntu2~24.04.2) noble-security; urgency=medium",
-        "openjdk-8 (8u462-ga~us1-0ubuntu2) questing; urgency=medium",
-        "openjdk-8 (8u462-ga~us1-0ubuntu1) questing; urgency=medium",
+        "openjdk-8 (8u472-ga-1~24.04) noble-security; urgency=medium",
+        "openjdk-8 (8u472-ga-1) unstable; urgency=low",
+        "openjdk-8 (8u462-ga-1) unstable; urgency=low",
         "openjdk-8 (8u452-ga-1) unstable; urgency=low",
         "openjdk-8 (8u442-ga-2) unstable; urgency=low",
         "openjdk-8 (8u442-ga-1) unstable; urgency=low",
@@ -502,6 +502,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "8u472-ga-1~24.04",
         "8u462-ga~us1-0ubuntu2~24.04.2",
         "8u452-ga~us1-0ubuntu1~24.04",
         "8u442-b06~us1-0ubuntu1~24.04",

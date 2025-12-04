@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:4.2.11-1ubuntu1.12",
+        "Version": "3:4.2.11-1ubuntu1.13",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -22,10 +22,11 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/noble-updates,noble-security 3:4.2.11-1ubuntu1.12 all",
+        "python3-django/noble-updates,noble-security 3:4.2.11-1ubuntu1.13 all",
         "python3-django/noble 3:4.2.11-1ubuntu1 all"
     ],
     "changelog": [
+        "python-django (3:4.2.11-1ubuntu1.13) noble-security; urgency=medium",
         "python-django (3:4.2.11-1ubuntu1.12) noble-security; urgency=medium",
         "python-django (3:4.2.11-1ubuntu1.11) noble-security; urgency=medium",
         "python-django (3:4.2.11-1ubuntu1.10) noble-security; urgency=medium",
@@ -310,6 +311,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:4.2.11-1ubuntu1.13",
         "3:4.2.11-1ubuntu1.12",
         "3:4.2.11-1ubuntu1.11",
         "3:4.2.11-1ubuntu1.10",

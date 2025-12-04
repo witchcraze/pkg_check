@@ -3,10 +3,10 @@
         "Name": "bind9.18",
         "Epoch": "32",
         "Version": "9.18.29",
-        "Release": "4.el9",
+        "Release": "7.el9",
         "Architecture": "x86_64",
-        "Size": "531 k",
-        "Source": "bind9.18-9.18.29-4.el9.src.rpm",
+        "Size": "532 k",
+        "Source": "bind9.18-9.18.29-7.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -14,14 +14,14 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind9.18.x86_64                    32:9.18.27-2.el9                    appstream",
         "bind9.18.x86_64                    32:9.18.29-1.el9                    appstream",
         "bind9.18.x86_64                    32:9.18.29-2.el9                    appstream",
         "bind9.18.x86_64                    32:9.18.29-3.el9                    appstream",
-        "bind9.18.x86_64                    32:9.18.29-4.el9                    appstream"
+        "bind9.18.x86_64                    32:9.18.29-4.el9                    appstream",
+        "bind9.18.x86_64                    32:9.18.29-7.el9                    appstream"
     ],
     "kojiPackages": [
-        "bind9.18-9.18.29-8.el9,draft_89541",
+        "bind9.18-9.18.29-8.el9",
         "bind9.18-9.18.29-8.el9,draft_89538",
         "bind9.18-9.18.29-7.el9",
         "bind9.18-9.18.29-5.el9",

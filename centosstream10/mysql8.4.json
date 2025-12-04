@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql8.4",
-        "Version": "8.4.6",
-        "Release": "2.el10",
+        "Version": "8.4.7",
+        "Release": "1.el10",
         "Architecture": "x86_64",
-        "Size": "2.5 M",
-        "Source": "mysql8.4-8.4.6-2.el10.src.rpm",
+        "Size": "2.6 M",
+        "Source": "mysql8.4-8.4.7-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -16,10 +16,11 @@
         "mysql8.4.x86_64                      8.4.3-2.el10                      appstream",
         "mysql8.4.x86_64                      8.4.4-1.el10                      appstream",
         "mysql8.4.x86_64                      8.4.4-2.el10                      appstream",
-        "mysql8.4.x86_64                      8.4.6-2.el10                      appstream"
+        "mysql8.4.x86_64                      8.4.6-2.el10                      appstream",
+        "mysql8.4.x86_64                      8.4.7-1.el10                      appstream"
     ],
     "kojiPackages": [
-        "mysql8.4-8.4.7-1.el10,draft_90376",
+        "mysql8.4-8.4.7-1.el10",
         "mysql8.4-8.4.6-3.el10,draft_89546",
         "mysql8.4-8.4.6-2.el10",
         "mysql8.4-8.4.4-2.el10",

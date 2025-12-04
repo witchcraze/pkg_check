@@ -2,7 +2,7 @@
     "info": {
         "Name": "postgresql",
         "Version": "16.10",
-        "Release": "1.module+el9.6.0+90645+dc18b914",
+        "Release": "1.module+el9.7.0+90687+1e28d3eb",
         "Architecture": "src",
         "Size": "46 M",
         "Source": "None",
@@ -52,6 +52,7 @@
         "postgresql.src       16.6-1.module+el9.5.0+90450+cb2feb1d          ol9_appstream",
         "postgresql.src       16.8-1.module+el9.5.0+90528+7da48ca1          ol9_appstream",
         "postgresql.src       16.8-1.module+el9.6.0+90592+523cb846          ol9_appstream",
-        "postgresql.src       16.10-1.module+el9.6.0+90645+dc18b914         ol9_appstream"
+        "postgresql.src       16.10-1.module+el9.6.0+90645+dc18b914         ol9_appstream",
+        "postgresql.src       16.10-1.module+el9.7.0+90687+1e28d3eb         ol9_appstream"
     ]
 }

@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "22.19.0",
-        "Release": "2.module+el9.6.0+32494+726e9034",
+        "Release": "2.module+el9.7.0+40018+a011993d",
         "Architecture": "x86_64",
-        "Size": "1.9 M",
-        "Source": "nodejs-22.19.0-2.module+el9.6.0+32494+726e9034.src.rpm",
+        "Size": "2.3 M",
+        "Source": "nodejs-22.19.0-2.module+el9.7.0+40018+a011993d.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -18,7 +18,11 @@
         "nodejs.x86_64                1:22.11.0-1.module+el9.5.0+29662+3d9e69a6                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                1:22.13.1-1.module+el9.5.0+30609+557cb4b3                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nodejs.x86_64                1:22.13.1-2.module+el9.5.0+31786+d18c719d                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nodejs.x86_64                1:22.19.0-2.module+el9.6.0+32494+726e9034                appstream"
+        "nodejs.x86_64                1:22.15.0-1.module+el9.6.0+32048+5323bb50                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:22.16.0-1.module+el9.6.0+32144+1d29a396                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:22.16.0-2.module+el9.6.0+32322+a8b1fd01                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:22.19.0-2.module+el9.6.0+32494+726e9034                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:22.19.0-2.module+el9.7.0+40018+a011993d                appstream"
     ],
     "kojiPackages": [
         "nodejs-22.19.0-2.module+el9.7.0+40018+a011993d"

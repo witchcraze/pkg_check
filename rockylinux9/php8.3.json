@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "8.3.19",
-        "Release": "1.module+el9.6.0+32042+808943ae",
+        "Release": "1.module+el9.7.0+40005+715283ec",
         "Architecture": "x86_64",
-        "Size": "7.9 k",
-        "Source": "php-8.3.19-1.module+el9.6.0+32042+808943ae.src.rpm",
+        "Size": "8.0 k",
+        "Source": "php-8.3.19-1.module+el9.7.0+40005+715283ec.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,7 +13,8 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64                                         8.3.19-1.module+el9.6.0+32042+808943ae                                          appstream"
+        "php.x86_64                   8.3.19-1.module+el9.6.0+32042+808943ae                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "php.x86_64                   8.3.19-1.module+el9.7.0+40005+715283ec                   appstream"
     ],
     "kojiPackages": [
         "php-8.3.19-1.module+el9.7.0+40005+715283ec"

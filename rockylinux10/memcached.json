@@ -6,14 +6,15 @@
         "Architecture": "x86_64",
         "Size": "188 k",
         "Source": "memcached-1.6.23-7.el10.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
         "License": "BSD-3-clause AND Zlib AND BSD-2-Clause AND LicenseRef-Fedora-Public-Domain",
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                                                   1.6.23-7.el10                                                   appstream"
+        "memcached.x86_64                            1.6.23-7.el10                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "memcached.x86_64                            1.6.23-7.el10                            appstream"
     ],
     "kojiPackages": [
         "memcached-1.6.23-7.el10",

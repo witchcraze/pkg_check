@@ -7,15 +7,16 @@
         "Architecture": "x86_64",
         "Size": "50 k",
         "Source": "nodejs22-22.19.0-2.el10_0.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64                                                  1:22.15.0-1.el10_0                                                  appstream",
-        "nodejs.x86_64                                                  1:22.16.0-1.el10_0                                                  appstream",
-        "nodejs.x86_64                                                  1:22.19.0-2.el10_0                                                  appstream"
+        "nodejs.x86_64                             1:22.15.0-1.el10_0                              repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "nodejs.x86_64                             1:22.16.0-1.el10_0                              repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "nodejs.x86_64                             1:22.19.0-2.el10_0                              appstream",
+        "nodejs.x86_64                             1:22.19.0-2.el10_0                              repo.almalinux.org_vault_10.0_AppStream_x86_64_os_"
     ]
 }

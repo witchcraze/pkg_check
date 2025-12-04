@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.22.1",
-        "Release": "8.module+el9.6.0+32001+2660e3dc.1",
+        "Release": "8.module+el9.7.0+40008+ca1c123e.1",
         "Architecture": "x86_64",
         "Size": "37 k",
-        "Source": "nginx-1.22.1-8.module+el9.6.0+32001+2660e3dc.1.src.rpm",
+        "Source": "nginx-1.22.1-8.module+el9.7.0+40008+ca1c123e.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -21,7 +21,8 @@
         "nginx.x86_64                1:1.22.1-5.module+el9.4.0+25558+b5a5ee39.1                dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "nginx.x86_64                1:1.22.1-8.module+el9.5.0+28935+ea1d8231                  dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "nginx.x86_64                1:1.22.1-8.module+el9.5.0+30924+a13128aa.1                dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "nginx.x86_64                1:1.22.1-8.module+el9.6.0+32001+2660e3dc.1                appstream"
+        "nginx.x86_64                1:1.22.1-8.module+el9.6.0+32001+2660e3dc.1                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.22.1-8.module+el9.7.0+40008+ca1c123e.1                appstream"
     ],
     "kojiPackages": [
         "nginx-1.22.1-8.module+el9.7.0+40008+ca1c123e.1"

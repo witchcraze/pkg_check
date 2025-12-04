@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "8.2.28",
-        "Release": "1.module+el9.6.0+32041+66e66fb7",
+        "Release": "1.module+el9.7.0+40004+bf50a568",
         "Architecture": "x86_64",
         "Size": "7.7 k",
-        "Source": "php-8.2.28-1.module+el9.6.0+32041+66e66fb7.src.rpm",
+        "Source": "php-8.2.28-1.module+el9.7.0+40004+bf50a568.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -16,7 +16,8 @@
         "php.x86_64                   8.2.13-1.module+el9.4.0+20013+b017aa8e                   dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "php.x86_64                   8.2.13-1.module+el9.4.0+20013+b017aa8e                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "php.x86_64                   8.2.25-1.module+el9.5.0+29598+58484504                   dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "php.x86_64                   8.2.28-1.module+el9.6.0+32041+66e66fb7                   appstream"
+        "php.x86_64                   8.2.28-1.module+el9.6.0+32041+66e66fb7                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "php.x86_64                   8.2.28-1.module+el9.7.0+40004+bf50a568                   appstream"
     ],
     "kojiPackages": [
         "php-8.2.28-1.module+el9.7.0+40004+bf50a568"

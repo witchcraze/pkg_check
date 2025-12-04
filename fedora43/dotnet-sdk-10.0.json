@@ -2,12 +2,12 @@
     "info": {
         "Name": "dotnet-sdk-10.0",
         "Epoch": "0",
-        "Version": "10.0.100~rc.1.25451.107",
-        "Release": "0.8.fc43",
+        "Version": "10.0.100",
+        "Release": "1.fc43",
         "Architecture": "x86_64",
-        "Download size": "97.4 MiB",
-        "Installed size": "335.3 MiB",
-        "Source": "dotnet10.0-10.0.100~rc.1.25451.107-0.8.fc43.src.rpm",
+        "Download size": "95.8 MiB",
+        "Installed size": "330.8 MiB",
+        "Source": "dotnet10.0-10.0.100-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": ".NET 10.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -16,6 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "dotnet-sdk-10.0.x86_64 10.0.100~rc.1.25451.107-0.8.fc43 updates"
+        "dotnet-sdk-10.0.x86_64 10.0.100-1.fc43 updates"
     ]
 }

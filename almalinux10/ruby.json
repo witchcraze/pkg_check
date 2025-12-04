@@ -6,14 +6,15 @@
         "Architecture": "x86_64",
         "Size": "38 k",
         "Source": "ruby-3.3.8-10.el10_0.src.rpm",
-        "Repository": "appstream",
+        "Repository": "repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
         "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.x86_64                                                    3.3.7-9.el10                                                        appstream",
-        "ruby.x86_64                                                    3.3.8-10.el10_0                                                     appstream"
+        "ruby.x86_64                                3.3.7-9.el10                                   repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "ruby.x86_64                                3.3.8-10.el10_0                                appstream",
+        "ruby.x86_64                                3.3.8-10.el10_0                                repo.almalinux.org_vault_10.0_AppStream_x86_64_os_"
     ]
 }

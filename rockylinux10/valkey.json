@@ -2,10 +2,10 @@
     "info": {
         "Name": "valkey",
         "Version": "8.0.6",
-        "Release": "1.el10_0",
+        "Release": "2.el10_1",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "valkey-8.0.6-1.el10_0.src.rpm",
+        "Source": "valkey-8.0.6-2.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
@@ -13,11 +13,14 @@
         "Description": "Valkey is an advanced key-value store. It is often referred to as a data"
     },
     "list": [
-        "valkey.x86_64                                                    8.0.3-1.el10_0                                                    appstream",
-        "valkey.x86_64                                                    8.0.4-1.el10_0                                                    appstream",
-        "valkey.x86_64                                                    8.0.6-1.el10_0                                                    appstream"
+        "valkey.x86_64                             8.0.3-1.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "valkey.x86_64                             8.0.4-1.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "valkey.x86_64                             8.0.6-1.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "valkey.x86_64                             8.0.6-1.el10_0                             appstream",
+        "valkey.x86_64                             8.0.6-2.el10_1                             appstream"
     ],
     "kojiPackages": [
+        "valkey-8.0.6-2.el10_1",
         "valkey-8.0.6-1.el10_0",
         "valkey-8.0.4-3.el10",
         "valkey-8.0.4-2.el10",

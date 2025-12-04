@@ -1,29 +1,30 @@
 {
     "show": {
         "Package": "openjdk-25-jdk",
-        "Version": "25+36-1~24.04.2",
+        "Version": "25.0.1+8-1~24.04",
         "Priority": "optional",
         "Section": "universe/java",
         "Source": "openjdk-25",
         "Origin": "Ubuntu",
-        "Maintainer": "OpenJDK Team <openjdk-25@packages.debian.org>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "OpenJDK Team <openjdk-25@packages.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "3943 kB",
+        "Installed-Size": "3954 kB",
         "Provides": "java-compiler, java-sdk (= 25)",
-        "Depends": "openjdk-25-jre (= 25+36-1~24.04.2), openjdk-25-jdk-headless (= 25+36-1~24.04.2), libc6 (>= 2.34)",
+        "Depends": "openjdk-25-jre (= 25.0.1+8-1~24.04), openjdk-25-jdk-headless (= 25.0.1+8-1~24.04), libc6 (>= 2.34)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-25-demo, openjdk-25-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
-        "Download-Size": "3711 kB",
+        "Download-Size": "3657 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/noble-updates,noble-security 25+36-1~24.04.2 amd64"
+        "openjdk-25-jdk/noble-updates,noble-security 25.0.1+8-1~24.04 amd64"
     ],
     "changelog": [
-        "openjdk-25 (25+36-1~24.04.2) noble; urgency=medium",
-        "openjdk-25 (25+36-1~24.04.1) noble; urgency=medium",
+        "openjdk-25 (25.0.1+8-1~24.04) noble-security; urgency=medium",
+        "openjdk-25 (25.0.1+8-1) unstable; urgency=medium",
         "openjdk-25 (25+36-1) unstable; urgency=medium",
         "openjdk-25 (25~36ea-1) unstable; urgency=medium",
         "openjdk-25 (25~34ea-1) unstable; urgency=medium",
@@ -598,6 +599,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "25.0.1+8-1~24.04",
         "25+36-1~24.04.2"
     ]
 }

@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "5.5",
-        "Release": "19.el9_6.1",
+        "Release": "22.el9_7.1",
         "Architecture": "x86_64",
         "Size": "3.3 M",
-        "Source": "squid-5.5-19.el9_6.1.src.rpm",
+        "Source": "squid-5.5-22.el9_7.1.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -24,7 +24,10 @@
         "squid.x86_64                           7:5.5-12.el9_4                                 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "squid.x86_64                           7:5.5-13.el9_4                                 dl.rockylinux.org_vault_rocky_9.4_AppStream_x86_64_os_",
         "squid.x86_64                           7:5.5-14.el9_5.3                               dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
-        "squid.x86_64                           7:5.5-19.el9_6.1                               appstream"
+        "squid.x86_64                           7:5.5-18.el9                                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-19.el9_6                                 dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-19.el9_6.1                               dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-22.el9_7.1                               appstream"
     ],
     "kojiPackages": [
         "squid-5.5-22.el9_7.1"

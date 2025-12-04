@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "11.5.0",
-        "Release": "5.0.1.el9_5",
+        "Release": "11.0.1.el9",
         "Architecture": "x86_64",
         "Size": "33 M",
-        "Source": "gcc-11.5.0-5.0.1.el9_5.src.rpm",
+        "Source": "gcc-11.5.0-11.0.1.el9.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -49,6 +49,10 @@
         "gcc.x86_64                 11.5.0-5.0.1.el9                   ol9_appstream",
         "gcc.src                    11.5.0-5.0.1.el9_5                 ol9_baseos_latest",
         "gcc.src                    11.5.0-5.0.1.el9_5                 ol9_appstream",
-        "gcc.x86_64                 11.5.0-5.0.1.el9_5                 ol9_appstream"
+        "gcc.x86_64                 11.5.0-5.0.1.el9_5                 ol9_appstream",
+        "gcc.src                    11.5.0-11.0.1.el9                  ol9_baseos_latest",
+        "gcc.src                    11.5.0-11.0.1.el9                  ol9_appstream",
+        "gcc.src                    11.5.0-11.0.1.el9                  ol9_u7_baseos_base",
+        "gcc.x86_64                 11.5.0-11.0.1.el9                  ol9_appstream"
     ]
 }

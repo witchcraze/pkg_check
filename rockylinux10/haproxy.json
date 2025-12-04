@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "3.0.5",
-        "Release": "4.el10",
+        "Release": "4.el10_1.1",
         "Architecture": "x86_64",
         "Size": "2.6 M",
-        "Source": "haproxy-3.0.5-4.el10.src.rpm",
+        "Source": "haproxy-3.0.5-4.el10_1.1.src.rpm",
         "Repository": "appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -13,7 +13,9 @@
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high"
     },
     "list": [
-        "haproxy.x86_64                                                    3.0.5-4.el10                                                     appstream"
+        "haproxy.x86_64                           3.0.5-4.el10                                dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "haproxy.x86_64                           3.0.5-4.el10                                appstream",
+        "haproxy.x86_64                           3.0.5-4.el10_1.1                            appstream"
     ],
     "kojiPackages": [
         "haproxy-3.0.5-4.el10_1.1",

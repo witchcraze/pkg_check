@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "2:3.2.12-2ubuntu1.23",
+        "Version": "2:3.2.12-2ubuntu1.24",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -17,15 +17,16 @@
         "Breaks": "lava-server (<< 2021.11), python-django-common, python3-django-countries (<< 7.1~), python3-django-filters (<< 2.1.0), python3-django-pyscss (<< 2.0.2-10~), python3-django-tables2 (<< 2.3.4), python3-mysqldb (<< 1.3.13)",
         "Replaces": "python-django-common",
         "Homepage": "http://www.djangoproject.com/",
-        "Download-Size": "3022 kB",
+        "Download-Size": "3023 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.23 all",
+        "python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.24 all",
         "python3-django/jammy 2:3.2.12-2ubuntu1 all"
     ],
     "changelog": [
+        "python-django (2:3.2.12-2ubuntu1.24) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.23) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.22) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.21) jammy-security; urgency=medium",
@@ -301,6 +302,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2:3.2.12-2ubuntu1.24",
         "2:3.2.12-2ubuntu1.23",
         "2:3.2.12-2ubuntu1.22",
         "2:3.2.12-2ubuntu1.21",

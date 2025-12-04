@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "gcc",
-        "Version": "14.2.1",
-        "Release": "7.el10.alma.1",
+        "Version": "14.3.1",
+        "Release": "2.1.el10.alma.1",
         "Architecture": "x86_64",
-        "Size": "37 M",
-        "Source": "gcc-14.2.1-7.el10.alma.1.src.rpm",
+        "Size": "38 M",
+        "Source": "gcc-14.3.1-2.1.el10.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -13,6 +13,7 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 14."
     },
     "list": [
-        "gcc.x86_64                                                  14.2.1-7.el10.alma.1                                                   appstream"
+        "gcc.x86_64                             14.2.1-7.el10.alma.1                               repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "gcc.x86_64                             14.3.1-2.1.el10.alma.1                             appstream"
     ]
 }

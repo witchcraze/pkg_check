@@ -7,15 +7,16 @@
         "Architecture": "x86_64",
         "Size": "13 k",
         "Source": "perl-5.40.2-512.2.el10_0.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
         "License": "GPL-1.0-or-later OR Artistic-1.0-Perl",
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.x86_64                                                 4:5.40.2-512.1.el10_0                                                  appstream",
-        "perl.x86_64                                                 4:5.40.2-512.2.el10_0                                                  appstream"
+        "perl.x86_64                          4:5.40.2-512.1.el10_0                           dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "perl.x86_64                          4:5.40.2-512.2.el10_0                           dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "perl.x86_64                          4:5.40.2-512.2.el10_0                           appstream"
     ],
     "kojiPackages": [
         "perl-5.40.2-512.2.el10_0",

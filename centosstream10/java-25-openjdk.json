@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-25-openjdk",
         "Epoch": "1",
-        "Version": "22.0.2.0.9",
-        "Release": "1.el10",
+        "Version": "25.0.1.0.8",
+        "Release": "2.el10",
         "Architecture": "x86_64",
-        "Size": "415 k",
-        "Source": "java-25-openjdk-22.0.2.0.9-1.el10.src.rpm",
+        "Size": "378 k",
+        "Source": "java-25-openjdk-25.0.1.0.8-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -14,9 +14,15 @@
         "Description": "The OpenJDK 25 runtime environment."
     },
     "list": [
-        "java-25-openjdk.x86_64               1:22.0.2.0.9-1.el10               appstream"
+        "java-25-openjdk.x86_64               1:22.0.2.0.9-1.el10               appstream",
+        "java-25-openjdk.x86_64               1:25.0.1.0.8-2.el10               appstream"
     ],
     "kojiPackages": [
+        "java-25-openjdk-25.0.1.0.8-4.el10",
+        "java-25-openjdk-25.0.1.0.8-4.el10,draft_91036",
+        "java-25-openjdk-25.0.1.0.8-5.el10,draft_91037",
+        "java-25-openjdk-25.0.1.0.8-4.el10,draft_91032",
+        "java-25-openjdk-25.0.1.0.8-3.el10",
         "java-25-openjdk-25.0.1.0.8-2.el10",
         "java-25-openjdk-25.0.1.0.8-1.el10",
         "java-25-openjdk-24.0.2.0.12-1.el10",

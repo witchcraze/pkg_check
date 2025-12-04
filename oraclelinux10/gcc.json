@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "gcc",
-        "Version": "14.2.1",
-        "Release": "7.el10",
+        "Version": "14.3.1",
+        "Release": "2.1.el10",
         "Architecture": "x86_64",
-        "Size": "37 M",
-        "Source": "gcc-14.2.1-7.el10.src.rpm",
+        "Size": "38 M",
+        "Source": "gcc-14.3.1-2.1.el10.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -13,9 +13,13 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 14."
     },
     "list": [
-        "gcc.src                      14.2.1-7.el10                   ol10_baseos_latest",
-        "gcc.src                      14.2.1-7.el10                   ol10_appstream",
-        "gcc.src                      14.2.1-7.el10                   ol10_u0_baseos_base",
-        "gcc.x86_64                   14.2.1-7.el10                   ol10_appstream"
+        "gcc.src                     14.2.1-7.el10                    ol10_baseos_latest",
+        "gcc.src                     14.2.1-7.el10                    ol10_appstream",
+        "gcc.src                     14.2.1-7.el10                    ol10_u0_baseos_base",
+        "gcc.x86_64                  14.2.1-7.el10                    ol10_appstream",
+        "gcc.src                     14.3.1-2.1.el10                  ol10_baseos_latest",
+        "gcc.src                     14.3.1-2.1.el10                  ol10_appstream",
+        "gcc.src                     14.3.1-2.1.el10                  ol10_u1_baseos_base",
+        "gcc.x86_64                  14.3.1-2.1.el10                  ol10_appstream"
     ]
 }

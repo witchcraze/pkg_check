@@ -2,16 +2,16 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.19.0",
-        "Release": "2.module+el9.6.0+90668+317a0f5a",
+        "Version": "24.4.1",
+        "Release": "7.module+el9.7.0+90708+1a6713ab",
         "Architecture": "src",
-        "Size": "91 M",
+        "Size": "93 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
-        "URL": "http://nodejs.org/",
+        "URL": "https://nodejs.org",
         "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
-        "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
         "nodejs.src         1:16.14.0-4.el9_0                               ol9_appstream",
@@ -65,6 +65,7 @@
         "nodejs.src         1:20.18.2-2.module+el9.5.0+90567+0da4fe16       ol9_appstream",
         "nodejs.src         1:20.19.1-1.module+el9.6.0+90590+fd42b52a       ol9_appstream",
         "nodejs.src         1:20.19.2-1.module+el9.6.0+90603+e4b3d4d2       ol9_appstream",
+        "nodejs.src         1:20.19.5-1.module+el9.6.0+90688+3c7852a3       ol9_appstream",
         "nodejs.src         1:20.19.5-1.module+el9.6.0+90698+ddd6dd09       ol9_appstream",
         "nodejs.src         1:22.4.1-4.module+el9.5.0+90420+c6d0e71c        ol9_appstream",
         "nodejs.src         1:22.11.0-1.module+el9.5.0+90487+94ea5438       ol9_appstream",
@@ -73,6 +74,8 @@
         "nodejs.src         1:22.15.0-1.module+el9.6.0+90588+1a9ecb62       ol9_appstream",
         "nodejs.src         1:22.16.0-1.module+el9.6.0+90604+9071ea19       ol9_appstream",
         "nodejs.src         1:22.16.0-2.module+el9.6.0+90635+2adf922b       ol9_appstream",
-        "nodejs.src         1:22.19.0-2.module+el9.6.0+90668+317a0f5a       ol9_appstream"
+        "nodejs.src         1:22.19.0-2.module+el9.6.0+90668+317a0f5a       ol9_appstream",
+        "nodejs.src         1:24.4.1-6.module+el9.7.0+90686+6eedad4d        ol9_appstream",
+        "nodejs.src         1:24.4.1-7.module+el9.7.0+90708+1a6713ab        ol9_appstream"
     ]
 }
