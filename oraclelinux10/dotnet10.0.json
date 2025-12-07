@@ -14,6 +14,7 @@
     },
     "list": [
         "dotnet10.0.src    10.0.100~preview.7.25380.108-0.9.0.1.el10_1     ol10_appstream",
+        "dotnet10.0.src    10.0.100~rc.2.25502.107-0.12.0.1.el10_1         ol10_appstream",
         "dotnet10.0.src    10.0.100-2.0.1.el10_1                           ol10_appstream"
     ]
 }

@@ -2,11 +2,11 @@
     "info": {
         "Name": "valkey",
         "Version": "8.0.6",
-        "Release": "1.el10_0",
+        "Release": "2.el10_1",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "valkey-8.0.6-1.el10_0.src.rpm",
-        "Repository": "repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "Source": "valkey-8.0.6-2.el10_1.src.rpm",
+        "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://valkey.io",
         "License": "BSD-3-Clause AND BSD-2-Clause AND MIT AND BSL-1.0",
@@ -16,6 +16,7 @@
         "valkey.x86_64                               8.0.3-1.el10_0                                repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "valkey.x86_64                               8.0.4-1.el10_0                                repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "valkey.x86_64                               8.0.6-1.el10_0                                appstream",
-        "valkey.x86_64                               8.0.6-1.el10_0                                repo.almalinux.org_vault_10.0_AppStream_x86_64_os_"
+        "valkey.x86_64                               8.0.6-1.el10_0                                repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "valkey.x86_64                               8.0.6-2.el10_1                                appstream"
     ]
 }

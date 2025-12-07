@@ -20,6 +20,7 @@
         "dotnet-sdk-9.0.x86_64            9.0.109-2.0.1.el10               ol10_appstream",
         "dotnet-sdk-9.0.x86_64            9.0.110-1.0.1.el10_0             ol10_appstream",
         "dotnet-sdk-9.0.x86_64            9.0.111-1.0.1.el10_0             ol10_appstream",
+        "dotnet-sdk-9.0.x86_64            9.0.111-2.0.1.el10_1             ol10_appstream",
         "dotnet-sdk-9.0.x86_64            9.0.112-1.0.1.el10_1             ol10_appstream"
     ]
 }

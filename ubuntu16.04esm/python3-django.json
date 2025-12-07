@@ -1,26 +1,27 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "1.8.7-1ubuntu5.15+esm9",
+        "Version": "1.8.7-1ubuntu5.15+esm10",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>",
-        "Installed-Size": "9283 kB",
-        "Depends": "python3:any (>= 3.3.2-2~), python-django-common (= 1.8.7-1ubuntu5.15+esm9)",
+        "Installed-Size": "9284 kB",
+        "Depends": "python3:any (>= 3.3.2-2~), python-django-common (= 1.8.7-1ubuntu5.15+esm10)",
         "Recommends": "libjs-jquery, python3-sqlparse, python3-tz",
         "Suggests": "python3-psycopg2, python3-pymysql, python3-flup, python3-sqlite, python3-memcache, python3-pil, python3-bcrypt, python3-yaml, geoip-database-contrib, gettext, python-django-doc, ipython3, bpython3, libgdal1",
-        "Download-Size": "867 kB",
+        "Download-Size": "863 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "High-level Python web development framework (Python 3 version)"
     },
     "list": [
-        "python3-django/xenial-infra-security 1.8.7-1ubuntu5.15+esm9 all",
+        "python3-django/xenial-infra-security 1.8.7-1ubuntu5.15+esm10 all",
         "python3-django/xenial-updates,xenial-security 1.8.7-1ubuntu5.15 all",
         "python3-django/xenial 1.8.7-1ubuntu5 all"
     ],
     "changelog": [
+        "python-django (1.8.7-1ubuntu5.15+esm10) xenial-security; urgency=medium",
         "python-django (1.8.7-1ubuntu5.15+esm9) xenial-security; urgency=medium",
         "python-django (1.8.7-1ubuntu5.15+esm8) xenial-security; urgency=medium",
         "python-django (1.8.7-1ubuntu5.15+esm7) xenial-security; urgency=medium",

@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql",
         "Epoch": "0",
-        "Version": "18.0",
+        "Version": "18.1",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "2.0 MiB",
         "Installed size": "8.3 MiB",
-        "Source": "postgresql18-18.0-1.fc43.src.rpm",
+        "Source": "postgresql18-18.1-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -18,7 +18,7 @@
     "list": [
         "postgresql.i686   18beta1-4.fc43 fedora",
         "postgresql.x86_64 18beta1-4.fc43 fedora",
-        "postgresql.i686   18.0-1.fc43    updates",
-        "postgresql.x86_64 18.0-1.fc43    updates"
+        "postgresql.i686   18.1-1.fc43    updates",
+        "postgresql.x86_64 18.1-1.fc43    updates"
     ]
 }

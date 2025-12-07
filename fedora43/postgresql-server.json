@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql-server",
         "Epoch": "0",
-        "Version": "18.0",
+        "Version": "18.1",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "7.5 MiB",
         "Installed size": "31.7 MiB",
-        "Source": "postgresql18-18.0-1.fc43.src.rpm",
+        "Source": "postgresql18-18.1-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -18,7 +18,7 @@
     "list": [
         "postgresql-server.i686   18beta1-4.fc43 fedora",
         "postgresql-server.x86_64 18beta1-4.fc43 fedora",
-        "postgresql-server.i686   18.0-1.fc43    updates",
-        "postgresql-server.x86_64 18.0-1.fc43    updates"
+        "postgresql-server.i686   18.1-1.fc43    updates",
+        "postgresql-server.x86_64 18.1-1.fc43    updates"
     ]
 }

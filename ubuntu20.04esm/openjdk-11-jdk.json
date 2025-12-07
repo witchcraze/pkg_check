@@ -1,30 +1,31 @@
 {
     "show": {
         "Package": "openjdk-11-jdk",
-        "Version": "11.0.28+6-1ubuntu1~20.04.1",
+        "Version": "11.0.29+7-1ubuntu1~20.04",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-lts",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "OpenJDK Team <openjdk@lists.launchpad.net>",
-        "Installed-Size": "1404 kB",
+        "Installed-Size": "1407 kB",
         "Provides": "java-compiler, java-sdk (= 11), java10-sdk, java11-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",
-        "Depends": "openjdk-11-jre (= 11.0.28+6-1ubuntu1~20.04.1), openjdk-11-jdk-headless (= 11.0.28+6-1ubuntu1~20.04.1), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
+        "Depends": "openjdk-11-jre (= 11.0.29+7-1ubuntu1~20.04), openjdk-11-jdk-headless (= 11.0.29+7-1ubuntu1~20.04), libc6 (>= 2.2.5), zlib1g (>= 1:1.1.4)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-11-demo, openjdk-11-source, visualvm",
         "Conflicts": "openjdk-11-jre-headless (<< 11~19-2)",
         "Replaces": "openjdk-11-jre-headless (<< 11~19-2)",
-        "Download-Size": "1346 kB",
+        "Download-Size": "1348 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu focal-infra-security/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-11-jdk/focal-infra-security 11.0.28+6-1ubuntu1~20.04.1 amd64",
+        "openjdk-11-jdk/focal-infra-security 11.0.29+7-1ubuntu1~20.04 amd64",
         "openjdk-11-jdk/focal-updates,focal-security 11.0.27+6~us1-0ubuntu1~20.04 amd64",
         "openjdk-11-jdk/focal 11.0.7+10-3ubuntu1 amd64"
     ],
     "changelog": [
-        "openjdk-lts (11.0.28+6-1ubuntu1~20.04.1) focal-security; urgency=medium",
+        "openjdk-lts (11.0.29+7-1ubuntu1~20.04) focal-security; urgency=medium",
+        "openjdk-lts (11.0.29+7-1ubuntu1) resolute; urgency=medium",
         "openjdk-lts (11.0.28+6-1ubuntu1) questing; urgency=medium",
         "openjdk-lts (11.0.28~5ea-1ubuntu2) questing; urgency=medium",
         "openjdk-lts (11.0.28~5ea-1ubuntu1) questing; urgency=medium",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.24.6",
-        "Release": "1.module+el8.10.0+90641+f7c45302",
+        "Version": "1.25.3",
+        "Release": "2.module+el8.10.0+90715+2d4d8dfd",
         "Architecture": "x86_64",
         "Size": "1.3 M",
-        "Source": "golang-1.24.6-1.module+el8.10.0+90641+f7c45302.src.rpm",
+        "Source": "golang-1.25.3-2.module+el8.10.0+90715+2d4d8dfd.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "The Go Programming Language",
         "URL": "http://golang.org/",
@@ -54,6 +54,7 @@
         "golang.x86_64                                   1.23.6-1.module+el8.10.0+90545+447bd9e4                                        ol8_appstream",
         "golang.x86_64                                   1.23.9-1.module+el8.10.0+90602+3daf471e                                        ol8_appstream",
         "golang.x86_64                                   1.24.4-1.module+el8.10.0+90631+36e43025                                        ol8_appstream",
-        "golang.x86_64                                   1.24.6-1.module+el8.10.0+90641+f7c45302                                        ol8_appstream"
+        "golang.x86_64                                   1.24.6-1.module+el8.10.0+90641+f7c45302                                        ol8_appstream",
+        "golang.x86_64                                   1.25.3-2.module+el8.10.0+90715+2d4d8dfd                                        ol8_appstream"
     ]
 }
