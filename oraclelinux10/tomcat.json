@@ -3,7 +3,7 @@
         "Name": "tomcat",
         "Epoch": "1",
         "Version": "10.1.36",
-        "Release": "3.el10",
+        "Release": "3.el10_1.1",
         "Architecture": "src",
         "Size": "16 M",
         "Source": "None",
@@ -14,13 +14,15 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat.noarch                1:10.1.8-2.el10                      ol10_appstream",
-        "tomcat.src                   1:10.1.8-2.el10                      ol10_appstream",
-        "tomcat.noarch                1:10.1.36-1.el10_0                   ol10_appstream",
-        "tomcat.src                   1:10.1.36-1.el10_0                   ol10_appstream",
-        "tomcat.noarch                1:10.1.36-1.el10_0.2                 ol10_appstream",
-        "tomcat.src                   1:10.1.36-1.el10_0.2                 ol10_appstream",
-        "tomcat.noarch                1:10.1.36-3.el10                     ol10_appstream",
-        "tomcat.src                   1:10.1.36-3.el10                     ol10_appstream"
+        "tomcat.noarch                                              1:10.1.8-2.el10                                                    ol10_appstream",
+        "tomcat.src                                                 1:10.1.8-2.el10                                                    ol10_appstream",
+        "tomcat.noarch                                              1:10.1.36-1.el10_0                                                 ol10_appstream",
+        "tomcat.src                                                 1:10.1.36-1.el10_0                                                 ol10_appstream",
+        "tomcat.noarch                                              1:10.1.36-1.el10_0.2                                               ol10_appstream",
+        "tomcat.src                                                 1:10.1.36-1.el10_0.2                                               ol10_appstream",
+        "tomcat.noarch                                              1:10.1.36-3.el10                                                   ol10_appstream",
+        "tomcat.src                                                 1:10.1.36-3.el10                                                   ol10_appstream",
+        "tomcat.noarch                                              1:10.1.36-3.el10_1.1                                               ol10_appstream",
+        "tomcat.src                                                 1:10.1.36-3.el10_1.1                                               ol10_appstream"
     ]
 }

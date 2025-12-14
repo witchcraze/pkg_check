@@ -14,9 +14,9 @@
         "Description": "The OpenJDK 25 runtime environment."
     },
     "list": [
-        "java-25-openjdk.src             1:22.0.2.0.9-1.0.1.el10           ol10_appstream",
-        "java-25-openjdk.x86_64          1:22.0.2.0.9-1.0.1.el10           ol10_appstream",
-        "java-25-openjdk.src             1:25.0.1.0.8-2.0.1.el10           ol10_appstream",
-        "java-25-openjdk.x86_64          1:25.0.1.0.8-2.0.1.el10           ol10_appstream"
+        "java-25-openjdk.src                                           1:22.0.2.0.9-1.0.1.el10                                         ol10_appstream",
+        "java-25-openjdk.x86_64                                        1:22.0.2.0.9-1.0.1.el10                                         ol10_appstream",
+        "java-25-openjdk.src                                           1:25.0.1.0.8-2.0.1.el10                                         ol10_appstream",
+        "java-25-openjdk.x86_64                                        1:25.0.1.0.8-2.0.1.el10                                         ol10_appstream"
     ]
 }

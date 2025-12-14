@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql8.4",
-        "Version": "8.4.6",
-        "Release": "2.el10_0",
+        "Version": "8.4.7",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "2.7 M",
-        "Source": "mysql8.4-8.4.6-2.el10_0.src.rpm",
+        "Size": "2.6 M",
+        "Source": "mysql8.4-8.4.7-1.el10_1.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -13,9 +13,11 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql8.4.src                     8.4.4-2.el10                     ol10_appstream",
-        "mysql8.4.x86_64                  8.4.4-2.el10                     ol10_appstream",
-        "mysql8.4.src                     8.4.6-2.el10_0                   ol10_appstream",
-        "mysql8.4.x86_64                  8.4.6-2.el10_0                   ol10_appstream"
+        "mysql8.4.src                                                   8.4.4-2.el10                                                   ol10_appstream",
+        "mysql8.4.x86_64                                                8.4.4-2.el10                                                   ol10_appstream",
+        "mysql8.4.src                                                   8.4.6-2.el10_0                                                 ol10_appstream",
+        "mysql8.4.x86_64                                                8.4.6-2.el10_0                                                 ol10_appstream",
+        "mysql8.4.src                                                   8.4.7-1.el10_1                                                 ol10_appstream",
+        "mysql8.4.x86_64                                                8.4.7-1.el10_1                                                 ol10_appstream"
     ]
 }

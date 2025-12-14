@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3",
         "Epoch": "0",
-        "Version": "3.14.0",
-        "Release": "2.fc43",
+        "Version": "3.14.2",
+        "Release": "1.fc43",
         "Architecture": "x86_64",
-        "Download size": "27.7 KiB",
+        "Download size": "27.8 KiB",
         "Installed size": "28.9 KiB",
-        "Source": "python3.14-3.14.0-2.fc43.src.rpm",
+        "Source": "python3.14-3.14.2-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Python 3.14 interpreter",
         "URL": "https://www.python.org/",
@@ -18,7 +18,7 @@
     "list": [
         "python3.i686   3.14.0-1.fc43 fedora",
         "python3.x86_64 3.14.0-1.fc43 fedora",
-        "python3.i686   3.14.0-2.fc43 updates",
-        "python3.x86_64 3.14.0-2.fc43 updates"
+        "python3.i686   3.14.2-1.fc43 updates",
+        "python3.x86_64 3.14.2-1.fc43 updates"
     ]
 }

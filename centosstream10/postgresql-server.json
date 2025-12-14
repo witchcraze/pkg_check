@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql-server",
         "Version": "16.10",
-        "Release": "1.el10",
+        "Release": "3.el10",
         "Architecture": "x86_64",
         "Size": "7.0 M",
-        "Source": "postgresql16-16.10-1.el10.src.rpm",
+        "Source": "postgresql16-16.10-3.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -13,10 +13,10 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                 16.4-3.el10                   appstream",
         "postgresql-server.x86_64                 16.6-1.el10                   appstream",
         "postgresql-server.x86_64                 16.8-1.el10                   appstream",
         "postgresql-server.x86_64                 16.8-2.el10                   appstream",
-        "postgresql-server.x86_64                 16.10-1.el10                  appstream"
+        "postgresql-server.x86_64                 16.10-1.el10                  appstream",
+        "postgresql-server.x86_64                 16.10-3.el10                  appstream"
     ]
 }

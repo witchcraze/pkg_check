@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.6",
-        "Release": "1.module+el9.6.0+90673+e6b08fe8",
+        "Version": "8.4.7",
+        "Release": "1.module+el9.7.0+90722+c8e17c0f",
         "Architecture": "src",
-        "Size": "454 M",
+        "Size": "453 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "MySQL client programs and shared libraries",
@@ -13,19 +13,22 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.src            8.0.28-1.el9                                  ol9_appstream",
-        "mysql.x86_64         8.0.28-1.el9                                  ol9_appstream",
-        "mysql.src            8.0.30-3.el9_0                                ol9_appstream",
-        "mysql.x86_64         8.0.30-3.el9_0                                ol9_appstream",
-        "mysql.src            8.0.32-1.el9_2                                ol9_appstream",
-        "mysql.x86_64         8.0.32-1.el9_2                                ol9_appstream",
-        "mysql.src            8.0.36-1.el9_3                                ol9_appstream",
-        "mysql.x86_64         8.0.36-1.el9_3                                ol9_appstream",
-        "mysql.src            8.0.41-2.el9_5                                ol9_appstream",
-        "mysql.x86_64         8.0.41-2.el9_5                                ol9_appstream",
-        "mysql.src            8.0.43-1.el9_6                                ol9_appstream",
-        "mysql.x86_64         8.0.43-1.el9_6                                ol9_appstream",
-        "mysql.src            8.4.4-1.module+el9.6.0+90539+da437dfb         ol9_appstream",
-        "mysql.src            8.4.6-1.module+el9.6.0+90673+e6b08fe8         ol9_appstream"
+        "mysql.src                                          8.0.28-1.el9                                                                ol9_appstream",
+        "mysql.x86_64                                       8.0.28-1.el9                                                                ol9_appstream",
+        "mysql.src                                          8.0.30-3.el9_0                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.30-3.el9_0                                                              ol9_appstream",
+        "mysql.src                                          8.0.32-1.el9_2                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.32-1.el9_2                                                              ol9_appstream",
+        "mysql.src                                          8.0.36-1.el9_3                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.36-1.el9_3                                                              ol9_appstream",
+        "mysql.src                                          8.0.41-2.el9_5                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.41-2.el9_5                                                              ol9_appstream",
+        "mysql.src                                          8.0.43-1.el9_6                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.43-1.el9_6                                                              ol9_appstream",
+        "mysql.src                                          8.0.44-1.el9_7                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.44-1.el9_7                                                              ol9_appstream",
+        "mysql.src                                          8.4.4-1.module+el9.6.0+90539+da437dfb                                       ol9_appstream",
+        "mysql.src                                          8.4.6-1.module+el9.6.0+90673+e6b08fe8                                       ol9_appstream",
+        "mysql.src                                          8.4.7-1.module+el9.7.0+90722+c8e17c0f                                       ol9_appstream"
     ]
 }

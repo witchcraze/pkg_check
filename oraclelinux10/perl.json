@@ -14,11 +14,11 @@
         "Description": "Perl is a high-level programming language with roots in C, sed, awk and shell"
     },
     "list": [
-        "perl.src                    4:5.40.1-512.el10                     ol10_appstream",
-        "perl.x86_64                 4:5.40.1-512.el10                     ol10_appstream",
-        "perl.src                    4:5.40.2-512.1.el10_0                 ol10_appstream",
-        "perl.x86_64                 4:5.40.2-512.1.el10_0                 ol10_appstream",
-        "perl.src                    4:5.40.2-512.2.el10_0                 ol10_appstream",
-        "perl.x86_64                 4:5.40.2-512.2.el10_0                 ol10_appstream"
+        "perl.src                                                  4:5.40.1-512.el10                                                   ol10_appstream",
+        "perl.x86_64                                               4:5.40.1-512.el10                                                   ol10_appstream",
+        "perl.src                                                  4:5.40.2-512.1.el10_0                                               ol10_appstream",
+        "perl.x86_64                                               4:5.40.2-512.1.el10_0                                               ol10_appstream",
+        "perl.src                                                  4:5.40.2-512.2.el10_0                                               ol10_appstream",
+        "perl.x86_64                                               4:5.40.2-512.2.el10_0                                               ol10_appstream"
     ]
 }

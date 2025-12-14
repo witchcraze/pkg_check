@@ -13,14 +13,14 @@
         "Description": ".NET is a fast, lightweight and modular platform for creating"
     },
     "list": [
-        "dotnet9.0.src                9.0.103-2.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.107-1.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.108-1.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.109-1.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.109-2.0.1.el10                   ol10_appstream",
-        "dotnet9.0.src                9.0.110-1.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.111-1.0.1.el10_0                 ol10_appstream",
-        "dotnet9.0.src                9.0.111-2.0.1.el10_1                 ol10_appstream",
-        "dotnet9.0.src                9.0.112-1.0.1.el10_1                 ol10_appstream"
+        "dotnet9.0.src                                              9.0.103-2.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.107-1.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.108-1.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.109-1.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.109-2.0.1.el10                                                 ol10_appstream",
+        "dotnet9.0.src                                              9.0.110-1.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.111-1.0.1.el10_0                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.111-2.0.1.el10_1                                               ol10_appstream",
+        "dotnet9.0.src                                              9.0.112-1.0.1.el10_1                                               ol10_appstream"
     ]
 }

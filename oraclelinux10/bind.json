@@ -14,15 +14,15 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind.src                 32:9.18.33-3.0.1.el10                    ol10_appstream",
-        "bind.x86_64              32:9.18.33-3.0.1.el10                    ol10_appstream",
-        "bind.src                 32:9.18.33-4.0.1.el10_0                  ol10_appstream",
-        "bind.x86_64              32:9.18.33-4.0.1.el10_0                  ol10_appstream",
-        "bind.src                 32:9.18.33-4.0.1.el10_0.2                ol10_appstream",
-        "bind.x86_64              32:9.18.33-4.0.1.el10_0.2                ol10_appstream",
-        "bind.src                 32:9.18.33-5.0.1.el10                    ol10_appstream",
-        "bind.x86_64              32:9.18.33-5.0.1.el10                    ol10_appstream",
-        "bind.src                 32:9.18.33-10.0.1.el10_1.2               ol10_appstream",
-        "bind.x86_64              32:9.18.33-10.0.1.el10_1.2               ol10_appstream"
+        "bind.src                                               32:9.18.33-3.0.1.el10                                                  ol10_appstream",
+        "bind.x86_64                                            32:9.18.33-3.0.1.el10                                                  ol10_appstream",
+        "bind.src                                               32:9.18.33-4.0.1.el10_0                                                ol10_appstream",
+        "bind.x86_64                                            32:9.18.33-4.0.1.el10_0                                                ol10_appstream",
+        "bind.src                                               32:9.18.33-4.0.1.el10_0.2                                              ol10_appstream",
+        "bind.x86_64                                            32:9.18.33-4.0.1.el10_0.2                                              ol10_appstream",
+        "bind.src                                               32:9.18.33-5.0.1.el10                                                  ol10_appstream",
+        "bind.x86_64                                            32:9.18.33-5.0.1.el10                                                  ol10_appstream",
+        "bind.src                                               32:9.18.33-10.0.1.el10_1.2                                             ol10_appstream",
+        "bind.x86_64                                            32:9.18.33-10.0.1.el10_1.2                                             ol10_appstream"
     ]
 }

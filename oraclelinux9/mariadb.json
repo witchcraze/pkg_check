@@ -14,17 +14,17 @@
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.src        3:10.5.13-2.el9                                 ol9_appstream",
-        "mariadb.x86_64     3:10.5.13-2.el9                                 ol9_appstream",
-        "mariadb.src        3:10.5.16-2.el9_0                               ol9_appstream",
-        "mariadb.x86_64     3:10.5.16-2.el9_0                               ol9_appstream",
-        "mariadb.src        3:10.5.22-1.el9_2                               ol9_appstream",
-        "mariadb.x86_64     3:10.5.22-1.el9_2                               ol9_appstream",
-        "mariadb.src        3:10.5.27-1.el9_5                               ol9_appstream",
-        "mariadb.x86_64     3:10.5.27-1.el9_5                               ol9_appstream",
-        "mariadb.src        3:10.5.29-2.el9_6                               ol9_appstream",
-        "mariadb.x86_64     3:10.5.29-2.el9_6                               ol9_appstream",
-        "mariadb.src        3:10.11.6-1.module+el9.4.0+90263+8ac000cb       ol9_appstream",
-        "mariadb.src        3:10.11.10-1.module+el9.5.0+90507+82ceef20      ol9_appstream"
+        "mariadb.src                                      3:10.5.13-2.el9                                                               ol9_appstream",
+        "mariadb.x86_64                                   3:10.5.13-2.el9                                                               ol9_appstream",
+        "mariadb.src                                      3:10.5.16-2.el9_0                                                             ol9_appstream",
+        "mariadb.x86_64                                   3:10.5.16-2.el9_0                                                             ol9_appstream",
+        "mariadb.src                                      3:10.5.22-1.el9_2                                                             ol9_appstream",
+        "mariadb.x86_64                                   3:10.5.22-1.el9_2                                                             ol9_appstream",
+        "mariadb.src                                      3:10.5.27-1.el9_5                                                             ol9_appstream",
+        "mariadb.x86_64                                   3:10.5.27-1.el9_5                                                             ol9_appstream",
+        "mariadb.src                                      3:10.5.29-2.el9_6                                                             ol9_appstream",
+        "mariadb.x86_64                                   3:10.5.29-2.el9_6                                                             ol9_appstream",
+        "mariadb.src                                      3:10.11.6-1.module+el9.4.0+90263+8ac000cb                                     ol9_appstream",
+        "mariadb.src                                      3:10.11.10-1.module+el9.5.0+90507+82ceef20                                    ol9_appstream"
     ]
 }

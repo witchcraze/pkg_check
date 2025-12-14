@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.8",
-        "Release": "10.el10_0",
+        "Version": "3.3.10",
+        "Release": "11.el10_1",
         "Architecture": "x86_64",
-        "Size": "101 k",
-        "Source": "ruby-3.3.8-10.el10_0.src.rpm",
+        "Size": "102 k",
+        "Source": "ruby-3.3.10-11.el10_1.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,9 +13,11 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.src                       3.3.7-9.el10                       ol10_appstream",
-        "ruby.x86_64                    3.3.7-9.el10                       ol10_appstream",
-        "ruby.src                       3.3.8-10.el10_0                    ol10_appstream",
-        "ruby.x86_64                    3.3.8-10.el10_0                    ol10_appstream"
+        "ruby.src                                                    3.3.7-9.el10                                                      ol10_appstream",
+        "ruby.x86_64                                                 3.3.7-9.el10                                                      ol10_appstream",
+        "ruby.src                                                    3.3.8-10.el10_0                                                   ol10_appstream",
+        "ruby.x86_64                                                 3.3.8-10.el10_0                                                   ol10_appstream",
+        "ruby.src                                                    3.3.10-11.el10_1                                                  ol10_appstream",
+        "ruby.x86_64                                                 3.3.10-11.el10_1                                                  ol10_appstream"
     ]
 }

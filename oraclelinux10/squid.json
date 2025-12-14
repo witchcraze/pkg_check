@@ -14,9 +14,9 @@
         "Description": "Squid is a high-performance proxy caching server for Web clients,"
     },
     "list": [
-        "squid.src                     7:6.10-5.el10                       ol10_appstream",
-        "squid.x86_64                  7:6.10-5.el10                       ol10_appstream",
-        "squid.src                     7:6.10-6.el10_1.1                   ol10_appstream",
-        "squid.x86_64                  7:6.10-6.el10_1.1                   ol10_appstream"
+        "squid.src                                                   7:6.10-5.el10                                                     ol10_appstream",
+        "squid.x86_64                                                7:6.10-5.el10                                                     ol10_appstream",
+        "squid.src                                                   7:6.10-6.el10_1.1                                                 ol10_appstream",
+        "squid.x86_64                                                7:6.10-6.el10_1.1                                                 ol10_appstream"
     ]
 }

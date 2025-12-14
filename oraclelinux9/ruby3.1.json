@@ -13,15 +13,15 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686          3.1.2-141.module+el9.1.0+20815+286161bd         ol9_appstream",
-        "ruby.x86_64        3.1.2-141.module+el9.1.0+20815+286161bd         ol9_appstream",
-        "ruby.i686          3.1.4-143.module+el9.3.0+90207+bf8fadcb         ol9_appstream",
-        "ruby.x86_64        3.1.4-143.module+el9.3.0+90207+bf8fadcb         ol9_appstream",
-        "ruby.i686          3.1.5-144.module+el9.4.0+90348+c2ef46bf         ol9_appstream",
-        "ruby.x86_64        3.1.5-144.module+el9.4.0+90348+c2ef46bf         ol9_appstream",
-        "ruby.i686          3.1.5-145.module+el9.5.0+90461+45a3a727         ol9_appstream",
-        "ruby.x86_64        3.1.5-145.module+el9.5.0+90461+45a3a727         ol9_appstream",
-        "ruby.i686          3.1.7-146.module+el9.5.0+90564+273a1edd         ol9_appstream",
-        "ruby.x86_64        3.1.7-146.module+el9.5.0+90564+273a1edd         ol9_appstream"
+        "ruby.i686                                        3.1.2-141.module+el9.1.0+20815+286161bd                                       ol9_appstream",
+        "ruby.x86_64                                      3.1.2-141.module+el9.1.0+20815+286161bd                                       ol9_appstream",
+        "ruby.i686                                        3.1.4-143.module+el9.3.0+90207+bf8fadcb                                       ol9_appstream",
+        "ruby.x86_64                                      3.1.4-143.module+el9.3.0+90207+bf8fadcb                                       ol9_appstream",
+        "ruby.i686                                        3.1.5-144.module+el9.4.0+90348+c2ef46bf                                       ol9_appstream",
+        "ruby.x86_64                                      3.1.5-144.module+el9.4.0+90348+c2ef46bf                                       ol9_appstream",
+        "ruby.i686                                        3.1.5-145.module+el9.5.0+90461+45a3a727                                       ol9_appstream",
+        "ruby.x86_64                                      3.1.5-145.module+el9.5.0+90461+45a3a727                                       ol9_appstream",
+        "ruby.i686                                        3.1.7-146.module+el9.5.0+90564+273a1edd                                       ol9_appstream",
+        "ruby.x86_64                                      3.1.7-146.module+el9.5.0+90564+273a1edd                                       ol9_appstream"
     ]
 }

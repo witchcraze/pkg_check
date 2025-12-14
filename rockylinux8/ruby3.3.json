@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.8",
-        "Release": "4.module+el8.10.0+2004+fd6e8d72",
+        "Version": "3.3.10",
+        "Release": "5.module+el8.10.0+40038+e29e4152",
         "Architecture": "x86_64",
-        "Size": "88 k",
-        "Source": "ruby-3.3.8-4.module+el8.10.0+2004+fd6e8d72.src.rpm",
+        "Size": "89 k",
+        "Source": "ruby-3.3.10-5.module+el8.10.0+40038+e29e4152.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,16 +13,19 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.i686                                           3.3.0-1.module+el8.10.0+1679+61871737                                          appstream",
-        "ruby.x86_64                                         3.3.0-1.module+el8.10.0+1679+61871737                                          appstream",
-        "ruby.i686                                           3.3.1-2.module+el8.10.0+1827+16ecb9d2                                          appstream",
-        "ruby.x86_64                                         3.3.1-2.module+el8.10.0+1827+16ecb9d2                                          appstream",
-        "ruby.i686                                           3.3.5-3.module+el8.10.0+1867+7989c958                                          appstream",
-        "ruby.x86_64                                         3.3.5-3.module+el8.10.0+1867+7989c958                                          appstream",
-        "ruby.i686                                           3.3.8-4.module+el8.10.0+2004+fd6e8d72                                          appstream",
-        "ruby.x86_64                                         3.3.8-4.module+el8.10.0+2004+fd6e8d72                                          appstream"
+        "ruby.i686                                          3.3.0-1.module+el8.10.0+1679+61871737                                           appstream",
+        "ruby.x86_64                                        3.3.0-1.module+el8.10.0+1679+61871737                                           appstream",
+        "ruby.i686                                          3.3.1-2.module+el8.10.0+1827+16ecb9d2                                           appstream",
+        "ruby.x86_64                                        3.3.1-2.module+el8.10.0+1827+16ecb9d2                                           appstream",
+        "ruby.i686                                          3.3.5-3.module+el8.10.0+1867+7989c958                                           appstream",
+        "ruby.x86_64                                        3.3.5-3.module+el8.10.0+1867+7989c958                                           appstream",
+        "ruby.i686                                          3.3.8-4.module+el8.10.0+2004+fd6e8d72                                           appstream",
+        "ruby.x86_64                                        3.3.8-4.module+el8.10.0+2004+fd6e8d72                                           appstream",
+        "ruby.i686                                          3.3.10-5.module+el8.10.0+40038+e29e4152                                         appstream",
+        "ruby.x86_64                                        3.3.10-5.module+el8.10.0+40038+e29e4152                                         appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.10-5.module+el8.10.0+40038+e29e4152",
         "ruby-3.3.8-4.module+el8.10.0+2004+fd6e8d72",
         "ruby-3.3.5-3.module+el8.10.0+1867+7989c958",
         "ruby-3.3.1-2.module+el8.10.0+1827+16ecb9d2",

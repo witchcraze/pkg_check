@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb-server",
         "Epoch": "3",
-        "Version": "10.11.10",
-        "Release": "1.module_el9+1141+de86b509",
+        "Version": "10.11.15",
+        "Release": "1.module_el9+1303+08607f68",
         "Architecture": "x86_64",
         "Size": "10 M",
-        "Source": "mariadb-10.11.10-1.module_el9+1141+de86b509.src.rpm",
+        "Source": "mariadb-10.11.15-1.module_el9+1303+08607f68.src.rpm",
         "Repository": "appstream",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -15,6 +15,7 @@
     },
     "list": [
         "mariadb-server.x86_64      3:10.11.6-1.module_el9+853+7b957b9b         appstream",
-        "mariadb-server.x86_64      3:10.11.10-1.module_el9+1141+de86b509       appstream"
+        "mariadb-server.x86_64      3:10.11.10-1.module_el9+1141+de86b509       appstream",
+        "mariadb-server.x86_64      3:10.11.15-1.module_el9+1303+08607f68       appstream"
     ]
 }

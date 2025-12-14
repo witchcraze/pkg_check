@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.6",
-        "Release": "1.module+el8.10.0+23550+bd321b9a",
+        "Version": "8.4.7",
+        "Release": "1.module+el8.10.0+23690+f5ccb7d2",
         "Architecture": "x86_64",
         "Size": "9.9 M",
-        "Source": "mysql-8.4.6-1.module+el8.10.0+23550+bd321b9a.src.rpm",
+        "Source": "mysql-8.4.7-1.module+el8.10.0+23690+f5ccb7d2.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -13,6 +13,7 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64                             8.4.6-1.module+el8.10.0+23550+bd321b9a                             rhel-8-for-x86_64-appstream-rpms"
+        "mysql.x86_64                             8.4.6-1.module+el8.10.0+23550+bd321b9a                             rhel-8-for-x86_64-appstream-rpms",
+        "mysql.x86_64                             8.4.7-1.module+el8.10.0+23690+f5ccb7d2                             rhel-8-for-x86_64-appstream-rpms"
     ]
 }

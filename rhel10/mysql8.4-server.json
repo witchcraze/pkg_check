@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql8.4-server",
-        "Version": "8.4.6",
-        "Release": "2.el10_0",
+        "Version": "8.4.7",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
         "Size": "18 M",
-        "Source": "mysql8.4-8.4.6-2.el10_0.src.rpm",
+        "Source": "mysql8.4-8.4.7-1.el10_1.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -14,6 +14,7 @@
     },
     "list": [
         "mysql8.4-server.x86_64                                   8.4.4-2.el10                                      rhel-10-for-x86_64-appstream-rpms",
-        "mysql8.4-server.x86_64                                   8.4.6-2.el10_0                                    rhel-10-for-x86_64-appstream-rpms"
+        "mysql8.4-server.x86_64                                   8.4.6-2.el10_0                                    rhel-10-for-x86_64-appstream-rpms",
+        "mysql8.4-server.x86_64                                   8.4.7-1.el10_1                                    rhel-10-for-x86_64-appstream-rpms"
     ]
 }

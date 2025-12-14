@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql-server",
         "Epoch": "0",
-        "Version": "16.10",
+        "Version": "16.11",
         "Release": "1.fc41",
         "Architecture": "x86_64",
-        "Download size": "7.0 MiB",
+        "Download size": "6.9 MiB",
         "Installed size": "29.5 MiB",
-        "Source": "postgresql16-16.10-1.fc41.src.rpm",
+        "Source": "postgresql16-16.11-1.fc41.src.rpm",
         "Repository": "updates",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -18,7 +18,7 @@
     "list": [
         "postgresql-server.i686   16.3-3.fc41  fedora",
         "postgresql-server.x86_64 16.3-3.fc41  fedora",
-        "postgresql-server.i686   16.10-1.fc41 updates",
-        "postgresql-server.x86_64 16.10-1.fc41 updates"
+        "postgresql-server.i686   16.11-1.fc41 updates",
+        "postgresql-server.x86_64 16.11-1.fc41 updates"
     ]
 }

@@ -13,11 +13,11 @@
         "Description": "This is Varnish Cache, a high-performance HTTP accelerator."
     },
     "list": [
-        "varnish.src                     7.6.1-2.el10                      ol10_appstream",
-        "varnish.x86_64                  7.6.1-2.el10                      ol10_appstream",
-        "varnish.src                     7.6.1-2.el10_0.1                  ol10_appstream",
-        "varnish.x86_64                  7.6.1-2.el10_0.1                  ol10_appstream",
-        "varnish.src                     7.6.1-4.el10                      ol10_appstream",
-        "varnish.x86_64                  7.6.1-4.el10                      ol10_appstream"
+        "varnish.src                                                   7.6.1-2.el10                                                    ol10_appstream",
+        "varnish.x86_64                                                7.6.1-2.el10                                                    ol10_appstream",
+        "varnish.src                                                   7.6.1-2.el10_0.1                                                ol10_appstream",
+        "varnish.x86_64                                                7.6.1-2.el10_0.1                                                ol10_appstream",
+        "varnish.src                                                   7.6.1-4.el10                                                    ol10_appstream",
+        "varnish.x86_64                                                7.6.1-4.el10                                                    ol10_appstream"
     ]
 }

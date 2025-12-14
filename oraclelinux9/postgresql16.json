@@ -13,13 +13,13 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql.x86_64      16.1-1.module+el9.4.0+90259+3ab83788        ol9_appstream",
-        "postgresql.x86_64      16.4-1.module+el9.4.0+90394+9e4f3cba        ol9_appstream",
-        "postgresql.x86_64      16.4-2.module+el9.5.0+90425+0820a3c3        ol9_appstream",
-        "postgresql.x86_64      16.6-1.module+el9.5.0+90450+cb2feb1d        ol9_appstream",
-        "postgresql.x86_64      16.8-1.module+el9.5.0+90528+7da48ca1        ol9_appstream",
-        "postgresql.x86_64      16.8-1.module+el9.6.0+90592+523cb846        ol9_appstream",
-        "postgresql.x86_64      16.10-1.module+el9.6.0+90645+dc18b914       ol9_appstream",
-        "postgresql.x86_64      16.10-1.module+el9.7.0+90687+1e28d3eb       ol9_appstream"
+        "postgresql.x86_64                                    16.1-1.module+el9.4.0+90259+3ab83788                                      ol9_appstream",
+        "postgresql.x86_64                                    16.4-1.module+el9.4.0+90394+9e4f3cba                                      ol9_appstream",
+        "postgresql.x86_64                                    16.4-2.module+el9.5.0+90425+0820a3c3                                      ol9_appstream",
+        "postgresql.x86_64                                    16.6-1.module+el9.5.0+90450+cb2feb1d                                      ol9_appstream",
+        "postgresql.x86_64                                    16.8-1.module+el9.5.0+90528+7da48ca1                                      ol9_appstream",
+        "postgresql.x86_64                                    16.8-1.module+el9.6.0+90592+523cb846                                      ol9_appstream",
+        "postgresql.x86_64                                    16.10-1.module+el9.6.0+90645+dc18b914                                     ol9_appstream",
+        "postgresql.x86_64                                    16.10-1.module+el9.7.0+90687+1e28d3eb                                     ol9_appstream"
     ]
 }

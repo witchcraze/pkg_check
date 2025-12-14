@@ -13,14 +13,14 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-8.0.x86_64            8.0.113-2.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.117-1.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.118-1.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.119-1.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.119-2.0.1.el10               ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.120-1.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.121-1.0.1.el10_0             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.121-2.0.1.el10_1             ol10_appstream",
-        "dotnet-sdk-8.0.x86_64            8.0.122-1.0.1.el10_1             ol10_appstream"
+        "dotnet-sdk-8.0.x86_64                                          8.0.113-2.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.117-1.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.118-1.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.119-1.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.119-2.0.1.el10                                             ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.120-1.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.121-1.0.1.el10_0                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.121-2.0.1.el10_1                                           ol10_appstream",
+        "dotnet-sdk-8.0.x86_64                                          8.0.122-1.0.1.el10_1                                           ol10_appstream"
     ]
 }

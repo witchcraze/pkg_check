@@ -2,7 +2,7 @@
     "info": {
         "Name": "postgresql",
         "Arch": "x86_64",
-        "Version": "14.19",
+        "Version": "14.20",
         "Release": "1.amzn2.0.1",
         "Size": "1.6 M",
         "Repo": "amzn2extra-postgresql14/2/x86_64",
@@ -62,6 +62,7 @@
         "postgresql.x86_64                                         14.14-1.amzn2.0.1                                          amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.17-1.amzn2.0.1                                          amzn2extra-postgresql14",
         "postgresql.x86_64                                         14.18-1.amzn2.0.1                                          amzn2extra-postgresql14",
-        "postgresql.x86_64                                         14.19-1.amzn2.0.1                                          amzn2extra-postgresql14"
+        "postgresql.x86_64                                         14.19-1.amzn2.0.1                                          amzn2extra-postgresql14",
+        "postgresql.x86_64                                         14.20-1.amzn2.0.1                                          amzn2extra-postgresql14"
     ]
 }

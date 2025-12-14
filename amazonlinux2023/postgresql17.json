@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql17",
-        "Version": "17.6",
+        "Version": "17.7",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql17-17.6-1.amzn2023.0.1.src.rpm",
+        "Source": "postgresql17-17.7-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,6 +15,7 @@
     "list": [
         "postgresql17.x86_64               17.4-1.amzn2023.0.1                amazonlinux",
         "postgresql17.x86_64               17.5-1.amzn2023.0.1                amazonlinux",
-        "postgresql17.x86_64               17.6-1.amzn2023.0.1                amazonlinux"
+        "postgresql17.x86_64               17.6-1.amzn2023.0.1                amazonlinux",
+        "postgresql17.x86_64               17.7-1.amzn2023.0.1                amazonlinux"
     ]
 }

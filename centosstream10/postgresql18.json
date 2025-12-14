@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "postgresql18",
+        "Version": "18.0",
+        "Release": "2.el10",
+        "Architecture": "x86_64",
+        "Size": "2.0 M",
+        "Source": "postgresql18-18.0-2.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql18.x86_64                    18.0-2.el10                     appstream"
+    ],
+    "kojiPackages": [
+        "postgresql18-18.1-1.el10,draft_91631",
+        "postgresql18-18.0-3.el10,draft_90893",
+        "postgresql18-18.0-2.el10",
+        "postgresql18-18.0-2.el10,draft_89581",
+        "postgresql18-18.0-2.el10,draft_89291",
+        "postgresql18-18.0-1.el10",
+        "postgresql18-18.0-1.el10,draft_88617",
+        "postgresql18-18.0-1.el10,draft_88400",
+        "postgresql18-18.0-1.el10,draft_88340",
+        "postgresql18-18.0-1.el10,draft_88150",
+        "postgresql18-18.0-1.el10,draft_88100",
+        "postgresql18-18.0-1.el10,draft_87735",
+        "postgresql18-18.0-1.el10,draft_87733",
+        "postgresql18-18.0-1.el10,draft_87734",
+        "postgresql18-18.0-1.el10,draft_87732",
+        "postgresql18-18.0-1.el10,draft_87731",
+        "postgresql18-18.0-1.el10,draft_87655"
+    ]
+}

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.6",
-        "Release": "1.module+el8.10.0+2091+db4d14f6.rocky.0.1",
+        "Version": "8.4.7",
+        "Release": "1.module+el8.10.0+40043+0b4d79a1.rocky.0.1",
         "Architecture": "x86_64",
         "Size": "9.9 M",
-        "Source": "mysql-8.4.6-1.module+el8.10.0+2091+db4d14f6.rocky.0.1.src.rpm",
+        "Source": "mysql-8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -13,9 +13,11 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64                                    8.4.6-1.module+el8.10.0+2091+db4d14f6.rocky.0.1                                    appstream"
+        "mysql.x86_64                                   8.4.6-1.module+el8.10.0+2091+db4d14f6.rocky.0.1                                     appstream",
+        "mysql.x86_64                                   8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1                                    appstream"
     ],
     "kojiPackages": [
+        "mysql-8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1",
         "mysql-8.4.6-1.module+el8.10.0+2091+db4d14f6.rocky.0.1",
         "mysql-8.4.6-1.module+el8.10.0+2090+0b96cf6b.rocky.0.1",
         "mysql-8.4.6-1.module+el8.10.0+2089+c35ccaf2",

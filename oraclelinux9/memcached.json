@@ -13,9 +13,9 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.src                       1.6.9-6.el9                    ol9_appstream",
-        "memcached.x86_64                    1.6.9-6.el9                    ol9_appstream",
-        "memcached.src                       1.6.9-7.el9                    ol9_appstream",
-        "memcached.x86_64                    1.6.9-7.el9                    ol9_appstream"
+        "memcached.src                                                     1.6.9-6.el9                                                  ol9_appstream",
+        "memcached.x86_64                                                  1.6.9-6.el9                                                  ol9_appstream",
+        "memcached.src                                                     1.6.9-7.el9                                                  ol9_appstream",
+        "memcached.x86_64                                                  1.6.9-7.el9                                                  ol9_appstream"
     ]
 }

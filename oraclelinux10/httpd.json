@@ -13,11 +13,11 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.src                   2.4.63-1.0.1.el10                     ol10_appstream",
-        "httpd.x86_64                2.4.63-1.0.1.el10                     ol10_appstream",
-        "httpd.src                   2.4.63-1.0.1.el10_0.2                 ol10_appstream",
-        "httpd.x86_64                2.4.63-1.0.1.el10_0.2                 ol10_appstream",
-        "httpd.src                   2.4.63-4.0.1.el10                     ol10_appstream",
-        "httpd.x86_64                2.4.63-4.0.1.el10                     ol10_appstream"
+        "httpd.src                                                 2.4.63-1.0.1.el10                                                   ol10_appstream",
+        "httpd.x86_64                                              2.4.63-1.0.1.el10                                                   ol10_appstream",
+        "httpd.src                                                 2.4.63-1.0.1.el10_0.2                                               ol10_appstream",
+        "httpd.x86_64                                              2.4.63-1.0.1.el10_0.2                                               ol10_appstream",
+        "httpd.src                                                 2.4.63-4.0.1.el10                                                   ol10_appstream",
+        "httpd.x86_64                                              2.4.63-4.0.1.el10                                                   ol10_appstream"
     ]
 }

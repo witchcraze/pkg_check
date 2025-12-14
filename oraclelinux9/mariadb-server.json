@@ -14,10 +14,10 @@
         "Description": "MariaDB is a multi-user, multi-threaded SQL database server. It is a"
     },
     "list": [
-        "mariadb-server.x86_64              3:10.5.13-2.el9                 ol9_appstream",
-        "mariadb-server.x86_64              3:10.5.16-2.el9_0               ol9_appstream",
-        "mariadb-server.x86_64              3:10.5.22-1.el9_2               ol9_appstream",
-        "mariadb-server.x86_64              3:10.5.27-1.el9_5               ol9_appstream",
-        "mariadb-server.x86_64              3:10.5.29-2.el9_6               ol9_appstream"
+        "mariadb-server.x86_64                                            3:10.5.13-2.el9                                               ol9_appstream",
+        "mariadb-server.x86_64                                            3:10.5.16-2.el9_0                                             ol9_appstream",
+        "mariadb-server.x86_64                                            3:10.5.22-1.el9_2                                             ol9_appstream",
+        "mariadb-server.x86_64                                            3:10.5.27-1.el9_5                                             ol9_appstream",
+        "mariadb-server.x86_64                                            3:10.5.29-2.el9_6                                             ol9_appstream"
     ]
 }

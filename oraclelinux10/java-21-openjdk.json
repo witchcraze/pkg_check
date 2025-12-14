@@ -14,13 +14,13 @@
         "Description": "The OpenJDK 21 runtime environment."
     },
     "list": [
-        "java-21-openjdk.src             1:21.0.6.0.7-3.0.1.el10           ol10_appstream",
-        "java-21-openjdk.x86_64          1:21.0.6.0.7-3.0.1.el10           ol10_appstream",
-        "java-21-openjdk.src             1:21.0.7.0.6-1.0.1.el10           ol10_appstream",
-        "java-21-openjdk.x86_64          1:21.0.7.0.6-1.0.1.el10           ol10_appstream",
-        "java-21-openjdk.src             1:21.0.8.0.9-1.0.1.el10           ol10_appstream",
-        "java-21-openjdk.x86_64          1:21.0.8.0.9-1.0.1.el10           ol10_appstream",
-        "java-21-openjdk.src             1:21.0.9.0.10-1.0.1.el10          ol10_appstream",
-        "java-21-openjdk.x86_64          1:21.0.9.0.10-1.0.1.el10          ol10_appstream"
+        "java-21-openjdk.src                                           1:21.0.6.0.7-3.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.x86_64                                        1:21.0.6.0.7-3.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.src                                           1:21.0.7.0.6-1.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.x86_64                                        1:21.0.7.0.6-1.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.src                                           1:21.0.8.0.9-1.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.x86_64                                        1:21.0.8.0.9-1.0.1.el10                                         ol10_appstream",
+        "java-21-openjdk.src                                           1:21.0.9.0.10-1.0.1.el10                                        ol10_appstream",
+        "java-21-openjdk.x86_64                                        1:21.0.9.0.10-1.0.1.el10                                        ol10_appstream"
     ]
 }

@@ -13,9 +13,9 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.src                       3.0.5-9.el10                     ol10_appstream",
-        "vsftpd.x86_64                    3.0.5-9.el10                     ol10_appstream",
-        "vsftpd.src                       3.0.5-10.el10                    ol10_appstream",
-        "vsftpd.x86_64                    3.0.5-10.el10                    ol10_appstream"
+        "vsftpd.src                                                     3.0.5-9.el10                                                   ol10_appstream",
+        "vsftpd.x86_64                                                  3.0.5-9.el10                                                   ol10_appstream",
+        "vsftpd.src                                                     3.0.5-10.el10                                                  ol10_appstream",
+        "vsftpd.x86_64                                                  3.0.5-10.el10                                                  ol10_appstream"
     ]
 }

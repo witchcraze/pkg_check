@@ -14,7 +14,7 @@
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64     3:10.11.6-1.module+el9.4.0+90263+8ac000cb       ol9_appstream",
-        "mariadb.x86_64     3:10.11.10-1.module+el9.5.0+90507+82ceef20      ol9_appstream"
+        "mariadb.x86_64                                   3:10.11.6-1.module+el9.4.0+90263+8ac000cb                                     ol9_appstream",
+        "mariadb.x86_64                                   3:10.11.10-1.module+el9.5.0+90507+82ceef20                                    ol9_appstream"
     ]
 }

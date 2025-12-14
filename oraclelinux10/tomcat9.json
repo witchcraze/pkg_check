@@ -3,7 +3,7 @@
         "Name": "tomcat9",
         "Epoch": "1",
         "Version": "9.0.87",
-        "Release": "8.el10",
+        "Release": "8.el10_1.1",
         "Architecture": "src",
         "Size": "15 M",
         "Source": "None",
@@ -14,15 +14,17 @@
         "Description": "Tomcat is the servlet container that is used in the official Reference"
     },
     "list": [
-        "tomcat9.noarch                1:9.0.87-4.el10                     ol10_appstream",
-        "tomcat9.src                   1:9.0.87-4.el10                     ol10_appstream",
-        "tomcat9.noarch                1:9.0.87-5.el10_0                   ol10_appstream",
-        "tomcat9.src                   1:9.0.87-5.el10_0                   ol10_appstream",
-        "tomcat9.noarch                1:9.0.87-5.el10_0.1                 ol10_appstream",
-        "tomcat9.src                   1:9.0.87-5.el10_0.1                 ol10_appstream",
-        "tomcat9.noarch                1:9.0.87-5.el10_0.3                 ol10_appstream",
-        "tomcat9.src                   1:9.0.87-5.el10_0.3                 ol10_appstream",
-        "tomcat9.noarch                1:9.0.87-8.el10                     ol10_appstream",
-        "tomcat9.src                   1:9.0.87-8.el10                     ol10_appstream"
+        "tomcat9.noarch                                              1:9.0.87-4.el10                                                   ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-4.el10                                                   ol10_appstream",
+        "tomcat9.noarch                                              1:9.0.87-5.el10_0                                                 ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-5.el10_0                                                 ol10_appstream",
+        "tomcat9.noarch                                              1:9.0.87-5.el10_0.1                                               ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-5.el10_0.1                                               ol10_appstream",
+        "tomcat9.noarch                                              1:9.0.87-5.el10_0.3                                               ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-5.el10_0.3                                               ol10_appstream",
+        "tomcat9.noarch                                              1:9.0.87-8.el10                                                   ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-8.el10                                                   ol10_appstream",
+        "tomcat9.noarch                                              1:9.0.87-8.el10_1.1                                               ol10_appstream",
+        "tomcat9.src                                                 1:9.0.87-8.el10_1.1                                               ol10_appstream"
     ]
 }

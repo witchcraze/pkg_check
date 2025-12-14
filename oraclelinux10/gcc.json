@@ -13,13 +13,13 @@
         "Description": "The gcc package contains the GNU Compiler Collection version 14."
     },
     "list": [
-        "gcc.src                     14.2.1-7.el10                    ol10_baseos_latest",
-        "gcc.src                     14.2.1-7.el10                    ol10_appstream",
-        "gcc.src                     14.2.1-7.el10                    ol10_u0_baseos_base",
-        "gcc.x86_64                  14.2.1-7.el10                    ol10_appstream",
-        "gcc.src                     14.3.1-2.1.el10                  ol10_baseos_latest",
-        "gcc.src                     14.3.1-2.1.el10                  ol10_appstream",
-        "gcc.src                     14.3.1-2.1.el10                  ol10_u1_baseos_base",
-        "gcc.x86_64                  14.3.1-2.1.el10                  ol10_appstream"
+        "gcc.src                                                   14.2.1-7.el10                                                  ol10_baseos_latest",
+        "gcc.src                                                   14.2.1-7.el10                                                  ol10_appstream",
+        "gcc.src                                                   14.2.1-7.el10                                                  ol10_u0_baseos_base",
+        "gcc.x86_64                                                14.2.1-7.el10                                                  ol10_appstream",
+        "gcc.src                                                   14.3.1-2.1.el10                                                ol10_baseos_latest",
+        "gcc.src                                                   14.3.1-2.1.el10                                                ol10_appstream",
+        "gcc.src                                                   14.3.1-2.1.el10                                                ol10_u1_baseos_base",
+        "gcc.x86_64                                                14.3.1-2.1.el10                                                ol10_appstream"
     ]
 }
