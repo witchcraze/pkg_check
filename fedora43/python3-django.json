@@ -2,13 +2,13 @@
     "info": {
         "Name": "python3-django",
         "Epoch": "0",
-        "Version": "5.2.4",
-        "Release": "4.fc43",
+        "Version": "5.2.9",
+        "Release": "1.fc43",
         "Architecture": "noarch",
         "Download size": "5.9 MiB",
         "Installed size": "21.5 MiB",
-        "Source": "python-django5-5.2.4-4.fc43.src.rpm",
-        "Repository": "fedora",
+        "Source": "python-django5-5.2.9-1.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "A high-level Python Web framework",
         "URL": "https://www.djangoproject.com/",
         "License": "BSD-3-Clause AND PSF-2.0 AND MIT AND OFL-1.1",
@@ -16,6 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "python3-django.noarch 5.2.4-4.fc43 fedora"
+        "python3-django.noarch 5.2.4-4.fc43 fedora",
+        "python3-django.noarch 5.2.9-1.fc43 updates"
     ]
 }

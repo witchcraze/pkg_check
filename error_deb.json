@@ -65,6 +65,11 @@
             "squid": [
                 "apt-get changelog"
             ]
+        },
+        "13": {
+            "php8.4": [
+                "apt-get changelog"
+            ]
         }
     }
 }

@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.6",
-        "Release": "1.module_el9.6.0+180+a4e757e5",
+        "Version": "8.4.7",
+        "Release": "1.module_el9.7.0+194+73a02de8",
         "Architecture": "x86_64",
         "Size": "2.4 M",
-        "Source": "mysql-8.4.6-1.module_el9.6.0+180+a4e757e5.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "Source": "mysql-8.4.7-1.module_el9.7.0+194+73a02de8.src.rpm",
+        "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
         "License": "GPL-2.0-only AND ( GPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND GPL-2.0-or-later AND ( LGPL-2.0-only WITH Universal-FOSS-exception-1.0 ) AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND ( GPL-2.0-only OR BSD-2-Clause ) AND BSD-2-Clause AND BSL-1.0 AND Apache-2.0 AND MIT",
@@ -15,6 +15,7 @@
     "list": [
         "mysql.x86_64                      8.4.4-1.module_el9.6.0+152+8cbce00c                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "mysql.x86_64                      8.4.6-1.module_el9.6.0+180+a4e757e5                      appstream",
-        "mysql.x86_64                      8.4.6-1.module_el9.6.0+180+a4e757e5                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_"
+        "mysql.x86_64                      8.4.6-1.module_el9.6.0+180+a4e757e5                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "mysql.x86_64                      8.4.7-1.module_el9.7.0+194+73a02de8                      appstream"
     ]
 }

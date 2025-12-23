@@ -2,8 +2,8 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.4.1",
-        "Release": "7.module+el9.7.0+90708+1a6713ab",
+        "Version": "24.11.1",
+        "Release": "2.module+el9.7.0+90730+edf704f1",
         "Architecture": "src",
         "Size": "93 M",
         "Source": "None",
@@ -76,6 +76,7 @@
         "nodejs.src                                       1:22.16.0-2.module+el9.6.0+90635+2adf922b                                     ol9_appstream",
         "nodejs.src                                       1:22.19.0-2.module+el9.6.0+90668+317a0f5a                                     ol9_appstream",
         "nodejs.src                                       1:24.4.1-6.module+el9.7.0+90686+6eedad4d                                      ol9_appstream",
-        "nodejs.src                                       1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                      ol9_appstream"
+        "nodejs.src                                       1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                      ol9_appstream",
+        "nodejs.src                                       1:24.11.1-2.module+el9.7.0+90730+edf704f1                                     ol9_appstream"
     ]
 }

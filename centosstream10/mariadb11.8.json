@@ -1,0 +1,38 @@
+{
+    "info": {
+        "Name": "mariadb11.8",
+        "Epoch": "3",
+        "Version": "11.8.5",
+        "Release": "1.el10",
+        "Architecture": "x86_64",
+        "Size": "1.9 M",
+        "Source": "mariadb11.8-11.8.5-1.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
+        "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb11.8.x86_64                   3:11.8.5-1.el10                   appstream"
+    ],
+    "kojiPackages": [
+        "mariadb11.8-11.8.5-2.el10,draft_92500",
+        "mariadb11.8-11.8.3-8.el10,draft_91894",
+        "mariadb11.8-11.8.5-1.el10",
+        "mariadb11.8-11.8.5-1.el10,draft_91626",
+        "mariadb11.8-11.8.3-7.el10",
+        "mariadb11.8-11.8.3-6.el10,draft_90375",
+        "mariadb11.8-11.8.3-6.el10,draft_90313",
+        "mariadb11.8-11.8.3-6.el10",
+        "mariadb11.8-11.8.3-6.el10,draft_90188",
+        "mariadb11.8-11.8.3-6.el10,draft_89794",
+        "mariadb11.8-11.8.3-6.el10,draft_89551",
+        "mariadb11.8-11.8.3-5.el10",
+        "mariadb11.8-11.8.3-5.el10,draft_88880",
+        "mariadb11.8-11.8.3-5.el10,draft_88832",
+        "mariadb11.8-11.8.3-5.el10,draft_88795",
+        "mariadb11.8-11.8.3-5.el10,draft_88602",
+        "mariadb11.8-11.8.3-5.el10,draft_88395"
+    ]
+}

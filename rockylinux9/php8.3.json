@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.19",
-        "Release": "1.module+el9.7.0+40005+715283ec",
+        "Version": "8.3.26",
+        "Release": "1.module+el9.7.0+40049+21bbec6b",
         "Architecture": "x86_64",
         "Size": "8.0 k",
-        "Source": "php-8.3.19-1.module+el9.7.0+40005+715283ec.src.rpm",
+        "Source": "php-8.3.26-1.module+el9.7.0+40049+21bbec6b.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -14,9 +14,11 @@
     },
     "list": [
         "php.x86_64                   8.3.19-1.module+el9.6.0+32042+808943ae                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "php.x86_64                   8.3.19-1.module+el9.7.0+40005+715283ec                   appstream"
+        "php.x86_64                   8.3.19-1.module+el9.7.0+40005+715283ec                   appstream",
+        "php.x86_64                   8.3.26-1.module+el9.7.0+40049+21bbec6b                   appstream"
     ],
     "kojiPackages": [
+        "php-8.3.26-1.module+el9.7.0+40049+21bbec6b",
         "php-8.3.19-1.module+el9.7.0+40005+715283ec"
     ]
 }

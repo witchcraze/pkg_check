@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.63",
-        "Release": "4.el10",
+        "Release": "4.el10_1.2",
         "Architecture": "x86_64",
         "Size": "52 k",
-        "Source": "httpd-2.4.63-4.el10.src.rpm",
+        "Source": "httpd-2.4.63-4.el10_1.2.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -15,9 +15,12 @@
     "list": [
         "httpd.x86_64                            2.4.63-1.el10                                dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "httpd.x86_64                            2.4.63-1.el10_0.2                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "httpd.x86_64                            2.4.63-4.el10                                appstream"
+        "httpd.x86_64                            2.4.63-4.el10                                appstream",
+        "httpd.x86_64                            2.4.63-4.el10_1.2                            appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.63-4.el10_1.3",
+        "httpd-2.4.63-4.el10_1.2",
         "httpd-2.4.63-10.el10",
         "httpd-2.4.63-9.el10",
         "httpd-2.4.63-8.el10",

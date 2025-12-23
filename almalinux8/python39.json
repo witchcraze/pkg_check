@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python39",
-        "Version": "3.9.20",
-        "Release": "2.module_el8.10.0+4040+9207bbc0",
+        "Version": "3.9.25",
+        "Release": "2.module_el8.10.0+4083+53cad1fb",
         "Architecture": "x86_64",
-        "Size": "34 k",
-        "Source": "python39-3.9.20-2.module_el8.10.0+4040+9207bbc0.src.rpm",
+        "Size": "35 k",
+        "Source": "python39-3.9.25-2.module_el8.10.0+4083+53cad1fb.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.9 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -26,6 +26,7 @@
         "python39.x86_64                  3.9.19-1.module_el8.10.0+3849+a48d89aa                    appstream",
         "python39.x86_64                  3.9.19-7.module_el8.10.0+3885+d986a391                    appstream",
         "python39.x86_64                  3.9.20-1.module_el8.10.0+3902+1690be06                    appstream",
-        "python39.x86_64                  3.9.20-2.module_el8.10.0+4040+9207bbc0                    appstream"
+        "python39.x86_64                  3.9.20-2.module_el8.10.0+4040+9207bbc0                    appstream",
+        "python39.x86_64                  3.9.25-2.module_el8.10.0+4083+53cad1fb                    appstream"
     ]
 }

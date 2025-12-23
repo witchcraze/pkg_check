@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.4.1",
-        "Release": "7.module+el9.7.0+90708+1a6713ab",
+        "Version": "24.11.1",
+        "Release": "2.module+el9.7.0+90730+edf704f1",
         "Architecture": "x86_64",
-        "Size": "71 k",
-        "Source": "nodejs-24.4.1-7.module+el9.7.0+90708+1a6713ab.src.rpm",
+        "Size": "73 k",
+        "Source": "nodejs-24.11.1-2.module+el9.7.0+90730+edf704f1.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -14,7 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                                     1:24.4.1-6.module+el9.7.0+90686+6eedad4d                                     ol9_appstream",
-        "nodejs.x86_64                                     1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                     ol9_appstream"
+        "nodejs.x86_64                                    1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                      ol9_appstream",
+        "nodejs.x86_64                                    1:24.11.1-2.module+el9.7.0+90730+edf704f1                                     ol9_appstream"
     ]
 }

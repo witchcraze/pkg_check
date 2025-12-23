@@ -16,7 +16,7 @@
         "postgresql18.x86_64                    18.0-2.el10                     appstream"
     ],
     "kojiPackages": [
-        "postgresql18-18.1-1.el10,draft_91631",
+        "postgresql18-18.1-1.el10",
         "postgresql18-18.0-3.el10,draft_90893",
         "postgresql18-18.0-2.el10",
         "postgresql18-18.0-2.el10,draft_89581",

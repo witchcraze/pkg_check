@@ -2,12 +2,12 @@
     "info": {
         "Name": "python3",
         "Epoch": "0",
-        "Version": "3.13.9",
+        "Version": "3.13.11",
         "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "30.8 KiB",
+        "Download size": "30.5 KiB",
         "Installed size": "28.7 KiB",
-        "Source": "python3.13-3.13.9-1.fc42.src.rpm",
+        "Source": "python3.13-3.13.11-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Python 3.13 interpreter",
         "URL": "https://www.python.org/",
@@ -16,9 +16,9 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "python3.i686   3.13.2-2.fc42 fedora",
-        "python3.x86_64 3.13.2-2.fc42 fedora",
-        "python3.i686   3.13.9-1.fc42 updates",
-        "python3.x86_64 3.13.9-1.fc42 updates"
+        "python3.i686   3.13.2-2.fc42  fedora",
+        "python3.x86_64 3.13.2-2.fc42  fedora",
+        "python3.i686   3.13.11-1.fc42 updates",
+        "python3.x86_64 3.13.11-1.fc42 updates"
     ]
 }
