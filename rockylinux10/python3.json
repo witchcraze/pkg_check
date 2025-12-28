@@ -1,24 +1,25 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.12.11",
-        "Release": "3.el10",
+        "Version": "3.12.12",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.12-3.12.11-3.el10.src.rpm",
+        "Source": "python3.12-3.12.12-1.el10_1.src.rpm",
         "Repository": "@System",
-        "From repo": "6b1eeb13d19f4896b6c703c2d095c4c2",
+        "From repo": "baseos",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                            3.12.11-3.el10                                @6b1eeb13d19f4896b6c703c2d095c4c2",
+        "python3.x86_64                            3.12.12-1.el10_1                              @baseos",
         "python3.x86_64                            3.12.9-2.el10_0                               dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                            3.12.9-2.el10_0.1                             dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                            3.12.9-2.el10_0.2                             dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                            3.12.9-2.el10_0.3                             dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
-        "python3.x86_64                            3.12.11-3.el10                                baseos"
+        "python3.x86_64                            3.12.11-3.el10                                baseos",
+        "python3.x86_64                            3.12.12-1.el10_1                              baseos"
     ]
 }

@@ -3,11 +3,11 @@
         "Name": "python3.15",
         "Epoch": "0",
         "Version": "3.15.0~a3",
-        "Release": "1.fc42",
+        "Release": "2.fc42",
         "Architecture": "x86_64",
-        "Download size": "24.8 KiB",
+        "Download size": "25.0 KiB",
         "Installed size": "28.9 KiB",
-        "Source": "python3.15-3.15.0~a3-1.fc42.src.rpm",
+        "Source": "python3.15-3.15.0~a3-2.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.15 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -16,7 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "python3.15.i686   3.15.0~a3-1.fc42 updates",
-        "python3.15.x86_64 3.15.0~a3-1.fc42 updates"
+        "python3.15.i686   3.15.0~a3-2.fc42 updates",
+        "python3.15.x86_64 3.15.0~a3-2.fc42 updates"
     ]
 }

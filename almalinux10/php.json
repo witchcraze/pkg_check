@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.19",
-        "Release": "1.el10_0",
+        "Version": "8.3.26",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "11 k",
-        "Source": "php-8.3.19-1.el10_0.src.rpm",
-        "Repository": "repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "Size": "9.1 k",
+        "Source": "php-8.3.26-1.el10_1.src.rpm",
+        "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
         "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND NCSA AND BSL-1.0",
@@ -14,6 +14,7 @@
     },
     "list": [
         "php.x86_64                                8.3.19-1.el10_0                                 appstream",
-        "php.x86_64                                8.3.19-1.el10_0                                 repo.almalinux.org_vault_10.0_AppStream_x86_64_os_"
+        "php.x86_64                                8.3.19-1.el10_0                                 repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "php.x86_64                                8.3.26-1.el10_1                                 appstream"
     ]
 }

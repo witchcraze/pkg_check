@@ -33,6 +33,7 @@
         "varnish.x86_64                            6.6.2-6.el9_6.1                             appstream"
     ],
     "kojiPackages": [
+        "varnish-6.6.2-8.el9",
         "varnish-6.6.2-6.el9_6.1"
     ]
 }

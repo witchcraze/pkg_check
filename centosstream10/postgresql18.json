@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql18",
-        "Version": "18.0",
-        "Release": "2.el10",
+        "Version": "18.1",
+        "Release": "1.el10",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "postgresql18-18.0-2.el10.src.rpm",
+        "Source": "postgresql18-18.1-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -13,7 +13,8 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql18.x86_64                    18.0-2.el10                     appstream"
+        "postgresql18.x86_64                    18.0-2.el10                     appstream",
+        "postgresql18.x86_64                    18.1-1.el10                     appstream"
     ],
     "kojiPackages": [
         "postgresql18-18.1-1.el10",

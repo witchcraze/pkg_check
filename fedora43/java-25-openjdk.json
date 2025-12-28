@@ -3,11 +3,11 @@
         "Name": "java-25-openjdk",
         "Epoch": "1",
         "Version": "25.0.1.0.8",
-        "Release": "1.fc43",
+        "Release": "3.fc43",
         "Architecture": "x86_64",
-        "Download size": "367.2 KiB",
-        "Installed size": "962.5 KiB",
-        "Source": "java-25-openjdk-25.0.1.0.8-1.fc43.src.rpm",
+        "Download size": "368.2 KiB",
+        "Installed size": "950.6 KiB",
+        "Source": "java-25-openjdk-25.0.1.0.8-3.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "java-25-openjdk.x86_64 1:25.0.0.0.36-0.1.ea.fc43 fedora",
-        "java-25-openjdk.x86_64 1:25.0.1.0.8-1.fc43       updates"
+        "java-25-openjdk.x86_64 1:25.0.1.0.8-3.fc43       updates"
     ]
 }

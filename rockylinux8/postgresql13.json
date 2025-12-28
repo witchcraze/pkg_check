@@ -32,6 +32,7 @@
         "postgresql.x86_64                13.22-1.module+el8.10.0+2059+b61e6896                appstream"
     ],
     "kojiPackages": [
+        "postgresql-13.23-1.module+el8.10.0+40055+b85d5ce2",
         "postgresql-13.22-1.module+el8.10.0+2059+b61e6896",
         "postgresql-13.20-1.module+el8.10.0+1939+bc4b0228",
         "postgresql-13.18-1.module+el8.10.0+1898+8409d9ae",

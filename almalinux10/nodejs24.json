@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs24",
         "Epoch": "1",
-        "Version": "24.6.0",
-        "Release": "5.el10_1",
+        "Version": "24.11.1",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
         "Size": "66 k",
-        "Source": "nodejs24-24.6.0-5.el10_1.src.rpm",
+        "Source": "nodejs24-24.11.1-1.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -14,6 +14,7 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs24.x86_64                                                 1:24.6.0-5.el10_1                                                  appstream"
+        "nodejs24.x86_64                                                 1:24.6.0-5.el10_1                                                  appstream",
+        "nodejs24.x86_64                                                 1:24.11.1-1.el10_1                                                 appstream"
     ]
 }

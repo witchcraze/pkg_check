@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3",
-        "Version": "3.12.11",
-        "Release": "3.el10",
+        "Version": "3.12.12",
+        "Release": "1.el10_1",
         "Architecture": "x86_64",
         "Size": "31 k",
-        "Source": "python3.12-3.12.11-3.el10.src.rpm",
+        "Source": "python3.12-3.12.12-1.el10_1.src.rpm",
         "Repository": "@System",
         "From repo": "baseos",
         "Summary": "Python 3.12 interpreter",
@@ -14,11 +14,12 @@
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                               3.12.11-3.el10                                  @baseos",
+        "python3.x86_64                               3.12.12-1.el10_1                                @baseos",
         "python3.x86_64                               3.12.9-2.el10_0                                 repo.almalinux.org_vault_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                               3.12.9-2.el10_0.1                               repo.almalinux.org_vault_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                               3.12.9-2.el10_0.2                               repo.almalinux.org_vault_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                               3.12.9-2.el10_0.3                               repo.almalinux.org_vault_10.0_BaseOS_x86_64_os_",
-        "python3.x86_64                               3.12.11-3.el10                                  baseos"
+        "python3.x86_64                               3.12.11-3.el10                                  baseos",
+        "python3.x86_64                               3.12.12-1.el10_1                                baseos"
     ]
 }

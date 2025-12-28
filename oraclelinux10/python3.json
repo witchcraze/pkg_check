@@ -7,14 +7,13 @@
         "Size": "31 k",
         "Source": "python3.12-3.12.12-1.0.1.el10_1.src.rpm",
         "Repository": "@System",
-        "From repo": "ol10_baseos_latest",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                                           3.12.12-1.0.1.el10_1                                            @ol10_baseos_latest",
+        "python3.x86_64                                           3.12.12-1.0.1.el10_1                                            @System",
         "python3.x86_64                                           3.12.9-1.0.1.el10                                               ol10_baseos_latest",
         "python3.x86_64                                           3.12.9-1.0.1.el10                                               ol10_u0_baseos_base",
         "python3.x86_64                                           3.12.9-2.0.1.el10_0                                             ol10_baseos_latest",

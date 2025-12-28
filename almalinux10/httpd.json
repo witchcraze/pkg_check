@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.63",
-        "Release": "4.el10",
+        "Release": "4.el10_1.3",
         "Architecture": "x86_64",
         "Size": "47 k",
-        "Source": "httpd-2.4.63-4.el10.src.rpm",
+        "Source": "httpd-2.4.63-4.el10_1.3.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -15,6 +15,8 @@
     "list": [
         "httpd.x86_64                              2.4.63-1.el10                                   repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "httpd.x86_64                              2.4.63-1.el10_0.2                               repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
-        "httpd.x86_64                              2.4.63-4.el10                                   appstream"
+        "httpd.x86_64                              2.4.63-4.el10                                   appstream",
+        "httpd.x86_64                              2.4.63-4.el10_1.2                               appstream",
+        "httpd.x86_64                              2.4.63-4.el10_1.3                               appstream"
     ]
 }

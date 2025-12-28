@@ -1,0 +1,22 @@
+{
+    "info": {
+        "Name": "grafana",
+        "Epoch": "0",
+        "Version": "10.2.6",
+        "Release": "22.fc43",
+        "Architecture": "x86_64",
+        "Download size": "108.5 MiB",
+        "Installed size": "481.0 MiB",
+        "Source": "grafana-10.2.6-22.fc43.src.rpm",
+        "Repository": "updates",
+        "Summary": "Metrics dashboard and graph editor",
+        "URL": "https://grafana.org",
+        "License": "AGPL-3.0-only",
+        "Description": "Grafana is an open source, feature rich metrics dashboard and graph editor for",
+        "Vendor": "Fedora Project"
+    },
+    "list": [
+        "grafana.x86_64 10.2.6-19.fc43 fedora",
+        "grafana.x86_64 10.2.6-22.fc43 updates"
+    ]
+}

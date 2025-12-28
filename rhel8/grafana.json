@@ -1,0 +1,42 @@
+{
+    "info": {
+        "Name": "grafana",
+        "Version": "9.2.10",
+        "Release": "26.el8_10",
+        "Architecture": "x86_64",
+        "Size": "77 M",
+        "Source": "grafana-9.2.10-26.el8_10.src.rpm",
+        "Repository": "rhel-8-for-x86_64-appstream-rpms",
+        "Summary": "Metrics dashboard and graph editor",
+        "URL": "https://grafana.org",
+        "License": "AGPLv3",
+        "Description": "Grafana is an open source, feature rich metrics dashboard and graph editor for"
+    },
+    "list": [
+        "grafana.x86_64                                       6.2.2-2.el8                                            rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       6.3.6-1.el8                                            rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       6.3.6-2.el8_2                                          rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       6.7.4-3.el8                                            rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.3.6-2.el8                                            rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.3.6-3.el8_4                                          rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.9-4.el8                                            rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.9-5.el8_5                                          rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.11-2.el8                                           rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.11-3.el8_6                                         rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.15-3.el8                                           rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.15-4.el8                                           rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       7.5.15-5.el8_8                                         rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-7.el8_9                                         rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-8.el8_9                                         rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-15.el8                                          rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-16.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-17.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-18.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-20.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-21.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-22.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-23.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-25.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-26.el8_10                                       rhel-8-for-x86_64-appstream-rpms"
+    ]
+}

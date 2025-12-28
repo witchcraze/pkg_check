@@ -138,6 +138,9 @@
             "golang": [
                 "kojiPackages"
             ],
+            "grafana": [
+                "kojiPackages"
+            ],
             "haproxy": [
                 "kojiPackages"
             ],
@@ -284,6 +287,9 @@
             "golang": [
                 "kojiPackages"
             ],
+            "grafana": [
+                "kojiPackages"
+            ],
             "haproxy": [
                 "kojiPackages"
             ],
@@ -419,6 +425,9 @@
                 "kojiPackages"
             ],
             "golang": [
+                "kojiPackages"
+            ],
+            "grafana": [
                 "kojiPackages"
             ],
             "haproxy": [
