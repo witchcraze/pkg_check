@@ -10,13 +10,12 @@
         "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.2g)",
         "Suggests": "ca-certificates",
         "Download-Size": "493 kB",
-        "APT-Manual-Installed": "no",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/xenial-infra-security,now 1.0.2g-1ubuntu4.20+esm13 amd64 [installed,automatic]",
-        "openssl/xenial-updates,xenial-security 1.0.2g-1ubuntu4.20 amd64",
+        "openssl/xenial-infra-security 1.0.2g-1ubuntu4.20+esm13 amd64 [upgradable from: 1.0.2g-1ubuntu4.20]",
+        "openssl/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.20 amd64 [installed,upgradable to: 1.0.2g-1ubuntu4.20+esm13]",
         "openssl/xenial 1.0.2g-1ubuntu4 amd64"
     ],
     "changelog": [

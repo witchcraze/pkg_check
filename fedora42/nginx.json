@@ -2,12 +2,12 @@
     "info": {
         "Name": "nginx",
         "Epoch": "2",
-        "Version": "1.28.0",
-        "Release": "2.fc42",
+        "Version": "1.28.1",
+        "Release": "1.fc42",
         "Architecture": "x86_64",
-        "Download size": "33.1 KiB",
-        "Installed size": "119.8 KiB",
-        "Source": "nginx-1.28.0-2.fc42.src.rpm",
+        "Download size": "32.4 KiB",
+        "Installed size": "119.4 KiB",
+        "Source": "nginx-1.28.1-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -17,6 +17,6 @@
     },
     "list": [
         "nginx.x86_64 2:1.26.3-1.fc42 fedora",
-        "nginx.x86_64 2:1.28.0-2.fc42 updates"
+        "nginx.x86_64 2:1.28.1-1.fc42 updates"
     ]
 }

@@ -1,0 +1,53 @@
+{
+    "show": {
+        "Package": "valkey-server",
+        "Version": "8.1.4+dfsg1-0ubuntu0.2",
+        "Priority": "optional",
+        "Section": "universe/database",
+        "Source": "valkey",
+        "Origin": "Ubuntu",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Lucas Kanashiro <kanashiro@debian.org>",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
+        "Installed-Size": "194 kB",
+        "Provides": "valkey",
+        "Pre-Depends": "init-system-helpers (>= 1.54~)",
+        "Depends": "valkey-tools (= 8.1.4+dfsg1-0ubuntu0.2)",
+        "Homepage": "https://valkey.io",
+        "Download-Size": "51.7 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/universe amd64 Packages",
+        "Description": "Persistent key-value database with network interface"
+    },
+    "list": [
+        "valkey-server/questing-updates,questing-security 8.1.4+dfsg1-0ubuntu0.2 amd64",
+        "valkey-server/questing 8.1.3+dfsg1-0ubuntu2 amd64"
+    ],
+    "changelog": [
+        "valkey (8.1.4+dfsg1-0ubuntu0.2) questing-security; urgency=medium",
+        "valkey (8.1.4+dfsg1-0ubuntu0.1) questing; urgency=medium",
+        "valkey (8.1.3+dfsg1-0ubuntu2) questing; urgency=medium",
+        "valkey (8.1.3+dfsg1-0ubuntu1) questing; urgency=medium",
+        "valkey (8.1.1+dfsg1-2ubuntu1) questing; urgency=medium",
+        "valkey (8.1.1+dfsg1-2) unstable; urgency=medium",
+        "valkey (8.1.1+dfsg1-1.1) unstable; urgency=medium",
+        "valkey (8.1.1+dfsg1-1) unstable; urgency=medium",
+        "valkey (8.0.2+dfsg1-1ubuntu1) plucky; urgency=medium",
+        "valkey (8.0.2+dfsg1-1) unstable; urgency=medium",
+        "valkey (8.0.1+dfsg1-1ubuntu1) plucky; urgency=medium",
+        "valkey (8.0.1+dfsg1-1) unstable; urgency=medium",
+        "valkey (7.2.5+dfsg1-2ubuntu4) oracular; urgency=medium",
+        "valkey (7.2.5+dfsg1-2ubuntu3) oracular; urgency=medium",
+        "valkey (7.2.5+dfsg1-2ubuntu2) oracular; urgency=medium",
+        "valkey (7.2.5+dfsg1-2ubuntu1) oracular; urgency=medium",
+        "valkey (7.2.5+dfsg1-2) unstable; urgency=medium",
+        "valkey (7.2.5+dfsg1-1) unstable; urgency=medium"
+    ],
+    "publishinghistory": [
+        "8.1.4+dfsg1-0ubuntu0.2",
+        "8.1.4+dfsg1-0ubuntu0.1",
+        "8.1.3+dfsg1-0ubuntu2",
+        "8.1.3+dfsg1-0ubuntu1",
+        "8.1.1+dfsg1-2ubuntu1",
+        "8.0.2+dfsg1-1ubuntu1"
+    ]
+}

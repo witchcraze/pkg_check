@@ -26,6 +26,8 @@
         "nginx.x86_64                           2:1.20.1-24.el9                                appstream"
     ],
     "kojiPackages": [
+        "nginx-1.20.1-26.el9.rocky.0.2",
+        "nginx-1.20.1-26.el9.rocky.0.1",
         "nginx-1.20.1-24.el9"
     ]
 }

@@ -31,6 +31,7 @@
         "grafana.x86_64                           10.2.6-17.el9_7                              appstream"
     ],
     "kojiPackages": [
+        "grafana-10.2.6-18.el9",
         "grafana-10.2.6-17.el9_7",
         "grafana-10.2.6-15.el9_6"
     ]

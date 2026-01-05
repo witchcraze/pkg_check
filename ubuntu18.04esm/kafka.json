@@ -1,0 +1,19 @@
+{
+    "show": {
+        "Package": "kafka",
+        "Version": "2.2.2u1-0ubuntu1+esm2",
+        "Priority": "optional",
+        "Section": "database",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Bryce Harrington <bryce@canonical.com>",
+        "Installed-Size": "56.5 MB",
+        "Depends": "adduser, default-jre-headless, logrotate, zookeeperd",
+        "Download-Size": "50.7 MB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu bionic-apps-security/main amd64 Packages",
+        "Description": "Distributed, partitioned, replicated commit log service."
+    },
+    "list": [
+        "kafka/bionic-apps-security 2.2.2u1-0ubuntu1+esm2 all"
+    ],
+    "publishinghistory": []
+}

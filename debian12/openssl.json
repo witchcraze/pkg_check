@@ -10,12 +10,12 @@
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
         "Download-Size": "1434 kB",
-        "APT-Manual-Installed": "yes",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable-security,now 3.0.17-1~deb12u3 amd64 [installed]",
+        "openssl/oldstable-security,now 3.0.17-1~deb12u3 amd64 [installed,automatic]",
         "openssl/oldstable,oldstable-updates 3.0.17-1~deb12u2 amd64"
     ],
     "changelog": [

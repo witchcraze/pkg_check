@@ -58,8 +58,6 @@
         },
         "12": {
             "openssl": [
-                "apt-get changelog",
-                "apt-get changelog",
                 "apt-get changelog"
             ],
             "squid": [
