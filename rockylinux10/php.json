@@ -18,6 +18,7 @@
         "php.x86_64                              8.3.26-1.el10_1                              appstream"
     ],
     "kojiPackages": [
+        "php-8.3.29-1.el10",
         "php-8.3.26-1.el10_1",
         "php-8.3.26-1.el10",
         "php-8.3.19-1.el10_0",

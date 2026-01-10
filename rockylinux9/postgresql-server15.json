@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "15.14",
-        "Release": "1.module+el9.7.0+40011+28af63c9",
+        "Version": "15.15",
+        "Release": "2.module+el9.7.0+40058+d9f04599",
         "Architecture": "x86_64",
-        "Size": "6.3 M",
-        "Source": "postgresql-15.14-1.module+el9.7.0+40011+28af63c9.src.rpm",
+        "Size": "6.2 M",
+        "Source": "postgresql-15.15-2.module+el9.7.0+40058+d9f04599.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -24,6 +24,7 @@
         "postgresql-server.x86_64            15.12-1.module+el9.5.0+30637+4391fcca             dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "postgresql-server.x86_64            15.12-1.module+el9.5.0+30637+4391fcca             dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "postgresql-server.x86_64            15.14-1.module+el9.6.0+32420+37c3e639             dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "postgresql-server.x86_64            15.14-1.module+el9.7.0+40011+28af63c9             appstream"
+        "postgresql-server.x86_64            15.14-1.module+el9.7.0+40011+28af63c9             appstream",
+        "postgresql-server.x86_64            15.15-2.module+el9.7.0+40058+d9f04599             appstream"
     ]
 }

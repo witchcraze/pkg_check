@@ -2,13 +2,13 @@
     "info": {
         "Name": "mariadb-server",
         "Epoch": "3",
-        "Version": "10.11.13",
-        "Release": "9.fc43",
+        "Version": "10.11.15",
+        "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "10.8 MiB",
         "Installed size": "75.9 MiB",
-        "Source": "mariadb10.11-10.11.13-9.fc43.src.rpm",
-        "Repository": "fedora",
+        "Source": "mariadb10.11-10.11.15-1.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
         "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
@@ -16,6 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "mariadb-server.x86_64 3:10.11.13-9.fc43 fedora"
+        "mariadb-server.x86_64 3:10.11.13-9.fc43 fedora",
+        "mariadb-server.x86_64 3:10.11.15-1.fc43 updates"
     ]
 }

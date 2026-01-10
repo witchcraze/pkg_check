@@ -3,10 +3,10 @@
         "Name": "mariadb",
         "Epoch": "3",
         "Version": "10.3.39",
-        "Release": "1.module+el8.8.0+19673+72b0d35f",
+        "Release": "2.module+el8.10.0+23756+5eac0e54",
         "Architecture": "x86_64",
         "Size": "6.0 M",
-        "Source": "mariadb-10.3.39-1.module+el8.8.0+19673+72b0d35f.src.rpm",
+        "Source": "mariadb-10.3.39-2.module+el8.10.0+23756+5eac0e54.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -21,6 +21,7 @@
         "mariadb.x86_64                          3:10.3.28-1.module+el8.3.0+10472+7adc332a                           rhel-8-for-x86_64-appstream-rpms",
         "mariadb.x86_64                          3:10.3.32-2.module+el8.5.0+14124+14ced695                           rhel-8-for-x86_64-appstream-rpms",
         "mariadb.x86_64                          3:10.3.35-1.module+el8.6.0+15949+4ba4ec26                           rhel-8-for-x86_64-appstream-rpms",
-        "mariadb.x86_64                          3:10.3.39-1.module+el8.8.0+19673+72b0d35f                           rhel-8-for-x86_64-appstream-rpms"
+        "mariadb.x86_64                          3:10.3.39-1.module+el8.8.0+19673+72b0d35f                           rhel-8-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                          3:10.3.39-2.module+el8.10.0+23756+5eac0e54                          rhel-8-for-x86_64-appstream-rpms"
     ]
 }

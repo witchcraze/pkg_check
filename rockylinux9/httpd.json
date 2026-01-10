@@ -29,6 +29,7 @@
         "httpd.x86_64                            2.4.62-7.el9_7.3                              appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.62-12.el9",
         "httpd-2.4.62-11.el9",
         "httpd-2.4.62-7.el9_7.3",
         "httpd-2.4.62-7.el9_7.2",

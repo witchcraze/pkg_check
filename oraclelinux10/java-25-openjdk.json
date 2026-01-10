@@ -3,10 +3,10 @@
         "Name": "java-25-openjdk",
         "Epoch": "1",
         "Version": "25.0.1.0.8",
-        "Release": "2.0.1.el10",
+        "Release": "6.0.1.el10",
         "Architecture": "x86_64",
-        "Size": "380 k",
-        "Source": "java-25-openjdk-25.0.1.0.8-2.0.1.el10.src.rpm",
+        "Size": "382 k",
+        "Source": "java-25-openjdk-25.0.1.0.8-6.0.1.el10.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -17,6 +17,8 @@
         "java-25-openjdk.src                                           1:22.0.2.0.9-1.0.1.el10                                         ol10_appstream",
         "java-25-openjdk.x86_64                                        1:22.0.2.0.9-1.0.1.el10                                         ol10_appstream",
         "java-25-openjdk.src                                           1:25.0.1.0.8-2.0.1.el10                                         ol10_appstream",
-        "java-25-openjdk.x86_64                                        1:25.0.1.0.8-2.0.1.el10                                         ol10_appstream"
+        "java-25-openjdk.x86_64                                        1:25.0.1.0.8-2.0.1.el10                                         ol10_appstream",
+        "java-25-openjdk.src                                           1:25.0.1.0.8-6.0.1.el10                                         ol10_appstream",
+        "java-25-openjdk.x86_64                                        1:25.0.1.0.8-6.0.1.el10                                         ol10_appstream"
     ]
 }

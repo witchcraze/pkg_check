@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.11.10",
-        "Release": "1.module+el9.5.0+22578+dc54e53f",
+        "Version": "10.11.15",
+        "Release": "1.module+el9.7.0+23768+0a6844e9",
         "Architecture": "x86_64",
-        "Size": "1.7 M",
-        "Source": "mariadb-10.11.10-1.module+el9.5.0+22578+dc54e53f.src.rpm",
+        "Size": "1.8 M",
+        "Source": "mariadb-10.11.15-1.module+el9.7.0+23768+0a6844e9.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,6 +15,7 @@
     },
     "list": [
         "mariadb.x86_64                          3:10.11.6-1.module+el9.4.0+21205+b026b850                           rhel-9-for-x86_64-appstream-rpms",
-        "mariadb.x86_64                          3:10.11.10-1.module+el9.5.0+22578+dc54e53f                          rhel-9-for-x86_64-appstream-rpms"
+        "mariadb.x86_64                          3:10.11.10-1.module+el9.5.0+22578+dc54e53f                          rhel-9-for-x86_64-appstream-rpms",
+        "mariadb.x86_64                          3:10.11.15-1.module+el9.7.0+23768+0a6844e9                          rhel-9-for-x86_64-appstream-rpms"
     ]
 }

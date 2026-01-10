@@ -3,10 +3,10 @@
         "Name": "mariadb-server",
         "Epoch": "3",
         "Version": "10.5.29",
-        "Release": "2.module+el8.10.0+23547+977c7465",
+        "Release": "3.module+el8.10.0+23752+7ef55629",
         "Architecture": "x86_64",
         "Size": "19 M",
-        "Source": "mariadb-10.5.29-2.module+el8.10.0+23547+977c7465.src.rpm",
+        "Source": "mariadb-10.5.29-3.module+el8.10.0+23752+7ef55629.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -19,6 +19,7 @@
         "mariadb-server.x86_64                      3:10.5.16-2.module+el8.6.0+15639+405b7427                        rhel-8-for-x86_64-appstream-rpms",
         "mariadb-server.x86_64                      3:10.5.22-1.module+el8.8.0+20134+a92c7654                        rhel-8-for-x86_64-appstream-rpms",
         "mariadb-server.x86_64                      3:10.5.27-1.module+el8.10.0+22630+cacda3f1                       rhel-8-for-x86_64-appstream-rpms",
-        "mariadb-server.x86_64                      3:10.5.29-2.module+el8.10.0+23547+977c7465                       rhel-8-for-x86_64-appstream-rpms"
+        "mariadb-server.x86_64                      3:10.5.29-2.module+el8.10.0+23547+977c7465                       rhel-8-for-x86_64-appstream-rpms",
+        "mariadb-server.x86_64                      3:10.5.29-3.module+el8.10.0+23752+7ef55629                       rhel-8-for-x86_64-appstream-rpms"
     ]
 }

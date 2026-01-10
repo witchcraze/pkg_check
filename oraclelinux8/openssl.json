@@ -3,10 +3,10 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "1.1.1k",
-        "Release": "14.el8_6",
+        "Release": "14.el8_10",
         "Architecture": "x86_64",
         "Size": "710 k",
-        "Source": "openssl-1.1.1k-14.el8_6.src.rpm",
+        "Source": "openssl-1.1.1k-14.el8_10.src.rpm",
         "Repository": "ol8_baseos_latest",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
@@ -67,6 +67,8 @@
         "openssl.x86_64                                        1:1.1.1k-12.el8_9                                           ol8_baseos_latest",
         "openssl.x86_64                                        1:1.1.1k-12.el8_9                                           ol8_u10_baseos_base",
         "openssl.src                                           1:1.1.1k-14.el8_6                                           ol8_baseos_latest",
-        "openssl.x86_64                                        1:1.1.1k-14.el8_6                                           ol8_baseos_latest"
+        "openssl.x86_64                                        1:1.1.1k-14.el8_6                                           ol8_baseos_latest",
+        "openssl.src                                           1:1.1.1k-14.el8_10                                          ol8_baseos_latest",
+        "openssl.x86_64                                        1:1.1.1k-14.el8_10                                          ol8_baseos_latest"
     ]
 }

@@ -3,7 +3,7 @@
         "Name": "gcc",
         "Arch": "x86_64",
         "Version": "7.3.1",
-        "Release": "17.amzn2",
+        "Release": "18.amzn2",
         "Size": "22 M",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
@@ -24,6 +24,7 @@
         "gcc.x86_64                                                   7.3.1-13.amzn2                                                       amzn2-core",
         "gcc.x86_64                                                   7.3.1-14.amzn2                                                       amzn2-core",
         "gcc.x86_64                                                   7.3.1-15.amzn2                                                       amzn2-core",
-        "gcc.x86_64                                                   7.3.1-17.amzn2                                                       amzn2-core"
+        "gcc.x86_64                                                   7.3.1-17.amzn2                                                       amzn2-core",
+        "gcc.x86_64                                                   7.3.1-18.amzn2                                                       amzn2-core"
     ]
 }

@@ -15,5 +15,28 @@
     "list": [
         "kafka/bionic-apps-security 2.2.2u1-0ubuntu1+esm2 all"
     ],
+    "changelog": [
+        "kafka (2.2.2u1-0ubuntu1+esm2) bionic; urgency=medium",
+        "kafka (2.2.2u1-0ubuntu1+esm1) bionic; urgency=medium",
+        "kafka (2.2.2u1-0ubuntu1) bionic; urgency=medium",
+        "kafka (2.2.0u2-0ubuntu3) bionic; urgency=medium",
+        "kafka (2.2.0u2-0ubuntu2) bionic; urgency=medium",
+        "kafka (2.2.0u2-0ubuntu1) bionic; urgency=medium",
+        "kafka (2.2.0u1-0ubuntu2.18.04.1) bionic; urgency=medium",
+        "kafka (2.2.0u1-0ubuntu1) bionic; urgency=medium",
+        "kafka (2.2.0-0ubuntu0) bionic; urgency=low",
+        "kafka (2.2.0-0) unstable; urgency=low",
+        "kafka (1.1.0-0) unstable; urgency=low",
+        "kafka (0.11.0.2-1) unstable; urgency=low",
+        "kafka (0.11.0.0-1) unstable; urgency=low",
+        "kafka (0.8.2.2-7) unstable; urgency=low",
+        "kafka (0.8.2.2-6) unstable; urgency=low",
+        "kafka (0.8.2.2-5) unstable; urgency=low",
+        "kafka (0.8.2.2-4) unstable; urgency=low",
+        "kafka (0.8.2.2-3) unstable; urgency=low",
+        "kafka (0.8.2.2-1) unstable; urgency=low",
+        "kafka (0.8.1.1-5) unstable; urgency=low",
+        "kafka (0.8.1.1-1) unstable; urgency=low"
+    ],
     "publishinghistory": []
 }

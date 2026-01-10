@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.10",
-        "Release": "1.module+el8.10.0+2056+3327f2bc",
+        "Version": "16.11",
+        "Release": "1.module+el8.10.0+40057+c37a0e3d",
         "Architecture": "x86_64",
-        "Size": "1.9 M",
-        "Source": "postgresql-16.10-1.module+el8.10.0+2056+3327f2bc.src.rpm",
+        "Size": "2.0 M",
+        "Source": "postgresql-16.11-1.module+el8.10.0+40057+c37a0e3d.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -17,7 +17,8 @@
         "postgresql.x86_64                                      16.4-1.module+el8.10.0+1858+fcc46a79                                        appstream",
         "postgresql.x86_64                                      16.6-1.module+el8.10.0+1900+d7340343                                        appstream",
         "postgresql.x86_64                                      16.8-1.module+el8.10.0+1941+ca32dfe4                                        appstream",
-        "postgresql.x86_64                                      16.10-1.module+el8.10.0+2056+3327f2bc                                       appstream"
+        "postgresql.x86_64                                      16.10-1.module+el8.10.0+2056+3327f2bc                                       appstream",
+        "postgresql.x86_64                                      16.11-1.module+el8.10.0+40057+c37a0e3d                                      appstream"
     ],
     "kojiPackages": [
         "postgresql-16.11-1.module+el8.10.0+40057+c37a0e3d",
