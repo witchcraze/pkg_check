@@ -191,7 +191,6 @@
         "mariadb-10.0 (10.0.10-1) experimental; urgency=low"
     ],
     "publishinghistory": [
-        "1:11.4.8-0ubuntu0.25.04.1",
         "1:11.4.7-0ubuntu0.25.04.1",
         "1:11.4.5-1",
         "1:11.4.4-3",

@@ -1,26 +1,28 @@
 {
     "show": {
         "Package": "python3.14",
-        "Version": "3.14.0-1",
+        "Version": "3.14.0-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/python",
         "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "912 kB",
-        "Depends": "python3.14-minimal (= 3.14.0-1), libpython3.14-stdlib (= 3.14.0-1), media-types | mime-support, tzdata",
+        "Depends": "python3.14-minimal (= 3.14.0-1ubuntu0.1), libpython3.14-stdlib (= 3.14.0-1ubuntu0.1), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.14-venv, python3.14-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "805 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/universe amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.14)"
     },
     "list": [
+        "python3.14/questing-updates,questing-security 3.14.0-1ubuntu0.1 amd64",
         "python3.14/questing 3.14.0-1 amd64"
     ],
     "changelog": [
+        "python3.14 (3.14.0-1ubuntu0.1) questing-security; urgency=medium",
         "python3.14 (3.14.0-1) unstable; urgency=medium",
         "python3.14 (3.14.0~rc3-1) unstable; urgency=medium",
         "python3.14 (3.14.0~rc2-1) experimental; urgency=medium",
@@ -580,6 +582,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.14.0-1ubuntu0.1",
         "3.14.0-1",
         "3.14.0~rc3-1",
         "3.14.0~rc2-1",

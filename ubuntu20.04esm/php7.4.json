@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "php7.4",
-        "Version": "7.4.3-4ubuntu2.29+esm2",
+        "Version": "7.4.3-4ubuntu2.29+esm3",
         "Priority": "optional",
         "Section": "php",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -14,11 +14,12 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.4/focal-infra-security 7.4.3-4ubuntu2.29+esm2 all",
+        "php7.4/focal-infra-security 7.4.3-4ubuntu2.29+esm3 all",
         "php7.4/focal-updates,focal-security 7.4.3-4ubuntu2.29 all",
         "php7.4/focal 7.4.3-4ubuntu1 all"
     ],
     "changelog": [
+        "php7.4 (7.4.3-4ubuntu2.29+esm3) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.29+esm2) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.29+esm1) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.29) focal-security; urgency=medium",
@@ -27,8 +28,7 @@
         "php7.4 (7.4.3-4ubuntu2.24) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.23) focal-security; urgency=medium",
         "php7.4 (7.4.3-4ubuntu2.22) focal-security; urgency=medium",
-        "php7.4 (7.4.3-4ubuntu2.21) focal; urgency=medium",
-        "php7.4 (7.4.3-4ubuntu2.20) focal-security; urgency=medium"
+        "php7.4 (7.4.3-4ubuntu2.21) focal; urgency=medium"
     ],
     "publishinghistory": []
 }

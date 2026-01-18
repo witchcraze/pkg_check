@@ -1,27 +1,28 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.65-1~deb12u1",
+        "Version": "2.4.66-1~deb12u1",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
-        "Installed-Size": "593 kB",
+        "Installed-Size": "594 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.65-1~deb12u1), apache2-data (= 2.4.65-1~deb12u1), apache2-utils (= 2.4.65-1~deb12u1), lsb-base, media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.66-1~deb12u1), apache2-data (= 2.4.66-1~deb12u1), apache2-utils (= 2.4.66-1~deb12u1), lsb-base, media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser",
         "Homepage": "https://httpd.apache.org/",
         "Tag": "role::metapackage, suite::apache",
-        "Download-Size": "228 kB",
+        "Download-Size": "229 kB",
         "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/oldstable 2.4.65-1~deb12u1 amd64",
+        "apache2/oldstable 2.4.66-1~deb12u1 amd64",
         "apache2/oldstable-security 2.4.62-1~deb12u2 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.66-1~deb12u1) bookworm; urgency=medium",
         "apache2 (2.4.65-1~deb12u1) bookworm; urgency=medium",
         "apache2 (2.4.62-1~deb12u2) bookworm-security; urgency=medium",
         "apache2 (2.4.62-1~deb12u1) bookworm; urgency=medium",
@@ -319,6 +320,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.66-1~deb12u1",
         "2.4.65-1~deb12u1",
         "2.4.62-1~deb12u2",
         "2.4.62-1~deb12u1",

@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "dotnet10.0",
-        "Version": "10.0.101",
+        "Version": "10.0.102",
         "Release": "1.0.1.el9_7",
         "Architecture": "src",
-        "Size": "454 M",
+        "Size": "459 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": ".NET Runtime and SDK",
@@ -16,6 +16,7 @@
         "dotnet10.0.src                                   10.0.100~preview.6.25358.103-0.7.0.1.el9_7                                    ol9_appstream",
         "dotnet10.0.src                                   10.0.100~rc.2.25502.107-0.10.0.1.el9_7                                        ol9_appstream",
         "dotnet10.0.src                                   10.0.100-2.0.1.el9_7                                                          ol9_appstream",
-        "dotnet10.0.src                                   10.0.101-1.0.1.el9_7                                                          ol9_appstream"
+        "dotnet10.0.src                                   10.0.101-1.0.1.el9_7                                                          ol9_appstream",
+        "dotnet10.0.src                                   10.0.102-1.0.1.el9_7                                                          ol9_appstream"
     ]
 }

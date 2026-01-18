@@ -2,10 +2,10 @@
     "info": {
         "Name": "vsftpd",
         "Version": "3.0.3",
-        "Release": "36.el8",
+        "Release": "36.el8_10.3",
         "Architecture": "x86_64",
         "Size": "181 k",
-        "Source": "vsftpd-3.0.3-36.el8.src.rpm",
+        "Source": "vsftpd-3.0.3-36.el8_10.3.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
@@ -13,19 +13,21 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.src                                                      3.0.3-28.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-28.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-31.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-31.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-32.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-32.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-33.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-33.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-34.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-34.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-35.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-35.el8                                                   ol8_appstream",
-        "vsftpd.src                                                      3.0.3-36.el8                                                   ol8_appstream",
-        "vsftpd.x86_64                                                   3.0.3-36.el8                                                   ol8_appstream"
+        "vsftpd.src                                                   3.0.3-28.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-28.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-31.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-31.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-32.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-32.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-33.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-33.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-34.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-34.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-35.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-35.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-36.el8                                                      ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-36.el8                                                      ol8_appstream",
+        "vsftpd.src                                                   3.0.3-36.el8_10.3                                                 ol8_appstream",
+        "vsftpd.x86_64                                                3.0.3-36.el8_10.3                                                 ol8_appstream"
     ]
 }

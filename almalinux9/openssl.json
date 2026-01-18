@@ -3,10 +3,10 @@
         "Name": "openssl",
         "Epoch": "1",
         "Version": "3.5.1",
-        "Release": "4.el9_7",
+        "Release": "5.el9_7",
         "Architecture": "x86_64",
         "Size": "2.2 M",
-        "Source": "openssl-3.5.1-4.el9_7.src.rpm",
+        "Source": "openssl-3.5.1-5.el9_7.src.rpm",
         "Repository": "@System",
         "From repo": "baseos",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
@@ -15,7 +15,7 @@
         "Description": "The OpenSSL toolkit provides support for secure communications between"
     },
     "list": [
-        "openssl.x86_64                               1:3.5.1-4.el9_7                                  @baseos",
+        "openssl.x86_64                               1:3.5.1-5.el9_7                                  @baseos",
         "openssl.x86_64                               1:3.0.1-20.el9_0                                 repo.almalinux.org_vault_9.0_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:3.0.1-23.el9_0                                 repo.almalinux.org_vault_9.0_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:3.0.1-41.el9_0                                 repo.almalinux.org_vault_9.0_BaseOS_x86_64_os_",
@@ -33,6 +33,7 @@
         "openssl.x86_64                               1:3.2.2-6.el9_5.1                                repo.almalinux.org_vault_9.5_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:3.2.2-6.el9_5.1                                repo.almalinux.org_vault_9.6_BaseOS_x86_64_os_",
         "openssl.x86_64                               1:3.5.1-3.el9                                    baseos",
-        "openssl.x86_64                               1:3.5.1-4.el9_7                                  baseos"
+        "openssl.x86_64                               1:3.5.1-4.el9_7                                  baseos",
+        "openssl.x86_64                               1:3.5.1-5.el9_7                                  baseos"
     ]
 }

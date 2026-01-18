@@ -2,10 +2,10 @@
     "info": {
         "Name": "vsftpd",
         "Version": "3.0.5",
-        "Release": "6.el9",
+        "Release": "6.el9_7.2",
         "Architecture": "x86_64",
-        "Size": "172 k",
-        "Source": "vsftpd-3.0.5-6.el9.src.rpm",
+        "Size": "167 k",
+        "Source": "vsftpd-3.0.5-6.el9_7.2.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
@@ -13,9 +13,10 @@
         "Description": "vsftpd is a Very Secure FTP daemon. It was written completely from"
     },
     "list": [
-        "vsftpd.x86_64                                         3.0.3-49.el9                                          rhel-9-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                                         3.0.5-4.el9                                           rhel-9-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                                         3.0.5-5.el9                                           rhel-9-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                                         3.0.5-6.el9                                           rhel-9-for-x86_64-appstream-rpms"
+        "vsftpd.x86_64                                        3.0.3-49.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                        3.0.5-4.el9                                            rhel-9-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                        3.0.5-5.el9                                            rhel-9-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                        3.0.5-6.el9                                            rhel-9-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                        3.0.5-6.el9_7.2                                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

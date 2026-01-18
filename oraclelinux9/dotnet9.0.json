@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "dotnet9.0",
-        "Version": "9.0.112",
+        "Version": "9.0.113",
         "Release": "1.0.1.el9_7",
         "Architecture": "src",
-        "Size": "467 M",
+        "Size": "468 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": ".NET Runtime and SDK",
@@ -30,6 +30,7 @@
         "dotnet9.0.src                                      9.0.110-1.0.1.el9_6                                                         ol9_appstream",
         "dotnet9.0.src                                      9.0.111-1.0.1.el9_6                                                         ol9_appstream",
         "dotnet9.0.src                                      9.0.111-2.0.1.el9_7                                                         ol9_appstream",
-        "dotnet9.0.src                                      9.0.112-1.0.1.el9_7                                                         ol9_appstream"
+        "dotnet9.0.src                                      9.0.112-1.0.1.el9_7                                                         ol9_appstream",
+        "dotnet9.0.src                                      9.0.113-1.0.1.el9_7                                                         ol9_appstream"
     ]
 }

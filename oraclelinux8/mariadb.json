@@ -3,10 +3,10 @@
         "Name": "mariadb",
         "Epoch": "3",
         "Version": "10.3.39",
-        "Release": "1.module+el8.8.0+21165+f6462f70",
+        "Release": "2.module+el8.10.0+90757+0fe265ac",
         "Architecture": "x86_64",
         "Size": "6.0 M",
-        "Source": "mariadb-10.3.39-1.module+el8.8.0+21165+f6462f70.src.rpm",
+        "Source": "mariadb-10.3.39-2.module+el8.10.0+90757+0fe265ac.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -21,6 +21,7 @@
         "mariadb.x86_64                                  3:10.3.28-1.module+el8.3.0+20131+15c9d707                                      ol8_appstream",
         "mariadb.x86_64                                  3:10.3.32-2.0.1.module+el8.5.0+20629+e1b20d6b                                  ol8_appstream",
         "mariadb.x86_64                                  3:10.3.35-1.module+el8.6.0+20730+e6b28fc7                                      ol8_appstream",
-        "mariadb.x86_64                                  3:10.3.39-1.module+el8.8.0+21165+f6462f70                                      ol8_appstream"
+        "mariadb.x86_64                                  3:10.3.39-1.module+el8.8.0+21165+f6462f70                                      ol8_appstream",
+        "mariadb.x86_64                                  3:10.3.39-2.module+el8.10.0+90757+0fe265ac                                     ol8_appstream"
     ]
 }

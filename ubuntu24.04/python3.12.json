@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.12",
-        "Version": "3.12.3-1ubuntu0.9",
+        "Version": "3.12.3-1ubuntu0.10",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,7 +9,7 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "755 kB",
-        "Depends": "python3.12-minimal (= 3.12.3-1ubuntu0.9), libpython3.12-stdlib (= 3.12.3-1ubuntu0.9), media-types | mime-support, tzdata",
+        "Depends": "python3.12-minimal (= 3.12.3-1ubuntu0.10), libpython3.12-stdlib (= 3.12.3-1ubuntu0.10), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.12-venv, python3.12-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
@@ -19,10 +19,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.12)"
     },
     "list": [
-        "python3.12/noble-updates,noble-security 3.12.3-1ubuntu0.9 amd64",
+        "python3.12/noble-updates,noble-security 3.12.3-1ubuntu0.10 amd64",
         "python3.12/noble 3.12.3-1 amd64"
     ],
     "changelog": [
+        "python3.12 (3.12.3-1ubuntu0.10) noble-security; urgency=medium",
         "python3.12 (3.12.3-1ubuntu0.9) noble-security; urgency=medium",
         "python3.12 (3.12.3-1ubuntu0.8) noble-security; urgency=medium",
         "python3.12 (3.12.3-1ubuntu0.7) noble-security; urgency=medium",
@@ -555,6 +556,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.12.3-1ubuntu0.10",
         "3.12.3-1ubuntu0.9",
         "3.12.3-1ubuntu0.8",
         "3.12.3-1ubuntu0.7",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.10",
+        "Version": "16.11",
         "Release": "1.0.1.el10_1",
         "Architecture": "x86_64",
         "Size": "2.2 M",
-        "Source": "postgresql16-16.10-1.0.1.el10_1.src.rpm",
+        "Source": "postgresql16-16.11-1.0.1.el10_1.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,6 +15,7 @@
     "list": [
         "postgresql.x86_64                                             16.8-1.0.1.el10_0                                               ol10_appstream",
         "postgresql.x86_64                                             16.10-1.0.1.el10_0                                              ol10_appstream",
-        "postgresql.x86_64                                             16.10-1.0.1.el10_1                                              ol10_appstream"
+        "postgresql.x86_64                                             16.10-1.0.1.el10_1                                              ol10_appstream",
+        "postgresql.x86_64                                             16.11-1.0.1.el10_1                                              ol10_appstream"
     ]
 }

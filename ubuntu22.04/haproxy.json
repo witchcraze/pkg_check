@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "2.4.29-0ubuntu0.22.04.1",
+        "Version": "2.4.30-0ubuntu0.22.04.1",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -13,16 +13,18 @@
         "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), liblua5.3-0, libpcre2-8-0 (>= 10.22), libssl3 (>= 3.0.0~~alpha1), libsystemd0, adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
+        "Phased-Update-Percentage": "80",
         "Download-Size": "1655 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
-        "haproxy/jammy-updates 2.4.29-0ubuntu0.22.04.1 amd64",
+        "haproxy/jammy-updates 2.4.30-0ubuntu0.22.04.1 amd64",
         "haproxy/jammy-security 2.4.24-0ubuntu0.22.04.3 amd64",
         "haproxy/jammy 2.4.14-1ubuntu1 amd64"
     ],
     "changelog": [
+        "haproxy (2.4.30-0ubuntu0.22.04.1) jammy; urgency=medium",
         "haproxy (2.4.29-0ubuntu0.22.04.1) jammy; urgency=medium",
         "haproxy (2.4.24-0ubuntu0.22.04.3) jammy-security; urgency=medium",
         "haproxy (2.4.24-0ubuntu0.22.04.2) jammy-security; urgency=medium",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.10",
+        "Version": "16.11",
         "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "7.0 M",
-        "Source": "postgresql16-16.10-1.el10_1.src.rpm",
+        "Size": "6.9 M",
+        "Source": "postgresql16-16.11-1.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -15,6 +15,7 @@
     "list": [
         "postgresql-server.x86_64                          16.8-1.el10_0                           repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "postgresql-server.x86_64                          16.10-1.el10_0                          repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                          16.10-1.el10_1                          appstream"
+        "postgresql-server.x86_64                          16.10-1.el10_1                          appstream",
+        "postgresql-server.x86_64                          16.11-1.el10_1                          appstream"
     ]
 }

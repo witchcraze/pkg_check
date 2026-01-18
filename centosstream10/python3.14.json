@@ -1,0 +1,46 @@
+{
+    "info": {
+        "Name": "python3.14",
+        "Version": "3.14.2",
+        "Release": "1.el10",
+        "Architecture": "x86_64",
+        "Size": "27 k",
+        "Source": "python3.14-3.14.2-1.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Version 3.14 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.14.x86_64                    3.14.2-1.el10                     appstream"
+    ],
+    "kojiPackages": [
+        "python3.14-3.14.2-2.el10",
+        "python3.14-3.14.2-2.el10,draft_94539",
+        "python3.14-3.14.2-2.el10,draft_94330",
+        "python3.14-3.14.2-2.el10,draft_94217",
+        "python3.14-3.14.2-2.el10,draft_94216",
+        "python3.14-3.14.2-2.el10,draft_94019",
+        "python3.14-3.14.2-2.el10,draft_93974",
+        "python3.14-3.14.2-2.el10,draft_93971",
+        "python3.14-3.14.2-2.el10,draft_93965",
+        "python3.14-3.14.2-2.el10,draft_93961",
+        "python3.14-3.14.2-2.el10,draft_93959",
+        "python3.14-3.14.2-2.el10,draft_93951",
+        "python3.14-3.14.2-2.el10,draft_93948",
+        "python3.14-3.14.2-2.el10,draft_93943",
+        "python3.14-3.14.2-2.el10,draft_93928",
+        "python3.14-3.14.2-1.el10",
+        "python3.14-3.14.0-4.el10,draft_92136",
+        "python3.14-3.14.2-1.el10,draft_92060",
+        "python3.14-3.14.2-1.el10,draft_92021",
+        "python3.14-3.14.0-3.el10",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90795",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90774",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90755",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90715",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90312",
+        "python3.14-3.14.0-2.el10~bootstrap,draft_90311"
+    ]
+}

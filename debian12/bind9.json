@@ -12,13 +12,14 @@
         "Breaks": "bind (<< 1:9.13.6~)",
         "Replaces": "bind (<< 1:9.13.6~)",
         "Homepage": "https://www.isc.org/downloads/bind/",
+        "Tag": "implemented-in::c, interface::daemon, network::server, network::service,",
+        "protocol": "dns, protocol::ipv6, protocol::ssl, role::program",
         "Download-Size": "250 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/oldstable-security 1:9.18.41-1~deb12u1 amd64",
-        "bind9/oldstable 1:9.18.33-1~deb12u2 amd64"
+        "bind9/oldstable,oldstable-security 1:9.18.41-1~deb12u1 amd64"
     ],
     "changelog": [
         "bind9 (1:9.18.41-1~deb12u1) bookworm-security; urgency=high",
@@ -395,6 +396,7 @@
         "bind9 (1:9.1.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1:9.18.41-1~deb12u1",
         "1:9.18.33-1~deb12u2",
         "1:9.18.28-1~deb12u2",
         "1:9.18.24-1",

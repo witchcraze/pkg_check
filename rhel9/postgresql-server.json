@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "13.22",
-        "Release": "1.el9_6",
+        "Version": "13.23",
+        "Release": "1.el9_7",
         "Architecture": "x86_64",
         "Size": "5.8 M",
-        "Source": "postgresql-13.22-1.el9_6.src.rpm",
+        "Source": "postgresql-13.23-1.el9_7.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -23,6 +23,7 @@
         "postgresql-server.x86_64                                   13.16-1.el9_4                                    rhel-9-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                                   13.18-1.el9_5                                    rhel-9-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                                   13.20-1.el9_5                                    rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                                   13.22-1.el9_6                                    rhel-9-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64                                   13.22-1.el9_6                                    rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                                   13.23-1.el9_7                                    rhel-9-for-x86_64-appstream-rpms"
     ]
 }

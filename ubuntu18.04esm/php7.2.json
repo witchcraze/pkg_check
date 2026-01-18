@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "php7.2",
-        "Version": "7.2.24-0ubuntu0.18.04.17+esm11",
+        "Version": "7.2.24-0ubuntu0.18.04.17+esm12",
         "Priority": "optional",
         "Section": "php",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -14,11 +14,12 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.2/bionic-infra-security 7.2.24-0ubuntu0.18.04.17+esm11 all",
+        "php7.2/bionic-infra-security 7.2.24-0ubuntu0.18.04.17+esm12 all",
         "php7.2/bionic-updates,bionic-security 7.2.24-0ubuntu0.18.04.17 all",
         "php7.2/bionic 7.2.3-1ubuntu1 all"
     ],
     "changelog": [
+        "php7.2 (7.2.24-0ubuntu0.18.04.17+esm12) bionic-security; urgency=medium",
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm11) bionic-security; urgency=medium",
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm10) bionic-security; urgency=medium",
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm9) bionic-security; urgency=medium",
@@ -27,8 +28,7 @@
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm6) bionic-security; urgency=medium",
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm5) bionic-security; urgency=medium",
         "php7.2 (7.2.24-0ubuntu0.18.04.17+esm4) bionic-security; urgency=medium",
-        "php7.2 (7.2.24-0ubuntu0.18.04.17+esm3) bionic-security; urgency=medium",
-        "php7.2 (7.2.24-0ubuntu0.18.04.17+esm2) bionic-security; urgency=medium"
+        "php7.2 (7.2.24-0ubuntu0.18.04.17+esm3) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }

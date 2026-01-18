@@ -26,6 +26,7 @@
         "redis.x86_64                              6.2.20-2.el9_7                              appstream"
     ],
     "kojiPackages": [
+        "redis-6.2.20-3.el9",
         "redis-6.2.20-2.el9_7"
     ]
 }

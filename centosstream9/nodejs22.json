@@ -21,6 +21,8 @@
         "nodejs.x86_64           1:22.19.0-2.module_el9+1269+2b208c4d           appstream"
     ],
     "kojiPackages": [
+        "nodejs-22.22.0-1.module_el9+1314+f4a09924",
+        "nodejs-22.22.0-1.module_el9+1313+935d63f1",
         "nodejs-22.19.0-2.module_el9+1269+2b208c4d",
         "nodejs-22.16.0-2.module_el9+1242+04ec4b05",
         "nodejs-22.16.0-1.module_el9+1240+ae16e6be",

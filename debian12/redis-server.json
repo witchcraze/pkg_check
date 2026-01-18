@@ -10,13 +10,13 @@
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
         "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.15-1~deb12u6)",
         "Homepage": "https://redis.io/",
+        "Tag": "implemented-in::c, role::program",
         "Download-Size": "73.1 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/oldstable-security 5:7.0.15-1~deb12u6 amd64",
-        "redis-server/oldstable 5:7.0.15-1~deb12u5 amd64"
+        "redis-server/oldstable,oldstable-security 5:7.0.15-1~deb12u6 amd64"
     ],
     "changelog": [
         "redis (5:7.0.15-1~deb12u6) bookworm-security; urgency=medium",
@@ -283,6 +283,7 @@
         "redis (1.0~beta7-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "5:7.0.15-1~deb12u6",
         "5:7.0.15-1~deb12u5",
         "5:7.0.15-1~deb12u4",
         "5:7.0.15-1~deb12u3",
