@@ -2,13 +2,13 @@
     "info": {
         "Name": "mysql8.0",
         "Epoch": "0",
-        "Version": "8.0.43",
-        "Release": "1.fc43",
+        "Version": "8.0.44",
+        "Release": "4.fc43",
         "Architecture": "x86_64",
         "Download size": "2.6 MiB",
         "Installed size": "58.3 MiB",
-        "Source": "mysql8.0-8.0.43-1.fc43.src.rpm",
-        "Repository": "fedora",
+        "Source": "mysql8.0-8.0.44-4.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
         "License": "GPL-2.0-or-later AND LGPL-2.1-only AND BSL-1.0 AND BSD-2-Clause",
@@ -16,6 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "mysql8.0.x86_64 8.0.43-1.fc43 fedora"
+        "mysql8.0.x86_64 8.0.43-1.fc43 fedora",
+        "mysql8.0.x86_64 8.0.44-4.fc43 updates"
     ]
 }

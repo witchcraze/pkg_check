@@ -2,12 +2,12 @@
     "info": {
         "Name": "php",
         "Epoch": "0",
-        "Version": "8.4.16",
+        "Version": "8.4.17",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "13.3 KiB",
         "Installed size": "0.0   B",
-        "Source": "php-8.4.16-1.fc43.src.rpm",
+        "Source": "php-8.4.17-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "php.x86_64 8.4.13-1.fc43 fedora",
-        "php.x86_64 8.4.16-1.fc43 updates"
+        "php.x86_64 8.4.17-1.fc43 updates"
     ]
 }

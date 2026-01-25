@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs24",
         "Epoch": "1",
-        "Version": "24.11.1",
+        "Version": "24.13.0",
         "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "66 k",
-        "Source": "nodejs24-24.11.1-1.el10_1.src.rpm",
+        "Size": "67 k",
+        "Source": "nodejs24-24.13.0-1.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -15,9 +15,11 @@
     },
     "list": [
         "nodejs24.x86_64                                                 1:24.6.0-5.el10                                                    appstream",
-        "nodejs24.x86_64                                                 1:24.11.1-1.el10_1                                                 appstream"
+        "nodejs24.x86_64                                                 1:24.11.1-1.el10_1                                                 appstream",
+        "nodejs24.x86_64                                                 1:24.13.0-1.el10_1                                                 appstream"
     ],
     "kojiPackages": [
+        "nodejs24-24.13.0-1.el10_1",
         "nodejs24-24.11.1-1.el10_1",
         "nodejs24-24.4.1-5.el10",
         "nodejs24-24.6.0-5.el10"

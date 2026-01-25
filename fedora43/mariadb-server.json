@@ -3,11 +3,11 @@
         "Name": "mariadb-server",
         "Epoch": "3",
         "Version": "10.11.15",
-        "Release": "1.fc43",
+        "Release": "3.fc43",
         "Architecture": "x86_64",
         "Download size": "10.8 MiB",
-        "Installed size": "75.9 MiB",
-        "Source": "mariadb10.11-10.11.15-1.fc43.src.rpm",
+        "Installed size": "76.0 MiB",
+        "Source": "mariadb10.11-10.11.15-3.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
@@ -17,6 +17,6 @@
     },
     "list": [
         "mariadb-server.x86_64 3:10.11.13-9.fc43 fedora",
-        "mariadb-server.x86_64 3:10.11.15-1.fc43 updates"
+        "mariadb-server.x86_64 3:10.11.15-3.fc43 updates"
     ]
 }

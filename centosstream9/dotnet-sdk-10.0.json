@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-10.0",
-        "Version": "10.0.101",
+        "Version": "10.0.102",
         "Release": "2.el9",
         "Architecture": "x86_64",
-        "Size": "96 M",
-        "Source": "dotnet10.0-10.0.101-2.el9.src.rpm",
+        "Size": "97 M",
+        "Source": "dotnet10.0-10.0.102-2.el9.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 10.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,10 +13,10 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-10.0.x86_64      10.0.100~preview.6.25358.103-0.6.el9       appstream",
         "dotnet-sdk-10.0.x86_64      10.0.100~preview.6.25358.103-0.7.el9       appstream",
         "dotnet-sdk-10.0.x86_64      10.0.100~rc.1.25451.107-0.9.el9            appstream",
         "dotnet-sdk-10.0.x86_64      10.0.100-2.el9                             appstream",
-        "dotnet-sdk-10.0.x86_64      10.0.101-2.el9                             appstream"
+        "dotnet-sdk-10.0.x86_64      10.0.101-2.el9                             appstream",
+        "dotnet-sdk-10.0.x86_64      10.0.102-2.el9                             appstream"
     ]
 }

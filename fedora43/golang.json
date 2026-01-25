@@ -2,12 +2,12 @@
     "info": {
         "Name": "golang",
         "Epoch": "0",
-        "Version": "1.25.5",
+        "Version": "1.25.6",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "1.2 MiB",
         "Installed size": "9.6 MiB",
-        "Source": "golang-1.25.5-1.fc43.src.rpm",
+        "Source": "golang-1.25.6-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -17,6 +17,6 @@
     },
     "list": [
         "golang.x86_64 1.25.1-2.fc43 fedora",
-        "golang.x86_64 1.25.5-1.fc43 updates"
+        "golang.x86_64 1.25.6-1.fc43 updates"
     ]
 }

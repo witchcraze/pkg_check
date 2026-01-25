@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "php7.4",
-        "Version": "7.4.33-1+deb11u9",
+        "Version": "7.4.33-1+deb11u10",
         "Priority": "optional",
         "Section": "php",
         "Maintainer": "Debian PHP Maintainers <team+pkg-php@tracker.debian.org>",
@@ -9,15 +9,16 @@
         "Provides": "php",
         "Depends": "libapache2-mod-php7.4 | php7.4-fpm | php7.4-cgi, php7.4-common",
         "Homepage": "http://www.php.net/",
-        "Download-Size": "52.3 kB",
+        "Download-Size": "52.5 kB",
         "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php7.4/oldoldstable-security 7.4.33-1+deb11u9 all",
+        "php7.4/oldoldstable-security 7.4.33-1+deb11u10 all",
         "php7.4/oldoldstable 7.4.33-1+deb11u5 all"
     ],
     "changelog": [
+        "php7.4 (7.4.33-1+deb11u10) bullseye-security; urgency=high",
         "php7.4 (7.4.33-1+deb11u9) bullseye-security; urgency=high",
         "php7.4 (7.4.33-1+deb11u8) bullseye-security; urgency=high",
         "php7.4 (7.4.33-1+deb11u7) bullseye-security; urgency=high",

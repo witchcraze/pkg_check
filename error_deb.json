@@ -57,6 +57,10 @@
             ]
         },
         "13": {
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
             "php8.4": [
                 "apt-get changelog"
             ]

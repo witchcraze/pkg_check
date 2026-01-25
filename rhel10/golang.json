@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.25.3",
+        "Version": "1.25.5",
         "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "676 k",
-        "Source": "golang-1.25.3-1.el10_1.src.rpm",
+        "Size": "1.3 M",
+        "Source": "golang-1.25.5-1.el10_1.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -19,6 +19,7 @@
         "golang.x86_64                                       1.24.4-1.el10_0                                        rhel-10-for-x86_64-appstream-rpms",
         "golang.x86_64                                       1.24.6-1.el10                                          rhel-10-for-x86_64-appstream-rpms",
         "golang.x86_64                                       1.24.6-1.el10_0                                        rhel-10-for-x86_64-appstream-rpms",
-        "golang.x86_64                                       1.25.3-1.el10_1                                        rhel-10-for-x86_64-appstream-rpms"
+        "golang.x86_64                                       1.25.3-1.el10_1                                        rhel-10-for-x86_64-appstream-rpms",
+        "golang.x86_64                                       1.25.5-1.el10_1                                        rhel-10-for-x86_64-appstream-rpms"
     ]
 }

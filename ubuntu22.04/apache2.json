@@ -1,17 +1,17 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.52-1ubuntu4.16",
+        "Version": "2.4.52-1ubuntu4.18",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "548 kB",
+        "Installed-Size": "549 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.16), apache2-data (= 2.4.52-1ubuntu4.16), apache2-utils (= 2.4.52-1ubuntu4.16), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.18), apache2-data (= 2.4.52-1ubuntu4.18), apache2-utils (= 2.4.52-1ubuntu4.18), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -23,10 +23,11 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.16 amd64",
+        "apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.18 amd64",
         "apache2/jammy 2.4.52-1ubuntu4 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.52-1ubuntu4.18) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.16) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.15) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.14) jammy-security; urgency=medium",
@@ -452,6 +453,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.52-1ubuntu4.18",
         "2.4.52-1ubuntu4.16",
         "2.4.52-1ubuntu4.15",
         "2.4.52-1ubuntu4.14",

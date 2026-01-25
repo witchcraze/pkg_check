@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.64-1ubuntu3",
+        "Version": "2.4.64-1ubuntu3.2",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -11,19 +11,21 @@
         "Installed-Size": "467 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.64-1ubuntu3), apache2-data (= 2.4.64-1ubuntu3), apache2-utils (= 2.4.64-1ubuntu3), media-types, procps, perl:any",
+        "Depends": "apache2-bin (= 2.4.64-1ubuntu3.2), apache2-data (= 2.4.64-1ubuntu3.2), apache2-utils (= 2.4.64-1ubuntu3.2), media-types, procps, perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw, www-browser",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "90.3 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
+        "apache2/questing-updates,questing-security 2.4.64-1ubuntu3.2 amd64",
         "apache2/questing 2.4.64-1ubuntu3 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.64-1ubuntu3.2) questing-security; urgency=medium",
         "apache2 (2.4.64-1ubuntu3) questing; urgency=medium",
         "apache2 (2.4.64-1ubuntu2) questing; urgency=medium",
         "apache2 (2.4.64-1ubuntu1) questing; urgency=medium",
@@ -489,6 +491,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.64-1ubuntu3.2",
         "2.4.64-1ubuntu3",
         "2.4.64-1ubuntu2",
         "2.4.64-1ubuntu1",

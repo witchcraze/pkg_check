@@ -2,12 +2,12 @@
     "info": {
         "Name": "mariadb11.8",
         "Epoch": "3",
-        "Version": "11.8.3",
+        "Version": "11.8.5",
         "Release": "1.fc42",
         "Architecture": "x86_64",
         "Download size": "1.8 MiB",
-        "Installed size": "23.5 MiB",
-        "Source": "mariadb11.8-11.8.3-1.fc42.src.rpm",
+        "Installed size": "27.4 MiB",
+        "Source": "mariadb11.8-11.8.5-1.fc42.src.rpm",
         "Repository": "updates",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -16,6 +16,6 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "mariadb11.8.x86_64 3:11.8.3-1.fc42 updates"
+        "mariadb11.8.x86_64 3:11.8.5-1.fc42 updates"
     ]
 }

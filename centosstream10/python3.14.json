@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.14",
         "Version": "3.14.2",
-        "Release": "1.el10",
+        "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "27 k",
-        "Source": "python3.14-3.14.2-1.el10.src.rpm",
+        "Source": "python3.14-3.14.2-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -13,9 +13,13 @@
         "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.14.x86_64                    3.14.2-1.el10                     appstream"
+        "python3.14.x86_64                    3.14.2-1.el10                     appstream",
+        "python3.14.x86_64                    3.14.2-2.el10                     appstream"
     ],
     "kojiPackages": [
+        "python3.14-3.14.2-3.el10,draft_95257",
+        "python3.14-3.14.2-3.el10,draft_94929",
+        "python3.14-3.14.2-3.el10,draft_94808",
         "python3.14-3.14.2-2.el10",
         "python3.14-3.14.2-2.el10,draft_94539",
         "python3.14-3.14.2-2.el10,draft_94330",

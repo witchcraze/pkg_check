@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.25.3",
+        "Version": "1.25.5",
         "Release": "1.el10_1",
         "Architecture": "x86_64",
-        "Size": "676 k",
-        "Source": "golang-1.25.3-1.el10_1.src.rpm",
+        "Size": "1.2 M",
+        "Source": "golang-1.25.5-1.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -18,9 +18,11 @@
         "golang.x86_64                            1.24.4-1.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "golang.x86_64                            1.24.6-1.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "golang.x86_64                            1.24.6-1.el10_0                             appstream",
-        "golang.x86_64                            1.25.3-1.el10_1                             appstream"
+        "golang.x86_64                            1.25.3-1.el10_1                             appstream",
+        "golang.x86_64                            1.25.5-1.el10_1                             appstream"
     ],
     "kojiPackages": [
+        "golang-1.25.5-1.el10_1",
         "golang-1.25.3-4.el10",
         "golang-1.25.3-2.el10",
         "golang-1.25.3-1.el10_1",

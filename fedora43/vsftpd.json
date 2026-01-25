@@ -3,12 +3,12 @@
         "Name": "vsftpd",
         "Epoch": "0",
         "Version": "3.0.5",
-        "Release": "12.fc43",
+        "Release": "14.fc43",
         "Architecture": "x86_64",
-        "Download size": "168.0 KiB",
-        "Installed size": "339.6 KiB",
-        "Source": "vsftpd-3.0.5-12.fc43.src.rpm",
-        "Repository": "fedora",
+        "Download size": "168.4 KiB",
+        "Installed size": "339.7 KiB",
+        "Source": "vsftpd-3.0.5-14.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
         "License": "GPL-2.0-only WITH vsftpd-openssl-exception",
@@ -16,6 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "vsftpd.x86_64 3.0.5-12.fc43 fedora"
+        "vsftpd.x86_64 3.0.5-12.fc43 fedora",
+        "vsftpd.x86_64 3.0.5-14.fc43 updates"
     ]
 }
