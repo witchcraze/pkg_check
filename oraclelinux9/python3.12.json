@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.12",
-        "Release": "1.0.1.el9_7",
+        "Release": "4.0.1.el9_7",
         "Architecture": "x86_64",
-        "Size": "32 k",
-        "Source": "python3.12-3.12.12-1.0.1.el9_7.src.rpm",
+        "Size": "30 k",
+        "Source": "python3.12-3.12.12-4.0.1.el9_7.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -38,6 +38,8 @@
         "python3.12.src                                                3.12.11-2.0.1.el9                                                ol9_appstream",
         "python3.12.x86_64                                             3.12.11-2.0.1.el9                                                ol9_appstream",
         "python3.12.src                                                3.12.12-1.0.1.el9_7                                              ol9_appstream",
-        "python3.12.x86_64                                             3.12.12-1.0.1.el9_7                                              ol9_appstream"
+        "python3.12.x86_64                                             3.12.12-1.0.1.el9_7                                              ol9_appstream",
+        "python3.12.src                                                3.12.12-4.0.1.el9_7                                              ol9_appstream",
+        "python3.12.x86_64                                             3.12.12-4.0.1.el9_7                                              ol9_appstream"
     ]
 }

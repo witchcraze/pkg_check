@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:4.2.23-1",
+        "Version": "3:4.2.27-0+deb13u1",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -14,14 +14,16 @@
         "Breaks": "python-django-common, python3-mysqldb (<< 1.3.13)",
         "Replaces": "python-django-common",
         "Homepage": "http://www.djangoproject.com/",
-        "Download-Size": "2737 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "Download-Size": "2738 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "High-level Python web development framework"
     },
     "list": [
+        "python3-django/stable-security 3:4.2.27-0+deb13u1 all",
         "python3-django/stable 3:4.2.23-1 all"
     ],
     "changelog": [
+        "python-django (3:4.2.27-0+deb13u1) trixie-security; urgency=high",
         "python-django (3:4.2.23-1) unstable; urgency=high",
         "python-django (3:4.2.22-1) unstable; urgency=high",
         "python-django (3:4.2.21-1) unstable; urgency=medium",

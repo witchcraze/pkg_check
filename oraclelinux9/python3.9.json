@@ -2,7 +2,7 @@
     "info": {
         "Name": "python3.9",
         "Version": "3.9.25",
-        "Release": "2.0.1.el9_7",
+        "Release": "3.0.1.el9_7",
         "Architecture": "src",
         "Size": "20 M",
         "Source": "None",
@@ -66,6 +66,8 @@
         "python3.9.src                                             3.9.23-2.0.1.el9                                                ol9_appstream",
         "python3.9.src                                             3.9.23-2.0.1.el9                                                ol9_u7_baseos_base",
         "python3.9.src                                             3.9.25-2.0.1.el9_7                                              ol9_baseos_latest",
-        "python3.9.src                                             3.9.25-2.0.1.el9_7                                              ol9_appstream"
+        "python3.9.src                                             3.9.25-2.0.1.el9_7                                              ol9_appstream",
+        "python3.9.src                                             3.9.25-3.0.1.el9_7                                              ol9_baseos_latest",
+        "python3.9.src                                             3.9.25-3.0.1.el9_7                                              ol9_appstream"
     ]
 }

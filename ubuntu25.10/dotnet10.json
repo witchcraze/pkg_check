@@ -1,13 +1,14 @@
 {
     "show": {
         "Package": "dotnet10",
-        "Version": "10.0.100-10.0.0-0ubuntu1~25.10.1",
+        "Version": "10.0.101-10.0.1-0ubuntu1~25.10.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "50",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "162 kB",
+        "Installed-Size": "163 kB",
         "Depends": "dotnet-sdk-10.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
@@ -16,11 +17,13 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet10/questing-updates 10.0.100-10.0.0-0ubuntu1~25.10.1 amd64",
+        "dotnet10/questing-updates 10.0.101-10.0.1-0ubuntu1~25.10.2 amd64",
         "dotnet10/questing-security 10.0.100-10.0.0~rc2-0ubuntu1~25.10.2 amd64",
         "dotnet10/questing 10.0.100-10.0.0~rc1-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet10 (10.0.101-10.0.1-0ubuntu1~25.10.2) questing; urgency=medium",
+        "dotnet10 (10.0.101-10.0.1-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet10 (10.0.100-10.0.0-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet10 (10.0.100-10.0.0~rc2-0ubuntu1~25.10.2) questing-security; urgency=medium",
         "dotnet10 (10.0.100-10.0.0~rc1-0ubuntu1) questing; urgency=medium",

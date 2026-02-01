@@ -1,24 +1,27 @@
 {
     "show": {
         "Package": "dotnet10",
-        "Version": "10.0.100-10.0.0-0ubuntu1~24.04.1",
+        "Version": "10.0.101-10.0.1-0ubuntu1~24.04.2",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "40",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "162 kB",
         "Depends": "dotnet-sdk-10.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
-        "Download-Size": "23.4 kB",
+        "Download-Size": "21.3 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet10/noble-updates 10.0.100-10.0.0-0ubuntu1~24.04.1 amd64"
+        "dotnet10/noble-updates 10.0.101-10.0.1-0ubuntu1~24.04.2 amd64"
     ],
     "changelog": [
+        "dotnet10 (10.0.101-10.0.1-0ubuntu1~24.04.2) noble; urgency=medium",
+        "dotnet10 (10.0.101-10.0.1-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet10 (10.0.100-10.0.0-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet10 (10.0.100-10.0.0~rc2-0ubuntu1~24.04.1~ppa1) noble; urgency=medium",
         "dotnet10 (10.0.100-10.0.0~rc1-0ubuntu1~24.04.1~ppa1) noble; urgency=medium",

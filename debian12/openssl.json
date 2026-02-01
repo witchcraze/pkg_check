@@ -1,28 +1,26 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.18-1~deb12u1",
+        "Version": "3.0.18-1~deb12u2",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
-        "Installed-Size": "2359 kB",
+        "Installed-Size": "2360 kB",
         "Depends": "libc6 (>= 2.34), libssl3 (>= 3.0.9)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
-        "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
-        "scope": "utility, security::cryptography, security::integrity,",
-        "use": "checking",
-        "Download-Size": "1432 kB",
+        "Download-Size": "1433 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable,now 3.0.18-1~deb12u1 amd64 [installed,automatic]",
-        "openssl/oldstable-security 3.0.17-1~deb12u3 amd64",
+        "openssl/oldstable-security,now 3.0.18-1~deb12u2 amd64 [installed,automatic]",
+        "openssl/oldstable 3.0.18-1~deb12u1 amd64",
         "openssl/oldstable-updates 3.0.17-1~deb12u2 amd64"
     ],
     "changelog": [
+        "openssl (3.0.18-1~deb12u2) bookworm-security; urgency=medium",
         "openssl (3.0.18-1~deb12u1) bookworm; urgency=medium",
         "openssl (3.0.17-1~deb12u3) bookworm-security; urgency=medium",
         "openssl (3.0.17-1~deb12u2) bookworm; urgency=medium",
