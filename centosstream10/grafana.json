@@ -2,10 +2,10 @@
     "info": {
         "Name": "grafana",
         "Version": "10.2.6",
-        "Release": "22.el10",
+        "Release": "23.el10",
         "Architecture": "x86_64",
         "Size": "110 M",
-        "Source": "grafana-10.2.6-22.el10.src.rpm",
+        "Source": "grafana-10.2.6-23.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "Metrics dashboard and graph editor",
         "URL": "https://grafana.org",
@@ -13,11 +13,11 @@
         "Description": "Grafana is an open source, feature rich metrics dashboard and graph editor for"
     },
     "list": [
-        "grafana.x86_64                     10.2.6-13.el10                      appstream",
         "grafana.x86_64                     10.2.6-14.el10                      appstream",
         "grafana.x86_64                     10.2.6-18.el10                      appstream",
         "grafana.x86_64                     10.2.6-20.el10                      appstream",
-        "grafana.x86_64                     10.2.6-22.el10                      appstream"
+        "grafana.x86_64                     10.2.6-22.el10                      appstream",
+        "grafana.x86_64                     10.2.6-23.el10                      appstream"
     ],
     "kojiPackages": [
         "grafana-10.2.6-23.el10",

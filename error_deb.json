@@ -56,8 +56,22 @@
                 "apt-get changelog"
             ]
         },
+        "12": {
+            "tomcat10": [
+                "apt-get changelog"
+            ]
+        },
         "13": {
+            "openjdk-25-jdk": [
+                "apt-get changelog"
+            ],
             "php8.4": [
+                "apt-get changelog"
+            ],
+            "tomcat10": [
+                "apt-get changelog"
+            ],
+            "tomcat11": [
                 "apt-get changelog"
             ]
         }

@@ -5,7 +5,6 @@
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
-        "Phased-Update-Percentage": "50",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "163 kB",
@@ -39,6 +38,7 @@
         "dotnet10 (10.0.100-10.0.0~preview2-0ubuntu1~25.04.1~ppa1) plucky; urgency=medium"
     ],
     "publishinghistory": [
+        "10.0.102-10.0.2-0ubuntu1~25.10.1",
         "10.0.101-10.0.1-0ubuntu1~25.10.2",
         "10.0.101-10.0.1-0ubuntu1~25.10.1",
         "10.0.100-10.0.0-0ubuntu1~25.10.1",
