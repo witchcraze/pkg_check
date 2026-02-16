@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.123-8.0.23-0ubuntu1~25.10.1",
+        "Version": "8.0.124-8.0.24-0ubuntu1~25.10.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -16,11 +16,11 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/questing-updates 8.0.123-8.0.23-0ubuntu1~25.10.1 amd64",
-        "dotnet8/questing-security 8.0.121-8.0.21-0ubuntu1~25.10.1 amd64",
+        "dotnet8/questing-updates,questing-security 8.0.124-8.0.24-0ubuntu1~25.10.1 amd64",
         "dotnet8/questing 8.0.120-8.0.20-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.124-8.0.24-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet8 (8.0.123-8.0.23-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet8 (8.0.122-8.0.22-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet8 (8.0.121-8.0.21-0ubuntu1~25.10.1) questing; urgency=medium",
@@ -59,6 +59,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.124-8.0.24-0ubuntu1~25.10.1",
         "8.0.123-8.0.23-0ubuntu1~25.10.1",
         "8.0.122-8.0.22-0ubuntu1~25.10.1",
         "8.0.121-8.0.21-0ubuntu1~25.10.1",

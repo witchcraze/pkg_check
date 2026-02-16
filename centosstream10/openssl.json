@@ -21,6 +21,8 @@
         "openssl.x86_64                       1:3.5.5-1.el10                       baseos"
     ],
     "kojiPackages": [
+        "openssl-3.5.1-7.el10,draft_96639",
+        "openssl-3.5.1-7.el10,draft_96594",
         "openssl-3.5.5-1.el10",
         "openssl-3.5.5-1.el10,draft_95629",
         "openssl-3.5.5-1.el10,draft_95603",

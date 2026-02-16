@@ -57,21 +57,27 @@
             ]
         },
         "12": {
-            "tomcat10": [
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "postgresql-15": [
+                "apt-get changelog"
+            ],
+            "python3-django": [
                 "apt-get changelog"
             ]
         },
         "13": {
-            "openjdk-25-jdk": [
+            "haproxy": [
+                "apt-get changelog"
+            ],
+            "nginx": [
                 "apt-get changelog"
             ],
             "php8.4": [
                 "apt-get changelog"
             ],
-            "tomcat10": [
-                "apt-get changelog"
-            ],
-            "tomcat11": [
+            "postgresql-17": [
                 "apt-get changelog"
             ]
         }

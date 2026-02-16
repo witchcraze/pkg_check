@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "haproxy",
-        "Version": "3.0.12-0ubuntu0.25.10.1",
+        "Version": "3.0.12-0ubuntu0.25.10.3",
         "Priority": "optional",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -13,15 +13,16 @@
         "Depends": "libc6 (>= 2.42), libcrypt1 (>= 1:4.1.0), libjemalloc2 (>= 2.1.1), liblua5.4-0 (>= 5.4.6), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.2.0), adduser, lsb-base (>= 3.0-6)",
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
-        "Download-Size": "2304 kB",
+        "Download-Size": "2305 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
-        "haproxy/questing-updates 3.0.12-0ubuntu0.25.10.1 amd64",
+        "haproxy/questing-updates,questing-security 3.0.12-0ubuntu0.25.10.3 amd64",
         "haproxy/questing 3.0.10-1ubuntu3 amd64"
     ],
     "changelog": [
+        "haproxy (3.0.12-0ubuntu0.25.10.3) questing-security; urgency=medium",
         "haproxy (3.0.12-0ubuntu0.25.10.1) questing; urgency=medium",
         "haproxy (3.0.10-1ubuntu3) questing; urgency=medium",
         "haproxy (3.0.10-1ubuntu2) questing; urgency=medium",
@@ -323,6 +324,7 @@
         "haproxy (1.3.12.dfsg-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.12-0ubuntu0.25.10.3",
         "3.0.12-0ubuntu0.25.10.1",
         "3.0.10-1ubuntu3",
         "3.0.10-1ubuntu2",

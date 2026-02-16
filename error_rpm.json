@@ -409,9 +409,6 @@
             ]
         },
         "43": {
-            "python3": [
-                "kojiPackages"
-            ],
             "bind": [
                 "kojiPackages"
             ],
@@ -500,6 +497,9 @@
                 "kojiPackages"
             ],
             "proftpd": [
+                "kojiPackages"
+            ],
+            "python3": [
                 "kojiPackages"
             ],
             "python3-django": [

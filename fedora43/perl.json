@@ -3,12 +3,12 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.42.0",
-        "Release": "520.fc43",
+        "Release": "521.fc43",
         "Architecture": "x86_64",
-        "Download size": "13.6 KiB",
+        "Download size": "13.0 KiB",
         "Installed size": "0.0   B",
-        "Source": "perl-5.42.0-520.fc43.src.rpm",
-        "Repository": "fedora",
+        "Source": "perl-5.42.0-521.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
         "License": "GPL-1.0-or-later OR Artistic-1.0-Perl",
@@ -16,6 +16,7 @@
         "Vendor": "Fedora Project"
     },
     "list": [
-        "perl.x86_64 4:5.42.0-520.fc43 fedora"
+        "perl.x86_64 4:5.42.0-520.fc43 fedora",
+        "perl.x86_64 4:5.42.0-521.fc43 updates"
     ]
 }
