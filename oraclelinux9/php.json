@@ -29,6 +29,8 @@
         "php.x86_64                                       8.0.30-3.el9_6                                                                ol9_appstream",
         "php.src                                          8.0.30-4.el9_7                                                                ol9_appstream",
         "php.x86_64                                       8.0.30-4.el9_7                                                                ol9_appstream",
+        "php.src                                          8.0.30-5.el9_7                                                                ol9_appstream",
+        "php.x86_64                                       8.0.30-5.el9_7                                                                ol9_appstream",
         "php.src                                          8.1.8-1.module+el9.1.0+20776+c1b960c0                                         ol9_appstream",
         "php.src                                          8.1.14-1.module+el9.2.0+20960+2088691d                                        ol9_appstream",
         "php.src                                          8.1.27-1.module+el9.3.0+90130+7e4e1ce0                                        ol9_appstream",

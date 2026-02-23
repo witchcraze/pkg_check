@@ -208,6 +208,7 @@
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "8.3.6-0ubuntu0.24.04.7",
         "8.3.6-0ubuntu0.24.04.6",
         "8.3.6-0ubuntu0.24.04.5",
         "8.3.6-0ubuntu0.24.04.4",

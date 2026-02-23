@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.11.1",
-        "Release": "2.module_el9.7.0+198+8bf605ba",
+        "Version": "24.13.0",
+        "Release": "1.module_el9.7.0+209+ecf6523e",
         "Architecture": "x86_64",
         "Size": "66 k",
-        "Source": "nodejs-24.11.1-2.module_el9.7.0+198+8bf605ba.src.rpm",
+        "Source": "nodejs-24.13.0-1.module_el9.7.0+209+ecf6523e.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -15,6 +15,7 @@
     },
     "list": [
         "nodejs.x86_64                                       1:24.4.1-7.module_el9.7.0+190+ea23c0b9                                         appstream",
-        "nodejs.x86_64                                       1:24.11.1-2.module_el9.7.0+198+8bf605ba                                        appstream"
+        "nodejs.x86_64                                       1:24.11.1-2.module_el9.7.0+198+8bf605ba                                        appstream",
+        "nodejs.x86_64                                       1:24.13.0-1.module_el9.7.0+209+ecf6523e                                        appstream"
     ]
 }

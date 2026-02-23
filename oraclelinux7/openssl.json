@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "10",
         "Version": "1.0.2k",
-        "Release": "26.el7_9_fips",
+        "Release": "26.0.1.el7_9_fips",
         "Size": "494 k",
         "Repo": "ol7_u8_security_validation/x86_64",
         "Summary": "Utilities from the general purpose cryptography library with TLS",
@@ -42,6 +42,7 @@
         "openssl.x86_64      10:1.0.2k-24.0.1.el7_9_fips       ol7_u8_security_validation",
         "openssl.x86_64      10:1.0.2k-24.0.3.el7_9_fips       ol7_u8_security_validation",
         "openssl.x86_64      10:1.0.2k-25.el7_9_fips           ol7_u8_security_validation",
-        "openssl.x86_64      10:1.0.2k-26.el7_9_fips           ol7_u8_security_validation"
+        "openssl.x86_64      10:1.0.2k-26.el7_9_fips           ol7_u8_security_validation",
+        "openssl.x86_64      10:1.0.2k-26.0.1.el7_9_fips       ol7_u8_security_validation"
     ]
 }

@@ -25,6 +25,7 @@
         "redis.x86_64                  7.2.11-1.module+el9.7.0+40013+17379f63                  appstream"
     ],
     "kojiPackages": [
+        "redis-7.2.11-2.module+el9.7.0+40085+98656c02",
         "redis-7.2.11-1.module+el9.7.0+40013+17379f63"
     ]
 }

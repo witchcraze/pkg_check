@@ -21,6 +21,7 @@
         "nginx.x86_64                      2:1.20.1-26.el9                      appstream"
     ],
     "kojiPackages": [
+        "nginx-1.20.1-28.el9",
         "nginx-1.20.1-27.el9",
         "nginx-1.20.1-26.el9",
         "nginx-1.20.1-25.el9",

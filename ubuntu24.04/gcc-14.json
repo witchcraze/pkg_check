@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "gcc-14",
-        "Version": "14.2.0-4ubuntu2~24.04",
+        "Version": "14.2.0-4ubuntu2~24.04.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
@@ -10,7 +10,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "622 kB",
         "Provides": "c-compiler",
-        "Depends": "gcc-14-x86-64-linux-gnu (= 14.2.0-4ubuntu2~24.04), gcc-14-base (= 14.2.0-4ubuntu2~24.04), cpp-14 (= 14.2.0-4ubuntu2~24.04), binutils (>= 2.39)",
+        "Depends": "gcc-14-x86-64-linux-gnu (= 14.2.0-4ubuntu2~24.04.1), gcc-14-base (= 14.2.0-4ubuntu2~24.04.1), cpp-14 (= 14.2.0-4ubuntu2~24.04.1), binutils (>= 2.39)",
         "Recommends": "libc6-dev (>= 2.13-0ubuntu6)",
         "Suggests": "gcc-14-multilib, gcc-14-doc (>= 14), gcc-14-locales (>= 14)",
         "Replaces": "cpp-14 (<< 7.1.1-8)",
@@ -20,10 +20,12 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-14/noble-updates,noble-security 14.2.0-4ubuntu2~24.04 amd64",
+        "gcc-14/noble-updates 14.2.0-4ubuntu2~24.04.1 amd64",
+        "gcc-14/noble-security 14.2.0-4ubuntu2~24.04 amd64",
         "gcc-14/noble 14-20240412-0ubuntu1 amd64"
     ],
     "changelog": [
+        "gcc-14 (14.2.0-4ubuntu2~24.04.1) noble; urgency=medium",
         "gcc-14 (14.2.0-4ubuntu2~24.04) noble-proposed; urgency=medium",
         "gcc-14 (14.2.0-4ubuntu2) oracular; urgency=medium",
         "gcc-14 (14.2.0-4ubuntu1) oracular; urgency=medium",

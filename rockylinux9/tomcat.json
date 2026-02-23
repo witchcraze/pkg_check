@@ -30,6 +30,7 @@
         "tomcat.noarch                          1:9.0.87-6.el9_7.1                             appstream"
     ],
     "kojiPackages": [
+        "tomcat-9.0.110-1.el9",
         "tomcat-9.0.87-7.el9",
         "tomcat-9.0.87-6.el9_7.1",
         "tomcat-9.0.87-6.el9"
