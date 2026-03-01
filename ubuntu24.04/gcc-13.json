@@ -22,8 +22,7 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-13/noble-updates 13.3.0-6ubuntu2~24.04.1 amd64",
-        "gcc-13/noble-security 13.3.0-6ubuntu2~24.04 amd64",
+        "gcc-13/noble-updates,noble-security 13.3.0-6ubuntu2~24.04.1 amd64",
         "gcc-13/noble 13.2.0-23ubuntu4 amd64"
     ],
     "changelog": [

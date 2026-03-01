@@ -56,8 +56,29 @@
                 "apt-get changelog"
             ]
         },
+        "12": {
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "postgresql-15": [
+                "apt-get changelog"
+            ]
+        },
         "13": {
+            "openssl": [
+                "apt-get changelog"
+            ],
             "php8.4": [
+                "apt-get changelog"
+            ],
+            "postgresql-17": [
+                "apt-get changelog"
+            ]
+        }
+    },
+    "ubuntu": {
+        "20.04": {
+            "consul": [
                 "apt-get changelog"
             ]
         }

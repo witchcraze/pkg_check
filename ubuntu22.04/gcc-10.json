@@ -20,8 +20,7 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-10/jammy-updates 10.5.0-1ubuntu1~22.04.3 amd64",
-        "gcc-10/jammy-security 10.5.0-1ubuntu1~22.04.2 amd64",
+        "gcc-10/jammy-updates,jammy-security 10.5.0-1ubuntu1~22.04.3 amd64",
         "gcc-10/jammy 10.3.0-15ubuntu1 amd64"
     ],
     "changelog": [

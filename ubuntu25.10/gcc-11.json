@@ -20,7 +20,7 @@
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-11/questing-updates 11.5.0-7ubuntu1.1 amd64",
+        "gcc-11/questing-updates,questing-security 11.5.0-7ubuntu1.1 amd64",
         "gcc-11/questing 11.5.0-7ubuntu1 amd64"
     ],
     "changelog": [

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.14",
-        "Version": "3.14.2",
-        "Release": "3.el9",
+        "Version": "3.14.3",
+        "Release": "1.el9",
         "Architecture": "x86_64",
-        "Size": "26 k",
-        "Source": "python3.14-3.14.2-3.el9.src.rpm",
+        "Size": "27 k",
+        "Source": "python3.14-3.14.3-1.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -14,7 +14,8 @@
     },
     "list": [
         "python3.14.x86_64                     3.14.2-1.el9                     appstream",
-        "python3.14.x86_64                     3.14.2-3.el9                     appstream"
+        "python3.14.x86_64                     3.14.2-3.el9                     appstream",
+        "python3.14.x86_64                     3.14.3-1.el9                     appstream"
     ],
     "kojiPackages": [
         "python3.14-3.14.3-1.el9",

@@ -21,6 +21,10 @@
         "python3.x86_64                       3.9.25-3.el9                        baseos"
     ],
     "kojiPackages": [
+        "python3.9-3.9.25-4.el9,draft_98243",
+        "python3.9-3.9.25-4.el9,draft_98237",
+        "python3.9-3.9.25-4.el9,draft_98234",
+        "python3.9-3.9.25-4.el9,draft_98151",
         "python3.9-3.9.25-3.el9",
         "python3.9-3.9.25-2.el9",
         "python3.9-3.9.23-2.el9",

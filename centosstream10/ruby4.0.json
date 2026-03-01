@@ -1,0 +1,32 @@
+{
+    "info": {
+        "Name": "ruby4.0",
+        "Version": "4.0.1",
+        "Release": "33.el10",
+        "Architecture": "x86_64",
+        "Size": "8.4 M",
+        "Source": "ruby4.0-4.0.1-33.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0-1.0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty AND (Ruby OR BSD-2-Clause OR Python-2.0.1) AND BSD-2-Clause AND (Apache-2.0 OR BSL-1.0) AND GPL-2.0-only AND CC-BY-2.5 AND OFL-1.1-RFN AND BSL-1.0",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby4.0.x86_64                      4.0.1-33.el10                      appstream"
+    ],
+    "kojiPackages": [
+        "ruby4.0-4.0.1-33.el10",
+        "ruby4.0-4.0.1-33.el10,draft_97163",
+        "ruby4.0-4.0.1-33.el10,draft_97102",
+        "ruby4.0-4.0.1-33.el10,draft_97100",
+        "ruby4.0-4.0.1-33.el10,draft_96831",
+        "ruby4.0-4.0.1-33.el10,draft_96691",
+        "ruby4.0-4.0.1-33.el10,draft_96677",
+        "ruby4.0-4.0.1-33.el10,draft_96644",
+        "ruby4.0-4.0.1-33.el10,draft_96492",
+        "ruby4.0-4.0.1-33.el10,draft_96475",
+        "ruby4.0-4.0.1-33.el10,draft_96389",
+        "ruby4.0-4.0.1-33.el10,draft_96388"
+    ]
+}

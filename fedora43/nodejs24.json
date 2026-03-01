@@ -2,12 +2,12 @@
     "info": {
         "Name": "nodejs24",
         "Epoch": "1",
-        "Version": "24.13.0",
-        "Release": "4.fc43",
+        "Version": "24.13.1",
+        "Release": "1.fc43",
         "Architecture": "x86_64",
-        "Download size": "68.1 KiB",
-        "Installed size": "303.1 KiB",
-        "Source": "nodejs24-24.13.0-4.fc43.src.rpm",
+        "Download size": "68.8 KiB",
+        "Installed size": "305.8 KiB",
+        "Source": "nodejs24-24.13.1-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -17,6 +17,6 @@
     },
     "list": [
         "nodejs24.x86_64 1:24.6.0-1.fc43  fedora",
-        "nodejs24.x86_64 1:24.13.0-4.fc43 updates"
+        "nodejs24.x86_64 1:24.13.1-1.fc43 updates"
     ]
 }

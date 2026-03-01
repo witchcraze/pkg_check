@@ -2,10 +2,10 @@
     "info": {
         "Name": "grafana",
         "Version": "9.2.10",
-        "Release": "27.el8_10",
+        "Release": "28.el8_10",
         "Architecture": "x86_64",
         "Size": "77 M",
-        "Source": "grafana-9.2.10-27.el8_10.src.rpm",
+        "Source": "grafana-9.2.10-28.el8_10.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "Metrics dashboard and graph editor",
         "URL": "https://grafana.org",
@@ -38,6 +38,7 @@
         "grafana.x86_64                                       9.2.10-23.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
         "grafana.x86_64                                       9.2.10-25.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
         "grafana.x86_64                                       9.2.10-26.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
-        "grafana.x86_64                                       9.2.10-27.el8_10                                       rhel-8-for-x86_64-appstream-rpms"
+        "grafana.x86_64                                       9.2.10-27.el8_10                                       rhel-8-for-x86_64-appstream-rpms",
+        "grafana.x86_64                                       9.2.10-28.el8_10                                       rhel-8-for-x86_64-appstream-rpms"
     ]
 }
