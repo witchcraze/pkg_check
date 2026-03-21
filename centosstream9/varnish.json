@@ -25,6 +25,8 @@
         "varnish.x86_64                       6.6.2-8.el9                       appstream"
     ],
     "kojiPackages": [
+        "varnish-6.6.2-10.el9,draft_100295",
+        "varnish-6.6.2-9.el9,draft_100183",
         "varnish-6.6.2-8.el9",
         "varnish-6.6.2-8.el9,draft_89693",
         "varnish-6.6.2-8.el9,draft_89674",

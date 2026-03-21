@@ -3,7 +3,7 @@
         "Name": "vsftpd",
         "Arch": "x86_64",
         "Version": "3.0.2",
-        "Release": "25.amzn2.0.1",
+        "Release": "25.amzn2.0.2",
         "Size": "171 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Very Secure Ftp Daemon",
@@ -15,6 +15,7 @@
         "vsftpd.x86_64                                                 3.0.2-22.amzn2                                                      amzn2-core",
         "vsftpd.x86_64                                                 3.0.2-22.amzn2.0.1                                                  amzn2-core",
         "vsftpd.x86_64                                                 3.0.2-25.amzn2                                                      amzn2-core",
-        "vsftpd.x86_64                                                 3.0.2-25.amzn2.0.1                                                  amzn2-core"
+        "vsftpd.x86_64                                                 3.0.2-25.amzn2.0.1                                                  amzn2-core",
+        "vsftpd.x86_64                                                 3.0.2-25.amzn2.0.2                                                  amzn2-core"
     ]
 }

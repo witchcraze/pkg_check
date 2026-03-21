@@ -3,11 +3,11 @@
         "Name": "python3.6",
         "Epoch": "0",
         "Version": "3.6.15",
-        "Release": "52.fc43",
+        "Release": "53.fc43",
         "Architecture": "x86_64",
         "Download size": "18.9 MiB",
         "Installed size": "79.6 MiB",
-        "Source": "python3.6-3.6.15-52.fc43.src.rpm",
+        "Source": "python3.6-3.6.15-53.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.6 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,7 +18,7 @@
     "list": [
         "python3.6.i686   3.6.15-49.fc43 fedora",
         "python3.6.x86_64 3.6.15-49.fc43 fedora",
-        "python3.6.i686   3.6.15-52.fc43 updates",
-        "python3.6.x86_64 3.6.15-52.fc43 updates"
+        "python3.6.i686   3.6.15-53.fc43 updates",
+        "python3.6.x86_64 3.6.15-53.fc43 updates"
     ]
 }

@@ -27,6 +27,8 @@
         "mysql.x86_64                                       8.0.43-1.el9_6                                                              ol9_appstream",
         "mysql.src                                          8.0.44-1.el9_7                                                              ol9_appstream",
         "mysql.x86_64                                       8.0.44-1.el9_7                                                              ol9_appstream",
+        "mysql.src                                          8.0.45-1.el9_7                                                              ol9_appstream",
+        "mysql.x86_64                                       8.0.45-1.el9_7                                                              ol9_appstream",
         "mysql.src                                          8.4.4-1.module+el9.6.0+90539+da437dfb                                       ol9_appstream",
         "mysql.src                                          8.4.6-1.module+el9.6.0+90673+e6b08fe8                                       ol9_appstream",
         "mysql.src                                          8.4.7-1.module+el9.7.0+90722+c8e17c0f                                       ol9_appstream"

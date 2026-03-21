@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "ruby3.4",
+        "Version": "3.4.8",
+        "Release": "27.amzn2023.0.2",
+        "Architecture": "x86_64",
+        "Size": "41 k",
+        "Source": "ruby3.4-3.4.8-27.amzn2023.0.2.src.rpm",
+        "Repository": "amazonlinux",
+        "Summary": "An interpreter of object-oriented scripting language",
+        "URL": "https://www.ruby-lang.org/",
+        "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
+        "Description": "Ruby is the interpreted scripting language for quick and easy"
+    },
+    "list": [
+        "ruby3.4.x86_64                 3.4.8-27.amzn2023.0.2                 amazonlinux"
+    ]
+}

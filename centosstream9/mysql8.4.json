@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.7",
-        "Release": "1.module_el9+1294+3bf61324",
+        "Version": "8.4.8",
+        "Release": "1.module_el9+1325+b8a55c72",
         "Architecture": "x86_64",
         "Size": "2.4 M",
-        "Source": "mysql-8.4.7-1.module_el9+1294+3bf61324.src.rpm",
+        "Source": "mysql-8.4.8-1.module_el9+1325+b8a55c72.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -13,11 +13,14 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql.x86_64             8.4.3-2.module_el9+1169+67ad2a1f              appstream",
         "mysql.x86_64             8.4.4-1.module_el9+1192+f597a618              appstream",
-        "mysql.x86_64             8.4.7-1.module_el9+1294+3bf61324              appstream"
+        "mysql.x86_64             8.4.7-1.module_el9+1294+3bf61324              appstream",
+        "mysql.x86_64             8.4.7-2.module_el9+1324+fc671961              appstream",
+        "mysql.x86_64             8.4.8-1.module_el9+1325+b8a55c72              appstream"
     ],
     "kojiPackages": [
+        "mysql-8.4.8-1.module_el9+1325+b8a55c72",
+        "mysql-8.4.7-2.module_el9+1324+fc671961",
         "mysql-8.4.7-1.module_el9+1294+3bf61324",
         "mysql-8.4.6-1.module_el9+1276+93e0d33b",
         "mysql-8.4.4-1.module_el9+1192+f597a618",

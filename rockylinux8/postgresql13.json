@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "13.23",
-        "Release": "1.module+el8.10.0+40055+b85d5ce2",
+        "Release": "2.module+el8.10.0+40099+4f03416d",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "postgresql-13.23-1.module+el8.10.0+40055+b85d5ce2.src.rpm",
+        "Source": "postgresql-13.23-2.module+el8.10.0+40099+4f03416d.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -30,9 +30,11 @@
         "postgresql.x86_64               13.18-1.module+el8.10.0+1898+8409d9ae                 appstream",
         "postgresql.x86_64               13.20-1.module+el8.10.0+1939+bc4b0228                 appstream",
         "postgresql.x86_64               13.22-1.module+el8.10.0+2059+b61e6896                 appstream",
-        "postgresql.x86_64               13.23-1.module+el8.10.0+40055+b85d5ce2                appstream"
+        "postgresql.x86_64               13.23-1.module+el8.10.0+40055+b85d5ce2                appstream",
+        "postgresql.x86_64               13.23-2.module+el8.10.0+40099+4f03416d                appstream"
     ],
     "kojiPackages": [
+        "postgresql-13.23-2.module+el8.10.0+40099+4f03416d",
         "postgresql-13.23-1.module+el8.10.0+40055+b85d5ce2",
         "postgresql-13.22-1.module+el8.10.0+2059+b61e6896",
         "postgresql-13.20-1.module+el8.10.0+1939+bc4b0228",

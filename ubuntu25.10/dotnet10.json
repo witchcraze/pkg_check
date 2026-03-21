@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet10",
-        "Version": "10.0.103-10.0.3-0ubuntu1~25.10.1",
+        "Version": "10.0.104-10.0.4-0ubuntu1~25.10.1",
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
@@ -16,10 +16,11 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet10/questing-updates,questing-security 10.0.103-10.0.3-0ubuntu1~25.10.1 amd64",
+        "dotnet10/questing-updates,questing-security 10.0.104-10.0.4-0ubuntu1~25.10.1 amd64",
         "dotnet10/questing 10.0.100-10.0.0~rc1-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet10 (10.0.104-10.0.4-0ubuntu1~25.10.1) questing-security; urgency=medium",
         "dotnet10 (10.0.103-10.0.3-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet10 (10.0.102-10.0.2-0ubuntu1~25.10.1) questing; urgency=medium",
         "dotnet10 (10.0.101-10.0.1-0ubuntu1~25.10.2) questing; urgency=medium",
@@ -39,6 +40,8 @@
         "dotnet10 (10.0.100-10.0.0~preview2-0ubuntu1~25.04.1~ppa1) plucky; urgency=medium"
     ],
     "publishinghistory": [
+        "10.0.105-10.0.5-0ubuntu1~25.10.1",
+        "10.0.104-10.0.4-0ubuntu1~25.10.1",
         "10.0.103-10.0.3-0ubuntu1~25.10.1",
         "10.0.101-10.0.1-0ubuntu1~25.10.2",
         "10.0.101-10.0.1-0ubuntu1~25.10.1",

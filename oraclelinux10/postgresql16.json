@@ -1,7 +1,7 @@
 {
     "info": {
         "Name": "postgresql16",
-        "Version": "16.11",
+        "Version": "16.13",
         "Release": "1.0.1.el10_1",
         "Architecture": "src",
         "Size": "45 M",
@@ -16,6 +16,7 @@
         "postgresql16.src                                              16.8-1.0.1.el10_0                                               ol10_appstream",
         "postgresql16.src                                              16.10-1.0.1.el10_0                                              ol10_appstream",
         "postgresql16.src                                              16.10-1.0.1.el10_1                                              ol10_appstream",
-        "postgresql16.src                                              16.11-1.0.1.el10_1                                              ol10_appstream"
+        "postgresql16.src                                              16.11-1.0.1.el10_1                                              ol10_appstream",
+        "postgresql16.src                                              16.13-1.0.1.el10_1                                              ol10_appstream"
     ]
 }

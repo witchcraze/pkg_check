@@ -2,9 +2,9 @@
     "info": {
         "Name": "golang",
         "Arch": "x86_64",
-        "Version": "1.24.13",
+        "Version": "1.25.8",
         "Release": "1.amzn2.0.1",
-        "Size": "759 k",
+        "Size": "764 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -57,6 +57,8 @@
         "golang.x86_64                                                 1.24.9-1.amzn2.0.1                                                  amzn2-core",
         "golang.x86_64                                                 1.24.11-1.amzn2.0.1                                                 amzn2-core",
         "golang.x86_64                                                 1.24.12-1.amzn2.0.1                                                 amzn2-core",
-        "golang.x86_64                                                 1.24.13-1.amzn2.0.1                                                 amzn2-core"
+        "golang.x86_64                                                 1.24.13-1.amzn2.0.1                                                 amzn2-core",
+        "golang.x86_64                                                 1.25.7-1.amzn2.0.1                                                  amzn2-core",
+        "golang.x86_64                                                 1.25.8-1.amzn2.0.1                                                  amzn2-core"
     ]
 }

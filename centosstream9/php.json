@@ -20,6 +20,8 @@
         "php.x86_64                        8.0.30-5.el9                         appstream"
     ],
     "kojiPackages": [
+        "php-8.0.30-7.el9,draft_100289",
+        "php-8.0.30-6.el9,draft_100159",
         "php-8.0.30-5.el9",
         "php-8.0.30-4.el9",
         "php-8.0.30-3.el9",

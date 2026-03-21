@@ -3,7 +3,7 @@
         "Name": "mariadb10.11",
         "Epoch": "3",
         "Version": "10.11.15",
-        "Release": "1.el10_1",
+        "Release": "2.el10_1",
         "Architecture": "src",
         "Size": "107 M",
         "Source": "None",
@@ -15,6 +15,7 @@
     },
     "list": [
         "mariadb10.11.src                                             3:10.11.11-1.el10                                                ol10_appstream",
-        "mariadb10.11.src                                             3:10.11.15-1.el10_1                                              ol10_appstream"
+        "mariadb10.11.src                                             3:10.11.15-1.el10_1                                              ol10_appstream",
+        "mariadb10.11.src                                             3:10.11.15-2.el10_1                                              ol10_appstream"
     ]
 }

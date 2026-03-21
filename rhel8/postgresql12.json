@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "12.22",
-        "Release": "5.module+el8.10.0+23469+cd66ea30",
+        "Release": "6.module+el8.10.0+24045+2b30545f",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "postgresql-12.22-5.module+el8.10.0+23469+cd66ea30.src.rpm",
+        "Source": "postgresql-12.22-6.module+el8.10.0+24045+2b30545f.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -27,6 +27,7 @@
         "postgresql.x86_64                          12.20-1.module+el8.10.0+22214+9beb89d6                           rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          12.22-1.module+el8.10.0+22548+dd326681                           rhel-8-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          12.22-3.module+el8.10.0+22943+b3f02cd1                           rhel-8-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                          12.22-5.module+el8.10.0+23469+cd66ea30                           rhel-8-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                          12.22-5.module+el8.10.0+23469+cd66ea30                           rhel-8-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                          12.22-6.module+el8.10.0+24045+2b30545f                           rhel-8-for-x86_64-appstream-rpms"
     ]
 }

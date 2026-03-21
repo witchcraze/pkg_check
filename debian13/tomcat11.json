@@ -11,12 +11,11 @@
         "Suggests": "tomcat11-admin (>= 11.0.15-1~deb13u1), tomcat11-docs (>= 11.0.15-1~deb13u1), tomcat11-examples (>= 11.0.15-1~deb13u1), tomcat11-user (>= 11.0.15-1~deb13u1)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "38.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "Apache Tomcat 11 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat11/stable-security 11.0.15-1~deb13u1 all",
-        "tomcat11/stable 11.0.6-1 all"
+        "tomcat11/stable,stable-security 11.0.15-1~deb13u1 all"
     ],
     "changelog": [
         "tomcat11 (11.0.15-1~deb13u1) trixie-security; urgency=medium",

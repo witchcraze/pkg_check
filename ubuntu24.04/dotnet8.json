@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.124-8.0.24-0ubuntu1~24.04.1",
+        "Version": "8.0.125-8.0.25-0ubuntu1~24.04.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -16,10 +16,11 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/noble-updates,noble-security 8.0.124-8.0.24-0ubuntu1~24.04.1 amd64",
+        "dotnet8/noble-updates,noble-security 8.0.125-8.0.25-0ubuntu1~24.04.1 amd64",
         "dotnet8/noble 8.0.104-8.0.4-0ubuntu1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.125-8.0.25-0ubuntu1~24.04.1) noble-security; urgency=medium",
         "dotnet8 (8.0.124-8.0.24-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet8 (8.0.123-8.0.23-0ubuntu1~24.04.1) noble; urgency=medium",
         "dotnet8 (8.0.122-8.0.22-0ubuntu1~24.04.1) noble; urgency=medium",
@@ -54,6 +55,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.125-8.0.25-0ubuntu1~24.04.1",
         "8.0.124-8.0.24-0ubuntu1~24.04.1",
         "8.0.123-8.0.23-0ubuntu1~24.04.1",
         "8.0.122-8.0.22-0ubuntu1~24.04.1",

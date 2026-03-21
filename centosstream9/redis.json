@@ -20,6 +20,7 @@
         "redis.x86_64                       6.2.20-3.el9                        appstream"
     ],
     "kojiPackages": [
+        "redis-6.2.20-4.el9,draft_99035",
         "redis-6.2.20-3.el9",
         "redis-6.2.20-3.el9,draft_94222",
         "redis-6.2.20-2.el9",

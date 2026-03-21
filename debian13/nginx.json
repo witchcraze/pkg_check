@@ -11,13 +11,14 @@
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
+        "Tag": "implemented-in::c, interface::daemon, network::server, network::service,",
+        "protocol": "http, role::program, use::proxying",
         "Download-Size": "609 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/stable-security 1.26.3-3+deb13u2 amd64",
-        "nginx/stable 1.26.3-3+deb13u1 amd64"
+        "nginx/stable,stable-security 1.26.3-3+deb13u2 amd64"
     ],
     "changelog": [
         "nginx (1.26.3-3+deb13u2) trixie-security; urgency=medium",

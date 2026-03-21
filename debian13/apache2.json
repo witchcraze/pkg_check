@@ -1,14 +1,14 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.66-1~deb13u1",
+        "Version": "2.4.66-1~deb13u2",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Installed-Size": "591 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.66-1~deb13u1), apache2-data (= 2.4.66-1~deb13u1), apache2-utils (= 2.4.66-1~deb13u1), media-types, procps, perl:any",
+        "Depends": "apache2-bin (= 2.4.66-1~deb13u2), apache2-data (= 2.4.66-1~deb13u2), apache2-utils (= 2.4.66-1~deb13u2), media-types, procps, perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw, www-browser",
         "Homepage": "https://httpd.apache.org/",
@@ -18,9 +18,10 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/stable 2.4.66-1~deb13u1 amd64"
+        "apache2/stable 2.4.66-1~deb13u2 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.66-1~deb13u2) trixie; urgency=medium",
         "apache2 (2.4.66-1~deb13u1) trixie; urgency=medium",
         "apache2 (2.4.65-2) unstable; urgency=high",
         "apache2 (2.4.65-1) unstable; urgency=medium",

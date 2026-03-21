@@ -135,6 +135,7 @@
         "rabbitmq-server (1.5.0-1) testing; urgency=low"
     ],
     "publishinghistory": [
+        "4.0.5-8ubuntu2.1",
         "4.0.5-8ubuntu2",
         "4.0.5-8ubuntu1",
         "4.0.5-6ubuntu1",

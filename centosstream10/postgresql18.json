@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql18",
-        "Version": "18.1",
-        "Release": "2.el10",
+        "Version": "18.3",
+        "Release": "1.el10",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "postgresql18-18.1-2.el10.src.rpm",
+        "Source": "postgresql18-18.3-1.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,9 +15,14 @@
     "list": [
         "postgresql18.x86_64                    18.0-2.el10                     appstream",
         "postgresql18.x86_64                    18.1-1.el10                     appstream",
-        "postgresql18.x86_64                    18.1-2.el10                     appstream"
+        "postgresql18.x86_64                    18.1-2.el10                     appstream",
+        "postgresql18.x86_64                    18.3-1.el10                     appstream"
     ],
     "kojiPackages": [
+        "postgresql18-18.1-3.el10,draft_99320",
+        "postgresql18-18.3-1.el10",
+        "postgresql18-18.3-1.el10,draft_99317",
+        "postgresql18-18.1-3.el10,draft_99315",
         "postgresql18-18.3-1.el10,draft_98399",
         "postgresql18-18.1-3.el10,draft_98209",
         "postgresql18-18.2-1.el10,draft_97377",

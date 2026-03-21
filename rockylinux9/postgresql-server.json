@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql-server",
         "Version": "13.23",
-        "Release": "1.el9_7",
+        "Release": "2.el9_7",
         "Architecture": "x86_64",
         "Size": "5.7 M",
-        "Source": "postgresql-13.23-1.el9_7.src.rpm",
+        "Source": "postgresql-13.23-2.el9_7.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -27,6 +27,7 @@
         "postgresql-server.x86_64                        13.20-1.el9_5                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "postgresql-server.x86_64                        13.22-1.el9_6                         dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "postgresql-server.x86_64                        13.22-1.el9_6                         appstream",
-        "postgresql-server.x86_64                        13.23-1.el9_7                         appstream"
+        "postgresql-server.x86_64                        13.23-1.el9_7                         appstream",
+        "postgresql-server.x86_64                        13.23-2.el9_7                         appstream"
     ]
 }
