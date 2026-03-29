@@ -1,25 +1,28 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "4.0.5-8ubuntu2",
+        "Version": "4.0.5-8ubuntu2.1",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
+        "Phased-Update-Percentage": "0",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian OpenStack <team+openstack@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "25.6 MB",
-        "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:27.0), erlang-eldap (>= 1:27.0), erlang-inets (>= 1:27.0), erlang-mnesia (>= 1:27.0), erlang-os-mon (>= 1:27.0), erlang-parsetools (>= 1:27.0), erlang-public-key (>= 1:27.0), erlang-runtime-tools (>= 1:27.0), erlang-ssl (>= 1:27.0), erlang-syntax-tools (>= 1:27.0), erlang-tools (>= 1:27.0), erlang-xmerl (>= 1:27.0), openssl, socat, python3:any",
+        "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:27.0), erlang-eldap (>= 1:27.0), erlang-inets (>= 1:27.0), erlang-mnesia (>= 1:27.0), erlang-os-mon (>= 1:27.0), erlang-parsetools (>= 1:27.0), erlang-public-key (>= 1:27.0), erlang-runtime-tools (>= 1:27.0), erlang-ssl (>= 1:27.0), erlang-syntax-tools (>= 1:27.0), erlang-tools (>= 1:27.0), erlang-xmerl (>= 1:27.0), iproute2, openssl, socat, python3:any",
         "Recommends": "logrotate",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "16.8 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "list": [
+        "rabbitmq-server/questing-updates 4.0.5-8ubuntu2.1 all",
         "rabbitmq-server/questing 4.0.5-8ubuntu2 all"
     ],
     "changelog": [
+        "rabbitmq-server (4.0.5-8ubuntu2.1) questing; urgency=medium",
         "rabbitmq-server (4.0.5-8ubuntu2) questing; urgency=medium",
         "rabbitmq-server (4.0.5-8ubuntu1) questing; urgency=medium",
         "rabbitmq-server (4.0.5-8) unstable; urgency=medium",

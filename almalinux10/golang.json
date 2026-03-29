@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.25.7",
+        "Version": "1.25.8",
         "Release": "1.el10_1.alma.1",
         "Architecture": "x86_64",
         "Size": "1.2 M",
-        "Source": "golang-1.25.7-1.el10_1.alma.1.src.rpm",
+        "Source": "golang-1.25.8-1.el10_1.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -21,6 +21,7 @@
         "golang.x86_64                           1.25.3-1.el10_1.alma.1                            appstream",
         "golang.x86_64                           1.25.3-1.el10_1.alma.2                            appstream",
         "golang.x86_64                           1.25.5-1.el10_1.alma.1                            appstream",
-        "golang.x86_64                           1.25.7-1.el10_1.alma.1                            appstream"
+        "golang.x86_64                           1.25.7-1.el10_1.alma.1                            appstream",
+        "golang.x86_64                           1.25.8-1.el10_1.alma.1                            appstream"
     ]
 }

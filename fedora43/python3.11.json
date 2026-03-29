@@ -3,11 +3,11 @@
         "Name": "python3.11",
         "Epoch": "0",
         "Version": "3.11.15",
-        "Release": "1.fc43",
+        "Release": "2.fc43",
         "Architecture": "x86_64",
-        "Download size": "25.5 KiB",
-        "Installed size": "27.3 KiB",
-        "Source": "python3.11-3.11.15-1.fc43.src.rpm",
+        "Download size": "25.6 KiB",
+        "Installed size": "27.4 KiB",
+        "Source": "python3.11-3.11.15-2.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Version 3.11 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -18,7 +18,7 @@
     "list": [
         "python3.11.i686   3.11.13-2.fc43 fedora",
         "python3.11.x86_64 3.11.13-2.fc43 fedora",
-        "python3.11.i686   3.11.15-1.fc43 updates",
-        "python3.11.x86_64 3.11.15-1.fc43 updates"
+        "python3.11.i686   3.11.15-2.fc43 updates",
+        "python3.11.x86_64 3.11.15-2.fc43 updates"
     ]
 }

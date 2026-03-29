@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.4.7",
-        "Release": "1.module_el9.7.0+194+73a02de8",
+        "Version": "8.4.8",
+        "Release": "1.module_el9.7.0+219+aca48cd3",
         "Architecture": "x86_64",
         "Size": "18 M",
-        "Source": "mysql-8.4.7-1.module_el9.7.0+194+73a02de8.src.rpm",
+        "Source": "mysql-8.4.8-1.module_el9.7.0+219+aca48cd3.src.rpm",
         "Repository": "appstream",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -16,6 +16,7 @@
         "mysql-server.x86_64                  8.4.4-1.module_el9.6.0+152+8cbce00c                   repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "mysql-server.x86_64                  8.4.6-1.module_el9.6.0+180+a4e757e5                   appstream",
         "mysql-server.x86_64                  8.4.6-1.module_el9.6.0+180+a4e757e5                   repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
-        "mysql-server.x86_64                  8.4.7-1.module_el9.7.0+194+73a02de8                   appstream"
+        "mysql-server.x86_64                  8.4.7-1.module_el9.7.0+194+73a02de8                   appstream",
+        "mysql-server.x86_64                  8.4.8-1.module_el9.7.0+219+aca48cd3                   appstream"
     ]
 }

@@ -16,6 +16,8 @@
         "gcc-toolset-13.x86_64                    13.0-2.el9                    appstream"
     ],
     "kojiPackages": [
+        "gcc-toolset-13-13.0-7.el9,draft_104211",
+        "gcc-toolset-13-13.0-6.el9,draft_104133",
         "gcc-toolset-13-13.0-5.el9,draft_102993",
         "gcc-toolset-13-13.0-4.el9,draft_102761",
         "gcc-toolset-13-13.0-3.el9,draft_101605",

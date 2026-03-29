@@ -20,6 +20,7 @@
         "python3.11.x86_64                    3.11.13-7.el9                     appstream"
     ],
     "kojiPackages": [
+        "python3.11-3.11.13-8.el9",
         "python3.11-3.11.13-8.el9,draft_102211",
         "python3.11-3.11.13-8.el9,draft_102212",
         "python3.11-3.11.13-7.el9",
