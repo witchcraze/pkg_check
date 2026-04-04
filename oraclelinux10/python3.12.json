@@ -2,7 +2,7 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.12",
-        "Release": "3.0.1.el10_1.1",
+        "Release": "3.0.1.el10_1.2",
         "Architecture": "src",
         "Size": "20 M",
         "Source": "None",
@@ -32,6 +32,8 @@
         "python3.12.src                                          3.12.12-3.0.1.el10_1                                             ol10_baseos_latest",
         "python3.12.src                                          3.12.12-3.0.1.el10_1                                             ol10_appstream",
         "python3.12.src                                          3.12.12-3.0.1.el10_1.1                                           ol10_baseos_latest",
-        "python3.12.src                                          3.12.12-3.0.1.el10_1.1                                           ol10_appstream"
+        "python3.12.src                                          3.12.12-3.0.1.el10_1.1                                           ol10_appstream",
+        "python3.12.src                                          3.12.12-3.0.1.el10_1.2                                           ol10_baseos_latest",
+        "python3.12.src                                          3.12.12-3.0.1.el10_1.2                                           ol10_appstream"
     ]
 }

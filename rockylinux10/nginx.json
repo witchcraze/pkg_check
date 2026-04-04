@@ -3,19 +3,20 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "1.el10",
+        "Release": "2.el10_1",
         "Architecture": "x86_64",
-        "Size": "33 k",
-        "Source": "nginx-1.26.3-1.el10.src.rpm",
-        "Repository": "dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "Size": "32 k",
+        "Source": "nginx-1.26.3-2.el10_1.src.rpm",
+        "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
         "License": "BSD-2-Clause",
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                             2:1.26.3-1.el10                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "nginx.x86_64                             2:1.26.3-1.el10                             appstream"
+        "nginx.x86_64                            2:1.26.3-1.el10                              dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "nginx.x86_64                            2:1.26.3-1.el10                              appstream",
+        "nginx.x86_64                            2:1.26.3-2.el10_1                            appstream"
     ],
     "kojiPackages": [
         "nginx-1.26.3-2.el10_1",

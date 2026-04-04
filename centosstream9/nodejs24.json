@@ -19,6 +19,7 @@
         "nodejs.x86_64           1:24.13.0-1.module_el9+1312+8f77b0ff           appstream"
     ],
     "kojiPackages": [
+        "nodejs-24.14.1-2.module_el9+1328+43462ce9",
         "nodejs-24.13.0-1.module_el9+1312+8f77b0ff",
         "nodejs-24.13.0-1.module_el9+1315+edd29317",
         "nodejs-24.4.1-6.module_el9+1266+49a8750a",

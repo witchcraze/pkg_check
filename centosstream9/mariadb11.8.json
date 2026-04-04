@@ -17,6 +17,7 @@
         "mariadb.x86_64           3:11.8.5-1.module_el9+1304+6dbdc612           appstream"
     ],
     "kojiPackages": [
+        "mariadb-11.8.6-2.module_el9+1327+fe5ff7c2",
         "mariadb-11.8.5-1.module_el9+1304+6dbdc612",
         "mariadb-11.8.3-7.module_el9+1299+3228fb30",
         "mariadb-11.8.3-6.module_el9+1297+eaf3c84c"

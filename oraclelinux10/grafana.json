@@ -2,10 +2,10 @@
     "info": {
         "Name": "grafana",
         "Version": "10.2.6",
-        "Release": "22.el10_1",
+        "Release": "23.el10_1",
         "Architecture": "x86_64",
         "Size": "115 M",
-        "Source": "grafana-10.2.6-22.el10_1.src.rpm",
+        "Source": "grafana-10.2.6-23.el10_1.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "Metrics dashboard and graph editor",
         "URL": "https://grafana.org",
@@ -22,6 +22,8 @@
         "grafana.src                                                   10.2.6-21.el10_1                                                ol10_appstream",
         "grafana.x86_64                                                10.2.6-21.el10_1                                                ol10_appstream",
         "grafana.src                                                   10.2.6-22.el10_1                                                ol10_appstream",
-        "grafana.x86_64                                                10.2.6-22.el10_1                                                ol10_appstream"
+        "grafana.x86_64                                                10.2.6-22.el10_1                                                ol10_appstream",
+        "grafana.src                                                   10.2.6-23.el10_1                                                ol10_appstream",
+        "grafana.x86_64                                                10.2.6-23.el10_1                                                ol10_appstream"
     ]
 }

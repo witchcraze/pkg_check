@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby3.2",
-        "Version": "3.2.3-1ubuntu0.24.04.6",
+        "Version": "3.2.3-1ubuntu0.24.04.7",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
@@ -17,10 +17,11 @@
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
-        "ruby3.2/noble-updates,noble-security 3.2.3-1ubuntu0.24.04.6 amd64",
+        "ruby3.2/noble-updates,noble-security 3.2.3-1ubuntu0.24.04.7 amd64",
         "ruby3.2/noble 3.2.3-1build3 amd64"
     ],
     "changelog": [
+        "ruby3.2 (3.2.3-1ubuntu0.24.04.7) noble-security; urgency=medium",
         "ruby3.2 (3.2.3-1ubuntu0.24.04.6) noble-security; urgency=medium",
         "ruby3.2 (3.2.3-1ubuntu0.24.04.5) noble-security; urgency=medium",
         "ruby3.2 (3.2.3-1ubuntu0.24.04.3) noble-security; urgency=medium",
@@ -132,6 +133,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.2.3-1ubuntu0.24.04.7",
         "3.2.3-1ubuntu0.24.04.6",
         "3.2.3-1ubuntu0.24.04.5",
         "3.2.3-1ubuntu0.24.04.3",

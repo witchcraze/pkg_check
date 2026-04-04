@@ -3,7 +3,7 @@
         "Name": "python",
         "Arch": "x86_64",
         "Version": "2.7.18",
-        "Release": "1.amzn2.0.16",
+        "Release": "1.amzn2.0.17",
         "Size": "79 k",
         "Repo": "installed",
         "Summary": "An interpreted, interactive, object-oriented programming language",
@@ -12,7 +12,7 @@
         "Description": "Python is an interpreted, interactive, object-oriented programming"
     },
     "list": [
-        "python.x86_64                                                 2.7.18-1.amzn2.0.16                                                 installed",
+        "python.x86_64                                                 2.7.18-1.amzn2.0.17                                                 installed",
         "python.x86_64                                                 2.7.5-58.amzn2                                                      amzn2-core",
         "python.x86_64                                                 2.7.14-58.amzn2.0.2                                                 amzn2-core",
         "python.x86_64                                                 2.7.14-58.amzn2.0.3                                                 amzn2-core",
@@ -38,6 +38,7 @@
         "python.x86_64                                                 2.7.18-1.amzn2.0.13                                                 amzn2-core",
         "python.x86_64                                                 2.7.18-1.amzn2.0.14                                                 amzn2-core",
         "python.x86_64                                                 2.7.18-1.amzn2.0.15                                                 amzn2-core",
-        "python.x86_64                                                 2.7.18-1.amzn2.0.16                                                 amzn2-core"
+        "python.x86_64                                                 2.7.18-1.amzn2.0.16                                                 amzn2-core",
+        "python.x86_64                                                 2.7.18-1.amzn2.0.17                                                 amzn2-core"
     ]
 }

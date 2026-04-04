@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "ruby3.3",
-        "Version": "3.3.8-2ubuntu2",
+        "Version": "3.3.8-2ubuntu2.1",
         "Priority": "optional",
         "Section": "ruby",
         "Origin": "Ubuntu",
@@ -12,14 +12,16 @@
         "Depends": "rubygems-integration (>= 1.17.1~), libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libgmp10 (>= 2:6.3.0+dfsg), libruby3.3 (>= 3.3.0~preview1), zlib1g (>= 1:1.1.4)",
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
-        "Download-Size": "59.0 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing/main amd64 Packages",
+        "Download-Size": "49.2 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
+        "ruby3.3/questing-updates,questing-security 3.3.8-2ubuntu2.1 amd64",
         "ruby3.3/questing 3.3.8-2ubuntu2 amd64"
     ],
     "changelog": [
+        "ruby3.3 (3.3.8-2ubuntu2.1) questing-security; urgency=medium",
         "ruby3.3 (3.3.8-2ubuntu2) questing; urgency=medium",
         "ruby3.3 (3.3.8-2ubuntu1) questing; urgency=medium",
         "ruby3.3 (3.3.8-2) unstable; urgency=medium",
@@ -152,6 +154,7 @@
         "ruby2.0 (2.0.0.247-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.3.8-2ubuntu2.1",
         "3.3.8-2ubuntu2",
         "3.3.8-2ubuntu1",
         "3.3.7-1ubuntu2"

@@ -61,6 +61,7 @@
         "platform-python.x86_64                    3.6.8-73.el8_10.rocky.0                     baseos"
     ],
     "kojiPackages": [
+        "python3-3.6.8-75.el8.rocky.0",
         "python3-3.6.8-73.el8_10.rocky.0",
         "python3-3.6.8-72.el8_10.rocky.0",
         "python3-3.6.8-71.el8_10.rocky.0",

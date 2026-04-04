@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "nodejs",
-        "Version": "20.19.2+dfsg-1+deb13u1",
+        "Version": "20.19.2+dfsg-1+deb13u2",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
-        "Installed-Size": "2421 kB",
-        "Provides": "node-types-node (= 20.17.47~20.19.2+dfsg-1+deb13u1)",
-        "Depends": "libc6 (>= 2.34), libnode115 (= 20.19.2+dfsg-1+deb13u1), node-corepack",
+        "Installed-Size": "2424 kB",
+        "Provides": "node-types-node (= 20.17.47~20.19.2+dfsg-1+deb13u2)",
+        "Depends": "libc6 (>= 2.34), libnode115 (= 20.19.2+dfsg-1+deb13u2), node-corepack",
         "Recommends": "ca-certificates, nodejs-doc",
         "Suggests": "npm",
         "Conflicts": "nodejs-legacy",
@@ -19,10 +19,11 @@
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/stable-security 20.19.2+dfsg-1+deb13u1 amd64",
+        "nodejs/stable-security 20.19.2+dfsg-1+deb13u2 amd64",
         "nodejs/stable 20.19.2+dfsg-1 amd64"
     ],
     "changelog": [
+        "nodejs (20.19.2+dfsg-1+deb13u2) trixie-security; urgency=medium",
         "nodejs (20.19.2+dfsg-1+deb13u1) trixie-security; urgency=medium",
         "nodejs (20.19.2+dfsg-1) unstable; urgency=medium",
         "nodejs (20.19.0+dfsg1-1) unstable; urgency=medium",
