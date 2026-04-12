@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1f-1ubuntu2.24+esm2",
+        "Version": "1.1.1f-1ubuntu2.24+esm3",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -9,13 +9,13 @@
         "Installed-Size": "1287 kB",
         "Depends": "libc6 (>= 2.15), libssl1.1 (>= 1.1.1)",
         "Suggests": "ca-certificates",
-        "Download-Size": "621 kB",
+        "Download-Size": "622 kB",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu focal-infra-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/focal-infra-security 1.1.1f-1ubuntu2.24+esm2 amd64 [upgradable from: 1.1.1f-1ubuntu2.24]",
-        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.24 amd64 [installed,upgradable to: 1.1.1f-1ubuntu2.24+esm2]",
+        "openssl/focal-infra-security 1.1.1f-1ubuntu2.24+esm3 amd64 [upgradable from: 1.1.1f-1ubuntu2.24]",
+        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.24 amd64 [installed,upgradable to: 1.1.1f-1ubuntu2.24+esm3]",
         "openssl/focal 1.1.1f-1ubuntu2 amd64"
     ],
     "changelog": [

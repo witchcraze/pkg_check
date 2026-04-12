@@ -37,6 +37,7 @@
         "nginx.src                                     1:1.24.0-4.0.1.module+el9.5.0+90422+83a5a420                                     ol9_appstream",
         "nginx.src                                     1:1.24.0-4.0.1.module+el9.5.0+90543+4953bb61.1                                   ol9_appstream",
         "nginx.src                                     1:1.24.0-5.0.1.module+el9.7.0+90821+c4114bda.1                                   ol9_appstream",
+        "nginx.src                                     1:1.24.0-5.0.1.module+el9.7.0+90864+a04e5d5f.2                                   ol9_appstream",
         "nginx.src                                     2:1.20.1-20.0.1.el9                                                              ol9_appstream",
         "nginx.x86_64                                  2:1.20.1-20.0.1.el9                                                              ol9_appstream",
         "nginx.src                                     2:1.20.1-22.0.1.el9                                                              ol9_appstream",
@@ -47,6 +48,8 @@
         "nginx.x86_64                                  2:1.20.1-22.0.1.el9_6.3                                                          ol9_appstream",
         "nginx.src                                     2:1.20.1-24.0.1.el9_7.1                                                          ol9_appstream",
         "nginx.x86_64                                  2:1.20.1-24.0.1.el9_7.1                                                          ol9_appstream",
+        "nginx.src                                     2:1.20.1-24.0.1.el9_7.2                                                          ol9_appstream",
+        "nginx.x86_64                                  2:1.20.1-24.0.1.el9_7.2                                                          ol9_appstream",
         "nginx.src                                     2:1.26.3-1.0.1.module+el9.6.0+90537+0ba38d54                                     ol9_appstream",
         "nginx.src                                     2:1.26.3-2.0.1.module+el9.7.0+90839+78c19072                                     ol9_appstream"
     ]

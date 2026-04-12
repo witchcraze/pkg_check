@@ -2,10 +2,10 @@
     "info": {
         "Name": "grafana",
         "Version": "10.2.6",
-        "Release": "22.el10_1",
+        "Release": "23.el10_1",
         "Architecture": "x86_64",
-        "Size": "109 M",
-        "Source": "grafana-10.2.6-22.el10_1.src.rpm",
+        "Size": "108 M",
+        "Source": "grafana-10.2.6-23.el10_1.src.rpm",
         "Repository": "appstream",
         "Summary": "Metrics dashboard and graph editor",
         "URL": "https://grafana.org",
@@ -17,7 +17,8 @@
         "grafana.x86_64                           10.2.6-18.el10_0                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "grafana.x86_64                           10.2.6-20.el10                              appstream",
         "grafana.x86_64                           10.2.6-21.el10_1                            appstream",
-        "grafana.x86_64                           10.2.6-22.el10_1                            appstream"
+        "grafana.x86_64                           10.2.6-22.el10_1                            appstream",
+        "grafana.x86_64                           10.2.6-23.el10_1                            appstream"
     ],
     "kojiPackages": [
         "grafana-10.2.6-23.el10_1",

@@ -2,10 +2,10 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.13.0",
-        "Release": "1.module+el9.7.0+90805+68a1aa93",
+        "Version": "24.14.1",
+        "Release": "2.module+el9.7.0+90866+5a953a4c",
         "Architecture": "src",
-        "Size": "93 M",
+        "Size": "98 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
@@ -79,9 +79,11 @@
         "nodejs.src                                       1:22.19.0-2.module+el9.6.0+90668+317a0f5a                                     ol9_appstream",
         "nodejs.src                                       1:22.19.0-2.module+el9.7.0+90752+34782e9c                                     ol9_appstream",
         "nodejs.src                                       1:22.22.0-1.module+el9.7.0+90816+ad59ca7b                                     ol9_appstream",
+        "nodejs.src                                       1:22.22.2-1.module+el9.7.0+90867+2ede48fe                                     ol9_appstream",
         "nodejs.src                                       1:24.4.1-6.module+el9.7.0+90686+6eedad4d                                      ol9_appstream",
         "nodejs.src                                       1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                      ol9_appstream",
         "nodejs.src                                       1:24.11.1-2.module+el9.7.0+90730+edf704f1                                     ol9_appstream",
-        "nodejs.src                                       1:24.13.0-1.module+el9.7.0+90805+68a1aa93                                     ol9_appstream"
+        "nodejs.src                                       1:24.13.0-1.module+el9.7.0+90805+68a1aa93                                     ol9_appstream",
+        "nodejs.src                                       1:24.14.1-2.module+el9.7.0+90866+5a953a4c                                     ol9_appstream"
     ]
 }

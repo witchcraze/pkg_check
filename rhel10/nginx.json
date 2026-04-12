@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "2.el10_1",
+        "Release": "2.el10_1.1",
         "Architecture": "x86_64",
-        "Size": "39 k",
-        "Source": "nginx-1.26.3-2.el10_1.src.rpm",
+        "Size": "40 k",
+        "Source": "nginx-1.26.3-2.el10_1.1.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,7 +14,8 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                                       2:1.26.3-1.el10                                         rhel-10-for-x86_64-appstream-rpms",
-        "nginx.x86_64                                       2:1.26.3-2.el10_1                                       rhel-10-for-x86_64-appstream-rpms"
+        "nginx.x86_64                                      2:1.26.3-1.el10                                          rhel-10-for-x86_64-appstream-rpms",
+        "nginx.x86_64                                      2:1.26.3-2.el10_1                                        rhel-10-for-x86_64-appstream-rpms",
+        "nginx.x86_64                                      2:1.26.3-2.el10_1.1                                      rhel-10-for-x86_64-appstream-rpms"
     ]
 }

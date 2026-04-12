@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "2:3.2.12-2ubuntu1.25",
+        "Version": "2:3.2.12-2ubuntu1.26",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -22,10 +22,11 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.25 all",
+        "python3-django/jammy-updates,jammy-security 2:3.2.12-2ubuntu1.26 all",
         "python3-django/jammy 2:3.2.12-2ubuntu1 all"
     ],
     "changelog": [
+        "python-django (2:3.2.12-2ubuntu1.26) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.25) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.24) jammy-security; urgency=medium",
         "python-django (2:3.2.12-2ubuntu1.23) jammy-security; urgency=medium",
@@ -303,6 +304,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2:3.2.12-2ubuntu1.26",
         "2:3.2.12-2ubuntu1.25",
         "2:3.2.12-2ubuntu1.24",
         "2:3.2.12-2ubuntu1.23",

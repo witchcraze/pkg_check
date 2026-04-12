@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.4.7",
-        "Release": "1.module+el8.10.0+40043+0b4d79a1.rocky.0.1",
+        "Version": "8.4.8",
+        "Release": "1.module+el8.10.0+40136+d4ed9dc0.rocky.0.1",
         "Architecture": "x86_64",
         "Size": "9.9 M",
-        "Source": "mysql-8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1.src.rpm",
+        "Source": "mysql-8.4.8-1.module+el8.10.0+40136+d4ed9dc0.rocky.0.1.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -14,7 +14,8 @@
     },
     "list": [
         "mysql.x86_64                                   8.4.6-1.module+el8.10.0+2091+db4d14f6.rocky.0.1                                     appstream",
-        "mysql.x86_64                                   8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1                                    appstream"
+        "mysql.x86_64                                   8.4.7-1.module+el8.10.0+40043+0b4d79a1.rocky.0.1                                    appstream",
+        "mysql.x86_64                                   8.4.8-1.module+el8.10.0+40136+d4ed9dc0.rocky.0.1                                    appstream"
     ],
     "kojiPackages": [
         "mysql-8.4.8-1.module+el8.10.0+40136+d4ed9dc0.rocky.0.1",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:5.2.4-1ubuntu2.3",
+        "Version": "3:5.2.4-1ubuntu2.4",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -22,10 +22,11 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/questing-updates,questing-security 3:5.2.4-1ubuntu2.3 all",
+        "python3-django/questing-updates,questing-security 3:5.2.4-1ubuntu2.4 all",
         "python3-django/questing 3:5.2.4-1ubuntu2 all"
     ],
     "changelog": [
+        "python-django (3:5.2.4-1ubuntu2.4) questing-security; urgency=medium",
         "python-django (3:5.2.4-1ubuntu2.3) questing-security; urgency=medium",
         "python-django (3:5.2.4-1ubuntu2.2) questing-security; urgency=medium",
         "python-django (3:5.2.4-1ubuntu2.1) questing-security; urgency=medium",
@@ -299,6 +300,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:5.2.4-1ubuntu2.4",
         "3:5.2.4-1ubuntu2.3",
         "3:5.2.4-1ubuntu2.2",
         "3:5.2.4-1ubuntu2.1",

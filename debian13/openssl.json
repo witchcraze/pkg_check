@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.5.5-1~deb13u1",
+        "Version": "3.5.5-1~deb13u2",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
@@ -9,19 +9,17 @@
         "Depends": "libc6 (>= 2.34), libssl3t64 (>= 3.5.0)",
         "Suggests": "ca-certificates",
         "Homepage": "https://openssl-library.org",
-        "Tag": "implemented-in::c, interface::commandline, protocol::ssl, role::program,",
-        "scope": "utility, security::cryptography, security::integrity,",
-        "use": "checking",
-        "Download-Size": "1499 kB",
+        "Download-Size": "1500 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/stable,now 3.5.5-1~deb13u1 amd64 [installed,automatic]",
-        "openssl/stable-security 3.5.4-1~deb13u2 amd64"
+        "openssl/stable-security,now 3.5.5-1~deb13u2 amd64 [installed,automatic]",
+        "openssl/stable 3.5.5-1~deb13u1 amd64"
     ],
     "changelog": [
+        "openssl (3.5.5-1~deb13u2) trixie-security; urgency=medium",
         "openssl (3.5.5-1~deb13u1) trixie; urgency=medium",
         "openssl (3.5.4-1~deb13u2) trixie-security; urgency=medium",
         "openssl (3.5.4-1~deb13u1) trixie; urgency=medium",

@@ -38,6 +38,7 @@
         "grafana.x86_64                            9.2.10-28.el8_10                            appstream"
     ],
     "kojiPackages": [
+        "grafana-9.2.10-29.el8_10",
         "grafana-9.2.10-28.el8_10",
         "grafana-9.2.10-27.el8_10",
         "grafana-9.2.10-26.el8_10",

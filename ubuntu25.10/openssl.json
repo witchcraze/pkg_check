@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.5.3-1ubuntu3",
+        "Version": "3.5.3-1ubuntu3.3",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -19,10 +19,11 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/questing-updates,questing-security,now 3.5.3-1ubuntu3 amd64 [installed,automatic]",
+        "openssl/questing-updates,questing-security,now 3.5.3-1ubuntu3.3 amd64 [installed,automatic]",
         "openssl/questing 3.5.3-1ubuntu2 amd64"
     ],
     "changelog": [
+        "openssl (3.5.3-1ubuntu3.3) questing-security; urgency=medium",
         "openssl (3.5.3-1ubuntu3) questing-security; urgency=medium",
         "openssl (3.5.3-1ubuntu2) questing; urgency=medium",
         "openssl (3.5.3-1ubuntu1) questing; urgency=medium",
@@ -388,6 +389,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.5.3-1ubuntu3.3",
         "3.5.3-1ubuntu3",
         "3.5.3-1ubuntu2",
         "3.5.3-1ubuntu1",
