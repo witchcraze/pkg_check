@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-25-openjdk",
         "Epoch": "1",
-        "Version": "25.0.2.0.10",
-        "Release": "4.el10_2",
+        "Version": "25.0.3.0.9",
+        "Release": "1.el10_2",
         "Architecture": "x86_64",
-        "Size": "387 k",
-        "Source": "java-25-openjdk-25.0.2.0.10-4.el10_2.src.rpm",
+        "Size": "389 k",
+        "Source": "java-25-openjdk-25.0.3.0.9-1.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -18,6 +18,7 @@
         "java-25-openjdk.x86_64                               1:25.0.1.0.8-2.el10                                   rhel-10-for-x86_64-appstream-rpms",
         "java-25-openjdk.x86_64                               1:25.0.1.0.8-6.el10                                   rhel-10-for-x86_64-appstream-rpms",
         "java-25-openjdk.x86_64                               1:25.0.2.0.10-1.el10                                  rhel-10-for-x86_64-appstream-rpms",
-        "java-25-openjdk.x86_64                               1:25.0.2.0.10-4.el10_2                                rhel-10-for-x86_64-appstream-rpms"
+        "java-25-openjdk.x86_64                               1:25.0.2.0.10-4.el10_2                                rhel-10-for-x86_64-appstream-rpms",
+        "java-25-openjdk.x86_64                               1:25.0.3.0.9-1.el10_2                                 rhel-10-for-x86_64-appstream-rpms"
     ]
 }

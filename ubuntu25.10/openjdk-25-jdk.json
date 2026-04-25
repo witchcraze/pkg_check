@@ -6,7 +6,7 @@
         "Section": "universe/java",
         "Source": "openjdk-25",
         "Origin": "Ubuntu",
-        "Maintainer": "OpenJDK Team <openjdk-25@packages.debian.org>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "1829 kB",
         "Provides": "java-compiler, java-sdk (= 25)",

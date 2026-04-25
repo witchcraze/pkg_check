@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "20.20.0",
-        "Release": "1.module_el9.7.0+207+84573810",
+        "Version": "20.20.2",
+        "Release": "1.module_el9.7.0+226+88d36870",
         "Architecture": "x86_64",
         "Size": "14 M",
-        "Source": "nodejs-20.20.0-1.module_el9.7.0+207+84573810.src.rpm",
+        "Source": "nodejs-20.20.2-1.module_el9.7.0+226+88d36870.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -29,6 +29,8 @@
         "nodejs.x86_64                   1:20.19.2-1.module_el9.6.0+169+c9cb05c2                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:20.19.5-1.module_el9.6.0+189+c655c536                    appstream",
         "nodejs.x86_64                   1:20.19.5-1.module_el9.6.0+189+c655c536                    repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
-        "nodejs.x86_64                   1:20.20.0-1.module_el9.7.0+207+84573810                    appstream"
+        "nodejs.x86_64                   1:20.20.0-1.module_el9.7.0+207+84573810                    appstream",
+        "nodejs.x86_64                   1:20.20.2-1.module_el9.7.0+224+0af7cc6b                    appstream",
+        "nodejs.x86_64                   1:20.20.2-1.module_el9.7.0+226+88d36870                    appstream"
     ]
 }

@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "2.module+el9.7.0+40103+2443f6d1",
+        "Release": "2.module+el9.7.0+40149+41197f3a.1",
         "Architecture": "x86_64",
-        "Size": "30 k",
-        "Source": "nginx-1.26.3-2.module+el9.7.0+40103+2443f6d1.src.rpm",
+        "Size": "31 k",
+        "Source": "nginx-1.26.3-2.module+el9.7.0+40149+41197f3a.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,11 +14,14 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                 2:1.26.3-1.module+el9.6.0+32000+07950bca                 dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "nginx.x86_64                 2:1.26.3-1.module+el9.7.0+40010+70967d9b                 appstream",
-        "nginx.x86_64                 2:1.26.3-2.module+el9.7.0+40103+2443f6d1                 appstream"
+        "nginx.x86_64                2:1.26.3-1.module+el9.6.0+32000+07950bca                  dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
+        "nginx.x86_64                2:1.26.3-1.module+el9.7.0+40010+70967d9b                  appstream",
+        "nginx.x86_64                2:1.26.3-2.module+el9.7.0+40103+2443f6d1                  appstream",
+        "nginx.x86_64                2:1.26.3-2.module+el9.7.0+40149+41197f3a.1                appstream"
     ],
     "kojiPackages": [
+        "nginx-1.26.3-8.module+el9.8.0+40161+ce3cd412",
+        "nginx-1.26.3-2.module+el9.7.0+40149+41197f3a.1",
         "nginx-1.26.3-2.module+el9.7.0+40103+2443f6d1",
         "nginx-1.26.3-1.module+el9.7.0+40010+70967d9b"
     ]

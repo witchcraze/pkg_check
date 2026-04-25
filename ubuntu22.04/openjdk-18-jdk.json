@@ -6,7 +6,7 @@
         "Section": "universe/java",
         "Source": "openjdk-18",
         "Origin": "Ubuntu",
-        "Maintainer": "OpenJDK Team <openjdk-18@packages.debian.org>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "4796 kB",
         "Provides": "java-compiler, java-sdk, java10-sdk, java11-sdk, java12-sdk, java13-sdk, java14-sdk, java15-sdk, java16-sdk, java17-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",

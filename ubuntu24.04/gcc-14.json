@@ -5,7 +5,7 @@
         "Priority": "optional",
         "Section": "universe/devel",
         "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian GCC Maintainers <debian-gcc@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "622 kB",

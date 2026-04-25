@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "2.module_el9.7.0+215+8d94e91c",
+        "Release": "2.module_el9.7.0+223+9cd7031b.1",
         "Architecture": "x86_64",
-        "Size": "30 k",
-        "Source": "nginx-1.26.3-2.module_el9.7.0+215+8d94e91c.src.rpm",
+        "Size": "31 k",
+        "Source": "nginx-1.26.3-2.module_el9.7.0+223+9cd7031b.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -14,8 +14,9 @@
         "Description": "Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and"
     },
     "list": [
-        "nginx.x86_64                    2:1.26.3-1.module_el9.6.0+150+5bc78636                     appstream",
-        "nginx.x86_64                    2:1.26.3-1.module_el9.6.0+150+5bc78636                     repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
-        "nginx.x86_64                    2:1.26.3-2.module_el9.7.0+215+8d94e91c                     appstream"
+        "nginx.x86_64                   2:1.26.3-1.module_el9.6.0+150+5bc78636                      appstream",
+        "nginx.x86_64                   2:1.26.3-1.module_el9.6.0+150+5bc78636                      repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "nginx.x86_64                   2:1.26.3-2.module_el9.7.0+215+8d94e91c                      appstream",
+        "nginx.x86_64                   2:1.26.3-2.module_el9.7.0+223+9cd7031b.1                    appstream"
     ]
 }

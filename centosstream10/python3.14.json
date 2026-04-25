@@ -20,6 +20,9 @@
         "python3.14.x86_64                    3.14.3-2.el10                     appstream"
     ],
     "kojiPackages": [
+        "python3.14-3.14.4-2.el10",
+        "python3.14-3.14.4-2.el10,draft_107551",
+        "python3.14-3.14.4-2.el10,draft_107250",
         "python3.14-3.14.3-2.el10",
         "python3.14-3.14.3-2.el10,draft_104368",
         "python3.14-3.14.3-1.el10",
