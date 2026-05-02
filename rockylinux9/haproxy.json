@@ -23,10 +23,5 @@
         "haproxy.x86_64                            2.4.22-3.el9_5.1                            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "haproxy.x86_64                            2.4.22-4.el9                                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "haproxy.x86_64                            2.8.14-1.el9_7.1                            appstream"
-    ],
-    "kojiPackages": [
-        "haproxy-2.8.14-3.el9",
-        "haproxy-2.8.14-1.el9_7.1",
-        "haproxy-2.8.14-1.el9"
     ]
 }

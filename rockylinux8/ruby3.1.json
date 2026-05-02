@@ -29,16 +29,5 @@
         "ruby.x86_64                  3.1.5-144.module+el8.10.0+1903+95c5d658                  appstream",
         "ruby.i686                    3.1.7-145.module+el8.10.0+1957+16e0d1a2                  appstream",
         "ruby.x86_64                  3.1.7-145.module+el8.10.0+1957+16e0d1a2                  appstream"
-    ],
-    "kojiPackages": [
-        "ruby-3.1.7-145.module+el8.10.0+1957+16e0d1a2",
-        "ruby-3.1.5-144.module+el8.10.0+1903+95c5d658",
-        "ruby-3.1.5-143.module+el8.10.0+1902+8d17030e",
-        "ruby-3.1.5-143.module+el8.10.0+1826+b62220b4",
-        "ruby-3.1.4-142.module+el8.9.0+1759+ff68ae72",
-        "ruby-3.1.4-142.module+el8.10.0+1741+bdb5b6ca",
-        "ruby-3.1.2-141.module+el8.10.0+1661+5707c8d5",
-        "ruby-3.1.2-141.module+el8.7.0+1081+f0a69743",
-        "ruby-3.1.2-141.module+el8.7.0+1013+ac496413"
     ]
 }

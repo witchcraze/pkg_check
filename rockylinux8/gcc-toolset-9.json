@@ -20,8 +20,5 @@
         "gcc-toolset-9.x86_64                            9.0-4.el8                             dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "gcc-toolset-9.x86_64                            9.0-4.el8                             dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "gcc-toolset-9.x86_64                            9.0-4.el8                             dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "gcc-toolset-9-9.0-4.el8"
     ]
 }

@@ -35,8 +35,5 @@
         "ruby.x86_64                              3.0.7-165.el9_5                              dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "ruby.x86_64                              3.0.7-165.el9_5                              dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "ruby.x86_64                              3.0.7-165.el9_5                              appstream"
-    ],
-    "kojiPackages": [
-        "ruby-3.0.7-165.el9_5"
     ]
 }

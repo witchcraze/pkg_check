@@ -22,9 +22,5 @@
         "gcc.x86_64                               11.5.0-5.el9_5                               dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "gcc.x86_64                               11.5.0-5.el9_5                               dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "gcc.x86_64                               11.5.0-11.el9                                appstream"
-    ],
-    "kojiPackages": [
-        "gcc-11.5.0-14.el9",
-        "gcc-11.5.0-11.el9"
     ]
 }

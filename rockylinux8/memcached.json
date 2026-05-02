@@ -21,8 +21,5 @@
         "memcached.x86_64                             1.5.22-2.el8                             dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "memcached.x86_64                             1.5.22-2.el8                             dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "memcached.x86_64                             1.5.22-2.el8                             dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "memcached-1.5.22-2.el8"
     ]
 }

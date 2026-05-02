@@ -14,10 +14,5 @@
     "list": [
         "gcc-toolset-13.x86_64                           13.0-2.el8                            appstream",
         "gcc-toolset-13.x86_64                           13.0-2.el8                            dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "gcc-toolset-13-13.0-2.el8",
-        "gcc-toolset-13-13.0-1.el8",
-        "gcc-toolset-13-13.0-0.el8"
     ]
 }

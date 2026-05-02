@@ -22,12 +22,5 @@
         "nginx.x86_64                 1:1.16.1-2.module+el8.4.0+543+efbf198b.1                 dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "nginx.x86_64                 1:1.16.1-2.module+el8.4.0+543+efbf198b.1                 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "nginx.x86_64                 1:1.16.1-2.module+el8.4.0+543+efbf198b.1                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "nginx-1.16.1-2.module+el8.4.0+543+efbf198b.1",
-        "nginx-1.16.1-1.module+el8.3.0+122+d50b30f6.1",
-        "nginx-1.16.1-1.module+el8.3.0+33+c6223836.1",
-        "nginx-1.16.1-1.module+el8.3.0+20+d5dae7ee.1",
-        "nginx-1.16.1-1.module+el8.3.0+14+498b71c8.1"
     ]
 }

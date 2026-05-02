@@ -21,6 +21,13 @@
         "nodejs24.x86_64                    1:24.14.1-2.el10                    appstream"
     ],
     "kojiPackages": [
+        "nodejs24-24.14.1-3.el10,draft_108898",
+        "nodejs24-24.14.1-3.el10,draft_108779",
+        "nodejs24-24.14.1-3.el10,draft_108684",
+        "nodejs24-24.11.1-2.el10,draft_108683",
+        "nodejs24-24.11.1-2.el10,draft_108679",
+        "nodejs24-24.11.1-2.el10,draft_108503",
+        "nodejs24-24.11.1-2.el10,draft_108471",
         "nodejs24-24.15.0-1.el10,draft_108272",
         "nodejs24-24.15.0-1.el10,draft_108003",
         "nodejs24-24.14.1-3.el10,draft_105985",

@@ -26,24 +26,5 @@
         "php.x86_64                  7.4.33-1.module+el8.10.0+1604+6558efc7                    appstream",
         "php.x86_64                  7.4.33-2.module+el8.10.0+1912+72767185                    appstream",
         "php.x86_64                  7.4.33-3.module+el8.10.0+40080+74e49a5c                   appstream"
-    ],
-    "kojiPackages": [
-        "php-7.4.33-3.module+el8.10.0+40080+74e49a5c",
-        "php-7.4.33-2.module+el8.10.0+1912+72767185",
-        "php-7.4.33-1.module+el8.10.0+1604+6558efc7",
-        "php-7.4.33-1.module+el8.8.0+1150+ac720675",
-        "php-7.4.30-1.module+el8.7.0+1067+0a7071cc",
-        "php-7.4.30-1.module+el8.7.0+1025+9e24c5c4",
-        "php-7.4.19-4.module+el8.6.0+1006+0d5a469f",
-        "php-7.4.19-4.module+el8.6.0+999+0f706a37",
-        "php-7.4.19-3.module+el8.6.0+990+389ef54a",
-        "php-7.4.19-2.module+el8.6.0+789+2130c178",
-        "php-7.4.19-2.module+el8.6.0+767+28b24d03",
-        "php-7.4.19-1.module+el8.5.0+696+61e7c9ba",
-        "php-7.4.6-4.module+el8.4.0+415+e936cba3",
-        "php-7.4.6-4.module+el8.4.0+381+9d48b4d2",
-        "php-7.4.6-4.module+el8.4.0+363+749af680",
-        "php-7.4.6-4.module+el8.3.0+311+4e54d12a",
-        "php-7.4.6-4.module+el8.3.0+202+dc8a8639"
     ]
 }

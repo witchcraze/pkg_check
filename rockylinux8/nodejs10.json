@@ -22,13 +22,5 @@
         "nodejs.x86_64                 1:10.24.0-1.module+el8.3.0+101+f84c7154                 dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "nodejs.x86_64                 1:10.24.0-1.module+el8.3.0+101+f84c7154                 dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "nodejs.x86_64                 1:10.24.0-1.module+el8.3.0+101+f84c7154                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "nodejs-10.24.0-1.module+el8.3.0+101+f84c7154",
-        "nodejs-10.24.0-1.module+el8.3.0+98+99407f04",
-        "nodejs-10.24.0-1.module+el8.3.0+66+73a9fee5",
-        "nodejs-10.24.0-1.module+el8.3.0+54+d6464390",
-        "nodejs-10.24.0-1.module+el8.3.0+42+d3932b7c",
-        "nodejs-10.23.1-1.module+el8.3.0+21+c3d8bfe6"
     ]
 }

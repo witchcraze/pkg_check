@@ -18,27 +18,5 @@
         "nginx.x86_64                           2:1.26.3-1.el10                               appstream",
         "nginx.x86_64                           2:1.26.3-2.el10_1                             appstream",
         "nginx.x86_64                           2:1.26.3-2.el10_1.1                           appstream"
-    ],
-    "kojiPackages": [
-        "nginx-1.26.3-6.el10_2.2",
-        "nginx-1.26.3-2.el10_1.1",
-        "nginx-1.26.3-2.el10_1",
-        "nginx-1.26.3-6.el10",
-        "nginx-1.26.3-5.el10",
-        "nginx-1.26.3-4.el10",
-        "nginx-1.26.3-2.el10",
-        "nginx-1.26.3-1.el10",
-        "nginx-1.26.2-4.el10",
-        "nginx-1.26.2-3.el10",
-        "nginx-1.26.2-2.el10",
-        "nginx-1.26.1-7.el10",
-        "nginx-1.26.1-6.el10",
-        "nginx-1.26.1-5.el10",
-        "nginx-1.26.1-3.el10",
-        "nginx-1.26.1-2.el10",
-        "nginx-1.26.1-1.el10",
-        "nginx-1.26.0-1.el10",
-        "nginx-1.26.0-2.el10",
-        "nginx-1.24.0-8.el10"
     ]
 }

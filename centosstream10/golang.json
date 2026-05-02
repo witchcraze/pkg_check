@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "golang",
-        "Version": "1.26.1",
-        "Release": "1.el10",
+        "Version": "1.26.2",
+        "Release": "2.el10",
         "Architecture": "x86_64",
         "Size": "1.4 M",
-        "Source": "golang-1.26.1-1.el10.src.rpm",
+        "Source": "golang-1.26.2-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "The Go Programming Language",
         "URL": "https://go.dev",
@@ -13,14 +13,14 @@
         "Description": "The Go Programming Language."
     },
     "list": [
-        "golang.x86_64                      1.25.3-1.el10                       appstream",
         "golang.x86_64                      1.25.3-4.el10                       appstream",
         "golang.x86_64                      1.25.5-1.el10                       appstream",
         "golang.x86_64                      1.25.7-1.el10                       appstream",
-        "golang.x86_64                      1.26.1-1.el10                       appstream"
+        "golang.x86_64                      1.26.1-1.el10                       appstream",
+        "golang.x86_64                      1.26.2-2.el10                       appstream"
     ],
     "kojiPackages": [
-        "golang-1.26.2-2.el10,draft_108303",
+        "golang-1.26.2-2.el10",
         "golang-1.26.2-1.el10,draft_108284",
         "golang-1.26.1-1.el10",
         "golang-1.26.1-1.el10,draft_104458",

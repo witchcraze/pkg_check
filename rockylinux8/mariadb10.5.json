@@ -27,15 +27,5 @@
         "mariadb.x86_64               3:10.5.27-1.module+el8.10.0+1926+d379821b                appstream",
         "mariadb.x86_64               3:10.5.29-2.module+el8.10.0+2082+43759dcc                appstream",
         "mariadb.x86_64               3:10.5.29-3.module+el8.10.0+40063+c69b01bb               appstream"
-    ],
-    "kojiPackages": [
-        "mariadb-10.5.29-3.module+el8.10.0+40063+c69b01bb",
-        "mariadb-10.5.29-2.module+el8.10.0+2082+43759dcc",
-        "mariadb-10.5.27-1.module+el8.10.0+1926+d379821b",
-        "mariadb-10.5.22-1.module+el8.8.0+1490+31c52b1f",
-        "mariadb-10.5.16-2.module+el8.6.0+995+5ac2a483",
-        "mariadb-10.5.13-1.module+el8.5.0+773+f75e97f7",
-        "mariadb-10.5.9-1.module+el8.4.0+431+26aaed18",
-        "mariadb-10.5.9-1.module+el8.4.0+428+592db3aa"
     ]
 }

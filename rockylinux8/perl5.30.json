@@ -22,18 +22,5 @@
         "perl.x86_64                 4:5.30.1-452.module+el8.6.0+878+f93dfff7                  dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "perl.x86_64                 4:5.30.1-452.module+el8.6.0+878+f93dfff7                  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "perl.x86_64                 4:5.30.1-452.module+el8.6.0+878+f93dfff7                  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "perl-5.30.1-452.module+el8.6.0+878+f93dfff7",
-        "perl-5.30.1-452.module+el8.6.0+876+4aa8ef23",
-        "perl-5.30.1-452.module+el8.5.0+690+b6cd1280",
-        "perl-5.30.1-452.module+el8.4.0+456+971dc263",
-        "perl-5.30.1-452.module+el8.4.0+453+24f11d95",
-        "perl-5.30.1-452.module+el8.4.0+450+96ab8be3",
-        "perl-5.30.1-451.module+el8.3.0+118+dba73529",
-        "perl-5.30.1-451.module+el8.3.0+113+78031a4f",
-        "perl-5.30.1-451.module+el8.3.0+105+6db82d5c",
-        "perl-5.30.1-451.module+el8.3.0+104+ee3bee2c",
-        "perl-5.30.1-451.module+el8.3.0+96+ec228203"
     ]
 }

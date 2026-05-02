@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-1.8.0-openjdk",
         "Epoch": "1",
-        "Version": "1.8.0.482.b08",
-        "Release": "1.el9",
+        "Version": "1.8.0.492.b09",
+        "Release": "2.el9_7",
         "Architecture": "x86_64",
-        "Size": "422 k",
-        "Source": "java-1.8.0-openjdk-1.8.0.482.b08-1.el9.src.rpm",
+        "Size": "420 k",
+        "Source": "java-1.8.0-openjdk-1.8.0.492.b09-2.el9_7.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 8 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -32,12 +32,7 @@
         "java-1.8.0-openjdk.x86_64                   1:1.8.0.472.b08-1.el9                     dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "java-1.8.0-openjdk.x86_64                   1:1.8.0.472.b08-1.el9                     appstream",
         "java-1.8.0-openjdk.x86_64                   1:1.8.0.472.b08-2.el9_7                   appstream",
-        "java-1.8.0-openjdk.x86_64                   1:1.8.0.482.b08-1.el9                     appstream"
-    ],
-    "kojiPackages": [
-        "java-1.8.0-openjdk-1.8.0.482.b08-3.el9_8",
-        "java-1.8.0-openjdk-1.8.0.482.b08-1.el9",
-        "java-1.8.0-openjdk-1.8.0.472.b08-2.el9_7",
-        "java-1.8.0-openjdk-1.8.0.472.b08-1.el9"
+        "java-1.8.0-openjdk.x86_64                   1:1.8.0.482.b08-1.el9                     appstream",
+        "java-1.8.0-openjdk.x86_64                   1:1.8.0.492.b09-2.el9_7                   appstream"
     ]
 }

@@ -16,17 +16,5 @@
         "ruby.x86_64                             3.3.8-10.el10_0                              dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "ruby.x86_64                             3.3.8-10.el10_0                              appstream",
         "ruby.x86_64                             3.3.10-11.el10_1                             appstream"
-    ],
-    "kojiPackages": [
-        "ruby-3.3.10-11.el10_1",
-        "ruby-3.3.10-11.el10",
-        "ruby-3.3.8-10.el10_0",
-        "ruby-3.3.8-10.el10",
-        "ruby-3.3.7-9.el10",
-        "ruby-3.3.5-8.el10",
-        "ruby-3.3.5-7.el10",
-        "ruby-3.3.1-6.el10",
-        "ruby-3.3.1-5.el10",
-        "ruby-3.3.0-4.el10"
     ]
 }

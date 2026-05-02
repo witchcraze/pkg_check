@@ -21,6 +21,9 @@
         "mariadb.x86_64                     3:10.5.29-3.el9                     appstream"
     ],
     "kojiPackages": [
+        "mariadb-10.5.29-4.el9",
+        "mariadb-10.5.29-4.el9,draft_108959",
+        "mariadb-10.5.29-4.el9,draft_108784",
         "mariadb-10.5.29-5.el9,draft_102696",
         "mariadb-10.5.29-4.el9,draft_99014",
         "mariadb-10.5.29-3.el9",

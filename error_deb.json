@@ -57,11 +57,17 @@
             ]
         },
         "12": {
+            "openjdk-17-jdk": [
+                "apt-get changelog"
+            ],
             "postgresql-15": [
                 "apt-get changelog"
             ]
         },
         "13": {
+            "openjdk-21-jdk": [
+                "apt-get changelog"
+            ],
             "php8.4": [
                 "apt-get changelog"
             ]

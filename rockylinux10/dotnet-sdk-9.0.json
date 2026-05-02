@@ -24,32 +24,5 @@
         "dotnet-sdk-9.0.x86_64                        9.0.114-1.el10_1                        appstream",
         "dotnet-sdk-9.0.x86_64                        9.0.115-1.el10_1                        appstream",
         "dotnet-sdk-9.0.x86_64                        9.0.116-1.el10_1                        appstream"
-    ],
-    "kojiPackages": [
-        "dotnet9.0-9.0.116-1.el10_1",
-        "dotnet9.0-9.0.115-1.el10_1",
-        "dotnet9.0-9.0.114-1.el10_1",
-        "dotnet9.0-9.0.113-1.el10_1",
-        "dotnet9.0-9.0.112-1.el10_1",
-        "dotnet9.0-9.0.111-2.el10_1",
-        "dotnet9.0-9.0.111-1.el10_0",
-        "dotnet9.0-9.0.110-1.el10_0",
-        "dotnet9.0-9.0.109-1.el10_0",
-        "dotnet9.0-9.0.108-1.el10_0",
-        "dotnet9.0-9.0.107-1.el10_0",
-        "dotnet9.0-9.0.106-1.el10_0",
-        "dotnet9.0-9.0.105-2.el10",
-        "dotnet9.0-9.0.104-2.el10",
-        "dotnet9.0-9.0.103-2.el10",
-        "dotnet9.0-9.0.102-2.el10",
-        "dotnet9.0-9.0.102-1.el10~bootstrap",
-        "dotnet9.0-9.0.100-1.el10",
-        "dotnet9.0-9.0.100~rc.2.24474.1-0.8.el10",
-        "dotnet9.0-9.0.100~rc.2.24474.1-0.7.el10",
-        "dotnet9.0-9.0.100~rc.2.24474.1-0.6.el10~bootstrap",
-        "dotnet9.0-9.0.100~rc.2.24474.1-0.4.el10",
-        "dotnet9.0-9.0.100~rc.1.24452.1-0.3.el10",
-        "dotnet9.0-9.0.100~preview.7.24407.1-0.2.el10",
-        "dotnet9.0-9.0.100~preview.7.24407.1-0.1.el10~bootstrap"
     ]
 }

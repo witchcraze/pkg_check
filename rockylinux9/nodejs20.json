@@ -32,10 +32,5 @@
         "nodejs.x86_64                1:20.19.5-1.module+el9.7.0+40017+f0db1785                appstream",
         "nodejs.x86_64                1:20.20.0-1.module+el9.7.0+40082+4e93191d                appstream",
         "nodejs.x86_64                1:20.20.2-1.module+el9.7.0+40153+4d595597                appstream"
-    ],
-    "kojiPackages": [
-        "nodejs-20.20.2-1.module+el9.7.0+40153+4d595597",
-        "nodejs-20.20.0-1.module+el9.7.0+40082+4e93191d",
-        "nodejs-20.19.5-1.module+el9.7.0+40017+f0db1785"
     ]
 }

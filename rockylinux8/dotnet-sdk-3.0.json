@@ -21,10 +21,5 @@
         "dotnet-sdk-3.0.x86_64                      3.0.103-1.el8_1.rocky                      dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "dotnet-sdk-3.0.x86_64                      3.0.103-1.el8_1.rocky                      dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "dotnet-sdk-3.0.x86_64                      3.0.103-1.el8_1.rocky                      dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "dotnet3.0-3.0.103-1.el8_1.rocky",
-        "dotnet3.0-3.0.103-1.el8.rocky",
-        "dotnet3.0-3.0.103-1.el8"
     ]
 }

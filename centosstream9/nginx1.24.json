@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "4.module_el9+1087+9adf8b0f",
+        "Release": "7.module_el9+1340+77d2f868",
         "Architecture": "x86_64",
         "Size": "33 k",
-        "Source": "nginx-1.24.0-4.module_el9+1087+9adf8b0f.src.rpm",
+        "Source": "nginx-1.24.0-7.module_el9+1340+77d2f868.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -15,7 +15,8 @@
     },
     "list": [
         "nginx.x86_64            1:1.24.0-1.module_el9+833+e1ad0c2b             appstream",
-        "nginx.x86_64            1:1.24.0-4.module_el9+1087+9adf8b0f            appstream"
+        "nginx.x86_64            1:1.24.0-4.module_el9+1087+9adf8b0f            appstream",
+        "nginx.x86_64            1:1.24.0-7.module_el9+1340+77d2f868            appstream"
     ],
     "kojiPackages": [
         "nginx-1.24.0-7.module_el9+1340+77d2f868",

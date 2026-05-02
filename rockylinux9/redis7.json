@@ -24,9 +24,5 @@
         "redis.x86_64                  7.2.11-1.module+el9.6.0+32613+cddc9cef                  dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "redis.x86_64                  7.2.11-1.module+el9.7.0+40013+17379f63                  appstream",
         "redis.x86_64                  7.2.11-2.module+el9.7.0+40085+98656c02                  appstream"
-    ],
-    "kojiPackages": [
-        "redis-7.2.11-2.module+el9.7.0+40085+98656c02",
-        "redis-7.2.11-1.module+el9.7.0+40013+17379f63"
     ]
 }

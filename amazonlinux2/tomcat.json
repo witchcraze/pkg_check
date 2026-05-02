@@ -2,9 +2,9 @@
     "info": {
         "Name": "tomcat",
         "Arch": "noarch",
-        "Version": "9.0.115",
+        "Version": "9.0.117",
         "Release": "1.amzn2.0.1",
-        "Size": "90 k",
+        "Size": "91 k",
         "Repo": "amzn2extra-tomcat9/2/x86_64",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 4.0/JSP 2.3 API",
         "URL": "http://tomcat.apache.org/",
@@ -57,6 +57,7 @@
         "tomcat.noarch                                            9.0.107-1.amzn2.0.1                                              amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.108-1.amzn2.0.1                                              amzn2extra-tomcat9",
         "tomcat.noarch                                            9.0.110-1.amzn2.0.1                                              amzn2extra-tomcat9",
-        "tomcat.noarch                                            9.0.115-1.amzn2.0.1                                              amzn2extra-tomcat9"
+        "tomcat.noarch                                            9.0.115-1.amzn2.0.1                                              amzn2extra-tomcat9",
+        "tomcat.noarch                                            9.0.117-1.amzn2.0.1                                              amzn2extra-tomcat9"
     ]
 }

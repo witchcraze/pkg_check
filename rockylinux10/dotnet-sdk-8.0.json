@@ -24,25 +24,5 @@
         "dotnet-sdk-8.0.x86_64                        8.0.124-1.el10_1                        appstream",
         "dotnet-sdk-8.0.x86_64                        8.0.125-1.el10_1                        appstream",
         "dotnet-sdk-8.0.x86_64                        8.0.126-1.el10_1                        appstream"
-    ],
-    "kojiPackages": [
-        "dotnet8.0-8.0.126-1.el10_1",
-        "dotnet8.0-8.0.125-1.el10_1",
-        "dotnet8.0-8.0.124-1.el10_1",
-        "dotnet8.0-8.0.123-1.el10_1",
-        "dotnet8.0-8.0.122-1.el10_1",
-        "dotnet8.0-8.0.121-2.el10_1",
-        "dotnet8.0-8.0.121-1.el10_0",
-        "dotnet8.0-8.0.120-1.el10_0",
-        "dotnet8.0-8.0.119-1.el10_0",
-        "dotnet8.0-8.0.118-1.el10_0",
-        "dotnet8.0-8.0.117-1.el10_0",
-        "dotnet8.0-8.0.116-1.el10_0",
-        "dotnet8.0-8.0.115-2.el10",
-        "dotnet8.0-8.0.114-2.el10",
-        "dotnet8.0-8.0.113-2.el10",
-        "dotnet8.0-8.0.112-2.el10",
-        "dotnet8.0-8.0.108-2.el10",
-        "dotnet8.0-8.0.107-5.el10"
     ]
 }

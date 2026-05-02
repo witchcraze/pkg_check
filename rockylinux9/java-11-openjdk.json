@@ -27,8 +27,5 @@
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "java-11-openjdk.x86_64                     1:11.0.25.0.9-7.el9                        appstream"
-    ],
-    "kojiPackages": [
-        "java-11-openjdk-11.0.25.0.9-7.el9"
     ]
 }

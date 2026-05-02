@@ -22,13 +22,5 @@
         "vsftpd.x86_64                            3.0.3-36.el8                                 appstream",
         "vsftpd.x86_64                            3.0.3-36.el8                                 dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "vsftpd.x86_64                            3.0.3-36.el8_10.3                            appstream"
-    ],
-    "kojiPackages": [
-        "vsftpd-3.0.3-36.el8_10.3",
-        "vsftpd-3.0.3-36.el8",
-        "vsftpd-3.0.3-35.el8",
-        "vsftpd-3.0.3-34.el8",
-        "vsftpd-3.0.3-33.el8",
-        "vsftpd-3.0.3-32.el8"
     ]
 }

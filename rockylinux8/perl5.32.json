@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "473.module+el8.10.0+1616+0d20cc68",
+        "Release": "474.module+el8.10.0+40155+64ce2d41",
         "Architecture": "x86_64",
         "Size": "94 k",
-        "Source": "perl-5.32.1-473.module+el8.10.0+1616+0d20cc68.src.rpm",
+        "Source": "perl-5.32.1-474.module+el8.10.0+40155+64ce2d41.src.rpm",
         "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -18,25 +18,7 @@
         "perl.x86_64                4:5.32.1-471.module+el8.6.0+879+823e3012                   dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "perl.x86_64                4:5.32.1-472.module+el8.8.0+1134+a197a740                  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "perl.x86_64                4:5.32.1-472.module+el8.8.0+1134+a197a740                  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
-        "perl.x86_64                4:5.32.1-473.module+el8.10.0+1616+0d20cc68                 appstream"
-    ],
-    "kojiPackages": [
-        "perl-5.32.1-474.module+el8.10.0+40155+64ce2d41",
-        "perl-5.32.1-473.module+el8.10.0+1616+0d20cc68",
-        "perl-5.32.1-472.module+el8.8.0+1134+a197a740",
-        "perl-5.32.1-471.module+el8.6.0+879+823e3012",
-        "perl-5.32.1-471.module+el8.6.0+872+990939a3",
-        "perl-5.32.1-471.module+el8.6.0+786+a93760da",
-        "perl-5.32.1-471.module+el8.6.0+760+d3eab84e",
-        "perl-5.32.1-471.module+el8.5.0+758+1d4a6db3",
-        "perl-5.32.1-471.module+el8.5.0+757+cce6af0f",
-        "perl-5.32.1-471.module+el8.5.0+755+8fe2af24",
-        "perl-5.32.1-471.module+el8.5.0+754+c3a7e068",
-        "perl-5.32.1-471.module+el8.5.0+753+025e0335",
-        "perl-5.32.1-471.module+el8.5.0+752+607da21e",
-        "perl-5.32.1-471.module+el8.5.0+751+a230b0a1",
-        "perl-5.32.1-471.module+el8.5.0+750+9666b570",
-        "perl-5.32.1-471.module+el8.5.0+749+c99305ce",
-        "perl-5.32.1-471.module+el8.5.0+748+ed919e29"
+        "perl.x86_64                4:5.32.1-473.module+el8.10.0+1616+0d20cc68                 appstream",
+        "perl.x86_64                4:5.32.1-474.module+el8.10.0+40155+64ce2d41                appstream"
     ]
 }

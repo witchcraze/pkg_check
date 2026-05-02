@@ -25,21 +25,5 @@
         "postgresql.x86_64               15.14-1.module+el8.10.0+2060+489fc2c4                 appstream",
         "postgresql.x86_64               15.15-1.module+el8.10.0+40056+df351139                appstream",
         "postgresql.x86_64               15.17-1.module+el8.10.0+40100+bfc24177                appstream"
-    ],
-    "kojiPackages": [
-        "postgresql-15.17-1.module+el8.10.0+40100+bfc24177",
-        "postgresql-15.15-1.module+el8.10.0+40056+df351139",
-        "postgresql-15.14-1.module+el8.10.0+2060+489fc2c4",
-        "postgresql-15.12-1.module+el8.10.0+1940+835325f2",
-        "postgresql-15.10-1.module+el8.10.0+1899+05bbdd2c",
-        "postgresql-15.8-1.module+el8.10.0+1864+f5aa9248",
-        "postgresql-15.6-1.module+el8.9.0+1737+de0a3665",
-        "postgresql-15.5-1.module+el8.9.0+1611+9223a356",
-        "postgresql-15.3-1.module+el8.9.0+1525+fc91df60",
-        "postgresql-15.3-1.module+el8.8.0+1453+d95bbb5d",
-        "postgresql-15.3-1.module+el8.9.0+1447+da503a99",
-        "postgresql-15.2-1.module+el8.8.0+1274+e6393eb2",
-        "postgresql-15.2-1.module+el8.8.0+1162+d8df676d",
-        "postgresql-15.0-1.module+el8.8.0+1117+00ff60ca"
     ]
 }

@@ -23,9 +23,5 @@
         "perl.x86_64                           4:5.32.1-481.el9                                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "perl.x86_64                           4:5.32.1-481.1.el9_6                            dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "perl.x86_64                           4:5.32.1-481.1.el9_6                            appstream"
-    ],
-    "kojiPackages": [
-        "perl-5.32.1-483.el9",
-        "perl-5.32.1-481.1.el9_6"
     ]
 }

@@ -21,12 +21,5 @@
         "php.x86_64                    7.2.24-1.module+el8.4.0+413+c9202dda                    dl.rockylinux.org_vault_rocky_8.7_AppStream_x86_64_os_",
         "php.x86_64                    7.2.24-1.module+el8.4.0+413+c9202dda                    dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "php.x86_64                    7.2.24-1.module+el8.4.0+413+c9202dda                    dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_"
-    ],
-    "kojiPackages": [
-        "php-7.2.24-1.module+el8.4.0+413+c9202dda",
-        "php-7.2.24-1.module+el8.4.0+379+264dd3e1",
-        "php-7.2.24-1.module+el8.4.0+361+af1f2799",
-        "php-7.2.24-1.module+el8.3.0+309+7730b53c",
-        "php-7.2.24-1.module+el8.3.0+200+280400f1"
     ]
 }

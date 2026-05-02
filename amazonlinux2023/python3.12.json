@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.12",
-        "Release": "2.amzn2023.0.4",
+        "Release": "2.amzn2023.0.5",
         "Architecture": "x86_64",
         "Size": "27 k",
-        "Source": "python3.12-3.12.12-2.amzn2023.0.4.src.rpm",
+        "Source": "python3.12-3.12.12-2.amzn2023.0.5.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -23,6 +23,7 @@
         "python3.12.x86_64               3.12.12-2.amzn2023                   amazonlinux",
         "python3.12.x86_64               3.12.12-2.amzn2023.0.2               amazonlinux",
         "python3.12.x86_64               3.12.12-2.amzn2023.0.3               amazonlinux",
-        "python3.12.x86_64               3.12.12-2.amzn2023.0.4               amazonlinux"
+        "python3.12.x86_64               3.12.12-2.amzn2023.0.4               amazonlinux",
+        "python3.12.x86_64               3.12.12-2.amzn2023.0.5               amazonlinux"
     ]
 }

@@ -27,10 +27,5 @@
         "postgresql.x86_64                15.14-1.module+el9.7.0+40011+28af63c9                appstream",
         "postgresql.x86_64                15.15-2.module+el9.7.0+40058+d9f04599                appstream",
         "postgresql.x86_64                15.17-1.module+el9.7.0+40097+c6c51561                appstream"
-    ],
-    "kojiPackages": [
-        "postgresql-15.17-1.module+el9.7.0+40097+c6c51561",
-        "postgresql-15.15-2.module+el9.7.0+40058+d9f04599",
-        "postgresql-15.14-1.module+el9.7.0+40011+28af63c9"
     ]
 }

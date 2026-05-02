@@ -16,15 +16,5 @@
         "vsftpd.x86_64                           3.0.5-9.el10                                 dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "vsftpd.x86_64                           3.0.5-10.el10                                appstream",
         "vsftpd.x86_64                           3.0.5-10.el10_1.1                            appstream"
-    ],
-    "kojiPackages": [
-        "vsftpd-3.0.5-12.el10",
-        "vsftpd-3.0.5-10.el10_1.1",
-        "vsftpd-3.0.5-11.el10",
-        "vsftpd-3.0.5-10.el10",
-        "vsftpd-3.0.5-9.el10",
-        "vsftpd-3.0.5-8.el10",
-        "vsftpd-3.0.5-7.el10",
-        "vsftpd-3.0.5-6.el10"
     ]
 }
