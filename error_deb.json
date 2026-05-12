@@ -57,7 +57,10 @@
             ]
         },
         "12": {
-            "openjdk-17-jdk": [
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "openssl": [
                 "apt-get changelog"
             ],
             "postgresql-15": [
@@ -65,7 +68,7 @@
             ]
         },
         "13": {
-            "openjdk-21-jdk": [
+            "openssl": [
                 "apt-get changelog"
             ],
             "php8.4": [

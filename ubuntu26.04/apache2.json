@@ -1,29 +1,30 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.66-2ubuntu2",
+        "Version": "2.4.66-2ubuntu2.1",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "478 kB",
+        "Installed-Size": "471 kB",
         "Provides": "httpd, httpd-cgi",
-        "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.66-2ubuntu2), apache2-data (= 2.4.66-2ubuntu2), apache2-utils (= 2.4.66-2ubuntu2), media-types, procps, perl:any",
+        "Depends": "apache2-bin (= 2.4.66-2ubuntu2.1), apache2-data (= 2.4.66-2ubuntu2.1), apache2-utils (= 2.4.66-2ubuntu2.1), media-types, procps, perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw, www-browser",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
-        "Download-Size": "107 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "Download-Size": "100 kB",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
+        "apache2/resolute-updates,resolute-security 2.4.66-2ubuntu2.1 amd64",
         "apache2/resolute 2.4.66-2ubuntu2 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.66-2ubuntu2.1) resolute-security; urgency=medium",
         "apache2 (2.4.66-2ubuntu2) resolute; urgency=medium",
         "apache2 (2.4.66-2ubuntu1) resolute; urgency=medium",
         "apache2 (2.4.66-2) unstable; urgency=medium",
@@ -498,6 +499,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.66-2ubuntu2.1",
         "2.4.66-2ubuntu2",
         "2.4.66-2ubuntu1",
         "2.4.65-3ubuntu1",

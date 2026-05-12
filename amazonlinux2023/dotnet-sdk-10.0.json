@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-10.0",
-        "Version": "10.0.105",
-        "Release": "1.amzn2023.0.2",
+        "Version": "10.0.107",
+        "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "96 M",
-        "Source": "dotnet10.0-10.0.105-1.amzn2023.0.2.src.rpm",
+        "Source": "dotnet10.0-10.0.107-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": ".NET 10.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -15,6 +15,8 @@
     "list": [
         "dotnet-sdk-10.0.x86_64            10.0.103-1.amzn2023.0.1            amazonlinux",
         "dotnet-sdk-10.0.x86_64            10.0.105-1.amzn2023.0.1            amazonlinux",
-        "dotnet-sdk-10.0.x86_64            10.0.105-1.amzn2023.0.2            amazonlinux"
+        "dotnet-sdk-10.0.x86_64            10.0.105-1.amzn2023.0.2            amazonlinux",
+        "dotnet-sdk-10.0.x86_64            10.0.106-1.amzn2023.0.1            amazonlinux",
+        "dotnet-sdk-10.0.x86_64            10.0.107-1.amzn2023.0.1            amazonlinux"
     ]
 }

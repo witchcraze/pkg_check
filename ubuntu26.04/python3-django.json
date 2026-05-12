@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:5.2.9-0ubuntu4",
+        "Version": "3:5.2.9-0ubuntu4.1",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -18,13 +18,15 @@
         "Replaces": "python-django-common",
         "Homepage": "http://www.djangoproject.com/",
         "Download-Size": "3035 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "High-level Python web development framework"
     },
     "list": [
+        "python3-django/resolute-updates,resolute-security 3:5.2.9-0ubuntu4.1 all",
         "python3-django/resolute 3:5.2.9-0ubuntu4 all"
     ],
     "changelog": [
+        "python-django (3:5.2.9-0ubuntu4.1) resolute-security; urgency=medium",
         "python-django (3:5.2.9-0ubuntu4) resolute; urgency=medium",
         "python-django (3:5.2.9-0ubuntu3) resolute; urgency=medium",
         "python-django (3:5.2.9-0ubuntu2) resolute; urgency=medium",
@@ -300,6 +302,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:5.2.9-0ubuntu4.1",
         "3:5.2.9-0ubuntu4",
         "3:5.2.9-0ubuntu3",
         "3:5.2.9-0ubuntu2",
