@@ -1,0 +1,34 @@
+{
+    "show": {
+        "Package": "python3.11",
+        "Version": "3.11.0~rc1-1~22.04.1~esm9",
+        "Priority": "optional",
+        "Section": "python",
+        "Maintainer": "Matthias Klose <doko@debian.org>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Installed-Size": "690 kB",
+        "Depends": "python3.11-minimal (= 3.11.0~rc1-1~22.04.1~esm9), libpython3.11-stdlib (= 3.11.0~rc1-1~22.04.1~esm9), media-types | mime-support",
+        "Suggests": "python3.11-venv, python3.11-doc, binutils",
+        "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
+        "Download-Size": "550 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu jammy-apps-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 3.11)"
+    },
+    "list": [
+        "python3.11/jammy-apps-security 3.11.0~rc1-1~22.04.1~esm9 amd64",
+        "python3.11/jammy-updates 3.11.0~rc1-1~22.04 amd64"
+    ],
+    "changelog": [
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm9) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm8) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm7) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm6) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm5) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm4) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm3) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm2) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04.1~esm1) jammy-security; urgency=medium",
+        "python3.11 (3.11.0~rc1-1~22.04) jammy-proposed; urgency=medium"
+    ],
+    "publishinghistory": []
+}

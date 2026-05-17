@@ -6,7 +6,7 @@
         "Section": "universe/java",
         "Source": "openjdk-13",
         "Origin": "Ubuntu",
-        "Maintainer": "OpenJDK Team <openjdk-13@packages.debian.org>",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "7832 kB",
         "Provides": "java-compiler, java-sdk, java10-sdk, java11-sdk, java12-sdk, java13-sdk, java2-sdk, java5-sdk, java6-sdk, java7-sdk, java8-sdk, java9-sdk",

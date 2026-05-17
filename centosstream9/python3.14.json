@@ -19,6 +19,8 @@
     ],
     "kojiPackages": [
         "python3.14-3.14.3-3.el9,draft_107319",
+        "python3.14-3.14.5-1.el9,draft_111013",
+        "python3.14-3.14.5-1.el9,draft_110936",
         "python3.14-3.14.3-6.el9,draft_109921",
         "python3.14-3.14.3-5.el9,draft_109499",
         "python3.14-3.14.3-4.el9,draft_108951",

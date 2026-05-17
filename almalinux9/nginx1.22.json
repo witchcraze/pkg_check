@@ -3,11 +3,11 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.22.1",
-        "Release": "8.module_el9.5.0+153+8c633b18.1.alma.1",
+        "Release": "8.module_el9.7.0+241+58ccfb8b.1.alma.2",
         "Architecture": "x86_64",
         "Size": "36 k",
-        "Source": "nginx-1.22.1-8.module_el9.5.0+153+8c633b18.1.alma.1.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "Source": "nginx-1.22.1-8.module_el9.7.0+241+58ccfb8b.1.alma.2.src.rpm",
+        "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
         "License": "BSD",
@@ -23,6 +23,7 @@
         "nginx.x86_64                1:1.22.1-8.module_el9.5.0+121+9e99ccd6.alma.1                  repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "nginx.x86_64                1:1.22.1-8.module_el9.5.0+153+8c633b18.1.alma.1                appstream",
         "nginx.x86_64                1:1.22.1-8.module_el9.5.0+153+8c633b18.1.alma.1                repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
-        "nginx.x86_64                1:1.22.1-8.module_el9.5.0+153+8c633b18.1.alma.1                repo.almalinux.org_vault_9.6_AppStream_x86_64_os_"
+        "nginx.x86_64                1:1.22.1-8.module_el9.5.0+153+8c633b18.1.alma.1                repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
+        "nginx.x86_64                1:1.22.1-8.module_el9.7.0+241+58ccfb8b.1.alma.2                appstream"
     ]
 }

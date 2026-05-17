@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "nodejs",
+        "Version": "12.22.9~dfsg-1ubuntu3.6+esm2",
+        "Priority": "optional",
+        "Section": "javascript",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Javascript Maintainers <pkg-javascript-devel@alioth-lists.debian.net>",
+        "Installed-Size": "930 kB",
+        "Provides": "node-types-node (= 12.20.42~12.22.9~dfsg-1ubuntu3.6+esm2)",
+        "Depends": "libc6 (>= 2.34), libnode72 (= 12.22.9~dfsg-1ubuntu3.6+esm2)",
+        "Recommends": "ca-certificates, nodejs-doc",
+        "Suggests": "npm",
+        "Breaks": "node-babel-runtime (<< 7), node-typescript-types (<< 20210110~)",
+        "Download-Size": "122 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu jammy-apps-security/main amd64 Packages",
+        "Description": "evented I/O for V8 javascript - runtime executable"
+    },
+    "list": [
+        "nodejs/jammy-apps-security 12.22.9~dfsg-1ubuntu3.6+esm2 amd64",
+        "nodejs/jammy-updates,jammy-security 12.22.9~dfsg-1ubuntu3.6 amd64",
+        "nodejs/jammy 12.22.9~dfsg-1ubuntu3 amd64"
+    ],
+    "changelog": [
+        "nodejs (12.22.9~dfsg-1ubuntu3.6+esm2) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.6+esm1test2) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.6+esm1test1) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.6+esm1) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.6) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.5) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.4) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.3) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.2) jammy-security; urgency=medium",
+        "nodejs (12.22.9~dfsg-1ubuntu3.1) jammy-security; urgency=medium"
+    ],
+    "publishinghistory": []
+}

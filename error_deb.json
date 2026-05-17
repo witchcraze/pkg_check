@@ -60,7 +60,7 @@
             "nginx": [
                 "apt-get changelog"
             ],
-            "openssl": [
+            "nodejs": [
                 "apt-get changelog"
             ],
             "postgresql-15": [
@@ -68,10 +68,7 @@
             ]
         },
         "13": {
-            "openssl": [
-                "apt-get changelog"
-            ],
-            "php8.4": [
+            "nginx": [
                 "apt-get changelog"
             ]
         }

@@ -1,0 +1,37 @@
+{
+    "show": {
+        "Package": "python2.7",
+        "Version": "2.7.18-13ubuntu1.5+esm8",
+        "Priority": "optional",
+        "Section": "python",
+        "Maintainer": "Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Matthias Klose <doko@debian.org>",
+        "Installed-Size": "394 kB",
+        "Depends": "python2.7-minimal (= 2.7.18-13ubuntu1.5+esm8), libpython2.7-stdlib (= 2.7.18-13ubuntu1.5+esm8), media-types | mime-support",
+        "Suggests": "python2.7-doc, binutils",
+        "Conflicts": "python-profiler (<= 2.7.1-2)",
+        "Breaks": "python-virtualenv (<< 1.7.1.2-2~), vim-athena (<< 2:7.3.547-4), vim-gnome (<< 2:7.3.547-4), vim-gtk (<< 2:7.3.547-4), vim-nox (<< 2:7.3.547-4)",
+        "Replaces": "python-profiler (<= 2.7.1-2), python2.7-minimal (<< 2.7.3-7~)",
+        "Download-Size": "250 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu jammy-apps-security/main amd64 Packages",
+        "Description": "Interactive high-level object-oriented language (version 2.7)"
+    },
+    "list": [
+        "python2.7/jammy-apps-security,jammy-infra-security 2.7.18-13ubuntu1.5+esm8 amd64",
+        "python2.7/jammy-updates,jammy-security 2.7.18-13ubuntu1.5 amd64",
+        "python2.7/jammy 2.7.18-13ubuntu1 amd64"
+    ],
+    "changelog": [
+        "python2.7 (2.7.18-13ubuntu1.5+esm8) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm7) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm6) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm5) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm4) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm3) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5+esm2) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.5) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.4) jammy-security; urgency=medium",
+        "python2.7 (2.7.18-13ubuntu1.3) jammy-security; urgency=medium"
+    ],
+    "publishinghistory": []
+}

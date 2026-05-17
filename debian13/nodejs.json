@@ -14,13 +14,17 @@
         "Breaks": "libnode108 (<< 19), libnode109 (<< 19), libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), node-babel-runtime (<< 7), node-jest (<< 29~), node-typescript-types (<< 20210110~)",
         "Replaces": "libnode105, libnode108, libnode109, libnode72 (<< 13), libnode83 (<< 16.13.2+really14.19.1~dfsg~), nodejs-legacy",
         "Homepage": "https://nodejs.org/",
+        "Tag": "devel::interpreter, devel::lang:ecmascript, devel::runtime, devel::web,",
+        "implemented-in": "c++, implemented-in::ecmascript,",
+        "interface": "commandline, interface::shell, protocol::dns,",
+        "protocol": "http, protocol::tcp, role::program, scope::application,",
+        "works-with-format": "json",
         "Download-Size": "353 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
-        "nodejs/stable-security 20.19.2+dfsg-1+deb13u2 amd64",
-        "nodejs/stable 20.19.2+dfsg-1 amd64"
+        "nodejs/stable,stable-security 20.19.2+dfsg-1+deb13u2 amd64"
     ],
     "changelog": [
         "nodejs (20.19.2+dfsg-1+deb13u2) trixie-security; urgency=medium",

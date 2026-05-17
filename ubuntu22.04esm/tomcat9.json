@@ -1,0 +1,35 @@
+{
+    "show": {
+        "Package": "tomcat9",
+        "Version": "9.0.58-1ubuntu0.2+esm3",
+        "Priority": "optional",
+        "Section": "java",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+        "Installed-Size": "313 kB",
+        "Depends": "lsb-base (>= 3.0-6), systemd (>= 238), tomcat9-common (>= 9.0.58-1ubuntu0.2+esm3), ucf",
+        "Recommends": "libtcnative-1 (>= 1.2.18)",
+        "Suggests": "tomcat9-admin (>= 9.0.58-1ubuntu0.2+esm3), tomcat9-docs (>= 9.0.58-1ubuntu0.2+esm3), tomcat9-examples (>= 9.0.58-1ubuntu0.2+esm3), tomcat9-user (>= 9.0.58-1ubuntu0.2+esm3)",
+        "Download-Size": "37.0 kB",
+        "APT-Sources": "https://esm.ubuntu.com/apps/ubuntu jammy-apps-security/main amd64 Packages",
+        "Description": "Apache Tomcat 9 - Servlet and JSP engine"
+    },
+    "list": [
+        "tomcat9/jammy-apps-security 9.0.58-1ubuntu0.2+esm3 all",
+        "tomcat9/jammy-updates,jammy-security 9.0.58-1ubuntu0.2 all",
+        "tomcat9/jammy 9.0.58-1 all"
+    ],
+    "changelog": [
+        "tomcat9 (9.0.58-1ubuntu0.2+esm3) jammy-security; urgency=medium",
+        "tomcat9 (9.0.58-1ubuntu0.2+esm2) jammy-security; urgency=medium",
+        "tomcat9 (9.0.58-1ubuntu0.2+esm1) jammy-security; urgency=medium",
+        "tomcat9 (9.0.58-1ubuntu0.2) jammy-security; urgency=medium",
+        "tomcat9 (9.0.58-1ubuntu0.1) jammy; urgency=medium",
+        "tomcat9 (9.0.58-1) unstable; urgency=medium",
+        "tomcat9 (9.0.55-1) unstable; urgency=medium",
+        "tomcat9 (9.0.54-1) unstable; urgency=medium",
+        "tomcat9 (9.0.53-1) unstable; urgency=medium",
+        "tomcat9 (9.0.43-3) unstable; urgency=medium"
+    ],
+    "publishinghistory": []
+}

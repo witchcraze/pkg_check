@@ -1,12 +1,12 @@
 {
     "show": {
         "Package": "python3.13",
-        "Version": "3.13.5-2",
+        "Version": "3.13.5-2+deb13u2",
         "Priority": "optional",
         "Section": "python",
         "Maintainer": "Matthias Klose <doko@debian.org>",
         "Installed-Size": "850 kB",
-        "Depends": "python3.13-minimal (= 3.13.5-2), libpython3.13-stdlib (= 3.13.5-2), media-types | mime-support, tzdata",
+        "Depends": "python3.13-minimal (= 3.13.5-2+deb13u2), libpython3.13-stdlib (= 3.13.5-2+deb13u2), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.13-venv, python3.13-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
@@ -15,9 +15,11 @@
         "Description": "Interactive high-level object-oriented language (version 3.13)"
     },
     "list": [
-        "python3.13/stable 3.13.5-2 amd64"
+        "python3.13/stable 3.13.5-2+deb13u2 amd64"
     ],
     "changelog": [
+        "python3.13 (3.13.5-2+deb13u2) trixie; urgency=medium",
+        "python3.13 (3.13.5-2+deb13u1) trixie; urgency=medium",
         "python3.13 (3.13.5-2) unstable; urgency=medium",
         "python3.13 (3.13.5-1) unstable; urgency=medium",
         "python3.13 (3.13.4-1) unstable; urgency=medium",

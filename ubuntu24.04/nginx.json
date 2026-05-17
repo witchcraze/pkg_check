@@ -1,16 +1,16 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.24.0-2ubuntu7.7",
+        "Version": "1.24.0-2ubuntu7.8",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1352 kB",
+        "Installed-Size": "1353 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.24.0-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.24.0-2ubuntu7.7)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.24.0-2ubuntu7.8)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
@@ -19,10 +19,11 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/noble-updates,noble-security 1.24.0-2ubuntu7.7 amd64",
+        "nginx/noble-updates,noble-security 1.24.0-2ubuntu7.8 amd64",
         "nginx/noble 1.24.0-2ubuntu7 amd64"
     ],
     "changelog": [
+        "nginx (1.24.0-2ubuntu7.8) noble-security; urgency=medium",
         "nginx (1.24.0-2ubuntu7.7) noble-security; urgency=medium",
         "nginx (1.24.0-2ubuntu7.6) noble-security; urgency=medium",
         "nginx (1.24.0-2ubuntu7.5) noble-security; urgency=medium",
@@ -323,6 +324,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.24.0-2ubuntu7.8",
         "1.24.0-2ubuntu7.7",
         "1.24.0-2ubuntu7.6",
         "1.24.0-2ubuntu7.5",

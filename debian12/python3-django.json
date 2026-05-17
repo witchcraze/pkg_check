@@ -15,12 +15,11 @@
         "Replaces": "python-django-common",
         "Homepage": "http://www.djangoproject.com/",
         "Download-Size": "2832 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/oldstable-security 3:3.2.25-0+deb12u2 all",
-        "python3-django/oldstable 3:3.2.19-1+deb12u1 all"
+        "python3-django/oldstable,oldstable-security 3:3.2.25-0+deb12u2 all"
     ],
     "changelog": [
         "python-django (3:3.2.25-0+deb12u2) bookworm-security; urgency=high",
@@ -288,6 +287,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:3.2.25-0+deb12u2",
         "3:3.2.19-1+deb12u1",
         "3:3.2.19-1"
     ]
