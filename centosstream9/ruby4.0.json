@@ -16,6 +16,7 @@
         "ruby.x86_64             4.0.1-31.module_el9+1318+36e679b0              appstream"
     ],
     "kojiPackages": [
+        "ruby-4.0.3-32.module_el9+1368+ad7758e3",
         "ruby-4.0.1-31.module_el9+1318+36e679b0"
     ]
 }

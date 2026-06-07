@@ -1,25 +1,25 @@
 {
     "show": {
         "Package": "varnish",
-        "Version": "7.7.0-3",
+        "Version": "7.7.0-3+deb13u1",
         "Priority": "optional",
         "Section": "web",
         "Maintainer": "Varnish Package Maintainers <team+varnish-team@tracker.debian.org>",
-        "Installed-Size": "3306 kB",
+        "Installed-Size": "3311 kB",
         "Provides": "varnishabi-21.0, varnishabi-strict-71fc9d211c471106e4be590f3816a56ba156a833",
         "Depends": "libc6 (>= 2.38), libedit2 (>= 2.11-20080614-0), libjemalloc2 (>= 2.1.1), libncursesw6 (>= 6), libpcre2-8-0 (>= 10.32), libtinfo6 (>= 6), libvarnishapi3 (>= 7.5.0~), systemd | systemd-standalone-sysusers | systemd-sysusers, gcc-x86-64-linux-gnu, binutils, libc6-dev | libc6.1-dev",
         "Suggests": "varnish-doc",
-        "Homepage": "https://www.varnish-cache.org/",
-        "Tag": "implemented-in::c, interface::daemon, network::server, protocol::http,",
-        "role": "program, uitoolkit::ncurses, use::proxying",
-        "Download-Size": "1169 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "Homepage": "https://vinyl-cache.org/",
+        "Download-Size": "1170 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [
+        "varnish/stable-security 7.7.0-3+deb13u1 amd64",
         "varnish/stable 7.7.0-3 amd64"
     ],
     "changelog": [
+        "varnish (7.7.0-3+deb13u1) trixie-security; urgency=medium",
         "varnish (7.7.0-3) unstable; urgency=medium",
         "varnish (7.7.0-2) unstable; urgency=medium",
         "varnish (7.7.0-1) unstable; urgency=medium",

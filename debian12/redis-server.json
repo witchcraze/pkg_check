@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:7.0.15-1~deb12u6",
+        "Version": "5:7.0.15-1~deb12u7",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "187 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.15-1~deb12u6)",
+        "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:7.0.15-1~deb12u7)",
         "Homepage": "https://redis.io/",
-        "Tag": "implemented-in::c, role::program",
-        "Download-Size": "73.1 kB",
-        "APT-Sources": "http://deb.debian.org/debian bookworm/main amd64 Packages",
+        "Download-Size": "73.4 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security bookworm-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/oldstable,oldstable-security 5:7.0.15-1~deb12u6 amd64"
+        "redis-server/oldstable-security 5:7.0.15-1~deb12u7 amd64",
+        "redis-server/oldstable 5:7.0.15-1~deb12u6 amd64"
     ],
     "changelog": [
+        "redis (5:7.0.15-1~deb12u7) bookworm-security; urgency=high",
         "redis (5:7.0.15-1~deb12u6) bookworm-security; urgency=medium",
         "redis (5:7.0.15-1~deb12u5) bookworm-security; urgency=high",
         "redis (5:7.0.15-1~deb12u4) bookworm; urgency=medium",

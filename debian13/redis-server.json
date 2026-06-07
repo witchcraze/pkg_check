@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:8.0.2-3+deb13u1",
+        "Version": "5:8.0.2-3+deb13u2",
         "Priority": "optional",
         "Section": "database",
         "Source": "redis",
         "Maintainer": "Chris Lamb <lamby@debian.org>",
         "Installed-Size": "181 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "redis-tools (= 5:8.0.2-3+deb13u1)",
+        "Depends": "redis-tools (= 5:8.0.2-3+deb13u2)",
         "Homepage": "https://redis.io/",
-        "Tag": "implemented-in::c, role::program",
-        "Download-Size": "66.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "Download-Size": "66.6 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/stable,stable-security 5:8.0.2-3+deb13u1 amd64"
+        "redis-server/stable-security 5:8.0.2-3+deb13u2 amd64",
+        "redis-server/stable 5:8.0.2-3+deb13u1 amd64"
     ],
     "changelog": [
+        "redis (5:8.0.2-3+deb13u2) trixie-security; urgency=high",
         "redis (5:8.0.2-3+deb13u1) trixie-security; urgency=medium",
         "redis (5:8.0.2-3) unstable; urgency=medium",
         "redis (5:8.0.2-2) unstable; urgency=high",

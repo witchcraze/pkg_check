@@ -2,10 +2,10 @@
     "info": {
         "Name": "vsftpd",
         "Version": "3.0.5",
-        "Release": "10.el10_1.1",
+        "Release": "12.el10",
         "Architecture": "x86_64",
-        "Size": "169 k",
-        "Source": "vsftpd-3.0.5-10.el10_1.1.src.rpm",
+        "Size": "176 k",
+        "Source": "vsftpd-3.0.5-12.el10.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "Very Secure Ftp Daemon",
         "URL": "https://security.appspot.com/vsftpd.html",
@@ -15,6 +15,7 @@
     "list": [
         "vsftpd.x86_64                                      3.0.5-9.el10                                            rhel-10-for-x86_64-appstream-rpms",
         "vsftpd.x86_64                                      3.0.5-10.el10                                           rhel-10-for-x86_64-appstream-rpms",
-        "vsftpd.x86_64                                      3.0.5-10.el10_1.1                                       rhel-10-for-x86_64-appstream-rpms"
+        "vsftpd.x86_64                                      3.0.5-10.el10_1.1                                       rhel-10-for-x86_64-appstream-rpms",
+        "vsftpd.x86_64                                      3.0.5-12.el10                                           rhel-10-for-x86_64-appstream-rpms"
     ]
 }

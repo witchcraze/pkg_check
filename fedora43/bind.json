@@ -2,12 +2,12 @@
     "info": {
         "Name": "bind",
         "Epoch": "32",
-        "Version": "9.18.48",
+        "Version": "9.18.49",
         "Release": "1.fc43",
         "Architecture": "x86_64",
-        "Download size": "328.1 KiB",
-        "Installed size": "876.5 KiB",
-        "Source": "bind-9.18.48-1.fc43.src.rpm",
+        "Download size": "327.8 KiB",
+        "Installed size": "875.2 KiB",
+        "Source": "bind-9.18.49-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "bind.x86_64 32:9.18.39-4.fc43 fedora",
-        "bind.x86_64 32:9.18.48-1.fc43 updates"
+        "bind.x86_64 32:9.18.49-1.fc43 updates"
     ]
 }

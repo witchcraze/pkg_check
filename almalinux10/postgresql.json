@@ -2,10 +2,10 @@
     "info": {
         "Name": "postgresql",
         "Version": "16.13",
-        "Release": "1.el10_1",
+        "Release": "1.el10_2",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "postgresql16-16.13-1.el10_1.src.rpm",
+        "Source": "postgresql16-16.13-1.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -15,8 +15,9 @@
     "list": [
         "postgresql.x86_64                             16.8-1.el10_0                               repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
         "postgresql.x86_64                             16.10-1.el10_0                              repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
-        "postgresql.x86_64                             16.10-1.el10_1                              appstream",
-        "postgresql.x86_64                             16.11-1.el10_1                              appstream",
-        "postgresql.x86_64                             16.13-1.el10_1                              appstream"
+        "postgresql.x86_64                             16.10-1.el10_1                              repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                             16.11-1.el10_1                              repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                             16.13-1.el10_1                              repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                             16.13-1.el10_2                              appstream"
     ]
 }

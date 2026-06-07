@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "11.5.0",
-        "Release": "11.el9.alma.1",
+        "Release": "14.el9.alma.1",
         "Architecture": "x86_64",
         "Size": "32 M",
-        "Source": "gcc-11.5.0-11.el9.alma.1.src.rpm",
+        "Source": "gcc-11.5.0-14.el9.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -21,6 +21,7 @@
         "gcc.x86_64                              11.5.0-2.el9.alma.1                                repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "gcc.x86_64                              11.5.0-5.el9_5.alma.1                              repo.almalinux.org_vault_9.5_AppStream_x86_64_os_",
         "gcc.x86_64                              11.5.0-5.el9_5.alma.1                              repo.almalinux.org_vault_9.6_AppStream_x86_64_os_",
-        "gcc.x86_64                              11.5.0-11.el9.alma.1                               appstream"
+        "gcc.x86_64                              11.5.0-11.el9.alma.1                               repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
+        "gcc.x86_64                              11.5.0-14.el9.alma.1                               appstream"
     ]
 }

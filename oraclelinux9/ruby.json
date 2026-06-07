@@ -2,7 +2,7 @@
     "info": {
         "Name": "ruby",
         "Version": "3.3.10",
-        "Release": "5.module+el9.7.0+90719+1f3245a0",
+        "Release": "6.module+el9.7.0+90894+66578cbb",
         "Architecture": "src",
         "Size": "16 M",
         "Source": "None",
@@ -31,6 +31,9 @@
         "ruby.i686                                        3.0.7-165.el9_5                                                               ol9_appstream",
         "ruby.src                                         3.0.7-165.el9_5                                                               ol9_appstream",
         "ruby.x86_64                                      3.0.7-165.el9_5                                                               ol9_appstream",
+        "ruby.i686                                        3.0.7-166.el9_7                                                               ol9_appstream",
+        "ruby.src                                         3.0.7-166.el9_7                                                               ol9_appstream",
+        "ruby.x86_64                                      3.0.7-166.el9_7                                                               ol9_appstream",
         "ruby.src                                         3.1.2-141.module+el9.1.0+20815+286161bd                                       ol9_appstream",
         "ruby.src                                         3.1.4-143.module+el9.3.0+90207+bf8fadcb                                       ol9_appstream",
         "ruby.src                                         3.1.5-144.module+el9.4.0+90348+c2ef46bf                                       ol9_appstream",
@@ -41,6 +44,7 @@
         "ruby.src                                         3.3.5-3.module+el9.4.0+90406+79f381be                                         ol9_appstream",
         "ruby.src                                         3.3.8-4.module+el9.5.0+90562+4bc8f111                                         ol9_appstream",
         "ruby.src                                         3.3.8-4.module+el9.7.0+90671+941b9d05                                         ol9_appstream",
-        "ruby.src                                         3.3.10-5.module+el9.7.0+90719+1f3245a0                                        ol9_appstream"
+        "ruby.src                                         3.3.10-5.module+el9.7.0+90719+1f3245a0                                        ol9_appstream",
+        "ruby.src                                         3.3.10-6.module+el9.7.0+90894+66578cbb                                        ol9_appstream"
     ]
 }

@@ -1,23 +1,24 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.14.0-0ubuntu1.11+esm1",
+        "Version": "1.14.0-0ubuntu1.11+esm2",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@lists.alioth.debian.org>",
-        "Installed-Size": "44.0 kB",
-        "Depends": "nginx-core (<< 1.14.0-0ubuntu1.11+esm1.1~) | nginx-full (<< 1.14.0-0ubuntu1.11+esm1.1~) | nginx-light (<< 1.14.0-0ubuntu1.11+esm1.1~) | nginx-extras (<< 1.14.0-0ubuntu1.11+esm1.1~), nginx-core (>= 1.14.0-0ubuntu1.11+esm1) | nginx-full (>= 1.14.0-0ubuntu1.11+esm1) | nginx-light (>= 1.14.0-0ubuntu1.11+esm1) | nginx-extras (>= 1.14.0-0ubuntu1.11+esm1)",
+        "Installed-Size": "45.1 kB",
+        "Depends": "nginx-core (<< 1.14.0-0ubuntu1.11+esm2.1~) | nginx-full (<< 1.14.0-0ubuntu1.11+esm2.1~) | nginx-light (<< 1.14.0-0ubuntu1.11+esm2.1~) | nginx-extras (<< 1.14.0-0ubuntu1.11+esm2.1~), nginx-core (>= 1.14.0-0ubuntu1.11+esm2) | nginx-full (>= 1.14.0-0ubuntu1.11+esm2) | nginx-light (>= 1.14.0-0ubuntu1.11+esm2) | nginx-extras (>= 1.14.0-0ubuntu1.11+esm2)",
         "Download-Size": "3608 B",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu bionic-infra-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/bionic-infra-security 1.14.0-0ubuntu1.11+esm1 all",
+        "nginx/bionic-infra-security 1.14.0-0ubuntu1.11+esm2 all",
         "nginx/bionic-updates,bionic-security 1.14.0-0ubuntu1.11 all",
         "nginx/bionic 1.14.0-0ubuntu1 all"
     ],
     "changelog": [
+        "nginx (1.14.0-0ubuntu1.11+esm2) bionic-security; urgency=medium",
         "nginx (1.14.0-0ubuntu1.11+esm1) bionic-security; urgency=medium",
         "nginx (1.14.0-0ubuntu1.11) bionic-security; urgency=medium",
         "nginx (1.14.0-0ubuntu1.10) bionic-security; urgency=medium",
@@ -26,8 +27,7 @@
         "nginx (1.14.0-0ubuntu1.6) bionic-security; urgency=medium",
         "nginx (1.14.0-0ubuntu1.5) bionic; urgency=medium",
         "nginx (1.14.0-0ubuntu1.4) bionic-security; urgency=medium",
-        "nginx (1.14.0-0ubuntu1.3) bionic; urgency=medium",
-        "nginx (1.14.0-0ubuntu1.2) bionic-security; urgency=medium"
+        "nginx (1.14.0-0ubuntu1.3) bionic; urgency=medium"
     ],
     "publishinghistory": []
 }

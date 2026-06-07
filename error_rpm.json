@@ -432,6 +432,9 @@
             "python3.12": [
                 "kojiPackages"
             ],
+            "python3.14": [
+                "kojiPackages"
+            ],
             "redis": [
                 "kojiPackages"
             ],
@@ -454,6 +457,9 @@
                 "kojiPackages"
             ],
             "mariadb10.11": [
+                "kojiPackages"
+            ],
+            "mariadb11.8": [
                 "kojiPackages"
             ],
             "mysql8.4": [
@@ -495,6 +501,9 @@
             "postgresql16": [
                 "kojiPackages"
             ],
+            "postgresql18": [
+                "kojiPackages"
+            ],
             "redis7": [
                 "kojiPackages"
             ],
@@ -502,6 +511,9 @@
                 "kojiPackages"
             ],
             "ruby3.3": [
+                "kojiPackages"
+            ],
+            "ruby4.0": [
                 "kojiPackages"
             ]
         },
@@ -551,6 +563,9 @@
             "mariadb-server": [
                 "kojiPackages"
             ],
+            "mariadb11.8": [
+                "kojiPackages"
+            ],
             "memcached": [
                 "kojiPackages"
             ],
@@ -578,13 +593,25 @@
             "php": [
                 "kojiPackages"
             ],
+            "php8.4": [
+                "kojiPackages"
+            ],
             "postgresql": [
                 "kojiPackages"
             ],
             "postgresql-server": [
                 "kojiPackages"
             ],
+            "postgresql18": [
+                "kojiPackages"
+            ],
+            "python3.14": [
+                "kojiPackages"
+            ],
             "ruby": [
+                "kojiPackages"
+            ],
+            "ruby4.0": [
                 "kojiPackages"
             ],
             "squid": [

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby4.0",
-        "Version": "4.0.1",
-        "Release": "33.el10",
+        "Version": "4.0.3",
+        "Release": "34.el10",
         "Architecture": "x86_64",
         "Size": "8.4 M",
-        "Source": "ruby4.0-4.0.1-33.el10.src.rpm",
+        "Source": "ruby4.0-4.0.3-34.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,9 +13,16 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby4.0.x86_64                      4.0.1-33.el10                      appstream"
+        "ruby4.0.x86_64                      4.0.1-33.el10                      appstream",
+        "ruby4.0.x86_64                      4.0.3-34.el10                      appstream"
     ],
     "kojiPackages": [
+        "ruby4.0-4.0.3-34.el10",
+        "ruby4.0-4.0.3-34.el10,draft_112053",
+        "ruby4.0-4.0.3-34.el10,draft_112051",
+        "ruby4.0-4.0.3-34.el10,draft_111989",
+        "ruby4.0-4.0.3-34.el10,draft_111988",
+        "ruby4.0-4.0.3-34.el10,draft_111963",
         "ruby4.0-4.0.1-33.el10",
         "ruby4.0-4.0.1-33.el10,draft_97163",
         "ruby4.0-4.0.1-33.el10,draft_97102",

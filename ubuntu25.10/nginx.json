@@ -1,16 +1,16 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.28.0-6ubuntu1.3",
+        "Version": "1.28.0-6ubuntu1.4",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1626 kB",
+        "Installed-Size": "1627 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.28.0-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.0-6ubuntu1.3)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.0-6ubuntu1.4)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
@@ -19,10 +19,11 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/questing-updates,questing-security 1.28.0-6ubuntu1.3 amd64",
+        "nginx/questing-updates,questing-security 1.28.0-6ubuntu1.4 amd64",
         "nginx/questing 1.28.0-6ubuntu1 amd64"
     ],
     "changelog": [
+        "nginx (1.28.0-6ubuntu1.4) questing-security; urgency=medium",
         "nginx (1.28.0-6ubuntu1.3) questing-security; urgency=medium",
         "nginx (1.28.0-6ubuntu1.2) questing-security; urgency=medium",
         "nginx (1.28.0-6ubuntu1.1) questing-security; urgency=medium",
@@ -345,6 +346,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.28.0-6ubuntu1.4",
         "1.28.0-6ubuntu1.3",
         "1.28.0-6ubuntu1.2",
         "1.28.0-6ubuntu1.1",

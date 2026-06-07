@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "2.0 M",
         "Source": "postgresql16-16.13-1.el10_1.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -15,8 +15,9 @@
     "list": [
         "postgresql.x86_64                           16.8-1.el10_0                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
         "postgresql.x86_64                           16.10-1.el10_0                           dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "postgresql.x86_64                           16.10-1.el10_0                           appstream",
-        "postgresql.x86_64                           16.11-1.el10_1                           appstream",
+        "postgresql.x86_64                           16.10-1.el10_0                           dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                           16.11-1.el10_1                           dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "postgresql.x86_64                           16.13-1.el10_1                           dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "postgresql.x86_64                           16.13-1.el10_1                           appstream"
     ]
 }

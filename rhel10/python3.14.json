@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "python3.14",
+        "Version": "3.14.4",
+        "Release": "2.el10_2",
+        "Architecture": "x86_64",
+        "Size": "34 k",
+        "Source": "python3.14-3.14.4-2.el10_2.src.rpm",
+        "Repository": "rhel-10-for-x86_64-appstream-rpms",
+        "Summary": "Version 3.14 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.14.x86_64                                     3.14.3-1.el10                                        rhel-10-for-x86_64-appstream-rpms",
+        "python3.14.x86_64                                     3.14.4-2.el10_2                                      rhel-10-for-x86_64-appstream-rpms"
+    ]
+}

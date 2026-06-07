@@ -13,6 +13,9 @@
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],
+            "memcached": [
+                "apt-get changelog"
+            ],
             "nginx": [
                 "apt-get changelog"
             ],
@@ -57,18 +60,12 @@
             ]
         },
         "12": {
-            "nginx": [
-                "apt-get changelog"
-            ],
-            "nodejs": [
-                "apt-get changelog"
-            ],
-            "postgresql-15": [
+            "apache2": [
                 "apt-get changelog"
             ]
         },
         "13": {
-            "nginx": [
+            "apache2": [
                 "apt-get changelog"
             ]
         }

@@ -1,0 +1,19 @@
+{
+    "info": {
+        "Name": "mariadb",
+        "Epoch": "3",
+        "Version": "11.8.6",
+        "Release": "2.module+el9.8.0+40192+484cc2de",
+        "Architecture": "x86_64",
+        "Size": "2.0 M",
+        "Source": "mariadb-11.8.6-2.module+el9.8.0+40192+484cc2de.src.rpm",
+        "Repository": "appstream",
+        "Summary": "A very fast and robust SQL database server",
+        "URL": "http://mariadb.org",
+        "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
+        "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
+    },
+    "list": [
+        "mariadb.x86_64                                      3:11.8.6-2.module+el9.8.0+40192+484cc2de                                       appstream"
+    ]
+}

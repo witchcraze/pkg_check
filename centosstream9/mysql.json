@@ -20,6 +20,17 @@
         "mysql.x86_64                       8.0.45-2.el9                        appstream"
     ],
     "kojiPackages": [
+        "mysql-8.0.46-1.el9",
+        "mysql-8.0.46-1.el9,draft_113129",
+        "mysql-8.0.46-1.el9,draft_113076",
+        "mysql-8.0.46-1.el9,draft_113075",
+        "mysql-8.0.46-1.el9,draft_113037",
+        "mysql-8.0.46-1.el9,draft_113036",
+        "mysql-8.0.46-1.el9,draft_113035",
+        "mysql-8.0.46-1.el9,draft_112989",
+        "mysql-8.0.46-1.el9,draft_112953",
+        "mysql-8.0.46-1.el9,draft_112946",
+        "mysql-8.0.46-1.el9,draft_112899",
         "mysql-8.0.45-9.el9,draft_104747",
         "mysql-8.0.45-8.el9,draft_104666",
         "mysql-8.0.45-7.el9,draft_104168",

@@ -19,6 +19,7 @@
         "mysql.x86_64             8.4.8-1.module_el9+1325+b8a55c72              appstream"
     ],
     "kojiPackages": [
+        "mysql-8.4.9-1.module_el9+1367+fdf01435",
         "mysql-8.4.8-1.module_el9+1325+b8a55c72",
         "mysql-8.4.7-2.module_el9+1324+fc671961",
         "mysql-8.4.7-1.module_el9+1294+3bf61324",

@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "2.8.14",
-        "Release": "1.el9_7.1",
+        "Release": "3.el9",
         "Architecture": "x86_64",
         "Size": "2.5 M",
-        "Source": "haproxy-2.8.14-1.el9_7.1.src.rpm",
+        "Source": "haproxy-2.8.14-3.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -22,6 +22,7 @@
         "haproxy.x86_64                            2.4.22-3.el9_3                              dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "haproxy.x86_64                            2.4.22-3.el9_5.1                            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "haproxy.x86_64                            2.4.22-4.el9                                dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "haproxy.x86_64                            2.8.14-1.el9_7.1                            appstream"
+        "haproxy.x86_64                            2.8.14-1.el9_7.1                            dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "haproxy.x86_64                            2.8.14-3.el9                                appstream"
     ]
 }

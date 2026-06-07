@@ -2,11 +2,11 @@
     "info": {
         "Name": "ruby",
         "Version": "3.3.10",
-        "Release": "5.module+el9.7.0+40039+300ba1ed",
+        "Release": "6.module+el9.7.0+40188+314ad260",
         "Architecture": "x86_64",
         "Size": "38 k",
-        "Source": "ruby-3.3.10-5.module+el9.7.0+40039+300ba1ed.src.rpm",
-        "Repository": "appstream",
+        "Source": "ruby-3.3.10-6.module+el9.7.0+40188+314ad260.src.rpm",
+        "Repository": "dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
         "License": "(Ruby OR BSD-2-Clause) AND (Ruby OR BSD-2-Clause OR GPL-1.0-or-later) AND BSD-3-Clause AND (GPL-3.0-or-later WITH Bison-exception-2.2) AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND CC0 AND zlib AND Unicode-DFS-2015 AND HPND-Markus-Kuhn AND Ruby-pty",
@@ -21,9 +21,13 @@
         "ruby.x86_64                  3.3.5-3.module+el9.5.0+29452+9aee9b7c                    dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "ruby.x86_64                  3.3.8-4.module+el9.5.0+31850+530eecc9                    dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "ruby.x86_64                  3.3.8-4.module+el9.6.0+31867+3a5bf654                    dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "ruby.i686                    3.3.8-4.module+el9.7.0+40032+36e56d0d                    appstream",
-        "ruby.x86_64                  3.3.8-4.module+el9.7.0+40032+36e56d0d                    appstream",
-        "ruby.i686                    3.3.10-5.module+el9.7.0+40039+300ba1ed                   appstream",
-        "ruby.x86_64                  3.3.10-5.module+el9.7.0+40039+300ba1ed                   appstream"
+        "ruby.i686                    3.3.8-4.module+el9.7.0+40032+36e56d0d                    dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.x86_64                  3.3.8-4.module+el9.7.0+40032+36e56d0d                    dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.i686                    3.3.10-5.module+el9.7.0+40039+300ba1ed                   dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.x86_64                  3.3.10-5.module+el9.7.0+40039+300ba1ed                   dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.i686                    3.3.10-6.module+el9.7.0+40188+314ad260                   dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.i686                    3.3.10-6.module+el9.7.0+40188+314ad260                   appstream",
+        "ruby.x86_64                  3.3.10-6.module+el9.7.0+40188+314ad260                   dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "ruby.x86_64                  3.3.10-6.module+el9.7.0+40188+314ad260                   appstream"
     ]
 }

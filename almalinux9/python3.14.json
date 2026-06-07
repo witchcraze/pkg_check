@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "python3.14",
+        "Version": "3.14.4",
+        "Release": "2.el9_8",
+        "Architecture": "x86_64",
+        "Size": "27 k",
+        "Source": "python3.14-3.14.4-2.el9_8.src.rpm",
+        "Repository": "appstream",
+        "Summary": "Version 3.14 of the Python interpreter",
+        "URL": "https://www.python.org/",
+        "License": "Python-2.0.1",
+        "Description": "Python 3.14 is an accessible, high-level, dynamically typed, interpreted"
+    },
+    "list": [
+        "python3.14.x86_64                                                  3.14.4-2.el9_8                                                  appstream"
+    ]
+}

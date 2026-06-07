@@ -2,12 +2,12 @@
     "info": {
         "Name": "tomcat",
         "Epoch": "1",
-        "Version": "10.1.54",
+        "Version": "10.1.55",
         "Release": "1.fc43",
         "Architecture": "noarch",
-        "Download size": "96.9 KiB",
+        "Download size": "97.0 KiB",
         "Installed size": "325.7 KiB",
-        "Source": "tomcat-10.1.54-1.fc43.src.rpm",
+        "Source": "tomcat-10.1.55-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Apache Servlet/JSP Engine, RI for Servlet 6.0/JSP 3.1 API",
         "URL": "http://tomcat.apache.org/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "tomcat.noarch 1:10.1.46-1.fc43 fedora",
-        "tomcat.noarch 1:10.1.54-1.fc43 updates"
+        "tomcat.noarch 1:10.1.55-1.fc43 updates"
     ]
 }

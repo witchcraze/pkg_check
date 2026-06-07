@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php8.5",
-        "Version": "8.5.4",
+        "Version": "8.5.6",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "14 k",
-        "Source": "php8.5-8.5.4-1.amzn2023.0.1.src.rpm",
+        "Source": "php8.5-8.5.6-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -15,6 +15,8 @@
     "list": [
         "php8.5.x86_64                  8.5.1-1.amzn2023.0.1                  amazonlinux",
         "php8.5.x86_64                  8.5.3-1.amzn2023.0.1                  amazonlinux",
-        "php8.5.x86_64                  8.5.4-1.amzn2023.0.1                  amazonlinux"
+        "php8.5.x86_64                  8.5.4-1.amzn2023.0.1                  amazonlinux",
+        "php8.5.x86_64                  8.5.5-1.amzn2023.0.1                  amazonlinux",
+        "php8.5.x86_64                  8.5.6-1.amzn2023.0.1                  amazonlinux"
     ]
 }

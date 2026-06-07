@@ -20,6 +20,8 @@
         "valkey.x86_64                       8.1.6-1.el9                        appstream"
     ],
     "kojiPackages": [
+        "valkey-8.1.7-1.el9,draft_111399",
+        "valkey-8.1.7-1.el9,draft_111367",
         "valkey-8.1.6-1.el9",
         "valkey-8.1.6-1.el9,draft_103308",
         "valkey-8.1.6-1.el9,draft_103291",

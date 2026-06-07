@@ -6,7 +6,7 @@
         "Architecture": "x86_64",
         "Size": "189 k",
         "Source": "memcached-1.6.23-7.el10.src.rpm",
-        "Repository": "repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "Repository": "repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
         "License": "BSD-3-clause AND Zlib AND BSD-2-Clause AND LicenseRef-Fedora-Public-Domain",
@@ -14,6 +14,7 @@
     },
     "list": [
         "memcached.x86_64                              1.6.23-7.el10                               appstream",
-        "memcached.x86_64                              1.6.23-7.el10                               repo.almalinux.org_vault_10.0_AppStream_x86_64_os_"
+        "memcached.x86_64                              1.6.23-7.el10                               repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
+        "memcached.x86_64                              1.6.23-7.el10                               repo.almalinux.org_vault_10.1_AppStream_x86_64_os_"
     ]
 }

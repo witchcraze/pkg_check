@@ -17,6 +17,10 @@
         "php.x86_64              8.3.19-1.module_el9+1213+23b849bf              appstream"
     ],
     "kojiPackages": [
+        "php-8.3.31-2.module_el9+1366+d9e6ac13",
+        "php-8.3.31-2.module_el9+1354+a6767a52",
+        "php-8.3.31-1.module_el9+1353+1a37f9fe",
+        "php-8.3.31-1.module_el9+1351+1083b6da",
         "php-8.3.29-1.module_el9+1306+96aebb13",
         "php-8.3.26-1.module_el9+1277+250d1091",
         "php-8.3.19-1.module_el9+1213+23b849bf",

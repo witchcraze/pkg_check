@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.11",
-        "Release": "2.module_el9+1308+6e340906",
+        "Version": "7.2.14",
+        "Release": "1.module_el9+1352+2158ab98",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "redis-7.2.11-2.module_el9+1308+6e340906.src.rpm",
+        "Source": "redis-7.2.14-1.module_el9+1352+2158ab98.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -15,9 +15,11 @@
     "list": [
         "redis.x86_64             7.0.12-2.module_el9+978+267ab8ff              appstream",
         "redis.x86_64             7.2.11-1.module_el9+1278+df234daa             appstream",
-        "redis.x86_64             7.2.11-2.module_el9+1308+6e340906             appstream"
+        "redis.x86_64             7.2.11-2.module_el9+1308+6e340906             appstream",
+        "redis.x86_64             7.2.14-1.module_el9+1352+2158ab98             appstream"
     ],
     "kojiPackages": [
+        "redis-7.2.14-1.module_el9+1352+2158ab98",
         "redis-7.2.11-2.module_el9+1308+6e340906",
         "redis-7.2.11-1.module_el9+1278+df234daa",
         "redis-7.2.10-1.module_el9+1246+f2b5091d",

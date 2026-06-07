@@ -3,10 +3,10 @@
         "Name": "squid",
         "Epoch": "7",
         "Version": "5.5",
-        "Release": "22.el9_7.4",
+        "Release": "26.el9_8",
         "Architecture": "x86_64",
         "Size": "3.3 M",
-        "Source": "squid-5.5-22.el9_7.4.src.rpm",
+        "Source": "squid-5.5-26.el9_8.src.rpm",
         "Repository": "appstream",
         "Summary": "The Squid proxy caching server",
         "URL": "http://www.squid-cache.org",
@@ -27,8 +27,9 @@
         "squid.x86_64                           7:5.5-18.el9                                   dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "squid.x86_64                           7:5.5-19.el9_6                                 dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
         "squid.x86_64                           7:5.5-19.el9_6.1                               dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "squid.x86_64                           7:5.5-22.el9_7.1                               appstream",
-        "squid.x86_64                           7:5.5-22.el9_7.2                               appstream",
-        "squid.x86_64                           7:5.5-22.el9_7.4                               appstream"
+        "squid.x86_64                           7:5.5-22.el9_7.1                               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-22.el9_7.2                               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-22.el9_7.4                               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "squid.x86_64                           7:5.5-26.el9_8                                 appstream"
     ]
 }

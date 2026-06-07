@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.66-2ubuntu2.1",
+        "Version": "2.4.66-2ubuntu2.2",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -10,7 +10,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "471 kB",
         "Provides": "httpd, httpd-cgi",
-        "Depends": "apache2-bin (= 2.4.66-2ubuntu2.1), apache2-data (= 2.4.66-2ubuntu2.1), apache2-utils (= 2.4.66-2ubuntu2.1), media-types, procps, perl:any",
+        "Depends": "apache2-bin (= 2.4.66-2ubuntu2.2), apache2-data (= 2.4.66-2ubuntu2.2), apache2-utils (= 2.4.66-2ubuntu2.2), media-types, procps, perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw, www-browser",
         "Homepage": "https://httpd.apache.org/",
@@ -20,10 +20,11 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/resolute-updates,resolute-security 2.4.66-2ubuntu2.1 amd64",
+        "apache2/resolute-updates,resolute-security 2.4.66-2ubuntu2.2 amd64",
         "apache2/resolute 2.4.66-2ubuntu2 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.66-2ubuntu2.2) resolute-security; urgency=medium",
         "apache2 (2.4.66-2ubuntu2.1) resolute-security; urgency=medium",
         "apache2 (2.4.66-2ubuntu2) resolute; urgency=medium",
         "apache2 (2.4.66-2ubuntu1) resolute; urgency=medium",
@@ -499,6 +500,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.66-2ubuntu2.2",
         "2.4.66-2ubuntu2.1",
         "2.4.66-2ubuntu2",
         "2.4.66-2ubuntu1",

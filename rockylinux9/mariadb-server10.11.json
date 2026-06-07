@@ -7,7 +7,7 @@
         "Architecture": "x86_64",
         "Size": "10 M",
         "Source": "mariadb-10.11.15-2.module+el9.7.0+40104+317ef232.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "Summary": "The MariaDB server and related files",
         "URL": "http://mariadb.org",
         "License": "GPLv2 and LGPLv2",
@@ -19,8 +19,9 @@
         "mariadb-server.x86_64           3:10.11.10-1.module+el9.5.0+30364+a2cca97c            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "mariadb-server.x86_64           3:10.11.10-1.module+el9.5.0+31840+a2cca97c            dl.rockylinux.org_vault_rocky_9.5_AppStream_x86_64_os_",
         "mariadb-server.x86_64           3:10.11.10-1.module+el9.6.0+31841+9417776a            dl.rockylinux.org_vault_rocky_9.6_AppStream_x86_64_os_",
-        "mariadb-server.x86_64           3:10.11.10-1.module+el9.7.0+40024+12a6f3b4            appstream",
-        "mariadb-server.x86_64           3:10.11.15-1.module+el9.7.0+40065+b33d0971            appstream",
+        "mariadb-server.x86_64           3:10.11.10-1.module+el9.7.0+40024+12a6f3b4            dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "mariadb-server.x86_64           3:10.11.15-1.module+el9.7.0+40065+b33d0971            dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "mariadb-server.x86_64           3:10.11.15-2.module+el9.7.0+40104+317ef232            dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "mariadb-server.x86_64           3:10.11.15-2.module+el9.7.0+40104+317ef232            appstream"
     ]
 }

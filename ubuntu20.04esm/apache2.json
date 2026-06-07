@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.41-4ubuntu3.23+esm2",
+        "Version": "2.4.41-4ubuntu3.23+esm3",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -9,7 +9,7 @@
         "Installed-Size": "546 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.23+esm2), apache2-data (= 2.4.41-4ubuntu3.23+esm2), apache2-utils (= 2.4.41-4ubuntu3.23+esm2), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.41-4ubuntu3.23+esm3), apache2-data (= 2.4.41-4ubuntu3.23+esm3), apache2-utils (= 2.4.41-4ubuntu3.23+esm3), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -20,11 +20,12 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/focal-infra-security 2.4.41-4ubuntu3.23+esm2 amd64",
+        "apache2/focal-infra-security 2.4.41-4ubuntu3.23+esm3 amd64",
         "apache2/focal-updates,focal-security 2.4.41-4ubuntu3.23 amd64",
         "apache2/focal 2.4.41-4ubuntu3 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.41-4ubuntu3.23+esm3) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.23+esm2) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.23) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.22) focal; urgency=medium",
@@ -33,8 +34,7 @@
         "apache2 (2.4.41-4ubuntu3.19) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.17) focal-security; urgency=medium",
         "apache2 (2.4.41-4ubuntu3.16) focal; urgency=medium",
-        "apache2 (2.4.41-4ubuntu3.15) focal-security; urgency=medium",
-        "apache2 (2.4.41-4ubuntu3.14) focal-security; urgency=medium"
+        "apache2 (2.4.41-4ubuntu3.15) focal-security; urgency=medium"
     ],
     "publishinghistory": []
 }

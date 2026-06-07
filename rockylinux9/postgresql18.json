@@ -1,0 +1,18 @@
+{
+    "info": {
+        "Name": "postgresql",
+        "Version": "18.3",
+        "Release": "2.module+el9.8.0+40158+490b3c67",
+        "Architecture": "x86_64",
+        "Size": "2.0 M",
+        "Source": "postgresql-18.3-2.module+el9.8.0+40158+490b3c67.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql.x86_64                                       18.3-2.module+el9.8.0+40158+490b3c67                                       appstream"
+    ]
+}

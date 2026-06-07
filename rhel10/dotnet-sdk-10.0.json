@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-10.0",
-        "Version": "10.0.106",
-        "Release": "1.el10_1",
+        "Version": "10.0.108",
+        "Release": "1.el10_2",
         "Architecture": "x86_64",
         "Size": "101 M",
-        "Source": "dotnet10.0-10.0.106-1.el10_1.src.rpm",
+        "Source": "dotnet10.0-10.0.108-1.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": ".NET 10.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -19,7 +19,10 @@
         "dotnet-sdk-10.0.x86_64                       10.0.101-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms",
         "dotnet-sdk-10.0.x86_64                       10.0.102-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms",
         "dotnet-sdk-10.0.x86_64                       10.0.103-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms",
+        "dotnet-sdk-10.0.x86_64                       10.0.103-2.el10                                               rhel-10-for-x86_64-appstream-rpms",
         "dotnet-sdk-10.0.x86_64                       10.0.104-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms",
-        "dotnet-sdk-10.0.x86_64                       10.0.106-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms"
+        "dotnet-sdk-10.0.x86_64                       10.0.106-1.el10_1                                             rhel-10-for-x86_64-appstream-rpms",
+        "dotnet-sdk-10.0.x86_64                       10.0.106-2.el10_2                                             rhel-10-for-x86_64-appstream-rpms",
+        "dotnet-sdk-10.0.x86_64                       10.0.108-1.el10_2                                             rhel-10-for-x86_64-appstream-rpms"
     ]
 }

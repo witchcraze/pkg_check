@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.29",
-        "Release": "1.el10_1",
+        "Version": "8.3.31",
+        "Release": "1.el10_2",
         "Architecture": "x86_64",
-        "Size": "8.3 k",
-        "Source": "php-8.3.29-1.el10_1.src.rpm",
+        "Size": "7.8 k",
+        "Source": "php-8.3.31-1.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,9 +13,11 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php.x86_64                                8.3.19-1.el10_0                                 appstream",
         "php.x86_64                                8.3.19-1.el10_0                                 repo.almalinux.org_vault_10.0_AppStream_x86_64_os_",
-        "php.x86_64                                8.3.26-1.el10_1                                 appstream",
-        "php.x86_64                                8.3.29-1.el10_1                                 appstream"
+        "php.x86_64                                8.3.19-1.el10_0                                 repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "php.x86_64                                8.3.26-1.el10_1                                 repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "php.x86_64                                8.3.29-1.el10_1                                 appstream",
+        "php.x86_64                                8.3.29-1.el10_1                                 repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
+        "php.x86_64                                8.3.31-1.el10_2                                 appstream"
     ]
 }

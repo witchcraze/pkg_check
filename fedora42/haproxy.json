@@ -2,20 +2,21 @@
     "info": {
         "Name": "haproxy",
         "Epoch": "0",
-        "Version": "3.0.5",
-        "Release": "1.fc42",
+        "Version": "3.0.23",
+        "Release": "2.fc42",
         "Architecture": "x86_64",
-        "Download size": "2.6 MiB",
-        "Installed size": "8.0 MiB",
-        "Source": "haproxy-3.0.5-1.fc42.src.rpm",
-        "Repository": "fedora",
-        "Summary": "HAProxy reverse proxy for high availability environments",
-        "URL": "http://www.haproxy.org/",
-        "License": "GPL-2.0-or-later",
+        "Download size": "2.7 MiB",
+        "Installed size": "8.3 MiB",
+        "Source": "haproxy-3.0.23-2.fc42.src.rpm",
+        "Repository": "updates",
+        "Summary": "Reliable, high-performance TCP/HTTP load-balancing reverse proxy",
+        "URL": "https://www.haproxy.org/",
+        "License": "GPL-2.0-or-later AND LGPL-2.1-or-later",
         "Description": "HAProxy is a TCP/HTTP reverse proxy which is particularly suited for high",
         "Vendor": "Fedora Project"
     },
     "list": [
-        "haproxy.x86_64 3.0.5-1.fc42 fedora"
+        "haproxy.x86_64 3.0.5-1.fc42  fedora",
+        "haproxy.x86_64 3.0.23-2.fc42 updates"
     ]
 }

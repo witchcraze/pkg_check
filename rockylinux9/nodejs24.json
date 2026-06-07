@@ -7,16 +7,17 @@
         "Architecture": "x86_64",
         "Size": "67 k",
         "Source": "nodejs-24.14.1-2.module+el9.7.0+40151+7a588b37.src.rpm",
-        "Repository": "appstream",
+        "Repository": "dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
         "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
     },
     "list": [
-        "nodejs.x86_64                                      1:24.4.1-7.module+el9.7.0+40025+0e0cf6b2                                        appstream",
-        "nodejs.x86_64                                      1:24.11.1-2.module+el9.7.0+40052+e32ea525                                       appstream",
-        "nodejs.x86_64                                      1:24.13.0-1.module+el9.7.0+40084+5fab4181                                       appstream",
-        "nodejs.x86_64                                      1:24.14.1-2.module+el9.7.0+40151+7a588b37                                       appstream"
+        "nodejs.x86_64                1:24.4.1-7.module+el9.7.0+40025+0e0cf6b2                 dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:24.11.1-2.module+el9.7.0+40052+e32ea525                dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:24.13.0-1.module+el9.7.0+40084+5fab4181                dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:24.14.1-2.module+el9.7.0+40151+7a588b37                dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                1:24.14.1-2.module+el9.7.0+40151+7a588b37                appstream"
     ]
 }

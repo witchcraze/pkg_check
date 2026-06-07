@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "2.el10_1.1",
+        "Release": "6.el10_2.3",
         "Architecture": "x86_64",
-        "Size": "40 k",
-        "Source": "nginx-1.26.3-2.el10_1.1.src.rpm",
+        "Size": "39 k",
+        "Source": "nginx-1.26.3-6.el10_2.3.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -16,6 +16,9 @@
     "list": [
         "nginx.x86_64                                      2:1.26.3-1.el10                                          rhel-10-for-x86_64-appstream-rpms",
         "nginx.x86_64                                      2:1.26.3-2.el10_1                                        rhel-10-for-x86_64-appstream-rpms",
-        "nginx.x86_64                                      2:1.26.3-2.el10_1.1                                      rhel-10-for-x86_64-appstream-rpms"
+        "nginx.x86_64                                      2:1.26.3-2.el10_1.1                                      rhel-10-for-x86_64-appstream-rpms",
+        "nginx.x86_64                                      2:1.26.3-2.el10_1.2                                      rhel-10-for-x86_64-appstream-rpms",
+        "nginx.x86_64                                      2:1.26.3-6.el10_2.2                                      rhel-10-for-x86_64-appstream-rpms",
+        "nginx.x86_64                                      2:1.26.3-6.el10_2.3                                      rhel-10-for-x86_64-appstream-rpms"
     ]
 }
