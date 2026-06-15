@@ -20,7 +20,8 @@
         "dotnet-sdk-8.0.x86_64                  8.0.126-2.el10                  appstream"
     ],
     "kojiPackages": [
-        "dotnet8.0-8.0.127-2.el10,draft_113758",
+        "dotnet8.0-8.0.128-2.el10,draft_114121",
+        "dotnet8.0-8.0.127-2.el10",
         "dotnet8.0-8.0.127-2.el10,draft_113584",
         "dotnet8.0-8.0.127-2.el10,draft_113457",
         "dotnet8.0-8.0.127-2.el10,draft_112889",

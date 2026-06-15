@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-10.0",
-        "Version": "10.0.108",
+        "Version": "10.0.109",
         "Release": "1.el10_2",
         "Architecture": "x86_64",
         "Size": "96 M",
-        "Source": "dotnet10.0-10.0.108-1.el10_2.src.rpm",
+        "Source": "dotnet10.0-10.0.109-1.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 10.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -20,6 +20,7 @@
         "dotnet-sdk-10.0.x86_64                       10.0.104-1.el10_1                       dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "dotnet-sdk-10.0.x86_64                       10.0.106-1.el10_1                       dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "dotnet-sdk-10.0.x86_64                       10.0.106-2.el10_2                       appstream",
-        "dotnet-sdk-10.0.x86_64                       10.0.108-1.el10_2                       appstream"
+        "dotnet-sdk-10.0.x86_64                       10.0.108-1.el10_2                       appstream",
+        "dotnet-sdk-10.0.x86_64                       10.0.109-1.el10_2                       appstream"
     ]
 }

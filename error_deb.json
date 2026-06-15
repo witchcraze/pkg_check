@@ -58,16 +58,6 @@
             "varnish": [
                 "apt-get changelog"
             ]
-        },
-        "12": {
-            "apache2": [
-                "apt-get changelog"
-            ]
-        },
-        "13": {
-            "apache2": [
-                "apt-get changelog"
-            ]
         }
     }
 }

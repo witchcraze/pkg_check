@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet10",
-        "Version": "10.0.108-10.0.8-0ubuntu1~24.04.1",
+        "Version": "10.0.109-10.0.9-0ubuntu1~24.04.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -16,9 +16,10 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet10/noble-updates,noble-security 10.0.108-10.0.8-0ubuntu1~24.04.1 amd64"
+        "dotnet10/noble-updates,noble-security 10.0.109-10.0.9-0ubuntu1~24.04.1 amd64"
     ],
     "changelog": [
+        "dotnet10 (10.0.109-10.0.9-0ubuntu1~24.04.1) noble-security; urgency=medium",
         "dotnet10 (10.0.108-10.0.8-0ubuntu1~24.04.1) noble-security; urgency=medium",
         "dotnet10 (10.0.107-10.0.7-0ubuntu1~24.04.1) noble-security; urgency=medium",
         "dotnet10 (10.0.106-10.0.6-0ubuntu1~24.04.1) noble-security; urgency=medium",
@@ -41,6 +42,7 @@
         "dotnet10 (10.0.100-10.0.0~preview2-0ubuntu1~24.04.1~ppa1) noble; urgency=medium"
     ],
     "publishinghistory": [
+        "10.0.109-10.0.9-0ubuntu1~24.04.1",
         "10.0.108-10.0.8-0ubuntu1~24.04.1",
         "10.0.107-10.0.7-0ubuntu1~24.04.1",
         "10.0.106-10.0.6-0ubuntu1~24.04.1",

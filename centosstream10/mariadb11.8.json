@@ -18,6 +18,8 @@
         "mariadb11.8.x86_64                   3:11.8.6-2.el10                   appstream"
     ],
     "kojiPackages": [
+        "mariadb11.8-11.8.8-1.el10",
+        "mariadb11.8-11.8.8-1.el10,draft_113996",
         "mariadb11.8-11.8.8-1.el10,draft_113401",
         "mariadb11.8-11.8.8-1.el10,draft_113400",
         "mariadb11.8-11.8.7-1.el10,draft_111981",

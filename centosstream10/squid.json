@@ -21,7 +21,7 @@
         "squid.x86_64                      7:6.10-14.el10                       appstream"
     ],
     "kojiPackages": [
-        "squid-6.10-15.el10,draft_113527",
+        "squid-6.10-15.el10",
         "squid-6.10-14.el10",
         "squid-6.10-14.el10,draft_109026",
         "squid-6.10-13.el10",

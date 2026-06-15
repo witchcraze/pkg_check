@@ -1,24 +1,28 @@
 {
     "show": {
         "Package": "tomcat11",
-        "Version": "11.0.15-1~deb13u1",
+        "Version": "11.0.22-1~deb13u1",
         "Priority": "optional",
         "Section": "java",
         "Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "284 kB",
-        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat11-common (>= 11.0.15-1~deb13u1), ucf",
+        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat11-common (>= 11.0.22-1~deb13u1), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat11-admin (>= 11.0.15-1~deb13u1), tomcat11-docs (>= 11.0.15-1~deb13u1), tomcat11-examples (>= 11.0.15-1~deb13u1), tomcat11-user (>= 11.0.15-1~deb13u1)",
+        "Suggests": "tomcat11-admin (>= 11.0.22-1~deb13u1), tomcat11-docs (>= 11.0.22-1~deb13u1), tomcat11-examples (>= 11.0.22-1~deb13u1), tomcat11-user (>= 11.0.22-1~deb13u1)",
         "Homepage": "http://tomcat.apache.org",
-        "Download-Size": "38.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "Download-Size": "38.5 kB",
+        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
         "Description": "Apache Tomcat 11 - Servlet and JSP engine"
     },
     "list": [
-        "tomcat11/stable,stable-security 11.0.15-1~deb13u1 all"
+        "tomcat11/stable-security 11.0.22-1~deb13u1 all",
+        "tomcat11/stable 11.0.15-1~deb13u1 all"
     ],
     "changelog": [
-        "tomcat11 (11.0.15-1~deb13u1) trixie-security; urgency=medium",
+        "tomcat11 (11.0.22-1~deb13u1) trixie-security; urgency=medium",
+        "tomcat11 (11.0.22-1) unstable; urgency=medium",
+        "tomcat11 (11.0.21-1) unstable; urgency=medium",
+        "tomcat11 (11.0.18-1) unstable; urgency=medium",
         "tomcat11 (11.0.15-1) unstable; urgency=medium",
         "tomcat11 (11.0.11-1) unstable; urgency=medium",
         "tomcat11 (11.0.6-1) unstable; urgency=medium",

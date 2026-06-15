@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "tomcat10",
-        "Version": "10.1.40-1ubuntu1",
+        "Version": "10.1.40-1ubuntu1.25.10.1",
         "Priority": "optional",
         "Section": "universe/java",
         "Origin": "Ubuntu",
@@ -9,18 +9,20 @@
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "304 kB",
-        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat10-common (>= 10.1.40-1ubuntu1), ucf",
+        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat10-common (>= 10.1.40-1ubuntu1.25.10.1), ucf",
         "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat10-admin (>= 10.1.40-1ubuntu1), tomcat10-docs (>= 10.1.40-1ubuntu1), tomcat10-examples (>= 10.1.40-1ubuntu1), tomcat10-user (>= 10.1.40-1ubuntu1)",
+        "Suggests": "tomcat10-admin (>= 10.1.40-1ubuntu1.25.10.1), tomcat10-docs (>= 10.1.40-1ubuntu1.25.10.1), tomcat10-examples (>= 10.1.40-1ubuntu1.25.10.1), tomcat10-user (>= 10.1.40-1ubuntu1.25.10.1)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "37.1 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu questing-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 10 - Servlet and JSP engine"
     },
     "list": [
+        "tomcat10/questing-updates,questing-security 10.1.40-1ubuntu1.25.10.1 all",
         "tomcat10/questing 10.1.40-1ubuntu1 all"
     ],
     "changelog": [
+        "tomcat10 (10.1.40-1ubuntu1.25.10.1) questing-security; urgency=medium",
         "tomcat10 (10.1.40-1ubuntu1) questing; urgency=medium",
         "tomcat10 (10.1.40-1) unstable; urgency=medium",
         "tomcat10 (10.1.35-1) unstable; urgency=medium",
@@ -136,6 +138,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "10.1.40-1ubuntu1.25.10.1",
         "10.1.40-1ubuntu1",
         "10.1.40-1",
         "10.1.35-1"

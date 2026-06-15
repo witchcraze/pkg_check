@@ -21,6 +21,9 @@
         "openssl.x86_64                       1:3.5.5-3.el9                        baseos"
     ],
     "kojiPackages": [
+        "openssl-3.5.7-1.el9,draft_114337",
+        "openssl-3.5.7-1.el9,draft_114334",
+        "openssl-3.5.7-1.el9,draft_114321",
         "openssl-3.5.1-7.el9,draft_111212",
         "openssl-3.5.5-3.el9",
         "openssl-3.5.5-3.el9,draft_110822",

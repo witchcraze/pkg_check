@@ -7,14 +7,14 @@
         "Size": "31 k",
         "Source": "python3.12-3.12.13-2.el10_2.src.rpm",
         "Repository": "@System",
-        "From repo": "baseos",
+        "From repo": "33241c46da1744a4ba1af045f6d1b104",
         "Summary": "Python 3.12 interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
         "Description": "Python 3.12 is an accessible, high-level, dynamically typed, interpreted"
     },
     "list": [
-        "python3.x86_64                            3.12.13-2.el10_2                              @baseos",
+        "python3.x86_64                            3.12.13-2.el10_2                              @33241c46da1744a4ba1af045f6d1b104",
         "python3.x86_64                            3.12.9-2.el10_0                               dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                            3.12.9-2.el10_0.1                             dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",
         "python3.x86_64                            3.12.9-2.el10_0.2                             dl.rockylinux.org_vault_rocky_10.0_BaseOS_x86_64_os_",

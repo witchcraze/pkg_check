@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "7.2.11",
-        "Release": "2.module+el9.7.0+23876+8f2ceeaf",
+        "Version": "7.2.14",
+        "Release": "1.module+el9.8.0+24327+41ceb644",
         "Architecture": "x86_64",
         "Size": "1.6 M",
-        "Source": "redis-7.2.11-2.module+el9.7.0+23876+8f2ceeaf.src.rpm",
+        "Source": "redis-7.2.14-1.module+el9.8.0+24327+41ceb644.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -21,6 +21,7 @@
         "redis.x86_64                             7.2.10-1.module+el9.6.0+23332+115a3b01                             rhel-9-for-x86_64-appstream-rpms",
         "redis.x86_64                             7.2.11-1.module+el9.6.0+23552+a3d3d132                             rhel-9-for-x86_64-appstream-rpms",
         "redis.x86_64                             7.2.11-1.module+el9.7.0+23559+d075163a                             rhel-9-for-x86_64-appstream-rpms",
-        "redis.x86_64                             7.2.11-2.module+el9.7.0+23876+8f2ceeaf                             rhel-9-for-x86_64-appstream-rpms"
+        "redis.x86_64                             7.2.11-2.module+el9.7.0+23876+8f2ceeaf                             rhel-9-for-x86_64-appstream-rpms",
+        "redis.x86_64                             7.2.14-1.module+el9.8.0+24327+41ceb644                             rhel-9-for-x86_64-appstream-rpms"
     ]
 }

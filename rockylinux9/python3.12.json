@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.13",
-        "Release": "2.el9_8",
+        "Release": "3.el9_8",
         "Architecture": "x86_64",
         "Size": "26 k",
-        "Source": "python3.12-3.12.13-2.el9_8.src.rpm",
+        "Source": "python3.12-3.12.13-3.el9_8.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -31,6 +31,7 @@
         "python3.12.x86_64                          3.12.12-4.el9_7.1                          dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "python3.12.x86_64                          3.12.12-4.el9_7.2                          dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "python3.12.x86_64                          3.12.12-4.el9_7.3                          dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
-        "python3.12.x86_64                          3.12.13-2.el9_8                            appstream"
+        "python3.12.x86_64                          3.12.13-2.el9_8                            appstream",
+        "python3.12.x86_64                          3.12.13-3.el9_8                            appstream"
     ]
 }

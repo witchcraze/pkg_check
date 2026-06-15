@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.4.8",
-        "Release": "1.module+el9.8.0+40162+a76274f1",
+        "Version": "8.4.9",
+        "Release": "1.module+el9.8.0+40205+77f4da59",
         "Architecture": "x86_64",
         "Size": "18 M",
-        "Source": "mysql-8.4.8-1.module+el9.8.0+40162+a76274f1.src.rpm",
+        "Source": "mysql-8.4.9-1.module+el9.8.0+40205+77f4da59.src.rpm",
         "Repository": "appstream",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -18,6 +18,7 @@
         "mysql-server.x86_64               8.4.6-1.module+el9.7.0+40027+0df0d4e0               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "mysql-server.x86_64               8.4.7-1.module+el9.7.0+40041+63d6250e               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "mysql-server.x86_64               8.4.8-1.module+el9.7.0+40140+a486b733               dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
-        "mysql-server.x86_64               8.4.8-1.module+el9.8.0+40162+a76274f1               appstream"
+        "mysql-server.x86_64               8.4.8-1.module+el9.8.0+40162+a76274f1               appstream",
+        "mysql-server.x86_64               8.4.9-1.module+el9.8.0+40205+77f4da59               appstream"
     ]
 }
