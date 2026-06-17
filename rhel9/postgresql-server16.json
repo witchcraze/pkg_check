@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "16.13",
-        "Release": "1.module+el9.8.0+24096+5a959ed6",
+        "Version": "16.14",
+        "Release": "1.module+el9.8.0+24360+ff98e86a",
         "Architecture": "x86_64",
         "Size": "7.0 M",
-        "Source": "postgresql-16.13-1.module+el9.8.0+24096+5a959ed6.src.rpm",
+        "Source": "postgresql-16.14-1.module+el9.8.0+24360+ff98e86a.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -23,6 +23,7 @@
         "postgresql-server.x86_64                       16.10-1.module+el9.7.0+23477+80afd791                        rhel-9-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                       16.11-1.module+el9.7.0+23784+0c5a3b34                        rhel-9-for-x86_64-appstream-rpms",
         "postgresql-server.x86_64                       16.13-1.module+el9.7.0+24031+188c384c                        rhel-9-for-x86_64-appstream-rpms",
-        "postgresql-server.x86_64                       16.13-1.module+el9.8.0+24096+5a959ed6                        rhel-9-for-x86_64-appstream-rpms"
+        "postgresql-server.x86_64                       16.13-1.module+el9.8.0+24096+5a959ed6                        rhel-9-for-x86_64-appstream-rpms",
+        "postgresql-server.x86_64                       16.14-1.module+el9.8.0+24360+ff98e86a                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

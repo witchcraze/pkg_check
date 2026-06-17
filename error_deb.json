@@ -7,6 +7,9 @@
             "bind9": [
                 "apt-get changelog"
             ],
+            "docker.io": [
+                "apt-get changelog"
+            ],
             "haproxy": [
                 "apt-get changelog"
             ],

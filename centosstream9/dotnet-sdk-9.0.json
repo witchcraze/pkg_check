@@ -20,6 +20,8 @@
         "dotnet-sdk-9.0.x86_64                  9.0.117-2.el9                   appstream"
     ],
     "kojiPackages": [
+        "dotnet9.0-9.0.118-2.el9",
+        "dotnet9.0-9.0.118-2.el9,draft_114516",
         "dotnet9.0-9.0.118-2.el9,draft_114483",
         "dotnet9.0-9.0.118-2.el9,draft_114120",
         "dotnet9.0-9.0.117-2.el9",

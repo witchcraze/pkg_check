@@ -1,0 +1,37 @@
+{
+    "info": {
+        "Name": "httpd24-httpd",
+        "Arch": "x86_64",
+        "Version": "2.4.34",
+        "Release": "23.0.3.el7.6",
+        "Size": "1.4 M",
+        "Repo": "ol7_software_collections/x86_64",
+        "Summary": "Apache HTTP Server",
+        "URL": "http://httpd.apache.org/",
+        "License": "ASL 2.0",
+        "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
+    },
+    "list": [
+        "httpd24-httpd.x86_64        2.4.6-25.0.1.el7            ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.12-6.0.1.el7.1          ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.18-10.0.1.el7           ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.18-11.0.1.el7           ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.25-9.0.1.el7            ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.25-9.0.1.el7.1          ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.27-8.0.1.el7            ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.27-8.0.1.el7.1          ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-7.0.1.el7            ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-7.0.1.el7.1          ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-8.0.1.el7.1          ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-15.0.1.el7           ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-18.0.1.el7           ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-18.0.1.el7.1         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-22.0.1.el7           ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-22.0.3.el7.1         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-23.0.1.el7.1         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-23.0.1.el7.2         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-23.0.3.el7.2         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-23.0.3.el7.5         ol7_software_collections",
+        "httpd24-httpd.x86_64        2.4.34-23.0.3.el7.6         ol7_software_collections"
+    ]
+}

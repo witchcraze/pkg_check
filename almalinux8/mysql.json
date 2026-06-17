@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql",
-        "Version": "8.0.45",
-        "Release": "1.module_el8.10.0+4142+0b28b031",
+        "Version": "8.0.46",
+        "Release": "1.module_el8.10.0+4192+724bc664",
         "Architecture": "x86_64",
         "Size": "15 M",
-        "Source": "mysql-8.0.45-1.module_el8.10.0+4142+0b28b031.src.rpm",
+        "Source": "mysql-8.0.46-1.module_el8.10.0+4192+724bc664.src.rpm",
         "Repository": "appstream",
         "Summary": "MySQL client programs and shared libraries",
         "URL": "http://www.mysql.com",
@@ -28,6 +28,7 @@
         "mysql.x86_64                    8.0.41-1.module_el8.10.0+3965+b415b607                     appstream",
         "mysql.x86_64                    8.0.43-1.module_el8.10.0+4049+06e4dcce                     appstream",
         "mysql.x86_64                    8.0.44-1.module_el8.10.0+4079+cc1921b9                     appstream",
-        "mysql.x86_64                    8.0.45-1.module_el8.10.0+4142+0b28b031                     appstream"
+        "mysql.x86_64                    8.0.45-1.module_el8.10.0+4142+0b28b031                     appstream",
+        "mysql.x86_64                    8.0.46-1.module_el8.10.0+4192+724bc664                     appstream"
     ]
 }

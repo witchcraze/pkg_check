@@ -22,7 +22,7 @@
     ],
     "kojiPackages": [
         "java-25-openjdk-25.0.3.0.9-1.el10,draft_109992",
-        "java-25-openjdk-25.0.3.0.9-1.el10,draft_109993",
+        "java-25-openjdk-25.0.3.0.9-1.el10",
         "java-25-openjdk-25.0.3.0.9-1.el10,draft_109684",
         "java-25-openjdk-25.0.2.0.10-5.el10,draft_108373",
         "java-25-openjdk-25.0.2.0.10-5.el10,draft_106411",
