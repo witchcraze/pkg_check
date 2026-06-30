@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby4.0",
         "Version": "4.0.1",
-        "Release": "32.amzn2023.0.1",
+        "Release": "32.amzn2023.0.2",
         "Architecture": "x86_64",
         "Size": "39 k",
-        "Source": "ruby4.0-4.0.1-32.amzn2023.0.1.src.rpm",
+        "Source": "ruby4.0-4.0.1-32.amzn2023.0.2.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,6 +13,7 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby4.0.x86_64                 4.0.1-32.amzn2023.0.1                 amazonlinux"
+        "ruby4.0.x86_64                 4.0.1-32.amzn2023.0.1                 amazonlinux",
+        "ruby4.0.x86_64                 4.0.1-32.amzn2023.0.2                 amazonlinux"
     ]
 }

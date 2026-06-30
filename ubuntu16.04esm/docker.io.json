@@ -1,0 +1,39 @@
+{
+    "show": {
+        "Package": "docker.io",
+        "Version": "18.09.7-0ubuntu1~16.04.9+esm2",
+        "Built-Using": "glibc (= 2.23-0ubuntu11.3+esm7)",
+        "Priority": "optional",
+        "Section": "admin",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Original-Maintainer": "Paul Tagliamonte <paultag@debian.org>",
+        "Installed-Size": "155 MB",
+        "Depends": "adduser, containerd (>= 1.2.6-0ubuntu1~), iptables, debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), libc6 (>= 2.17), libdevmapper1.02.1 (>= 2:1.02.97), libseccomp2 (>= 2.1.0), libsystemd0",
+        "Recommends": "ca-certificates, cgroupfs-mount | cgroup-lite, git, pigz, ubuntu-fan, xz-utils, apparmor",
+        "Suggests": "aufs-tools, btrfs-tools, debootstrap, docker-doc, rinse, zfs-fuse | zfsutils",
+        "Breaks": "docker (<< 1.5~)",
+        "Replaces": "docker (<< 1.5~)",
+        "Download-Size": "30.4 MB",
+        "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu xenial-infra-security/main amd64 Packages",
+        "Description": "Linux container runtime"
+    },
+    "list": [
+        "docker.io/xenial-infra-security 18.09.7-0ubuntu1~16.04.9+esm2 amd64",
+        "docker.io/xenial-updates 18.09.7-0ubuntu1~16.04.7 amd64",
+        "docker.io/xenial-security 18.09.7-0ubuntu1~16.04.6 amd64",
+        "docker.io/xenial 1.10.3-0ubuntu6 amd64"
+    ],
+    "changelog": [
+        "docker.io (18.09.7-0ubuntu1~16.04.9+esm2) xenial-security; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.9+esm1) xenial-security; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.8) xenial; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.7) xenial; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.6) xenial-security; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.5) xenial-security; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.4) xenial-security; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1~16.04.1) xenial; urgency=medium",
+        "docker.io (18.09.7-0ubuntu1) eoan; urgency=medium",
+        "docker.io (18.09.5-0ubuntu1) disco; urgency=medium"
+    ],
+    "publishinghistory": []
+}

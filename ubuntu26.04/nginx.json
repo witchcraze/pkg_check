@@ -1,28 +1,29 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.28.3-2ubuntu1.5",
+        "Version": "1.28.3-2ubuntu1.6",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1622 kB",
+        "Installed-Size": "1627 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.28.3-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.3-2ubuntu1.5)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.3-2ubuntu1.6)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
-        "Download-Size": "618 kB",
+        "Download-Size": "616 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/resolute-updates,resolute-security 1.28.3-2ubuntu1.5 amd64",
+        "nginx/resolute-updates,resolute-security 1.28.3-2ubuntu1.6 amd64",
         "nginx/resolute 1.28.3-2ubuntu1 amd64"
     ],
     "changelog": [
+        "nginx (1.28.3-2ubuntu1.6) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.5) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.4) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.3) resolute-security; urgency=medium",
@@ -360,6 +361,7 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.28.3-2ubuntu1.6",
         "1.28.3-2ubuntu1.5",
         "1.28.3-2ubuntu1.4",
         "1.28.3-2ubuntu1.3",

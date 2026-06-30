@@ -2,15 +2,15 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "10.5.29",
-        "Release": "3.el9_7",
-        "Architecture": "x86_64",
-        "Size": "1.7 M",
-        "Source": "mariadb-10.5.29-3.el9_7.src.rpm",
+        "Version": "11.8.6",
+        "Release": "2.module+el9.8.0+90895+7148d2d3",
+        "Architecture": "src",
+        "Size": "117 M",
+        "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
-        "License": "GPLv2 and LGPLv2",
+        "License": "( GPL-2.0-only OR Apache-2.0 ) AND ( GPL-2.0-or-later OR Apache-2.0 ) AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-4.0 AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ( GPL-3.0-or-later WITH Bison-exception-2.2 ) AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND OpenSSL AND MIT AND OFL-1.1 AND CC0-1.0 AND PHP-3.0 AND PHP-3.01 AND zlib AND dtoa AND FSFAP AND blessing AND Info-ZIP AND Boehm-GC",
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
@@ -29,6 +29,8 @@
         "mariadb.src                                      3:10.11.6-1.module+el9.4.0+90263+8ac000cb                                     ol9_appstream",
         "mariadb.src                                      3:10.11.10-1.module+el9.5.0+90507+82ceef20                                    ol9_appstream",
         "mariadb.src                                      3:10.11.15-1.module+el9.7.0+90760+ea09f56a                                    ol9_appstream",
-        "mariadb.src                                      3:10.11.15-2.module+el9.7.0+90838+76d0f0aa                                    ol9_appstream"
+        "mariadb.src                                      3:10.11.15-2.module+el9.7.0+90838+76d0f0aa                                    ol9_appstream",
+        "mariadb.src                                      3:11.8.5-1.module+el9.8.0+90800+26dbe266                                      ol9_appstream",
+        "mariadb.src                                      3:11.8.6-2.module+el9.8.0+90895+7148d2d3                                      ol9_appstream"
     ]
 }

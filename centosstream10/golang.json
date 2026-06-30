@@ -20,6 +20,9 @@
         "golang.x86_64                      1.26.3-4.el10                       appstream"
     ],
     "kojiPackages": [
+        "golang-1.26.4-1.el10",
+        "golang-1.26.4-1.el10,draft_116332",
+        "golang-1.26.3-5.el10,draft_116313",
         "golang-1.26.3-4.el10",
         "golang-1.26.3-4.el10,draft_110951",
         "golang-1.26.3-2.el10,draft_110847",

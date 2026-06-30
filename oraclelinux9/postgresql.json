@@ -1,10 +1,10 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.13",
-        "Release": "1.module+el9.7.0+90831+7907f012",
+        "Version": "18.3",
+        "Release": "2.module+el9.8.0+90889+13252419",
         "Architecture": "src",
-        "Size": "46 M",
+        "Size": "45 M",
         "Source": "None",
         "Repository": "ol9_appstream",
         "Summary": "PostgreSQL client programs",
@@ -52,6 +52,8 @@
         "postgresql.src                                     15.14-1.0.1.module+el9.6.0+90648+e6f151be                                   ol9_appstream",
         "postgresql.src                                     15.15-2.module+el9.7.0+90763+f005aae7                                       ol9_appstream",
         "postgresql.src                                     15.17-1.module+el9.7.0+90829+0e33913e                                       ol9_appstream",
+        "postgresql.src                                     15.17-1.module+el9.8.0+90855+80cccd7f                                       ol9_appstream",
+        "postgresql.src                                     15.18-1.module+el9.8.0+90926+92e334e4                                       ol9_appstream",
         "postgresql.src                                     16.1-1.module+el9.4.0+90259+3ab83788                                        ol9_appstream",
         "postgresql.src                                     16.4-1.module+el9.4.0+90394+9e4f3cba                                        ol9_appstream",
         "postgresql.src                                     16.4-2.module+el9.5.0+90425+0820a3c3                                        ol9_appstream",
@@ -61,6 +63,9 @@
         "postgresql.src                                     16.10-1.module+el9.6.0+90645+dc18b914                                       ol9_appstream",
         "postgresql.src                                     16.10-1.module+el9.7.0+90687+1e28d3eb                                       ol9_appstream",
         "postgresql.src                                     16.11-1.module+el9.7.0+90762+9d88f05d                                       ol9_appstream",
-        "postgresql.src                                     16.13-1.module+el9.7.0+90831+7907f012                                       ol9_appstream"
+        "postgresql.src                                     16.13-1.module+el9.7.0+90831+7907f012                                       ol9_appstream",
+        "postgresql.src                                     16.13-1.module+el9.8.0+90854+ac92c115                                       ol9_appstream",
+        "postgresql.src                                     16.14-1.module+el9.8.0+90925+e22a792e                                       ol9_appstream",
+        "postgresql.src                                     18.3-2.module+el9.8.0+90889+13252419                                        ol9_appstream"
     ]
 }

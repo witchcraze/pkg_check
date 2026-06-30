@@ -64,6 +64,8 @@
         "java-1.8.0-openjdk.x86_64                                     1:1.8.0.472.b08-1.0.1.el9                                        ol9_appstream",
         "java-1.8.0-openjdk.src                                        1:1.8.0.472.b08-2.0.1.el9                                        ol9_appstream",
         "java-1.8.0-openjdk.x86_64                                     1:1.8.0.472.b08-2.0.1.el9                                        ol9_appstream",
+        "java-1.8.0-openjdk.src                                        1:1.8.0.482.b08-3.0.1.el9                                        ol9_appstream",
+        "java-1.8.0-openjdk.x86_64                                     1:1.8.0.482.b08-3.0.1.el9                                        ol9_appstream",
         "java-1.8.0-openjdk.src                                        1:1.8.0.492.b09-2.0.1.el9                                        ol9_appstream",
         "java-1.8.0-openjdk.x86_64                                     1:1.8.0.492.b09-2.0.1.el9                                        ol9_appstream"
     ]

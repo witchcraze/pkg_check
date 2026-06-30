@@ -2,10 +2,10 @@
     "info": {
         "Name": "memcached",
         "Version": "1.6.9",
-        "Release": "7.el9",
+        "Release": "7.el9_8.1",
         "Architecture": "x86_64",
-        "Size": "178 k",
-        "Source": "memcached-1.6.9-7.el9.src.rpm",
+        "Size": "179 k",
+        "Source": "memcached-1.6.9-7.el9_8.1.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
@@ -13,7 +13,8 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.x86_64                                        1.6.9-6.el9                                         rhel-9-for-x86_64-appstream-rpms",
-        "memcached.x86_64                                        1.6.9-7.el9                                         rhel-9-for-x86_64-appstream-rpms"
+        "memcached.x86_64                                      1.6.9-6.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "memcached.x86_64                                      1.6.9-7.el9                                           rhel-9-for-x86_64-appstream-rpms",
+        "memcached.x86_64                                      1.6.9-7.el9_8.1                                       rhel-9-for-x86_64-appstream-rpms"
     ]
 }

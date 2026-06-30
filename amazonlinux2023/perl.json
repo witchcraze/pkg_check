@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "477.amzn2023.0.8",
+        "Release": "477.amzn2023.0.9",
         "Architecture": "x86_64",
         "Size": "13 k",
-        "Source": "perl-5.32.1-477.amzn2023.0.8.src.rpm",
+        "Source": "perl-5.32.1-477.amzn2023.0.9.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -19,6 +19,7 @@
         "perl.x86_64                4:5.32.1-477.amzn2023.0.5                 amazonlinux",
         "perl.x86_64                4:5.32.1-477.amzn2023.0.6                 amazonlinux",
         "perl.x86_64                4:5.32.1-477.amzn2023.0.7                 amazonlinux",
-        "perl.x86_64                4:5.32.1-477.amzn2023.0.8                 amazonlinux"
+        "perl.x86_64                4:5.32.1-477.amzn2023.0.8                 amazonlinux",
+        "perl.x86_64                4:5.32.1-477.amzn2023.0.9                 amazonlinux"
     ]
 }

@@ -1,12 +1,12 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "15.17",
-        "Release": "1.module_el9.7.0+214+91f631df",
+        "Version": "15.18",
+        "Release": "1.module_el9.8.0+267+7c71b4a4",
         "Architecture": "x86_64",
         "Size": "1.7 M",
-        "Source": "postgresql-15.17-1.module_el9.7.0+214+91f631df.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
+        "Source": "postgresql-15.18-1.module_el9.8.0+267+7c71b4a4.src.rpm",
+        "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
         "License": "PostgreSQL",
@@ -28,6 +28,7 @@
         "postgresql.x86_64                   15.14-1.module_el9.6.0+176+c508cfa2                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "postgresql.x86_64                   15.15-2.module_el9.7.0+203+960b74c0                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "postgresql.x86_64                   15.17-1.module_el9.7.0+214+91f631df                    appstream",
-        "postgresql.x86_64                   15.17-1.module_el9.7.0+214+91f631df                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_"
+        "postgresql.x86_64                   15.17-1.module_el9.7.0+214+91f631df                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
+        "postgresql.x86_64                   15.18-1.module_el9.8.0+267+7c71b4a4                    appstream"
     ]
 }

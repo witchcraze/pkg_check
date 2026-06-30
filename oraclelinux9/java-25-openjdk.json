@@ -16,6 +16,8 @@
     "list": [
         "java-25-openjdk.src                                            1:25.0.1.0.8-2.0.1.el9                                          ol9_appstream",
         "java-25-openjdk.x86_64                                         1:25.0.1.0.8-2.0.1.el9                                          ol9_appstream",
+        "java-25-openjdk.src                                            1:25.0.2.0.10-2.0.1.el9                                         ol9_appstream",
+        "java-25-openjdk.x86_64                                         1:25.0.2.0.10-2.0.1.el9                                         ol9_appstream",
         "java-25-openjdk.src                                            1:25.0.2.0.10-3.0.1.el9                                         ol9_appstream",
         "java-25-openjdk.x86_64                                         1:25.0.2.0.10-3.0.1.el9                                         ol9_appstream",
         "java-25-openjdk.src                                            1:25.0.3.0.9-1.0.1.el9                                          ol9_appstream",

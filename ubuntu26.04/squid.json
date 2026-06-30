@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "squid",
-        "Version": "7.2-2ubuntu2",
+        "Version": "7.2-2ubuntu2.2",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -10,18 +10,20 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "8360 kB",
         "Pre-Depends": "adduser",
-        "Depends": "libc6 (>= 2.38), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libecap3 (>= 1.0.1), libgcc-s1 (>= 3.3.1), libgnutls30t64 (>= 3.8.1), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap2 (>= 2.6.2), libltdl7 (>= 2.5.4), libnetfilter-conntrack3 (>= 1.0.1), libnettle8t64, libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.28+dfsg1), libstdc++6 (>= 14), libsystemd0, libtdb1 (>= 1.2.7+git20101215), netbase, logrotate (>= 3.5.4-1), squid-common (>= 7.2-2ubuntu2), libdbi-perl, ssl-cert",
+        "Depends": "libc6 (>= 2.38), libcap2 (>= 1:2.10), libcom-err2 (>= 1.43.9), libcrypt1 (>= 1:4.1.0), libecap3 (>= 1.0.1), libgcc-s1 (>= 3.3.1), libgnutls30t64 (>= 3.8.1), libgssapi-krb5-2 (>= 1.17), libkrb5-3 (>= 1.10+dfsg~), libldap2 (>= 2.6.2), libltdl7 (>= 2.5.4), libnetfilter-conntrack3 (>= 1.0.1), libnettle8t64, libpam0g (>= 0.99.7.1), libsasl2-2 (>= 2.1.28+dfsg1), libstdc++6 (>= 14), libsystemd0, libtdb1 (>= 1.2.7+git20101215), netbase, logrotate (>= 3.5.4-1), squid-common (>= 7.2-2ubuntu2.2), libdbi-perl, ssl-cert",
         "Recommends": "libcap2-bin, ca-certificates",
         "Suggests": "resolvconf (>= 0.40), smbclient, ufw, winbind, apparmor",
         "Homepage": "http://www.squid-cache.org",
         "Download-Size": "2757 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)"
     },
     "list": [
+        "squid/resolute-updates,resolute-security 7.2-2ubuntu2.2 amd64",
         "squid/resolute 7.2-2ubuntu2 amd64"
     ],
     "changelog": [
+        "squid (7.2-2ubuntu2.2) resolute-security; urgency=medium",
         "squid (7.2-2ubuntu2) resolute; urgency=medium",
         "squid (7.2-2ubuntu1) resolute; urgency=medium",
         "squid (7.2-2) unstable; urgency=high",
@@ -238,6 +240,7 @@
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "7.2-2ubuntu2.2",
         "7.2-2ubuntu2",
         "7.2-2ubuntu1",
         "6.13-1ubuntu5",

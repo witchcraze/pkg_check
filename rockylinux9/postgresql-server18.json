@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "18.3",
-        "Release": "2.module+el9.8.0+40158+490b3c67",
+        "Version": "18.4",
+        "Release": "2.module+el9.8.0+40213+f1e225a4",
         "Architecture": "x86_64",
         "Size": "7.4 M",
-        "Source": "postgresql-18.3-2.module+el9.8.0+40158+490b3c67.src.rpm",
+        "Source": "postgresql-18.4-2.module+el9.8.0+40213+f1e225a4.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -13,6 +13,7 @@
         "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
     },
     "list": [
-        "postgresql-server.x86_64                                   18.3-2.module+el9.8.0+40158+490b3c67                                    appstream"
+        "postgresql-server.x86_64                                   18.3-2.module+el9.8.0+40158+490b3c67                                    appstream",
+        "postgresql-server.x86_64                                   18.4-2.module+el9.8.0+40213+f1e225a4                                    appstream"
     ]
 }

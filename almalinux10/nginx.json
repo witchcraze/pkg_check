@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "2",
         "Version": "1.26.3",
-        "Release": "6.el10_2.3",
+        "Release": "6.el10_2.4",
         "Architecture": "x86_64",
         "Size": "32 k",
-        "Source": "nginx-1.26.3-6.el10_2.3.src.rpm",
+        "Source": "nginx-1.26.3-6.el10_2.4.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -20,6 +20,7 @@
         "nginx.x86_64                          2:1.26.3-2.el10_1.1                                 repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
         "nginx.x86_64                          2:1.26.3-2.el10_1.1.alma.1                          repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
         "nginx.x86_64                          2:1.26.3-2.el10_1.2                                 repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
-        "nginx.x86_64                          2:1.26.3-6.el10_2.3                                 appstream"
+        "nginx.x86_64                          2:1.26.3-6.el10_2.3                                 appstream",
+        "nginx.x86_64                          2:1.26.3-6.el10_2.4                                 appstream"
     ]
 }

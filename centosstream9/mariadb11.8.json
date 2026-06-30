@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb",
         "Epoch": "3",
-        "Version": "11.8.6",
-        "Release": "2.module_el9+1327+fe5ff7c2",
+        "Version": "11.8.8",
+        "Release": "1.module_el9+1370+ec5ecc2e",
         "Architecture": "x86_64",
-        "Size": "2.0 M",
-        "Source": "mariadb-11.8.6-2.module_el9+1327+fe5ff7c2.src.rpm",
+        "Size": "2.1 M",
+        "Source": "mariadb-11.8.8-1.module_el9+1370+ec5ecc2e.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,7 +15,8 @@
     },
     "list": [
         "mariadb.x86_64           3:11.8.5-1.module_el9+1304+6dbdc612           appstream",
-        "mariadb.x86_64           3:11.8.6-2.module_el9+1327+fe5ff7c2           appstream"
+        "mariadb.x86_64           3:11.8.6-2.module_el9+1327+fe5ff7c2           appstream",
+        "mariadb.x86_64           3:11.8.8-1.module_el9+1370+ec5ecc2e           appstream"
     ],
     "kojiPackages": [
         "mariadb-11.8.8-1.module_el9+1370+ec5ecc2e",

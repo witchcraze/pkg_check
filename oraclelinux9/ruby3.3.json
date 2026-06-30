@@ -25,6 +25,8 @@
         "ruby.x86_64                                       3.3.8-4.module+el9.7.0+90671+941b9d05                                        ol9_appstream",
         "ruby.i686                                         3.3.10-5.module+el9.7.0+90719+1f3245a0                                       ol9_appstream",
         "ruby.x86_64                                       3.3.10-5.module+el9.7.0+90719+1f3245a0                                       ol9_appstream",
+        "ruby.i686                                         3.3.10-5.module+el9.8.0+90789+b6420ef4                                       ol9_appstream",
+        "ruby.x86_64                                       3.3.10-5.module+el9.8.0+90789+b6420ef4                                       ol9_appstream",
         "ruby.i686                                         3.3.10-6.module+el9.7.0+90894+66578cbb                                       ol9_appstream",
         "ruby.x86_64                                       3.3.10-6.module+el9.7.0+90894+66578cbb                                       ol9_appstream"
     ]

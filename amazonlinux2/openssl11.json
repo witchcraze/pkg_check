@@ -3,7 +3,7 @@
         "Name": "openssl11",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.1.1zg",
+        "Version": "1.1.1zh",
         "Release": "1.amzn2.0.1",
         "Size": "323 k",
         "Repo": "amzn2-core/2/x86_64",
@@ -40,6 +40,7 @@
         "openssl11.x86_64                                              1:1.1.1zb-1.amzn2.0.1                                               amzn2-core",
         "openssl11.x86_64                                              1:1.1.1zd-1.amzn2.0.1                                               amzn2-core",
         "openssl11.x86_64                                              1:1.1.1zf-1.amzn2.0.1                                               amzn2-core",
-        "openssl11.x86_64                                              1:1.1.1zg-1.amzn2.0.1                                               amzn2-core"
+        "openssl11.x86_64                                              1:1.1.1zg-1.amzn2.0.1                                               amzn2-core",
+        "openssl11.x86_64                                              1:1.1.1zh-1.amzn2.0.1                                               amzn2-core"
     ]
 }
