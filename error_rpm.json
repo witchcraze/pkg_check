@@ -967,6 +967,9 @@
             "mariadb11.8": [
                 "kojiPackages"
             ],
+            "mariadb12.3": [
+                "kojiPackages"
+            ],
             "memcached": [
                 "kojiPackages"
             ],
@@ -977,6 +980,9 @@
                 "kojiPackages"
             ],
             "mysql8.0": [
+                "kojiPackages"
+            ],
+            "mysql9.7": [
                 "kojiPackages"
             ],
             "nginx": [

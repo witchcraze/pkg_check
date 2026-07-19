@@ -17,6 +17,9 @@
         "ruby4.0.x86_64                      4.0.3-34.el10                      appstream"
     ],
     "kojiPackages": [
+        "ruby4.0-4.0.3-35.el10",
+        "ruby4.0-4.0.3-35.el10,draft_118299",
+        "ruby4.0-4.0.3-35.el10,draft_118127",
         "ruby4.0-4.0.3-34.el10",
         "ruby4.0-4.0.3-34.el10,draft_112053",
         "ruby4.0-4.0.3-34.el10,draft_112051",

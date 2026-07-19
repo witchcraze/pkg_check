@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "valkey-server",
-        "Version": "9.0.3-0ubuntu2",
+        "Version": "9.0.4-0ubuntu0.1",
         "Priority": "optional",
         "Section": "database",
         "Source": "valkey",
@@ -11,16 +11,18 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "201 kB",
         "Provides": "valkey",
-        "Depends": "valkey-tools (= 9.0.3-0ubuntu2)",
+        "Depends": "valkey-tools (= 9.0.4-0ubuntu0.1)",
         "Homepage": "https://valkey.io",
         "Download-Size": "52.9 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
+        "valkey-server/resolute-updates 9.0.4-0ubuntu0.1 amd64",
         "valkey-server/resolute 9.0.3-0ubuntu2 amd64"
     ],
     "changelog": [
+        "valkey (9.0.4-0ubuntu0.1) resolute; urgency=medium",
         "valkey (9.0.3-0ubuntu2) resolute; urgency=medium",
         "valkey (9.0.3-0ubuntu1) resolute; urgency=medium",
         "valkey (9.0.2-0ubuntu1) resolute; urgency=medium",
@@ -43,6 +45,7 @@
         "valkey (7.2.5+dfsg1-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "9.0.4-0ubuntu0.1",
         "9.0.3-0ubuntu2",
         "9.0.3-0ubuntu1",
         "9.0.2-0ubuntu1",

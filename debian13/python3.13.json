@@ -1,23 +1,26 @@
 {
     "show": {
         "Package": "python3.13",
-        "Version": "3.13.5-2+deb13u2",
+        "Version": "3.13.5-2+deb13u4",
         "Priority": "optional",
         "Section": "python",
         "Maintainer": "Matthias Klose <doko@debian.org>",
         "Installed-Size": "850 kB",
-        "Depends": "python3.13-minimal (= 3.13.5-2+deb13u2), libpython3.13-stdlib (= 3.13.5-2+deb13u2), media-types | mime-support, tzdata",
+        "Depends": "python3.13-minimal (= 3.13.5-2+deb13u4), libpython3.13-stdlib (= 3.13.5-2+deb13u4), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.13-venv, python3.13-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Download-Size": "757 kB",
-        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.13)"
     },
     "list": [
-        "python3.13/stable 3.13.5-2+deb13u2 amd64"
+        "python3.13/stable-updates 3.13.5-2+deb13u4 amd64",
+        "python3.13/stable 3.13.5-2+deb13u3 amd64"
     ],
     "changelog": [
+        "python3.13 (3.13.5-2+deb13u4) trixie; urgency=medium",
+        "python3.13 (3.13.5-2+deb13u3) trixie; urgency=medium",
         "python3.13 (3.13.5-2+deb13u2) trixie; urgency=medium",
         "python3.13 (3.13.5-2+deb13u1) trixie; urgency=medium",
         "python3.13 (3.13.5-2) unstable; urgency=medium",

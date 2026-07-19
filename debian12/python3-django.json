@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3-django",
-        "Version": "3:3.2.25-0+deb12u2",
+        "Version": "3:3.2.25-0+deb12u3",
         "Priority": "optional",
         "Section": "python",
         "Source": "python-django",
@@ -19,9 +19,11 @@
         "Description": "High-level Python web development framework"
     },
     "list": [
-        "python3-django/oldstable,oldstable-security 3:3.2.25-0+deb12u2 all"
+        "python3-django/oldstable 3:3.2.25-0+deb12u3 all",
+        "python3-django/oldstable-security 3:3.2.25-0+deb12u2 all"
     ],
     "changelog": [
+        "python-django (3:3.2.25-0+deb12u3) oldstable-proposed-updates; urgency=medium",
         "python-django (3:3.2.25-0+deb12u2) bookworm-security; urgency=high",
         "python-django (3:3.2.25-0+deb12u1) bookworm-security; urgency=high",
         "python-django (3:3.2.19-1+deb12u1) bookworm-security; urgency=high",
@@ -287,6 +289,7 @@
         "python-django (0.95-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3:3.2.25-0+deb12u3",
         "3:3.2.25-0+deb12u2",
         "3:3.2.19-1+deb12u1",
         "3:3.2.19-1"

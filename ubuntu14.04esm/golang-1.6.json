@@ -1,18 +1,18 @@
 {
     "show": {
         "Package": "golang-1.6",
-        "Version": "1.6-0ubuntu1~14.04",
         "Priority": "optional",
         "Section": "devel",
-        "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Original-Maintainer": "Go Compiler Team <pkg-golang-devel@lists.alioth.debian.org>",
-        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "95.2 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "1.6-0ubuntu1~14.04",
         "Depends": "golang-1.6-doc (>= 1.6-0ubuntu1~14.04), golang-1.6-go (>= 1.6-0ubuntu1~14.04), golang-1.6-src (>= 1.6-0ubuntu1~14.04)",
         "Download-Size": "16.8 kB",
         "SHA512": "4a96b91ed635a92f01a55bcd003f9fcb2b6ffbf0823dc5bf0dc30e76aa7fff8437baa66f7327b943750d8aaf6088fac18a3259252d659bfa29c3f576e901dfa2",
         "Homepage": "https://golang.org",
+        "Original-Maintainer": "Go Compiler Team <pkg-golang-devel@lists.alioth.debian.org>",
+        "Origin": "Ubuntu",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Supported": "5y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"

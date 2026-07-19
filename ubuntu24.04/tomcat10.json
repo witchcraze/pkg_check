@@ -125,6 +125,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "10.1.55-1ubuntu2~24.04.1",
         "10.1.16-1",
         "10.1.15-1",
         "10.1.14-1",

@@ -2,12 +2,12 @@
     "info": {
         "Name": "openssl",
         "Epoch": "1",
-        "Version": "3.5.1",
-        "Release": "7.0.1.el10_1",
+        "Version": "3.5.5",
+        "Release": "2.0.1.el10_2",
         "Architecture": "x86_64",
         "Size": "1.4 M",
-        "Source": "openssl-3.5.1-7.0.1.el10_1.src.rpm",
-        "Repository": "ol10_baseos_latest",
+        "Source": "openssl-3.5.5-2.0.1.el10_2.src.rpm",
+        "Repository": "ol10_u2_baseos_base",
         "Summary": "Utilities from the general purpose cryptography library with TLS implementation",
         "URL": "http://www.openssl.org/",
         "License": "Apache-2.0",
@@ -35,6 +35,11 @@
         "openssl.x86_64                                          1:3.5.1-5.0.1.el10_1                                             ol10_baseos_latest",
         "openssl.src                                             1:3.5.1-7.0.1.el10_1                                             ol10_baseos_latest",
         "openssl.src                                             1:3.5.1-7.0.1.el10_1                                             ol10_appstream",
-        "openssl.x86_64                                          1:3.5.1-7.0.1.el10_1                                             ol10_baseos_latest"
+        "openssl.x86_64                                          1:3.5.1-7.0.1.el10_1                                             ol10_baseos_latest",
+        "openssl.src                                             1:3.5.5-2.0.1.el10_2                                             ol10_baseos_latest",
+        "openssl.src                                             1:3.5.5-2.0.1.el10_2                                             ol10_appstream",
+        "openssl.src                                             1:3.5.5-2.0.1.el10_2                                             ol10_u2_baseos_base",
+        "openssl.x86_64                                          1:3.5.5-2.0.1.el10_2                                             ol10_baseos_latest",
+        "openssl.x86_64                                          1:3.5.5-2.0.1.el10_2                                             ol10_u2_baseos_base"
     ]
 }

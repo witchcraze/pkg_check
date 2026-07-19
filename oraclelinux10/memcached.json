@@ -2,10 +2,10 @@
     "info": {
         "Name": "memcached",
         "Version": "1.6.23",
-        "Release": "7.el10",
+        "Release": "7.el10_2.1",
         "Architecture": "x86_64",
-        "Size": "206 k",
-        "Source": "memcached-1.6.23-7.el10.src.rpm",
+        "Size": "220 k",
+        "Source": "memcached-1.6.23-7.el10_2.1.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "High Performance, Distributed Memory Object Cache",
         "URL": "https://www.memcached.org/",
@@ -13,7 +13,9 @@
         "Description": "memcached is a high-performance, distributed memory object caching"
     },
     "list": [
-        "memcached.src                                                   1.6.23-7.el10                                                 ol10_appstream",
-        "memcached.x86_64                                                1.6.23-7.el10                                                 ol10_appstream"
+        "memcached.src                                                 1.6.23-7.el10                                                   ol10_appstream",
+        "memcached.x86_64                                              1.6.23-7.el10                                                   ol10_appstream",
+        "memcached.src                                                 1.6.23-7.el10_2.1                                               ol10_appstream",
+        "memcached.x86_64                                              1.6.23-7.el10_2.1                                               ol10_appstream"
     ]
 }

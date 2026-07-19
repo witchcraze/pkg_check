@@ -1,18 +1,18 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "3.2.4-1ubuntu0.1",
         "Priority": "extra",
         "Section": "net",
-        "Origin": "Ubuntu",
-        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-        "Original-Maintainer": "RabbitMQ Team <packaging@rabbitmq.com>",
-        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "4877 kB",
+        "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+        "Version": "3.2.4-1ubuntu0.1",
         "Depends": "erlang-nox (>= 1:13.b.3) | esl-erlang, adduser, logrotate",
         "Download-Size": "3912 kB",
         "SHA512": "0df43ec2e91ec34587d58e147fea0f691e854a721d59e71363924be57ed81e46a0d74209d056a6c447a4c333d0587a765730ab70ecdc10f16244015f9b44ca84",
         "Homepage": "http://www.rabbitmq.com/",
+        "Original-Maintainer": "RabbitMQ Team <packaging@rabbitmq.com>",
+        "Origin": "Ubuntu",
+        "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Supported": "3y",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu/ trusty-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"

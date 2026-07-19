@@ -20,6 +20,8 @@
         "vsftpd.x86_64                       3.0.5-8.el9                        appstream"
     ],
     "kojiPackages": [
+        "vsftpd-3.0.5-9.el9,draft_119268",
+        "vsftpd-3.0.5-9.el9,draft_119267",
         "vsftpd-3.0.5-10.el9,draft_107042",
         "vsftpd-3.0.5-9.el9,draft_99112",
         "vsftpd-3.0.5-8.el9",

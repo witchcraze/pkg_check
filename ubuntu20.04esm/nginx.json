@@ -1,23 +1,24 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.18.0-0ubuntu1.7+esm1",
+        "Version": "1.18.0-0ubuntu1.7+esm3",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@lists.alioth.debian.org>",
         "Installed-Size": "47.1 kB",
-        "Depends": "nginx-core (<< 1.18.0-0ubuntu1.7+esm1.1~) | nginx-full (<< 1.18.0-0ubuntu1.7+esm1.1~) | nginx-light (<< 1.18.0-0ubuntu1.7+esm1.1~) | nginx-extras (<< 1.18.0-0ubuntu1.7+esm1.1~), nginx-core (>= 1.18.0-0ubuntu1.7+esm1) | nginx-full (>= 1.18.0-0ubuntu1.7+esm1) | nginx-light (>= 1.18.0-0ubuntu1.7+esm1) | nginx-extras (>= 1.18.0-0ubuntu1.7+esm1)",
-        "Download-Size": "3636 B",
+        "Depends": "nginx-core (<< 1.18.0-0ubuntu1.7+esm3.1~) | nginx-full (<< 1.18.0-0ubuntu1.7+esm3.1~) | nginx-light (<< 1.18.0-0ubuntu1.7+esm3.1~) | nginx-extras (<< 1.18.0-0ubuntu1.7+esm3.1~), nginx-core (>= 1.18.0-0ubuntu1.7+esm3) | nginx-full (>= 1.18.0-0ubuntu1.7+esm3) | nginx-light (>= 1.18.0-0ubuntu1.7+esm3) | nginx-extras (>= 1.18.0-0ubuntu1.7+esm3)",
+        "Download-Size": "3624 B",
         "APT-Sources": "https://esm.ubuntu.com/infra/ubuntu focal-infra-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/focal-infra-security 1.18.0-0ubuntu1.7+esm1 all",
+        "nginx/focal-infra-security 1.18.0-0ubuntu1.7+esm3 all",
         "nginx/focal-updates,focal-security 1.18.0-0ubuntu1.7 all",
         "nginx/focal 1.17.10-0ubuntu1 all"
     ],
     "changelog": [
+        "nginx (1.18.0-0ubuntu1.7+esm3) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.7+esm1) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.7) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.6) focal-security; urgency=medium",
@@ -26,8 +27,7 @@
         "nginx (1.18.0-0ubuntu1.3) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1.2) focal-security; urgency=medium",
         "nginx (1.18.0-0ubuntu1) focal; urgency=medium",
-        "nginx (1.17.10-0ubuntu1) focal; urgency=medium",
-        "nginx (1.17.9-0ubuntu3) focal; urgency=medium"
+        "nginx (1.17.10-0ubuntu1) focal; urgency=medium"
     ],
     "publishinghistory": []
 }

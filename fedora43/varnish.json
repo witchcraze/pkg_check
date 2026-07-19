@@ -2,13 +2,13 @@
     "info": {
         "Name": "varnish",
         "Epoch": "0",
-        "Version": "7.7.1",
-        "Release": "4.fc43",
+        "Version": "7.7.3",
+        "Release": "2.fc43",
         "Architecture": "x86_64",
         "Download size": "1.1 MiB",
         "Installed size": "3.4 MiB",
-        "Source": "varnish-7.7.1-4.fc43.src.rpm",
-        "Repository": "fedora",
+        "Source": "varnish-7.7.3-2.fc43.src.rpm",
+        "Repository": "updates",
         "Summary": "High-performance HTTP accelerator",
         "URL": "https://www.varnish-cache.org/",
         "License": "BSD-2-Clause AND (BSD-2-Clause-FreeBSD AND BSD-3-Clause AND LicenseRef-Fedora-Public-Domain AND Zlib)",
@@ -17,6 +17,8 @@
     },
     "list": [
         "varnish.i686   7.7.1-4.fc43 fedora",
-        "varnish.x86_64 7.7.1-4.fc43 fedora"
+        "varnish.x86_64 7.7.1-4.fc43 fedora",
+        "varnish.i686   7.7.3-2.fc43 updates",
+        "varnish.x86_64 7.7.3-2.fc43 updates"
     ]
 }

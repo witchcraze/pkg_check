@@ -26,6 +26,8 @@
         "java-21-openjdk.x86_64                                      1:21.0.9.0.10-2.0.1.el10                                          ol10_appstream",
         "java-21-openjdk.src                                         1:21.0.10.0.7-1.0.1.el10                                          ol10_appstream",
         "java-21-openjdk.x86_64                                      1:21.0.10.0.7-1.0.1.el10                                          ol10_appstream",
+        "java-21-openjdk.src                                         1:21.0.10.0.7-2.0.1.el10                                          ol10_appstream",
+        "java-21-openjdk.x86_64                                      1:21.0.10.0.7-2.0.1.el10                                          ol10_appstream",
         "java-21-openjdk.src                                         1:21.0.11.0.10-2.0.1.el10_1                                       ol10_appstream",
         "java-21-openjdk.x86_64                                      1:21.0.11.0.10-2.0.1.el10_1                                       ol10_appstream"
     ]

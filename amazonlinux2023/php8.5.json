@@ -1,15 +1,15 @@
 {
     "info": {
         "Name": "php8.5",
-        "Version": "8.5.6",
+        "Version": "8.5.7",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "14 k",
-        "Source": "php8.5-8.5.6-1.amzn2023.0.1.src.rpm",
+        "Source": "php8.5-8.5.7-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
-        "License": "PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and Boost",
+        "License": "PHP-3.01 AND Zend-2.0 AND BSD-2-Clause AND MIT AND Apache-1.0 AND Apache-2.0 AND NCSA AND BSL-1.0",
         "Description": "PHP 8.5 is an HTML-embedded scripting language. PHP 8.5 attempts to make it"
     },
     "list": [
@@ -17,6 +17,7 @@
         "php8.5.x86_64                  8.5.3-1.amzn2023.0.1                  amazonlinux",
         "php8.5.x86_64                  8.5.4-1.amzn2023.0.1                  amazonlinux",
         "php8.5.x86_64                  8.5.5-1.amzn2023.0.1                  amazonlinux",
-        "php8.5.x86_64                  8.5.6-1.amzn2023.0.1                  amazonlinux"
+        "php8.5.x86_64                  8.5.6-1.amzn2023.0.1                  amazonlinux",
+        "php8.5.x86_64                  8.5.7-1.amzn2023.0.1                  amazonlinux"
     ]
 }

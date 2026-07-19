@@ -1,26 +1,33 @@
 {
     "show": {
         "Package": "tomcat11",
-        "Version": "11.0.18-1",
+        "Version": "11.0.22-2ubuntu2~26.04.1",
         "Priority": "optional",
         "Section": "universe/java",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "284 kB",
-        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat11-common (>= 11.0.18-1), ucf",
-        "Recommends": "libtcnative-1 (>= 1.2.18)",
-        "Suggests": "tomcat11-admin (>= 11.0.18-1), tomcat11-docs (>= 11.0.18-1), tomcat11-examples (>= 11.0.18-1), tomcat11-user (>= 11.0.18-1)",
+        "Installed-Size": "280 kB",
+        "Depends": "systemd (>= 238) | systemd-sysusers, systemd (>= 238) | systemd-tmpfiles, tomcat11-common (>= 11.0.22-2ubuntu2~26.04.1), ucf",
+        "Recommends": "libtcnative-2",
+        "Suggests": "tomcat11-admin (>= 11.0.22-2ubuntu2~26.04.1), tomcat11-docs (>= 11.0.22-2ubuntu2~26.04.1), tomcat11-examples (>= 11.0.22-2ubuntu2~26.04.1), tomcat11-user (>= 11.0.22-2ubuntu2~26.04.1)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "34.1 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 Packages",
         "Description": "Apache Tomcat 11 - Servlet and JSP engine"
     },
     "list": [
+        "tomcat11/resolute-updates 11.0.22-2ubuntu2~26.04.1 all",
         "tomcat11/resolute 11.0.18-1 all"
     ],
     "changelog": [
+        "tomcat11 (11.0.22-2ubuntu2~26.04.1) resolute; urgency=medium",
+        "tomcat11 (11.0.22-2ubuntu2) stonking; urgency=medium",
+        "tomcat11 (11.0.22-2ubuntu1) stonking; urgency=medium",
+        "tomcat11 (11.0.22-2) unstable; urgency=medium",
+        "tomcat11 (11.0.22-1) unstable; urgency=medium",
+        "tomcat11 (11.0.21-1) unstable; urgency=medium",
         "tomcat11 (11.0.18-1) unstable; urgency=medium",
         "tomcat11 (11.0.15-1) unstable; urgency=medium",
         "tomcat11 (11.0.11-1) unstable; urgency=medium",
@@ -140,6 +147,7 @@
         "tomcat8 (8.0.3-1) unstable; urgency=medium"
     ],
     "publishinghistory": [
+        "11.0.22-2ubuntu2~26.04.1",
         "11.0.18-1",
         "11.0.15-1",
         "11.0.11-1",

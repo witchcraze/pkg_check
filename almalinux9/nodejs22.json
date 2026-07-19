@@ -2,12 +2,12 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.22.2",
-        "Release": "1.module_el9.7.0+227+12323393",
+        "Version": "22.23.1",
+        "Release": "1.module_el9.8.0+276+8b329b47",
         "Architecture": "x86_64",
         "Size": "1.8 M",
-        "Source": "nodejs-22.22.2-1.module_el9.7.0+227+12323393.src.rpm",
-        "Repository": "repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
+        "Source": "nodejs-22.23.1-1.module_el9.8.0+276+8b329b47.src.rpm",
+        "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
         "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
@@ -26,6 +26,7 @@
         "nodejs.x86_64                   1:22.22.0-1.module_el9.7.0+208+fb06c0ab                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:22.22.2-1.module_el9.7.0+221+02ebe753                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:22.22.2-1.module_el9.7.0+227+12323393                    appstream",
-        "nodejs.x86_64                   1:22.22.2-1.module_el9.7.0+227+12323393                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_"
+        "nodejs.x86_64                   1:22.22.2-1.module_el9.7.0+227+12323393                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
+        "nodejs.x86_64                   1:22.23.1-1.module_el9.8.0+276+8b329b47                    appstream"
     ]
 }

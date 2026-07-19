@@ -20,6 +20,7 @@
         "httpd.x86_64                      2.4.63-14.el10                       appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.63-15.el10,draft_118830",
         "httpd-2.4.63-14.el10",
         "httpd-2.4.63-14.el10,draft_112956",
         "httpd-2.4.63-14.el10,draft_112955",

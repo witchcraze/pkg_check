@@ -13,12 +13,11 @@
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "202406281-1700",
         "Download-Size": "16.6 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security trixie-security/main amd64 Packages",
+        "APT-Sources": "http://deb.debian.org/debian trixie/main amd64 Packages",
         "Description": "The World's Most Advanced Open Source Relational Database"
     },
     "list": [
-        "postgresql-17/stable-security 17.10-0+deb13u1 amd64",
-        "postgresql-17/stable 17.9-0+deb13u1 amd64"
+        "postgresql-17/stable,stable-security 17.10-0+deb13u1 amd64"
     ],
     "changelog": [
         "postgresql-17 (17.10-0+deb13u1) trixie-security; urgency=medium",

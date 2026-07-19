@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "7.4.33",
-        "Release": "3.module+el8.10.0+40080+74e49a5c",
+        "Release": "4.module+el8.10.0+40225+a4e35fd3",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "php-7.4.33-3.module+el8.10.0+40080+74e49a5c.src.rpm",
+        "Source": "php-7.4.33-4.module+el8.10.0+40225+a4e35fd3.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -25,6 +25,7 @@
         "php.x86_64                  7.4.33-1.module+el8.8.0+1150+ac720675                     dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "php.x86_64                  7.4.33-1.module+el8.10.0+1604+6558efc7                    appstream",
         "php.x86_64                  7.4.33-2.module+el8.10.0+1912+72767185                    appstream",
-        "php.x86_64                  7.4.33-3.module+el8.10.0+40080+74e49a5c                   appstream"
+        "php.x86_64                  7.4.33-3.module+el8.10.0+40080+74e49a5c                   appstream",
+        "php.x86_64                  7.4.33-4.module+el8.10.0+40225+a4e35fd3                   appstream"
     ]
 }

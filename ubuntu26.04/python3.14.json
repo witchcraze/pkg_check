@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "python3.14",
-        "Version": "3.14.4-1",
+        "Version": "3.14.4-1ubuntu0.1",
         "Priority": "important",
         "Section": "python",
         "Origin": "Ubuntu",
@@ -9,19 +9,21 @@
         "Original-Maintainer": "Matthias Klose <doko@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "934 kB",
-        "Depends": "python3.14-minimal (= 3.14.4-1), libpython3.14-stdlib (= 3.14.4-1), media-types | mime-support, tzdata",
+        "Depends": "python3.14-minimal (= 3.14.4-1ubuntu0.1), libpython3.14-stdlib (= 3.14.4-1ubuntu0.1), media-types | mime-support, tzdata",
         "Recommends": "ca-certificates",
         "Suggests": "python3.14-venv, python3.14-doc, binutils",
         "Breaks": "python3-all (<< 3.6.5~rc1-1), python3-dev (<< 3.6.5~rc1-1), python3-venv (<< 3.6.5-2)",
         "Task": "cloud-minimal, minimal, server-minimal",
         "Download-Size": "830 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Interactive high-level object-oriented language (version 3.14)"
     },
     "list": [
+        "python3.14/resolute-updates,resolute-security 3.14.4-1ubuntu0.1 amd64",
         "python3.14/resolute 3.14.4-1 amd64"
     ],
     "changelog": [
+        "python3.14 (3.14.4-1ubuntu0.1) resolute-security; urgency=medium",
         "python3.14 (3.14.4-1) unstable; urgency=medium",
         "python3.14 (3.14.3-5) unstable; urgency=medium",
         "python3.14 (3.14.3-4) unstable; urgency=medium",
@@ -592,6 +594,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.14.4-1ubuntu0.1",
         "3.14.4-1",
         "3.14.3-5",
         "3.14.3-4",

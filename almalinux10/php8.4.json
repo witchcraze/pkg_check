@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php8.4",
-        "Version": "8.4.16",
-        "Release": "1.el10",
+        "Version": "8.4.21",
+        "Release": "1.el10_2",
         "Architecture": "x86_64",
-        "Size": "13 k",
-        "Source": "php8.4-8.4.16-1.el10.src.rpm",
+        "Size": "12 k",
+        "Source": "php8.4-8.4.21-1.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -13,6 +13,8 @@
         "Description": "PHP is an HTML-embedded scripting language. PHP attempts to make it"
     },
     "list": [
-        "php8.4.x86_64                                                    8.4.16-1.el10                                                     appstream"
+        "php8.4.x86_64                                                   8.4.16-1.el10                                                      appstream",
+        "php8.4.x86_64                                                   8.4.21-1.el10                                                      appstream",
+        "php8.4.x86_64                                                   8.4.21-1.el10_2                                                    appstream"
     ]
 }

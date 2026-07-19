@@ -63,7 +63,7 @@
             ]
         },
         "12": {
-            "apache2": [
+            "redis-server": [
                 "apt-get changelog"
             ]
         }
