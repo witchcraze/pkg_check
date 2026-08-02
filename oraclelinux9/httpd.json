@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.62",
-        "Release": "13.0.1.el9_8.1",
+        "Release": "13.0.1.el9_8.5",
         "Architecture": "x86_64",
-        "Size": "65 k",
-        "Source": "httpd-2.4.62-13.0.1.el9_8.1.src.rpm",
+        "Size": "66 k",
+        "Source": "httpd-2.4.62-13.0.1.el9_8.5.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -52,6 +52,8 @@
         "httpd.src                                                  2.4.62-13.0.1.el9                                                   ol9_appstream",
         "httpd.x86_64                                               2.4.62-13.0.1.el9                                                   ol9_appstream",
         "httpd.src                                                  2.4.62-13.0.1.el9_8.1                                               ol9_appstream",
-        "httpd.x86_64                                               2.4.62-13.0.1.el9_8.1                                               ol9_appstream"
+        "httpd.x86_64                                               2.4.62-13.0.1.el9_8.1                                               ol9_appstream",
+        "httpd.src                                                  2.4.62-13.0.1.el9_8.5                                               ol9_appstream",
+        "httpd.x86_64                                               2.4.62-13.0.1.el9_8.5                                               ol9_appstream"
     ]
 }

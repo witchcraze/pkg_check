@@ -2,26 +2,27 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.11.0.10",
-        "Release": "2.el10_1",
+        "Version": "21.0.12.0.8",
+        "Release": "1.2.el10_2",
         "Architecture": "x86_64",
-        "Size": "399 k",
-        "Source": "java-21-openjdk-21.0.11.0.10-2.el10_1.src.rpm",
-        "Repository": "dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "Size": "402 k",
+        "Source": "java-21-openjdk-21.0.12.0.8-1.2.el10_2.src.rpm",
+        "Repository": "appstream",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
         "License": "ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA",
         "Description": "The OpenJDK 21 runtime environment."
     },
     "list": [
-        "java-21-openjdk.x86_64                    1:21.0.7.0.6-2.el10                        dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.7.0.6-3.el10                        dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.8.0.9-1.el10                        dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.9.0.10-1.el10                       dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.9.0.10-1.el10                       dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.9.0.10-2.el10_1                     dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.10.0.7-1.el10                       dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.11.0.10-2.el10_1                    dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "java-21-openjdk.x86_64                    1:21.0.11.0.10-2.el10_1                    appstream"
+        "java-21-openjdk.x86_64                   1:21.0.7.0.6-2.el10                         dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.7.0.6-3.el10                         dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.8.0.9-1.el10                         dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.9.0.10-1.el10                        dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.9.0.10-1.el10                        dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.9.0.10-2.el10_1                      dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.10.0.7-1.el10                        dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.11.0.10-2.el10_1                     dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "java-21-openjdk.x86_64                   1:21.0.11.0.10-2.el10_1                     appstream",
+        "java-21-openjdk.x86_64                   1:21.0.12.0.8-1.2.el10_2                    appstream"
     ]
 }

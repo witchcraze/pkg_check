@@ -20,6 +20,8 @@
         "gcc.x86_64                       14.4.1-1.el10                         appstream"
     ],
     "kojiPackages": [
+        "gcc-14.4.1-2.el10,draft_122640",
+        "gcc-14.4.1-2.el10,draft_119712",
         "gcc-14.4.1-1.el10",
         "gcc-14.3.1-4.4.el10",
         "gcc-14.3.1-4.3.el10",

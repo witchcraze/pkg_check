@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "7.4.33",
-        "Release": "4.module+el8.10.0+24352+91532d3e",
+        "Release": "5.module+el8.10.0+24515+65267a7f",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "php-7.4.33-4.module+el8.10.0+24352+91532d3e.src.rpm",
+        "Source": "php-7.4.33-5.module+el8.10.0+24515+65267a7f.src.rpm",
         "Repository": "rhel-8-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -22,6 +22,7 @@
         "php.x86_64                             7.4.33-1.module+el8.8.0+17865+ef7eddfa                               rhel-8-for-x86_64-appstream-rpms",
         "php.x86_64                             7.4.33-2.module+el8.10.0+22485+a3539972                              rhel-8-for-x86_64-appstream-rpms",
         "php.x86_64                             7.4.33-3.module+el8.10.0+23902+d3c8dd8f                              rhel-8-for-x86_64-appstream-rpms",
-        "php.x86_64                             7.4.33-4.module+el8.10.0+24352+91532d3e                              rhel-8-for-x86_64-appstream-rpms"
+        "php.x86_64                             7.4.33-4.module+el8.10.0+24352+91532d3e                              rhel-8-for-x86_64-appstream-rpms",
+        "php.x86_64                             7.4.33-5.module+el8.10.0+24515+65267a7f                              rhel-8-for-x86_64-appstream-rpms"
     ]
 }

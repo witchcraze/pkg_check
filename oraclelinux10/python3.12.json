@@ -2,11 +2,11 @@
     "info": {
         "Name": "python3.12",
         "Version": "3.12.13",
-        "Release": "2.0.1.el10_2",
+        "Release": "2.0.1.el10_2.1",
         "Architecture": "src",
         "Size": "20 M",
         "Source": "None",
-        "Repository": "ol10_u2_baseos_base",
+        "Repository": "ol10_baseos_latest",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
         "License": "Python-2.0.1",
@@ -39,6 +39,8 @@
         "python3.12.src                                          3.12.12-3.0.1.el10_1.3                                           ol10_appstream",
         "python3.12.src                                          3.12.13-2.0.1.el10_2                                             ol10_baseos_latest",
         "python3.12.src                                          3.12.13-2.0.1.el10_2                                             ol10_appstream",
-        "python3.12.src                                          3.12.13-2.0.1.el10_2                                             ol10_u2_baseos_base"
+        "python3.12.src                                          3.12.13-2.0.1.el10_2                                             ol10_u2_baseos_base",
+        "python3.12.src                                          3.12.13-2.0.1.el10_2.1                                           ol10_baseos_latest",
+        "python3.12.src                                          3.12.13-2.0.1.el10_2.1                                           ol10_appstream"
     ]
 }

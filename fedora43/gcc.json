@@ -2,12 +2,12 @@
     "info": {
         "Name": "gcc",
         "Epoch": "0",
-        "Version": "15.2.1",
-        "Release": "7.fc43",
+        "Version": "15.3.1",
+        "Release": "1.fc43",
         "Architecture": "x86_64",
-        "Download size": "39.7 MiB",
-        "Installed size": "112.0 MiB",
-        "Source": "gcc-15.2.1-7.fc43.src.rpm",
+        "Download size": "39.9 MiB",
+        "Installed size": "112.9 MiB",
+        "Source": "gcc-15.3.1-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -17,6 +17,6 @@
     },
     "list": [
         "gcc.x86_64 15.2.1-2.fc43 fedora",
-        "gcc.x86_64 15.2.1-7.fc43 updates"
+        "gcc.x86_64 15.3.1-1.fc43 updates"
     ]
 }

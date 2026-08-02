@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.31",
+        "Version": "8.3.32",
         "Release": "1.el10_2",
         "Architecture": "x86_64",
         "Size": "11 k",
-        "Source": "php-8.3.31-1.el10_2.src.rpm",
+        "Source": "php-8.3.32-1.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -17,6 +17,7 @@
         "php.x86_64                                         8.3.19-1.el10_0                                         rhel-10-for-x86_64-appstream-rpms",
         "php.x86_64                                         8.3.26-1.el10_1                                         rhel-10-for-x86_64-appstream-rpms",
         "php.x86_64                                         8.3.29-1.el10_1                                         rhel-10-for-x86_64-appstream-rpms",
-        "php.x86_64                                         8.3.31-1.el10_2                                         rhel-10-for-x86_64-appstream-rpms"
+        "php.x86_64                                         8.3.31-1.el10_2                                         rhel-10-for-x86_64-appstream-rpms",
+        "php.x86_64                                         8.3.32-1.el10_2                                         rhel-10-for-x86_64-appstream-rpms"
     ]
 }

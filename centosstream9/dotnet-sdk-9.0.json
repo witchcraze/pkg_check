@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-9.0",
-        "Version": "9.0.118",
-        "Release": "3.el9",
+        "Version": "9.0.119",
+        "Release": "2.el9",
         "Architecture": "x86_64",
-        "Size": "81 M",
-        "Source": "dotnet9.0-9.0.118-3.el9.src.rpm",
+        "Size": "82 M",
+        "Source": "dotnet9.0-9.0.119-2.el9.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 9.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,13 +13,17 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-9.0.x86_64                  9.0.114-2.el9                   appstream",
         "dotnet-sdk-9.0.x86_64                  9.0.115-2.el9                   appstream",
         "dotnet-sdk-9.0.x86_64                  9.0.117-2.el9                   appstream",
         "dotnet-sdk-9.0.x86_64                  9.0.118-2.el9                   appstream",
-        "dotnet-sdk-9.0.x86_64                  9.0.118-3.el9                   appstream"
+        "dotnet-sdk-9.0.x86_64                  9.0.118-3.el9                   appstream",
+        "dotnet-sdk-9.0.x86_64                  9.0.119-2.el9                   appstream"
     ],
     "kojiPackages": [
+        "dotnet9.0-9.0.119-2.el9",
+        "dotnet9.0-9.0.119-2.el9,draft_122546",
+        "dotnet9.0-9.0.119-2.el9,draft_122387",
+        "dotnet9.0-9.0.119-2.el9,draft_120421",
         "dotnet9.0-9.0.118-3.el9",
         "dotnet9.0-9.0.118-3.el9,draft_117469",
         "dotnet9.0-9.0.118-3.el9,draft_117435",

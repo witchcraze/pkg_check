@@ -27,6 +27,7 @@
         "nodejs.x86_64               1:20.19.2-1.module+el8.10.0+1988+437f3d23                 appstream",
         "nodejs.x86_64               1:20.19.5-1.module+el8.10.0+2071+749b5246                 appstream",
         "nodejs.x86_64               1:20.20.0-1.module+el8.10.0+40077+29236b21                appstream",
+        "nodejs.x86_64               1:20.20.0-1.module+el8.10.0+40171+8fa9c325                appstream",
         "nodejs.x86_64               1:20.20.2-1.module+el8.10.0+40157+368015a6                appstream",
         "nodejs.x86_64               1:20.20.2-1.module+el8.10.0+40175+15dc0b4a                appstream"
     ]

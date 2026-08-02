@@ -536,6 +536,7 @@
         "bind9 (1:9.1.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1:9.20.24-1ubuntu0.1",
         "1:9.20.18-1ubuntu2.1",
         "1:9.20.18-1ubuntu2",
         "1:9.20.18-1ubuntu1",

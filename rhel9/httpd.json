@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.62",
-        "Release": "13.el9_8.1",
+        "Release": "13.el9_8.5",
         "Architecture": "x86_64",
-        "Size": "54 k",
-        "Source": "httpd-2.4.62-13.el9_8.1.src.rpm",
+        "Size": "55 k",
+        "Source": "httpd-2.4.62-13.el9_8.5.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -31,6 +31,7 @@
         "httpd.x86_64                                       2.4.62-7.el9_7.2                                         rhel-9-for-x86_64-appstream-rpms",
         "httpd.x86_64                                       2.4.62-7.el9_7.3                                         rhel-9-for-x86_64-appstream-rpms",
         "httpd.x86_64                                       2.4.62-13.el9                                            rhel-9-for-x86_64-appstream-rpms",
-        "httpd.x86_64                                       2.4.62-13.el9_8.1                                        rhel-9-for-x86_64-appstream-rpms"
+        "httpd.x86_64                                       2.4.62-13.el9_8.1                                        rhel-9-for-x86_64-appstream-rpms",
+        "httpd.x86_64                                       2.4.62-13.el9_8.5                                        rhel-9-for-x86_64-appstream-rpms"
     ]
 }

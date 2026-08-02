@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "22.22.2",
-        "Release": "1.module+el8.10.0+40176+459d4098",
+        "Version": "22.23.1",
+        "Release": "2.module+el8.10.0+40261+cde646a4",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "nodejs-22.22.2-1.module+el8.10.0+40176+459d4098.src.rpm",
+        "Source": "nodejs-22.23.1-2.module+el8.10.0+40261+cde646a4.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -22,7 +22,10 @@
         "nodejs.x86_64                                      1:22.16.0-2.module+el8.10.0+2012+fb8b67c7                                       appstream",
         "nodejs.x86_64                                      1:22.19.0-2.module+el8.10.0+2069+07c7cb32                                       appstream",
         "nodejs.x86_64                                      1:22.22.0-1.module+el8.10.0+40078+280dc7ce                                      appstream",
+        "nodejs.x86_64                                      1:22.22.0-1.module+el8.10.0+40172+38f6fdd1                                      appstream",
         "nodejs.x86_64                                      1:22.22.2-1.module+el8.10.0+40148+e9f9162c                                      appstream",
-        "nodejs.x86_64                                      1:22.22.2-1.module+el8.10.0+40176+459d4098                                      appstream"
+        "nodejs.x86_64                                      1:22.22.2-1.module+el8.10.0+40176+459d4098                                      appstream",
+        "nodejs.x86_64                                      1:22.23.1-1.module+el8.10.0+40256+2fd2ac14                                      appstream",
+        "nodejs.x86_64                                      1:22.23.1-2.module+el8.10.0+40261+cde646a4                                      appstream"
     ]
 }

@@ -1,15 +1,15 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.18.0-6ubuntu14.16",
+        "Version": "1.18.0-6ubuntu14.18",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "51.2 kB",
-        "Depends": "nginx-core (<< 1.18.0-6ubuntu14.16.1~) | nginx-full (<< 1.18.0-6ubuntu14.16.1~) | nginx-light (<< 1.18.0-6ubuntu14.16.1~) | nginx-extras (<< 1.18.0-6ubuntu14.16.1~), nginx-core (>= 1.18.0-6ubuntu14.16) | nginx-full (>= 1.18.0-6ubuntu14.16) | nginx-light (>= 1.18.0-6ubuntu14.16) | nginx-extras (>= 1.18.0-6ubuntu14.16)",
+        "Installed-Size": "52.2 kB",
+        "Depends": "nginx-core (<< 1.18.0-6ubuntu14.18.1~) | nginx-full (<< 1.18.0-6ubuntu14.18.1~) | nginx-light (<< 1.18.0-6ubuntu14.18.1~) | nginx-extras (<< 1.18.0-6ubuntu14.18.1~), nginx-core (>= 1.18.0-6ubuntu14.18) | nginx-full (>= 1.18.0-6ubuntu14.18) | nginx-light (>= 1.18.0-6ubuntu14.18) | nginx-extras (>= 1.18.0-6ubuntu14.18)",
         "Breaks": "libnginx-mod-http-lua (<< 1.18.0-6ubuntu5)",
         "Homepage": "https://nginx.net",
         "Download-Size": "3884 B",
@@ -17,10 +17,12 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/jammy-updates,jammy-security 1.18.0-6ubuntu14.16 amd64",
+        "nginx/jammy-updates,jammy-security 1.18.0-6ubuntu14.18 amd64",
         "nginx/jammy 1.18.0-6ubuntu14 amd64"
     ],
     "changelog": [
+        "nginx (1.18.0-6ubuntu14.18) jammy-security; urgency=medium",
+        "nginx (1.18.0-6ubuntu14.17) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.16) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.15) jammy-security; urgency=medium",
         "nginx (1.18.0-6ubuntu14.14) jammy-security; urgency=medium",

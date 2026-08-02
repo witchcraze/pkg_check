@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "php8.5",
-        "Version": "8.5.4-0ubuntu1.1",
+        "Version": "8.5.4-0ubuntu1.2",
         "Priority": "optional",
         "Section": "php",
         "Origin": "Ubuntu",
@@ -17,10 +17,11 @@
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
-        "php8.5/resolute-updates,resolute-security 8.5.4-0ubuntu1.1 all",
+        "php8.5/resolute-updates,resolute-security 8.5.4-0ubuntu1.2 all",
         "php8.5/resolute 8.5.4-0ubuntu1 all"
     ],
     "changelog": [
+        "php8.5 (8.5.4-0ubuntu1.2) resolute-security; urgency=medium",
         "php8.5 (8.5.4-0ubuntu1.1) resolute-security; urgency=medium",
         "php8.5 (8.5.4-0ubuntu1) resolute; urgency=medium",
         "php8.5 (8.5.4-1) experimental; urgency=medium",
@@ -248,6 +249,7 @@
         "php7.2 (7.2.0~alpha3-1) experimental; urgency=medium"
     ],
     "publishinghistory": [
+        "8.5.4-0ubuntu1.2",
         "8.5.4-0ubuntu1.1",
         "8.5.4-0ubuntu1",
         "8.5.2-0ubuntu1"

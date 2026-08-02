@@ -1,15 +1,15 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.29-1ubuntu4.27+esm9",
+        "Version": "2.4.29-1ubuntu4.27+esm11",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
-        "Installed-Size": "540 kB",
+        "Installed-Size": "541 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "dpkg (>= 1.17.14)",
-        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.29-1ubuntu4.27+esm9), apache2-utils (= 2.4.29-1ubuntu4.27+esm9), apache2-data (= 2.4.29-1ubuntu4.27+esm9), perl:any",
+        "Depends": "lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.29-1ubuntu4.27+esm11), apache2-utils (= 2.4.29-1ubuntu4.27+esm11), apache2-data (= 2.4.29-1ubuntu4.27+esm11), perl:any",
         "Recommends": "ssl-cert",
         "Suggests": "www-browser, apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -19,11 +19,13 @@
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/bionic-infra-security 2.4.29-1ubuntu4.27+esm9 amd64",
+        "apache2/bionic-infra-security 2.4.29-1ubuntu4.27+esm11 amd64",
         "apache2/bionic-updates,bionic-security 2.4.29-1ubuntu4.27 amd64",
         "apache2/bionic 2.4.29-1ubuntu4 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.29-1ubuntu4.27+esm11) bionic-security; urgency=medium",
+        "apache2 (2.4.29-1ubuntu4.27+esm10) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm9) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm8) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm7) bionic-security; urgency=medium",
@@ -31,9 +33,7 @@
         "apache2 (2.4.29-1ubuntu4.27+esm4) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm3) bionic-security; urgency=medium",
         "apache2 (2.4.29-1ubuntu4.27+esm2) bionic-security; urgency=medium",
-        "apache2 (2.4.29-1ubuntu4.27+esm1) bionic-security; urgency=medium",
-        "apache2 (2.4.29-1ubuntu4.27) bionic-security; urgency=medium",
-        "apache2 (2.4.29-1ubuntu4.26) bionic-security; urgency=medium"
+        "apache2 (2.4.29-1ubuntu4.27+esm1) bionic-security; urgency=medium"
     ],
     "publishinghistory": []
 }
