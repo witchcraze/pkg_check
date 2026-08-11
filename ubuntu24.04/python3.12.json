@@ -560,6 +560,7 @@
         "python2 (2.0-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.12.3-1ubuntu0.16",
         "3.12.3-1ubuntu0.15",
         "3.12.3-1ubuntu0.13",
         "3.12.3-1ubuntu0.12",

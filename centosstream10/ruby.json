@@ -20,6 +20,8 @@
         "ruby.x86_64                       3.3.10-13.el10                       appstream"
     ],
     "kojiPackages": [
+        "ruby-3.3.12-14.el10,draft_124170",
+        "ruby-3.3.12-14.el10,draft_124171",
         "ruby-3.3.10-13.el10",
         "ruby-3.3.10-13.el10,draft_118340",
         "ruby-3.3.10-13.el10,draft_118341",

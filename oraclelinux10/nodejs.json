@@ -3,10 +3,10 @@
         "Name": "nodejs",
         "Epoch": "1",
         "Version": "22.23.1",
-        "Release": "2.el10_2",
+        "Release": "4.0.1.el10_2",
         "Architecture": "x86_64",
         "Size": "59 k",
-        "Source": "nodejs22-22.23.1-2.el10_2.src.rpm",
+        "Source": "nodejs22-22.23.1-4.0.1.el10_2.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "JavaScript runtime",
         "URL": "http://nodejs.org/",
@@ -14,11 +14,13 @@
         "Description": "Node.js is a platform built on Chrome's JavaScript runtime \\"
     },
     "list": [
-        "nodejs.x86_64                                               1:22.13.1-2.el10                                                  ol10_appstream",
-        "nodejs.x86_64                                               1:22.16.0-1.el10_0                                                ol10_appstream",
-        "nodejs.x86_64                                               1:22.19.0-2.el10_0                                                ol10_appstream",
-        "nodejs.x86_64                                               1:22.22.0-3.el10_1                                                ol10_appstream",
-        "nodejs.x86_64                                               1:22.22.2-1.el10_1                                                ol10_appstream",
-        "nodejs.x86_64                                               1:22.23.1-2.el10_2                                                ol10_appstream"
+        "nodejs.x86_64                                             1:22.13.1-2.el10                                                    ol10_appstream",
+        "nodejs.x86_64                                             1:22.16.0-1.el10_0                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.19.0-2.el10_0                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.22.0-3.el10_1                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.22.2-1.el10_1                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.23.1-2.el10_2                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.23.1-4.el10_2                                                  ol10_appstream",
+        "nodejs.x86_64                                             1:22.23.1-4.0.1.el10_2                                              ol10_appstream"
     ]
 }

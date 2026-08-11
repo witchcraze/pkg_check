@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.63",
-        "Release": "13.0.1.el10_2.4",
+        "Release": "13.0.1.el10_2.5",
         "Architecture": "x86_64",
         "Size": "101 k",
-        "Source": "httpd-2.4.63-13.0.1.el10_2.4.src.rpm",
+        "Source": "httpd-2.4.63-13.0.1.el10_2.5.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -26,6 +26,8 @@
         "httpd.src                                                 2.4.63-13.0.1.el10                                                  ol10_appstream",
         "httpd.x86_64                                              2.4.63-13.0.1.el10                                                  ol10_appstream",
         "httpd.src                                                 2.4.63-13.0.1.el10_2.4                                              ol10_appstream",
-        "httpd.x86_64                                              2.4.63-13.0.1.el10_2.4                                              ol10_appstream"
+        "httpd.x86_64                                              2.4.63-13.0.1.el10_2.4                                              ol10_appstream",
+        "httpd.src                                                 2.4.63-13.0.1.el10_2.5                                              ol10_appstream",
+        "httpd.x86_64                                              2.4.63-13.0.1.el10_2.5                                              ol10_appstream"
     ]
 }

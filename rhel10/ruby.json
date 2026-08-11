@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.10",
-        "Release": "13.el10_2",
+        "Version": "3.3.12",
+        "Release": "14.el10_2",
         "Architecture": "x86_64",
         "Size": "44 k",
-        "Source": "ruby-3.3.10-13.el10_2.src.rpm",
+        "Source": "ruby-3.3.12-14.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -17,6 +17,7 @@
         "ruby.x86_64                                        3.3.8-10.el10_0                                         rhel-10-for-x86_64-appstream-rpms",
         "ruby.x86_64                                        3.3.10-11.el10_1                                        rhel-10-for-x86_64-appstream-rpms",
         "ruby.x86_64                                        3.3.10-12.el10_1                                        rhel-10-for-x86_64-appstream-rpms",
-        "ruby.x86_64                                        3.3.10-13.el10_2                                        rhel-10-for-x86_64-appstream-rpms"
+        "ruby.x86_64                                        3.3.10-13.el10_2                                        rhel-10-for-x86_64-appstream-rpms",
+        "ruby.x86_64                                        3.3.12-14.el10_2                                        rhel-10-for-x86_64-appstream-rpms"
     ]
 }

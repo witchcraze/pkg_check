@@ -21,6 +21,8 @@
     ],
     "kojiPackages": [
         "mysql8.4-8.4.9-1.el10,draft_110996",
+        "mysql8.4-8.4.11-1.el10",
+        "mysql8.4-8.4.11-1.el10,draft_123837",
         "mysql8.4-8.4.10-1.el10,draft_119108",
         "mysql8.4-8.4.9-1.el10",
         "mysql8.4-8.4.9-1.el10,draft_111000",

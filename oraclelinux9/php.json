@@ -1,8 +1,8 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.3.31",
-        "Release": "2.module+el9.8.0+90908+d0714450",
+        "Version": "8.3.32",
+        "Release": "1.module+el9.8.0+90982+92b8b4c7",
         "Architecture": "src",
         "Size": "12 M",
         "Source": "None",
@@ -49,6 +49,7 @@
         "php.src                                          8.3.26-1.module+el9.4.0+90734+c13c2ce3                                        ol9_appstream",
         "php.src                                          8.3.29-1.module+el9.7.0+90776+76de6b03                                        ol9_appstream",
         "php.src                                          8.3.31-2.module+el9.8.0+90900+909102f6                                        ol9_appstream",
-        "php.src                                          8.3.31-2.module+el9.8.0+90908+d0714450                                        ol9_appstream"
+        "php.src                                          8.3.31-2.module+el9.8.0+90908+d0714450                                        ol9_appstream",
+        "php.src                                          8.3.32-1.module+el9.8.0+90982+92b8b4c7                                        ol9_appstream"
     ]
 }

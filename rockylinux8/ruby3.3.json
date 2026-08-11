@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.10",
-        "Release": "7.module+el8.10.0+40227+8cae5065",
+        "Version": "3.3.12",
+        "Release": "8.module+el8.10.0+40269+dc93e2d1",
         "Architecture": "x86_64",
         "Size": "89 k",
-        "Source": "ruby-3.3.10-7.module+el8.10.0+40227+8cae5065.src.rpm",
+        "Source": "ruby-3.3.12-8.module+el8.10.0+40269+dc93e2d1.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -26,6 +26,8 @@
         "ruby.i686                                          3.3.10-6.module+el8.10.0+40195+8775aa9e                                         appstream",
         "ruby.x86_64                                        3.3.10-6.module+el8.10.0+40195+8775aa9e                                         appstream",
         "ruby.i686                                          3.3.10-7.module+el8.10.0+40227+8cae5065                                         appstream",
-        "ruby.x86_64                                        3.3.10-7.module+el8.10.0+40227+8cae5065                                         appstream"
+        "ruby.x86_64                                        3.3.10-7.module+el8.10.0+40227+8cae5065                                         appstream",
+        "ruby.i686                                          3.3.12-8.module+el8.10.0+40269+dc93e2d1                                         appstream",
+        "ruby.x86_64                                        3.3.12-8.module+el8.10.0+40269+dc93e2d1                                         appstream"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php8.4",
-        "Version": "8.4.23",
+        "Version": "8.4.24",
         "Release": "2.el10",
         "Architecture": "x86_64",
-        "Size": "8.2 k",
-        "Source": "php8.4-8.4.23-2.el10.src.rpm",
+        "Size": "7.8 k",
+        "Source": "php8.4-8.4.24-2.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -16,9 +16,12 @@
         "php8.4.x86_64                      8.4.14-4.el10                       appstream",
         "php8.4.x86_64                      8.4.16-1.el10                       appstream",
         "php8.4.x86_64                      8.4.21-2.el10                       appstream",
-        "php8.4.x86_64                      8.4.23-2.el10                       appstream"
+        "php8.4.x86_64                      8.4.23-2.el10                       appstream",
+        "php8.4.x86_64                      8.4.24-2.el10                       appstream"
     ],
     "kojiPackages": [
+        "php8.4-8.4.24-2.el10",
+        "php8.4-8.4.24-2.el10,draft_123695",
         "php8.4-8.4.23-2.el10",
         "php8.4-8.4.21-2.el10",
         "php8.4-8.4.16-2.el10",
