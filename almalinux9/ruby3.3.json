@@ -35,6 +35,7 @@
         "ruby.x86_64                      3.3.10-6.module_el9.7.0+245+447713a2                      repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "ruby.i686                        3.3.10-7.module_el9.8.0+272+38177c5f                      appstream",
         "ruby.x86_64                      3.3.10-7.module_el9.8.0+272+38177c5f                      appstream",
+        "ruby.i686                        3.3.12-8.module_el9.8.0+288+22f1c9f2                      appstream",
         "ruby.x86_64                      3.3.12-8.module_el9.8.0+288+22f1c9f2                      appstream"
     ]
 }

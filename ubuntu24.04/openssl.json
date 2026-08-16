@@ -349,6 +349,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.0.13-0ubuntu3.13",
         "3.0.13-0ubuntu3.10",
         "3.0.13-0ubuntu3.12",
         "3.0.13-0ubuntu3.11",

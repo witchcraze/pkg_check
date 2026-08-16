@@ -2,10 +2,10 @@
     "info": {
         "Name": "grafana",
         "Version": "10.2.6",
-        "Release": "27.el10_2",
+        "Release": "28.el10_2.4",
         "Architecture": "x86_64",
         "Size": "108 M",
-        "Source": "grafana-10.2.6-27.el10_2.src.rpm",
+        "Source": "grafana-10.2.6-28.el10_2.4.src.rpm",
         "Repository": "appstream",
         "Summary": "Metrics dashboard and graph editor",
         "URL": "https://grafana.org",
@@ -13,15 +13,16 @@
         "Description": "Grafana is an open source, feature rich metrics dashboard and graph editor for"
     },
     "list": [
-        "grafana.x86_64                           10.2.6-17.el10_0                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-18.el10_0                            dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-20.el10                              dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-21.el10_1                            dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-22.el10_1                            dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-23.el10_1                            dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-24.el10_1                            dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-25.el10_1                            dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
-        "grafana.x86_64                           10.2.6-26.el10_2                            appstream",
-        "grafana.x86_64                           10.2.6-27.el10_2                            appstream"
+        "grafana.x86_64                          10.2.6-17.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-18.el10_0                             dl.rockylinux.org_vault_rocky_10.0_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-20.el10                               dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-21.el10_1                             dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-22.el10_1                             dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-23.el10_1                             dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-24.el10_1                             dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-25.el10_1                             dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
+        "grafana.x86_64                          10.2.6-26.el10_2                             appstream",
+        "grafana.x86_64                          10.2.6-27.el10_2                             appstream",
+        "grafana.x86_64                          10.2.6-28.el10_2.4                           appstream"
     ]
 }

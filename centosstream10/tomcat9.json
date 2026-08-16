@@ -21,6 +21,15 @@
         "tomcat9.noarch                    1:9.0.117-2.el10                     appstream"
     ],
     "kojiPackages": [
+        "tomcat9-9.0.117-9.el10,draft_124391",
+        "tomcat9-9.0.117-3.el10,draft_124389",
+        "tomcat9-9.0.117-8.el10,draft_124388",
+        "tomcat9-9.0.117-7.el10,draft_124387",
+        "tomcat9-9.0.117-3.el10,draft_124386",
+        "tomcat9-9.0.117-3.el10,draft_124383",
+        "tomcat9-9.0.117-6.el10,draft_124377",
+        "tomcat9-9.0.117-5.el10,draft_124375",
+        "tomcat9-9.0.117-3.el10,draft_124373",
         "tomcat9-9.0.117-3.el10,draft_123385",
         "tomcat9-9.0.117-4.el10,draft_123384",
         "tomcat9-9.0.117-3.el10,draft_123383",

@@ -19,6 +19,7 @@
         "ruby.x86_64                                          4.0.3-32.module_el9.8.0+251+5fdbd96b                                          appstream",
         "ruby.i686                                            4.0.3-33.module_el9.8.0+273+a67497ba                                          appstream",
         "ruby.x86_64                                          4.0.3-33.module_el9.8.0+273+a67497ba                                          appstream",
+        "ruby.i686                                            4.0.6-34.module_el9.8.0+289+5a070f48                                          appstream",
         "ruby.x86_64                                          4.0.6-34.module_el9.8.0+289+5a070f48                                          appstream"
     ]
 }
