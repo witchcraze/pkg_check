@@ -4,6 +4,9 @@
             "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-11.0": [
+                "kojiPackages"
+            ],
             "mariadb-server": [
                 "kojiPackages"
             ],
@@ -19,6 +22,9 @@
                 "kojiPackages"
             ],
             "dotnet-sdk-10.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-11.0": [
                 "kojiPackages"
             ],
             "mariadb-server": [

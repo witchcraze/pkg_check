@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.18.0",
-        "Release": "3.module+el9.8.0+90974+83075495",
+        "Version": "24.19.0",
+        "Release": "1.module+el9.8.0+91009+5d530ccd",
         "Architecture": "x86_64",
-        "Size": "75 k",
-        "Source": "nodejs-24.18.0-3.module+el9.8.0+90974+83075495.src.rpm",
+        "Size": "77 k",
+        "Source": "nodejs-24.19.0-1.module+el9.8.0+91009+5d530ccd.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -19,6 +19,8 @@
         "nodejs.x86_64                                    1:24.13.0-1.module+el9.7.0+90805+68a1aa93                                     ol9_appstream",
         "nodejs.x86_64                                    1:24.14.1-2.module+el9.7.0+90866+5a953a4c                                     ol9_appstream",
         "nodejs.x86_64                                    1:24.18.0-1.module+el9.8.0+90946+13dc792a                                     ol9_appstream",
-        "nodejs.x86_64                                    1:24.18.0-3.module+el9.8.0+90974+83075495                                     ol9_appstream"
+        "nodejs.x86_64                                    1:24.18.0-3.module+el9.8.0+90974+83075495                                     ol9_appstream",
+        "nodejs.x86_64                                    1:24.18.0-6.module+el9.8.0+90993+075b4fd6                                     ol9_appstream",
+        "nodejs.x86_64                                    1:24.19.0-1.module+el9.8.0+91009+5d530ccd                                     ol9_appstream"
     ]
 }

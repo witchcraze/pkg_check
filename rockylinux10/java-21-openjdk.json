@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-21-openjdk",
         "Epoch": "1",
-        "Version": "21.0.12.0.8",
+        "Version": "21.0.12.1.1",
         "Release": "1.2.el10_2",
         "Architecture": "x86_64",
-        "Size": "402 k",
-        "Source": "java-21-openjdk-21.0.12.0.8-1.2.el10_2.src.rpm",
+        "Size": "397 k",
+        "Source": "java-21-openjdk-21.0.12.1.1-1.2.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 21 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -23,6 +23,7 @@
         "java-21-openjdk.x86_64                   1:21.0.10.0.7-1.el10                        dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "java-21-openjdk.x86_64                   1:21.0.11.0.10-2.el10_1                     dl.rockylinux.org_vault_rocky_10.1_AppStream_x86_64_os_",
         "java-21-openjdk.x86_64                   1:21.0.11.0.10-2.el10_1                     appstream",
-        "java-21-openjdk.x86_64                   1:21.0.12.0.8-1.2.el10_2                    appstream"
+        "java-21-openjdk.x86_64                   1:21.0.12.0.8-1.2.el10_2                    appstream",
+        "java-21-openjdk.x86_64                   1:21.0.12.1.1-1.2.el10_2                    appstream"
     ]
 }

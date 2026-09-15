@@ -11,11 +11,12 @@
         "Depends": "init-system-helpers (>= 1.51), libc6 (>= 2.4), adduser, pipexec, procps",
         "Homepage": "https://github.com/hashicorp/consul",
         "Download-Size": "14.5 MB",
+        "APT-Manual-Installed": "yes",
         "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
         "Description": "tool for service discovery, monitoring and configuration"
     },
     "list": [
-        "consul/oldoldstable 1.8.7+dfsg1-2+b3 amd64"
+        "consul/oldoldstable,now 1.8.7+dfsg1-2+b3 amd64 [installed]"
     ],
     "changelog": [
         "consul (1.8.7+dfsg1-2) unstable; urgency=medium",

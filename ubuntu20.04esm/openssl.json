@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "1.1.1f-1ubuntu2.24+esm4",
+        "Version": "1.1.1f-1ubuntu2.24+esm5",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
@@ -14,8 +14,8 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/focal-infra-security 1.1.1f-1ubuntu2.24+esm4 amd64 [upgradable from: 1.1.1f-1ubuntu2.24]",
-        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.24 amd64 [installed,upgradable to: 1.1.1f-1ubuntu2.24+esm4]",
+        "openssl/focal-infra-security 1.1.1f-1ubuntu2.24+esm5 amd64 [upgradable from: 1.1.1f-1ubuntu2.24]",
+        "openssl/focal-updates,focal-security,now 1.1.1f-1ubuntu2.24 amd64 [installed,upgradable to: 1.1.1f-1ubuntu2.24+esm5]",
         "openssl/focal 1.1.1f-1ubuntu2 amd64"
     ],
     "changelog": [

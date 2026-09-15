@@ -1,0 +1,29 @@
+{
+    "info": {
+        "Name": "nodejs26",
+        "Epoch": "1",
+        "Version": "26.1.0",
+        "Release": "1.el10",
+        "Architecture": "x86_64",
+        "Size": "83 k",
+        "Source": "nodejs26-26.1.0-1.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "JavaScript runtime",
+        "URL": "https://nodejs.org",
+        "License": "Apache-2.0 AND Artistic-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-3.0 AND CC0-1.0 AND ISC AND MIT",
+        "Description": "Node.js is a platform built on Chrome's JavaScript runtime"
+    },
+    "list": [
+        "nodejs26.x86_64                    1:26.1.0-1.el10                     appstream"
+    ],
+    "kojiPackages": [
+        "nodejs26-26.1.0-2.el10,draft_129159",
+        "nodejs26-26.1.0-2.el10,draft_129158",
+        "nodejs26-26.1.0-2.el10,draft_129157",
+        "nodejs26-26.1.0-2.el10,draft_128964",
+        "nodejs26-26.1.0-2.el10,draft_128887",
+        "nodejs26-26.1.0-1.el10",
+        "nodejs26-26.1.0-1.el10,draft_125435",
+        "nodejs26-26.1.0-1.el10,draft_125388"
+    ]
+}

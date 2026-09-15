@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.13-0ubuntu3.12",
+        "Version": "3.0.13-0ubuntu3.15",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -19,10 +19,12 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/noble-updates,noble-security,now 3.0.13-0ubuntu3.12 amd64 [installed,automatic]",
+        "openssl/noble-updates,noble-security,now 3.0.13-0ubuntu3.15 amd64 [installed,automatic]",
         "openssl/noble 3.0.13-0ubuntu3 amd64"
     ],
     "changelog": [
+        "openssl (3.0.13-0ubuntu3.15) noble-security; urgency=medium",
+        "openssl (3.0.13-0ubuntu3.13) noble; urgency=medium",
         "openssl (3.0.13-0ubuntu3.12) noble-security; urgency=medium",
         "openssl (3.0.13-0ubuntu3.11) noble-security; urgency=medium",
         "openssl (3.0.13-0ubuntu3.9) noble-security; urgency=medium",
@@ -349,7 +351,7 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
-        "3.0.13-0ubuntu3.13",
+        "3.0.13-0ubuntu3.15",
         "3.0.13-0ubuntu3.10",
         "3.0.13-0ubuntu3.12",
         "3.0.13-0ubuntu3.11",

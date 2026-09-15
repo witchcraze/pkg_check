@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs24",
         "Epoch": "1",
-        "Version": "24.18.0",
-        "Release": "3.0.2.el10_2",
+        "Version": "24.19.0",
+        "Release": "1.0.1.el10_2",
         "Architecture": "x86_64",
-        "Size": "76 k",
-        "Source": "nodejs24-24.18.0-3.0.2.el10_2.src.rpm",
+        "Size": "77 k",
+        "Source": "nodejs24-24.19.0-1.0.1.el10_2.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -29,6 +29,10 @@
         "nodejs24.src                                               1:24.18.0-3.0.1.el10_2                                             ol10_appstream",
         "nodejs24.x86_64                                            1:24.18.0-3.0.1.el10_2                                             ol10_appstream",
         "nodejs24.src                                               1:24.18.0-3.0.2.el10_2                                             ol10_appstream",
-        "nodejs24.x86_64                                            1:24.18.0-3.0.2.el10_2                                             ol10_appstream"
+        "nodejs24.x86_64                                            1:24.18.0-3.0.2.el10_2                                             ol10_appstream",
+        "nodejs24.src                                               1:24.18.0-5.0.1.el10_2                                             ol10_appstream",
+        "nodejs24.x86_64                                            1:24.18.0-5.0.1.el10_2                                             ol10_appstream",
+        "nodejs24.src                                               1:24.19.0-1.0.1.el10_2                                             ol10_appstream",
+        "nodejs24.x86_64                                            1:24.19.0-1.0.1.el10_2                                             ol10_appstream"
     ]
 }

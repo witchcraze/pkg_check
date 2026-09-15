@@ -2,12 +2,12 @@
     "info": {
         "Name": "postgresql17",
         "Epoch": "0",
-        "Version": "17.10",
+        "Version": "17.11",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "2.0 MiB",
-        "Installed size": "7.9 MiB",
-        "Source": "postgresql17-17.10-1.fc43.src.rpm",
+        "Installed size": "8.0 MiB",
+        "Source": "postgresql17-17.11-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -18,7 +18,7 @@
     "list": [
         "postgresql17.i686   17.6-1.fc43  fedora",
         "postgresql17.x86_64 17.6-1.fc43  fedora",
-        "postgresql17.i686   17.10-1.fc43 updates",
-        "postgresql17.x86_64 17.10-1.fc43 updates"
+        "postgresql17.i686   17.11-1.fc43 updates",
+        "postgresql17.x86_64 17.11-1.fc43 updates"
     ]
 }

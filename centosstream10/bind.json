@@ -3,10 +3,10 @@
         "Name": "bind",
         "Epoch": "32",
         "Version": "9.18.33",
-        "Release": "19.el10",
+        "Release": "28.el10",
         "Architecture": "x86_64",
-        "Size": "339 k",
-        "Source": "bind-9.18.33-19.el10.src.rpm",
+        "Size": "340 k",
+        "Source": "bind-9.18.33-28.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -14,13 +14,21 @@
         "Description": "BIND (Berkeley Internet Name Domain) is an implementation of the DNS"
     },
     "list": [
-        "bind.x86_64                     32:9.18.33-5.el10                      appstream",
-        "bind.x86_64                     32:9.18.33-13.el10                     appstream",
         "bind.x86_64                     32:9.18.33-15.el10                     appstream",
         "bind.x86_64                     32:9.18.33-18.el10                     appstream",
-        "bind.x86_64                     32:9.18.33-19.el10                     appstream"
+        "bind.x86_64                     32:9.18.33-19.el10                     appstream",
+        "bind.x86_64                     32:9.18.33-26.el10                     appstream",
+        "bind.x86_64                     32:9.18.33-28.el10                     appstream"
     ],
     "kojiPackages": [
+        "bind-9.18.33-29.el10,draft_129458",
+        "bind-9.18.33-28.el10",
+        "bind-9.18.33-28.el10,draft_128896",
+        "bind-9.18.33-28.el10,draft_128895",
+        "bind-9.18.33-27.el10",
+        "bind-9.18.33-27.el10,draft_128360",
+        "bind-9.18.33-26.el10",
+        "bind-9.18.33-25.el10,draft_124924",
         "bind-9.18.50-1.el10,draft_119018",
         "bind-9.18.50-1.el10,draft_119017",
         "bind-9.18.50-1.el10,draft_118908",

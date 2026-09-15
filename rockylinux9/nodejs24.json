@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.18.0",
-        "Release": "3.module+el9.8.0+40264+d9b257bb",
+        "Version": "24.19.0",
+        "Release": "1.module+el9.8.0+40304+bb6270de",
         "Architecture": "x86_64",
-        "Size": "67 k",
-        "Source": "nodejs-24.18.0-3.module+el9.8.0+40264+d9b257bb.src.rpm",
+        "Size": "69 k",
+        "Source": "nodejs-24.19.0-1.module+el9.8.0+40304+bb6270de.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -20,6 +20,8 @@
         "nodejs.x86_64                1:24.14.1-2.module+el9.7.0+40151+7a588b37                dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "nodejs.x86_64                1:24.14.1-2.module+el9.7.0+40151+7a588b37                appstream",
         "nodejs.x86_64                1:24.18.0-1.module+el9.8.0+40241+ba7fe110                appstream",
-        "nodejs.x86_64                1:24.18.0-3.module+el9.8.0+40264+d9b257bb                appstream"
+        "nodejs.x86_64                1:24.18.0-3.module+el9.8.0+40264+d9b257bb                appstream",
+        "nodejs.x86_64                1:24.18.0-6.module+el9.8.0+40281+14cc6568                appstream",
+        "nodejs.x86_64                1:24.19.0-1.module+el9.8.0+40304+bb6270de                appstream"
     ]
 }

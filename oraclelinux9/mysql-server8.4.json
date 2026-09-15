@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.4.9",
-        "Release": "1.module+el9.8.0+90919+3e0d08f6",
+        "Version": "8.4.11",
+        "Release": "1.module+el9.8.0+90998+76ddfd45",
         "Architecture": "x86_64",
-        "Size": "19 M",
-        "Source": "mysql-8.4.9-1.module+el9.8.0+90919+3e0d08f6.src.rpm",
+        "Size": "18 M",
+        "Source": "mysql-8.4.11-1.module+el9.8.0+90998+76ddfd45.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -18,6 +18,7 @@
         "mysql-server.x86_64                                   8.4.7-1.module+el9.7.0+90722+c8e17c0f                                    ol9_appstream",
         "mysql-server.x86_64                                   8.4.8-1.module+el9.7.0+90850+a687c04f                                    ol9_appstream",
         "mysql-server.x86_64                                   8.4.8-1.module+el9.8.0+90853+6103fb18                                    ol9_appstream",
-        "mysql-server.x86_64                                   8.4.9-1.module+el9.8.0+90919+3e0d08f6                                    ol9_appstream"
+        "mysql-server.x86_64                                   8.4.9-1.module+el9.8.0+90919+3e0d08f6                                    ol9_appstream",
+        "mysql-server.x86_64                                   8.4.11-1.module+el9.8.0+90998+76ddfd45                                   ol9_appstream"
     ]
 }

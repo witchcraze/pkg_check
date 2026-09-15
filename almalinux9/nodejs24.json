@@ -2,11 +2,11 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.18.0",
-        "Release": "3.module_el9.8.0+286+9023ffdb",
+        "Version": "24.19.0",
+        "Release": "1.module_el9.8.0+301+084fac05",
         "Architecture": "x86_64",
-        "Size": "67 k",
-        "Source": "nodejs-24.18.0-3.module_el9.8.0+286+9023ffdb.src.rpm",
+        "Size": "69 k",
+        "Source": "nodejs-24.19.0-1.module_el9.8.0+301+084fac05.src.rpm",
         "Repository": "appstream",
         "Summary": "JavaScript runtime",
         "URL": "https://nodejs.org",
@@ -20,6 +20,8 @@
         "nodejs.x86_64                   1:24.14.1-2.module_el9.7.0+222+ef1c61e1                    appstream",
         "nodejs.x86_64                   1:24.14.1-2.module_el9.7.0+222+ef1c61e1                    repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "nodejs.x86_64                   1:24.18.0-1.module_el9.8.0+277+61fc613e                    appstream",
-        "nodejs.x86_64                   1:24.18.0-3.module_el9.8.0+286+9023ffdb                    appstream"
+        "nodejs.x86_64                   1:24.18.0-3.module_el9.8.0+286+9023ffdb                    appstream",
+        "nodejs.x86_64                   1:24.18.0-6.module_el9.8.0+292+f4eaf8b2                    appstream",
+        "nodejs.x86_64                   1:24.19.0-1.module_el9.8.0+301+084fac05                    appstream"
     ]
 }

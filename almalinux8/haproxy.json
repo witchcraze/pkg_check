@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "1.8.27",
-        "Release": "5.el8_10.1",
+        "Release": "5.el8_10.2",
         "Architecture": "x86_64",
         "Size": "1.4 M",
-        "Source": "haproxy-1.8.27-5.el8_10.1.src.rpm",
+        "Source": "haproxy-1.8.27-5.el8_10.2.src.rpm",
         "Repository": "appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -21,6 +21,7 @@
         "haproxy.x86_64                              1.8.27-5.el8                                   repo.almalinux.org_vault_8.7_AppStream_x86_64_os_",
         "haproxy.x86_64                              1.8.27-5.el8                                   repo.almalinux.org_vault_8.8_AppStream_x86_64_os_",
         "haproxy.x86_64                              1.8.27-5.el8                                   repo.almalinux.org_vault_8.9_AppStream_x86_64_os_",
-        "haproxy.x86_64                              1.8.27-5.el8_10.1                              appstream"
+        "haproxy.x86_64                              1.8.27-5.el8_10.1                              appstream",
+        "haproxy.x86_64                              1.8.27-5.el8_10.2                              appstream"
     ]
 }

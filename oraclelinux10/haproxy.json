@@ -2,10 +2,10 @@
     "info": {
         "Name": "haproxy",
         "Version": "3.0.5",
-        "Release": "6.el10_2.1",
+        "Release": "6.el10_2.2",
         "Architecture": "x86_64",
         "Size": "2.7 M",
-        "Source": "haproxy-3.0.5-6.el10_2.1.src.rpm",
+        "Source": "haproxy-3.0.5-6.el10_2.2.src.rpm",
         "Repository": "ol10_appstream",
         "Summary": "HAProxy reverse proxy for high availability environments",
         "URL": "http://www.haproxy.org/",
@@ -20,6 +20,8 @@
         "haproxy.src                                                   3.0.5-6.el10                                                    ol10_appstream",
         "haproxy.x86_64                                                3.0.5-6.el10                                                    ol10_appstream",
         "haproxy.src                                                   3.0.5-6.el10_2.1                                                ol10_appstream",
-        "haproxy.x86_64                                                3.0.5-6.el10_2.1                                                ol10_appstream"
+        "haproxy.x86_64                                                3.0.5-6.el10_2.1                                                ol10_appstream",
+        "haproxy.src                                                   3.0.5-6.el10_2.2                                                ol10_appstream",
+        "haproxy.x86_64                                                3.0.5-6.el10_2.2                                                ol10_appstream"
     ]
 }

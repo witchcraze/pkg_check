@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.37",
-        "Release": "65.0.1.module+el8.10.0+90969+a6381771.8",
+        "Release": "65.0.1.module+el8.10.0+91023+3994037c.8",
         "Architecture": "x86_64",
         "Size": "1.4 M",
-        "Source": "httpd-2.4.37-65.0.1.module+el8.10.0+90969+a6381771.8.src.rpm",
+        "Source": "httpd-2.4.37-65.0.1.module+el8.10.0+91023+3994037c.8.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -51,6 +51,7 @@
         "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+90740+3332f30e.7                                   ol8_appstream",
         "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+90899+db89cbcc.7                                   ol8_appstream",
         "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+90909+2fc0e3ca.8                                   ol8_appstream",
-        "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+90969+a6381771.8                                   ol8_appstream"
+        "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+90969+a6381771.8                                   ol8_appstream",
+        "httpd.x86_64                                  2.4.37-65.0.1.module+el8.10.0+91023+3994037c.8                                   ol8_appstream"
     ]
 }

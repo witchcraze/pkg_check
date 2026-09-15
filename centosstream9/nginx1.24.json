@@ -19,6 +19,7 @@
         "nginx.x86_64            1:1.24.0-7.module_el9+1340+77d2f868            appstream"
     ],
     "kojiPackages": [
+        "nginx-1.24.0-9.module_el9+1439+f3d1c70f",
         "nginx-1.24.0-8.module_el9+1390+14282ef1",
         "nginx-1.24.0-7.module_el9+1363+809e9872",
         "nginx-1.24.0-7.module_el9+1340+77d2f868",

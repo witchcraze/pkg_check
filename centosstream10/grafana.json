@@ -20,6 +20,7 @@
         "grafana.x86_64                     12.4.3-2.el10                       appstream"
     ],
     "kojiPackages": [
+        "grafana-12.4.3-3.el10,draft_126112",
         "grafana-12.4.3-2.el10",
         "grafana-12.4.3-2.el10,draft_118345",
         "grafana-12.4.3-2.el10,draft_118034",

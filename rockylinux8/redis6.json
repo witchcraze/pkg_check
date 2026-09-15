@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "redis",
-        "Version": "6.2.22",
-        "Release": "1.module+el8.10.0+40211+0d1d5c90",
+        "Version": "6.2.24",
+        "Release": "1.module+el8.10.0+40313+282db117",
         "Architecture": "x86_64",
         "Size": "1.2 M",
-        "Source": "redis-6.2.22-1.module+el8.10.0+40211+0d1d5c90.src.rpm",
+        "Source": "redis-6.2.24-1.module+el8.10.0+40313+282db117.src.rpm",
         "Repository": "appstream",
         "Summary": "A persistent key-value database",
         "URL": "https://redis.io",
@@ -26,6 +26,7 @@
         "redis.x86_64                 6.2.18-1.module+el8.10.0+1980+8f0924a4                   appstream",
         "redis.x86_64                 6.2.19-1.module+el8.10.0+2013+383ef3e1                   appstream",
         "redis.x86_64                 6.2.20-1.module+el8.10.0+2081+450a296c                   appstream",
-        "redis.x86_64                 6.2.22-1.module+el8.10.0+40211+0d1d5c90                  appstream"
+        "redis.x86_64                 6.2.22-1.module+el8.10.0+40211+0d1d5c90                  appstream",
+        "redis.x86_64                 6.2.24-1.module+el8.10.0+40313+282db117                  appstream"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.5.5-1ubuntu3.3",
+        "Version": "3.5.5-1ubuntu3.5",
         "Priority": "important",
         "Section": "utils",
         "Origin": "Ubuntu",
@@ -19,10 +19,12 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/resolute-updates,resolute-security,now 3.5.5-1ubuntu3.3 amd64 [installed,automatic]",
+        "openssl/resolute-updates,resolute-security,now 3.5.5-1ubuntu3.5 amd64 [installed,automatic]",
         "openssl/resolute 3.5.5-1ubuntu3 amd64"
     ],
     "changelog": [
+        "openssl (3.5.5-1ubuntu3.5) resolute-security; urgency=medium",
+        "openssl (3.5.5-1ubuntu3.4) resolute-security; urgency=medium",
         "openssl (3.5.5-1ubuntu3.3) resolute-security; urgency=medium",
         "openssl (3.5.5-1ubuntu3.2) resolute-security; urgency=medium",
         "openssl (3.5.5-1ubuntu3) resolute; urgency=medium",
@@ -395,6 +397,8 @@
         "ssleay (0.6.4-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "3.5.5-1ubuntu3.5",
+        "3.5.5-1ubuntu3.4",
         "3.5.5-1ubuntu3.3",
         "3.5.5-1ubuntu3.2",
         "3.5.5-1ubuntu3",

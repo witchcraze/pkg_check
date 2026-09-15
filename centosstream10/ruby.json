@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "ruby",
-        "Version": "3.3.10",
-        "Release": "13.el10",
+        "Version": "3.3.12",
+        "Release": "14.el10",
         "Architecture": "x86_64",
         "Size": "38 k",
-        "Source": "ruby-3.3.10-13.el10.src.rpm",
+        "Source": "ruby-3.3.12-14.el10.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -13,14 +13,14 @@
         "Description": "Ruby is the interpreted scripting language for quick and easy"
     },
     "list": [
-        "ruby.x86_64                       3.3.7-9.el10                         appstream",
         "ruby.x86_64                       3.3.8-10.el10                        appstream",
         "ruby.x86_64                       3.3.10-11.el10                       appstream",
         "ruby.x86_64                       3.3.10-12.el10                       appstream",
-        "ruby.x86_64                       3.3.10-13.el10                       appstream"
+        "ruby.x86_64                       3.3.10-13.el10                       appstream",
+        "ruby.x86_64                       3.3.12-14.el10                       appstream"
     ],
     "kojiPackages": [
-        "ruby-3.3.12-14.el10,draft_124170",
+        "ruby-3.3.12-14.el10",
         "ruby-3.3.12-14.el10,draft_124171",
         "ruby-3.3.10-13.el10",
         "ruby-3.3.10-13.el10,draft_118340",

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.14",
-        "Version": "3.14.5",
-        "Release": "1.el10_2.1",
+        "Version": "3.14.7",
+        "Release": "2.el10_2",
         "Architecture": "x86_64",
         "Size": "28 k",
-        "Source": "python3.14-3.14.5-1.el10_2.1.src.rpm",
+        "Source": "python3.14-3.14.7-2.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -15,6 +15,7 @@
     "list": [
         "python3.14.x86_64                                                3.14.4-2.el10_2                                                   appstream",
         "python3.14.x86_64                                                3.14.5-1.el10_2                                                   appstream",
-        "python3.14.x86_64                                                3.14.5-1.el10_2.1                                                 appstream"
+        "python3.14.x86_64                                                3.14.5-1.el10_2.1                                                 appstream",
+        "python3.14.x86_64                                                3.14.7-2.el10_2                                                   appstream"
     ]
 }

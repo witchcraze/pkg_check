@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "8.0.30",
-        "Release": "6.el9_8",
+        "Release": "8.el9_8",
         "Architecture": "x86_64",
-        "Size": "9.2 k",
-        "Source": "php-8.0.30-6.el9_8.src.rpm",
+        "Size": "9.6 k",
+        "Source": "php-8.0.30-8.el9_8.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -27,6 +27,7 @@
         "php.x86_64                                 8.0.30-4.el9_7                                  repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "php.x86_64                                 8.0.30-5.el9_7                                  appstream",
         "php.x86_64                                 8.0.30-5.el9_7                                  repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
-        "php.x86_64                                 8.0.30-6.el9_8                                  appstream"
+        "php.x86_64                                 8.0.30-6.el9_8                                  appstream",
+        "php.x86_64                                 8.0.30-8.el9_8                                  appstream"
     ]
 }

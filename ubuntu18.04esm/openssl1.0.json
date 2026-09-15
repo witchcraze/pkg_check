@@ -1,12 +1,12 @@
 {
     "show": {
         "Package": "openssl1.0",
-        "Version": "1.0.2n-1ubuntu5.13+esm5",
+        "Version": "1.0.2n-1ubuntu5.13+esm6",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>",
-        "Installed-Size": "852 kB",
+        "Installed-Size": "853 kB",
         "Depends": "libc6 (>= 2.15), libssl1.0.0 (>= 1.0.2g), perl:any",
         "Suggests": "ca-certificates",
         "Download-Size": "419 kB",
@@ -14,11 +14,12 @@
         "Description": "Secure Sockets Layer toolkit 1.0 - cryptographic utility"
     },
     "list": [
-        "openssl1.0/bionic-infra-security 1.0.2n-1ubuntu5.13+esm5 amd64",
+        "openssl1.0/bionic-infra-security 1.0.2n-1ubuntu5.13+esm6 amd64",
         "openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.13 amd64",
         "openssl1.0/bionic 1.0.2n-1ubuntu5 amd64"
     ],
     "changelog": [
+        "openssl1.0 (1.0.2n-1ubuntu5.13+esm6) bionic-security; urgency=medium",
         "openssl1.0 (1.0.2n-1ubuntu5.13+esm5) bionic-security; urgency=medium",
         "openssl1.0 (1.0.2n-1ubuntu5.13+esm4) bionic-security; urgency=medium",
         "openssl1.0 (1.0.2n-1ubuntu5.13+esm3) bionic-security; urgency=medium",

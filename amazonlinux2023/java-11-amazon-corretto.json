@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-11-amazon-corretto",
         "Epoch": "1",
-        "Version": "11.0.31+11",
+        "Version": "11.0.32+9",
         "Release": "1.amzn2023",
         "Architecture": "x86_64",
         "Size": "196 k",
-        "Source": "java-11-amazon-corretto-11.0.31+11-1.amzn2023.src.rpm",
+        "Source": "java-11-amazon-corretto-11.0.32+9-1.amzn2023.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Amazon Corretto development environment",
         "URL": "https://github.com/corretto/corretto-11",
@@ -28,6 +28,7 @@
         "java-11-amazon-corretto.x86_64        1:11.0.28+6-1.amzn2023         amazonlinux",
         "java-11-amazon-corretto.x86_64        1:11.0.29+7-1.amzn2023         amazonlinux",
         "java-11-amazon-corretto.x86_64        1:11.0.30+7-1.amzn2023         amazonlinux",
-        "java-11-amazon-corretto.x86_64        1:11.0.31+11-1.amzn2023        amazonlinux"
+        "java-11-amazon-corretto.x86_64        1:11.0.31+11-1.amzn2023        amazonlinux",
+        "java-11-amazon-corretto.x86_64        1:11.0.32+9-1.amzn2023         amazonlinux"
     ]
 }

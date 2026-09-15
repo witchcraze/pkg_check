@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.28.3-2ubuntu1.8",
+        "Version": "1.28.3-2ubuntu1.10",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -10,7 +10,7 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "1627 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.28.3-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.3-2ubuntu1.8)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), nginx-common (= 1.28.3-2ubuntu1.10)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
@@ -19,10 +19,12 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/resolute-updates,resolute-security 1.28.3-2ubuntu1.8 amd64",
+        "nginx/resolute-updates,resolute-security 1.28.3-2ubuntu1.10 amd64",
         "nginx/resolute 1.28.3-2ubuntu1 amd64"
     ],
     "changelog": [
+        "nginx (1.28.3-2ubuntu1.10) resolute-security; urgency=medium",
+        "nginx (1.28.3-2ubuntu1.9) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.8) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.7) resolute-security; urgency=medium",
         "nginx (1.28.3-2ubuntu1.6) resolute-security; urgency=medium",
@@ -363,6 +365,8 @@
         "nginx (0.4.2-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.28.3-2ubuntu1.10",
+        "1.28.3-2ubuntu1.9",
         "1.28.3-2ubuntu1.8",
         "1.28.3-2ubuntu1.7",
         "1.28.3-2ubuntu1.6",

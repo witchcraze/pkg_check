@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php",
-        "Version": "8.2.32",
-        "Release": "1.module+el9.8.0+24509+ccb2f649",
+        "Version": "8.2.33",
+        "Release": "1.module+el9.8.0+24630+45254c6a",
         "Architecture": "x86_64",
         "Size": "11 k",
-        "Source": "php-8.2.32-1.module+el9.8.0+24509+ccb2f649.src.rpm",
+        "Source": "php-8.2.33-1.module+el9.8.0+24630+45254c6a.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -18,6 +18,7 @@
         "php.x86_64                              8.2.28-1.module+el9.6.0+23063+43495379                              rhel-9-for-x86_64-appstream-rpms",
         "php.x86_64                              8.2.30-1.module+el9.7.0+23849+7b831f17                              rhel-9-for-x86_64-appstream-rpms",
         "php.x86_64                              8.2.31-1.module+el9.8.0+24325+74f58d38                              rhel-9-for-x86_64-appstream-rpms",
-        "php.x86_64                              8.2.32-1.module+el9.8.0+24509+ccb2f649                              rhel-9-for-x86_64-appstream-rpms"
+        "php.x86_64                              8.2.32-1.module+el9.8.0+24509+ccb2f649                              rhel-9-for-x86_64-appstream-rpms",
+        "php.x86_64                              8.2.33-1.module+el9.8.0+24630+45254c6a                              rhel-9-for-x86_64-appstream-rpms"
     ]
 }

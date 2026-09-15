@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "memcached",
-        "Version": "1.6.40-1ubuntu0.1",
+        "Version": "1.6.40-1ubuntu0.2",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -12,15 +12,16 @@
         "Depends": "adduser, perl, perl:any, libc6 (>= 2.38), libevent-2.1-7t64 (>= 2.1.8-stable), liblua5.4-0 (>= 5.4.6), libsasl2-2 (>= 2.1.28+dfsg1), libssl3t64 (>= 3.0.0)",
         "Suggests": "libanyevent-perl, libcache-memcached-perl, libmemcached, liburi-perl, libterm-readkey-perl, libyaml-perl",
         "Homepage": "https://memcached.org/",
-        "Download-Size": "296 kB",
+        "Download-Size": "297 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
     "list": [
-        "memcached/resolute-updates,resolute-security 1.6.40-1ubuntu0.1 amd64",
+        "memcached/resolute-updates,resolute-security 1.6.40-1ubuntu0.2 amd64",
         "memcached/resolute 1.6.40-1 amd64"
     ],
     "changelog": [
+        "memcached (1.6.40-1ubuntu0.2) resolute-security; urgency=medium",
         "memcached (1.6.40-1ubuntu0.1) resolute-security; urgency=medium",
         "memcached (1.6.40-1) unstable; urgency=medium",
         "memcached (1.6.39-2) unstable; urgency=medium",
@@ -124,6 +125,7 @@
         "memcached (1.1.9-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.6.40-1ubuntu0.2",
         "1.6.40-1ubuntu0.1",
         "1.6.40-1",
         "1.6.39-2",

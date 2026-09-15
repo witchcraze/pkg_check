@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "mysql-server",
-        "Version": "8.4.9",
-        "Release": "1.module+el9.8.0+24348+9b27f387",
+        "Version": "8.4.11",
+        "Release": "1.module+el9.8.0+24663+27effc5a",
         "Architecture": "x86_64",
         "Size": "18 M",
-        "Source": "mysql-8.4.9-1.module+el9.8.0+24348+9b27f387.src.rpm",
+        "Source": "mysql-8.4.11-1.module+el9.8.0+24663+27effc5a.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The MySQL server and related files",
         "URL": "http://www.mysql.com",
@@ -13,11 +13,12 @@
         "Description": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a"
     },
     "list": [
-        "mysql-server.x86_64                          8.4.4-1.module+el9.6.0+22752+33a21c2c                          rhel-9-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                          8.4.6-1.module+el9.6.0+23497+d0c5dcca                          rhel-9-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                          8.4.7-1.module+el9.7.0+23698+51fa9c99                          rhel-9-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                          8.4.8-1.module+el9.7.0+24088+36dcab8d                          rhel-9-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                          8.4.8-1.module+el9.8.0+24087+0776bd36                          rhel-9-for-x86_64-appstream-rpms",
-        "mysql-server.x86_64                          8.4.9-1.module+el9.8.0+24348+9b27f387                          rhel-9-for-x86_64-appstream-rpms"
+        "mysql-server.x86_64                         8.4.4-1.module+el9.6.0+22752+33a21c2c                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.6-1.module+el9.6.0+23497+d0c5dcca                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.7-1.module+el9.7.0+23698+51fa9c99                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.8-1.module+el9.7.0+24088+36dcab8d                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.8-1.module+el9.8.0+24087+0776bd36                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.9-1.module+el9.8.0+24348+9b27f387                           rhel-9-for-x86_64-appstream-rpms",
+        "mysql-server.x86_64                         8.4.11-1.module+el9.8.0+24663+27effc5a                          rhel-9-for-x86_64-appstream-rpms"
     ]
 }

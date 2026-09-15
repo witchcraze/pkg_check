@@ -2,10 +2,10 @@
     "info": {
         "Name": "python3.14",
         "Version": "3.14.6",
-        "Release": "1.amzn2023.0.2",
+        "Release": "1.amzn2023.0.3",
         "Architecture": "x86_64",
         "Size": "30 k",
-        "Source": "python3.14-3.14.6-1.amzn2023.0.2.src.rpm",
+        "Source": "python3.14-3.14.6-1.amzn2023.0.3.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Version 3.14 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -19,6 +19,7 @@
         "python3.14.x86_64               3.14.4-2.amzn2023.0.1                amazonlinux",
         "python3.14.x86_64               3.14.5-1.amzn2023.0.1                amazonlinux",
         "python3.14.x86_64               3.14.6-1.amzn2023.0.1                amazonlinux",
-        "python3.14.x86_64               3.14.6-1.amzn2023.0.2                amazonlinux"
+        "python3.14.x86_64               3.14.6-1.amzn2023.0.2                amazonlinux",
+        "python3.14.x86_64               3.14.6-1.amzn2023.0.3                amazonlinux"
     ]
 }

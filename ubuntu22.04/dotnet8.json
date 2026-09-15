@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.129-8.0.29-0ubuntu1~22.04.1",
+        "Version": "8.0.131-8.0.31-0ubuntu1~22.04.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
@@ -16,9 +16,11 @@
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/jammy-updates,jammy-security 8.0.129-8.0.29-0ubuntu1~22.04.1 amd64"
+        "dotnet8/jammy-updates,jammy-security 8.0.131-8.0.31-0ubuntu1~22.04.1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.131-8.0.31-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet8 (8.0.130-8.0.30-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet8 (8.0.129-8.0.29-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet8 (8.0.128-8.0.28-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet8 (8.0.127-8.0.27-0ubuntu1~22.04.1) jammy-security; urgency=medium",
@@ -54,6 +56,8 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
+        "8.0.131-8.0.31-0ubuntu1~22.04.1",
+        "8.0.130-8.0.30-0ubuntu1~22.04.1",
         "8.0.129-8.0.29-0ubuntu1~22.04.1",
         "8.0.128-8.0.28-0ubuntu1~22.04.1",
         "8.0.127-8.0.27-0ubuntu1~22.04.1",

@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "memcached",
-        "Version": "1.6.24-1ubuntu0.1",
+        "Version": "1.6.24-1ubuntu0.2",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -18,10 +18,11 @@
         "Description": "High-performance in-memory object caching system"
     },
     "list": [
-        "memcached/noble-updates,noble-security 1.6.24-1ubuntu0.1 amd64",
+        "memcached/noble-updates,noble-security 1.6.24-1ubuntu0.2 amd64",
         "memcached/noble 1.6.24-1build3 amd64"
     ],
     "changelog": [
+        "memcached (1.6.24-1ubuntu0.2) noble-security; urgency=medium",
         "memcached (1.6.24-1ubuntu0.1) noble-security; urgency=medium",
         "memcached (1.6.24-1build3) noble; urgency=medium",
         "memcached (1.6.24-1build2) noble; urgency=medium",
@@ -110,6 +111,7 @@
         "memcached (1.1.9-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.6.24-1ubuntu0.2",
         "1.6.24-1ubuntu0.1",
         "1.6.24-1build3",
         "1.6.24-1build2",

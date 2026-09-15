@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-25-openjdk",
         "Epoch": "1",
-        "Version": "25.0.4.0.7",
-        "Release": "1.1.el10_2.alma.1",
+        "Version": "25.0.4.1.1",
+        "Release": "1.1.el10.alma.1",
         "Architecture": "x86_64",
         "Size": "390 k",
-        "Source": "java-25-openjdk-25.0.4.0.7-1.1.el10_2.alma.1.src.rpm",
+        "Source": "java-25-openjdk-25.0.4.1.1-1.1.el10.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "OpenJDK 25 Runtime Environment",
         "URL": "http://openjdk.java.net/",
@@ -21,6 +21,7 @@
         "java-25-openjdk.x86_64                   1:25.0.2.0.10-4.el10_2                           repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
         "java-25-openjdk.x86_64                   1:25.0.3.0.9-1.el10_2                            appstream",
         "java-25-openjdk.x86_64                   1:25.0.3.0.9-1.el10_2                            repo.almalinux.org_vault_10.1_AppStream_x86_64_os_",
-        "java-25-openjdk.x86_64                   1:25.0.4.0.7-1.1.el10_2.alma.1                   appstream"
+        "java-25-openjdk.x86_64                   1:25.0.4.0.7-1.1.el10_2.alma.1                   appstream",
+        "java-25-openjdk.x86_64                   1:25.0.4.1.1-1.1.el10.alma.1                     appstream"
     ]
 }

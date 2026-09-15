@@ -2,8 +2,8 @@
     "info": {
         "Name": "nodejs",
         "Epoch": "1",
-        "Version": "24.18.0",
-        "Release": "3.module+el9.8.0+90974+83075495",
+        "Version": "24.19.0",
+        "Release": "1.module+el9.8.0+91009+5d530ccd",
         "Architecture": "src",
         "Size": "99 M",
         "Source": "None",
@@ -83,12 +83,16 @@
         "nodejs.src                                       1:22.22.2-1.module+el9.7.0+90867+2ede48fe                                     ol9_appstream",
         "nodejs.src                                       1:22.23.1-1.module+el9.8.0+90947+d3e8e647                                     ol9_appstream",
         "nodejs.src                                       1:22.23.1-2.module+el9.8.0+90973+e42b55e7                                     ol9_appstream",
+        "nodejs.src                                       1:22.23.1-3.module+el9.8.0+90991+73acc950                                     ol9_appstream",
+        "nodejs.src                                       1:22.23.2-1.module+el9.8.0+91010+e0f4f255                                     ol9_appstream",
         "nodejs.src                                       1:24.4.1-6.module+el9.7.0+90686+6eedad4d                                      ol9_appstream",
         "nodejs.src                                       1:24.4.1-7.module+el9.7.0+90708+1a6713ab                                      ol9_appstream",
         "nodejs.src                                       1:24.11.1-2.module+el9.7.0+90730+edf704f1                                     ol9_appstream",
         "nodejs.src                                       1:24.13.0-1.module+el9.7.0+90805+68a1aa93                                     ol9_appstream",
         "nodejs.src                                       1:24.14.1-2.module+el9.7.0+90866+5a953a4c                                     ol9_appstream",
         "nodejs.src                                       1:24.18.0-1.module+el9.8.0+90946+13dc792a                                     ol9_appstream",
-        "nodejs.src                                       1:24.18.0-3.module+el9.8.0+90974+83075495                                     ol9_appstream"
+        "nodejs.src                                       1:24.18.0-3.module+el9.8.0+90974+83075495                                     ol9_appstream",
+        "nodejs.src                                       1:24.18.0-6.module+el9.8.0+90993+075b4fd6                                     ol9_appstream",
+        "nodejs.src                                       1:24.19.0-1.module+el9.8.0+91009+5d530ccd                                     ol9_appstream"
     ]
 }

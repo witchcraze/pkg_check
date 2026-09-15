@@ -2,10 +2,10 @@
     "info": {
         "Name": "php",
         "Version": "7.4.33",
-        "Release": "5.module_el8.10.0+4243+1ccf9ea1",
+        "Release": "6.module_el8.10.0+4266+b824362a",
         "Architecture": "x86_64",
         "Size": "1.5 M",
-        "Source": "php-7.4.33-5.module_el8.10.0+4243+1ccf9ea1.src.rpm",
+        "Source": "php-7.4.33-6.module_el8.10.0+4266+b824362a.src.rpm",
         "Repository": "appstream",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -26,6 +26,7 @@
         "php.x86_64                     7.4.33-2.module_el8.10.0+3935+28808425                      appstream",
         "php.x86_64                     7.4.33-3.module_el8.10.0+4114+3b36c618                      appstream",
         "php.x86_64                     7.4.33-4.module_el8.10.0+4209+2ed16ff0                      appstream",
-        "php.x86_64                     7.4.33-5.module_el8.10.0+4243+1ccf9ea1                      appstream"
+        "php.x86_64                     7.4.33-5.module_el8.10.0+4243+1ccf9ea1                      appstream",
+        "php.x86_64                     7.4.33-6.module_el8.10.0+4266+b824362a                      appstream"
     ]
 }
