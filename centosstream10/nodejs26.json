@@ -17,7 +17,12 @@
         "nodejs26.x86_64                    1:26.1.0-1.el10                     appstream"
     ],
     "kojiPackages": [
-        "nodejs26-26.1.0-2.el10,draft_129159",
+        "nodejs26-26.8.2-1.el10,draft_129599",
+        "nodejs26-26.8.2-1.el10,draft_129598",
+        "nodejs26-26.8.2-2.el10,draft_129582",
+        "nodejs26-26.8.2-1.el10,draft_129580",
+        "nodejs26-26.8.2-1.el10,draft_129577",
+        "nodejs26-26.1.0-2.el10",
         "nodejs26-26.1.0-2.el10,draft_129158",
         "nodejs26-26.1.0-2.el10,draft_129157",
         "nodejs26-26.1.0-2.el10,draft_128964",
