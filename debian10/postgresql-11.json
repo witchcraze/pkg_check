@@ -13,7 +13,7 @@
         "Homepage": "http://www.postgresql.org/",
         "Postgresql-Catversion": "201809051",
         "Download-Size": "14.2 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "object-relational SQL database, version 11 server"
     },
     "list": [

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "15.18",
-        "Release": "1.module+el9.8.0+24358+32c5830e",
+        "Version": "15.19",
+        "Release": "1.module+el9.8.0+24800+a95bf172",
         "Architecture": "x86_64",
-        "Size": "1.7 M",
-        "Source": "postgresql-15.18-1.module+el9.8.0+24358+32c5830e.src.rpm",
+        "Size": "1.8 M",
+        "Source": "postgresql-15.19-1.module+el9.8.0+24800+a95bf172.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -25,6 +25,7 @@
         "postgresql.x86_64                          15.15-2.module+el9.7.0+23785+f55bffc9                            rhel-9-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          15.17-1.module+el9.7.0+24029+ef6a2953                            rhel-9-for-x86_64-appstream-rpms",
         "postgresql.x86_64                          15.17-1.module+el9.8.0+24095+a0df6700                            rhel-9-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                          15.18-1.module+el9.8.0+24358+32c5830e                            rhel-9-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                          15.18-1.module+el9.8.0+24358+32c5830e                            rhel-9-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                          15.19-1.module+el9.8.0+24800+a95bf172                            rhel-9-for-x86_64-appstream-rpms"
     ]
 }

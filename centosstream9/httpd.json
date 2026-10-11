@@ -2,10 +2,10 @@
     "info": {
         "Name": "httpd",
         "Version": "2.4.62",
-        "Release": "15.el9",
+        "Release": "17.el9",
         "Architecture": "x86_64",
-        "Size": "47 k",
-        "Source": "httpd-2.4.62-15.el9.src.rpm",
+        "Size": "48 k",
+        "Source": "httpd-2.4.62-17.el9.src.rpm",
         "Repository": "appstream",
         "Summary": "Apache HTTP Server",
         "URL": "https://httpd.apache.org/",
@@ -13,14 +13,19 @@
         "Description": "The Apache HTTP Server is a powerful, efficient, and extensible"
     },
     "list": [
-        "httpd.x86_64                       2.4.62-10.el9                       appstream",
-        "httpd.x86_64                       2.4.62-12.el9                       appstream",
         "httpd.x86_64                       2.4.62-13.el9                       appstream",
         "httpd.x86_64                       2.4.62-14.el9                       appstream",
-        "httpd.x86_64                       2.4.62-15.el9                       appstream"
+        "httpd.x86_64                       2.4.62-15.el9                       appstream",
+        "httpd.x86_64                       2.4.62-16.el9                       appstream",
+        "httpd.x86_64                       2.4.62-17.el9                       appstream"
     ],
     "kojiPackages": [
-        "httpd-2.4.62-16.el9,draft_125905",
+        "httpd-2.4.62-19.el9,draft_131588",
+        "httpd-2.4.62-18.el9,draft_131587",
+        "httpd-2.4.62-18.el9,draft_131527",
+        "httpd-2.4.62-17.el9",
+        "httpd-2.4.62-16.el9,draft_130405",
+        "httpd-2.4.62-16.el9",
         "httpd-2.4.62-15.el9",
         "httpd-2.4.62-15.el9,draft_125075",
         "httpd-2.4.62-15.el9,draft_118829",

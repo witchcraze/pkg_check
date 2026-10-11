@@ -18,7 +18,7 @@
         "Tag": "interface::daemon, network::server, network::service, protocol::ftp,",
         "protocol": "ip, protocol::ipv6, role::program, uitoolkit::ncurses",
         "Download-Size": "2652 kB",
-        "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian buster/main amd64 Packages",
         "Description": "Versatile, virtual-hosting FTP daemon - binaries"
     },
     "list": [

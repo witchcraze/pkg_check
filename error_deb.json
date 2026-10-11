@@ -1,99 +1,26 @@
 {
     "debian": {
-        "11": {
-            "apache2": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "bind9": [
-                "apt-get changelog",
-                "changelog.Debian.gz",
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "docker.io": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "haproxy": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "mariadb-server-10.5": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "memcached": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "nginx": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "nodejs": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "openjdk-11-jdk": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "openjdk-17-jdk": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "perl": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "php7.4": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "postgresql-13": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "proftpd-basic": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "python3-django": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "python3.9": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "redis-server": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "ruby2.7": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "squid": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "tomcat9": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ],
-            "varnish": [
-                "apt-get changelog",
-                "changelog.Debian.gz"
-            ]
-        },
         "12": {
             "bind9": [
                 "apt-get changelog",
                 "apt-get changelog"
             ],
+            "memcached": [
+                "apt-get changelog"
+            ],
+            "nginx": [
+                "apt-get changelog"
+            ],
+            "nodejs": [
+                "apt-get changelog"
+            ],
             "openjdk-17-jdk": [
+                "apt-get changelog"
+            ],
+            "openssl": [
+                "apt-get changelog"
+            ],
+            "perl": [
                 "apt-get changelog"
             ],
             "php8.2": [
@@ -103,6 +30,9 @@
                 "apt-get changelog"
             ],
             "python3-django": [
+                "apt-get changelog"
+            ],
+            "python3.11": [
                 "apt-get changelog"
             ],
             "redis-server": [

@@ -130,6 +130,7 @@
         "dotnet.x86_64                            10.0.108-1.0.1.el8_10                                                                 ol8_appstream",
         "dotnet.x86_64                            10.0.109-1.0.1.el8_10                                                                 ol8_appstream",
         "dotnet.x86_64                            10.0.110-1.0.1.el8_10                                                                 ol8_appstream",
-        "dotnet.x86_64                            10.0.111-1.0.1.el8_10                                                                 ol8_appstream"
+        "dotnet.x86_64                            10.0.111-1.0.1.el8_10                                                                 ol8_appstream",
+        "dotnet.x86_64                            10.0.112-1.0.1.el8_10                                                                 ol8_appstream"
     ]
 }

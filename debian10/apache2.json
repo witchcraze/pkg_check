@@ -16,7 +16,7 @@
         "Replaces": "apache2.2-bin, apache2.2-common, libapache2-mod-proxy-uwsgi (<< 2.4.33)",
         "Homepage": "https://httpd.apache.org/",
         "Download-Size": "283 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [

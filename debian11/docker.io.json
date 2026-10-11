@@ -14,12 +14,12 @@
         "Conflicts": "docker-ce, docker-ce-cli, docker-ce-rootless-extras",
         "Homepage": "https://mobyproject.org",
         "Download-Size": "36.8 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Linux container runtime"
     },
     "list": [
         "docker.io/oldoldstable-security 20.10.5+dfsg1-1+deb11u4 amd64",
-        "docker.io/oldoldstable 20.10.5+dfsg1-1+deb11u2 amd64"
+        "docker.io/oldstable 20.10.5+dfsg1-1+deb11u2 amd64"
     ],
     "changelog": [
         "docker.io (20.10.5+dfsg1-1+deb11u4) bullseye-security; urgency=medium",

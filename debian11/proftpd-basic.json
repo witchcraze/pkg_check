@@ -10,12 +10,12 @@
         "Depends": "proftpd-core, proftpd-mod-wrap, proftpd-mod-crypto",
         "Homepage": "http://www.proftpd.org/",
         "Download-Size": "492 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Transitional dummy package for ProFTPD"
     },
     "list": [
         "proftpd-basic/oldoldstable-security 1.3.7a+dfsg-12+deb11u5 all",
-        "proftpd-basic/oldoldstable 1.3.7a+dfsg-12+deb11u2 all"
+        "proftpd-basic/oldstable 1.3.7a+dfsg-12+deb11u2 all"
     ],
     "changelog": [
         "proftpd-dfsg (1.3.7a+dfsg-12+deb11u5) bullseye-security; urgency=high",

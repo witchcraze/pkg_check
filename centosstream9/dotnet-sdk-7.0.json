@@ -20,6 +20,10 @@
         "dotnet-sdk-7.0.x86_64                  7.0.118-2.el9                   appstream"
     ],
     "kojiPackages": [
+        "dotnet7.0-7.0.119-3.el9,draft_130481",
+        "dotnet7.0-7.0.119-3.el9,draft_130392",
+        "dotnet7.0-7.0.119-3.el9,draft_130386",
+        "dotnet7.0-7.0.119-3.el9,draft_129891",
         "dotnet7.0-7.0.119-3.el9,draft_129690",
         "dotnet7.0-7.0.119-3.el9,draft_129312",
         "dotnet7.0-7.0.119-3.el9,draft_129304",

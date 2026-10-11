@@ -3,10 +3,10 @@
         "Name": "bind",
         "Epoch": "32",
         "Version": "9.16.23",
-        "Release": "40.el9_8.8",
+        "Release": "40.el9_8.10",
         "Architecture": "x86_64",
         "Size": "490 k",
-        "Source": "bind-9.16.23-40.el9_8.8.src.rpm",
+        "Source": "bind-9.16.23-40.el9_8.10.src.rpm",
         "Repository": "appstream",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -30,6 +30,8 @@
         "bind.x86_64                          32:9.16.23-34.el9_7.2                            dl.rockylinux.org_vault_rocky_9.7_AppStream_x86_64_os_",
         "bind.x86_64                          32:9.16.23-40.el9_8.1                            appstream",
         "bind.x86_64                          32:9.16.23-40.el9_8.2                            appstream",
-        "bind.x86_64                          32:9.16.23-40.el9_8.8                            appstream"
+        "bind.x86_64                          32:9.16.23-40.el9_8.8                            appstream",
+        "bind.x86_64                          32:9.16.23-40.el9_8.9                            appstream",
+        "bind.x86_64                          32:9.16.23-40.el9_8.10                           appstream"
     ]
 }

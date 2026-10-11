@@ -15,8 +15,8 @@
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
+        "redis-server/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.2 amd64",
         "redis-server/jammy-apps-security 5:6.0.16-1ubuntu1.1+esm1 amd64",
-        "redis-server/jammy-updates,jammy-security 5:6.0.16-1ubuntu1.1 amd64",
         "redis-server/jammy 5:6.0.16-1ubuntu1 amd64"
     ],
     "changelog": [

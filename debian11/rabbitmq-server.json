@@ -10,11 +10,11 @@
         "Homepage": "https://www.rabbitmq.com/",
         "Tag": "implemented-in::TODO, network::server, role::program",
         "Download-Size": "15.1 MB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian bullseye/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "list": [
-        "rabbitmq-server/oldoldstable,oldoldstable-security 3.8.9-3+deb11u1 all"
+        "rabbitmq-server/oldstable,oldoldstable-security 3.8.9-3+deb11u1 all"
     ],
     "changelog": [
         "rabbitmq-server (3.8.9-3+deb11u1) bullseye-security; urgency=medium",

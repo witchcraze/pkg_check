@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql-server",
-        "Version": "15.18",
-        "Release": "1.module_el9.8.0+267+7c71b4a4",
+        "Version": "15.19",
+        "Release": "1.module_el9.8.0+318+764e137c",
         "Architecture": "x86_64",
-        "Size": "6.2 M",
-        "Source": "postgresql-15.18-1.module_el9.8.0+267+7c71b4a4.src.rpm",
+        "Size": "6.3 M",
+        "Source": "postgresql-15.19-1.module_el9.8.0+318+764e137c.src.rpm",
         "Repository": "appstream",
         "Summary": "The programs needed to create and run a PostgreSQL server",
         "URL": "http://www.postgresql.org/",
@@ -29,6 +29,7 @@
         "postgresql-server.x86_64                15.15-2.module_el9.7.0+203+960b74c0                repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "postgresql-server.x86_64                15.17-1.module_el9.7.0+214+91f631df                appstream",
         "postgresql-server.x86_64                15.17-1.module_el9.7.0+214+91f631df                repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
-        "postgresql-server.x86_64                15.18-1.module_el9.8.0+267+7c71b4a4                appstream"
+        "postgresql-server.x86_64                15.18-1.module_el9.8.0+267+7c71b4a4                appstream",
+        "postgresql-server.x86_64                15.19-1.module_el9.8.0+318+764e137c                appstream"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.14",
+        "Version": "16.15",
         "Release": "1.el10_2",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "postgresql16-16.14-1.el10_2.src.rpm",
+        "Source": "postgresql16-16.15-1.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -20,6 +20,7 @@
         "postgresql.x86_64                                      16.11-1.el10_1                                      rhel-10-for-x86_64-appstream-rpms",
         "postgresql.x86_64                                      16.13-1.el10_1                                      rhel-10-for-x86_64-appstream-rpms",
         "postgresql.x86_64                                      16.13-1.el10_2                                      rhel-10-for-x86_64-appstream-rpms",
-        "postgresql.x86_64                                      16.14-1.el10_2                                      rhel-10-for-x86_64-appstream-rpms"
+        "postgresql.x86_64                                      16.14-1.el10_2                                      rhel-10-for-x86_64-appstream-rpms",
+        "postgresql.x86_64                                      16.15-1.el10_2                                      rhel-10-for-x86_64-appstream-rpms"
     ]
 }

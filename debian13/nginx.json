@@ -1,13 +1,13 @@
 {
     "show": {
         "Package": "nginx",
-        "Version": "1.26.3-3+deb13u8",
+        "Version": "1.26.3-3+deb13u9",
         "Priority": "optional",
         "Section": "httpd",
         "Maintainer": "Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>",
         "Installed-Size": "1593 kB",
         "Provides": "httpd, httpd-cgi, nginx-abi-1.26.3-1",
-        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.26.3-3+deb13u8)",
+        "Depends": "libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), iproute2, nginx-common (= 1.26.3-3+deb13u9)",
         "Breaks": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Replaces": "nginx-core (<< 1.22.1-6~), nginx-extras (<< 1.22.1-6~), nginx-light (<< 1.22.1-6~)",
         "Homepage": "https://nginx.org",
@@ -16,10 +16,11 @@
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
-        "nginx/stable-security 1.26.3-3+deb13u8 amd64",
+        "nginx/stable-security 1.26.3-3+deb13u9 amd64",
         "nginx/stable 1.26.3-3+deb13u7 amd64"
     ],
     "changelog": [
+        "nginx (1.26.3-3+deb13u9) trixie-security; urgency=medium",
         "nginx (1.26.3-3+deb13u8) trixie-security; urgency=medium",
         "nginx (1.26.3-3+deb13u7) trixie-security; urgency=high",
         "nginx (1.26.3-3+deb13u6) trixie-security; urgency=medium",

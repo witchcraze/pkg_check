@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "7.module_el9.8.0+298+469955e3.4.alma.1",
+        "Release": "7.module_el9.8.0+307+7a7a3a71.5.alma.1",
         "Architecture": "x86_64",
         "Size": "33 k",
-        "Source": "nginx-1.24.0-7.module_el9.8.0+298+469955e3.4.alma.1.src.rpm",
+        "Source": "nginx-1.24.0-7.module_el9.8.0+307+7a7a3a71.5.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -26,6 +26,7 @@
         "nginx.x86_64                1:1.24.0-7.module_el9.8.0+246+ef96a02d.1.alma.1                appstream",
         "nginx.x86_64                1:1.24.0-7.module_el9.8.0+259+a3b861bb.2.alma.1                appstream",
         "nginx.x86_64                1:1.24.0-7.module_el9.8.0+278+b57266e8.3.alma.1                appstream",
-        "nginx.x86_64                1:1.24.0-7.module_el9.8.0+298+469955e3.4.alma.1                appstream"
+        "nginx.x86_64                1:1.24.0-7.module_el9.8.0+298+469955e3.4.alma.1                appstream",
+        "nginx.x86_64                1:1.24.0-7.module_el9.8.0+307+7a7a3a71.5.alma.1                appstream"
     ]
 }

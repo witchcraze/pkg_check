@@ -10,7 +10,7 @@
         "Depends": "libapache2-mod-php7.3 | php7.3-fpm | php7.3-cgi, php7.3-common",
         "Homepage": "http://www.php.net/",
         "Download-Size": "48.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [

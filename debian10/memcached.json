@@ -10,7 +10,7 @@
         "Suggests": "libcache-memcached-perl, libmemcached, libanyevent-perl, libyaml-perl, libterm-readkey-perl",
         "Homepage": "http://www.memcached.org/",
         "Download-Size": "123 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "high-performance memory object caching system"
     },
     "list": [

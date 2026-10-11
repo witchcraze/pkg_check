@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql",
-        "Version": "16.14",
-        "Release": "1.module_el8.10.0+4199+bf03c564",
+        "Version": "16.15",
+        "Release": "1.module_el8.10.0+4286+3c445f53",
         "Architecture": "x86_64",
         "Size": "2.0 M",
-        "Source": "postgresql-16.14-1.module_el8.10.0+4199+bf03c564.src.rpm",
+        "Source": "postgresql-16.15-1.module_el8.10.0+4286+3c445f53.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -20,6 +20,7 @@
         "postgresql.x86_64                                      16.10-1.module_el8.10.0+4038+0fbad93c                                       appstream",
         "postgresql.x86_64                                      16.11-1.module_el8.10.0+4099+381a55d6                                       appstream",
         "postgresql.x86_64                                      16.13-1.module_el8.10.0+4125+ceaf7d1b                                       appstream",
-        "postgresql.x86_64                                      16.14-1.module_el8.10.0+4199+bf03c564                                       appstream"
+        "postgresql.x86_64                                      16.14-1.module_el8.10.0+4199+bf03c564                                       appstream",
+        "postgresql.x86_64                                      16.15-1.module_el8.10.0+4286+3c445f53                                       appstream"
     ]
 }

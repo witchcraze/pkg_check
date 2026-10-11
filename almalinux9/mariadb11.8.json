@@ -3,10 +3,10 @@
         "Name": "mariadb",
         "Epoch": "3",
         "Version": "11.8.8",
-        "Release": "1.module_el9.8.0+274+ad8c02e7",
+        "Release": "1.module_el9.8.0+316+b057ba82.alma.1",
         "Architecture": "x86_64",
         "Size": "2.1 M",
-        "Source": "mariadb-11.8.8-1.module_el9.8.0+274+ad8c02e7.src.rpm",
+        "Source": "mariadb-11.8.8-1.module_el9.8.0+316+b057ba82.alma.1.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -14,7 +14,8 @@
         "Description": "MariaDB is a community developed fork from MySQL - a multi-user, multi-threaded"
     },
     "list": [
-        "mariadb.x86_64                                       3:11.8.6-2.module_el9.8.0+250+9d6fedc5                                        appstream",
-        "mariadb.x86_64                                       3:11.8.8-1.module_el9.8.0+274+ad8c02e7                                        appstream"
+        "mariadb.x86_64                                    3:11.8.6-2.module_el9.8.0+250+9d6fedc5                                           appstream",
+        "mariadb.x86_64                                    3:11.8.8-1.module_el9.8.0+274+ad8c02e7                                           appstream",
+        "mariadb.x86_64                                    3:11.8.8-1.module_el9.8.0+316+b057ba82.alma.1                                    appstream"
     ]
 }

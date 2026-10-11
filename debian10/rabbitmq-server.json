@@ -9,7 +9,7 @@
         "Depends": "adduser, erlang-base | erlang-base-hipe, erlang-crypto (>= 1:22), erlang-eldap (>= 1:22), erlang-inets (>= 1:22), erlang-mnesia (>= 1:22), erlang-os-mon (>= 1:22), erlang-parsetools (>= 1:22), erlang-public-key (>= 1:22), erlang-runtime-tools (>= 1:22), erlang-ssl (>= 1:22), erlang-syntax-tools (>= 1:22), erlang-tools (>= 1:22), erlang-xmerl (>= 1:22), locales-all, logrotate, lsb-base, socat, python3:any",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "11.5 MB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "list": [

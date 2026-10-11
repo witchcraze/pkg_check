@@ -11,7 +11,7 @@
         "Homepage": "https://www.openssl.org/",
         "Download-Size": "855 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [

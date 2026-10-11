@@ -16,7 +16,7 @@
         "network": "server, protocol::ftp, protocol::ssl, role::program,",
         "works-with": "file",
         "Download-Size": "153 kB",
-        "APT-Sources": "http://deb.debian.org/debian buster/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian buster/main amd64 Packages",
         "Description": "lightweight, efficient FTP server written for security"
     },
     "list": [

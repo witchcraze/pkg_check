@@ -61,6 +61,9 @@
             "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-11.0": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-2.1": [
                 "kojiPackages"
             ],

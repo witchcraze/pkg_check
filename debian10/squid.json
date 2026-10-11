@@ -14,7 +14,7 @@
         "Replaces": "squid3",
         "Homepage": "http://www.squid-cache.org",
         "Download-Size": "2645 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Full featured Web Proxy cache (HTTP proxy)"
     },
     "list": [

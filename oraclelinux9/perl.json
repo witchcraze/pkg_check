@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "481.1.el9_6",
+        "Release": "484.el9_8",
         "Architecture": "x86_64",
         "Size": "11 k",
-        "Source": "perl-5.32.1-481.1.el9_6.src.rpm",
+        "Source": "perl-5.32.1-484.el9_8.src.rpm",
         "Repository": "ol9_appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -21,6 +21,8 @@
         "perl.src                                                   4:5.32.1-481.el9                                                    ol9_appstream",
         "perl.x86_64                                                4:5.32.1-481.el9                                                    ol9_appstream",
         "perl.src                                                   4:5.32.1-481.1.el9_6                                                ol9_appstream",
-        "perl.x86_64                                                4:5.32.1-481.1.el9_6                                                ol9_appstream"
+        "perl.x86_64                                                4:5.32.1-481.1.el9_6                                                ol9_appstream",
+        "perl.src                                                   4:5.32.1-484.el9_8                                                  ol9_appstream",
+        "perl.x86_64                                                4:5.32.1-484.el9_8                                                  ol9_appstream"
     ]
 }

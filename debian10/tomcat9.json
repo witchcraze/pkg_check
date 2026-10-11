@@ -11,7 +11,7 @@
         "Suggests": "tomcat9-admin (>= 9.0.31-1~deb10u12), tomcat9-docs (>= 9.0.31-1~deb10u12), tomcat9-examples (>= 9.0.31-1~deb10u12), tomcat9-user (>= 9.0.31-1~deb10u12)",
         "Homepage": "http://tomcat.apache.org",
         "Download-Size": "48.6 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Apache Tomcat 9 - Servlet and JSP engine"
     },
     "list": [

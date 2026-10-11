@@ -1,29 +1,31 @@
 {
     "show": {
         "Package": "openjdk-25-jdk",
-        "Version": "25.0.4+7-1~26.04",
+        "Version": "25.0.4.1+1-1~26.04.4",
         "Priority": "optional",
         "Section": "java",
         "Source": "openjdk-25",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "1843 kB",
+        "Installed-Size": "1847 kB",
         "Provides": "java-compiler, java-sdk (= 25)",
-        "Depends": "openjdk-25-jre (= 25.0.4+7-1~26.04), openjdk-25-jdk-headless (= 25.0.4+7-1~26.04), libc6 (>= 2.34)",
+        "Depends": "openjdk-25-jre (= 25.0.4.1+1-1~26.04.4), openjdk-25-jdk-headless (= 25.0.4.1+1-1~26.04.4), libc6 (>= 2.34)",
         "Recommends": "libxt-dev",
         "Suggests": "openjdk-25-demo, openjdk-25-source, visualvm",
         "Homepage": "https://openjdk.java.net/",
-        "Download-Size": "1786 kB",
+        "Download-Size": "1782 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "OpenJDK Development Kit (JDK)"
     },
     "list": [
-        "openjdk-25-jdk/resolute-updates,resolute-security 25.0.4+7-1~26.04 amd64",
+        "openjdk-25-jdk/resolute-updates,resolute-security 25.0.4.1+1-1~26.04.4 amd64",
         "openjdk-25-jdk/resolute 25.0.3~7ea-2 amd64"
     ],
     "changelog": [
-        "openjdk-25 (25.0.4+7-1~26.04) resolute-security; urgency=medium",
+        "openjdk-25 (25.0.4.1+1-1~26.04.4) resolute-security; urgency=medium",
+        "openjdk-25 (25.0.4.1+1-1) unstable; urgency=medium",
+        "openjdk-25 (25.0.4+7-2) unstable; urgency=medium",
         "openjdk-25 (25.0.4+7-1) unstable; urgency=medium",
         "openjdk-25 (25.0.4~6ea-1) unstable; urgency=medium",
         "openjdk-25 (25.0.4~4ea-1) unstable; urgency=medium",
@@ -613,6 +615,7 @@
         "icedtea (7~b14-20070704-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "25.0.4.1+1-1~26.04.4",
         "25.0.4+7-1~26.04",
         "25.0.3+9-2~26.04.2",
         "25.0.3~7ea-2",

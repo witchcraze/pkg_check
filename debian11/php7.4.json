@@ -10,12 +10,12 @@
         "Depends": "libapache2-mod-php7.4 | php7.4-fpm | php7.4-cgi, php7.4-common",
         "Homepage": "http://www.php.net/",
         "Download-Size": "52.8 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "server-side, HTML-embedded scripting language (metapackage)"
     },
     "list": [
         "php7.4/oldoldstable-security 7.4.33-1+deb11u12 all",
-        "php7.4/oldoldstable 7.4.33-1+deb11u5 all"
+        "php7.4/oldstable 7.4.33-1+deb11u5 all"
     ],
     "changelog": [
         "php7.4 (7.4.33-1+deb11u12) bullseye-security; urgency=high",

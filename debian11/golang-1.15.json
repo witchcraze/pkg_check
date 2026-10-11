@@ -9,11 +9,11 @@
         "Depends": "golang-1.15-doc (>= 1.15.15-1~deb11u4), golang-1.15-go (>= 1.15.15-1~deb11u4), golang-1.15-src (>= 1.15.15-1~deb11u4)",
         "Homepage": "https://golang.org",
         "Download-Size": "27.9 kB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian bullseye/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.15/oldoldstable 1.15.15-1~deb11u4 all"
+        "golang-1.15/oldstable 1.15.15-1~deb11u4 all"
     ],
     "changelog": [
         "golang-1.15 (1.15.15-1~deb11u4) bullseye; urgency=medium",

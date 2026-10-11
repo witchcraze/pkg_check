@@ -9,7 +9,7 @@
         "Depends": "nginx-full (<< 1.14.2-2+deb10u5.1~) | nginx-light (<< 1.14.2-2+deb10u5.1~) | nginx-extras (<< 1.14.2-2+deb10u5.1~), nginx-full (>= 1.14.2-2+deb10u5) | nginx-light (>= 1.14.2-2+deb10u5) | nginx-extras (>= 1.14.2-2+deb10u5)",
         "Homepage": "https://nginx.net",
         "Download-Size": "88.9 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [

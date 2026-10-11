@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:7.0.15-1ubuntu0.24.04.4",
+        "Version": "5:7.0.15-1ubuntu0.24.04.5",
         "Priority": "optional",
         "Section": "universe/misc",
         "Source": "redis",
@@ -11,17 +11,18 @@
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
         "Installed-Size": "187 kB",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "redis-tools (= 5:7.0.15-1ubuntu0.24.04.4), sysvinit-utils",
+        "Depends": "redis-tools (= 5:7.0.15-1ubuntu0.24.04.5), sysvinit-utils",
         "Homepage": "https://redis.io/",
         "Download-Size": "51.7 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
-        "redis-server/noble-updates,noble-security 5:7.0.15-1ubuntu0.24.04.4 amd64",
+        "redis-server/noble-updates,noble-security 5:7.0.15-1ubuntu0.24.04.5 amd64",
         "redis-server/noble 5:7.0.15-1build2 amd64"
     ],
     "changelog": [
+        "redis (5:7.0.15-1ubuntu0.24.04.5) noble-security; urgency=medium",
         "redis (5:7.0.15-1ubuntu0.24.04.4) noble-security; urgency=medium",
         "redis (5:7.0.15-1ubuntu0.24.04.3) noble-security; urgency=medium",
         "redis (5:7.0.15-1ubuntu0.24.04.2) noble-security; urgency=medium",
@@ -285,6 +286,7 @@
         "redis (1.0~beta7-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "5:7.0.15-1ubuntu0.24.04.5",
         "5:7.0.15-1ubuntu0.24.04.4",
         "5:7.0.15-1ubuntu0.24.04.3",
         "5:7.0.15-1ubuntu0.24.04.2",

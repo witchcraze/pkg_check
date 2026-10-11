@@ -11,12 +11,12 @@
         "Suggests": "vim-haproxy, haproxy-doc",
         "Homepage": "http://www.haproxy.org/",
         "Download-Size": "1900 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "fast and reliable load balancing reverse proxy"
     },
     "list": [
         "haproxy/oldoldstable-security 2.2.9-2+deb11u7 amd64",
-        "haproxy/oldoldstable 2.2.9-2+deb11u6 amd64"
+        "haproxy/oldstable 2.2.9-2+deb11u6 amd64"
     ],
     "changelog": [
         "haproxy (2.2.9-2+deb11u7) bullseye-security; urgency=medium",

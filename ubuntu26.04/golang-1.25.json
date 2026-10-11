@@ -284,6 +284,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.25.14-1~ubuntu0.26.04.1",
         "1.25.7-2",
         "1.25.0-0ubuntu2",
         "1.25.0-0ubuntu1"

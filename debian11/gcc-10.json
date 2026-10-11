@@ -13,11 +13,11 @@
         "Replaces": "cpp-10 (<< 7.1.1-8)",
         "Homepage": "http://gcc.gnu.org/",
         "Download-Size": "17.0 MB",
-        "APT-Sources": "http://deb.debian.org/debian bullseye/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian bullseye/main amd64 Packages",
         "Description": "GNU C compiler"
     },
     "list": [
-        "gcc-10/oldoldstable 10.2.1-6 amd64"
+        "gcc-10/oldstable 10.2.1-6 amd64"
     ],
     "changelog": [
         "gcc-10 (10.2.1-6) unstable; urgency=medium",

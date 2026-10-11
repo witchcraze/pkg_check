@@ -11,12 +11,12 @@
         "Depends": "lsb-base (>= 3.2-14), redis-tools (= 5:6.0.16-1+deb11u9)",
         "Homepage": "https://redis.io/",
         "Download-Size": "99.5 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
         "redis-server/oldoldstable-security 5:6.0.16-1+deb11u9 amd64",
-        "redis-server/oldoldstable 5:6.0.16-1+deb11u2 amd64"
+        "redis-server/oldstable 5:6.0.16-1+deb11u2 amd64"
     ],
     "changelog": [
         "redis (5:6.0.16-1+deb11u9) bullseye-security; urgency=high",

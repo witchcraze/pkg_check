@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "3.0.7",
-        "Release": "167.el9_8",
+        "Release": "168.el9_8",
         "Architecture": "x86_64",
         "Size": "44 k",
-        "Source": "ruby-3.0.7-167.el9_8.src.rpm",
+        "Source": "ruby-3.0.7-168.el9_8.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -28,6 +28,8 @@
         "ruby.i686                                           3.0.7-166.el9_7                                         rhel-9-for-x86_64-appstream-rpms",
         "ruby.x86_64                                         3.0.7-166.el9_7                                         rhel-9-for-x86_64-appstream-rpms",
         "ruby.i686                                           3.0.7-167.el9_8                                         rhel-9-for-x86_64-appstream-rpms",
-        "ruby.x86_64                                         3.0.7-167.el9_8                                         rhel-9-for-x86_64-appstream-rpms"
+        "ruby.x86_64                                         3.0.7-167.el9_8                                         rhel-9-for-x86_64-appstream-rpms",
+        "ruby.i686                                           3.0.7-168.el9_8                                         rhel-9-for-x86_64-appstream-rpms",
+        "ruby.x86_64                                         3.0.7-168.el9_8                                         rhel-9-for-x86_64-appstream-rpms"
     ]
 }

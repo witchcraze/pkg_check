@@ -9,12 +9,12 @@
         "Depends": "nginx-core (<< 1.18.0-6.1+deb11u8.1~) | nginx-full (<< 1.18.0-6.1+deb11u8.1~) | nginx-light (<< 1.18.0-6.1+deb11u8.1~) | nginx-extras (<< 1.18.0-6.1+deb11u8.1~), nginx-core (>= 1.18.0-6.1+deb11u8) | nginx-full (>= 1.18.0-6.1+deb11u8) | nginx-light (>= 1.18.0-6.1+deb11u8) | nginx-extras (>= 1.18.0-6.1+deb11u8)",
         "Homepage": "https://nginx.net",
         "Download-Size": "94.2 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "small, powerful, scalable web/proxy server"
     },
     "list": [
         "nginx/oldoldstable-security 1.18.0-6.1+deb11u8 all",
-        "nginx/oldoldstable 1.18.0-6.1+deb11u3 all"
+        "nginx/oldstable 1.18.0-6.1+deb11u3 all"
     ],
     "changelog": [
         "nginx (1.18.0-6.1+deb11u8) bullseye-security; urgency=medium",

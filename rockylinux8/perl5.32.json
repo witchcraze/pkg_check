@@ -3,10 +3,10 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "474.module+el8.10.0+40155+64ce2d41",
+        "Release": "475.module+el8.10.0+40316+ee3cfc74",
         "Architecture": "x86_64",
         "Size": "94 k",
-        "Source": "perl-5.32.1-474.module+el8.10.0+40155+64ce2d41.src.rpm",
+        "Source": "perl-5.32.1-475.module+el8.10.0+40316+ee3cfc74.src.rpm",
         "Repository": "appstream",
         "Summary": "Practical Extraction and Report Language",
         "URL": "https://www.perl.org/",
@@ -19,6 +19,7 @@
         "perl.x86_64                4:5.32.1-472.module+el8.8.0+1134+a197a740                  dl.rockylinux.org_vault_rocky_8.8_AppStream_x86_64_os_",
         "perl.x86_64                4:5.32.1-472.module+el8.8.0+1134+a197a740                  dl.rockylinux.org_vault_rocky_8.9_AppStream_x86_64_os_",
         "perl.x86_64                4:5.32.1-473.module+el8.10.0+1616+0d20cc68                 appstream",
-        "perl.x86_64                4:5.32.1-474.module+el8.10.0+40155+64ce2d41                appstream"
+        "perl.x86_64                4:5.32.1-474.module+el8.10.0+40155+64ce2d41                appstream",
+        "perl.x86_64                4:5.32.1-475.module+el8.10.0+40316+ee3cfc74                appstream"
     ]
 }

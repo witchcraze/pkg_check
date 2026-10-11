@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "rabbitmq-server",
-        "Version": "4.0.5-10ubuntu5",
+        "Version": "4.0.5-10ubuntu5.1",
         "Priority": "extra",
         "Section": "net",
         "Origin": "Ubuntu",
@@ -13,13 +13,15 @@
         "Recommends": "logrotate",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "16.8 MB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "list": [
+        "rabbitmq-server/resolute-updates,resolute-security 4.0.5-10ubuntu5.1 all",
         "rabbitmq-server/resolute 4.0.5-10ubuntu5 all"
     ],
     "changelog": [
+        "rabbitmq-server (4.0.5-10ubuntu5.1) resolute-security; urgency=medium",
         "rabbitmq-server (4.0.5-10ubuntu5) resolute; urgency=medium",
         "rabbitmq-server (4.0.5-10ubuntu4) resolute; urgency=medium",
         "rabbitmq-server (4.0.5-10ubuntu3) resolute; urgency=medium",
@@ -142,6 +144,7 @@
         "rabbitmq-server (1.5.0-1) testing; urgency=low"
     ],
     "publishinghistory": [
+        "4.0.5-10ubuntu5.1",
         "4.0.5-10ubuntu5",
         "4.0.5-10ubuntu4",
         "4.0.5-10ubuntu3",

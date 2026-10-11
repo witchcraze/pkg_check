@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "memcached",
-        "Version": "1.6.24-1ubuntu0.2",
+        "Version": "1.6.24-1ubuntu0.3",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
@@ -13,15 +13,16 @@
         "Depends": "adduser, lsb-base, perl, perl:any, libc6 (>= 2.38), libevent-2.1-7t64 (>= 2.1.8-stable), libsasl2-2 (>= 2.1.28+dfsg1), libssl3t64 (>= 3.0.0)",
         "Suggests": "libanyevent-perl, libcache-memcached-perl, libmemcached, libterm-readkey-perl, libyaml-perl",
         "Homepage": "https://memcached.org/",
-        "Download-Size": "213 kB",
+        "Download-Size": "214 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
     "list": [
-        "memcached/noble-updates,noble-security 1.6.24-1ubuntu0.2 amd64",
+        "memcached/noble-updates,noble-security 1.6.24-1ubuntu0.3 amd64",
         "memcached/noble 1.6.24-1build3 amd64"
     ],
     "changelog": [
+        "memcached (1.6.24-1ubuntu0.3) noble-security; urgency=medium",
         "memcached (1.6.24-1ubuntu0.2) noble-security; urgency=medium",
         "memcached (1.6.24-1ubuntu0.1) noble-security; urgency=medium",
         "memcached (1.6.24-1build3) noble; urgency=medium",
@@ -111,6 +112,7 @@
         "memcached (1.1.9-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.6.24-1ubuntu0.3",
         "1.6.24-1ubuntu0.2",
         "1.6.24-1ubuntu0.1",
         "1.6.24-1build3",

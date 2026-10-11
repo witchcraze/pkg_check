@@ -13,7 +13,7 @@
         "Replaces": "nodejs-legacy",
         "Homepage": "http://nodejs.org/",
         "Download-Size": "88.4 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [

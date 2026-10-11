@@ -9,7 +9,7 @@
         "Depends": "golang-1.11-doc (>= 1.11.6-1+deb10u7), golang-1.11-go (>= 1.11.6-1+deb10u7), golang-1.11-src (>= 1.11.6-1+deb10u7)",
         "Homepage": "https://golang.org",
         "Download-Size": "25.1 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [

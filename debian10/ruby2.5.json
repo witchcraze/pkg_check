@@ -10,7 +10,7 @@
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "http://www.ruby-lang.org/",
         "Download-Size": "401 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [

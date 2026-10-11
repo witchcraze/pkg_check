@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "python3.12",
-        "Version": "3.12.14",
-        "Release": "1.el8_10",
+        "Version": "3.12.15",
+        "Release": "2.el8_10",
         "Architecture": "x86_64",
-        "Size": "31 k",
-        "Source": "python3.12-3.12.14-1.el8_10.src.rpm",
+        "Size": "32 k",
+        "Source": "python3.12-3.12.15-2.el8_10.src.rpm",
         "Repository": "ol8_appstream",
         "Summary": "Version 3.12 of the Python interpreter",
         "URL": "https://www.python.org/",
@@ -42,6 +42,10 @@
         "python3.12.src                                                  3.12.13-3.el8_10                                               ol8_appstream",
         "python3.12.x86_64                                               3.12.13-3.el8_10                                               ol8_appstream",
         "python3.12.src                                                  3.12.14-1.el8_10                                               ol8_appstream",
-        "python3.12.x86_64                                               3.12.14-1.el8_10                                               ol8_appstream"
+        "python3.12.x86_64                                               3.12.14-1.el8_10                                               ol8_appstream",
+        "python3.12.src                                                  3.12.14-2.el8_10                                               ol8_appstream",
+        "python3.12.x86_64                                               3.12.14-2.el8_10                                               ol8_appstream",
+        "python3.12.src                                                  3.12.15-2.el8_10                                               ol8_appstream",
+        "python3.12.x86_64                                               3.12.15-2.el8_10                                               ol8_appstream"
     ]
 }

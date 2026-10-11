@@ -11,12 +11,12 @@
         "Homepage": "https://www.openssl.org/",
         "Download-Size": "860 kB",
         "APT-Manual-Installed": "no",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
         "openssl/oldoldstable-security,now 1.1.1w-0+deb11u8 amd64 [installed,automatic]",
-        "openssl/oldoldstable 1.1.1w-0+deb11u1 amd64"
+        "openssl/oldstable 1.1.1w-0+deb11u1 amd64"
     ],
     "changelog": [
         "openssl (1.1.1w-0+deb11u8) bullseye-security; urgency=medium",

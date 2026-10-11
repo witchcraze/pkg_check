@@ -15,12 +15,12 @@
         "Replaces": "nodejs-legacy",
         "Homepage": "https://nodejs.org/",
         "Download-Size": "150 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "evented I/O for V8 javascript - runtime executable"
     },
     "list": [
         "nodejs/oldoldstable-security 12.22.12~dfsg-1~deb11u8 amd64",
-        "nodejs/oldoldstable 12.22.12~dfsg-1~deb11u4 amd64"
+        "nodejs/oldstable 12.22.12~dfsg-1~deb11u4 amd64"
     ],
     "changelog": [
         "nodejs (12.22.12~dfsg-1~deb11u8) bullseye-security; urgency=high",

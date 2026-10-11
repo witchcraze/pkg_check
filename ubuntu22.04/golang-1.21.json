@@ -1,24 +1,25 @@
 {
     "show": {
         "Package": "golang-1.21",
-        "Version": "1.21.1-1~ubuntu22.04.3",
+        "Version": "1.21.1-1~ubuntu22.04.4",
         "Priority": "optional",
         "Section": "universe/golang",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Go Compiler Team <team+go-compiler@tracker.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "44.0 kB",
-        "Depends": "golang-1.21-doc (>= 1.21.1-1~ubuntu22.04.3), golang-1.21-go (>= 1.21.1-1~ubuntu22.04.3), golang-1.21-src (>= 1.21.1-1~ubuntu22.04.3)",
+        "Installed-Size": "45.1 kB",
+        "Depends": "golang-1.21-doc (>= 1.21.1-1~ubuntu22.04.4), golang-1.21-go (>= 1.21.1-1~ubuntu22.04.4), golang-1.21-src (>= 1.21.1-1~ubuntu22.04.4)",
         "Homepage": "https://go.dev/",
-        "Download-Size": "5694 B",
+        "Download-Size": "5700 B",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.21/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.3 all"
+        "golang-1.21/jammy-updates,jammy-security 1.21.1-1~ubuntu22.04.4 all"
     ],
     "changelog": [
+        "golang-1.21 (1.21.1-1~ubuntu22.04.4) jammy-security; urgency=medium",
         "golang-1.21 (1.21.1-1~ubuntu22.04.3) jammy-security; urgency=medium",
         "golang-1.21 (1.21.1-1~ubuntu22.04.2) jammy-security; urgency=medium",
         "golang-1.21 (1.21.1-1~ubuntu22.04.1) jammy; urgency=medium",
@@ -244,6 +245,7 @@
         "golang (2011.02.01.1-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "1.21.1-1~ubuntu22.04.4",
         "1.21.1-1~ubuntu22.04.3",
         "1.21.1-1~ubuntu22.04.2",
         "1.21.1-1~ubuntu22.04.1"

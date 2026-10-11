@@ -12,7 +12,7 @@
         "Replaces": "libvarnishapi1 (<< 3.0.0-5)",
         "Homepage": "https://www.varnish-cache.org/",
         "Download-Size": "854 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "state of the art, high-performance web accelerator"
     },
     "list": [

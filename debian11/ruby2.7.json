@@ -10,12 +10,12 @@
         "Recommends": "fonts-lato, libjs-jquery",
         "Homepage": "https://www.ruby-lang.org/",
         "Download-Size": "749 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Interpreter of object-oriented scripting language Ruby"
     },
     "list": [
         "ruby2.7/oldoldstable-security 2.7.4-1+deb11u6 amd64",
-        "ruby2.7/oldoldstable 2.7.4-1+deb11u1 amd64"
+        "ruby2.7/oldstable 2.7.4-1+deb11u1 amd64"
     ],
     "changelog": [
         "ruby2.7 (2.7.4-1+deb11u6) bullseye-security; urgency=high",

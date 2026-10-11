@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "postgresql18",
-        "Version": "18.4",
+        "Version": "18.6",
         "Release": "1.el10_2",
         "Architecture": "x86_64",
-        "Size": "2.0 M",
-        "Source": "postgresql18-18.4-1.el10_2.src.rpm",
+        "Size": "2.1 M",
+        "Source": "postgresql18-18.6-1.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "PostgreSQL client programs",
         "URL": "http://www.postgresql.org/",
@@ -14,6 +14,7 @@
     },
     "list": [
         "postgresql18.x86_64                                                 18.3-1.el10_2                                                  appstream",
-        "postgresql18.x86_64                                                 18.4-1.el10_2                                                  appstream"
+        "postgresql18.x86_64                                                 18.4-1.el10_2                                                  appstream",
+        "postgresql18.x86_64                                                 18.6-1.el10_2                                                  appstream"
     ]
 }

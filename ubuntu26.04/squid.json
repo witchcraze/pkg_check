@@ -240,6 +240,7 @@
         "squid3 (3.0.PRE3.20060422-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "7.7-0ubuntu0.26.04.1",
         "7.2-2ubuntu2.2",
         "7.2-2ubuntu2",
         "7.2-2ubuntu1",

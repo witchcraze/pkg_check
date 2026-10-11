@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby4.0",
         "Version": "4.0.6",
-        "Release": "36.el10_2",
+        "Release": "37.el10_2",
         "Architecture": "x86_64",
-        "Size": "7.7 M",
-        "Source": "ruby4.0-4.0.6-36.el10_2.src.rpm",
+        "Size": "8.3 M",
+        "Source": "ruby4.0-4.0.6-37.el10_2.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -16,6 +16,7 @@
         "ruby4.0.x86_64                                                   4.0.1-33.el10                                                     appstream",
         "ruby4.0.x86_64                                                   4.0.3-34.el10_2                                                   appstream",
         "ruby4.0.x86_64                                                   4.0.3-35.el10_2                                                   appstream",
-        "ruby4.0.x86_64                                                   4.0.6-36.el10_2                                                   appstream"
+        "ruby4.0.x86_64                                                   4.0.6-36.el10_2                                                   appstream",
+        "ruby4.0.x86_64                                                   4.0.6-37.el10_2                                                   appstream"
     ]
 }

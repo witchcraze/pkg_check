@@ -17,12 +17,12 @@
         "Replaces": "mariadb-galera-server, mariadb-galera-server-10.0, mariadb-galera-server-5.5, mariadb-server-10.0, mariadb-server-10.1, mariadb-server-10.2, mariadb-server-10.3, mariadb-server-10.4, mariadb-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-10.1, mariadb-tokudb-engine-5.5, mysql-client-5.5, mysql-client-5.7, mysql-client-core-8.0, mysql-server-5.5, mysql-server-5.6, mysql-server-5.7, mysql-server-8.0, virtual-mysql-server",
         "Homepage": "https://mariadb.org/",
         "Download-Size": "4307 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
     "list": [
         "mariadb-server-10.5/oldoldstable-security 1:10.5.29-0+deb11u1 amd64",
-        "mariadb-server-10.5/oldoldstable 1:10.5.23-0+deb11u1 amd64"
+        "mariadb-server-10.5/oldstable 1:10.5.23-0+deb11u1 amd64"
     ],
     "changelog": [
         "mariadb-10.5 (1:10.5.29-0+deb11u1) bullseye-security; urgency=medium",

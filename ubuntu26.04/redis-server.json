@@ -1,7 +1,7 @@
 {
     "show": {
         "Package": "redis-server",
-        "Version": "5:8.0.5-1",
+        "Version": "5:8.0.5-1ubuntu0.1",
         "Priority": "optional",
         "Section": "universe/misc",
         "Source": "redis",
@@ -9,18 +9,19 @@
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Chris Lamb <lamby@debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "181 kB",
-        "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "redis-tools (= 5:8.0.5-1)",
+        "Installed-Size": "177 kB",
+        "Depends": "redis-tools (= 5:8.0.5-1ubuntu0.1)",
         "Homepage": "https://redis.io/",
         "Download-Size": "53.2 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 Packages",
         "Description": "Persistent key-value database with network interface"
     },
     "list": [
+        "redis-server/resolute-updates,resolute-security 5:8.0.5-1ubuntu0.1 amd64",
         "redis-server/resolute 5:8.0.5-1 amd64"
     ],
     "changelog": [
+        "redis (5:8.0.5-1ubuntu0.1) resolute-security; urgency=medium",
         "redis (5:8.0.5-1) unstable; urgency=medium",
         "redis (5:8.0.4-1) unstable; urgency=medium",
         "redis (5:8.0.2-3) unstable; urgency=medium",
@@ -303,6 +304,7 @@
         "redis (1.0~beta7-1) experimental; urgency=low"
     ],
     "publishinghistory": [
+        "5:8.0.5-1ubuntu0.1",
         "5:8.0.5-1",
         "5:8.0.2-3ubuntu0.25.10.1",
         "5:8.0.2-3build1"

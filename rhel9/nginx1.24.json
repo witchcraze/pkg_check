@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "7.module+el9.8.0+24626+085354fc.4",
+        "Release": "7.module+el9.8.0+24846+e7eec568.5",
         "Architecture": "x86_64",
-        "Size": "40 k",
-        "Source": "nginx-1.24.0-7.module+el9.8.0+24626+085354fc.4.src.rpm",
+        "Size": "41 k",
+        "Source": "nginx-1.24.0-7.module+el9.8.0+24846+e7eec568.5.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "https://nginx.org",
@@ -24,6 +24,7 @@
         "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24289+833e4c02.1                           rhel-9-for-x86_64-appstream-rpms",
         "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24379+0344c460.2                           rhel-9-for-x86_64-appstream-rpms",
         "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24502+c9b9ab67.3                           rhel-9-for-x86_64-appstream-rpms",
-        "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24626+085354fc.4                           rhel-9-for-x86_64-appstream-rpms"
+        "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24626+085354fc.4                           rhel-9-for-x86_64-appstream-rpms",
+        "nginx.x86_64                           1:1.24.0-7.module+el9.8.0+24846+e7eec568.5                           rhel-9-for-x86_64-appstream-rpms"
     ]
 }

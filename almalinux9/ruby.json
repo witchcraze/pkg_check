@@ -2,10 +2,10 @@
     "info": {
         "Name": "ruby",
         "Version": "3.0.7",
-        "Release": "167.el9_8",
+        "Release": "168.el9_8",
         "Architecture": "x86_64",
-        "Size": "37 k",
-        "Source": "ruby-3.0.7-167.el9_8.src.rpm",
+        "Size": "38 k",
+        "Source": "ruby-3.0.7-168.el9_8.src.rpm",
         "Repository": "appstream",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -42,6 +42,8 @@
         "ruby.x86_64                                3.0.7-166.el9_7                                 appstream",
         "ruby.x86_64                                3.0.7-166.el9_7                                 repo.almalinux.org_vault_9.7_AppStream_x86_64_os_",
         "ruby.i686                                  3.0.7-167.el9_8                                 appstream",
-        "ruby.x86_64                                3.0.7-167.el9_8                                 appstream"
+        "ruby.x86_64                                3.0.7-167.el9_8                                 appstream",
+        "ruby.i686                                  3.0.7-168.el9_8                                 appstream",
+        "ruby.x86_64                                3.0.7-168.el9_8                                 appstream"
     ]
 }

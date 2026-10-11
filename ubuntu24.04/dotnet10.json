@@ -45,6 +45,7 @@
         "dotnet10 (10.0.100-10.0.0~preview2-0ubuntu1~24.04.1~ppa1) noble; urgency=medium"
     ],
     "publishinghistory": [
+        "10.0.112-10.0.12-0ubuntu2~24.04.1",
         "10.0.112-10.0.12-0ubuntu1~24.04.1",
         "10.0.111-10.0.11-0ubuntu1~24.04.1",
         "10.0.110-10.0.10-0ubuntu1~24.04.1",

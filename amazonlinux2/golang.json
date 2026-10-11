@@ -2,7 +2,7 @@
     "info": {
         "Name": "golang",
         "Arch": "x86_64",
-        "Version": "1.26.7",
+        "Version": "1.26.8",
         "Release": "1.amzn2.0.1",
         "Size": "766 k",
         "Repo": "amzn2-core/2/x86_64",
@@ -65,6 +65,7 @@
         "golang.x86_64                                                 1.25.10-1.amzn2.0.1                                                 amzn2-core",
         "golang.x86_64                                                 1.25.11-1.amzn2.0.1                                                 amzn2-core",
         "golang.x86_64                                                 1.25.12-1.amzn2.0.1                                                 amzn2-core",
-        "golang.x86_64                                                 1.26.7-1.amzn2.0.1                                                  amzn2-core"
+        "golang.x86_64                                                 1.26.7-1.amzn2.0.1                                                  amzn2-core",
+        "golang.x86_64                                                 1.26.8-1.amzn2.0.1                                                  amzn2-core"
     ]
 }

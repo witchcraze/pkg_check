@@ -16,12 +16,12 @@
         "Replaces": "perl-base (<< 5.32.0-2), perl-modules (<< 5.22.0~)",
         "Homepage": "http://dev.perl.org/perl5/",
         "Download-Size": "294 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
         "perl/oldoldstable-security 5.32.1-4+deb11u5 amd64",
-        "perl/oldoldstable 5.32.1-4+deb11u3 amd64"
+        "perl/oldstable 5.32.1-4+deb11u3 amd64"
     ],
     "changelog": [
         "perl (5.32.1-4+deb11u5) bullseye-security; urgency=high",

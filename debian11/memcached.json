@@ -11,12 +11,12 @@
         "Suggests": "libanyevent-perl, libcache-memcached-perl, libmemcached, libterm-readkey-perl, libyaml-perl",
         "Homepage": "https://memcached.org/",
         "Download-Size": "169 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security bullseye-security/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security bullseye-security/main amd64 Packages",
         "Description": "High-performance in-memory object caching system"
     },
     "list": [
         "memcached/oldoldstable-security 1.6.9+dfsg-1+deb11u1 amd64",
-        "memcached/oldoldstable 1.6.9+dfsg-1 amd64"
+        "memcached/oldstable 1.6.9+dfsg-1 amd64"
     ],
     "changelog": [
         "memcached (1.6.9+dfsg-1+deb11u1) bullseye-security; urgency=high",

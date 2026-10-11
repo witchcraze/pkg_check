@@ -3,10 +3,10 @@
         "Name": "nginx",
         "Epoch": "1",
         "Version": "1.24.0",
-        "Release": "3.module+el8.10.0+40298+8ed65491.4",
+        "Release": "3.module+el8.10.0+40318+42d32d22.5",
         "Architecture": "x86_64",
-        "Size": "602 k",
-        "Source": "nginx-1.24.0-3.module+el8.10.0+40298+8ed65491.4.src.rpm",
+        "Size": "603 k",
+        "Source": "nginx-1.24.0-3.module+el8.10.0+40318+42d32d22.5.src.rpm",
         "Repository": "appstream",
         "Summary": "A high performance web server and reverse proxy server",
         "URL": "http://nginx.org/",
@@ -20,6 +20,7 @@
         "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40187+52bedf24.1                                      appstream",
         "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40220+e6a4bcb0.2                                      appstream",
         "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40249+a5ea815d.3                                      appstream",
-        "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40298+8ed65491.4                                      appstream"
+        "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40298+8ed65491.4                                      appstream",
+        "nginx.x86_64                                      1:1.24.0-3.module+el8.10.0+40318+42d32d22.5                                      appstream"
     ]
 }

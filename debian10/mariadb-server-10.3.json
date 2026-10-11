@@ -17,7 +17,7 @@
         "Replaces": "mariadb-galera-server, mariadb-galera-server-10.0, mariadb-galera-server-5.5, mariadb-server-10.0, mariadb-server-10.1, mariadb-server-10.2, mariadb-server-5.5, mariadb-tokudb-engine-10.0, mariadb-tokudb-engine-10.1, mariadb-tokudb-engine-5.5, mysql-client-5.5, mysql-server-5.5, mysql-server-5.6, mysql-server-5.7, virtual-mysql-server",
         "Homepage": "https://mariadb.org/",
         "Download-Size": "4219 kB",
-        "APT-Sources": "http://deb.debian.org/debian-security buster/updates/main amd64 Packages",
+        "APT-Sources": "http://archive.debian.org/debian-security buster/updates/main amd64 Packages",
         "Description": "MariaDB database server binaries"
     },
     "list": [

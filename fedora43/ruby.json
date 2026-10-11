@@ -3,11 +3,11 @@
         "Name": "ruby",
         "Epoch": "0",
         "Version": "3.4.10",
-        "Release": "31.fc43",
+        "Release": "32.fc43",
         "Architecture": "x86_64",
-        "Download size": "39.0 KiB",
+        "Download size": "38.6 KiB",
         "Installed size": "85.3 KiB",
-        "Source": "ruby-3.4.10-31.fc43.src.rpm",
+        "Source": "ruby-3.4.10-32.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "An interpreter of object-oriented scripting language",
         "URL": "https://www.ruby-lang.org/",
@@ -18,7 +18,7 @@
     "list": [
         "ruby.i686   3.4.5-27.fc43  fedora",
         "ruby.x86_64 3.4.5-27.fc43  fedora",
-        "ruby.i686   3.4.10-31.fc43 updates",
-        "ruby.x86_64 3.4.10-31.fc43 updates"
+        "ruby.i686   3.4.10-32.fc43 updates",
+        "ruby.x86_64 3.4.10-32.fc43 updates"
     ]
 }
