@@ -5,6 +5,9 @@
                 "apt-get changelog",
                 "apt-get changelog"
             ],
+            "mariadb-server-10.5": [
+                "apt-get changelog"
+            ],
             "memcached": [
                 "apt-get changelog"
             ],
@@ -39,6 +42,26 @@
                 "apt-get changelog"
             ],
             "squid": [
+                "apt-get changelog"
+            ]
+        }
+    },
+    "ubuntu": {
+        "22.04": {
+            "golang-1.23": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ]
+        },
+        "24.04": {
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ]
+        },
+        "26.04": {
+            "rabbitmq-server": [
                 "apt-get changelog"
             ]
         }

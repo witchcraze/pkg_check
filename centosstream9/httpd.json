@@ -20,6 +20,16 @@
         "httpd.x86_64                       2.4.62-17.el9                       appstream"
     ],
     "kojiPackages": [
+        "httpd-2.4.62-24.el9,draft_132898",
+        "httpd-2.4.62-19.el9,draft_132892",
+        "httpd-2.4.62-22.el9,draft_132886",
+        "httpd-2.4.62-18.el9,draft_132883",
+        "httpd-2.4.62-18.el9,draft_132882",
+        "httpd-2.4.62-18.el9,draft_132880",
+        "httpd-2.4.62-21.el9,draft_132395",
+        "httpd-2.4.62-20.el9,draft_132392",
+        "httpd-2.4.62-18.el9,draft_132375",
+        "httpd-2.4.62-18.el9,draft_132373",
         "httpd-2.4.62-19.el9,draft_131588",
         "httpd-2.4.62-18.el9,draft_131587",
         "httpd-2.4.62-18.el9,draft_131527",

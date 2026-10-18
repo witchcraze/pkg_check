@@ -21,6 +21,7 @@
         "tomcat.noarch                    1:10.1.49-4.el10                      appstream"
     ],
     "kojiPackages": [
+        "tomcat-10.1.49-6.el10,draft_132290",
         "tomcat-10.1.49-6.el10,draft_132103",
         "tomcat-10.1.49-6.el10,draft_131578",
         "tomcat-10.1.49-5.el10",

@@ -21,6 +21,7 @@
         "bind.x86_64                     32:9.16.50-10.el9                      appstream"
     ],
     "kojiPackages": [
+        "bind-9.16.50-11.el9",
         "bind-9.16.50-10.el9",
         "bind-9.16.50-10.el9,draft_128893",
         "bind-9.16.50-9.el9",

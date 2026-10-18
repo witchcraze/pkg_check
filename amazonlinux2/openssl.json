@@ -4,7 +4,7 @@
         "Arch": "x86_64",
         "Epoch": "1",
         "Version": "1.0.2k",
-        "Release": "24.amzn2.0.22",
+        "Release": "24.amzn2.0.23",
         "Size": "499 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Utilities from the general purpose cryptography library with TLS",
@@ -46,6 +46,7 @@
         "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.17                                               amzn2-core",
         "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.20                                               amzn2-core",
         "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.21                                               amzn2-core",
-        "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.22                                               amzn2-core"
+        "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.22                                               amzn2-core",
+        "openssl.x86_64                                               1:1.0.2k-24.amzn2.0.23                                               amzn2-core"
     ]
 }

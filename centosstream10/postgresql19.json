@@ -1,0 +1,24 @@
+{
+    "info": {
+        "Name": "postgresql19",
+        "Version": "19beta4",
+        "Release": "1.el10",
+        "Architecture": "x86_64",
+        "Size": "2.2 M",
+        "Source": "postgresql19-19beta4-1.el10.src.rpm",
+        "Repository": "appstream",
+        "Summary": "PostgreSQL client programs",
+        "URL": "http://www.postgresql.org/",
+        "License": "PostgreSQL",
+        "Description": "PostgreSQL is an advanced Object-Relational database management system (DBMS)."
+    },
+    "list": [
+        "postgresql19.x86_64                   19beta4-1.el10                   appstream"
+    ],
+    "kojiPackages": [
+        "postgresql19-19beta4-1.el10",
+        "postgresql19-19beta4-1.el10,draft_131797",
+        "postgresql19-19beta4-1.el10,draft_131698",
+        "postgresql19-19beta4-1.el10,draft_131691"
+    ]
+}

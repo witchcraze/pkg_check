@@ -3,9 +3,9 @@
         "Name": "openssl11",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.1.1zi",
+        "Version": "1.1.1zj",
         "Release": "1.amzn2.0.1",
-        "Size": "323 k",
+        "Size": "324 k",
         "Repo": "amzn2-core/2/x86_64",
         "Summary": "Utilities from the general purpose cryptography library with TLS",
         "URL": "http://www.openssl.org/",
@@ -42,6 +42,7 @@
         "openssl11.x86_64                                              1:1.1.1zf-1.amzn2.0.1                                               amzn2-core",
         "openssl11.x86_64                                              1:1.1.1zg-1.amzn2.0.1                                               amzn2-core",
         "openssl11.x86_64                                              1:1.1.1zh-1.amzn2.0.1                                               amzn2-core",
-        "openssl11.x86_64                                              1:1.1.1zi-1.amzn2.0.1                                               amzn2-core"
+        "openssl11.x86_64                                              1:1.1.1zi-1.amzn2.0.1                                               amzn2-core",
+        "openssl11.x86_64                                              1:1.1.1zj-1.amzn2.0.1                                               amzn2-core"
     ]
 }

@@ -1,30 +1,32 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.58-1ubuntu8.16",
+        "Version": "2.4.58-1ubuntu8.17",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "467 kB",
+        "Installed-Size": "468 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.58-1ubuntu8.16), apache2-data (= 2.4.58-1ubuntu8.16), apache2-utils (= 2.4.58-1ubuntu8.16), media-types, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.58-1ubuntu8.17), apache2-data (= 2.4.58-1ubuntu8.17), apache2-utils (= 2.4.58-1ubuntu8.17), media-types, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "90.2 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/noble-updates,noble-security 2.4.58-1ubuntu8.16 amd64",
+        "apache2/noble-security 2.4.58-1ubuntu8.17 amd64",
+        "apache2/noble-updates 2.4.58-1ubuntu8.16 amd64",
         "apache2/noble 2.4.58-1ubuntu8 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.58-1ubuntu8.17) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.16) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.15) noble-security; urgency=medium",
         "apache2 (2.4.58-1ubuntu8.13) noble-security; urgency=medium",
@@ -481,6 +483,7 @@
         "apache2 (2.0.18-1) unstable; urgency=low"
     ],
     "publishinghistory": [
+        "2.4.58-1ubuntu8.17",
         "2.4.58-1ubuntu8.16",
         "2.4.58-1ubuntu8.15",
         "2.4.58-1ubuntu8.13",

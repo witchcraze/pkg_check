@@ -1,17 +1,17 @@
 {
     "show": {
         "Package": "apache2",
-        "Version": "2.4.52-1ubuntu4.24",
+        "Version": "2.4.52-1ubuntu4.25",
         "Priority": "optional",
         "Section": "web",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Original-Maintainer": "Debian Apache Maintainers <debian-apache@lists.debian.org>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "550 kB",
+        "Installed-Size": "551 kB",
         "Provides": "httpd, httpd-cgi",
         "Pre-Depends": "init-system-helpers (>= 1.54~)",
-        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.24), apache2-data (= 2.4.52-1ubuntu4.24), apache2-utils (= 2.4.52-1ubuntu4.24), lsb-base, mime-support, perl:any, procps",
+        "Depends": "apache2-bin (= 2.4.52-1ubuntu4.25), apache2-data (= 2.4.52-1ubuntu4.25), apache2-utils (= 2.4.52-1ubuntu4.25), lsb-base, mime-support, perl:any, procps",
         "Recommends": "ssl-cert",
         "Suggests": "apache2-doc, apache2-suexec-pristine | apache2-suexec-custom, www-browser, ufw",
         "Conflicts": "apache2.2-bin, apache2.2-common",
@@ -19,14 +19,16 @@
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "97.9 kB",
-        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
+        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/jammy-updates,jammy-security 2.4.52-1ubuntu4.24 amd64",
+        "apache2/jammy-security 2.4.52-1ubuntu4.25 amd64",
+        "apache2/jammy-updates 2.4.52-1ubuntu4.24 amd64",
         "apache2/jammy 2.4.52-1ubuntu4 amd64"
     ],
     "changelog": [
+        "apache2 (2.4.52-1ubuntu4.25) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.24) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.23) jammy-security; urgency=medium",
         "apache2 (2.4.52-1ubuntu4.21) jammy-security; urgency=medium",

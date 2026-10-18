@@ -21,11 +21,12 @@
         "Homepage": "http://dev.perl.org/perl5/",
         "Task": "server-minimal, print-server, ubuntu-desktop-minimal, lamp-server, ubuntu-desktop, cloud-image, postgresql-server, ubuntu-desktop-raspi, ubuntu-wsl, mail-server, server, ubuntu-server-raspi, kubuntu-desktop, xubuntu-core, xubuntu-desktop, lubuntu-desktop, ubuntustudio-desktop-core, ubuntustudio-desktop, ubuntukylin-desktop, ubuntu-mate-core, ubuntu-mate-desktop, ubuntu-budgie-desktop, ubuntu-budgie-desktop-raspi",
         "Download-Size": "232 kB",
+        "APT-Manual-Installed": "no",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Larry Wall's Practical Extraction and Report Language"
     },
     "list": [
-        "perl/jammy-updates,jammy-security 5.34.0-3ubuntu1.9 amd64",
+        "perl/jammy-updates,jammy-security,now 5.34.0-3ubuntu1.9 amd64 [installed,automatic]",
         "perl/jammy 5.34.0-3ubuntu1 amd64"
     ],
     "changelog": [
