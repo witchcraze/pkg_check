@@ -18,21 +18,5 @@
         "redis.x86_64             7.2.11-2.module_el9+1308+6e340906             appstream",
         "redis.x86_64             7.2.14-1.module_el9+1352+2158ab98             appstream",
         "redis.x86_64             7.2.16-1.module_el9+1406+47d54d2d             appstream"
-    ],
-    "kojiPackages": [
-        "redis-7.2.16-1.module_el9+1406+47d54d2d",
-        "redis-7.2.14-1.module_el9+1352+2158ab98",
-        "redis-7.2.11-2.module_el9+1308+6e340906",
-        "redis-7.2.11-1.module_el9+1278+df234daa",
-        "redis-7.2.10-1.module_el9+1246+f2b5091d",
-        "redis-7.2.8-1.module_el9+1238+4d7b0389",
-        "redis-7.2.7-1.module_el9+1165+9c8b1c7e",
-        "redis-7.2.6-1.module_el9+1118+e94ea093",
-        "redis-7.0.12-2.module_el9+978+267ab8ff",
-        "redis-7.0.12-1.module_el9+499+353c08ce",
-        "redis-7.0.11-1.module_el9+481+6ccf8956",
-        "redis-7.0.11-1.module_el9+476+382b50e0",
-        "redis-7.0.11-1.module_el9+438+77c2566a",
-        "redis-7.0.11-1.module_el9+419+62e6c447"
     ]
 }

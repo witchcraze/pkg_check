@@ -5,6 +5,9 @@
                 "apt-get changelog",
                 "apt-get changelog"
             ],
+            "haproxy": [
+                "apt-get changelog"
+            ],
             "mariadb-server-10.5": [
                 "apt-get changelog"
             ],
@@ -44,24 +47,82 @@
             "squid": [
                 "apt-get changelog"
             ]
+        },
+        "13": {
+            "bind9": [
+                "apt-get changelog",
+                "apt-get changelog"
+            ],
+            "varnish": [
+                "apt-get changelog"
+            ]
         }
     },
     "ubuntu": {
+        "20.04": {
+            "golang-1.22": [
+                "apt-get changelog"
+            ]
+        },
         "22.04": {
+            "dotnet8": [
+                "apt-get changelog"
+            ],
+            "golang-1.22": [
+                "apt-get changelog"
+            ],
             "golang-1.23": [
+                "apt-get changelog"
+            ],
+            "php8.1": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ]
+        },
+        "24.04": {
+            "dotnet10": [
+                "apt-get changelog"
+            ],
+            "dotnet8": [
+                "apt-get changelog"
+            ],
+            "golang-1.22": [
+                "apt-get changelog"
+            ],
+            "php8.3": [
+                "apt-get changelog"
+            ],
+            "rabbitmq-server": [
+                "apt-get changelog"
+            ],
+            "squid": [
+                "apt-get changelog"
+            ]
+        },
+        "26.04": {
+            "dotnet10": [
+                "apt-get changelog"
+            ],
+            "php8.5": [
                 "apt-get changelog"
             ],
             "rabbitmq-server": [
                 "apt-get changelog"
             ]
         },
-        "24.04": {
-            "rabbitmq-server": [
+        "26.10": {
+            "dotnet10": [
                 "apt-get changelog"
-            ]
-        },
-        "26.04": {
-            "rabbitmq-server": [
+            ],
+            "dotnet11": [
+                "apt-get changelog"
+            ],
+            "php8.5": [
                 "apt-get changelog"
             ]
         }

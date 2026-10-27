@@ -2,10 +2,10 @@
     "info": {
         "Name": "gcc",
         "Version": "8.5.0",
-        "Release": "29.el8_10.alma.1",
+        "Release": "30.el8_10.alma.1",
         "Architecture": "x86_64",
         "Size": "23 M",
-        "Source": "gcc-8.5.0-29.el8_10.alma.1.src.rpm",
+        "Source": "gcc-8.5.0-30.el8_10.alma.1.src.rpm",
         "Repository": "baseos",
         "Summary": "Various compilers (C, C++, Objective-C, ...)",
         "URL": "http://gcc.gnu.org",
@@ -33,6 +33,8 @@
         "gcc.x86_64                             8.5.0-28.el8_10.alma.1                              baseos",
         "gcc.x86_64                             8.5.0-28.el8_10.alma.1                              appstream",
         "gcc.x86_64                             8.5.0-29.el8_10.alma.1                              baseos",
-        "gcc.x86_64                             8.5.0-29.el8_10.alma.1                              appstream"
+        "gcc.x86_64                             8.5.0-29.el8_10.alma.1                              appstream",
+        "gcc.x86_64                             8.5.0-30.el8_10.alma.1                              baseos",
+        "gcc.x86_64                             8.5.0-30.el8_10.alma.1                              appstream"
     ]
 }

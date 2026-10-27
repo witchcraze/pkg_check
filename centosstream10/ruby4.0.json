@@ -18,32 +18,5 @@
         "ruby4.0.x86_64                      4.0.3-35.el10                      appstream",
         "ruby4.0.x86_64                      4.0.6-36.el10                      appstream",
         "ruby4.0.x86_64                      4.0.6-37.el10                      appstream"
-    ],
-    "kojiPackages": [
-        "ruby4.0-4.0.6-37.el10",
-        "ruby4.0-4.0.6-37.el10,draft_131335",
-        "ruby4.0-4.0.6-37.el10,draft_129889",
-        "ruby4.0-4.0.6-36.el10",
-        "ruby4.0-4.0.3-35.el10",
-        "ruby4.0-4.0.3-35.el10,draft_118299",
-        "ruby4.0-4.0.3-35.el10,draft_118127",
-        "ruby4.0-4.0.3-34.el10",
-        "ruby4.0-4.0.3-34.el10,draft_112053",
-        "ruby4.0-4.0.3-34.el10,draft_112051",
-        "ruby4.0-4.0.3-34.el10,draft_111989",
-        "ruby4.0-4.0.3-34.el10,draft_111988",
-        "ruby4.0-4.0.3-34.el10,draft_111963",
-        "ruby4.0-4.0.1-33.el10",
-        "ruby4.0-4.0.1-33.el10,draft_97163",
-        "ruby4.0-4.0.1-33.el10,draft_97102",
-        "ruby4.0-4.0.1-33.el10,draft_97100",
-        "ruby4.0-4.0.1-33.el10,draft_96831",
-        "ruby4.0-4.0.1-33.el10,draft_96691",
-        "ruby4.0-4.0.1-33.el10,draft_96677",
-        "ruby4.0-4.0.1-33.el10,draft_96644",
-        "ruby4.0-4.0.1-33.el10,draft_96492",
-        "ruby4.0-4.0.1-33.el10,draft_96475",
-        "ruby4.0-4.0.1-33.el10,draft_96389",
-        "ruby4.0-4.0.1-33.el10,draft_96388"
     ]
 }

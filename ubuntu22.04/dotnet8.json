@@ -1,24 +1,26 @@
 {
     "show": {
         "Package": "dotnet8",
-        "Version": "8.0.131-8.0.31-0ubuntu1~22.04.1",
+        "Version": "8.0.132-8.0.32-0ubuntu1~22.04.1",
         "Priority": "optional",
         "Section": "devel",
         "Origin": "Ubuntu",
         "Maintainer": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
         "Bugs": "https://bugs.launchpad.net/ubuntu/+filebug",
-        "Installed-Size": "203 kB",
+        "Installed-Size": "205 kB",
         "Depends": "dotnet-sdk-8.0",
         "Breaks": "dotnet6 (<< 6.0.111~)",
         "Homepage": "https://dot.net",
-        "Download-Size": "29.1 kB",
+        "Download-Size": "39.0 kB",
         "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": ".NET CLI tools and runtime"
     },
     "list": [
-        "dotnet8/jammy-updates,jammy-security 8.0.131-8.0.31-0ubuntu1~22.04.1 amd64"
+        "dotnet8/jammy-updates,jammy-security 8.0.132-8.0.32-0ubuntu1~22.04.1 amd64"
     ],
     "changelog": [
+        "dotnet8 (8.0.132-8.0.32-0ubuntu1~22.04.1) jammy-security; urgency=medium",
+        "dotnet8 (8.0.131-8.0.31-0ubuntu2~22.04.1) jammy; urgency=medium",
         "dotnet8 (8.0.131-8.0.31-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet8 (8.0.130-8.0.30-0ubuntu1~22.04.1) jammy-security; urgency=medium",
         "dotnet8 (8.0.129-8.0.29-0ubuntu1~22.04.1) jammy-security; urgency=medium",
@@ -56,7 +58,7 @@
         "dotnet8 (8.0.100-8.0.0~rc1-0ubuntu1) mantic; urgency=medium"
     ],
     "publishinghistory": [
-        "8.0.131-8.0.31-0ubuntu2~22.04.1",
+        "8.0.132-8.0.32-0ubuntu1~22.04.1",
         "8.0.131-8.0.31-0ubuntu1~22.04.1",
         "8.0.130-8.0.30-0ubuntu1~22.04.1",
         "8.0.129-8.0.29-0ubuntu1~22.04.1",

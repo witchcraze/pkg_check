@@ -16,12 +16,11 @@
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "102 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu resolute-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/resolute-security 2.4.66-2ubuntu2.6 amd64",
-        "apache2/resolute-updates 2.4.66-2ubuntu2.5 amd64",
+        "apache2/resolute-updates,resolute-security 2.4.66-2ubuntu2.6 amd64",
         "apache2/resolute 2.4.66-2ubuntu2 amd64"
     ],
     "changelog": [

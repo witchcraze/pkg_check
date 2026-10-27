@@ -3,10 +3,10 @@
         "Name": "mariadb11.8",
         "Epoch": "3",
         "Version": "11.8.8",
-        "Release": "1.el10_2.alma.2",
+        "Release": "2.el10_2.alma.2",
         "Architecture": "x86_64",
         "Size": "1.9 M",
-        "Source": "mariadb11.8-11.8.8-1.el10_2.alma.2.src.rpm",
+        "Source": "mariadb11.8-11.8.8-2.el10_2.alma.2.src.rpm",
         "Repository": "appstream",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -16,6 +16,7 @@
     "list": [
         "mariadb11.8.x86_64                                            3:11.8.6-2.el10_2.alma.1                                             appstream",
         "mariadb11.8.x86_64                                            3:11.8.8-1.el10_2                                                    appstream",
-        "mariadb11.8.x86_64                                            3:11.8.8-1.el10_2.alma.2                                             appstream"
+        "mariadb11.8.x86_64                                            3:11.8.8-1.el10_2.alma.2                                             appstream",
+        "mariadb11.8.x86_64                                            3:11.8.8-2.el10_2.alma.2                                             appstream"
     ]
 }

@@ -15,8 +15,5 @@
     },
     "list": [
         "nodejs.x86_64           1:26.8.2-2.module_el9+1444+554f3837            appstream"
-    ],
-    "kojiPackages": [
-        "nodejs-26.8.2-2.module_el9+1444+554f3837"
     ]
 }

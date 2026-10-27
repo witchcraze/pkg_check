@@ -18,8 +18,5 @@
         "postgresql.x86_64                     16.13-2.el10                     appstream",
         "postgresql.x86_64                     16.14-1.el10                     appstream",
         "postgresql.x86_64                     16.14-3.el10                     appstream"
-    ],
-    "kojiPackages": [
-        "postgresql-15.4-2.el10+1"
     ]
 }

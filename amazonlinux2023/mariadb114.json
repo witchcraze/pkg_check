@@ -2,11 +2,11 @@
     "info": {
         "Name": "mariadb114",
         "Epoch": "3",
-        "Version": "11.4.12",
+        "Version": "11.4.13",
         "Release": "1.amzn2023.0.1",
         "Architecture": "x86_64",
         "Size": "1.8 M",
-        "Source": "mariadb114-11.4.12-1.amzn2023.0.1.src.rpm",
+        "Source": "mariadb114-11.4.13-1.amzn2023.0.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "A very fast and robust SQL database server",
         "URL": "http://mariadb.org",
@@ -15,6 +15,7 @@
     },
     "list": [
         "mariadb114.x86_64              3:11.4.10-1.amzn2023.0.1              amazonlinux",
-        "mariadb114.x86_64              3:11.4.12-1.amzn2023.0.1              amazonlinux"
+        "mariadb114.x86_64              3:11.4.12-1.amzn2023.0.1              amazonlinux",
+        "mariadb114.x86_64              3:11.4.13-1.amzn2023.0.1              amazonlinux"
     ]
 }

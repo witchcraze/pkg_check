@@ -15,8 +15,7 @@
         "Description": "Interactive high-level object-oriented language (version 3.13)"
     },
     "list": [
-        "python3.13/stable 3.13.5-2+deb13u5 amd64",
-        "python3.13/stable-updates 3.13.5-2+deb13u4 amd64"
+        "python3.13/stable 3.13.5-2+deb13u5 amd64"
     ],
     "changelog": [
         "python3.13 (3.13.5-2+deb13u5) trixie; urgency=medium",

@@ -17,12 +17,11 @@
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
         "Download-Size": "265 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/jammy-security 1:9.18.39-0ubuntu0.22.04.7 amd64",
-        "bind9/jammy-updates 1:9.18.39-0ubuntu0.22.04.6 amd64",
+        "bind9/jammy-updates,jammy-security 1:9.18.39-0ubuntu0.22.04.7 amd64",
         "bind9/jammy 1:9.18.1-1ubuntu1 amd64"
     ],
     "changelog": [

@@ -16,26 +16,5 @@
         "memcached.x86_64                     1.6.23-6.el10                     appstream",
         "memcached.x86_64                     1.6.23-7.el10                     appstream",
         "memcached.x86_64                     1.6.23-8.el10                     appstream"
-    ],
-    "kojiPackages": [
-        "memcached-1.6.23-8.el10",
-        "memcached-1.6.23-8.el10,draft_118878",
-        "memcached-1.6.23-8.el10,draft_91611",
-        "memcached-1.6.23-8.el10,draft_88413",
-        "memcached-1.6.23-8.el10,draft_88338",
-        "memcached-1.6.23-8.el10,draft_88320",
-        "memcached-1.6.23-7.el10",
-        "memcached-1.6.23-6.el10",
-        "memcached-1.6.23-5.el10",
-        "memcached-1.6.23-4.el10",
-        "memcached-1.6.23-3.el10",
-        "memcached-1.6.23-2.el10",
-        "memcached-1.6.23-2.el10+5",
-        "memcached-1.6.23-2.el10+4",
-        "memcached-1.6.23-2.el10+2",
-        "memcached-1.6.23-1.el10+2",
-        "memcached-1.6.22-1.el10+2",
-        "memcached-1.6.22-1.el10+1",
-        "memcached-1.6.21-2.el10+1"
     ]
 }

@@ -16,12 +16,11 @@
         "Homepage": "https://www.isc.org/downloads/bind/",
         "Task": "dns-server",
         "Download-Size": "259 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu resolute-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "Internet Domain Name Server"
     },
     "list": [
-        "bind9/resolute-security 1:9.20.24-1ubuntu0.4 amd64",
-        "bind9/resolute-updates 1:9.20.24-1ubuntu0.3 amd64",
+        "bind9/resolute-updates,resolute-security 1:9.20.24-1ubuntu0.4 amd64",
         "bind9/resolute 1:9.20.18-1ubuntu2 amd64"
     ],
     "changelog": [

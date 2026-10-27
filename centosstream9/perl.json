@@ -19,27 +19,5 @@
         "perl.x86_64                      4:5.32.1-481.el9                      appstream",
         "perl.x86_64                      4:5.32.1-483.el9                      appstream",
         "perl.x86_64                      4:5.32.1-484.el9                      appstream"
-    ],
-    "kojiPackages": [
-        "perl-5.32.1-484.el9",
-        "perl-5.32.1-484.el9,draft_128380",
-        "perl-5.32.1-484.el9,draft_128379",
-        "perl-5.32.1-484.el9,draft_128378",
-        "perl-5.32.1-484.el9,draft_125898",
-        "perl-5.32.1-484.el9,draft_117440",
-        "perl-5.32.1-485.el9,draft_106734",
-        "perl-5.32.1-484.el9,draft_99689",
-        "perl-5.32.1-483.el9",
-        "perl-5.32.1-482.el9",
-        "perl-5.32.1-481.el9",
-        "perl-5.32.1-480.el9",
-        "perl-5.32.1-479.el9",
-        "perl-5.32.1-478.el9",
-        "perl-5.32.1-477.el9",
-        "perl-5.32.1-476.el9",
-        "perl-5.32.1-475.el9",
-        "perl-5.32.1-474.el9",
-        "perl-5.32.1-473.el9",
-        "perl-5.32.1-471.el9"
     ]
 }

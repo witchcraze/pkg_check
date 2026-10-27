@@ -14,9 +14,5 @@
     "list": [
         "gcc-toolset-16.x86_64                   16.0-0.el10                    appstream",
         "gcc-toolset-16.x86_64                   16.0-1.el10                    appstream"
-    ],
-    "kojiPackages": [
-        "gcc-toolset-16-16.0-1.el10",
-        "gcc-toolset-16-16.0-0.el10"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "php8.4",
-        "Version": "8.4.24",
+        "Version": "8.4.27",
         "Release": "1.el10_2",
         "Architecture": "x86_64",
-        "Size": "15 k",
-        "Source": "php8.4-8.4.24-1.el10_2.src.rpm",
+        "Size": "14 k",
+        "Source": "php8.4-8.4.27-1.el10_2.src.rpm",
         "Repository": "rhel-10-for-x86_64-appstream-rpms",
         "Summary": "PHP scripting language for creating dynamic web sites",
         "URL": "http://www.php.net/",
@@ -16,6 +16,7 @@
         "php8.4.x86_64                                       8.4.16-1.el10                                          rhel-10-for-x86_64-appstream-rpms",
         "php8.4.x86_64                                       8.4.21-1.el10_2                                        rhel-10-for-x86_64-appstream-rpms",
         "php8.4.x86_64                                       8.4.23-1.el10_2                                        rhel-10-for-x86_64-appstream-rpms",
-        "php8.4.x86_64                                       8.4.24-1.el10_2                                        rhel-10-for-x86_64-appstream-rpms"
+        "php8.4.x86_64                                       8.4.24-1.el10_2                                        rhel-10-for-x86_64-appstream-rpms",
+        "php8.4.x86_64                                       8.4.27-1.el10_2                                        rhel-10-for-x86_64-appstream-rpms"
     ]
 }

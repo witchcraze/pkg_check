@@ -18,24 +18,5 @@
         "vsftpd.x86_64                      3.0.5-10.el10                       appstream",
         "vsftpd.x86_64                      3.0.5-12.el10                       appstream",
         "vsftpd.x86_64                      3.0.5-13.el10                       appstream"
-    ],
-    "kojiPackages": [
-        "vsftpd-3.0.5-13.el10",
-        "vsftpd-3.0.5-13.el10,draft_125034",
-        "vsftpd-3.0.5-12.el10",
-        "vsftpd-3.0.5-11.el10,draft_92922",
-        "vsftpd-3.0.5-11.el10",
-        "vsftpd-3.0.5-11.el10,draft_92899",
-        "vsftpd-3.0.5-11.el10,draft_88370",
-        "vsftpd-3.0.5-10.el10",
-        "vsftpd-3.0.5-9.el10",
-        "vsftpd-3.0.5-8.el10",
-        "vsftpd-3.0.5-7.el10",
-        "vsftpd-3.0.5-6.el10",
-        "vsftpd-3.0.5-6.el10+5",
-        "vsftpd-3.0.5-6.el10+4",
-        "vsftpd-3.0.5-6.el10+2",
-        "vsftpd-3.0.5-5.el10+2",
-        "vsftpd-3.0.5-5.el10+1"
     ]
 }

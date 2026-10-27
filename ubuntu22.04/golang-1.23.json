@@ -12,12 +12,11 @@
         "Depends": "golang-1.23-doc (>= 1.23.1-1~22.04.3), golang-1.23-go (>= 1.23.1-1~22.04.3), golang-1.23-src (>= 1.23.1-1~22.04.3)",
         "Homepage": "https://go.dev/",
         "Download-Size": "5692 B",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages",
         "Description": "Go programming language compiler - metapackage"
     },
     "list": [
-        "golang-1.23/jammy-security 1.23.1-1~22.04.3 all",
-        "golang-1.23/jammy-updates 1.23.1-1~22.04.2 all"
+        "golang-1.23/jammy-updates,jammy-security 1.23.1-1~22.04.3 all"
     ],
     "changelog": [
         "golang-1.23 (1.23.1-1~22.04.3) jammy-security; urgency=medium",

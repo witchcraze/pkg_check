@@ -1,19 +1,208 @@
 {
     "centosstream": {
         "9": {
+            "openssl": [
+                "kojiPackages"
+            ],
+            "python3": [
+                "kojiPackages"
+            ],
+            "bind": [
+                "kojiPackages"
+            ],
+            "bind9.18": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
             "dotnet-sdk-11.0": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-6.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-7.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-8.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-9.0": [
+                "kojiPackages"
+            ],
+            "gcc": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-12": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-13": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-14": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-15": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-16": [
+                "kojiPackages"
+            ],
+            "golang": [
+                "kojiPackages"
+            ],
+            "grafana": [
+                "kojiPackages"
+            ],
+            "haproxy": [
+                "kojiPackages"
+            ],
+            "httpd": [
+                "kojiPackages"
+            ],
+            "java-1.8.0-openjdk": [
+                "kojiPackages"
+            ],
+            "java-11-openjdk": [
+                "kojiPackages"
+            ],
+            "java-17-openjdk": [
+                "kojiPackages"
+            ],
+            "java-21-openjdk": [
+                "kojiPackages"
+            ],
+            "java-25-openjdk": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
             "mariadb-server": [
+                "kojiPackages"
+            ],
+            "memcached": [
+                "kojiPackages"
+            ],
+            "mysql": [
                 "kojiPackages"
             ],
             "mysql-server": [
                 "kojiPackages"
             ],
+            "nginx": [
+                "kojiPackages"
+            ],
+            "nodejs": [
+                "kojiPackages"
+            ],
+            "perl": [
+                "kojiPackages"
+            ],
+            "php": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
             "postgresql-server": [
+                "kojiPackages"
+            ],
+            "python3.11": [
+                "kojiPackages"
+            ],
+            "python3.12": [
+                "kojiPackages"
+            ],
+            "python3.14": [
+                "kojiPackages"
+            ],
+            "redis": [
+                "kojiPackages"
+            ],
+            "ruby": [
+                "kojiPackages"
+            ],
+            "squid": [
+                "kojiPackages"
+            ],
+            "tomcat": [
+                "kojiPackages"
+            ],
+            "valkey": [
+                "kojiPackages"
+            ],
+            "varnish": [
+                "kojiPackages"
+            ],
+            "vsftpd": [
+                "kojiPackages"
+            ],
+            "mariadb10.11": [
+                "kojiPackages"
+            ],
+            "mariadb11.8": [
+                "kojiPackages"
+            ],
+            "mysql8.4": [
+                "kojiPackages"
+            ],
+            "nginx1.22": [
+                "kojiPackages"
+            ],
+            "nginx1.24": [
+                "kojiPackages"
+            ],
+            "nginx1.26": [
+                "kojiPackages"
+            ],
+            "nodejs18": [
+                "kojiPackages"
+            ],
+            "nodejs20": [
+                "kojiPackages"
+            ],
+            "nodejs22": [
+                "kojiPackages"
+            ],
+            "nodejs24": [
+                "kojiPackages"
+            ],
+            "nodejs26": [
+                "kojiPackages"
+            ],
+            "php8.1": [
+                "kojiPackages"
+            ],
+            "php8.2": [
+                "kojiPackages"
+            ],
+            "php8.3": [
+                "kojiPackages"
+            ],
+            "php8.4": [
+                "kojiPackages"
+            ],
+            "postgresql15": [
+                "kojiPackages"
+            ],
+            "postgresql16": [
+                "kojiPackages"
+            ],
+            "postgresql18": [
+                "kojiPackages"
+            ],
+            "redis7": [
+                "kojiPackages"
+            ],
+            "ruby3.1": [
+                "kojiPackages"
+            ],
+            "ruby3.3": [
+                "kojiPackages"
+            ],
+            "ruby4.0": [
                 "kojiPackages"
             ]
         },
@@ -21,22 +210,127 @@
             "python3": [
                 "kojiPackages"
             ],
+            "bind": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
             "dotnet-sdk-11.0": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-8.0": [
+                "kojiPackages"
+            ],
+            "dotnet-sdk-9.0": [
+                "kojiPackages"
+            ],
+            "gcc": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-15": [
+                "kojiPackages"
+            ],
+            "gcc-toolset-16": [
+                "kojiPackages"
+            ],
+            "golang": [
+                "kojiPackages"
+            ],
+            "grafana": [
+                "kojiPackages"
+            ],
+            "haproxy": [
+                "kojiPackages"
+            ],
+            "httpd": [
+                "kojiPackages"
+            ],
+            "java-21-openjdk": [
+                "kojiPackages"
+            ],
+            "java-25-openjdk": [
+                "kojiPackages"
+            ],
+            "mariadb": [
+                "kojiPackages"
+            ],
             "mariadb-server": [
+                "kojiPackages"
+            ],
+            "mariadb11.8": [
+                "kojiPackages"
+            ],
+            "memcached": [
+                "kojiPackages"
+            ],
+            "mysql8.4": [
                 "kojiPackages"
             ],
             "mysql8.4-server": [
                 "kojiPackages"
             ],
+            "nginx": [
+                "kojiPackages"
+            ],
             "nodejs": [
                 "kojiPackages"
             ],
+            "nodejs24": [
+                "kojiPackages"
+            ],
+            "nodejs26": [
+                "kojiPackages"
+            ],
+            "openssl": [
+                "kojiPackages"
+            ],
+            "perl": [
+                "kojiPackages"
+            ],
+            "php": [
+                "kojiPackages"
+            ],
+            "php8.4": [
+                "kojiPackages"
+            ],
+            "postgresql": [
+                "kojiPackages"
+            ],
             "postgresql-server": [
+                "kojiPackages"
+            ],
+            "postgresql18": [
+                "kojiPackages"
+            ],
+            "postgresql19": [
+                "kojiPackages"
+            ],
+            "python3.14": [
+                "kojiPackages"
+            ],
+            "ruby": [
+                "kojiPackages"
+            ],
+            "ruby4.0": [
+                "kojiPackages"
+            ],
+            "squid": [
+                "kojiPackages"
+            ],
+            "tomcat": [
+                "kojiPackages"
+            ],
+            "tomcat9": [
+                "kojiPackages"
+            ],
+            "valkey": [
+                "kojiPackages"
+            ],
+            "varnish": [
+                "kojiPackages"
+            ],
+            "vsftpd": [
                 "kojiPackages"
             ]
         }
@@ -940,6 +1234,9 @@
             "dotnet-sdk-10.0": [
                 "kojiPackages"
             ],
+            "dotnet-sdk-11.0": [
+                "kojiPackages"
+            ],
             "dotnet-sdk-8.0": [
                 "kojiPackages"
             ],
@@ -1049,6 +1346,9 @@
                 "kojiPackages"
             ],
             "python3.15": [
+                "kojiPackages"
+            ],
+            "python3.16": [
                 "kojiPackages"
             ],
             "python3.6": [

@@ -1,11 +1,11 @@
 {
     "info": {
         "Name": "dotnet-sdk-11.0",
-        "Version": "11.0.100~preview.6.26359.118",
-        "Release": "0.7.el10",
+        "Version": "11.0.100~rc.2.26504.105",
+        "Release": "0.10.el10",
         "Architecture": "x86_64",
-        "Size": "108 M",
-        "Source": "dotnet11.0-11.0.100~preview.6.26359.118-0.7.el10.src.rpm",
+        "Size": "123 M",
+        "Source": "dotnet11.0-11.0.100~rc.2.26504.105-0.10.el10.src.rpm",
         "Repository": "appstream",
         "Summary": ".NET 11.0 Software Development Kit",
         "URL": "https://github.com/dotnet/",
@@ -13,6 +13,7 @@
         "Description": "The .NET SDK is a collection of command line applications to"
     },
     "list": [
-        "dotnet-sdk-11.0.x86_64      11.0.100~preview.6.26359.118-0.7.el10      appstream"
+        "dotnet-sdk-11.0.x86_64      11.0.100~preview.6.26359.118-0.7.el10      appstream",
+        "dotnet-sdk-11.0.x86_64      11.0.100~rc.2.26504.105-0.10.el10          appstream"
     ]
 }

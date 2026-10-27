@@ -3,10 +3,10 @@
         "Name": "bind",
         "Epoch": "32",
         "Version": "9.16.23",
-        "Release": "40.el9_8.10",
+        "Release": "40.el9_8.12",
         "Architecture": "x86_64",
         "Size": "512 k",
-        "Source": "bind-9.16.23-40.el9_8.10.src.rpm",
+        "Source": "bind-9.16.23-40.el9_8.12.src.rpm",
         "Repository": "rhel-9-for-x86_64-appstream-rpms",
         "Summary": "The Berkeley Internet Name Domain (BIND) DNS (Domain Name System) server",
         "URL": "https://www.isc.org/downloads/bind/",
@@ -38,6 +38,7 @@
         "bind.x86_64                                     32:9.16.23-40.el9_8.2                                       rhel-9-for-x86_64-appstream-rpms",
         "bind.x86_64                                     32:9.16.23-40.el9_8.8                                       rhel-9-for-x86_64-appstream-rpms",
         "bind.x86_64                                     32:9.16.23-40.el9_8.9                                       rhel-9-for-x86_64-appstream-rpms",
-        "bind.x86_64                                     32:9.16.23-40.el9_8.10                                      rhel-9-for-x86_64-appstream-rpms"
+        "bind.x86_64                                     32:9.16.23-40.el9_8.10                                      rhel-9-for-x86_64-appstream-rpms",
+        "bind.x86_64                                     32:9.16.23-40.el9_8.12                                      rhel-9-for-x86_64-appstream-rpms"
     ]
 }

@@ -13,12 +13,11 @@
         "Recommends": "logrotate",
         "Homepage": "https://www.rabbitmq.com/",
         "Download-Size": "16.8 MB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu resolute-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages",
         "Description": "AMQP server written in Erlang"
     },
     "list": [
-        "rabbitmq-server/resolute-security 4.0.5-10ubuntu5.2 all",
-        "rabbitmq-server/resolute-updates 4.0.5-10ubuntu5.1 all",
+        "rabbitmq-server/resolute-updates,resolute-security 4.0.5-10ubuntu5.2 all",
         "rabbitmq-server/resolute 4.0.5-10ubuntu5 all"
     ],
     "changelog": [

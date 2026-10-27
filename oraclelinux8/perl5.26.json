@@ -3,7 +3,7 @@
         "Name": "perl",
         "Epoch": "4",
         "Version": "5.32.1",
-        "Release": "475.module+el8.10.0+91030+ba299e6e",
+        "Release": "475.module+el8.10.0+91074+a6f07696",
         "Architecture": "src",
         "Size": "12 M",
         "Source": "None",
@@ -61,6 +61,7 @@
         "perl.src                                    4:5.32.1-473.module+el8.10.0+90354+a7e78d72                                  ol8_appstream",
         "perl.src                                    4:5.32.1-474.module+el8.10.0+90876+9a50c25b                                  ol8_appstream",
         "perl.src                                    4:5.32.1-474.module+el8.10.0+90933+61492164                                  ol8_appstream",
-        "perl.src                                    4:5.32.1-475.module+el8.10.0+91030+ba299e6e                                  ol8_appstream"
+        "perl.src                                    4:5.32.1-475.module+el8.10.0+91030+ba299e6e                                  ol8_appstream",
+        "perl.src                                    4:5.32.1-475.module+el8.10.0+91074+a6f07696                                  ol8_appstream"
     ]
 }

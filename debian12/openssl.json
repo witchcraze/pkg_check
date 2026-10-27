@@ -1,11 +1,11 @@
 {
     "show": {
         "Package": "openssl",
-        "Version": "3.0.22-1~deb12u1",
+        "Version": "3.0.22-1~deb12u2",
         "Priority": "optional",
         "Section": "utils",
         "Maintainer": "Debian OpenSSL Team <pkg-openssl-devel@alioth-lists.debian.net>",
-        "Installed-Size": "2370 kB",
+        "Installed-Size": "2371 kB",
         "Depends": "libc6 (>= 2.34), libssl3 (>= 3.0.9)",
         "Suggests": "ca-certificates",
         "Homepage": "https://www.openssl.org/",
@@ -15,11 +15,12 @@
         "Description": "Secure Sockets Layer toolkit - cryptographic utility"
     },
     "list": [
-        "openssl/oldstable-security,now 3.0.22-1~deb12u1 amd64 [installed,automatic]",
+        "openssl/oldstable-security,now 3.0.22-1~deb12u2 amd64 [installed,automatic]",
         "openssl/oldstable 3.0.20-1~deb12u2 amd64",
         "openssl/oldstable-updates 3.0.17-1~deb12u2 amd64"
     ],
     "changelog": [
+        "openssl (3.0.22-1~deb12u2) bookworm-security; urgency=high",
         "openssl (3.0.22-1~deb12u1) bookworm-security; urgency=medium",
         "openssl (3.0.20-1~deb12u2) bookworm-security; urgency=medium",
         "openssl (3.0.20-1~deb12u1) bookworm; urgency=medium",

@@ -2,12 +2,12 @@
     "info": {
         "Name": "haproxy",
         "Epoch": "0",
-        "Version": "3.0.29",
+        "Version": "3.0.30",
         "Release": "1.fc43",
         "Architecture": "x86_64",
         "Download size": "2.7 MiB",
         "Installed size": "8.3 MiB",
-        "Source": "haproxy-3.0.29-1.fc43.src.rpm",
+        "Source": "haproxy-3.0.30-1.fc43.src.rpm",
         "Repository": "updates",
         "Summary": "Reliable, high-performance TCP/HTTP load-balancing reverse proxy",
         "URL": "https://www.haproxy.org/",
@@ -17,6 +17,6 @@
     },
     "list": [
         "haproxy.x86_64 3.0.5-4.fc43  fedora",
-        "haproxy.x86_64 3.0.29-1.fc43 updates"
+        "haproxy.x86_64 3.0.30-1.fc43 updates"
     ]
 }

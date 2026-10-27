@@ -17,12 +17,11 @@
         "Homepage": "https://httpd.apache.org/",
         "Task": "lamp-server",
         "Download-Size": "90.2 kB",
-        "APT-Sources": "http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages",
+        "APT-Sources": "http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages",
         "Description": "Apache HTTP Server"
     },
     "list": [
-        "apache2/noble-security 2.4.58-1ubuntu8.17 amd64",
-        "apache2/noble-updates 2.4.58-1ubuntu8.16 amd64",
+        "apache2/noble-updates,noble-security 2.4.58-1ubuntu8.17 amd64",
         "apache2/noble 2.4.58-1ubuntu8 amd64"
     ],
     "changelog": [

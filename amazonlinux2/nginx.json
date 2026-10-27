@@ -3,7 +3,7 @@
         "Name": "nginx",
         "Arch": "x86_64",
         "Epoch": "1",
-        "Version": "1.30.5",
+        "Version": "1.30.6",
         "Release": "1.amzn2.0.1",
         "Size": "52 k",
         "Repo": "amzn2extra-nginx1/2/x86_64",
@@ -36,6 +36,7 @@
         "nginx.x86_64                                             1:1.30.2-1.amzn2.0.1                                              amzn2extra-nginx1",
         "nginx.x86_64                                             1:1.30.3-1.amzn2.0.1                                              amzn2extra-nginx1",
         "nginx.x86_64                                             1:1.30.4-1.amzn2.0.1                                              amzn2extra-nginx1",
-        "nginx.x86_64                                             1:1.30.5-1.amzn2.0.1                                              amzn2extra-nginx1"
+        "nginx.x86_64                                             1:1.30.5-1.amzn2.0.1                                              amzn2extra-nginx1",
+        "nginx.x86_64                                             1:1.30.6-1.amzn2.0.1                                              amzn2extra-nginx1"
     ]
 }

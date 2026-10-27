@@ -14,11 +14,5 @@
     },
     "list": [
         "postgresql19.x86_64                   19beta4-1.el10                   appstream"
-    ],
-    "kojiPackages": [
-        "postgresql19-19beta4-1.el10",
-        "postgresql19-19beta4-1.el10,draft_131797",
-        "postgresql19-19beta4-1.el10,draft_131698",
-        "postgresql19-19beta4-1.el10,draft_131691"
     ]
 }

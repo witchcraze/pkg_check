@@ -2,11 +2,11 @@
     "info": {
         "Name": "java-25-amazon-corretto",
         "Epoch": "1",
-        "Version": "25.0.4+8",
+        "Version": "25.0.4+11",
         "Release": "1.amzn2023.1",
         "Architecture": "x86_64",
         "Size": "209 k",
-        "Source": "java-25-amazon-corretto-25.0.4+8-1.amzn2023.1.src.rpm",
+        "Source": "java-25-amazon-corretto-25.0.4+11-1.amzn2023.1.src.rpm",
         "Repository": "amazonlinux",
         "Summary": "Amazon Corretto development environment",
         "URL": "https://github.com/corretto/corretto-25",
@@ -20,6 +20,8 @@
         "java-25-amazon-corretto.x86_64       1:25.0.2+10-1.amzn2023.1        amazonlinux",
         "java-25-amazon-corretto.x86_64       1:25.0.3+9-1.amzn2023.1         amazonlinux",
         "java-25-amazon-corretto.x86_64       1:25.0.4+7-1.amzn2023.1         amazonlinux",
-        "java-25-amazon-corretto.x86_64       1:25.0.4+8-1.amzn2023.1         amazonlinux"
+        "java-25-amazon-corretto.x86_64       1:25.0.4+8-1.amzn2023.1         amazonlinux",
+        "java-25-amazon-corretto.x86_64       1:25.0.4+10-1.amzn2023.1        amazonlinux",
+        "java-25-amazon-corretto.x86_64       1:25.0.4+11-1.amzn2023.1        amazonlinux"
     ]
 }

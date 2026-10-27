@@ -18,25 +18,5 @@
         "varnish.x86_64                      7.6.1-2.el10                       appstream",
         "varnish.x86_64                      7.6.1-4.el10                       appstream",
         "varnish.x86_64                      7.6.1-5.el10                       appstream"
-    ],
-    "kojiPackages": [
-        "varnish-7.6.1-5.el10",
-        "varnish-7.6.1-5.el10,draft_87990",
-        "varnish-7.6.1-5.el10,draft_85172",
-        "varnish-7.6.1-4.el10",
-        "varnish-7.6.1-2.el10",
-        "varnish-7.6.1-1.el10",
-        "varnish-7.6.0-3.el10",
-        "varnish-7.6.0-2.el10",
-        "varnish-7.4.2-5.el10",
-        "varnish-7.4.2-4.el10",
-        "varnish-7.4.2-3.el10",
-        "varnish-7.4.2-2.el10",
-        "varnish-7.4.2-2.el10+5",
-        "varnish-7.4.2-2.el10+4",
-        "varnish-7.4.2-2.el10+3",
-        "varnish-7.4.2-1.el10+2",
-        "varnish-7.4.2-1.el10+1",
-        "varnish-7.3.0-4.el10+1"
     ]
 }
